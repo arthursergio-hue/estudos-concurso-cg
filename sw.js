@@ -17,13 +17,13 @@ self.addEventListener('fetch', e => {
   if (/\/data\/provas\//.test(u.pathname)) {
     e.respondWith(caches.open(CACHE).then(async ca => {
       const salvo = await ca.match(e.request, { ignoreSearch: true });
-      const rede = fetch(e.request).then(r => { if (r.ok) ca.put(e.request, r.clone()); return r; }).catch(() => salvo);
+      const rede = fetch(e.request, { cache: 'no-cache' }).then(r => { if (r.ok) ca.put(e.request, r.clone()); return r; }).catch(() => salvo);
       return salvo || rede;
     }));
     return;
   }
   e.respondWith(
-    fetch(e.request).then(r => {
+    fetch(e.request, { cache: 'no-cache' }).then(r => {
       if (r.ok) { const c = r.clone(); caches.open(CACHE).then(ca => ca.put(e.request, c)); }
       return r;
     }).catch(() => caches.match(e.request, { ignoreSearch: true }).then(r => r || caches.match('index.html')))
