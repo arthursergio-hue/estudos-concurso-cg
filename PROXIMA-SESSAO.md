@@ -41,7 +41,9 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - [x] Conferido no navegador (porta 8091, `.claude/launch.json`): aulas, vídeos, questões, plano e provas carregam.
 - [ ] Conhecimentos Gerais (sessão B): em 28/10 às 20h30 os arquivos `data/disciplinas|questoes/{portugues,
   informatica,legislacao-etica,historia-cg}.json` ainda não existiam (404 no site).
-- [ ] Publicação no GitHub Pages (sessão B) e instalação da tarefa agendada do pop-up. Pôr a URL no README.
+- [x] Publicação no GitHub Pages (28/10): https://arthursergio-hue.github.io/estudos-concurso-cg/ (URL no README).
+  `data/provas/` (provas transcritas) ficou fora do primeiro commit: o Arthur ainda decide se vai para o repositório público.
+- [ ] Instalação da tarefa agendada do pop-up.
 - [x] O Arthur confirmou (28/10/2026): questões reais podem entrar no site com crédito completo. Regra atualizada
   no `CLAUDE.md`.
 - [ ] Revisão independente das 230 questões de Específicas feita pela sessão B: aplicar as correções confirmadas

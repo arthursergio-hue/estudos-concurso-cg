@@ -8,6 +8,10 @@ Plataforma de estudos para o concurso da Prefeitura de Campina Grande/PB (Edital
 **Inspetor Sanitário – Hab. Arquiteto**. Prova objetiva em **10/01/2027 (domingo), à tarde**: 40 questões A–D,
 Específicas valem 40 dos 60 pontos. Resumo completo do edital em [references/edital-resumo.md](references/edital-resumo.md).
 
+**Abrir no celular ou no PC:** https://arthursergio-hue.github.io/estudos-concurso-cg/ (repositório
+[arthursergio-hue/estudos-concurso-cg](https://github.com/arthursergio-hue/estudos-concurso-cg), GitHub Pages da `main`;
+cada push publica sozinho em 1 a 2 minutos).
+
 Tem três partes:
 
 1. **Site** (abre no PC e no celular, funciona offline e pode ser instalado como app):
