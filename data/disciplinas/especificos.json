@@ -1,0 +1,1231 @@
+{
+ "id": "especificos",
+ "nome": "Conhecimentos Específicos — Inspetor Sanitário (Arquiteto)",
+ "questoesNaProva": 20,
+ "peso": 2,
+ "nota": "Vale 40 dos 60 pontos. Mínimo de 2 pontos (1 questão) para não ser eliminado, mas é aqui que a vaga se decide.",
+ "assuntos": [
+  {
+   "id": "acessibilidade",
+   "nome": "Acessibilidade: NBR 9050, Decreto 5.296/2004 e LBI",
+   "edital": "Projeto de Arquitetura: acessibilidade em edifícios (ABNT NBR 9050 e Decreto nº 5.296/2004); acessibilidade e ABNT NBR 9050 (eixo comum).",
+   "resumo": "**O que mais cai (decore os números):**\n- Módulo de referência (cadeira de rodas): **0,80 × 1,20 m**.\n- Giro: 90° = 1,20 × 1,20 m; 180° = 1,50 × 1,20 m; **360° = círculo de 1,50 m**.\n- Rampa: inclinação máxima **8,33% (1:12)**; i = h × 100 / c. Largura recomendável 1,50 m, mínima 1,20 m. Inclinação transversal até 2% (interna) e 3% (externa).\n- Corrimão em **duas alturas: 0,92 m e 0,70 m**, prolongado **0,30 m** nas extremidades.\n- Escada: **0,63 ≤ p + 2e ≤ 0,65 m**; piso 0,28 a 0,32 m; espelho 0,16 a 0,18 m.\n- Porta: vão livre mínimo **0,80 m** × 2,10 m; maçaneta tipo alavanca entre 0,80 e 1,10 m.\n- Bacia sanitária: altura **0,43 a 0,45 m** (sem assento); barras de apoio a **0,75 m** do piso.\n- Desníveis: até 5 mm, nada; de 5 a 20 mm, chanfro 1:2 (50%); acima de 20 mm, é degrau (rampa ou escada).\n- Calçada: faixa livre mínima **1,20 m** (recomendável 1,50 m), altura livre 2,10 m, inclinação transversal até 3%.\n- Piso tátil: **alerta** (perigo, mudança de direção) × **direcional** (indica o caminho).\n\n**Decreto 5.296/2004** (regulamenta as Leis 10.048 e 10.098/2000): define edificação de uso **público** (administração pública), **coletivo** (comércio, serviços, saúde, educação…) e **privado** (habitação). Estacionamento: **2% das vagas** para pessoa com deficiência, no mínimo 1. Sanitário acessível: em edificação de uso público nova, no mínimo uma cabine por sexo em cada pavimento, com entrada independente.\n\n**LBI (Lei 13.146/2015):** acessibilidade é condição de aprovação de projeto; idosos têm 5% das vagas (Estatuto do Idoso).\n\n**Pegadinhas da IDECAN:** trocar 0,92/0,70 por 0,90/0,75; dizer que corrimão é dispensável em rampa curta; confundir área de giro de 180° com 360°.",
+   "leituras": [
+    {
+     "titulo": "Decreto nº 5.296/2004 (texto compilado)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm",
+     "gratuito": true,
+     "nota": "Ler arts. 8º (definições), 10 a 25 (edificações, sanitários, vagas)."
+    },
+    {
+     "titulo": "Lei nº 10.098/2000 (normas gerais de acessibilidade)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l10098.htm",
+     "gratuito": true,
+     "nota": "Lei curta: ler inteira."
+    },
+    {
+     "titulo": "Lei Brasileira de Inclusão (Lei nº 13.146/2015)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+     "gratuito": true,
+     "nota": "Arts. 3º (definições) e 53 a 62 (acessibilidade)."
+    },
+    {
+     "titulo": "ABNT NBR 9050:2020 — página da CBIC sobre a emenda e o acesso à norma",
+     "tipo": "norma",
+     "url": "https://cbic.org.br/inovacao/2020/08/05/abnt-publica-emenda-da-norma-de-acessibilidade-a-edificacoes-2/",
+     "gratuito": true,
+     "nota": "A NBR 9050 tem acesso gratuito para leitura por cadastro (CBIC/Coleção ABNT). Focar nos capítulos 4 (parâmetros antropométricos), 6 (acessos e circulação) e 7 (sanitários)."
+    },
+    {
+     "titulo": "Normas técnicas de acessibilidade — Prefeitura de São Paulo (CPA)",
+     "tipo": "site",
+     "url": "https://prefeitura.sp.gov.br/web/pessoa_com_deficiencia/cpa/normas_tecnicas",
+     "gratuito": true,
+     "nota": "Lista oficial das normas de acessibilidade com os caminhos de acesso gratuito."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "NBR 9050/2020: As questões mais cobradas em provas de arquitetura depois da atualização da norma!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "tOB9D27t9Ok",
+     "duracao": "18:55"
+    },
+    {
+     "titulo": "NBR 9050: QUANTIDADE MÍNIMA DE SANITÁRIOS ACESSÍVEIS NA EDIFICAÇÃO!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "Y1OOX8CngAc",
+     "duracao": "16:42"
+    },
+    {
+     "titulo": "ABNT NBR 9050:2015 | Banheiro, Sanitário e Vestiário",
+     "canal": "Daniel Severino",
+     "youtubeId": "gFK_nwbRccM",
+     "duracao": "15:41"
+    },
+    {
+     "titulo": "Respondendo questões da NBR 9050/2020: Norma de acessibilidade nas edificações!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "efAhJf068VY",
+     "duracao": "12:00"
+    }
+   ]
+  },
+  {
+   "id": "projeto-etapas-representacao",
+   "nome": "Projeto de arquitetura: etapas, partido e leitura de projetos (planta baixa, cortes, escalas)",
+   "edital": "Metodologias empregadas no projeto arquitetônico; o partido arquitetônico e suas condicionantes; etapas do projeto; leitura e interpretação de projetos; análise e aprovação de projetos.",
+   "resumo": "**Etapas (NBR 16636-2, projeto arquitetônico):** levantamento de dados → programa de necessidades → estudo de viabilidade → **estudo preliminar** → **anteprojeto** → projeto legal → (projeto básico, quando exigido) → **projeto para execução**. Estudo preliminar = concepção e partido; anteprojeto = solução definida para compatibilizar com as outras disciplinas; projeto legal = o que vai para aprovação na prefeitura e nos órgãos (inclusive a Vigilância Sanitária).\n\n**Partido arquitetônico:** a ideia que organiza o projeto, resultado das **condicionantes**: programa, terreno (topografia, orientação solar, ventos), legislação (índices, recuos), técnica construtiva, custo e clima.\n\n**Lei 14.133/2021 (art. 6º):** anteprojeto (base para contratação integrada) → projeto básico (elementos para caracterizar e orçar a obra) → projeto executivo (detalhamento completo para executar).\n\n**Representação (NBR 6492 e NBR 16752):**\n- **Planta baixa:** corte horizontal imaginário a cerca de **1,50 m do piso**, visto de cima. O que é cortado tem traço mais grosso; o que está acima do corte (beirais, projeções) vai tracejado.\n- **Corte:** plano vertical; indicado na planta pela linha de corte com setas do sentido de observação. Mostra pés-direitos, lajes, cotas de nível.\n- **Fachada (elevação):** vista externa, sem corte.\n- **Planta de situação** (lote na quadra) e **de locação** (edificação no lote, com recuos).\n- **Escala:** 1:50 → 1 cm no papel = 50 cm reais. Conta rápida: medida real = medida no desenho × denominador.\n- Formatos série A: A0 = 841 × 1189 mm (1 m²); cada formato seguinte é a metade do anterior (A4 = 210 × 297 mm).\n\n**Gestão da qualidade do processo de projeto:** coordenação e compatibilização entre disciplinas, verificação e validação, ciclo PDCA, análise crítica em cada etapa.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 14.133/2021, art. 6º (anteprojeto, projeto básico, projeto executivo)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+     "gratuito": true,
+     "nota": "Incisos XXIV, XXV e XXVI do art. 6º."
+    },
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas para contratação e fiscalização de obras de edificações públicas",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Capítulos sobre programa de necessidades, estudos de viabilidade e projeto básico."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "APRENDA A LER [PROJETO ARQUITETÔNICO] - PLANTAS BAIXAS - CORTES - FACHADAS - TUDO DE FORMA SIMPLES",
+     "canal": "Juan Inácio - Edificações & Design",
+     "youtubeId": "E5bfwutC2CI",
+     "duracao": "17:46"
+    },
+    {
+     "titulo": "como ler planta baixa, parte 2 corte A e corte B",
+     "canal": "Robson Fernando",
+     "youtubeId": "fXHfVB4RnR0",
+     "duracao": "6:56"
+    },
+    {
+     "titulo": "NBR 16636  - Aprendendo as ETAPAS DO PROJETO ARQUITETÔNICO para provas de Concursos!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "rpTsPCz1lUk",
+     "duracao": "22:50"
+    },
+    {
+     "titulo": "Conheça as etapas de projeto dentro da arquitetura | MUITO mais organizado",
+     "canal": "Projeto Jovem Arquiteto",
+     "youtubeId": "mtmyWXwTBm0",
+     "duracao": "15:54"
+    }
+   ]
+  },
+  {
+   "id": "circulacoes-saidas-emergencia",
+   "nome": "Circulações, escadas e saídas de emergência",
+   "edital": "Circulações; instalações de prevenção e combate a incêndio.",
+   "resumo": "**Circulações** podem ser horizontais (corredores, halls) e verticais (escadas, rampas, elevadores).\n\n**Corredores (NBR 9050):** até 4 m de extensão, 0,90 m; até 10 m, 1,20 m; acima de 10 m, 1,50 m. Uso público: 1,50 m.\n\n**Escada:** fórmula de Blondel **0,63 ≤ 2e + p ≤ 0,65 m**. Patamar sempre que houver mudança de direção e, no máximo, a cada **3,20 m de desnível**. Largura mínima de escada fixa em rota acessível: 1,20 m.\n\n**Saídas de emergência (NBR 9077):**\n- **Unidade de passagem (UP) = 0,55 m**.\n- Número de UP: **N = P / C** (população ÷ capacidade da unidade de passagem). Arredonda para cima.\n- Largura mínima em geral **1,10 m (2 UP)**; hospitais com passagem de macas (H-3): **2,20 m**.\n- Tipos de escada: não enclausurada (NE), enclausurada protegida (EP), à prova de fumaça (PF) e à prova de fumaça pressurizada (PFP).\n- Portas de saída abrem no sentido da fuga.\n\n**Nos EAS (RDC 50):** corredores de circulação de pacientes em macas com no mínimo **2,00 m**; portas de quartos e salas com macas, **1,10 m** de vão livre.\n\n**Pegadinha:** a IDECAN costuma dar a fórmula de Blondel com os limites trocados ou pedir o espelho de uma escada com piso conhecido (resolva a desigualdade).",
+   "leituras": [
+    {
+     "titulo": "Corpo de Bombeiros Militar da Paraíba (normas técnicas estaduais)",
+     "tipo": "site",
+     "url": "https://bombeiros.pb.gov.br/",
+     "gratuito": true,
+     "nota": "Na Paraíba, as normas técnicas do CBMPB complementam a NBR 9077."
+    },
+    {
+     "titulo": "RDC Anvisa nº 50/2002 — Parte III, circulações",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+     "gratuito": true,
+     "nota": "Item 4 (circulações externas e internas) da Parte III."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "NBR 9077: QUAIS SÃO OS TIPOS DE ESCADAS DE EMERGÊNCIA?",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "EeAOIR4rzuU",
+     "duracao": "20:17"
+    },
+    {
+     "titulo": "SAÍDAS DE EMERGÊNCIA Critérios para Dimensionamento - NBR 9077",
+     "canal": "Mentalidade BIM (Mentalidade BIM)",
+     "youtubeId": "imSTn4W1KFE",
+     "duracao": "15:01"
+    },
+    {
+     "titulo": "Resolvendo questões da NBR 9077/2001: Saídas de Emergência nas Edificações!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "C8MvcDgr0aA",
+     "duracao": "14:26"
+    },
+    {
+     "titulo": "CÁLCULO DE ESCADA DE FORMA SIMPLES USANDO A FÓRMULA DE BLONDEL",
+     "canal": "PROF. RICARDO - EAE",
+     "youtubeId": "XFBc2THy4sY",
+     "duracao": "4:33"
+    }
+   ]
+  },
+  {
+   "id": "conforto-ambiental",
+   "nome": "Conforto ambiental: térmico, lumínico e acústico",
+   "edital": "Conforto ambiental.",
+   "resumo": "**Térmico**\n- Variáveis: temperatura do ar, temperatura radiante, umidade e velocidade do ar (ambientais) + metabolismo e vestimenta (humanas).\n- **NBR 15220-3:** zoneamento bioclimático brasileiro em **8 zonas** (Z1 a mais fria, Z8 quente e úmida), com diretrizes para habitação de interesse social: tamanho das aberturas, sombreamento, tipo de parede e cobertura.\n- **Transmitância (U, W/m²K):** quanto menor, mais isolante. **Atraso térmico** e **capacidade térmica** medem a inércia.\n- Clima quente-úmido (litoral do Nordeste): ventilação cruzada, sombreamento, paredes leves. Clima quente-seco (semiárido): inércia térmica, ventilação noturna, pátios.\n- **Ventilação cruzada:** aberturas em fachadas opostas ou adjacentes (diferença de pressão do vento). **Efeito chaminé:** ar quente sobe; entrada baixa e saída alta.\n- **Brises:** fachada **norte** = brise **horizontal**; **leste e oeste** = brise **vertical** (ou misto), por causa do sol baixo.\n\n**Lumínico**\n- Iluminância em lux (lm/m²). Norma de iluminância de interiores: **NBR ISO/CIE 8995-1** (substituiu a NBR 5413).\n- Luz natural: fator de luz diurna, prateleira de luz, sheds e lanternins.\n\n**Acústico**\n- **Isolamento** (impedir a passagem do som: massa, estanqueidade, sistemas massa-mola-massa) ≠ **absorção** (reduzir a reflexão dentro do ambiente: materiais porosos).\n- **Lei da massa:** dobrar a massa da parede rende cerca de 6 dB a mais de isolamento.\n- Dois sons iguais somados: **+3 dB**.\n- **Tempo de reverberação (Sabine): T = 0,161 V / A** (V em m³, A em m² sabine).\n- NBR 10151 (ruído em áreas habitadas) e NBR 10152 (níveis de pressão sonora em ambientes internos).",
+   "leituras": [
+    {
+     "titulo": "Eficiência Energética na Arquitetura — Lamberts, Dutra e Pereira (LabEEE/UFSC, livro gratuito)",
+     "tipo": "livro",
+     "url": "https://labeee.ufsc.br/sites/default/files/apostilas/eficiencia_energetica_na_arquitetura.pdf",
+     "gratuito": true,
+     "nota": "Capítulos de clima, conforto térmico, estratégias bioclimáticas e iluminação natural. É o livro-base dessas questões."
+    },
+    {
+     "titulo": "Anvisa — Conforto ambiental em estabelecimentos assistenciais de saúde (2014)",
+     "tipo": "livro",
+     "url": "https://bibliotecadigital.anvisa.gov.br/jspui/bitstream/anvisa/1569/1/ANVISA_Conforto%20ambiental%20em%20estabelecimentos%20assistenciais%20de%20sa%c3%bade_1ed_2014.pdf",
+     "gratuito": true,
+     "nota": "Une conforto e saúde: é exatamente o olhar do Inspetor Sanitário."
+    },
+    {
+     "titulo": "Anvisa — Sistemas de controle das condições ambientais de conforto",
+     "tipo": "apostila",
+     "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/servicosdesaude/publicacoes/sistemas-de-controle-das-condicoes-ambientais-de-conforto.pdf",
+     "gratuito": true,
+     "nota": "Complementa a RDC 50 (condições ambientais de conforto)."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Conforto Termico - O que todo arquiteto precisa saber?",
+     "canal": "Consultoria com Marcelo Nudel",
+     "youtubeId": "CKbc7PtbTzU",
+     "duracao": "11:20"
+    },
+    {
+     "titulo": "Conforto Ambiental Arquitetura   Inércia Térmica Explicada",
+     "canal": "Consultoria com Marcelo Nudel",
+     "youtubeId": "aWT6bk9ifww",
+     "duracao": "13:26"
+    },
+    {
+     "titulo": "Arquitetura Bioclimática No Brasil | Arquitetura Sustentável adaptada ao clima | Conforto Ambiental",
+     "canal": "Consultoria com Marcelo Nudel",
+     "youtubeId": "coJdr4TBH18",
+     "duracao": "6:20"
+    },
+    {
+     "titulo": "Conforto Acústico | Propagação Do Som PARTE 1 | CP-CEM ARQ l Arquiteto",
+     "canal": "Concurseiro Zero1 ",
+     "youtubeId": "ImjJ23_DQJc",
+     "duracao": "24:33"
+    }
+   ]
+  },
+  {
+   "id": "desempenho-sustentabilidade",
+   "nome": "Desempenho (NBR 15575), eficiência energética e sustentabilidade",
+   "edital": "Sustentabilidade do projeto; gestão da qualidade do processo de projeto; eficiência energética e normas de desempenho.",
+   "resumo": "**NBR 15575 — Edificações habitacionais: desempenho** (6 partes: 1 requisitos gerais, 2 estrutura, 3 pisos, 4 vedações verticais, 5 coberturas, 6 sistemas hidrossanitários).\n- Vale para **edificações habitacionais**, de qualquer número de pavimentos.\n- Níveis: **Mínimo (M, obrigatório)**, Intermediário (I) e Superior (S).\n- Exigências do usuário: **segurança** (estrutural, contra fogo, uso e operação), **habitabilidade** (estanqueidade, desempenho térmico, acústico e lumínico, saúde e qualidade do ar, funcionalidade e acessibilidade, conforto tátil) e **sustentabilidade** (durabilidade, manutenibilidade, impacto ambiental).\n- **Vida útil de projeto (VUP) mínima:** estrutura **≥ 50 anos**; vedação vertical externa ≥ 40; cobertura ≥ 20; vedação interna ≥ 20; hidrossanitário ≥ 20; pisos internos ≥ 13.\n- Responsabilidades: projetista especifica, construtor executa, usuário faz a manutenção (manual de uso, operação e manutenção).\n\n**Eficiência energética:** PBE Edifica (Inmetro/Procel). A ENCE (etiqueta) vai de **A (mais eficiente) a E**. A INI-C avalia edificações comerciais, de serviços e públicas; a INI-R, residenciais. Prédios públicos federais novos devem buscar a classe A.\n\n**Sustentabilidade:** certificações LEED, AQUA-HQE, Selo Casa Azul (Caixa), EDGE; estratégias passivas, reuso de água, aproveitamento de água de chuva, materiais locais e de baixo impacto, gestão de resíduos de obra (Resolução CONAMA 307/2002).",
+   "leituras": [
+    {
+     "titulo": "PBE Edifica (Inmetro/Procel) — etiquetagem de edificações",
+     "tipo": "site",
+     "url": "https://pbeedifica.com.br/",
+     "gratuito": true,
+     "nota": "O que é a ENCE, INI-C e INI-R."
+    },
+    {
+     "titulo": "Eficiência Energética na Arquitetura (LabEEE, gratuito)",
+     "tipo": "livro",
+     "url": "https://labeee.ufsc.br/sites/default/files/apostilas/eficiencia_energetica_na_arquitetura.pdf",
+     "gratuito": true,
+     "nota": "Capítulo sobre eficiência energética e regulamentação."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "NORMA DE DESEMPENHO (NBR 15575): AS 10 QUESTÕES MAIS COBRADAS EM CONCURSOS",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "_5ySGO6u_ow",
+     "duracao": "14:33"
+    },
+    {
+     "titulo": "Norma de Desempenho ABNT NBR 15575 - Parte 1",
+     "canal": "Projelet",
+     "youtubeId": "6giOoFLdIyo",
+     "duracao": "4:50"
+    },
+    {
+     "titulo": "Etiqueta PBE Edifica (Etiqueta Procel) - Entenda o que é e como funciona",
+     "canal": "SomosQuali-A",
+     "youtubeId": "SLhn83rdsk4",
+     "duracao": "5:13"
+    }
+   ]
+  },
+  {
+   "id": "canteiro-servicos-preliminares",
+   "nome": "Serviços preliminares, canteiro de obras e terraplenagem",
+   "edital": "Técnicas Construtivas: serviços preliminares; canteiro de obras; terraplenagens.",
+   "resumo": "**Serviços preliminares:** levantamento topográfico e sondagem, limpeza do terreno, demolições, tapume, ligações provisórias de água e energia, barracão e **locação da obra**.\n- **Locação:** transfere o projeto para o terreno. O método mais comum é o **gabarito (tabeira)**: tábuas niveladas em volta da obra, com pregos marcando os eixos e linhas esticadas; esquadro conferido pelo triângulo 3-4-5.\n\n**Canteiro (NR-18 e NBR 12284):** áreas operacionais (central de concreto, armação, carpintaria, estoque) e **áreas de vivência**: instalações sanitárias, vestiário, local de refeições; alojamento, lavanderia e área de lazer só quando há trabalhadores alojados. Instalação sanitária: 1 conjunto (lavatório, bacia, mictório) para cada **20 trabalhadores**; chuveiro 1 para cada **10**.\n\n**Terraplenagem:** corte, aterro, compactação. **Empolamento:** o solo escavado aumenta de volume (fica solto), por isso o volume transportado é maior que o medido no corte. **Contração:** o aterro compactado ocupa menos volume que o solo solto. Ensaio de compactação: **Proctor**. Diagrama de Brückner (massas) para equilibrar cortes e aterros; bota-fora e empréstimo quando não equilibra.",
+   "leituras": [
+    {
+     "titulo": "NR-18 — Segurança e saúde no trabalho na indústria da construção",
+     "tipo": "norma",
+     "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-18-nr-18",
+     "gratuito": true,
+     "nota": "Itens de áreas de vivência e de escavações."
+    },
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas (serviços preliminares e fiscalização)",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Parte de execução e fiscalização da obra."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "EP 15 - EXECUÇÃO DE SERVIÇOS PRELIMINARES, CANTEIRO DE OBRAS E INSTALAÇÕES PROVISÓRIAS",
+     "canal": "CANAL SINDUSCON CE",
+     "youtubeId": "RA4taxkGebA",
+     "duracao": "23:26"
+    },
+    {
+     "titulo": "Como montar o Gabarito de Obra (Parede no esquadro)",
+     "canal": "Engenharia Ativa",
+     "youtubeId": "aX6cA5EFwKA",
+     "duracao": "8:19"
+    },
+    {
+     "titulo": "ENGENHARIA TOPOGRAFIA AGRIMENSURA TERRAPLENAGEM Corte e Aterro Empolamento e Compactação",
+     "canal": "PS Videoaulas Engenharia | Prof. PS CARVALHO",
+     "youtubeId": "ozo11olOpC4",
+     "duracao": "9:00"
+    }
+   ]
+  },
+  {
+   "id": "fundacoes",
+   "nome": "Fundações e sondagem do solo",
+   "edital": "Técnicas Construtivas: fundações.",
+   "resumo": "**NBR 6122 (projeto e execução de fundações):**\n- **Rasa (direta, superficial):** a carga vai ao solo pela base; assentada a profundidade **inferior a 2 vezes a menor dimensão** da fundação. Tipos: **sapata** (concreto armado; a armadura resiste à tração), **bloco** (concreto simples, sem armadura, trabalha à compressão), **sapata corrida**, **sapata associada** e **radier** (laje que recebe vários ou todos os pilares).\n- **Profunda:** transmite carga pela ponta e/ou pelo atrito lateral (fuste); ponta a mais de **8 vezes a menor dimensão** e **no mínimo 3 m**. Tipos: **estacas** (pré-moldada de concreto, metálica, Strauss, Franki, hélice contínua, raiz, escavada) e **tubulão** (a céu aberto ou a ar comprimido, com base alargada).\n- Sapata ou bloco: dimensão mínima em planta de **60 cm**. Nas divisas com terreno vizinho, profundidade mínima de **1,5 m** (salvo rocha).\n\n**Sondagem SPT (NBR 6484):** amostrador padrão cravado por martelo de **65 kg** caindo de **75 cm**. **N(SPT)** = número de golpes para cravar os **últimos 30 cm** dos 45 cm de cada metro. Também informa o nível d'água e o tipo de solo.\n\n**Escolha:** solo bom e raso → sapata ou radier; solo fraco na superfície → estacas; vizinhos sensíveis a vibração → evitar estaca cravada (Franki), preferir hélice contínua ou escavada.",
+   "leituras": [
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas (projeto de fundações)",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Exigência de sondagem e de projeto de fundações no projeto básico."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "TIPOS DE FUNDAÇÕES. Saiba tudo sobre fundações rasas e profundas",
+     "canal": "RV Engenharia Civil",
+     "youtubeId": "lCULdBIQbYE",
+     "duracao": "14:11"
+    },
+    {
+     "titulo": "DIFERENÇAS FUNDAÇÃO RASA E PROFUNDA I Sapatas, radier, bloco, tubulão e EXEMPLOS",
+     "canal": "Estruturas & BIM - Eng. Pedro ",
+     "youtubeId": "BZfXOIOEnMI",
+     "duracao": "8:40"
+    },
+    {
+     "titulo": "SONDAGEM SPT - O que É e Como é realizada?",
+     "canal": "Bússola do Engenheiro",
+     "youtubeId": "Mv3AiTQ_LgU",
+     "duracao": "7:54"
+    },
+    {
+     "titulo": "Como analisar Laudo de Sondagem (SPT)",
+     "canal": "Eng Daniel Arruda",
+     "youtubeId": "UDeqrf6urus",
+     "duracao": "8:10"
+    }
+   ]
+  },
+  {
+   "id": "estruturas",
+   "nome": "Estruturas: concreto armado, metálicas, pré-moldadas, madeira e alvenaria estrutural",
+   "edital": "Estruturas de concreto armado, metálicas, pré-moldadas e de madeira; alvenaria estrutural.",
+   "resumo": "**Concreto armado (NBR 6118):**\n- **Classes de agressividade ambiental (CAA):** I fraca (rural, submersa); II moderada (urbana); III forte (marinha, industrial); IV muito forte (industrial química, respingos de maré).\n- **Cobrimento nominal** (laje / viga e pilar): CAA I 20/25 mm; **CAA II 25/30 mm**; CAA III 35/40 mm; CAA IV 45/50 mm.\n- Relação água/cimento máxima: I 0,65; II 0,60; III 0,55; IV 0,45. Concreto mínimo: C20, C25, C30, C40.\n- **fck** = resistência característica à compressão aos 28 dias. Aço **CA-50** (barras nervuradas, fyk = 500 MPa) e **CA-60** (fios).\n- Pilar: menor dimensão de 19 cm (14 cm com coeficiente adicional), área mínima 360 cm². Laje maciça de piso: mínimo 8 cm; em balanço, 10 cm.\n\n**Aço:** NBR 8800 (perfis laminados e soldados) e NBR 14762 (perfis formados a frio, como no **light steel frame**). Ligações parafusadas ou soldadas; proteção contra corrosão (galvanização, pintura) e contra fogo.\n\n**Pré-moldados (NBR 9062):** produzidos fora do local definitivo; ganho de prazo e controle; atenção às ligações e ao transporte e içamento.\n\n**Madeira (NBR 7190):** propriedades referidas à umidade de **12%**; classes de resistência para coníferas e folhosas.\n\n**Alvenaria estrutural (NBR 16868):** as paredes são a estrutura. Blocos de concreto ou cerâmicos com furos verticais, **graute** nos pontos reforçados, modulação obrigatória. **Não se remove parede** em reforma sem projeto estrutural: é ponto clássico de fiscalização.",
+   "leituras": [
+    {
+     "titulo": "Eficiência Energética na Arquitetura (LabEEE) — materiais e envoltória",
+     "tipo": "livro",
+     "url": "https://labeee.ufsc.br/sites/default/files/apostilas/eficiencia_energetica_na_arquitetura.pdf",
+     "gratuito": true,
+     "nota": "Opcional: relação entre sistema construtivo e desempenho térmico."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Classes de Agressividade Ambiental de acordo com a NBR 6118/2014",
+     "canal": "Marcelo Figueiredo",
+     "youtubeId": "qnYpRZOiPcc",
+     "duracao": "19:36"
+    },
+    {
+     "titulo": "Mudanças da NBR 6118 que você PRECISA conhecer",
+     "canal": "AltoQi",
+     "youtubeId": "asY9cVi7GHk",
+     "duracao": "25:45"
+    },
+    {
+     "titulo": "ALVENARIA ESTRUTURAL: TUDO O QUE VOCÊ PRECISA SABER!",
+     "canal": "Eng. Jonatan Oliveira",
+     "youtubeId": "R_GlhrM9qLI",
+     "duracao": "11:02"
+    },
+    {
+     "titulo": "ALVENARIA ESTRUTURAL | CONCEITOS IMPORTANTES",
+     "canal": "Aleme Engenharia",
+     "youtubeId": "oskEVVB4MiM",
+     "duracao": "9:13"
+    }
+   ]
+  },
+  {
+   "id": "vedacoes-coberturas-impermeabilizacao",
+   "nome": "Vedações, coberturas, impermeabilização e esquadrias",
+   "edital": "Vedações; sistemas de cobertura; impermeabilizações; esquadrias.",
+   "resumo": "**Vedações:** alvenaria de blocos cerâmicos ou de concreto (vedação, furos horizontais), **drywall** (chapas de gesso em perfis de aço: **ST** standard, **RU** resistente à umidade, verde; **RF** resistente ao fogo, rosa). Vergas e contravergas nos vãos, ultrapassando as laterais. **Encunhamento** (fixação da alvenaria na viga) por último, depois de a estrutura receber as cargas. Revestimento em camadas: **chapisco → emboço → reboco** (ou massa única).\n\n**Coberturas:** de baixo para cima no telhado cerâmico: **tesoura → terças → caibros → ripas → telhas**. Tesoura: linha (banzo inferior), pernas (empenas), pendural, escoras. **Cumeeira** = aresta mais alta; **espigão** = aresta inclinada saliente (divisor de águas); **rincão (água-furtada)** = aresta inclinada reentrante que recolhe água. Rufos e calhas na platibanda. Inclinação do telhado em %.\n\n**Impermeabilização (NBR 9575 projeto e NBR 9574 execução):**\n- **Rígidos** (argamassa com aditivo, cristalizantes): áreas sem movimentação, como reservatório enterrado e baldrame.\n- **Flexíveis** (mantas asfálticas, membranas acrílicas e de poliuretano): lajes expostas, terraços, áreas sujeitas a fissuras.\n- Teste de estanqueidade com **lâmina d'água por 72 h**; proteção mecânica sobre a manta.\n\n**Esquadrias:** de correr, de abrir, **maxim-ar** (eixo horizontal no topo, projeta para fora), **basculante** (eixo horizontal no meio), pivotante, camarão. **Vidro temperado** quebra em pequenos pedaços e não pode ser cortado depois; **laminado** (com película PVB) fica preso à película ao quebrar, indicado para guarda-corpos e coberturas.",
+   "leituras": [
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas (especificações e execução)",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Usar como roteiro de serviços de uma obra de edificação."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Projeto de Impermeabilização - NBR 9575  -  Sob e Sobre Enchimento ou caixão perdido",
+     "canal": "RALIFE ENGENHARIA",
+     "youtubeId": "Rp-oWEqc2w8",
+     "duracao": "5:36"
+    },
+    {
+     "titulo": "Mantas Asfálticas, como escolher a ideal #5",
+     "canal": "Mundo da Impermeabilizacao",
+     "youtubeId": "EG4C0WljnYY",
+     "duracao": "4:52"
+    },
+    {
+     "titulo": "Estrutura de Telhado no Revit  - TERÇAS, CAIBROS E RIPAS",
+     "canal": "Oficina do Projetista",
+     "youtubeId": "ZfWWLJwALq4",
+     "duracao": "21:22"
+    },
+    {
+     "titulo": "Telhado de Barro - Madeiramento - Tabela de Medidas de tesoura, ripas, terças e caibros de madeira",
+     "canal": "Graziela Alessio Arquitetura",
+     "youtubeId": "7RWWritcFA8",
+     "duracao": "5:35"
+    }
+   ]
+  },
+  {
+   "id": "instalacoes-hidrossanitarias",
+   "nome": "Instalações hidrossanitárias e de águas pluviais",
+   "edital": "Instalações prediais hidrossanitárias, pluviais.",
+   "resumo": "**Água fria e quente (NBR 5626:2020):** pressão estática máxima nos pontos de uso de **400 kPa (40 m.c.a.)**. Prevenção de **retrossifonagem** (refluxo de água servida para a rede potável) por separação atmosférica. Reservatório deve ser tampado, acessível para limpeza, com extravasor e tubulação de limpeza; reserva de incêndio separada da de consumo.\n\n**Esgoto (NBR 8160):**\n- **Desconector** (sifão, caixa sifonada) cria fecho hídrico contra gases.\n- **Ventilação** (coluna e ramais) protege o fecho hídrico; a ponta do tubo ventilador sobe acima da cobertura.\n- **Declividade mínima:** **2%** para tubos de diâmetro até 75 mm; **1%** para 100 mm ou mais.\n- Bacia sanitária: ramal mínimo de **100 mm**. Unidade de Hunter de Contribuição (UHC) para dimensionar.\n- **Caixa de gordura** para as pias de cozinha; **caixa de inspeção** nas mudanças de direção e ao longo dos coletores.\n- Sem rede pública: **tanque séptico (NBR 7229)** + filtro anaeróbio ou sumidouro (NBR 13969).\n\n**Águas pluviais (NBR 10844):** período de retorno de **1 ano** (áreas pavimentadas onde empoçamento é tolerado), **5 anos** (coberturas e terraços) e **25 anos** (coberturas onde não se tolera empoçamento); duração de chuva de 5 min; calhas com declividade mínima de 0,5%. **Águas pluviais não podem ir para a rede de esgoto** (sistema separador absoluto).\n\n**Em estabelecimentos de saúde e de alimentos:** ralos sifonados com fechamento, lavatórios exclusivos para mãos, água potável com reservatório limpo semestralmente.",
+   "leituras": [
+    {
+     "titulo": "Anvisa — Instalações prediais ordinárias e especiais (EAS)",
+     "tipo": "apostila",
+     "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/servicosdesaude/publicacoes/instalacoes-prediais-ordinarias-e-especiais.pdf",
+     "gratuito": true,
+     "nota": "Instalações hidrossanitárias, elétricas e de gases nos estabelecimentos de saúde."
+    },
+    {
+     "titulo": "RDC 50/2002 — Parte III, item 7 (instalações prediais)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+     "gratuito": true,
+     "nota": "Instalações hidrossanitárias e de gases em EAS."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Instalações Hidrossanitárias : AULA 1 – Água Fria: Informações Gerais (Parte 1)",
+     "canal": "Eduardo Toledo",
+     "youtubeId": "0E23Zgsqtdo",
+     "duracao": "46:34"
+    },
+    {
+     "titulo": "Instalações Hidrossanitárias : AULA 6 – Esgoto Sanitário: Dimensionamento (Parte 1)",
+     "canal": "Eduardo Toledo",
+     "youtubeId": "w-Fw0LlXdU8",
+     "duracao": "28:37"
+    },
+    {
+     "titulo": "7 erros em projetos de esgoto predial",
+     "canal": "Conexão Hidráulica®",
+     "youtubeId": "b6UuGpT_2TE",
+     "duracao": "10:13"
+    },
+    {
+     "titulo": "Tubulações de ventilação [Instalações de Esgoto Sanitário]",
+     "canal": "PlanilhasEngenharia",
+     "youtubeId": "QVbR2axN5r4",
+     "duracao": "8:25"
+    }
+   ]
+  },
+  {
+   "id": "instalacoes-eletricas-incendio-spda",
+   "nome": "Instalações elétricas, prevenção e combate a incêndio e para-raios (SPDA)",
+   "edital": "Instalações prediais elétricas, de prevenção e combate a incêndio e para-raio.",
+   "resumo": "**Elétrica (NBR 5410):**\n- **DR (dispositivo diferencial residual) de 30 mA** obrigatório nos circuitos de áreas molhadas: banheiros, cozinhas, lavanderias, áreas externas e tomadas em áreas externas.\n- Seção mínima de condutor de cobre: **1,5 mm²** para iluminação e **2,5 mm²** para tomadas.\n- Cores: **neutro azul-claro**, **proteção (PE) verde e amarelo** (ou verde).\n- Tomadas de uso geral: cozinha e área de serviço, 1 a cada **3,5 m** de perímetro; banheiro, 1 junto ao lavatório; salas e quartos, 1 a cada **5 m** de perímetro.\n- Iluminação: **100 VA** para os primeiros 6 m² e **+60 VA** a cada 4 m² inteiros.\n- Esquemas de aterramento: TN (TN-S, TN-C, TN-C-S), TT e IT. DPS contra surtos.\n\n**SPDA (NBR 5419:2015):** captação, descidas e aterramento + equipotencialização. Métodos de captação: **ângulo de proteção (Franklin)**, **esfera rolante (eletrogeométrico)** e **malha (gaiola de Faraday)**. Níveis de proteção **I a IV** (I é o mais rigoroso).\n\n**Incêndio:**\n- **Classes:** **A** sólidos que deixam brasa (água, espuma); **B** líquidos e gases inflamáveis (pó, CO₂, espuma; nunca jato de água); **C** equipamentos elétricos energizados (CO₂, pó); **D** metais combustíveis (pó especial); **K** óleo de cozinha.\n- Sistemas: extintores, hidrantes e mangotinhos (NBR 13714), chuveiros automáticos (NBR 10897), detecção e alarme (NBR 17240), iluminação de emergência (NBR 10898), sinalização (NBR 13434), saídas (NBR 9077).\n- Na Paraíba: projeto aprovado pelo Corpo de Bombeiros Militar.",
+   "leituras": [
+    {
+     "titulo": "Anvisa — Instalações prediais ordinárias e especiais (EAS)",
+     "tipo": "apostila",
+     "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/servicosdesaude/publicacoes/instalacoes-prediais-ordinarias-e-especiais.pdf",
+     "gratuito": true,
+     "nota": "Elétrica de emergência e gases medicinais em EAS."
+    },
+    {
+     "titulo": "Corpo de Bombeiros Militar da Paraíba",
+     "tipo": "site",
+     "url": "https://bombeiros.pb.gov.br/",
+     "gratuito": true,
+     "nota": "Normas técnicas estaduais de segurança contra incêndio."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "NBR 5410:2008 ENTENDA OS PONTOS PRINCIPAIS EM 30 MINUTOS!!!! BAIXA TENSÃO",
+     "canal": "UNIVERSIDADE DA ELÉTRICA",
+     "youtubeId": "vlYfRV1UGMo",
+     "duracao": "31:57"
+    },
+    {
+     "titulo": "SPDA - MÉTODO DE FRANKLIN (ANGULO DE PROTEÇÃO) E O PLANO DE REFERÊNCIA | FAM CURSOS",
+     "canal": "Eng Moacir Santos",
+     "youtubeId": "11wqukC9k_o",
+     "duracao": "11:47"
+    },
+    {
+     "titulo": "CLASSES DE INCÊNDIO - Por que Dividir os Incêndios por Classes?",
+     "canal": "Bombeiro Paraizo",
+     "youtubeId": "HhUF2tf987M",
+     "duracao": "11:14"
+    },
+    {
+     "titulo": "QUAIS SÃO AS CLASSES DE INCÊNDIO ? - Que tipo de Extintor Usar ?",
+     "canal": "FECHADO COM A SEGURANÇA",
+     "youtubeId": "yQRuyD5mowM",
+     "duracao": "5:23"
+    }
+   ]
+  },
+  {
+   "id": "materiais-construcao",
+   "nome": "Materiais de construção: aço, cerâmica, alvenaria, madeira, vidro, argamassa e concreto",
+   "edital": "Materiais de Construção: aço, cerâmica, alvenaria, madeira, vidro, argamassa, concreto.",
+   "resumo": "**Cimento Portland (NBR 16697):** CP I (comum), **CP II-E** (escória), **CP II-Z** (pozolana), **CP II-F** (fíler calcário), **CP III** (alto-forno, muita escória: baixo calor, resistente a sulfatos), **CP IV** (pozolânico: obras de massa, ambientes agressivos), **CP V-ARI** (alta resistência inicial: pré-moldados, desforma rápida), sufixo **RS** (resistente a sulfatos) e **BC** (baixo calor de hidratação), CPB (branco).\n\n**Concreto:** cimento + agregados + água (+ aditivos). Traço em massa ou volume (1 : a : b : a/c). **Abatimento do tronco de cone (slump)** mede a consistência. Mais água → mais trabalhável e **menos resistente e durável**. Cura úmida nos primeiros dias evita fissuras de retração. Problemas: segregação, exsudação, ninhos (bicheiras).\n\n**Argamassa:** cimento, cal e areia. A **cal** dá plasticidade e retenção de água; o cimento dá resistência. Usos: assentamento, chapisco, emboço, reboco, contrapiso.\n\n**Cerâmica:** **porcelanato** tem absorção de água **≤ 0,5%**; o **PEI** (0 a 5) mede a resistência à abrasão de peças **esmaltadas**. Blocos cerâmicos de vedação (furos horizontais) × estruturais (furos verticais).\n\n**Aço:** CA-25, **CA-50** e CA-60 (o número é o fyk em kgf/mm²). Aço patinável (corten) forma pátina protetora.\n\n**Madeira:** propriedades variam com a umidade (referência 12%); tratamento preservativo em autoclave; defeitos: nós, rachas, empenamento.\n\n**Vidro:** float (comum), **temperado** (4 a 5 vezes mais resistente, fragmenta em pedaços pequenos, não pode ser cortado), **laminado** (PVB, segurança), **aramado**, insulado (duplo) e de controle solar (refletivo, low-e).",
+   "leituras": [
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas (especificação de materiais)",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Especificações técnicas e controle de qualidade de materiais."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Tipos de Cimentos - CP I - CP II - CP III - CP IV - CP V? Qual devo Utilizar?",
+     "canal": "Direito das Construções",
+     "youtubeId": "ytFOBu6iIq4",
+     "duracao": "4:11"
+    },
+    {
+     "titulo": "Diferença entre argamassa e concreto que ninguém te contou!",
+     "canal": "Engenharia Detalhada",
+     "youtubeId": "MTLRu-PfTIM",
+     "duracao": "9:24"
+    },
+    {
+     "titulo": "Argamassas (Aula 8, parte 1)",
+     "canal": "Canal USP",
+     "youtubeId": "hE3xeTHxMyU",
+     "duracao": "25:50"
+    },
+    {
+     "titulo": "Engenharia Civil 01 - Materiais de Construção | Cimento, Agregados e Concreto",
+     "canal": "Candidato Aprovado",
+     "youtubeId": "1mrR5GGn2e0",
+     "duracao": "8:32"
+    }
+   ]
+  },
+  {
+   "id": "sus-vigilancia-sanitaria",
+   "nome": "SUS e Sistema Nacional de Vigilância Sanitária (Leis 8.080, 8.142, 9.782 e Decreto 7.508)",
+   "edital": "Leis Federais nº 8.080/1990 e nº 8.142/1990; Decreto 7.508/2011; vigilância sanitária no âmbito do SUS e do SNVS; competências da União, Estados e Municípios.",
+   "resumo": "**Lei 8.080/1990 (Lei Orgânica da Saúde)**\n- **Vigilância sanitária (art. 6º, §1º):** conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e intervir nos problemas sanitários do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde. Abrange o controle de **bens de consumo** (da produção ao consumo) e da **prestação de serviços**.\n- **Vigilância epidemiológica (§2º):** conhecer, detectar e prevenir mudanças nos fatores de saúde, para recomendar medidas de controle de doenças.\n- **Princípios (art. 7º):** universalidade, integralidade, igualdade, participação da comunidade, **descentralização com direção única em cada esfera**, regionalização e hierarquização.\n- **Direção única (art. 9º):** Ministério da Saúde (União); Secretarias de Saúde (Estados, DF e Municípios).\n- **Competências:** União define e coordena o sistema de vigilância sanitária e executa a de **portos, aeroportos e fronteiras**; Estados coordenam e executam **em caráter complementar**; **Municípios executam** os serviços de vigilância sanitária, epidemiológica, de alimentação e nutrição, de saneamento e de saúde do trabalhador.\n\n**Lei 8.142/1990:** participação da comunidade por **Conferência de Saúde** (a cada **4 anos**, propõe diretrizes) e **Conselho de Saúde** (permanente e **deliberativo**; usuários com representação **paritária**, 50%). Repasses fundo a fundo exigem Fundo de Saúde, Conselho, plano de saúde, relatório de gestão, contrapartida e comissão do plano de carreira.\n\n**Decreto 7.508/2011:** Região de Saúde (mínimo: atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada e hospitalar, vigilância em saúde); **Portas de Entrada**; RENASES e RENAME; Comissões Intergestores (CIT, CIB, CIR); **COAP** (contrato organizativo).\n\n**Lei 9.782/1999:** define o **SNVS** e cria a **Anvisa**, autarquia em regime especial vinculada ao Ministério da Saúde, com sede no DF. No Brasil, o SNVS reúne Anvisa, vigilâncias estaduais (na Paraíba, a **AGEVISA**) e municipais.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 8.080/1990",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm",
+     "gratuito": true,
+     "nota": "Arts. 2º a 9º, 15 a 19 (competências)."
+    },
+    {
+     "titulo": "Lei nº 8.142/1990",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8142.htm",
+     "gratuito": true,
+     "nota": "Lei curta: ler inteira."
+    },
+    {
+     "titulo": "Decreto nº 7.508/2011",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm",
+     "gratuito": true,
+     "nota": "Arts. 2º (definições), 4º a 11 (regiões e portas de entrada)."
+    },
+    {
+     "titulo": "Lei nº 9.782/1999 (SNVS e Anvisa)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9782.htm",
+     "gratuito": true,
+     "nota": "Arts. 1º a 8º."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🚨Resumão da Lei 8.080/90 | A Lei MAIS COBRADA nos concursos da saúde",
+     "canal": "Profª Natale Souza",
+     "youtubeId": "eG-V0Iy-9UQ",
+     "duracao": "28:32"
+    },
+    {
+     "titulo": "LEI 8142/90 - Tudo como cai nos CONCURSOS PÚBLICOS",
+     "canal": "ENFº JUNIOR BARBOZA ",
+     "youtubeId": "cWmRsZ8tv84",
+     "duracao": "24:43"
+    },
+    {
+     "titulo": "1 - Lei 9.782/1999 Sistema Nacional de Vigilância Sanitária",
+     "canal": "LexPlay",
+     "youtubeId": "kID7r8OX85A",
+     "duracao": "19:13"
+    },
+    {
+     "titulo": "Organização do Sistema Nacional de Vigilância Sanitária em serviços de saúde e interesse para saúde",
+     "canal": "Hospital Moinhos de Vento",
+     "youtubeId": "mHqEcokB2hI",
+     "duracao": "4:01"
+    }
+   ]
+  },
+  {
+   "id": "poder-policia-processo-sanitario",
+   "nome": "Poder de polícia, infrações e processo administrativo sanitário (Lei 6.437 e Código Sanitário de CG)",
+   "edital": "Poder de polícia sanitária; lavratura de notificação, auto de infração, termo de apreensão, interdição e demais atos fiscalizatórios; processo administrativo sanitário, contraditório e ampla defesa; Código Sanitário Municipal (LC nº 51/2010).",
+   "resumo": "**Poder de polícia (CTN, art. 78):** atividade da Administração que limita ou disciplina direito, interesse ou liberdade em razão do interesse público (segurança, **higiene**, ordem, costumes…). **Atributos:** **discricionariedade**, **autoexecutoriedade** (age sem ordem judicial, ex.: interdição imediata em risco iminente) e **coercibilidade**. **Ciclo de polícia:** ordem → consentimento (licença, alvará) → fiscalização → sanção. Pode ser remunerado por **taxa** (CF, art. 145, II).\n\n**Lei 6.437/1977 (infrações à legislação sanitária federal):**\n- Penalidades (art. 2º): advertência; multa; apreensão, inutilização e interdição de produto; suspensão de vendas ou fabricação; cancelamento de registro; **interdição parcial ou total do estabelecimento**; cancelamento de autorização e de alvará; intervenção; proibição de propaganda.\n- Infrações **leves, graves e gravíssimas**; circunstâncias atenuantes e agravantes.\n- Processo: começa pelo **auto de infração**; o autuado tem **15 dias** para defesa ou impugnação; recurso no mesmo prazo. Prescrição em **5 anos**.\n- **Termo de apreensão** (produto), **termo de interdição** (produto ou estabelecimento), **notificação** (para corrigir em prazo).\n- **Contraditório e ampla defesa** (CF, art. 5º, LV) valem em todo processo administrativo sanitário.\n\n**Código Sanitário de Campina Grande (LC 51/2010):** segue a mesma lógica (licença sanitária, inspeção, autos e penalidades) em âmbito municipal. Procure o texto na Câmara ou na Prefeitura: a IDECAN costuma cobrar a letra da lei local.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 6.437/1977 (infrações sanitárias)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l6437.htm",
+     "gratuito": true,
+     "nota": "Arts. 1º a 10 (penalidades e classificação) e 12 a 39 (processo)."
+    },
+    {
+     "titulo": "Código Tributário Nacional, art. 78 (conceito de poder de polícia)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+     "gratuito": true,
+     "nota": "Ler só o art. 78."
+    },
+    {
+     "titulo": "Prefeitura de Campina Grande (Semanário Oficial e legislação)",
+     "tipo": "site",
+     "url": "https://campinagrande.pb.gov.br/",
+     "gratuito": true,
+     "nota": "Buscar a Lei Complementar nº 51/2010 (Código Sanitário Municipal). O texto não estava disponível on-line na pesquisa de 28/10/2026."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "1 - Lei 6.437/1977 Infrações Sanitárias",
+     "canal": "LexPlay",
+     "youtubeId": "FgYcns9tz6s",
+     "duracao": "22:00"
+    },
+    {
+     "titulo": "Jornada Vigilância Sanitária - 3º Dia - Infrações sanitárias - Lei 6437/77 com Benefran Bezerra",
+     "canal": "Gran Cursos Saúde",
+     "youtubeId": "De2qgDRTRJs",
+     "duracao": "55:50"
+    },
+    {
+     "titulo": "Poder de Policia (Direito Administrativo): Resumo Completo",
+     "canal": "Direito Desenhado",
+     "youtubeId": "OFVGEMVP8jk",
+     "duracao": "8:16"
+    }
+   ]
+  },
+  {
+   "id": "projetos-eas-rdc50",
+   "nome": "Projetos de estabelecimentos de saúde: RDC 50/2002, RDC 189/2003 e análise de projetos",
+   "edital": "Normas sanitárias para projetos de estabelecimentos de saúde (RDC ANVISA); fiscalização de obras e instalações de serviços de saúde, educação e similares; análise e aprovação de projetos.",
+   "resumo": "**RDC 50/2002** — regulamento técnico para planejamento, programação, elaboração e avaliação de projetos físicos de **EAS** (estabelecimentos assistenciais de saúde). Alterada pela RDC 307/2002. Vale para construções novas, reformas e ampliações, públicas e privadas.\n- **Parte I — Projeto:** etapas **estudo preliminar → projeto básico → projeto executivo**. O projeto básico de arquitetura é o que passa por análise da vigilância sanitária.\n- **Parte II — Programação físico-funcional:** **8 atribuições**: 1 atendimento ambulatorial e hospital-dia; 2 atendimento imediato (urgência e emergência); 3 internação; 4 apoio ao diagnóstico e terapia; 5 apoio técnico; 6 ensino e pesquisa; 7 apoio administrativo; 8 apoio logístico.\n- **Parte III — Critérios:** circulações, conforto ambiental, **controle de infecção**, instalações prediais ordinárias e especiais, segurança contra incêndio.\n- Números clássicos: corredor com circulação de macas ≥ **2,00 m**; corredor só de pessoal ≥ 1,20 m; porta de quarto e sala com maca ≥ **1,10 m**; quarto de 1 leito ≥ **10 m²**; enfermaria **6 m² por leito**.\n- **Áreas críticas** (centro cirúrgico, UTI, CME, isolamento), **semicríticas** (enfermarias, ambulatórios) e **não críticas** (administração).\n- Gases medicinais com cores: oxigênio **verde**, ar comprimido **amarelo**, vácuo **cinza**, óxido nitroso **azul**.\n\n**RDC 189/2003:** regulamenta a **análise, avaliação e aprovação** dos projetos físicos de EAS no SNVS. O projeto aprovado pela vigilância sanitária é condição para o licenciamento.\n\n**Escolas e similares:** a inspeção sanitária olha ventilação e iluminação, sanitários em número adequado, cozinha e refeitório com boas práticas (RDC 216), água potável e acessibilidade.",
+   "leituras": [
+    {
+     "titulo": "RDC Anvisa nº 50/2002",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+     "gratuito": true,
+     "nota": "Ler Parte I inteira, a lista de atribuições da Parte II e os critérios da Parte III."
+    },
+    {
+     "titulo": "RDC Anvisa nº 307/2002 (altera a RDC 50)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0307_14_11_2002.html",
+     "gratuito": true,
+     "nota": "Ver o que mudou na RDC 50."
+    },
+    {
+     "titulo": "RDC Anvisa nº 189/2003 (análise e aprovação de projetos de EAS)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2003/rdc0189_18_07_2003.html",
+     "gratuito": true,
+     "nota": "Curta e muito ligada à rotina do cargo."
+    },
+    {
+     "titulo": "Anvisa — Conforto ambiental em EAS",
+     "tipo": "livro",
+     "url": "https://bibliotecadigital.anvisa.gov.br/jspui/bitstream/anvisa/1569/1/ANVISA_Conforto%20ambiental%20em%20estabelecimentos%20assistenciais%20de%20sa%c3%bade_1ed_2014.pdf",
+     "gratuito": true,
+     "nota": "Complemento da RDC 50."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "RDC Nº 50/2002 Parte I - PROJETOS DE ESTABELECIMENTOS ASSISTENCIAIS DE SAÚDE",
+     "canal": "Bruno Roma",
+     "youtubeId": "Qmk61sD6cgU",
+     "duracao": "20:24"
+    },
+    {
+     "titulo": "RDC 50/2002 em 12 MINUTOS - projetos de saúde no Brasil e sua base legal",
+     "canal": "Luan | Eng & Arq da Saúde e Hospitalar",
+     "youtubeId": "0Ynp0nSLMOQ",
+     "duracao": "12:02"
+    },
+    {
+     "titulo": "Entenda como que funciona a RDC-50 ANVISA | Cláudio Zunino",
+     "canal": "Cláudio Zunino",
+     "youtubeId": "BZW32pqEYsg",
+     "duracao": "14:14"
+    },
+    {
+     "titulo": "Entenda as TABELAS da RDC-50 ANVISA | Cláudio Zunino",
+     "canal": "Cláudio Zunino",
+     "youtubeId": "yHk8F253dP0",
+     "duracao": "13:19"
+    }
+   ]
+  },
+  {
+   "id": "boas-praticas-riscos-biosseguranca",
+   "nome": "Licenciamento sanitário, boas práticas, riscos, resíduos, biossegurança e controle de infecção",
+   "edital": "Fiscalização de produtos, serviços e estabelecimentos; licenciamento e inspeção sanitária; gerenciamento de riscos sanitários; boas práticas, controle de qualidade, rastreabilidade e responsabilidade técnica; normas da ANVISA, biossegurança, controle de infecções.",
+   "resumo": "**Licenciamento sanitário:** a licença (alvará) sanitária autoriza o funcionamento depois de inspeção. A **RDC 153/2017** classifica as atividades por **grau de risco** (baixo, médio, alto); pela **Lei de Liberdade Econômica (13.874/2019)**, atividade de baixo risco dispensa ato prévio de liberação, mas continua sujeita à fiscalização.\n\n**Boas práticas em serviços de saúde (RDC 63/2011):** responsável técnico, gestão de pessoal, de tecnologias e de infraestrutura, segurança do paciente (detalhada na **RDC 36/2013**: Núcleo de Segurança do Paciente).\n\n**Serviços de alimentação (RDC 216/2004):** Manual de Boas Práticas e **POPs**; responsável capacitado; pisos, paredes e tetos **lisos, laváveis e impermeáveis**; janelas com **telas milimetradas**; ralos sifonados com fechamento; **lavatório exclusivo para as mãos** na manipulação. Temperaturas: quente **acima de 60 °C** (até 6 h); resfriamento de 60 °C a 10 °C em até 2 h; refrigerado **até 5 °C**; descongelar sob refrigeração.\n\n**Resíduos de serviços de saúde (RDC 222/2018):** grupos **A** (biológico/infectante), **B** (químico), **C** (radioativo), **D** (comum, equiparado ao doméstico), **E** (perfurocortante). O gerador elabora o **PGRSS**; abrigo externo de resíduos com acesso para a coleta.\n\n**Biossegurança:** níveis **NB-1 a NB-4** conforme a classe de risco do agente; **EPI** (luva, avental, máscara) × **EPC** (cabine de segurança biológica, chuveiro e lava-olhos). Precauções-padrão.\n\n**Controle de infecção:** a Lei 9.431/1997 obriga os hospitais a manter **Programa de Controle de Infecção Hospitalar**; a Portaria MS 2.616/1998 detalha a **CCIH**. A RDC 42/2010 exige **preparação alcoólica** para as mãos nos pontos de assistência.\n\n**Rastreabilidade:** saber a origem e o destino de cada lote de produto (essencial para recolhimentos).",
+   "leituras": [
+    {
+     "titulo": "RDC Anvisa nº 216/2004 (boas práticas em serviços de alimentação)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0216_15_09_2004.html",
+     "gratuito": true,
+     "nota": "Item 4 (edificação, instalações e equipamentos) é o mais cobrado para arquitetos."
+    },
+    {
+     "titulo": "RDC Anvisa nº 222/2018 (resíduos de serviços de saúde)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2018/rdc0222_28_03_2018.pdf",
+     "gratuito": true,
+     "nota": "Anexo I (grupos) e capítulo do abrigo de resíduos."
+    },
+    {
+     "titulo": "RDC Anvisa nº 63/2011 (boas práticas de funcionamento de serviços de saúde)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2011/rdc0063_25_11_2011.html",
+     "gratuito": true,
+     "nota": "Capítulo de infraestrutura."
+    },
+    {
+     "titulo": "RDC Anvisa nº 36/2013 (segurança do paciente)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2013/rdc0036_25_07_2013.html",
+     "gratuito": true,
+     "nota": "Núcleo de Segurança do Paciente."
+    },
+    {
+     "titulo": "RDC Anvisa nº 153/2017 (grau de risco no licenciamento)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2017/rdc0153_26_04_2017.pdf",
+     "gratuito": true,
+     "nota": "Classificação de baixo, médio e alto risco."
+    },
+    {
+     "titulo": "RDC Anvisa nº 42/2010 (preparação alcoólica para as mãos)",
+     "tipo": "rdc",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2010/res0042_25_10_2010.html",
+     "gratuito": true,
+     "nota": "Curta."
+    },
+    {
+     "titulo": "Lei nº 9.431/1997 e Portaria MS nº 2.616/1998 (controle de infecção hospitalar)",
+     "tipo": "lei",
+     "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/1998/prt2616_12_05_1998.html",
+     "gratuito": true,
+     "nota": "Definições de CCIH e PCIH."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Entendendo a Legislação Sanitária RDC 216 (Boas Práticas em Serviços de Alimentação) #rdc216 #anvisa",
+     "canal": "Irene Pessoa Nutricionista Consultora de Alimentos",
+     "youtubeId": "7AAWSsRwt0o",
+     "duracao": "26:12"
+    },
+    {
+     "titulo": "Resíduos de Saúde (RSS) RDC 222/2018: Acerte Tudo sobre os Grupos A, B, C, D e E! 🗑️⚠️",
+     "canal": "ENFrente Enfermagem Continuada",
+     "youtubeId": "-efp36vl390",
+     "duracao": "12:24"
+    },
+    {
+     "titulo": "Quais são os Níveis de BIOSSEGURANÇA?",
+     "canal": "Medicina - Gabriel Santana",
+     "youtubeId": "bq-ognpBDTg",
+     "duracao": "5:33"
+    },
+    {
+     "titulo": "Biossegurança na Saúde: Guia Completo + Questões Resolvidas! 🛡️✅",
+     "canal": "ENFrente Enfermagem Continuada",
+     "youtubeId": "82zAatP_2Ow",
+     "duracao": "21:52"
+    }
+   ]
+  },
+  {
+   "id": "estatuto-cidade-plano-diretor",
+   "nome": "Estatuto da Cidade, plano diretor e índices urbanísticos",
+   "edital": "Legislação urbanística; plano diretor municipal; lei de uso e ocupação do solo; instrumentos de gestão urbana.",
+   "resumo": "**Constituição, arts. 182 e 183:** o **plano diretor** é aprovado pela Câmara Municipal, é **obrigatório para cidades com mais de 20 mil habitantes** e é o **instrumento básico** da política de desenvolvimento e expansão urbana. A propriedade cumpre sua função social quando atende ao plano diretor.\n\n**Estatuto da Cidade (Lei 10.257/2001):**\n- Plano diretor também obrigatório para: regiões metropolitanas, áreas de interesse turístico, áreas com empreendimentos de grande impacto ambiental, municípios que queiram usar o art. 182, §4º, e cidades em áreas de risco de deslizamento ou inundação. Abrange **todo o território** do município e é **revisto pelo menos a cada 10 anos**.\n- **Instrumentos contra imóvel ocioso (em sequência):** parcelamento, edificação ou utilização compulsórios (**PEUC**) → **IPTU progressivo no tempo** (até 5 anos, alíquota máxima de **15%**, sem passar do dobro do ano anterior) → **desapropriação com títulos da dívida pública** (resgate em até 10 anos).\n- **Outorga onerosa do direito de construir:** construir acima do coeficiente básico até o máximo, pagando contrapartida. **Transferência do direito de construir:** para imóvel tombado ou de interesse ambiental. **Direito de preempção:** preferência do município na compra (vigência até 5 anos). **Direito de superfície**, **operação urbana consorciada** (com CEPAC), **ZEIS**, **usucapião especial urbana** (até **250 m²**, 5 anos, moradia).\n- **EIV (Estudo de Impacto de Vizinhança):** adensamento, equipamentos urbanos e comunitários, uso e ocupação do solo, valorização imobiliária, tráfego, ventilação e iluminação, paisagem e patrimônio. **Não substitui o EIA.**\n\n**Índices (LUOS):**\n- **Taxa de ocupação (TO)** = projeção da edificação ÷ área do terreno.\n- **Coeficiente de aproveitamento (CA)** = área construída computável ÷ área do terreno.\n- **Taxa de permeabilidade** = área permeável ÷ área do terreno.\n- Recuos (afastamentos) e gabarito (altura).\n\n**Campina Grande:** o Plano Diretor vigente era a **LC 033/2006**; a revisão foi aprovada pela Câmara (com emendas). Confira a lei nova antes da prova.",
+   "leituras": [
+    {
+     "titulo": "Estatuto da Cidade (Lei nº 10.257/2001)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+     "gratuito": true,
+     "nota": "Ler arts. 1º a 6º, 25 a 42-B. É a lei urbanística mais cobrada."
+    },
+    {
+     "titulo": "Ministério das Cidades",
+     "tipo": "site",
+     "url": "https://www.gov.br/cidades/pt-br",
+     "gratuito": true,
+     "nota": "Guias de plano diretor e regularização fundiária."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "LEI 10257 | ESTATUTO DAS CIDADES PARA ARQUITETOS - PARTE 1",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "AuTLR9bY5R4",
+     "duracao": "11:06"
+    },
+    {
+     "titulo": "ESTATUTO DA CIDADE e PLANO DIRETOR | Direito Urbanístico | Lei 10.257/2001",
+     "canal": "Me Julga - Cíntia Brunelli",
+     "youtubeId": "aHe-RErJ4r4",
+     "duracao": "9:49"
+    },
+    {
+     "titulo": "COMO CALCULAR A TAXA DE OCUPAÇÃO, COEFICIENTE DE APROVEITAMENTO E TAXA DE PERMEABILIDADE???",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "j0Ly_PRlxW4",
+     "duracao": "11:04"
+    },
+    {
+     "titulo": "Taxa de Ocupação e Coeficiente de Aproveitamento",
+     "canal": "Urbanidades",
+     "youtubeId": "F7FfkpzSvdI",
+     "duracao": "9:23"
+    }
+   ]
+  },
+  {
+   "id": "parcelamento-solo",
+   "nome": "Parcelamento do solo urbano (Lei 6.766/1979) e regularização fundiária",
+   "edital": "Parcelamento do solo urbano; Lei Federal nº 6.766/1979; fiscalização de loteamentos.",
+   "resumo": "**Loteamento** = subdivisão em lotes **com abertura de novas vias** ou prolongamento das existentes. **Desmembramento** = subdivisão **aproveitando o sistema viário existente**, sem abrir vias.\n\n- **Lote mínimo: 125 m² e frente mínima de 5 m** (salvo urbanização específica ou habitação de interesse social).\n- **Não se parcela** (art. 3º): terreno alagadiço sem providências; aterrado com material nocivo à saúde sem saneamento; com **declividade igual ou superior a 30%** (salvo exigências da autoridade); com condições geológicas que não aconselham edificar; em área de preservação ecológica ou com poluição que impeça condições sanitárias suportáveis.\n- **Infraestrutura básica:** escoamento de águas pluviais, iluminação pública, esgotamento sanitário, abastecimento de água potável, energia elétrica pública e domiciliar e vias de circulação.\n- Áreas públicas (sistema viário, equipamentos urbanos e comunitários, espaços livres) **proporcionais à densidade** prevista no plano diretor ou lei municipal.\n- Depois de aprovado, o loteamento deve ser levado ao **registro imobiliário em até 180 dias**, sob pena de caducidade.\n- Vender lote de loteamento não registrado ou fazer parcelamento sem autorização é **crime contra a Administração Pública** (art. 50).\n\n**Regularização fundiária (Lei 13.465/2017):** **Reurb-S** (interesse social, população de baixa renda) e **Reurb-E** (interesse específico). Também criou o condomínio de lotes e o loteamento de acesso controlado.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 6.766/1979 (parcelamento do solo urbano)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+     "gratuito": true,
+     "nota": "Arts. 1º a 13 e 18; arts. 50 a 52 (crimes)."
+    },
+    {
+     "titulo": "Lei nº 13.465/2017 (Reurb)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm",
+     "gratuito": true,
+     "nota": "Arts. 9º a 13 (conceitos e modalidades)."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "LEI 6766 PARCELAMENTO DO SOLO URBANO   RESUMO COMPLETO PARA CONCURSOS PÚBLICOS   PARTE 1",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "vs6jbGaP00U",
+     "duracao": "12:33"
+    },
+    {
+     "titulo": "LEI 6766 PARCELAMENTO DO SOLO URBANO | RESUMO COMPLETO PARA CONCURSOS PÚBLICOS   PARTE 2",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "VLGV70iOwsw",
+     "duracao": "12:27"
+    },
+    {
+     "titulo": "QUAL A DIFERENÇA ENTRE LOTEAMENTO, DESMEMBRAMENTO, DESDOBRO E REMEMBRAMENTO DO SOLO???",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "hYHZEdJ417E",
+     "duracao": "11:00"
+    }
+   ]
+  },
+  {
+   "id": "fiscalizacao-obras-posturas",
+   "nome": "Código de obras, código de posturas e fiscalização (vistoria, autos, embargo, interdição)",
+   "edital": "Código de obras; código de posturas; fiscalização de obras, posturas, serviços urbanos, vias, calçadas, loteamentos e logradouros públicos; vistoria técnica, relatórios, pareceres, notificações, autos de infração, embargo e interdição.",
+   "resumo": "**Código de obras:** regras de construção do município (licença, dimensões mínimas de compartimentos, iluminação e ventilação, pé-direito, calçadas, instalações). **Código de posturas:** uso dos espaços públicos e convivência (calçadas, publicidade, ruído, horário de funcionamento, higiene pública).\n\n**Sequência da fiscalização:**\n1. **Licença (alvará) de construção** antes de começar a obra.\n2. **Vistoria técnica** durante a obra; o fiscal confere o que está sendo feito com o projeto aprovado.\n3. Irregularidade → **notificação** (prazo para corrigir).\n4. Não corrigiu → **auto de infração** (multa).\n5. **Embargo**: paralisa a obra irregular ou sem licença (a obra para, o uso não está em jogo).\n6. **Interdição**: impede o uso ou a ocupação de edificação ou parte dela por **risco** à segurança ou à saúde.\n7. **Demolição** (total ou parcial) quando não há como regularizar.\n8. **Habite-se** (certificado de conclusão) depois da vistoria final: libera o uso.\n\n**Relatório × parecer × laudo:** relatório descreve o que foi visto; **parecer** dá opinião técnica fundamentada para subsidiar decisão; **laudo** é a peça técnica conclusiva de vistoria ou perícia.\n\n**Campina Grande:** Código de Obras (lei de 2013, com alterações posteriores) e Código de Posturas (Lei 4.129/2003); confira os números na legislação municipal. A IDECAN cobrou o Código de Obras de CG na prova de Fiscal de Obras de 2021.",
+   "leituras": [
+    {
+     "titulo": "Prova IDECAN 2021 — Fiscal de Obras de Campina Grande (PCI Concursos)",
+     "tipo": "site",
+     "url": "https://www.pciconcursos.com.br/provas/download/fiscal-de-obras-prefeitura-campina-grande-pb-idecan-2021",
+     "gratuito": true,
+     "nota": "Mesma banca e mesma prefeitura: faça a prova inteira e confira o gabarito."
+    },
+    {
+     "titulo": "Prefeitura de Campina Grande (Semanário Oficial)",
+     "tipo": "site",
+     "url": "https://campinagrande.pb.gov.br/",
+     "gratuito": true,
+     "nota": "Código de Obras e Código de Posturas do município."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Concurso Campina Grande-PB / Código de Obras: Questões (Fiscal de Obras)",
+     "canal": "Quarta Folha Concursos",
+     "youtubeId": "zoMBQU7Dvs8",
+     "duracao": "10:02"
+    },
+    {
+     "titulo": "COMO ESTUDAR O CÓDIGO DE OBRAS PARA CONCURSOS DE ARQUITETURA? Os assuntos ESSENCIAIS para a prova!!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "_U8hFYzTgX8",
+     "duracao": "15:01"
+    },
+    {
+     "titulo": "O que fazer se a prefeitura embargar a obra",
+     "canal": "Falando de Cidade",
+     "youtubeId": "CKDiCSfMcuY",
+     "duracao": "8:03"
+    },
+    {
+     "titulo": "GABARITO DA PROVA DE FISCAL DE OBRAS",
+     "canal": "Quarta Folha Concursos",
+     "youtubeId": "SH9MPle4XUw",
+     "duracao": "46:24"
+    }
+   ]
+  },
+  {
+   "id": "licenciamento-ambiental",
+   "nome": "Licenciamento ambiental de obras",
+   "edital": "Licenciamento ambiental de obras; licenciamento ambiental aplicado a obras e infraestrutura.",
+   "resumo": "**Resolução CONAMA 237/1997:**\n- **Licença Prévia (LP):** fase de planejamento; aprova localização e concepção, atesta a viabilidade. Validade de até **5 anos**.\n- **Licença de Instalação (LI):** autoriza a **implantação** (obra) conforme planos e programas aprovados. Até **6 anos**.\n- **Licença de Operação (LO):** autoriza o **funcionamento** depois de verificado o cumprimento das licenças anteriores. De **4 a 10 anos**.\n- Licenciamento em **um único nível** de competência.\n\n**LC 140/2011:** distribui a competência: União (impacto nacional ou regional, terras indígenas, mar territorial…), Estados (regra geral; na Paraíba, a **SUDEMA**), **Municípios (impacto ambiental local**, conforme tipologia do conselho estadual).\n\n**EIA/RIMA (Resolução CONAMA 01/1986):** exigido para atividade de **significativo impacto ambiental**; o RIMA é o relatório em linguagem acessível ao público, com audiência pública quando cabível.\n\n**Lei 6.938/1981:** Política Nacional do Meio Ambiente (SISNAMA, CONAMA). **Lei 9.605/1998:** crimes ambientais, incluindo construir em solo não edificável sem autorização e obra potencialmente poluidora sem licença.",
+   "leituras": [
+    {
+     "titulo": "Resolução CONAMA nº 237/1997",
+     "tipo": "norma",
+     "url": "https://conama.mma.gov.br/?option=com_sisconama&task=arquivo.download&id=237",
+     "gratuito": true,
+     "nota": "Arts. 1º, 8º, 10 e 18 (licenças e prazos)."
+    },
+    {
+     "titulo": "Lei Complementar nº 140/2011",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm",
+     "gratuito": true,
+     "nota": "Arts. 7º a 9º (competências)."
+    },
+    {
+     "titulo": "Lei nº 9.605/1998 (crimes ambientais)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+     "gratuito": true,
+     "nota": "Arts. 60 e 62 a 65."
+    },
+    {
+     "titulo": "Lei nº 6.938/1981 (Política Nacional do Meio Ambiente)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l6938.htm",
+     "gratuito": true,
+     "nota": "Arts. 2º, 6º e 9º."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "CONAMA 237/97: Licença Ambiental LI, LP e LO",
+     "canal": "Ecologia e Fiscalização Ambiental (EcoFis)",
+     "youtubeId": "y-TGvKkZNSo",
+     "duracao": "10:46"
+    },
+    {
+     "titulo": "CONAMA 001/86 EIA / RIMA: o que é e para que serve?",
+     "canal": "Ecologia e Fiscalização Ambiental (EcoFis)",
+     "youtubeId": "YADP8__D-j8",
+     "duracao": "24:53"
+    },
+    {
+     "titulo": "Licenciamento Ambiental | Aprenda com EXEMPLOS!",
+     "canal": "Valor Ambiental",
+     "youtubeId": "qnBkpzB5GAE",
+     "duracao": "5:36"
+    }
+   ]
+  },
+  {
+   "id": "orcamento-obras",
+   "nome": "Orçamento de obras: quantitativos, composição de custos, BDI e cronograma físico-financeiro",
+   "edital": "Orçamento de obras: levantamento de quantitativos; composição de custos; planilha orçamentária; cronograma físico-financeiro; medições.",
+   "resumo": "**Planilha orçamentária:** item, descrição, unidade, **quantidade**, custo unitário, preço unitário (com BDI) e total.\n\n**Custo direto:** materiais, mão de obra (com **encargos sociais**) e equipamentos, montados em **composições de custo unitário** (coeficiente de consumo × preço do insumo). Para o TCU, **administração local** (engenheiro, mestre, vigia da obra) entra como **custo direto** na planilha, não no BDI.\n\n**BDI (Benefícios e Despesas Indiretas):** administração central, seguro e garantia, risco, despesas financeiras, **lucro** e **tributos** (ISS, PIS, COFINS, CPRB). **Preço de venda = custo direto × (1 + BDI)**.\n\n**Referências de preço:** **SINAPI** (Caixa/IBGE) para edificações e **SICRO** (DNIT) para obras rodoviárias — Decreto 7.983/2013 e Lei 14.133/2021, art. 23. **CUB** (NBR 12721, Sinduscon) serve para estimativa por m².\n\n**Curva ABC:** ordena os itens pelo peso no custo; poucos itens (classe A) concentram a maior parte do valor e merecem mais atenção na negociação e na fiscalização.\n\n**Cronograma físico-financeiro:** distribui os serviços no tempo (físico, em %) e o desembolso (financeiro, em R$); o acumulado forma a **curva S**.\n\n**Medição:** apuração das quantidades efetivamente executadas no período para pagamento; só se paga serviço executado e conferido pelo fiscal.\n\n**Quantitativos:** área de alvenaria e de revestimento em m², concreto em m³, aço em kg, escavação em m³ (com empolamento no transporte).",
+   "leituras": [
+    {
+     "titulo": "Decreto nº 7.983/2013 (orçamento de referência de obras com recursos federais)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm",
+     "gratuito": true,
+     "nota": "Arts. 2º a 9º (SINAPI, SICRO, BDI)."
+    },
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas (orçamento e medição)",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Capítulos de orçamento, BDI e medições."
+    },
+    {
+     "titulo": "SINAPI — Caixa (cadernos técnicos e metodologia)",
+     "tipo": "site",
+     "url": "https://www.caixa.gov.br/sinapi",
+     "gratuito": true,
+     "nota": "Livro 'SINAPI: Metodologias e Conceitos' e cadernos técnicos das composições."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Engenharia Civil: Tudo Sobre Composição do Custo Unitário",
+     "canal": "Projeto Engenheiro",
+     "youtubeId": "AzT3-3Nn8s8",
+     "duracao": "48:29"
+    },
+    {
+     "titulo": "Curva ABC - Tudo que você precisa saber [Orçamento de Obras] | ALEX WETLER",
+     "canal": "Eng. Alex Wetler",
+     "youtubeId": "Gv7-7HZ2P9Q",
+     "duracao": "6:30"
+    },
+    {
+     "titulo": "COMO FAZER CRONOGRAMA FÍSICO X FINANCEIRO",
+     "canal": "Conaplo",
+     "youtubeId": "LmWDV4o9Akc",
+     "duracao": "14:47"
+    },
+    {
+     "titulo": "Como Utilizar a SINAPI 2026 no Seu Orçamento | Método Profissional",
+     "canal": "Eng. Alex Wetler",
+     "youtubeId": "cOGdMg_HtwQ",
+     "duracao": "24:34"
+    }
+   ]
+  },
+  {
+   "id": "licitacoes-14133",
+   "nome": "Licitações e contratos (Lei 14.133/2021) e fiscalização contratual",
+   "edital": "Noções de licitações e contratos pela Lei nº 14.133/2021; medições e fiscalização contratual.",
+   "resumo": "**Modalidades (art. 28):** **pregão**, **concorrência**, **concurso**, **leilão** e **diálogo competitivo**. Acabaram **tomada de preços** e **convite**. **Concurso** escolhe trabalho técnico, científico ou artístico (ex.: projeto de arquitetura) com prêmio ou remuneração.\n\n**Critérios de julgamento (art. 33):** menor preço; maior desconto; melhor técnica ou conteúdo artístico; técnica e preço; maior lance (leilão); maior retorno econômico.\n\n**Fases (art. 17):** preparatória → divulgação do edital → propostas e lances → julgamento → **habilitação** (em regra, depois do julgamento) → recursal → homologação.\n\n**Regimes de execução de obras (art. 6º e 46):** empreitada por preço unitário, por preço global, empreitada integral, contratação por tarefa, **contratação integrada** (o contratado faz projeto básico e executivo e executa a obra, a partir de um **anteprojeto**), **contratação semi-integrada** (o contratado faz o projeto executivo, a partir do **projeto básico**), fornecimento e prestação de serviço associado.\n\n**Contratos:**\n- **Alterações unilaterais (art. 125):** acréscimos ou supressões até **25%** do valor inicial atualizado; em **reforma** de edifício ou equipamento, acréscimos até **50%**.\n- **Garantia:** até **5%** do valor do contrato, podendo chegar a 10% conforme complexidade e riscos.\n- **Fiscal e gestor do contrato** (art. 117): o fiscal acompanha a execução e anota ocorrências; registros em livro de ordem/diário.\n- **Recebimento** provisório (pelo fiscal) e definitivo (por comissão ou servidor designado). O contratado responde pela solidez e segurança da obra por **5 anos** (Código Civil, art. 618).\n- **Matriz de riscos** obrigatória em contratações integradas e semi-integradas e em obras de grande vulto.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 14.133/2021 (texto compilado)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+     "gratuito": true,
+     "nota": "Arts. 6º (definições), 17, 28 a 33, 45 e 46 (obras), 117, 124 a 136, 140."
+    },
+    {
+     "titulo": "TCU — Obras públicas: recomendações básicas",
+     "tipo": "livro",
+     "url": "https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/obras-publicas-recomendacoes-basicas-para-a-contratacao-e-fiscalizacao-de-obras-de-edificacoes-publicas",
+     "gratuito": true,
+     "nota": "Fiscalização e recebimento de obras."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "NOVA LEI DE LICITAÇÕES E CONTRATOS ADMINISTRATIVOS - Resumo da Lei 14.133/2021 para Concursos",
+     "canal": "Me Julga - Cíntia Brunelli",
+     "youtubeId": "A_Q1o_m0IRk",
+     "duracao": "9:18"
+    },
+    {
+     "titulo": "Resumo de Licitações Públicas - Lei 14133",
+     "canal": "Prof. Herbert Almeida",
+     "youtubeId": "qXe73cK0lkU",
+     "duracao": "57:12"
+    },
+    {
+     "titulo": "Contratação Integrada e Semi-integrada | Série Licitações",
+     "canal": "Irene Nohara",
+     "youtubeId": "f3QT05o5Mxg",
+     "duracao": "6:35"
+    },
+    {
+     "titulo": "Nova Lei de Licitações [E7] - Matriz de risco na Lei 14133/21",
+     "canal": "Prof. Herbert Almeida",
+     "youtubeId": "0-dX0v_3w_g",
+     "duracao": "8:47"
+    }
+   ]
+  },
+  {
+   "id": "seguranca-trabalho",
+   "nome": "Segurança do trabalho na construção civil (NR-18, NR-35, NR-6)",
+   "edital": "Noções de segurança do trabalho na construção civil; segurança do trabalho em obras.",
+   "resumo": "**NR-18** (segurança e saúde no trabalho na indústria da construção, reformulada em 2020): o **PGR** (Programa de Gerenciamento de Riscos, NR-1) substituiu o antigo PCMAT. Trata de áreas de vivência, escavações, proteção contra quedas, andaimes, elevadores de obra, instalações elétricas provisórias, sinalização e ordem e limpeza.\n- Proteção contra queda em periferia e aberturas: **guarda-corpo com travessão superior a 1,20 m** e intermediário, mais rodapé, ou fechamento.\n- Escavações: taludes instáveis e escavações mais profundas que **1,25 m** precisam de estabilidade garantida (escoramento) e de acesso seguro.\n\n**NR-35 (trabalho em altura):** atividade **acima de 2,00 m do nível inferior** com risco de queda. Exige análise de risco, permissão de trabalho para atividades não rotineiras, capacitação (treinamento teórico e prático) e trabalhador apto em exame médico.\n\n**NR-6 (EPI):** o empregador fornece **gratuitamente** o EPI adequado, com **Certificado de Aprovação (CA)**, e exige o uso; o trabalhador usa e conserva.\n\n**Hierarquia de controle:** eliminar o risco → proteção coletiva (**EPC**) → medidas administrativas → **EPI** (último recurso). EPC tem prioridade sobre EPI.\n\nOutras: NR-10 (eletricidade), NR-12 (máquinas), NR-33 (espaço confinado), NR-5 (CIPA), NR-4 (SESMT).",
+   "leituras": [
+    {
+     "titulo": "NR-18 (construção civil)",
+     "tipo": "norma",
+     "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-18-nr-18",
+     "gratuito": true,
+     "nota": "Texto oficial vigente."
+    },
+    {
+     "titulo": "NR-35 (trabalho em altura)",
+     "tipo": "norma",
+     "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-35-nr-35",
+     "gratuito": true,
+     "nota": "Norma curta: ler inteira."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "#SextouComNR – Tudo sobre a NR-18 SEGURANÇA E SAÚDE NO TRABALHO NA INDÚSTRIA DA CONSTRUÇÃO",
+     "canal": "SST Online",
+     "youtubeId": "_KSNyuKs4PE",
+     "duracao": "9:35"
+    },
+    {
+     "titulo": "SextouComNR – Tudo sobre a NR-35 Trabalho em Altura",
+     "canal": "SST Online",
+     "youtubeId": "6F2RA7ELfOs",
+     "duracao": "9:45"
+    },
+    {
+     "titulo": "RESUMO Esquematizado NR 35 - Trabalho em Altura | Só o Que Cai Na Prova",
+     "canal": "Segurança do Trabalho - Antônio Carlos",
+     "youtubeId": "xffenAxSSgY",
+     "duracao": "7:07"
+    }
+   ]
+  },
+  {
+   "id": "etica-probidade",
+   "nome": "Ética, transparência, probidade e ética profissional do arquiteto",
+   "edital": "Ética, transparência e probidade na administração pública; ética profissional; responsabilidade técnica.",
+   "resumo": "**Improbidade (Lei 8.429/1992, alterada pela Lei 14.230/2021):**\n- Só existe com **dolo** (não há mais improbidade culposa).\n- Três tipos: **enriquecimento ilícito** (art. 9º), **prejuízo ao erário** (art. 10) e **atentado aos princípios** (art. 11, rol taxativo).\n- Sanções: perda dos bens acrescidos, ressarcimento, perda da função, **suspensão dos direitos políticos até 14 anos** (art. 9º) ou **até 12 anos** (art. 10), multa civil, proibição de contratar com o poder público. O art. 11 não tem mais suspensão de direitos políticos.\n- Prescrição: **8 anos**.\n- CF, art. 37, §4º: a improbidade gera suspensão dos direitos políticos, perda da função, indisponibilidade dos bens e ressarcimento, **sem prejuízo da ação penal**.\n\n**Lei Anticorrupção (12.846/2013):** responsabilidade **objetiva** (independe de culpa) da **pessoa jurídica** por atos contra a administração.\n\n**Código de Ética do servidor federal (Decreto 1.171/1994):** referência de deveres e vedações; a pena da Comissão de Ética é a **censura**.\n\n**Ética profissional do arquiteto:** **Lei 12.378/2010** criou o CAU/BR e os CAU/UF; todo trabalho de arquitetura gera **RRT (Registro de Responsabilidade Técnica)** (art. 45). **Código de Ética e Disciplina do CAU (Resolução CAU/BR 52/2013)**: deveres com o interesse público, com o contratante, com a profissão e com os colegas; sanções que vão de advertência até cancelamento do registro. (A ART e o sistema CONFEA saíram do edital.)\n\n**Conflito de interesses:** o servidor que fiscaliza não pode elaborar projetos para quem ele fiscaliza.",
+   "leituras": [
+    {
+     "titulo": "Lei nº 8.429/1992 (improbidade, texto atualizado)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm",
+     "gratuito": true,
+     "nota": "Arts. 1º, 9º a 12 e 23."
+    },
+    {
+     "titulo": "Lei nº 12.846/2013 (Lei Anticorrupção)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm",
+     "gratuito": true,
+     "nota": "Arts. 1º a 5º."
+    },
+    {
+     "titulo": "Decreto nº 1.171/1994 (Código de Ética do servidor federal)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm",
+     "gratuito": true,
+     "nota": "Regras deontológicas, deveres e vedações."
+    },
+    {
+     "titulo": "Lei nº 12.378/2010 (CAU e exercício da Arquitetura)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12378.htm",
+     "gratuito": true,
+     "nota": "Arts. 2º, 3º e 45 a 50."
+    },
+    {
+     "titulo": "Código de Ética e Disciplina do CAU (Resolução CAU/BR nº 52/2013)",
+     "tipo": "norma",
+     "url": "https://transparencia.caubr.gov.br/resolucao52/",
+     "gratuito": true,
+     "nota": "Ler as regras e as sanções."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "“Nova” Lei de IMPROBIDADE ADMINISTRATIVA (RESUMO) - Lei 8.429/92 ATUALIZADA (após mudanças)",
+     "canal": "Me Julga - Cíntia Brunelli",
+     "youtubeId": "zHeWj-GwiWc",
+     "duracao": "16:35"
+    },
+    {
+     "titulo": "Resumo de Improbidade Administrativa",
+     "canal": "Prof. Herbert Almeida",
+     "youtubeId": "LkpK6hCClcE",
+     "duracao": "29:31"
+    },
+    {
+     "titulo": "Resolução CAU/BR 52/2013 - Código de Ética e Disciplina do CAU/BR para CONCURSOS PÚBLICOS!!",
+     "canal": "Flashcards Arquitetura",
+     "youtubeId": "2eewdk0CwL8",
+     "duracao": "16:15"
+    }
+   ]
+  }
+ ]
+}

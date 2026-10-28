@@ -1,0 +1,134 @@
+{
+ "dataProva": "2027-01-10T13:00:00-03:00",
+ "nota": "Prova objetiva no domingo, 10/01/2027, turno da tarde (portões abrem às 13h). Locais divulgados em 30/12/2026. Específicas valem 40 dos 60 pontos: por isso recebem mais tempo em todas as semanas.",
+ "metaDiaria": { "questoes": 30, "minutosLeitura": 60, "videos": 1 },
+ "semanas": [
+  {
+   "n": 1, "inicio": "2026-10-29", "fim": "2026-11-04",
+   "foco": "Arrancada: diagnóstico, acessibilidade e SUS",
+   "assuntos": ["especificos:acessibilidade", "especificos:sus-vigilancia-sanitaria", "portugues"],
+   "tarefas": [
+    "Ler o resumo do edital (aba Edital) e conferir a confirmação de inscrição no site do IDECAN",
+    "Simulado diagnóstico de 20 questões, sem consultar nada",
+    "Aula Acessibilidade: resumo + 2 vídeos + todas as questões",
+    "Ler o Decreto 5.296/2004 (arts. 8º e 10 a 25)",
+    "Aula SUS e SNVS: Lei 8.080 (arts. 2º a 9º e 15 a 19) e Lei 8.142 inteira",
+    "Português: 10 questões por dia"
+   ]
+  },
+  {
+   "n": 2, "inicio": "2026-11-05", "fim": "2026-11-11",
+   "foco": "O coração do cargo: estabelecimentos de saúde e processo sanitário",
+   "assuntos": ["especificos:projetos-eas-rdc50", "especificos:poder-policia-processo-sanitario", "legislacao-etica"],
+   "tarefas": [
+    "Ler a RDC 50/2002 (Parte I inteira, atribuições da Parte II, critérios da Parte III)",
+    "Ler a RDC 189/2003",
+    "Ler a Lei 6.437/1977 (arts. 1º a 10 e 12 a 39)",
+    "Buscar o Código Sanitário de Campina Grande (LC 51/2010) na Prefeitura ou na Câmara",
+    "Fazer a prova IDECAN de Analista – Arquitetura da EBSERH/HC-UFPE (aba Provas)",
+    "Legislação e Ética: LGPD e LAI"
+   ]
+  },
+  {
+   "n": 3, "inicio": "2026-11-12", "fim": "2026-11-18",
+   "foco": "Boas práticas sanitárias e projeto de arquitetura",
+   "assuntos": ["especificos:boas-praticas-riscos-biosseguranca", "especificos:projeto-etapas-representacao", "especificos:circulacoes-saidas-emergencia", "portugues"],
+   "tarefas": [
+    "Ler a RDC 216/2004 (item 4, edificação e instalações) e a lista de grupos da RDC 222/2018",
+    "Aula Projeto: etapas, partido e leitura de planta baixa e cortes",
+    "Exercitar cálculos de escala e de escada (Blondel)",
+    "Fazer a prova IDECAN de Fiscal de Vigilância Sanitária (São Gonçalo do Rio Abaixo 2017)",
+    "Português: 10 questões por dia"
+   ]
+  },
+  {
+   "n": 4, "inicio": "2026-11-19", "fim": "2026-11-25",
+   "foco": "Urbanismo e fiscalização",
+   "assuntos": ["especificos:estatuto-cidade-plano-diretor", "especificos:parcelamento-solo", "especificos:fiscalizacao-obras-posturas", "historia-cg"],
+   "tarefas": [
+    "Ler o Estatuto da Cidade (arts. 1º a 6º e 25 a 42-B)",
+    "Ler a Lei 6.766/1979 (arts. 1º a 13, 18 e 50)",
+    "Treinar cálculos de taxa de ocupação e coeficiente de aproveitamento",
+    "Fazer a prova IDECAN de Fiscal de Obras de Campina Grande 2021",
+    "História de Campina Grande: aula + questões"
+   ]
+  },
+  {
+   "n": 5, "inicio": "2026-11-26", "fim": "2026-12-02",
+   "foco": "Técnicas construtivas I: do terreno à estrutura",
+   "assuntos": ["especificos:canteiro-servicos-preliminares", "especificos:fundacoes", "especificos:estruturas", "especificos:materiais-construcao", "informatica"],
+   "tarefas": [
+    "Aulas de canteiro, fundações, estruturas e materiais (vídeos ajudam muito aqui)",
+    "Montar uma tabela própria: CAA × cobrimento × a/c × classe do concreto",
+    "Fazer a prova IDECAN de Arquiteto da UFPB 2016",
+    "Informatica: aula + questões"
+   ]
+  },
+  {
+   "n": 6, "inicio": "2026-12-03", "fim": "2026-12-09",
+   "foco": "Técnicas construtivas II: vedações e instalações",
+   "assuntos": ["especificos:vedacoes-coberturas-impermeabilizacao", "especificos:instalacoes-hidrossanitarias", "especificos:instalacoes-eletricas-incendio-spda", "portugues"],
+   "tarefas": [
+    "Aulas de vedações, coberturas, impermeabilização e esquadrias",
+    "Aulas de instalações hidrossanitárias, elétricas, incêndio e SPDA",
+    "Fazer a prova IDECAN de Arquiteto do CRF-SP 2018",
+    "Português: 10 questões por dia"
+   ]
+  },
+  {
+   "n": 7, "inicio": "2026-12-10", "fim": "2026-12-16",
+   "foco": "Conforto, desempenho e meio ambiente",
+   "assuntos": ["especificos:conforto-ambiental", "especificos:desempenho-sustentabilidade", "especificos:licenciamento-ambiental", "legislacao-etica"],
+   "tarefas": [
+    "Ler os capítulos de conforto e bioclimatologia do livro do LabEEE (gratuito)",
+    "Ler a NBR 15575: níveis, exigências do usuário e VUP",
+    "Ler a Resolução CONAMA 237/1997 (licenças e prazos)",
+    "Legislação e Ética: Lei Orgânica de Campina Grande"
+   ]
+  },
+  {
+   "n": 8, "inicio": "2026-12-17", "fim": "2026-12-23",
+   "foco": "Gestão de obras públicas e ética",
+   "assuntos": ["especificos:orcamento-obras", "especificos:licitacoes-14133", "especificos:seguranca-trabalho", "especificos:etica-probidade", "informatica"],
+   "tarefas": [
+    "Aulas de orçamento (BDI, SINAPI, curva ABC, cronograma) e licitações (Lei 14.133)",
+    "Ler a NR-35 inteira e os itens de áreas de vivência e quedas da NR-18",
+    "Ler a Lei 8.429/1992 (arts. 1º, 9º a 12 e 23)",
+    "Simulado completo de 40 questões (aba Simulado), cronometrado"
+   ]
+  },
+  {
+   "n": 9, "inicio": "2026-12-24", "fim": "2026-12-30",
+   "foco": "Revisão 1 (semana de Natal: ritmo mais leve)",
+   "assuntos": ["especificos", "historia-cg"],
+   "tarefas": [
+    "Refazer as questões erradas de todas as aulas (filtro 'erradas' em Questões)",
+    "Reler os resumos das aulas com mais erros",
+    "Fazer 2 provas reais da IDECAN ainda não feitas",
+    "30/12: conferir o local de prova no site do IDECAN"
+   ]
+  },
+  {
+   "n": 10, "inicio": "2026-12-31", "fim": "2027-01-06",
+   "foco": "Revisão 2 e simulados",
+   "assuntos": ["especificos", "portugues", "informatica", "historia-cg", "legislacao-etica"],
+   "tarefas": [
+    "2 simulados completos de 40 questões, em 3 horas, no horário da prova (tarde)",
+    "Revisar os números-chave: NBR 9050, RDC 50, NBR 9077, NBR 6122, NBR 8160, NBR 5410",
+    "Revisar as leis secas: 8.080, 8.142, 6.437, 10.257, 6.766, 14.133",
+    "Refazer as erradas dos simulados"
+   ]
+  },
+  {
+   "n": 11, "inicio": "2027-01-07", "fim": "2027-01-10",
+   "foco": "Reta final",
+   "assuntos": ["especificos"],
+   "tarefas": [
+    "Revisão leve: só resumos e questões erradas, nada de assunto novo",
+    "Separar documento com foto, caneta esferográfica preta de corpo transparente e conferir o horário (portões abrem 13h)",
+    "Sábado 09/01: descanso e sono em dia",
+    "Domingo 10/01: prova à tarde. Comece pelas Específicas (valem o dobro)"
+   ]
+  }
+ ]
+}

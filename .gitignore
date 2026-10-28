@@ -1,0 +1,7 @@
+.playwright-mcp/
+__pycache__/
+*.pyc
+popup/estado.json
+popup/progresso-popup.json
+popup/popup.log
+.claude/

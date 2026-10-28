@@ -1,0 +1,9 @@
+{
+  "siteUrl": "https://arthursergio-hue.github.io/estudos-concurso-cg/",
+  "inicio": 8,
+  "fim": 22,
+  "intervaloMin": 60,
+  "intervaloMax": 100,
+  "minutosParado": 10,
+  "fecharSemRespostaMin": 5
+}

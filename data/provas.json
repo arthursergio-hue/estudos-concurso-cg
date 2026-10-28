@@ -1,0 +1,502 @@
+[
+ {
+  "id": "idecan-2026-alce-arquitetura",
+  "titulo": "Analista Legislativo – Arquitetura e Urbanismo — AL-CE",
+  "banca": "IDECAN",
+  "ano": 2026,
+  "orgao": "Assembleia Legislativa do Ceará",
+  "cargo": "Analista Legislativo – Arquitetura e Urbanismo",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "alta",
+  "nota": "A prova de arquitetura mais recente da IDECAN (16/08/2026). Faça primeiro.",
+  "url": "https://drive.google.com/file/d/1Glqn9x-qYaKUjgpa29qWYHIjeQbPRbIS/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1zMQSBawlM1sBkPghcfKaasq8YDarWFdY/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2026-al-ce-analista-legislativo-arquitetura-e-urbanismo"
+ },
+ {
+  "id": "idecan-2022-tjpi-arquiteto",
+  "titulo": "Arquiteto — TJ-PI",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Tribunal de Justiça do Piauí",
+  "cargo": "Arquiteto",
+  "disciplinas": [
+   "especificos",
+   "portugues",
+   "informatica"
+  ],
+  "relevancia": "alta",
+  "nota": "Prova recente de arquiteto da IDECAN no Nordeste.",
+  "url": "https://drive.google.com/file/d/1aQNUxHtF2ByCw-SuEkM8O1Em0R2THtRc/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1aCjTJS8YtFWObzrHviZzsp4A6ZrIEmMY/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2022-tj-pi-arquiteto"
+ },
+ {
+  "id": "idecan-2018-crfsp-arquiteto",
+  "titulo": "Arquiteto — CRF-SP (2018)",
+  "banca": "IDECAN",
+  "ano": 2018,
+  "orgao": "Conselho Regional de Farmácia de São Paulo",
+  "cargo": "Arquiteto",
+  "disciplinas": [
+   "especificos",
+   "portugues",
+   "informatica"
+  ],
+  "relevancia": "alta",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1Y4iplkRkwQdl_p69RAnJKMzdbDUOh06v/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/128n5cMUt2QlGEwXI4-uF17TbC9Qy0_RR/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2018-crf-sp-arquiteto"
+ },
+ {
+  "id": "idecan-2017-crfsp-arquiteto",
+  "titulo": "Arquiteto — CRF-SP (2017)",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Conselho Regional de Farmácia de São Paulo",
+  "cargo": "Arquiteto",
+  "disciplinas": [
+   "especificos",
+   "portugues",
+   "informatica"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/10DnHayffE8itdn1Y5AHii7D8rmYXZpaf/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1icSjMMsNTStgiZdzKmwVSQs-7-o992cm/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-crf-sp-arquiteto"
+ },
+ {
+  "id": "idecan-2016-ufpb-arquiteto",
+  "titulo": "Arquiteto — UFPB",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Universidade Federal da Paraíba",
+  "cargo": "Arquiteto",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "alta",
+  "nota": "Prova de arquiteto da IDECAN na Paraíba.",
+  "url": "https://drive.google.com/file/d/1ieDikYsqqVxxZGweWkXztow70MbjRGHx/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1eZdiScecy8_nohJViwoA40Hz4bMaMOO5/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-ufpb-arquiteto"
+ },
+ {
+  "id": "idecan-2014-detranro-arquiteto",
+  "titulo": "Arquiteto — DETRAN-RO",
+  "banca": "IDECAN",
+  "ano": 2014,
+  "orgao": "DETRAN de Rondônia",
+  "cargo": "Arquiteto",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1wxgQab2s06magYZwHzWra500HXtWxB9h/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1HCZAee7hjmoWLL8BRdzYZgi09K0w7QpK/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2014-detran-ro-arquiteto"
+ },
+ {
+  "id": "idecan-2023-deres-edificacoes",
+  "titulo": "Técnico Superior – Obras e Serviços de Edificações — DER-ES",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "DER do Espírito Santo",
+  "cargo": "Técnico Superior Operacional – Edificações",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "Técnicas construtivas, orçamento e fiscalização de obras.",
+  "url": "https://drive.google.com/file/d/1jLIGfhTawRdbQrtj2Q043e-bPiqL7eKk/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1_YRcJXXUYdzLObmcYwhya_8SOhBmZHez/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2023-der-es-tecnico-superior-operacional-obras-e-servicos-de-edificacoes"
+ },
+ {
+  "id": "idecan-2023-maracanau-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Maracanaú/CE",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura de Maracanaú/CE",
+  "cargo": "Fiscal Sanitário",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "alta",
+  "nota": "Vigilância sanitária pela IDECAN em 2023, numa prefeitura do Nordeste.",
+  "url": "https://drive.google.com/file/d/1C5i32fGuUAqkpJqRGY83XgxG3Rsp3v12/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1hOm6XIuAC1R4jt4ZWl3WLq4ee9dlmQBv/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2023-prefeitura-de-maracanau-ce-fiscal-sanitario"
+ },
+ {
+  "id": "idecan-2017-sgra-fiscal-vigilancia",
+  "titulo": "Fiscal de Vigilância Sanitária — Prefeitura de São Gonçalo do Rio Abaixo/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de São Gonçalo do Rio Abaixo/MG",
+  "cargo": "Fiscal de Vigilância Sanitária",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "alta",
+  "nota": "Lei 8.080, Lei 6.437 e poder de polícia pela IDECAN.",
+  "url": "https://drive.google.com/file/d/1B0u4S2dKiguoBGHE4k6nJiW6N0U2iu2q/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1NCVBSjNJ2KzYg8trDWjBSqImN2oLn1Nk/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-sao-goncalo-do-rio-abaixo-mg-fiscal-de-vigilancia-sanitaria"
+ },
+ {
+  "id": "idecan-2017-manhumirim-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Manhumirim/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de Manhumirim/MG",
+  "cargo": "Fiscal Sanitário",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "alta",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1K_jQ4fFzYcIp_7GyrdnkRd4fX4_0zqfo/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/10ikkjnyYOsCSR4R07v_uAXPUqnUt9a6f/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-manhumirim-mg-fiscal-sanitario"
+ },
+ {
+  "id": "idecan-2017-manhumirim-fiscal-obras",
+  "titulo": "Fiscal de Obras e Posturas — Prefeitura de Manhumirim/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de Manhumirim/MG",
+  "cargo": "Fiscal de Obras e Posturas",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "Fiscalização de obras e posturas.",
+  "url": "https://drive.google.com/file/d/1NMQMkSoCnC0V_Pj5wlWcFXsAg2amIuxb/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1K8If3tRRFKJDmlEthCIJhl-usX54Pfyb/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-manhumirim-mg-fiscal-de-obras-e-posturas"
+ },
+ {
+  "id": "idecan-2017-tenenteananias-vigilancia",
+  "titulo": "Agente de Vigilância Sanitária — Prefeitura de Tenente Ananias/RN",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de Tenente Ananias/RN",
+  "cargo": "Agente de Vigilância Sanitária",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1h57AJZKkwhaz-iSTYbYZg6L2BF7Zjykv/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1ES6v0wlNYsCwQoNWTKH8Q0VTausJwHK0/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-tenente-ananias-rn-agente-de-vigilancia-sanitaria"
+ },
+ {
+  "id": "idecan-2016-conquista-coord-visa",
+  "titulo": "Coordenador de Vigilância Sanitária — Prefeitura de Conquista/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Conquista/MG",
+  "cargo": "Coordenador de Vigilância Sanitária",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "alta",
+  "nota": "Nível superior em vigilância sanitária.",
+  "url": "https://drive.google.com/file/d/15DT8SB-ZE9eZWWQqgPMTW56cLp64PHPw/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1rcp6K57lNWbQRBPEUkzhQIgO8-rzXHDa/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-prefeitura-de-conquista-mg-coordenador-de-vigilancia-sanitaria"
+ },
+ {
+  "id": "idecan-2016-conquista-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Conquista/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Conquista/MG",
+  "cargo": "Fiscal Sanitário",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1uYF48r8-I2dmw0OQol98l6O3aWiW-EGm/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1HoIvHBhyo3owG8vQNM5IG4YFhWYLkYYA/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-prefeitura-de-conquista-mg-fiscal-sanitario"
+ },
+ {
+  "id": "idecan-2016-leopoldina-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Leopoldina/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Leopoldina/MG",
+  "cargo": "Fiscal Sanitário",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1YABZlE4wCg0huMkAGNc1TtxCGF6LfEyD/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1HFbdY-icmZumxWKJea3YzAPGbf78yUtd/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-prefeitura-de-leopoldina-mg-fiscal-sanitario"
+ },
+ {
+  "id": "idecan-2025-sesaprn-eng-civil",
+  "titulo": "Engenheiro Civil — SESAP-RN",
+  "banca": "IDECAN",
+  "ano": 2025,
+  "orgao": "Secretaria de Saúde Pública do Rio Grande do Norte",
+  "cargo": "Engenheiro Civil",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "alta",
+  "nota": "Obras de saúde, IDECAN 2025, no Nordeste.",
+  "url": "https://drive.google.com/file/d/1zQ1dV-aMfp7zouWe91FKrsZJWqVQk6pH/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1xJ-vjLVaxfkbIx5Z5g50U78PokzyKBfW/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2025-sesap-rn-engenheiro-civil"
+ },
+ {
+  "id": "idecan-2025-sopce-eng-civil",
+  "titulo": "Engenheiro Civil — SOP-CE",
+  "banca": "IDECAN",
+  "ano": 2025,
+  "orgao": "Superintendência de Obras Públicas do Ceará",
+  "cargo": "Engenheiro Civil",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "Obras públicas, orçamento e licitações.",
+  "url": "https://drive.google.com/file/d/12-xh6tNcyw27hR_HuXfV0QTUkOh5CnMU/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1MVcUD5moYhal3-Bt9z9ym9n0umXmHe7f/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2025-sop-ce-engenheiro-civil"
+ },
+ {
+  "id": "idecan-2024-caern-eng-civil",
+  "titulo": "Engenheiro Civil — CAERN",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Companhia de Águas e Esgotos do RN",
+  "cargo": "Engenheiro Civil",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1weWc_WmNzcYZZCMPABpPiBDP2oPOJqrX/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1JfzEEMpRjtNHBtgyUhTSEf9qVrr-Rw6l/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2024-caern-engenheiro-civil"
+ },
+ {
+  "id": "idecan-2022-tjpi-eng-civil",
+  "titulo": "Engenheiro Civil — TJ-PI",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Tribunal de Justiça do Piauí",
+  "cargo": "Engenheiro Civil",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "",
+  "url": "https://drive.google.com/file/d/1H7C32YGCzmC-m06ELkiv941PqxEpY42P/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1nQqDr53RwITLV8jLqAS_ICzCNZ-9K7Me/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2022-tj-pi-engenheiro-civil"
+ },
+ {
+  "id": "idecan-2021-cg-fiscal-tributos",
+  "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Fiscal de Tributos Municipais",
+  "disciplinas": [
+   "portugues",
+   "historia-cg",
+   "legislacao-etica",
+   "informatica"
+  ],
+  "relevancia": "alta",
+  "nota": "Nível superior, mesma banca e mesma prefeitura: termômetro dos Conhecimentos Gerais.",
+  "url": "https://drive.google.com/file/d/1lLwXoagGLmJ0X6-z0QyrO5AJJfrxlkvK/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1JRq0QDgblk4oZrSMYbgtSz_4llPeCYd4/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2021-prefeitura-de-campina-grande-pb-fiscal-de-tributos-municipais"
+ },
+ {
+  "id": "idecan-2021-cg-guarda-municipal",
+  "titulo": "Guarda Municipal — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Guarda Municipal",
+  "disciplinas": [
+   "portugues",
+   "historia-cg",
+   "legislacao-etica"
+  ],
+  "relevancia": "alta",
+  "nota": "Tem questões de História de Campina Grande.",
+  "url": "https://drive.google.com/file/d/1IwCX38wpqdQWr8cuRFxmFydQaUiS5pre/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1ePoxNDWMHkRbHNLTI0k2_Glute2VqKGY/view",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2021-prefeitura-de-campina-grande-pb-guarda-municipal"
+ },
+ {
+  "id": "idecan-2021-cg-fiscal-obras",
+  "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Fiscal de Obras",
+  "disciplinas": [
+   "especificos",
+   "portugues",
+   "historia-cg",
+   "legislacao-etica"
+  ],
+  "relevancia": "alta",
+  "nota": "Mesma banca e mesma prefeitura; cobrou o Código de Obras de Campina Grande. O caderno é o TIPO B: no gabarito (que traz todos os cargos), use a linha 'FISCAL DE OBRAS - TIPO B'.",
+  "url": "https://drive.google.com/file/d/1XLv7joiL77AZkWgsFG_FIl3I4YTdynB1/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1JMlkCEqchp84m-FLN_Cv0a21jXgwi_6K/view",
+  "fonte": "https://www.pciconcursos.com.br/provas/download/fiscal-de-obras-prefeitura-campina-grande-pb-idecan-2021"
+ },
+ {
+  "id": "idecan-2021-cg-agente-administrativo",
+  "titulo": "Agente Administrativo — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Agente Administrativo",
+  "disciplinas": [
+   "portugues",
+   "historia-cg",
+   "legislacao-etica",
+   "informatica"
+  ],
+  "relevancia": "alta",
+  "nota": "Conhecimentos Gerais da IDECAN em Campina Grande. Caderno TIPO A: no gabarito (todos os cargos), use 'AGENTE ADMINISTRATIVO - TIPO A'.",
+  "url": "https://drive.google.com/file/d/19psW8GW_6SphdpYeQpcjxrs_Btf3N6_w/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1wG-bpOoVI-V9P3OPrmO9LIc4k4NjOTk8/view",
+  "fonte": "https://www.pciconcursos.com.br/provas/download/agente-administrativo-prefeitura-campina-grande-pb-idecan-2021"
+ },
+ {
+  "id": "idecan-2021-cg-assistente-social",
+  "titulo": "Assistente Social Educacional — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Assistente Social Educacional",
+  "disciplinas": [
+   "portugues",
+   "historia-cg",
+   "legislacao-etica"
+  ],
+  "relevancia": "alta",
+  "nota": "Nível superior, mesma banca e prefeitura. Caderno TIPO A: no gabarito (todos os cargos), use 'ASSISTENTE SOCIAL EDUCACIONAL - TIPO A'.",
+  "url": "https://drive.google.com/file/d/1ONeOf5AYuU7GGqeFG_4Up1twlvSt-KK4/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1vwSziI0u33ClZJOzx4Zmu5joPlHHHAY_/view",
+  "fonte": "https://www.pciconcursos.com.br/provas/download/assistente-social-educacional-prefeitura-campina-grande-pb-idecan-2021"
+ },
+ {
+  "id": "idecan-2014-ebserh-arquitetura",
+  "titulo": "Analista Administrativo – Arquitetura — EBSERH (HC-UFPE)",
+  "banca": "IDECAN",
+  "ano": 2014,
+  "orgao": "EBSERH — Hospital das Clínicas da UFPE",
+  "cargo": "Analista Administrativo – Arquitetura",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "alta",
+  "nota": "Arquitetura hospitalar (RDC 50) pela IDECAN: muito perto do cargo. O gabarito oficial traz toda a área administrativa: procure 'Analista Administrativo – Arquitetura'.",
+  "url": "https://drive.google.com/file/d/1a7rVrdGJzrMf3VIE5FqCSfZ_l7eQ3jhN/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1Xh-JnsFIZyHpXlnZN-3j5VIkuzoJLQF7/view",
+  "fonte": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-arquitetura-ebserh-hc-ufpe-idecan-2014"
+ },
+ {
+  "id": "uepb-2014-cg-fiscal-obras",
+  "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB (UEPB)",
+  "banca": "UEPB (CPCON)",
+  "ano": 2014,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Fiscal de Obras",
+  "disciplinas": [
+   "especificos",
+   "historia-cg"
+  ],
+  "relevancia": "media",
+  "nota": "Outra banca, mesma prefeitura: legislação municipal de obras e posturas.",
+  "url": "https://drive.google.com/file/d/1zbRVKi4WYJ8YOleo8z_bPFvE4Nf4r0nL/view",
+  "local": "drive",
+  "gabarito": "https://drive.google.com/file/d/1-4FJgReZSX0DlMw6-ASd46FfiaO0yKV3/view",
+  "fonte": "https://www.pciconcursos.com.br/provas/download/fiscal-de-obras-prefeitura-campina-grande-pb-uepb-2014"
+ },
+ {
+  "id": "idecan-2016-uern-arquiteto",
+  "titulo": "Arquiteto Urbanista — UERN",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Universidade do Estado do Rio Grande do Norte",
+  "cargo": "Arquiteto Urbanista",
+  "disciplinas": [
+   "especificos",
+   "portugues"
+  ],
+  "relevancia": "media",
+  "nota": "O QConcursos não libera o PDF sem cadastro.",
+  "url": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-uern-arquiteto-urbanista",
+  "local": "link",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-uern-arquiteto-urbanista"
+ },
+ {
+  "id": "idecan-2023-maracanau-fiscal-urbanismo",
+  "titulo": "Fiscal de Urbanismo — Prefeitura de Maracanaú/CE",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura de Maracanaú/CE",
+  "cargo": "Fiscal de Urbanismo",
+  "disciplinas": [
+   "especificos"
+  ],
+  "relevancia": "media",
+  "nota": "O QConcursos não libera o PDF sem cadastro.",
+  "url": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2023-prefeitura-de-maracanau-ce-fiscal-de-urbanismo",
+  "local": "link",
+  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2023-prefeitura-de-maracanau-ce-fiscal-de-urbanismo"
+ }
+]

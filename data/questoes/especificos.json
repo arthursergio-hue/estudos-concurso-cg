@@ -1,0 +1,4602 @@
+[
+ {
+  "id": "esp-0001",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "De acordo com a ABNT NBR 9050:2020, o módulo de referência (M.R.), que representa a projeção no piso ocupada por uma pessoa utilizando cadeira de rodas, mede:",
+  "alternativas": [
+   "0,80 m × 1,20 m",
+   "0,90 m × 1,50 m",
+   "0,70 m × 1,20 m",
+   "0,80 m × 1,50 m"
+  ],
+  "correta": 0,
+  "comentario": "O M.R. é de 0,80 m × 1,20 m. É a base para dimensionar áreas de aproximação, transferência e manobra."
+ },
+ {
+  "id": "esp-0002",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Segundo a ABNT NBR 9050:2020, a área necessária para que uma pessoa em cadeira de rodas faça uma rotação completa de 360° corresponde a um círculo com diâmetro de:",
+  "alternativas": [
+   "1,80 m",
+   "1,20 m",
+   "1,50 m",
+   "1,40 m"
+  ],
+  "correta": 2,
+  "comentario": "Rotação de 90° = 1,20 × 1,20 m; 180° = 1,50 × 1,20 m; 360° = círculo de 1,50 m de diâmetro."
+ },
+ {
+  "id": "esp-0003",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Uma rampa em rota acessível vence um desnível de 0,48 m com projeção horizontal de 6,00 m. Considerando a ABNT NBR 9050:2020, é correto afirmar que a rampa tem inclinação de:",
+  "alternativas": [
+   "12,5%, e não atende ao limite máximo",
+   "0,8%, e atende com folga",
+   "8%, e não atende, pois o limite é de 5%",
+   "8%, e atende ao limite máximo de 8,33%"
+  ],
+  "correta": 3,
+  "comentario": "i = h × 100 / c = 0,48 × 100 / 6,00 = 8%. O limite máximo da norma é 8,33% (1:12)."
+ },
+ {
+  "id": "esp-0004",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Conforme a ABNT NBR 9050:2020, os corrimãos de escadas e rampas devem ser instalados:",
+  "alternativas": [
+   "em duas alturas, a 0,92 m e a 0,70 m do piso, prolongando-se 0,30 m nas extremidades",
+   "em duas alturas, a 0,92 m e a 0,70 m do piso, sem necessidade de prolongamento",
+   "em uma única altura de 1,00 m, sem prolongamento",
+   "em duas alturas, a 0,90 m e a 0,75 m do piso, prolongando-se 0,20 m nas extremidades"
+  ],
+  "correta": 0,
+  "comentario": "Duas alturas (0,92 m e 0,70 m, medidas da geratriz superior) e prolongamento mínimo de 0,30 m antes do início e após o término."
+ },
+ {
+  "id": "esp-0005",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Em rotas acessíveis, a ABNT NBR 9050:2020 estabelece que desníveis no piso superiores a 5 mm e até 20 mm devem:",
+  "alternativas": [
+   "ser tratados como degraus, com rampa ou escada",
+   "dispensar qualquer tratamento especial",
+   "ser vencidos por rampa com inclinação de 8,33%",
+   "possuir inclinação máxima de 1:2 (50%)"
+  ],
+  "correta": 3,
+  "comentario": "Até 5 mm: sem tratamento. De 5 a 20 mm: chanfro com inclinação máxima 1:2. Acima de 20 mm: tratado como degrau."
+ },
+ {
+  "id": "esp-0006",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 5.296/2004, art. 25",
+  "enunciado": "Nos estacionamentos externos ou internos das edificações de uso público ou de uso coletivo, o Decreto nº 5.296/2004 determina a reserva de vagas para veículos que transportem pessoa com deficiência física ou visual de, pelo menos:",
+  "alternativas": [
+   "10% do total, assegurada no mínimo duas vagas",
+   "2% do total, assegurada no mínimo uma vaga",
+   "5% do total, assegurada no mínimo uma vaga",
+   "1% do total, sem número mínimo"
+  ],
+  "correta": 1,
+  "comentario": "Art. 25 do Decreto 5.296/2004: pelo menos 2% do total, garantida no mínimo uma vaga, devidamente sinalizada. (Os 5% são das vagas para idosos, pelo Estatuto da Pessoa Idosa.)"
+ },
+ {
+  "id": "esp-0007",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 5.296/2004, art. 8º",
+  "enunciado": "De acordo com as definições do Decreto nº 5.296/2004, um hospital particular é classificado como edificação de uso:",
+  "alternativas": [
+   "público",
+   "privado",
+   "coletivo",
+   "misto"
+  ],
+  "correta": 2,
+  "comentario": "Uso público: administrada pela administração pública. Uso coletivo: atividades comerciais, de serviços, educacionais, de saúde etc. Uso privado: habitação. Um hospital particular é de uso coletivo."
+ },
+ {
+  "id": "esp-0008",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 5.296/2004, art. 22",
+  "enunciado": "Nas edificações de uso público a serem construídas, o Decreto nº 5.296/2004 determina que os sanitários destinados à pessoa com deficiência ou mobilidade reduzida sejam distribuídos na razão de, no mínimo:",
+  "alternativas": [
+   "uma cabine unissex a cada dois pavimentos",
+   "uma cabine por edificação, localizada no pavimento térreo",
+   "5% das cabines de cada sanitário coletivo, sem exigência por pavimento",
+   "uma cabine para cada sexo em cada pavimento, com entrada independente dos sanitários coletivos"
+  ],
+  "correta": 3,
+  "comentario": "Art. 22, §1º: no mínimo uma cabine para cada sexo em cada pavimento, com entrada independente dos sanitários coletivos."
+ },
+ {
+  "id": "esp-0009",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Segundo a ABNT NBR 9050:2020, a bacia sanitária acessível deve ter altura, medida do piso acabado à borda superior sem o assento, entre:",
+  "alternativas": [
+   "0,43 m e 0,45 m",
+   "0,46 m e 0,50 m",
+   "0,40 m e 0,43 m",
+   "0,38 m e 0,40 m"
+  ],
+  "correta": 0,
+  "comentario": "Entre 0,43 m e 0,45 m sem o assento; com o assento, no máximo 0,46 m."
+ },
+ {
+  "id": "esp-0010",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Para as calçadas, a ABNT NBR 9050:2020 estabelece que a faixa livre (passeio) deve ter:",
+  "alternativas": [
+   "largura mínima de 0,90 m, altura livre de 2,10 m e inclinação transversal máxima de 5%",
+   "largura mínima admissível de 1,20 m, altura livre mínima de 2,10 m e inclinação transversal máxima de 3%",
+   "largura mínima de 1,50 m, altura livre de 2,00 m e inclinação transversal máxima de 2%",
+   "largura mínima de 1,20 m, altura livre de 2,30 m e inclinação transversal máxima de 1%"
+  ],
+  "correta": 1,
+  "comentario": "Faixa livre: recomendável 1,50 m, mínima admissível 1,20 m; altura livre 2,10 m; inclinação transversal até 3%. A faixa de serviço fica junto ao meio-fio."
+ },
+ {
+  "id": "esp-0011",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16537 e NBR 9050:2020",
+  "enunciado": "A sinalização tátil de alerta no piso tem a função de:",
+  "alternativas": [
+   "substituir os corrimãos em rampas de pequena extensão",
+   "indicar o sentido de deslocamento em grandes áreas abertas",
+   "informar perigo ou obstáculo, como o início e o término de escadas e rampas",
+   "demarcar exclusivamente as vagas de estacionamento reservadas"
+  ],
+  "correta": 2,
+  "comentario": "Alerta = perigo, obstáculo, mudança de plano (escadas, rampas, travessias). Direcional = indica o caminho. Norma específica: ABNT NBR 16537."
+ },
+ {
+  "id": "esp-0012",
+  "disciplina": "especificos",
+  "assunto": "acessibilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Conforme a ABNT NBR 9050:2020, as portas em rotas acessíveis, quando abertas, devem ter vão livre mínimo de:",
+  "alternativas": [
+   "0,90 m de largura e 2,20 m de altura",
+   "0,80 m de largura e 2,10 m de altura",
+   "0,80 m de largura e 2,00 m de altura",
+   "0,70 m de largura e 2,00 m de altura"
+  ],
+  "correta": 1,
+  "comentario": "Vão livre mínimo de 0,80 m × 2,10 m. Em portas de duas folhas, ao menos uma folha deve ter 0,80 m. Maçaneta tipo alavanca entre 0,80 m e 1,10 m de altura."
+ },
+ {
+  "id": "esp-0013",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Segundo a ABNT NBR 16636-2, que trata do projeto arquitetônico, a sequência correta das etapas é:",
+  "alternativas": [
+   "levantamento de dados, programa de necessidades, estudo de viabilidade, estudo preliminar, anteprojeto, projeto legal e projeto para execução",
+   "levantamento de dados, anteprojeto, programa de necessidades, estudo preliminar e projeto legal",
+   "estudo preliminar, levantamento de dados, programa de necessidades, projeto para execução e projeto legal",
+   "programa de necessidades, levantamento de dados, anteprojeto, estudo preliminar, projeto legal e projeto para execução"
+  ],
+  "correta": 0,
+  "comentario": "Primeiro se levanta o que existe e o que se precisa; depois se estuda a viabilidade, concebe (estudo preliminar), define (anteprojeto), aprova (projeto legal) e detalha para executar."
+ },
+ {
+  "id": "esp-0014",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "A etapa do projeto arquitetônico destinada à concepção e à representação das informações técnicas iniciais e aproximadas da edificação, em que se define o partido arquitetônico, é o:",
+  "alternativas": [
+   "anteprojeto",
+   "projeto legal",
+   "estudo preliminar",
+   "projeto para execução"
+  ],
+  "correta": 2,
+  "comentario": "No estudo preliminar nasce o partido. O anteprojeto já traz a solução definida para compatibilização com as demais disciplinas."
+ },
+ {
+  "id": "esp-0015",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "A etapa do projeto que reúne as informações técnicas necessárias à análise e à aprovação pelas autoridades competentes, como prefeitura, vigilância sanitária e corpo de bombeiros, denomina-se:",
+  "alternativas": [
+   "estudo de viabilidade",
+   "levantamento de dados",
+   "projeto para execução",
+   "projeto legal"
+  ],
+  "correta": 3,
+  "comentario": "O projeto legal é elaborado conforme as exigências dos órgãos que aprovam e licenciam a obra."
+ },
+ {
+  "id": "esp-0016",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Sobre o partido arquitetônico, é correto afirmar que ele:",
+  "alternativas": [
+   "independe da legislação urbanística, considerada apenas no projeto legal",
+   "resulta das condicionantes do projeto, como programa de necessidades, terreno, clima, legislação, técnica construtiva e recursos disponíveis",
+   "é definido somente depois de concluído o projeto para execução",
+   "corresponde à memória de cálculo da estrutura"
+  ],
+  "correta": 1,
+  "comentario": "O partido é a ideia organizadora do projeto e responde às condicionantes desde o início, inclusive às legais (índices, recuos, normas sanitárias)."
+ },
+ {
+  "id": "esp-0017",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Na representação de uma planta baixa, o plano horizontal de corte imaginário situa-se, convencionalmente, a cerca de:",
+  "alternativas": [
+   "1,50 m do piso",
+   "2,50 m do piso, acima do forro",
+   "0,50 m do piso",
+   "no nível do piso acabado"
+  ],
+  "correta": 0,
+  "comentario": "A planta baixa é um corte horizontal a cerca de 1,50 m do piso, de modo a cortar paredes, portas e janelas (inclusive peitoris)."
+ },
+ {
+  "id": "esp-0018",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6492 e NBR 16861",
+  "enunciado": "Em uma planta baixa, elementos situados acima do plano de corte, como beirais, marquises e projeção de lajes, são representados por:",
+  "alternativas": [
+   "linhas contínuas grossas",
+   "não são representados",
+   "hachura de material cortado",
+   "linhas tracejadas"
+  ],
+  "correta": 3,
+  "comentario": "Elementos acima do plano de corte (projeções) aparecem com linhas tracejadas; elementos cortados têm traço mais grosso."
+ },
+ {
+  "id": "esp-0019",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Em uma planta na escala 1:50, uma parede mede 8,4 cm no desenho. O comprimento real dessa parede é de:",
+  "alternativas": [
+   "1,68 m",
+   "0,42 m",
+   "4,20 m",
+   "42,0 m"
+  ],
+  "correta": 2,
+  "comentario": "Real = desenho × denominador = 8,4 cm × 50 = 420 cm = 4,20 m."
+ },
+ {
+  "id": "esp-0020",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Um terreno retangular de 20 m × 30 m será desenhado inteiro em uma folha A3 (297 mm × 420 mm), desconsiderando margens. Entre as escalas abaixo, a maior que permite o desenho do terreno na folha é:",
+  "alternativas": [
+   "1:75",
+   "1:100",
+   "1:50",
+   "1:200"
+  ],
+  "correta": 0,
+  "comentario": "Em 1:50: 400 × 600 mm (não cabe). Em 1:75: 267 × 400 mm (cabe). Em 1:100: 200 × 300 mm (cabe, mas é escala menor). A maior escala que cabe é 1:75."
+ },
+ {
+  "id": "esp-0021",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021, art. 6º",
+  "enunciado": "Conforme a Lei nº 14.133/2021, o conjunto de elementos necessários e suficientes, com nível de precisão adequado, para definir e dimensionar a obra, que possibilita a avaliação do custo e a definição dos métodos e do prazo de execução, é o:",
+  "alternativas": [
+   "anteprojeto",
+   "projeto executivo",
+   "termo de referência",
+   "projeto básico"
+  ],
+  "correta": 3,
+  "comentario": "Art. 6º, XXV: projeto básico. O anteprojeto (XXIV) subsidia a contratação integrada; o projeto executivo (XXVI) detalha a execução completa."
+ },
+ {
+  "id": "esp-0022",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16752",
+  "enunciado": "O formato A1 da série A de folhas de desenho técnico tem dimensões de:",
+  "alternativas": [
+   "297 mm × 420 mm",
+   "594 mm × 841 mm",
+   "841 mm × 1.189 mm",
+   "420 mm × 594 mm"
+  ],
+  "correta": 1,
+  "comentario": "A0 = 841 × 1.189 mm (1 m²); A1 = 594 × 841; A2 = 420 × 594; A3 = 297 × 420; A4 = 210 × 297. Cada formato é metade do anterior."
+ },
+ {
+  "id": "esp-0023",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Na gestão do processo de projeto, a compatibilização consiste em:",
+  "alternativas": [
+   "aprovar o projeto legal na prefeitura",
+   "registrar a responsabilidade técnica do autor do projeto",
+   "sobrepor e analisar os projetos das diversas disciplinas para identificar e resolver interferências antes da execução",
+   "elaborar o orçamento a partir do projeto executivo"
+  ],
+  "correta": 2,
+  "comentario": "Compatibilizar é cruzar arquitetura, estrutura e instalações para eliminar conflitos (viga x tubulação, pilar x porta) ainda no papel."
+ },
+ {
+  "id": "esp-0024",
+  "disciplina": "especificos",
+  "assunto": "projeto-etapas-representacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16636-2 e NBR 6492",
+  "enunciado": "Em um corte arquitetônico, é correto afirmar que:",
+  "alternativas": [
+   "o plano de corte é vertical e sua posição e sentido de observação são indicados na planta baixa",
+   "não se representam lajes nem cotas de nível",
+   "o plano de corte é horizontal e passa a 1,50 m do piso",
+   "representa apenas a vista externa da edificação, sem seccionar elementos"
+  ],
+  "correta": 0,
+  "comentario": "O corte é um plano vertical indicado na planta por uma linha de corte com setas; mostra pés-direitos, lajes, cotas de nível. A vista externa sem seccionar é a fachada."
+ },
+ {
+  "id": "esp-0025",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Uma escada terá espelhos de 0,17 m. Pela fórmula de Blondel adotada na ABNT NBR 9050 (0,63 m ≤ p + 2e ≤ 0,65 m), o piso (p) pode medir:",
+  "alternativas": [
+   "0,25 m",
+   "0,34 m",
+   "0,30 m",
+   "0,20 m"
+  ],
+  "correta": 2,
+  "comentario": "2e = 0,34 m. Então 0,29 ≤ p ≤ 0,31 m. Das opções, só 0,30 m atende (e está na faixa de 0,28 a 0,32 m)."
+ },
+ {
+  "id": "esp-0026",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
+  "enunciado": "Na ABNT NBR 9077, a unidade de passagem, que é a largura mínima para a passagem de uma fila de pessoas, é de:",
+  "alternativas": [
+   "0,80 m",
+   "0,60 m",
+   "0,50 m",
+   "0,55 m"
+  ],
+  "correta": 3,
+  "comentario": "Unidade de passagem = 0,55 m. A largura das saídas é calculada em número de unidades de passagem."
+ },
+ {
+  "id": "esp-0027",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
+  "enunciado": "Um pavimento tem população de 240 pessoas e, para a ocupação considerada, a capacidade da unidade de passagem nas escadas é de 60 pessoas. Pela ABNT NBR 9077, a largura mínima da escada é de:",
+  "alternativas": [
+   "1,65 m",
+   "2,20 m",
+   "1,10 m",
+   "2,40 m"
+  ],
+  "correta": 1,
+  "comentario": "N = P / C = 240 / 60 = 4 unidades de passagem. Largura = 4 × 0,55 m = 2,20 m."
+ },
+ {
+  "id": "esp-0028",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
+  "enunciado": "Pela ABNT NBR 9077, a largura mínima das saídas de emergência em geral e a largura mínima exigida nas ocupações hospitalares com internação (H-3), para passagem de macas e camas, são, respectivamente:",
+  "alternativas": [
+   "1,10 m e 1,65 m",
+   "1,10 m e 2,20 m",
+   "0,90 m e 1,80 m",
+   "1,20 m e 1,50 m"
+  ],
+  "correta": 1,
+  "comentario": "1,10 m (duas unidades de passagem) em geral e 2,20 m nas ocupações H-3."
+ },
+ {
+  "id": "esp-0029",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Pela ABNT NBR 9050:2020, um corredor de uso comum com 8 m de extensão deve ter largura mínima de:",
+  "alternativas": [
+   "1,50 m",
+   "1,80 m",
+   "0,90 m",
+   "1,20 m"
+  ],
+  "correta": 3,
+  "comentario": "Até 4 m: 0,90 m; até 10 m: 1,20 m; acima de 10 m: 1,50 m. Corredores de uso público: 1,50 m."
+ },
+ {
+  "id": "esp-0030",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9050:2020",
+  "enunciado": "Conforme a ABNT NBR 9050:2020, as escadas fixas devem ter patamar sempre que houver mudança de direção e, no máximo, a cada desnível de:",
+  "alternativas": [
+   "2,50 m",
+   "3,70 m",
+   "3,20 m",
+   "2,90 m"
+  ],
+  "correta": 2,
+  "comentario": "Patamar a cada 3,20 m de desnível, no máximo, e em toda mudança de direção."
+ },
+ {
+  "id": "esp-0031",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
+  "enunciado": "Na ABNT NBR 9077, a escada à prova de fumaça (PF) caracteriza-se por:",
+  "alternativas": [
+   "ser enclausurada por paredes resistentes ao fogo, com acesso por antecâmara ventilada (ou balcão/terraço) e portas corta-fogo, impedindo a entrada de fumaça",
+   "não possuir paredes, com ventilação natural permanente em todos os lados",
+   "ter portas comuns de madeira e janelas de abrir voltadas para o exterior",
+   "ser externa, em estrutura metálica sem qualquer proteção"
+  ],
+  "correta": 0,
+  "comentario": "Tipos: não enclausurada (NE), enclausurada protegida (EP), à prova de fumaça (PF, com antecâmara) e à prova de fumaça pressurizada (PFP)."
+ },
+ {
+  "id": "esp-0032",
+  "disciplina": "especificos",
+  "assunto": "circulacoes-saidas-emergencia",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002, Parte III",
+  "enunciado": "Segundo a RDC Anvisa nº 50/2002, em estabelecimentos assistenciais de saúde, os corredores destinados à circulação de pacientes em macas devem ter largura mínima de:",
+  "alternativas": [
+   "1,50 m",
+   "1,20 m",
+   "2,40 m",
+   "2,00 m"
+  ],
+  "correta": 3,
+  "comentario": "Corredores de circulação de pacientes ambulantes ou em macas: 2,00 m (para os maiores que 11 m). Corredores só de pessoal e cargas não volumosas: 1,20 m."
+ },
+ {
+  "id": "esp-0033",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lamberts, Dutra e Pereira — Eficiência Energética na Arquitetura; ABNT NBR 15220",
+  "enunciado": "Em edificações situadas no Nordeste brasileiro, para proteger da radiação solar direta as aberturas voltadas para a fachada norte, o dispositivo de sombreamento geralmente mais eficiente é o:",
+  "alternativas": [
+   "brise vertical fixo",
+   "vidro incolor sem proteção externa",
+   "brise horizontal",
+   "aumento da área envidraçada"
+  ],
+  "correta": 2,
+  "comentario": "Na fachada norte o sol incide mais alto, e o brise horizontal (ou marquise) barra bem os raios. Nas fachadas leste e oeste, o sol baixo pede brises verticais ou mistos."
+ },
+ {
+  "id": "esp-0034",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lamberts, Dutra e Pereira — Eficiência Energética na Arquitetura; ABNT NBR 15220",
+  "enunciado": "O efeito chaminé, estratégia de ventilação natural, baseia-se:",
+  "alternativas": [
+   "na diferença de temperatura e densidade do ar: o ar quente sobe e sai por aberturas altas, enquanto o ar mais fresco entra pelas aberturas baixas",
+   "na diferença de pressão do vento entre fachadas opostas",
+   "no uso de exaustores mecânicos instalados na cobertura",
+   "no resfriamento evaporativo produzido por espelhos d'água"
+  ],
+  "correta": 0,
+  "comentario": "A diferença de pressão do vento entre fachadas é a ventilação cruzada. O efeito chaminé depende de diferença de altura entre as aberturas e de temperatura."
+ },
+ {
+  "id": "esp-0035",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lamberts, Dutra e Pereira — Eficiência Energética na Arquitetura; ABNT NBR 15220",
+  "enunciado": "Em relação à transmitância térmica (U) de um componente construtivo, é correto afirmar que:",
+  "alternativas": [
+   "a transmitância independe do material e da espessura do componente",
+   "quanto menor o valor de U, maior a capacidade de isolamento térmico do componente",
+   "a transmitância é medida em lux e expressa a quantidade de luz transmitida",
+   "quanto maior o valor de U, maior o isolamento térmico do componente"
+  ],
+  "correta": 1,
+  "comentario": "U (W/m²K) é o fluxo de calor por área e por diferença de temperatura. Valor baixo = componente mais isolante."
+ },
+ {
+  "id": "esp-0036",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15220-3",
+  "enunciado": "A ABNT NBR 15220-3 divide o território brasileiro em:",
+  "alternativas": [
+   "cinco zonas climáticas, segundo a classificação de Köppen",
+   "três zonas: quente, temperada e fria",
+   "oito zonas bioclimáticas, com diretrizes construtivas para habitações unifamiliares de interesse social",
+   "doze zonas definidas apenas pela altitude"
+  ],
+  "correta": 2,
+  "comentario": "São 8 zonas bioclimáticas (Z1 a mais fria, Z8 a mais quente e úmida), com recomendações de aberturas, sombreamento, paredes e coberturas."
+ },
+ {
+  "id": "esp-0037",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lamberts, Dutra e Pereira — Eficiência Energética na Arquitetura; ABNT NBR 15220",
+  "enunciado": "Para o clima quente e seco, como o do semiárido nordestino, é estratégia bioclimática recomendada:",
+  "alternativas": [
+   "eliminação do sombreamento para aproveitar o ganho solar",
+   "grandes superfícies envidraçadas voltadas para oeste",
+   "paredes leves e grandes aberturas permanentemente abertas durante o dia",
+   "paredes e coberturas com elevada inércia térmica, associadas à ventilação noturna"
+  ],
+  "correta": 3,
+  "comentario": "Com grande amplitude térmica diária, a massa térmica atrasa o calor do dia e a ventilação noturna resfria a estrutura."
+ },
+ {
+  "id": "esp-0038",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lamberts, Dutra e Pereira — Eficiência Energética na Arquitetura; ABNT NBR 15220",
+  "enunciado": "Sobre conforto acústico, assinale a alternativa correta.",
+  "alternativas": [
+   "Materiais porosos e fibrosos aumentam a absorção sonora do ambiente, mas, sozinhos, pouco contribuem para o isolamento entre ambientes.",
+   "O isolamento acústico depende apenas da cor do revestimento.",
+   "Paredes leves isolam mais que paredes pesadas de mesma estanqueidade.",
+   "Isolamento e absorção sonora são sinônimos."
+  ],
+  "correta": 0,
+  "comentario": "Absorção controla a reflexão dentro do ambiente (reverberação). Isolamento impede a passagem do som e depende de massa, estanqueidade e sistemas massa-mola-massa."
+ },
+ {
+  "id": "esp-0039",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Fórmula de Sabine",
+  "enunciado": "Uma sala de aula tem volume de 200 m³ e absorção sonora equivalente de 40 m² (sabine). Pela fórmula de Sabine (T = 0,161 V/A), o tempo de reverberação é de aproximadamente:",
+  "alternativas": [
+   "1,6 s",
+   "0,8 s",
+   "0,4 s",
+   "5,0 s"
+  ],
+  "correta": 1,
+  "comentario": "T = 0,161 × 200 / 40 = 0,805 s ≈ 0,8 s."
+ },
+ {
+  "id": "esp-0040",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Acústica arquitetônica",
+  "enunciado": "Duas máquinas idênticas produzem, cada uma, 80 dB em determinado ponto. Funcionando juntas, o nível de pressão sonora nesse ponto será de aproximadamente:",
+  "alternativas": [
+   "80 dB",
+   "83 dB",
+   "160 dB",
+   "86 dB"
+  ],
+  "correta": 1,
+  "comentario": "A escala é logarítmica: duas fontes iguais somam +3 dB."
+ },
+ {
+  "id": "esp-0041",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR ISO/CIE 8995-1",
+  "enunciado": "A grandeza usada para especificar o nível de iluminação de ambientes de trabalho na ABNT NBR ISO/CIE 8995-1, e sua unidade, são:",
+  "alternativas": [
+   "fluxo luminoso, em lúmen",
+   "intensidade luminosa, em candela",
+   "iluminância, em lux",
+   "temperatura de cor, em kelvin"
+  ],
+  "correta": 2,
+  "comentario": "Iluminância = fluxo luminoso por área (lux = lm/m²). A NBR ISO/CIE 8995-1 substituiu a NBR 5413."
+ },
+ {
+  "id": "esp-0042",
+  "disciplina": "especificos",
+  "assunto": "conforto-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Acústica arquitetônica",
+  "enunciado": "Segundo a lei da massa, ao dobrar a massa superficial de uma parede simples, seu isolamento acústico aumenta, teoricamente, cerca de:",
+  "alternativas": [
+   "3 dB",
+   "10 dB",
+   "20 dB",
+   "6 dB"
+  ],
+  "correta": 3,
+  "comentario": "Lei da massa: +6 dB a cada vez que a massa superficial dobra (ou a frequência dobra)."
+ },
+ {
+  "id": "esp-0043",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15575 (Edificações habitacionais — Desempenho)",
+  "enunciado": "A ABNT NBR 15575 (Edificações habitacionais — Desempenho) aplica-se a:",
+  "alternativas": [
+   "edificações habitacionais, independentemente do número de pavimentos",
+   "apenas habitações de interesse social",
+   "apenas edificações de até cinco pavimentos",
+   "somente edifícios comerciais e públicos"
+  ],
+  "correta": 0,
+  "comentario": "Desde a versão de 2013, a norma vale para edificações habitacionais de qualquer altura."
+ },
+ {
+  "id": "esp-0044",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15575 (Edificações habitacionais — Desempenho)",
+  "enunciado": "Os níveis de desempenho previstos na ABNT NBR 15575 são:",
+  "alternativas": [
+   "A, B, C, D e E, sendo o nível A obrigatório",
+   "mínimo (M), intermediário (I) e superior (S), sendo o mínimo obrigatório",
+   "básico e avançado, ambos facultativos",
+   "mínimo, intermediário e superior, todos obrigatórios"
+  ],
+  "correta": 1,
+  "comentario": "O nível M é obrigatório; I e S são opcionais e podem ser oferecidos como diferencial."
+ },
+ {
+  "id": "esp-0045",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15575 (Edificações habitacionais — Desempenho)",
+  "enunciado": "Segundo a ABNT NBR 15575, a vida útil de projeto (VUP) mínima da estrutura principal de uma edificação habitacional é de:",
+  "alternativas": [
+   "50 anos",
+   "20 anos",
+   "100 anos",
+   "40 anos"
+  ],
+  "correta": 0,
+  "comentario": "VUP mínima: estrutura ≥ 50 anos; vedação vertical externa ≥ 40; cobertura ≥ 20; vedação interna ≥ 20; hidrossanitário ≥ 20; pisos internos ≥ 13."
+ },
+ {
+  "id": "esp-0046",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15575 (Edificações habitacionais — Desempenho)",
+  "enunciado": "Na ABNT NBR 15575, desempenho térmico, acústico e lumínico, estanqueidade, saúde e funcionalidade pertencem ao grupo de exigências do usuário relativo à:",
+  "alternativas": [
+   "sustentabilidade",
+   "economia",
+   "habitabilidade",
+   "segurança"
+  ],
+  "correta": 2,
+  "comentario": "Segurança: estrutural, contra fogo, no uso e operação. Habitabilidade: os itens do enunciado. Sustentabilidade: durabilidade, manutenibilidade e impacto ambiental."
+ },
+ {
+  "id": "esp-0047",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15575 (Edificações habitacionais — Desempenho)",
+  "enunciado": "De acordo com a ABNT NBR 15575, a realização das manutenções previstas no manual de uso, operação e manutenção da edificação é responsabilidade do:",
+  "alternativas": [
+   "fabricante dos materiais",
+   "projetista",
+   "construtor ou incorporador",
+   "usuário ou proprietário"
+  ],
+  "correta": 3,
+  "comentario": "O construtor entrega o manual; o usuário faz a manutenção. Sem manutenção, a VUP não é atingida."
+ },
+ {
+  "id": "esp-0048",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "PBE Edifica (Inmetro/Procel)",
+  "enunciado": "Na etiquetagem do PBE Edifica, a Etiqueta Nacional de Conservação de Energia (ENCE) classifica a eficiência energética das edificações em níveis de:",
+  "alternativas": [
+   "1 a 10 pontos",
+   "E (mais eficiente) a A (menos eficiente)",
+   "A (mais eficiente) a E (menos eficiente)",
+   "bronze, prata e ouro"
+  ],
+  "correta": 2,
+  "comentario": "Escala de A a E. A avaliação usa a INI-C (comerciais, de serviços e públicas) e a INI-R (residenciais)."
+ },
+ {
+  "id": "esp-0049",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Certificações ambientais",
+  "enunciado": "É uma certificação ambiental de edificações desenvolvida no Brasil a partir da referência francesa HQE:",
+  "alternativas": [
+   "LEED",
+   "AQUA-HQE",
+   "BREEAM",
+   "Selo Procel Edifica"
+  ],
+  "correta": 1,
+  "comentario": "AQUA-HQE (Alta Qualidade Ambiental), da Fundação Vanzolini. O LEED é norte-americano; o BREEAM, britânico."
+ },
+ {
+  "id": "esp-0050",
+  "disciplina": "especificos",
+  "assunto": "desempenho-sustentabilidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Resolução CONAMA nº 307/2002",
+  "enunciado": "Segundo a Resolução CONAMA nº 307/2002, restos de concreto, argamassa, tijolos e blocos cerâmicos gerados em obras são resíduos da classe:",
+  "alternativas": [
+   "A",
+   "C",
+   "B",
+   "D"
+  ],
+  "correta": 0,
+  "comentario": "Classe A: reutilizáveis ou recicláveis como agregados. B: plásticos, papel, metais, vidros, madeiras, gesso. C: sem tecnologia de reciclagem viável. D: perigosos (tintas, solventes, amianto)."
+ },
+ {
+  "id": "esp-0051",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18 e técnicas construtivas",
+  "enunciado": "Na locação de obra pelo método do gabarito (tabeira), é correto afirmar que:",
+  "alternativas": [
+   "o método dispensa a verificação de esquadro entre os alinhamentos",
+   "a locação é feita somente após a execução das fundações",
+   "o método usa exclusivamente estação total, sem marcação física no terreno",
+   "tábuas niveladas, fixadas em pontaletes, contornam a obra; os eixos são marcados com pregos e deles se esticam linhas para transferir o projeto ao terreno"
+  ],
+  "correta": 3,
+  "comentario": "O gabarito permite marcar e remarcar os eixos durante as fundações e a alvenaria. O esquadro é conferido (ex.: triângulo 3-4-5)."
+ },
+ {
+  "id": "esp-0052",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Locação de obras",
+  "enunciado": "Para conferir o esquadro entre dois alinhamentos na locação, mede-se 0,60 m em um deles e 0,80 m no outro, a partir do vértice. Para que o ângulo seja de 90°, a distância entre esses dois pontos deve ser de:",
+  "alternativas": [
+   "1,40 m",
+   "1,00 m",
+   "1,20 m",
+   "0,70 m"
+  ],
+  "correta": 1,
+  "comentario": "Triângulo 3-4-5 (Pitágoras): 0,6² + 0,8² = 1,0²."
+ },
+ {
+  "id": "esp-0053",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Terraplenagem",
+  "enunciado": "Um volume de 100 m³ de solo, medido no corte (in situ), será transportado por caminhões. Considerando empolamento de 25%, o volume a transportar é de:",
+  "alternativas": [
+   "80 m³",
+   "100 m³",
+   "75 m³",
+   "125 m³"
+  ],
+  "correta": 3,
+  "comentario": "Solo escavado fica solto e aumenta de volume: 100 × 1,25 = 125 m³."
+ },
+ {
+  "id": "esp-0054",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18",
+  "enunciado": "A NR-18 determina que a instalação sanitária do canteiro tenha lavatório, bacia sanitária e mictório na proporção de um conjunto para cada grupo de ___ trabalhadores ou fração, e chuveiro na proporção de um para cada grupo de ___ trabalhadores ou fração. As lacunas são preenchidas, respectivamente, por:",
+  "alternativas": [
+   "10 e 20",
+   "30 e 15",
+   "20 e 10",
+   "50 e 25"
+  ],
+  "correta": 2,
+  "comentario": "1 conjunto (lavatório, bacia e mictório) a cada 20 trabalhadores; 1 chuveiro a cada 10."
+ },
+ {
+  "id": "esp-0055",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18",
+  "enunciado": "Segundo a NR-18, alojamento, lavanderia e área de lazer são exigidos no canteiro de obras:",
+  "alternativas": [
+   "somente quando houver trabalhadores alojados",
+   "apenas em obras públicas",
+   "em toda obra, independentemente do porte",
+   "somente em obras com mais de 100 trabalhadores"
+  ],
+  "correta": 0,
+  "comentario": "Instalações sanitárias, vestiário e local de refeições são sempre exigidos; alojamento, lavanderia e lazer, só com trabalhadores alojados."
+ },
+ {
+  "id": "esp-0056",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18 e técnicas construtivas",
+  "enunciado": "São serviços preliminares de uma obra de edificação, executados antes das fundações:",
+  "alternativas": [
+   "limpeza do terreno, sondagem, tapume, instalações provisórias e locação da obra",
+   "instalação de esquadrias e louças",
+   "revestimentos e pintura",
+   "impermeabilização de baldrames e elevação da alvenaria"
+  ],
+  "correta": 0,
+  "comentario": "Serviços preliminares preparam o terreno e o canteiro: limpeza, demolições, sondagem, topografia, tapume, barracão, ligações provisórias, locação."
+ },
+ {
+  "id": "esp-0057",
+  "disciplina": "especificos",
+  "assunto": "canteiro-servicos-preliminares",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Terraplenagem",
+  "enunciado": "O ensaio de laboratório que determina a umidade ótima e a massa específica aparente seca máxima de um solo, para orientar a compactação de aterros, é o ensaio de:",
+  "alternativas": [
+   "SPT",
+   "Proctor",
+   "abrasão Los Angeles",
+   "abatimento do tronco de cone"
+  ],
+  "correta": 1,
+  "comentario": "Ensaio de compactação Proctor. O SPT é sondagem de campo; o abatimento mede a consistência do concreto; o Los Angeles, a abrasão de agregados."
+ },
+ {
+  "id": "esp-0058",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Segundo a ABNT NBR 6122, o elemento de fundação superficial de concreto, dimensionado de modo que as tensões de tração nele resultantes sejam resistidas pelo próprio concreto, sem necessidade de armadura, é o(a):",
+  "alternativas": [
+   "tubulão",
+   "sapata",
+   "bloco",
+   "radier"
+  ],
+  "correta": 2,
+  "comentario": "Bloco: concreto simples, trabalha à compressão. Sapata: concreto armado, a armadura resiste à tração."
+ },
+ {
+  "id": "esp-0059",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Elemento de fundação superficial que abrange parte ou todos os pilares de uma estrutura, distribuindo os carregamentos ao solo:",
+  "alternativas": [
+   "viga baldrame",
+   "sapata isolada",
+   "estaca",
+   "radier"
+  ],
+  "correta": 3,
+  "comentario": "O radier funciona como uma grande laje de fundação; é útil em solos de baixa capacidade quando as sapatas ficariam muito próximas."
+ },
+ {
+  "id": "esp-0060",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "De acordo com a ABNT NBR 6122, considera-se fundação profunda aquela cuja ponta ou base está apoiada a uma profundidade superior a:",
+  "alternativas": [
+   "oito vezes a sua menor dimensão em planta e, no mínimo, 3,0 m",
+   "cinco vezes a sua maior dimensão em planta e, no mínimo, 2,0 m",
+   "duas vezes a sua menor dimensão em planta e, no mínimo, 1,5 m",
+   "dez vezes a sua menor dimensão em planta e, no mínimo, 5,0 m"
+  ],
+  "correta": 0,
+  "comentario": "Profunda: mais de 8 vezes a menor dimensão e no mínimo 3 m. Rasa: assentada a menos de 2 vezes a menor dimensão."
+ },
+ {
+  "id": "esp-0061",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6484",
+  "enunciado": "No ensaio de sondagem à percussão (SPT), o índice N corresponde ao número de golpes necessários para cravar:",
+  "alternativas": [
+   "os 15 cm iniciais do amostrador, com martelo de 65 kg caindo de 75 cm",
+   "1,00 m de amostrador, com martelo de 100 kg caindo de 50 cm",
+   "os 45 cm totais do amostrador, com martelo de 75 kg caindo de 65 cm",
+   "os 30 cm finais do amostrador padrão, com martelo de 65 kg caindo de 75 cm de altura"
+  ],
+  "correta": 3,
+  "comentario": "Crava-se o amostrador 45 cm, contando golpes a cada 15 cm; o N(SPT) é a soma dos golpes dos últimos 30 cm."
+ },
+ {
+  "id": "esp-0062",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Pela ABNT NBR 6122, nas divisas com terrenos vizinhos, salvo quando a fundação for assentada sobre rocha, a profundidade de assentamento de sapatas não pode ser inferior a:",
+  "alternativas": [
+   "0,50 m",
+   "1,50 m",
+   "3,00 m",
+   "1,00 m"
+  ],
+  "correta": 1,
+  "comentario": "1,5 m nas divisas, para não comprometer as fundações vizinhas."
+ },
+ {
+  "id": "esp-0063",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Em obra vizinha a edificações antigas sensíveis a vibrações, o tipo de estaca menos indicado, em regra, é a estaca:",
+  "alternativas": [
+   "hélice contínua monitorada",
+   "escavada com trado mecânico",
+   "Franki, executada com cravação por golpes de pilão",
+   "raiz"
+  ],
+  "correta": 2,
+  "comentario": "A Franki é cravada por golpes de pilão e gera vibração e ruído. Hélice contínua, escavada e raiz praticamente não vibram."
+ },
+ {
+  "id": "esp-0064",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Elemento de fundação profunda, de forma cilíndrica, em que, ao menos na etapa final, há descida de operário para executar o alargamento da base ou a limpeza do fundo:",
+  "alternativas": [
+   "tubulão",
+   "estaca Strauss",
+   "estaca pré-moldada de concreto",
+   "radier"
+  ],
+  "correta": 0,
+  "comentario": "Definição de tubulão na NBR 6122 (a céu aberto ou a ar comprimido)."
+ },
+ {
+  "id": "esp-0065",
+  "disciplina": "especificos",
+  "assunto": "fundacoes",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6122 e NBR 6484",
+  "enunciado": "Segundo a ABNT NBR 6122, em planta, sapatas e blocos de fundação não podem ter dimensão inferior a:",
+  "alternativas": [
+   "50 cm",
+   "60 cm",
+   "40 cm",
+   "80 cm"
+  ],
+  "correta": 1,
+  "comentario": "Dimensão mínima em planta de 60 cm."
+ },
+ {
+  "id": "esp-0066",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "Segundo a ABNT NBR 6118, uma edificação em ambiente urbano, sem condições especiais de agressividade, enquadra-se na classe de agressividade ambiental (CAA):",
+  "alternativas": [
+   "IV — muito forte",
+   "I — fraca",
+   "II — moderada",
+   "III — forte"
+  ],
+  "correta": 2,
+  "comentario": "CAA I: rural e submersa. CAA II: urbana. CAA III: marinha e industrial. CAA IV: industrial química e respingos de maré."
+ },
+ {
+  "id": "esp-0067",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "Para a classe de agressividade ambiental II, a ABNT NBR 6118 estabelece cobrimento nominal mínimo, para vigas e pilares de concreto armado, de:",
+  "alternativas": [
+   "20 mm",
+   "25 mm",
+   "40 mm",
+   "30 mm"
+  ],
+  "correta": 3,
+  "comentario": "CAA II: laje 25 mm; viga e pilar 30 mm. CAA I: 20/25. CAA III: 35/40. CAA IV: 45/50."
+ },
+ {
+  "id": "esp-0068",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "Sobre a relação água/cimento (a/c) no concreto, é correto afirmar que seu aumento tende a:",
+  "alternativas": [
+   "aumentar a resistência à compressão e a durabilidade",
+   "reduzir a trabalhabilidade do concreto fresco",
+   "não alterar as propriedades do concreto endurecido",
+   "reduzir a resistência e aumentar a porosidade, diminuindo a durabilidade"
+  ],
+  "correta": 3,
+  "comentario": "Mais água = mais poros após a evaporação = menos resistência e mais caminho para agentes agressivos. Por isso a NBR 6118 limita a a/c por classe de agressividade (II: 0,60)."
+ },
+ {
+  "id": "esp-0069",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "No aço CA-50, usado em concreto armado, o número 50 indica:",
+  "alternativas": [
+   "a resistência característica de escoamento de 50 kgf/mm², ou 500 MPa",
+   "o diâmetro nominal de 50 mm",
+   "o comprimento comercial da barra de 50 m",
+   "o teor de carbono de 0,50%"
+  ],
+  "correta": 0,
+  "comentario": "CA-25, CA-50 e CA-60: o número é o fyk em kgf/mm². CA-50 são barras nervuradas; CA-60, fios."
+ },
+ {
+  "id": "esp-0070",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "O fck de um concreto representa:",
+  "alternativas": [
+   "a resistência à tração na flexão aos 7 dias",
+   "a resistência característica à compressão, em geral referida à idade de 28 dias",
+   "o módulo de elasticidade inicial",
+   "o consumo mínimo de cimento por metro cúbico"
+  ],
+  "correta": 1,
+  "comentario": "fck = resistência característica à compressão (MPa), normalmente aos 28 dias. Ex.: C25 tem fck de 25 MPa."
+ },
+ {
+  "id": "esp-0071",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 6118, NBR 16868, NBR 7190",
+  "enunciado": "Pela ABNT NBR 6118, a seção transversal de pilares maciços não deve ter dimensão menor que ___ nem área inferior a ___, admitindo-se, em casos especiais, dimensões entre 14 cm e 19 cm com coeficiente adicional de segurança.",
+  "alternativas": [
+   "12 cm; 240 cm²",
+   "20 cm; 400 cm²",
+   "19 cm; 360 cm²",
+   "15 cm; 300 cm²"
+  ],
+  "correta": 2,
+  "comentario": "19 cm e 360 cm². Entre 14 e 19 cm, multiplica-se o esforço por um coeficiente adicional γn."
+ },
+ {
+  "id": "esp-0072",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16868",
+  "enunciado": "Em um edifício em alvenaria estrutural, um morador pede autorização para remover uma parede interna e integrar sala e cozinha. A conduta técnica correta é:",
+  "alternativas": [
+   "autorizar, pois paredes internas são sempre de vedação",
+   "não remover a parede sem avaliação e projeto de profissional habilitado, pois as paredes têm função estrutural",
+   "autorizar a substituição da parede por drywall sem análise",
+   "autorizar desde que se aplique reforço de argamassa no teto"
+  ],
+  "correta": 1,
+  "comentario": "Na alvenaria estrutural as paredes são a própria estrutura. Retirada sem projeto pode levar ao colapso: é ponto clássico de fiscalização."
+ },
+ {
+  "id": "esp-0073",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16868",
+  "enunciado": "Na alvenaria estrutural, o graute é:",
+  "alternativas": [
+   "um concreto ou argamassa fluida lançado nos vazados verticais dos blocos para aumentar a resistência e solidarizar armaduras",
+   "um bloco especial usado para compensar a modulação",
+   "um revestimento impermeabilizante aplicado nas faces externas",
+   "a argamassa usada nas juntas horizontais de assentamento"
+  ],
+  "correta": 0,
+  "comentario": "O graute preenche os furos verticais em pontos de reforço (cantos, encontros, vergas) e envolve as armaduras."
+ },
+ {
+  "id": "esp-0074",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 14762",
+  "enunciado": "O sistema construtivo light steel frame caracteriza-se pelo uso de:",
+  "alternativas": [
+   "perfis laminados a quente de grande porte, soldados na obra",
+   "blocos de concreto armados com barras de aço",
+   "toras de madeira maciça encaixadas",
+   "perfis de aço galvanizado formados a frio, compondo paredes, pisos e coberturas, com fechamento em placas"
+  ],
+  "correta": 3,
+  "comentario": "Light steel frame: estrutura leve de perfis de aço galvanizado formados a frio (NBR 14762), fechamento em placas cimentícias, OSB ou gesso."
+ },
+ {
+  "id": "esp-0075",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9062",
+  "enunciado": "É vantagem característica das estruturas pré-moldadas de concreto:",
+  "alternativas": [
+   "dispensar o projeto das ligações entre as peças",
+   "eliminar a necessidade de fundações",
+   "maior controle de qualidade e redução do prazo de obra, por serem produzidas fora do local definitivo",
+   "dispensar equipamentos de transporte e içamento"
+  ],
+  "correta": 2,
+  "comentario": "Produção industrial com controle e montagem rápida. Os pontos críticos são as ligações, o transporte e o içamento."
+ },
+ {
+  "id": "esp-0076",
+  "disciplina": "especificos",
+  "assunto": "estruturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 7190",
+  "enunciado": "Na ABNT NBR 7190, que trata das estruturas de madeira, as propriedades de resistência e rigidez são referidas à umidade padrão de:",
+  "alternativas": [
+   "0%",
+   "12%",
+   "30%",
+   "20%"
+  ],
+  "correta": 1,
+  "comentario": "Umidade de referência de 12%. Acima do ponto de saturação das fibras (cerca de 25% a 30%), a resistência cai."
+ },
+ {
+  "id": "esp-0077",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 14715 (chapas de gesso)",
+  "enunciado": "Em sistemas drywall, a chapa de gesso indicada para áreas úmidas, como banheiros, identificada geralmente pela cor verde, é a chapa:",
+  "alternativas": [
+   "ST (standard)",
+   "RF (resistente ao fogo)",
+   "acústica perfurada",
+   "RU (resistente à umidade)"
+  ],
+  "correta": 3,
+  "comentario": "ST: uso geral (branca/cinza). RU: verde, áreas úmidas. RF: rosa/vermelha, resistência ao fogo."
+ },
+ {
+  "id": "esp-0078",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "Na estrutura de madeira de um telhado de telhas cerâmicas, a sequência das peças, de baixo para cima, é:",
+  "alternativas": [
+   "terças, ripas, caibros, tesoura e telhas",
+   "ripas, caibros, terças, tesoura e telhas",
+   "tesoura, terças, caibros, ripas e telhas",
+   "tesoura, caibros, terças, ripas e telhas"
+  ],
+  "correta": 2,
+  "comentario": "As tesouras apoiam as terças; as terças, os caibros; os caibros, as ripas; e as ripas, as telhas."
+ },
+ {
+  "id": "esp-0079",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "A aresta inclinada reentrante, formada pelo encontro de duas águas de um telhado, que recolhe e conduz as águas pluviais, denomina-se:",
+  "alternativas": [
+   "rincão (água-furtada)",
+   "espigão",
+   "beiral",
+   "cumeeira"
+  ],
+  "correta": 0,
+  "comentario": "Espigão: aresta inclinada saliente, divisor de águas. Cumeeira: aresta horizontal mais alta. Rincão: aresta reentrante que recebe água."
+ },
+ {
+  "id": "esp-0080",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "O encunhamento das alvenarias de vedação, isto é, sua fixação à estrutura superior, deve ser executado:",
+  "alternativas": [
+   "logo após o assentamento da primeira fiada",
+   "depois que a estrutura estiver carregada, preferencialmente após a elevação das alvenarias dos pavimentos superiores",
+   "antes da retirada das fôrmas da laje superior",
+   "com argamassa rígida de cimento puro imediatamente após a elevação da parede"
+  ],
+  "correta": 1,
+  "comentario": "Deixar a estrutura se deformar antes de travar a alvenaria evita que ela receba carga e fissure."
+ },
+ {
+  "id": "esp-0081",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "Vergas e contravergas em vãos de portas e janelas têm a função de:",
+  "alternativas": [
+   "servir de marco para fixação da esquadria",
+   "reduzir o peso próprio da alvenaria",
+   "distribuir as cargas e evitar fissuras nos cantos dos vãos, devendo ultrapassar as laterais da abertura",
+   "impermeabilizar o peitoril"
+  ],
+  "correta": 2,
+  "comentario": "Os cantos dos vãos concentram tensões. Vergas (em cima) e contravergas (embaixo) ultrapassam o vão para os lados."
+ },
+ {
+  "id": "esp-0082",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "Em revestimento tradicional de paredes com argamassa, a ordem de aplicação das camadas é:",
+  "alternativas": [
+   "chapisco, emboço e reboco",
+   "chapisco, reboco e emboço",
+   "reboco, chapisco e emboço",
+   "emboço, chapisco e reboco"
+  ],
+  "correta": 0,
+  "comentario": "Chapisco (aderência) → emboço (regularização) → reboco (acabamento fino). Hoje é comum a massa única no lugar de emboço + reboco."
+ },
+ {
+  "id": "esp-0083",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9574",
+  "enunciado": "Após a execução da impermeabilização de uma laje, o teste de estanqueidade deve ser feito com lâmina d'água mantida por, no mínimo:",
+  "alternativas": [
+   "6 horas",
+   "7 dias",
+   "24 horas",
+   "72 horas"
+  ],
+  "correta": 3,
+  "comentario": "Teste com lâmina d'água por no mínimo 72 h, antes da proteção mecânica e do revestimento."
+ },
+ {
+  "id": "esp-0084",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 9575",
+  "enunciado": "Para impermeabilizar uma laje de cobertura exposta a variações térmicas e sujeita a fissuração, o sistema mais indicado é:",
+  "alternativas": [
+   "flexível, como manta asfáltica ou membrana elastomérica, com proteção mecânica",
+   "cristalizante aplicado sobre o concreto",
+   "rígido, com argamassa com aditivo hidrófugo",
+   "pintura acrílica comum"
+  ],
+  "correta": 0,
+  "comentario": "Sistemas flexíveis acompanham a movimentação da estrutura. Rígidos servem para áreas sem movimentação (reservatórios enterrados, baldrames)."
+ },
+ {
+  "id": "esp-0085",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "enunciado": "A janela cujas folhas giram em torno de um eixo horizontal situado na parte superior, projetando-se para fora, é do tipo:",
+  "alternativas": [
+   "basculante",
+   "guilhotina",
+   "de correr",
+   "maxim-ar"
+  ],
+  "correta": 3,
+  "comentario": "Maxim-ar: eixo horizontal no topo, projetante. Basculante: eixo horizontal central. Guilhotina: folhas deslizam na vertical."
+ },
+ {
+  "id": "esp-0086",
+  "disciplina": "especificos",
+  "assunto": "vedacoes-coberturas-impermeabilizacao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 7199",
+  "enunciado": "Em guarda-corpos e coberturas envidraçadas recomenda-se o vidro laminado porque:",
+  "alternativas": [
+   "ele se fragmenta em pequenos pedaços arredondados",
+   "em caso de quebra, os fragmentos permanecem aderidos à película intermediária (PVB), reduzindo o risco de queda de cacos",
+   "ele dispensa caixilhos e fixações",
+   "ele não quebra sob impacto"
+  ],
+  "correta": 1,
+  "comentario": "O laminado segura os cacos na película. Fragmentar em pedaços pequenos é característica do temperado."
+ },
+ {
+  "id": "esp-0087",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 8160, NBR 5626 e NBR 10844",
+  "enunciado": "Pela ABNT NBR 8160, a declividade mínima das tubulações horizontais de esgoto com diâmetro nominal igual ou superior a 100 é de:",
+  "alternativas": [
+   "0,5%",
+   "2%",
+   "1%",
+   "5%"
+  ],
+  "correta": 2,
+  "comentario": "DN ≤ 75: 2%. DN ≥ 100: 1%. A máxima recomendada é 5%."
+ },
+ {
+  "id": "esp-0088",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 8160, NBR 5626 e NBR 10844",
+  "enunciado": "O dispositivo provido de fecho hídrico, destinado a impedir a passagem dos gases da instalação de esgoto para o ambiente, é o:",
+  "alternativas": [
+   "desconector",
+   "tubo de queda",
+   "subcoletor",
+   "ralo seco"
+  ],
+  "correta": 0,
+  "comentario": "Desconector (sifão, caixa sifonada) mantém uma coluna de água que bloqueia os gases."
+ },
+ {
+  "id": "esp-0089",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 8160, NBR 5626 e NBR 10844",
+  "enunciado": "A principal função do sistema de ventilação na instalação predial de esgoto é:",
+  "alternativas": [
+   "dispensar o uso de sifões",
+   "aumentar a vazão dos coletores",
+   "proteger o fecho hídrico dos desconectores contra rompimento por aspiração ou compressão e encaminhar os gases para a atmosfera",
+   "resfriar os efluentes antes do lançamento na rede"
+  ],
+  "correta": 2,
+  "comentario": "Sem ventilação, as variações de pressão podem sifonar ou expulsar o fecho hídrico, e o mau cheiro volta ao ambiente."
+ },
+ {
+  "id": "esp-0090",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 10844 e NBR 8160",
+  "enunciado": "Sobre o destino das águas pluviais de uma edificação, é correto afirmar que:",
+  "alternativas": [
+   "devem ser ligadas à rede de esgoto sanitário",
+   "podem ser lançadas no esgoto desde que passem por caixa de gordura",
+   "devem ir obrigatoriamente para o tanque séptico",
+   "não devem ser lançadas na rede de esgoto sanitário, pois no Brasil adota-se o sistema separador absoluto"
+  ],
+  "correta": 3,
+  "comentario": "Separador absoluto: águas pluviais e esgoto em redes independentes. Ligação de pluvial no esgoto sobrecarrega a rede e as estações."
+ },
+ {
+  "id": "esp-0091",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 10844",
+  "enunciado": "Pela ABNT NBR 10844, para o dimensionamento das instalações de águas pluviais de coberturas e terraços, adota-se período de retorno de:",
+  "alternativas": [
+   "50 anos",
+   "5 anos",
+   "25 anos",
+   "1 ano"
+  ],
+  "correta": 1,
+  "comentario": "1 ano: áreas pavimentadas onde o empoçamento é tolerado. 5 anos: coberturas e terraços. 25 anos: coberturas onde não se tolera empoçamento."
+ },
+ {
+  "id": "esp-0092",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5626",
+  "enunciado": "O refluxo de água servida ou contaminada para dentro da rede de água potável, causado por pressão negativa na tubulação, denomina-se:",
+  "alternativas": [
+   "cavitação",
+   "perda de carga",
+   "golpe de aríete",
+   "retrossifonagem"
+  ],
+  "correta": 3,
+  "comentario": "A NBR 5626 exige separação atmosférica (ou dispositivo antirrefluxo) entre a saída de água e o nível máximo do aparelho."
+ },
+ {
+  "id": "esp-0093",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 8160, NBR 5626 e NBR 10844",
+  "enunciado": "Os efluentes das pias de cozinha devem passar por ___ antes de chegar ao coletor predial. A lacuna é corretamente preenchida por:",
+  "alternativas": [
+   "caixa sifonada do banheiro",
+   "caixa de gordura",
+   "reservatório inferior",
+   "caixa de areia"
+  ],
+  "correta": 1,
+  "comentario": "A caixa de gordura retém óleos e gorduras que entupiriam a rede."
+ },
+ {
+  "id": "esp-0094",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5626",
+  "enunciado": "A ABNT NBR 5626 limita a pressão estática nos pontos de utilização de água fria a:",
+  "alternativas": [
+   "400 kPa (40 m.c.a.)",
+   "50 kPa (5 m.c.a.)",
+   "100 kPa (10 m.c.a.)",
+   "1.000 kPa (100 m.c.a.)"
+  ],
+  "correta": 0,
+  "comentario": "Acima de 400 kPa, usam-se válvulas redutoras de pressão (comum em edifícios altos)."
+ },
+ {
+  "id": "esp-0095",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 7229",
+  "enunciado": "Na ausência de rede pública de esgoto, a ABNT NBR 7229 trata do projeto, construção e operação de:",
+  "alternativas": [
+   "poços de captação de água",
+   "caixas de gordura",
+   "tanques sépticos",
+   "reservatórios de água potável"
+  ],
+  "correta": 2,
+  "comentario": "NBR 7229: tanques sépticos. NBR 13969: unidades de tratamento complementar e disposição final (filtro anaeróbio, sumidouro, vala de infiltração)."
+ },
+ {
+  "id": "esp-0096",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-hidrossanitarias",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 8160, NBR 5626 e NBR 10844",
+  "enunciado": "Pela ABNT NBR 8160, o ramal de descarga de uma bacia sanitária deve ter diâmetro nominal mínimo de:",
+  "alternativas": [
+   "DN 75",
+   "DN 50",
+   "DN 100",
+   "DN 40"
+  ],
+  "correta": 2,
+  "comentario": "Bacia sanitária: DN 100 (6 UHC). Lavatório: DN 40. Pia de cozinha: DN 50."
+ },
+ {
+  "id": "esp-0097",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5410, NBR 5419 e normas de segurança contra incêndio",
+  "enunciado": "Segundo a ABNT NBR 5410, é obrigatório o uso de dispositivo diferencial residual (DR) de alta sensibilidade (até 30 mA) em circuitos que atendam:",
+  "alternativas": [
+   "apenas o quadro de medição da concessionária",
+   "apenas motores trifásicos",
+   "somente a iluminação das salas",
+   "pontos em locais com banheira ou chuveiro, cozinhas, áreas de serviço, lavanderias e tomadas em áreas externas"
+  ],
+  "correta": 3,
+  "comentario": "DR protege pessoas contra choque. É exigido nas áreas molhadas e nas tomadas externas (ou internas que alimentem equipamentos externos)."
+ },
+ {
+  "id": "esp-0098",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5410, NBR 5419 e normas de segurança contra incêndio",
+  "enunciado": "Pela ABNT NBR 5410, a identificação por cores dos condutores neutro e de proteção (PE) é, respectivamente:",
+  "alternativas": [
+   "azul-claro e verde-amarelo",
+   "verde e azul-claro",
+   "branco e preto",
+   "preto e vermelho"
+  ],
+  "correta": 0,
+  "comentario": "Neutro: azul-claro. Proteção: verde-amarelo (ou verde). Fases: outras cores, como preto, vermelho, branco."
+ },
+ {
+  "id": "esp-0099",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5410, NBR 5419 e normas de segurança contra incêndio",
+  "enunciado": "Pela ABNT NBR 5410, as seções mínimas dos condutores de cobre para circuitos de iluminação e de tomadas são, respectivamente:",
+  "alternativas": [
+   "2,5 mm² e 4,0 mm²",
+   "1,5 mm² e 2,5 mm²",
+   "0,75 mm² e 1,5 mm²",
+   "1,0 mm² e 1,5 mm²"
+  ],
+  "correta": 1,
+  "comentario": "Iluminação: 1,5 mm². Força (tomadas): 2,5 mm²."
+ },
+ {
+  "id": "esp-0100",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5410, NBR 5419 e normas de segurança contra incêndio",
+  "enunciado": "Em cozinhas, copas e áreas de serviço, a ABNT NBR 5410 exige pelo menos uma tomada de uso geral para cada ___ de perímetro, ou fração.",
+  "alternativas": [
+   "2,0 m",
+   "3,5 m",
+   "6,0 m",
+   "5,0 m"
+  ],
+  "correta": 1,
+  "comentario": "Cozinha e área de serviço: 1 a cada 3,5 m. Salas e quartos: 1 a cada 5 m. Banheiro: ao menos 1 junto ao lavatório."
+ },
+ {
+  "id": "esp-0101",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5410, NBR 5419 e normas de segurança contra incêndio",
+  "enunciado": "Para um cômodo de 14 m², a carga mínima de iluminação prevista pela ABNT NBR 5410 é de:",
+  "alternativas": [
+   "220 VA",
+   "280 VA",
+   "160 VA",
+   "100 VA"
+  ],
+  "correta": 0,
+  "comentario": "100 VA para os primeiros 6 m² + 60 VA para cada 4 m² inteiros: restam 8 m² = 2 × 60 VA. Total = 220 VA."
+ },
+ {
+  "id": "esp-0102",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Classes de incêndio",
+  "enunciado": "O agente extintor que NÃO deve ser usado em incêndio classe B (líquidos e gases inflamáveis) é:",
+  "alternativas": [
+   "espuma mecânica",
+   "pó químico seco",
+   "dióxido de carbono (CO₂)",
+   "jato pleno de água"
+  ],
+  "correta": 3,
+  "comentario": "O jato de água espalha o líquido em chamas. Classe B: pó, CO₂ ou espuma."
+ },
+ {
+  "id": "esp-0103",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Classes de incêndio",
+  "enunciado": "Em incêndio em quadro elétrico energizado (classe C), os agentes extintores adequados são:",
+  "alternativas": [
+   "apenas água pressurizada",
+   "espuma e areia molhada",
+   "dióxido de carbono (CO₂) e pó químico",
+   "água e espuma"
+  ],
+  "correta": 2,
+  "comentario": "Água e espuma conduzem eletricidade. Classe C: CO₂ ou pó químico. Desligada a energia, o fogo passa a ser tratado conforme o material."
+ },
+ {
+  "id": "esp-0104",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Classes de incêndio",
+  "enunciado": "Madeira, papel e tecidos, que queimam em superfície e em profundidade e deixam resíduos (brasas), caracterizam incêndio da classe:",
+  "alternativas": [
+   "D",
+   "B",
+   "A",
+   "C"
+  ],
+  "correta": 2,
+  "comentario": "A: sólidos (água é o agente clássico). B: líquidos inflamáveis. C: equipamentos energizados. D: metais combustíveis. K: óleo de cozinha."
+ },
+ {
+  "id": "esp-0105",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5419:2015",
+  "enunciado": "A ABNT NBR 5419 prevê, para o subsistema de captação do SPDA, os métodos:",
+  "alternativas": [
+   "aterramento TT, TN e IT",
+   "ângulo de proteção (Franklin), esfera rolante (eletrogeométrico) e malhas (gaiola de Faraday)",
+   "Hunter, Sabine e Blondel",
+   "seletividade, coordenação e filiação"
+  ],
+  "correta": 1,
+  "comentario": "TT, TN e IT são esquemas de aterramento da NBR 5410. Os três métodos de captação são Franklin, esfera rolante e malhas."
+ },
+ {
+  "id": "esp-0106",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 13714",
+  "enunciado": "A norma ABNT que trata dos sistemas de hidrantes e de mangotinhos para combate a incêndio é a:",
+  "alternativas": [
+   "NBR 13714",
+   "NBR 9077",
+   "NBR 10897",
+   "NBR 5410"
+  ],
+  "correta": 0,
+  "comentario": "NBR 13714: hidrantes e mangotinhos. NBR 10897: chuveiros automáticos (sprinklers). NBR 9077: saídas de emergência."
+ },
+ {
+  "id": "esp-0107",
+  "disciplina": "especificos",
+  "assunto": "instalacoes-eletricas-incendio-spda",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 5419:2015",
+  "enunciado": "Sobre os níveis de proteção do SPDA previstos na ABNT NBR 5419, é correto afirmar que:",
+  "alternativas": [
+   "o nível é definido apenas pela altura do prédio, sem análise de risco",
+   "há quatro níveis, de I a IV, sendo o nível IV o mais rigoroso",
+   "há apenas dois níveis: residencial e industrial",
+   "há quatro níveis, de I a IV, sendo o nível I o mais rigoroso"
+  ],
+  "correta": 3,
+  "comentario": "Níveis I a IV; o I tem maior eficiência de proteção. A escolha resulta da análise de risco (parte 2 da norma)."
+ },
+ {
+  "id": "esp-0108",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697",
+  "enunciado": "Uma fábrica de pré-moldados precisa desformar as peças rapidamente para reaproveitar as fôrmas. O cimento mais indicado é o:",
+  "alternativas": [
+   "CP V-ARI",
+   "CP III",
+   "CPB (branco)",
+   "CP IV"
+  ],
+  "correta": 0,
+  "comentario": "CP V-ARI = alta resistência inicial. CP III e CP IV ganham resistência mais devagar e têm baixo calor de hidratação."
+ },
+ {
+  "id": "esp-0109",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697",
+  "enunciado": "Em concretagens de grande volume, como blocos de fundação de grandes dimensões, em que se deseja baixo calor de hidratação, é indicado o cimento:",
+  "alternativas": [
+   "CP I (comum)",
+   "CPB (branco estrutural)",
+   "CP III (de alto-forno)",
+   "CP V-ARI"
+  ],
+  "correta": 2,
+  "comentario": "Cimentos com escória (CP III) ou pozolana (CP IV) liberam menos calor e reduzem fissuras térmicas; também resistem melhor a sulfatos."
+ },
+ {
+  "id": "esp-0110",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16889",
+  "enunciado": "O ensaio de abatimento do tronco de cone (slump test) avalia, no concreto fresco, a:",
+  "alternativas": [
+   "resistência à compressão",
+   "consistência (trabalhabilidade)",
+   "massa específica",
+   "resistência à tração"
+  ],
+  "correta": 1,
+  "comentario": "Mede quanto o concreto abate ao retirar o cone: indica a consistência e serve para controle de recebimento na obra."
+ },
+ {
+  "id": "esp-0111",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "enunciado": "Adicionar água ao concreto na obra para facilitar o lançamento, sem correção do traço, provoca:",
+  "alternativas": [
+   "aumento da resistência e da durabilidade",
+   "nenhuma alteração, pois a água evapora",
+   "redução da retração por secagem",
+   "redução da resistência e da durabilidade, pelo aumento da relação água/cimento"
+  ],
+  "correta": 3,
+  "comentario": "Mais água sem mais cimento eleva a relação a/c: concreto mais poroso, menos resistente e menos durável. Para ganhar fluidez, usa-se aditivo plastificante."
+ },
+ {
+  "id": "esp-0112",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "enunciado": "Na argamassa mista de cimento, cal e areia, a cal hidratada contribui principalmente para:",
+  "alternativas": [
+   "dar plasticidade e retenção de água, melhorando a trabalhabilidade e a capacidade de absorver pequenas deformações",
+   "aumentar a resistência inicial",
+   "impermeabilizar totalmente a parede",
+   "acelerar o tempo de pega"
+  ],
+  "correta": 0,
+  "comentario": "Cimento dá resistência; cal dá plasticidade, retenção de água e deformabilidade."
+ },
+ {
+  "id": "esp-0113",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR ISO 13006",
+  "enunciado": "Na classificação das placas cerâmicas por absorção de água, o porcelanato apresenta absorção:",
+  "alternativas": [
+   "entre 3% e 6%",
+   "acima de 10%",
+   "entre 6% e 10%",
+   "igual ou inferior a 0,5%"
+  ],
+  "correta": 3,
+  "comentario": "Porcelanato (grupo BIa): absorção ≤ 0,5%. Absorções maiores indicam grês, semigrês, semiporoso e poroso."
+ },
+ {
+  "id": "esp-0114",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "enunciado": "O índice PEI de placas cerâmicas esmaltadas indica a:",
+  "alternativas": [
+   "absorção de água",
+   "resistência à abrasão superficial",
+   "resistência ao escorregamento",
+   "resistência a manchas"
+  ],
+  "correta": 1,
+  "comentario": "PEI de 0 a 5: quanto maior, mais resistente ao desgaste pelo tráfego. Vale para peças esmaltadas."
+ },
+ {
+  "id": "esp-0115",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 7199",
+  "enunciado": "Sobre o vidro temperado, é correto afirmar que:",
+  "alternativas": [
+   "pode ser cortado e furado na obra depois de temperado",
+   "tem a mesma resistência mecânica do vidro float comum",
+   "é cerca de quatro a cinco vezes mais resistente que o vidro comum e, ao quebrar, fragmenta-se em pequenos pedaços",
+   "ao quebrar, mantém os fragmentos presos a uma película interna"
+  ],
+  "correta": 2,
+  "comentario": "Cortes e furos são feitos antes da têmpera. Segurar os cacos numa película é propriedade do laminado."
+ },
+ {
+  "id": "esp-0116",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 15270",
+  "enunciado": "O bloco cerâmico estrutural diferencia-se do bloco cerâmico de vedação comum principalmente por:",
+  "alternativas": [
+   "ter furos na horizontal",
+   "ter furos na vertical e resistência à compressão especificada para função estrutural",
+   "ser produzido com cimento e areia",
+   "ser sempre maciço"
+  ],
+  "correta": 1,
+  "comentario": "Blocos estruturais trabalham com furos verticais (que recebem graute e armadura) e têm resistência controlada."
+ },
+ {
+  "id": "esp-0117",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 7211",
+  "enunciado": "Agregado miúdo é o material granular que passa na peneira de abertura de malha de:",
+  "alternativas": [
+   "4,75 mm",
+   "9,5 mm",
+   "19 mm",
+   "0,075 mm"
+  ],
+  "correta": 0,
+  "comentario": "Miúdo (areia): passa na peneira 4,75 mm e fica retido na de 0,075 mm. Graúdo (brita): fica retido na de 4,75 mm."
+ },
+ {
+  "id": "esp-0118",
+  "disciplina": "especificos",
+  "assunto": "materiais-construcao",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "enunciado": "O tratamento de madeira em autoclave tem como objetivo:",
+  "alternativas": [
+   "secar a madeira instantaneamente",
+   "aplicar acabamento envernizado",
+   "aumentar a densidade natural da espécie",
+   "impregnar produtos preservativos sob pressão, aumentando a resistência a fungos e insetos"
+  ],
+  "correta": 3,
+  "comentario": "Vácuo e pressão forçam o preservativo para dentro das fibras, dando durabilidade a madeiras de reflorestamento."
+ },
+ {
+  "id": "esp-0119",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.080/1990",
+  "enunciado": "Segundo a Lei nº 8.080/1990, entende-se por vigilância sanitária:",
+  "alternativas": [
+   "um conjunto de ações que proporcionam o conhecimento, a detecção ou a prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde, para recomendar medidas de controle de doenças",
+   "a execução de ações de assistência terapêutica integral, inclusive farmacêutica",
+   "um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde",
+   "um conjunto de atividades destinadas à promoção e proteção da saúde dos trabalhadores submetidos aos riscos das condições de trabalho"
+  ],
+  "correta": 2,
+  "comentario": "Art. 6º, §1º. A segunda alternativa é a vigilância epidemiológica (§2º); a terceira, a saúde do trabalhador (§3º)."
+ },
+ {
+  "id": "esp-0120",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.080/1990",
+  "enunciado": "De acordo com a Lei nº 8.080/1990, compete à direção municipal do SUS:",
+  "alternativas": [
+   "definir e coordenar o Sistema Nacional de Vigilância Sanitária",
+   "executar serviços de vigilância epidemiológica, vigilância sanitária, alimentação e nutrição, saneamento básico e saúde do trabalhador",
+   "executar a vigilância sanitária de portos, aeroportos e fronteiras",
+   "coordenar, em caráter complementar, as ações de vigilância sanitária no estado"
+  ],
+  "correta": 1,
+  "comentario": "Art. 18, IV. Portos, aeroportos e fronteiras e a coordenação do sistema são da União (art. 16); coordenar e executar em caráter complementar é do Estado (art. 17)."
+ },
+ {
+  "id": "esp-0121",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.080/1990",
+  "enunciado": "A vigilância sanitária de portos, aeroportos e fronteiras, segundo a Lei nº 8.080/1990, tem normas estabelecidas e execução a cargo:",
+  "alternativas": [
+   "dos consórcios intermunicipais de saúde",
+   "exclusivamente dos Municípios",
+   "dos Estados, com participação da União apenas no financiamento",
+   "da União, podendo a execução ser complementada pelos Estados, Distrito Federal e Municípios"
+  ],
+  "correta": 3,
+  "comentario": "Art. 16, parágrafo único e inciso VII: competência da direção nacional, com execução complementar possível."
+ },
+ {
+  "id": "esp-0122",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.080/1990",
+  "enunciado": "Entre as alternativas, NÃO corresponde a princípio ou diretriz do SUS previsto no art. 7º da Lei nº 8.080/1990:",
+  "alternativas": [
+   "centralização político-administrativa, com direção única na esfera federal",
+   "participação da comunidade",
+   "universalidade de acesso aos serviços de saúde em todos os níveis de assistência",
+   "integralidade de assistência"
+  ],
+  "correta": 0,
+  "comentario": "O correto é descentralização político-administrativa, com direção única em cada esfera de governo, com ênfase na descentralização para os municípios."
+ },
+ {
+  "id": "esp-0123",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.080/1990",
+  "enunciado": "Conforme a Lei nº 8.080/1990, a direção do SUS no âmbito dos Municípios é exercida pela:",
+  "alternativas": [
+   "Conselho Municipal de Saúde",
+   "Agência Nacional de Vigilância Sanitária",
+   "respectiva Secretaria de Saúde ou órgão equivalente",
+   "Câmara Municipal"
+  ],
+  "correta": 2,
+  "comentario": "Art. 9º: União — Ministério da Saúde; Estados e DF — Secretaria de Saúde ou equivalente; Municípios — Secretaria de Saúde ou equivalente."
+ },
+ {
+  "id": "esp-0124",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.142/1990",
+  "enunciado": "Segundo a Lei nº 8.142/1990, a Conferência de Saúde:",
+  "alternativas": [
+   "reúne-se a cada dois anos e tem caráter permanente e deliberativo",
+   "reúne-se a cada quatro anos, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes para a política de saúde",
+   "é composta exclusivamente por gestores e prestadores de serviço",
+   "é convocada anualmente pelo Ministério Público"
+  ],
+  "correta": 1,
+  "comentario": "Art. 1º, §1º. Quem tem caráter permanente e deliberativo é o Conselho de Saúde."
+ },
+ {
+  "id": "esp-0125",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.142/1990",
+  "enunciado": "Conforme a Lei nº 8.142/1990, o Conselho de Saúde tem caráter:",
+  "alternativas": [
+   "permanente e apenas consultivo, composto por gestores",
+   "temporário e consultivo",
+   "permanente e deliberativo, composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários",
+   "eventual e fiscalizatório, composto por vereadores"
+  ],
+  "correta": 2,
+  "comentario": "Art. 1º, §2º: atua na formulação de estratégias e no controle da execução da política de saúde, inclusive nos aspectos econômicos e financeiros."
+ },
+ {
+  "id": "esp-0126",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.142/1990",
+  "enunciado": "Nos Conselhos e Conferências de Saúde, a representação dos usuários, em relação ao conjunto dos demais segmentos, é:",
+  "alternativas": [
+   "paritária",
+   "minoritária, limitada a um terço",
+   "majoritária, de dois terços",
+   "facultativa"
+  ],
+  "correta": 0,
+  "comentario": "Art. 1º, §4º: paritária. Na prática, usuários ocupam 50% das vagas."
+ },
+ {
+  "id": "esp-0127",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.508/2011",
+  "enunciado": "Segundo o Decreto nº 7.508/2011, são Portas de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços:",
+  "alternativas": [
+   "de atenção hospitalar e laboratórios privados conveniados",
+   "apenas dos hospitais universitários",
+   "de vigilância sanitária e epidemiológica",
+   "de atenção primária; de atenção de urgência e emergência; de atenção psicossocial; e especiais de acesso aberto"
+  ],
+  "correta": 3,
+  "comentario": "Art. 9º do Decreto 7.508/2011."
+ },
+ {
+  "id": "esp-0128",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.508/2011",
+  "enunciado": "O acordo de colaboração firmado entre entes federativos para organizar e integrar as ações e serviços de saúde na rede regionalizada e hierarquizada, previsto no Decreto nº 7.508/2011, é o:",
+  "alternativas": [
+   "Mapa da Saúde",
+   "Relação Nacional de Ações e Serviços de Saúde (RENASES)",
+   "Plano Plurianual",
+   "Contrato Organizativo da Ação Pública da Saúde (COAP)"
+  ],
+  "correta": 3,
+  "comentario": "COAP: define responsabilidades, indicadores, metas e recursos de cada ente na Região de Saúde."
+ },
+ {
+  "id": "esp-0129",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 9.782/1999",
+  "enunciado": "A Lei nº 9.782/1999, que define o Sistema Nacional de Vigilância Sanitária, criou a Anvisa como:",
+  "alternativas": [
+   "órgão da administração direta do Ministério da Saúde, sem autonomia",
+   "autarquia sob regime especial, vinculada ao Ministério da Saúde",
+   "fundação privada de interesse público",
+   "empresa pública vinculada ao Ministério da Economia"
+  ],
+  "correta": 1,
+  "comentario": "Art. 3º: autarquia sob regime especial, com independência administrativa, estabilidade de dirigentes e autonomia financeira, sede no Distrito Federal."
+ },
+ {
+  "id": "esp-0130",
+  "disciplina": "especificos",
+  "assunto": "sus-vigilancia-sanitaria",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.508/2011",
+  "enunciado": "Para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de:",
+  "alternativas": [
+   "atenção primária; urgência e emergência; atenção psicossocial; atenção ambulatorial especializada e hospitalar; e vigilância em saúde",
+   "atenção hospitalar de alta complexidade e transplantes",
+   "urgência e emergência e assistência farmacêutica, apenas",
+   "atenção primária e vigilância sanitária, apenas"
+  ],
+  "correta": 0,
+  "comentario": "Art. 5º do Decreto 7.508/2011."
+ },
+ {
+  "id": "esp-0131",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito administrativo",
+  "enunciado": "São atributos do poder de polícia administrativa:",
+  "alternativas": [
+   "gratuidade, voluntariedade e consensualidade",
+   "hierarquia, disciplina e delegação irrestrita a particulares",
+   "discricionariedade, autoexecutoriedade e coercibilidade",
+   "imperatividade, onerosidade e perpetuidade"
+  ],
+  "correta": 2,
+  "comentario": "Discricionariedade (escolha da oportunidade e dos meios dentro da lei), autoexecutoriedade (age sem ordem judicial) e coercibilidade (impõe-se pela força, se preciso)."
+ },
+ {
+  "id": "esp-0132",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito administrativo",
+  "enunciado": "Durante inspeção, o fiscal sanitário encontra alimentos deteriorados expostos à venda e os apreende imediatamente, sem ordem judicial. Esse ato expressa, principalmente, o atributo da:",
+  "alternativas": [
+   "tipicidade",
+   "presunção de inocência",
+   "autoexecutoriedade",
+   "discricionariedade técnica"
+  ],
+  "correta": 2,
+  "comentario": "A Administração executa a medida por meios próprios, sem precisar do Judiciário, diante do risco à saúde."
+ },
+ {
+  "id": "esp-0133",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Código Tributário Nacional, art. 78",
+  "enunciado": "O conceito legal de poder de polícia, que menciona o interesse público concernente à segurança, à higiene e à ordem, entre outros, encontra-se no:",
+  "alternativas": [
+   "art. 6º da Lei nº 8.080/1990",
+   "Código Tributário Nacional, art. 78",
+   "art. 196 da Constituição Federal",
+   "art. 1º da Lei nº 6.437/1977"
+  ],
+  "correta": 1,
+  "comentario": "CTN, art. 78. O conceito está no CTN porque o exercício do poder de polícia é fato gerador de taxa."
+ },
+ {
+  "id": "esp-0134",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Constituição Federal, art. 145",
+  "enunciado": "O exercício regular do poder de polícia, como a fiscalização sanitária, pode ser remunerado por meio de:",
+  "alternativas": [
+   "taxa",
+   "tarifa",
+   "imposto",
+   "contribuição de melhoria"
+  ],
+  "correta": 0,
+  "comentario": "CF, art. 145, II: taxas pelo exercício do poder de polícia ou pela utilização de serviços públicos específicos e divisíveis."
+ },
+ {
+  "id": "esp-0135",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.437/1977 e direito administrativo",
+  "enunciado": "Lavrado o auto de infração sanitária, segundo a Lei nº 6.437/1977, o infrator poderá apresentar defesa ou impugnação no prazo de:",
+  "alternativas": [
+   "30 dias",
+   "10 dias",
+   "5 dias",
+   "15 dias"
+  ],
+  "correta": 3,
+  "comentario": "Art. 22: 15 dias contados da notificação. O recurso contra a decisão condenatória tem o mesmo prazo (art. 30)."
+ },
+ {
+  "id": "esp-0136",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.437/1977 e direito administrativo",
+  "enunciado": "Segundo a Lei nº 6.437/1977, as infrações sanitárias classificam-se em:",
+  "alternativas": [
+   "culposas e dolosas, apenas",
+   "primárias e secundárias",
+   "leves, graves e gravíssimas",
+   "simples, qualificadas e hediondas"
+  ],
+  "correta": 2,
+  "comentario": "Art. 4º. A classificação considera circunstâncias atenuantes e agravantes e a gravidade do fato."
+ },
+ {
+  "id": "esp-0137",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.437/1977 e direito administrativo",
+  "enunciado": "Conforme a Lei nº 6.437/1977, as infrações às disposições legais e regulamentares de ordem sanitária prescrevem em:",
+  "alternativas": [
+   "10 anos",
+   "5 anos",
+   "3 anos",
+   "2 anos"
+  ],
+  "correta": 1,
+  "comentario": "Art. 38: cinco anos."
+ },
+ {
+  "id": "esp-0138",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.437/1977 e direito administrativo",
+  "enunciado": "NÃO é penalidade prevista na Lei nº 6.437/1977:",
+  "alternativas": [
+   "prisão administrativa do responsável técnico",
+   "advertência",
+   "interdição parcial ou total do estabelecimento",
+   "apreensão de produto"
+  ],
+  "correta": 0,
+  "comentario": "Art. 2º lista advertência, multa, apreensão, inutilização e interdição de produto, suspensão de vendas, cancelamento de registro, interdição do estabelecimento, cancelamento de autorização e de alvará, entre outras. Não há prisão administrativa."
+ },
+ {
+  "id": "esp-0139",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Constituição Federal, art. 5º, LV",
+  "enunciado": "Sobre o contraditório e a ampla defesa no processo administrativo sanitário, é correto afirmar que:",
+  "alternativas": [
+   "não se aplicam ao processo administrativo, apenas ao judicial",
+   "só existem se o autuado contratar advogado",
+   "impedem qualquer interdição antes de decisão judicial transitada em julgado",
+   "decorrem da Constituição (art. 5º, LV) e devem ser assegurados antes da aplicação definitiva da penalidade, sem impedir medidas cautelares em caso de risco iminente à saúde"
+  ],
+  "correta": 3,
+  "comentario": "A interdição cautelar diante de risco iminente é legítima; a penalidade definitiva exige processo com defesa."
+ },
+ {
+  "id": "esp-0140",
+  "disciplina": "especificos",
+  "assunto": "poder-policia-processo-sanitario",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito administrativo",
+  "enunciado": "No chamado ciclo de polícia, a concessão de licença sanitária a um estabelecimento que atende às exigências corresponde à fase de:",
+  "alternativas": [
+   "sanção",
+   "fiscalização",
+   "consentimento",
+   "ordem"
+  ],
+  "correta": 2,
+  "comentario": "Ordem (a norma), consentimento (licença, alvará), fiscalização (inspeção) e sanção (penalidade)."
+ },
+ {
+  "id": "esp-0141",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Segundo a RDC Anvisa nº 50/2002, a elaboração dos projetos físicos de estabelecimentos assistenciais de saúde (EAS) compreende as etapas de:",
+  "alternativas": [
+   "programa de necessidades, projeto legal e habite-se",
+   "estudo de viabilidade, licitação e obra",
+   "levantamento, anteprojeto e as built",
+   "estudo preliminar, projeto básico e projeto executivo"
+  ],
+  "correta": 3,
+  "comentario": "Parte I da RDC 50: estudo preliminar, projeto básico e projeto executivo."
+ },
+ {
+  "id": "esp-0142",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "A RDC nº 50/2002 organiza as atividades dos EAS em oito atribuições. NÃO é uma dessas atribuições:",
+  "alternativas": [
+   "comercialização de planos de saúde",
+   "apoio logístico",
+   "atendimento imediato",
+   "apoio ao diagnóstico e terapia"
+  ],
+  "correta": 0,
+  "comentario": "As oito: atendimento ambulatorial e hospital-dia; atendimento imediato; internação; apoio ao diagnóstico e terapia; apoio técnico; ensino e pesquisa; apoio administrativo; apoio logístico."
+ },
+ {
+  "id": "esp-0143",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Segundo a RDC nº 50/2002, as portas de acesso a quartos, enfermarias e salas de exames ou terapias por onde passam macas e camas devem ter vão livre mínimo de:",
+  "alternativas": [
+   "0,80 m × 2,10 m",
+   "1,10 m × 2,10 m",
+   "0,90 m × 2,10 m",
+   "1,20 m × 2,20 m"
+  ],
+  "correta": 1,
+  "comentario": "1,10 m × 2,10 m para passagem de macas e camas."
+ },
+ {
+  "id": "esp-0144",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Na unidade de internação geral, a RDC nº 50/2002 estabelece área mínima de ___ para quarto de um leito e de ___ por leito em enfermarias.",
+  "alternativas": [
+   "9,0 m² e 4,5 m²",
+   "8,0 m² e 5,0 m²",
+   "12,0 m² e 9,0 m²",
+   "10,0 m² e 6,0 m²"
+  ],
+  "correta": 3,
+  "comentario": "Quarto de 1 leito: 10 m². Enfermaria: 6 m² por leito (até 6 leitos)."
+ },
+ {
+  "id": "esp-0145",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Pela classificação de áreas adotada nas normas sanitárias para EAS, constituem exemplos de áreas críticas:",
+  "alternativas": [
+   "administração e auditório",
+   "centro cirúrgico, UTI e central de material e esterilização",
+   "enfermarias e consultórios",
+   "recepção e almoxarifado"
+  ],
+  "correta": 1,
+  "comentario": "Críticas: maior risco de infecção (centro cirúrgico, UTI, CME, isolamento). Semicríticas: enfermarias, ambulatórios. Não críticas: administração, almoxarifado."
+ },
+ {
+  "id": "esp-0146",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 189/2003",
+  "enunciado": "A norma da Anvisa que regulamenta os procedimentos de análise, avaliação e aprovação dos projetos físicos de estabelecimentos de saúde no Sistema Nacional de Vigilância Sanitária é a:",
+  "alternativas": [
+   "RDC nº 189/2003",
+   "RDC nº 216/2004",
+   "RDC nº 222/2018",
+   "RDC nº 36/2013"
+  ],
+  "correta": 0,
+  "comentario": "RDC 189/2003. A 216 trata de serviços de alimentação; a 222, de resíduos; a 36, de segurança do paciente."
+ },
+ {
+  "id": "esp-0147",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "A RDC nº 50/2002 aplica-se a:",
+  "alternativas": [
+   "apenas hospitais públicos novos",
+   "apenas reformas de EAS privados",
+   "construções novas de EAS e a reformas e ampliações de EAS existentes, públicos e privados",
+   "somente EAS com mais de 50 leitos"
+  ],
+  "correta": 2,
+  "comentario": "Vale para todo o país, para construções novas, áreas a serem reformadas ou ampliadas, de EAS públicos e privados."
+ },
+ {
+  "id": "esp-0148",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Na central de material e esterilização (CME), a separação física entre a área suja (recepção e limpeza) e a área limpa (preparo, esterilização e guarda) tem como objetivo principal:",
+  "alternativas": [
+   "atender aos parâmetros de acessibilidade da NBR 9050",
+   "reduzir o consumo de energia dos equipamentos",
+   "evitar o cruzamento do fluxo de material contaminado com o de material limpo e estéril, controlando o risco de infecção",
+   "favorecer a ventilação cruzada"
+  ],
+  "correta": 2,
+  "comentario": "Barreira técnica e fluxo unidirecional (sujo → limpo → estéril) são critérios de controle de infecção."
+ },
+ {
+  "id": "esp-0149",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 189/2003",
+  "enunciado": "Em regra, para análise e aprovação pela vigilância sanitária, o projeto físico de um EAS deve ser apresentado na etapa de:",
+  "alternativas": [
+   "anteprojeto informal, sem responsável técnico",
+   "as built, após a conclusão da obra",
+   "estudo de viabilidade",
+   "projeto básico de arquitetura"
+  ],
+  "correta": 3,
+  "comentario": "A RDC 189/2003 e a RDC 50 tratam da análise do projeto básico de arquitetura, com responsável técnico."
+ },
+ {
+  "id": "esp-0150",
+  "disciplina": "especificos",
+  "assunto": "projetos-eas-rdc50",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 50/2002",
+  "enunciado": "Nas áreas de assistência dos EAS, a previsão de lavatórios para higienização das mãos e de dispensadores de preparação alcoólica relaciona-se diretamente ao critério de projeto de:",
+  "alternativas": [
+   "controle de infecção",
+   "conforto acústico",
+   "segurança contra incêndio",
+   "circulações verticais"
+  ],
+  "correta": 0,
+  "comentario": "Higiene das mãos é a principal medida de prevenção de infecção relacionada à assistência (RDC 50, Parte III, e RDC 42/2010)."
+ },
+ {
+  "id": "esp-0151",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 216/2004",
+  "enunciado": "Pela RDC nº 216/2004, os alimentos preparados conservados a quente devem ser mantidos a temperatura superior a ___ por, no máximo, ___.",
+  "alternativas": [
+   "70 °C; 2 horas",
+   "60 °C; 6 horas",
+   "45 °C; 4 horas",
+   "50 °C; 12 horas"
+  ],
+  "correta": 1,
+  "comentario": "Acima de 60 °C por até 6 h. Resfriamento de 60 °C para 10 °C em até 2 h."
+ },
+ {
+  "id": "esp-0152",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 216/2004",
+  "enunciado": "Pela RDC nº 216/2004, os alimentos preparados e conservados sob refrigeração devem ficar a temperatura:",
+  "alternativas": [
+   "entre 8 °C e 12 °C",
+   "inferior a −18 °C",
+   "inferior a 5 °C",
+   "inferior a 10 °C"
+  ],
+  "correta": 2,
+  "comentario": "Refrigerados: abaixo de 5 °C. Congelados: −18 °C ou menos."
+ },
+ {
+  "id": "esp-0153",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 216/2004",
+  "enunciado": "Quanto à edificação e às instalações de serviços de alimentação, a RDC nº 216/2004 exige:",
+  "alternativas": [
+   "ralos abertos, sem sifão, para escoamento rápido",
+   "janelas sem tela, para melhor ventilação natural",
+   "pisos de madeira natural, para maior conforto dos manipuladores",
+   "revestimento liso, impermeável e lavável em pisos, paredes e teto, aberturas com telas milimetradas removíveis e ralos sifonados com dispositivo de fechamento"
+  ],
+  "correta": 3,
+  "comentario": "Superfícies laváveis, proteção contra pragas (telas, ralos com fechamento) e iluminação e ventilação adequadas são o centro da vistoria."
+ },
+ {
+  "id": "esp-0154",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 216/2004",
+  "enunciado": "Na área de manipulação de alimentos, a RDC nº 216/2004 exige:",
+  "alternativas": [
+   "lavatórios exclusivos para a higiene das mãos, em posições estratégicas em relação ao fluxo de preparo",
+   "lavatórios somente nos sanitários dos funcionários",
+   "apenas álcool em gel, dispensando lavatório",
+   "uso da cuba de lavagem de utensílios também para lavar as mãos"
+  ],
+  "correta": 0,
+  "comentario": "Lavatórios exclusivos, com sabonete líquido, papel toalha e lixeira com tampa sem acionamento manual."
+ },
+ {
+  "id": "esp-0155",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 222/2018",
+  "enunciado": "Segundo a RDC nº 222/2018, agulhas, lâminas de bisturi e ampolas de vidro quebradas são resíduos do grupo:",
+  "alternativas": [
+   "D",
+   "E",
+   "A",
+   "B"
+  ],
+  "correta": 1,
+  "comentario": "Grupo E: perfurocortantes. A: biológico; B: químico; C: radioativo; D: comum."
+ },
+ {
+  "id": "esp-0156",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 222/2018",
+  "enunciado": "Resíduos de serviços de saúde que contêm substâncias químicas capazes de oferecer risco à saúde ou ao meio ambiente, como medicamentos vencidos e reagentes de laboratório, pertencem ao grupo:",
+  "alternativas": [
+   "D",
+   "B",
+   "A",
+   "C"
+  ],
+  "correta": 1,
+  "comentario": "Grupo B: químicos."
+ },
+ {
+  "id": "esp-0157",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 222/2018",
+  "enunciado": "O documento que descreve as ações de manejo dos resíduos de serviços de saúde, da geração à disposição final, elaborado pelo próprio gerador, é o:",
+  "alternativas": [
+   "alvará de funcionamento",
+   "PCMSO — Programa de Controle Médico de Saúde Ocupacional",
+   "relatório de impacto ambiental",
+   "PGRSS — Plano de Gerenciamento de Resíduos de Serviços de Saúde"
+  ],
+  "correta": 3,
+  "comentario": "O PGRSS é exigido de todo gerador de RSS."
+ },
+ {
+  "id": "esp-0158",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Biossegurança",
+  "enunciado": "É exemplo de equipamento de proteção coletiva (EPC) em laboratórios:",
+  "alternativas": [
+   "cabine de segurança biológica",
+   "óculos de proteção",
+   "jaleco de mangas longas",
+   "luvas de procedimento"
+  ],
+  "correta": 0,
+  "comentario": "EPC protege o ambiente e todos os presentes (cabine de segurança biológica, chuveiro de emergência, lava-olhos). Os demais são EPI."
+ },
+ {
+  "id": "esp-0159",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Biossegurança",
+  "enunciado": "O nível de biossegurança mais elevado, exigido para a manipulação de agentes de alto risco individual e coletivo, com elevado poder de transmissão e sem medidas eficazes de tratamento ou prevenção, é o:",
+  "alternativas": [
+   "NB-3",
+   "NB-1",
+   "NB-4",
+   "NB-2"
+  ],
+  "correta": 2,
+  "comentario": "Os níveis vão de NB-1 a NB-4, acompanhando a classe de risco do agente biológico."
+ },
+ {
+  "id": "esp-0160",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 13.874/2019",
+  "enunciado": "Segundo a Lei de Liberdade Econômica (Lei nº 13.874/2019), as atividades econômicas classificadas como de baixo risco:",
+  "alternativas": [
+   "estão isentas de qualquer fiscalização sanitária",
+   "precisam renovar a licença sanitária a cada mês",
+   "dispensam atos públicos de liberação para funcionar, sem prejuízo da fiscalização posterior",
+   "só podem funcionar depois de inspeção prévia obrigatória"
+  ],
+  "correta": 2,
+  "comentario": "Art. 3º, I. A Anvisa classifica o grau de risco pela RDC 153/2017."
+ },
+ {
+  "id": "esp-0161",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 9.431/1997",
+  "enunciado": "A Lei nº 9.431/1997 obriga os hospitais do país a manter:",
+  "alternativas": [
+   "plano de gerenciamento de resíduos da construção civil",
+   "programa de controle de infecções hospitalares",
+   "comissão de ética em pesquisa",
+   "brigada de incêndio voluntária"
+  ],
+  "correta": 1,
+  "comentario": "Programa de Controle de Infecções Hospitalares; a Portaria MS 2.616/1998 detalha a CCIH."
+ },
+ {
+  "id": "esp-0162",
+  "disciplina": "especificos",
+  "assunto": "boas-praticas-riscos-biosseguranca",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "RDC Anvisa nº 36/2013",
+  "enunciado": "A RDC nº 36/2013 institui ações para a segurança do paciente e determina que os serviços de saúde constituam:",
+  "alternativas": [
+   "Comissão de Ética de Enfermagem",
+   "Conselho Local de Saúde",
+   "Comissão Interna de Prevenção de Acidentes",
+   "Núcleo de Segurança do Paciente"
+  ],
+  "correta": 3,
+  "comentario": "O NSP elabora o Plano de Segurança do Paciente e notifica eventos adversos."
+ },
+ {
+  "id": "esp-0163",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "Segundo a Constituição Federal e o Estatuto da Cidade, o plano diretor é obrigatório para cidades com mais de:",
+  "alternativas": [
+   "20 mil habitantes",
+   "10 mil habitantes",
+   "100 mil habitantes",
+   "50 mil habitantes"
+  ],
+  "correta": 0,
+  "comentario": "CF, art. 182, §1º, e Estatuto, art. 41, I. Também é obrigatório em regiões metropolitanas, áreas turísticas, áreas de grande impacto ambiental e áreas de risco."
+ },
+ {
+  "id": "esp-0164",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "De acordo com o Estatuto da Cidade, a lei que instituir o plano diretor deverá ser revista, pelo menos, a cada:",
+  "alternativas": [
+   "10 anos",
+   "5 anos",
+   "4 anos",
+   "15 anos"
+  ],
+  "correta": 0,
+  "comentario": "Art. 40, §3º: pelo menos a cada dez anos."
+ },
+ {
+  "id": "esp-0165",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "Para o solo urbano não edificado, subutilizado ou não utilizado, a Constituição e o Estatuto da Cidade preveem a aplicação sucessiva de:",
+  "alternativas": [
+   "multa diária; interdição; demolição",
+   "desapropriação com títulos; IPTU progressivo; parcelamento compulsório",
+   "parcelamento, edificação ou utilização compulsórios; IPTU progressivo no tempo; desapropriação com pagamento em títulos da dívida pública",
+   "IPTU progressivo no tempo; parcelamento ou edificação compulsórios; desapropriação com títulos"
+  ],
+  "correta": 2,
+  "comentario": "PEUC → IPTU progressivo (até 5 anos) → desapropriação-sanção com títulos resgatáveis em até 10 anos."
+ },
+ {
+  "id": "esp-0166",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "No IPTU progressivo no tempo, o Estatuto da Cidade estabelece:",
+  "alternativas": [
+   "alíquota máxima de 10%, por até três anos",
+   "alíquota máxima de 15%, por até cinco anos consecutivos, não podendo exceder duas vezes o valor do ano anterior",
+   "alíquota máxima de 15%, por até dez anos, podendo triplicar a cada ano",
+   "alíquota máxima de 20%, por até dez anos"
+  ],
+  "correta": 1,
+  "comentario": "Art. 7º. Depois de cinco anos sem cumprimento, a alíquota máxima é mantida até a obrigação ser cumprida, e cabe a desapropriação."
+ },
+ {
+  "id": "esp-0167",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "O instrumento que permite ao proprietário construir acima do coeficiente de aproveitamento básico, até o limite máximo, mediante contrapartida ao Município, é a:",
+  "alternativas": [
+   "concessão de direito real de uso",
+   "direito de preempção",
+   "transferência do direito de construir",
+   "outorga onerosa do direito de construir"
+  ],
+  "correta": 3,
+  "comentario": "Arts. 28 a 31. A transferência permite exercer em outro local o direito de construir de imóvel tombado, de interesse ambiental ou para programas sociais."
+ },
+ {
+  "id": "esp-0168",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "O direito de preempção confere ao Poder Público municipal:",
+  "alternativas": [
+   "a isenção de IPTU para imóveis de interesse social",
+   "o poder de desapropriar sem indenização",
+   "o direito de construir acima do coeficiente máximo",
+   "preferência para a aquisição de imóvel urbano objeto de alienação onerosa entre particulares"
+  ],
+  "correta": 3,
+  "comentario": "Art. 25. A lei municipal delimita as áreas, com vigência de até cinco anos, renovável depois de um ano."
+ },
+ {
+  "id": "esp-0169",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "Sobre o Estudo de Impacto de Vizinhança (EIV), é correto afirmar que:",
+  "alternativas": [
+   "é exigido apenas de obras federais",
+   "a elaboração do EIV não substitui a elaboração e a aprovação de EIA, requeridas nos termos da legislação ambiental",
+   "dispensa a análise da geração de tráfego",
+   "substitui o Estudo de Impacto Ambiental (EIA)"
+  ],
+  "correta": 1,
+  "comentario": "Art. 38. O EIV analisa adensamento, equipamentos, uso do solo, valorização imobiliária, tráfego, ventilação e iluminação, paisagem e patrimônio."
+ },
+ {
+  "id": "esp-0170",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Índices urbanísticos",
+  "enunciado": "Em um terreno de 400 m², foi construída uma edificação de três pavimentos iguais, cada um com 240 m² de projeção, todos computáveis. A taxa de ocupação e o coeficiente de aproveitamento são, respectivamente:",
+  "alternativas": [
+   "60% e 1,8",
+   "180% e 1,8",
+   "60% e 0,6",
+   "1,8 e 60%"
+  ],
+  "correta": 0,
+  "comentario": "TO = 240 / 400 = 60%. CA = (3 × 240) / 400 = 720 / 400 = 1,8."
+ },
+ {
+  "id": "esp-0171",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Índices urbanísticos",
+  "enunciado": "Em um lote de 360 m², a legislação permite coeficiente de aproveitamento máximo de 2,5 e taxa de ocupação máxima de 50%. A área construída computável máxima e a projeção máxima da edificação são, respectivamente:",
+  "alternativas": [
+   "720 m² e 180 m²",
+   "900 m² e 360 m²",
+   "900 m² e 180 m²",
+   "180 m² e 900 m²"
+  ],
+  "correta": 2,
+  "comentario": "Área máxima = 2,5 × 360 = 900 m². Projeção máxima = 50% × 360 = 180 m² (seriam, no mínimo, 5 pavimentos de 180 m²)."
+ },
+ {
+  "id": "esp-0172",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 10.257/2001 (Estatuto da Cidade)",
+  "enunciado": "Conforme a Constituição e o Estatuto da Cidade, adquire o domínio por usucapião especial urbana quem possuir como sua, para moradia, área urbana de até ___, por ___ ininterruptos e sem oposição, desde que não seja proprietário de outro imóvel urbano ou rural.",
+  "alternativas": [
+   "125 m²; cinco anos",
+   "250 m²; cinco anos",
+   "500 m²; dez anos",
+   "250 m²; quinze anos"
+  ],
+  "correta": 1,
+  "comentario": "CF, art. 183, e Estatuto, art. 9º: até 250 m², cinco anos."
+ },
+ {
+  "id": "esp-0173",
+  "disciplina": "especificos",
+  "assunto": "estatuto-cidade-plano-diretor",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Constituição Federal, art. 182",
+  "enunciado": "Segundo a Constituição Federal, o plano diretor é aprovado:",
+  "alternativas": [
+   "pelo Conselho da Cidade, sem participação do Legislativo",
+   "por decreto do Prefeito",
+   "pela Câmara Municipal",
+   "pela Assembleia Legislativa"
+  ],
+  "correta": 2,
+  "comentario": "CF, art. 182, §1º: aprovado pela Câmara Municipal. O Estatuto exige audiências públicas e participação popular na elaboração."
+ },
+ {
+  "id": "esp-0174",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Segundo a Lei nº 6.766/1979, a subdivisão de gleba em lotes destinados a edificação, com aproveitamento do sistema viário existente, sem abertura de novas vias nem prolongamento das existentes, denomina-se:",
+  "alternativas": [
+   "remembramento",
+   "condomínio edilício",
+   "loteamento",
+   "desmembramento"
+  ],
+  "correta": 3,
+  "comentario": "Art. 2º: loteamento abre ou prolonga vias; desmembramento aproveita as vias existentes."
+ },
+ {
+  "id": "esp-0175",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Salvo quando a legislação estadual ou municipal determinar maiores exigências, ou em urbanização específica ou de interesse social, os lotes terão, pela Lei nº 6.766/1979, área mínima e frente mínima de:",
+  "alternativas": [
+   "125 m² e 5 m",
+   "200 m² e 8 m",
+   "250 m² e 10 m",
+   "360 m² e 12 m"
+  ],
+  "correta": 0,
+  "comentario": "Art. 4º, II."
+ },
+ {
+  "id": "esp-0176",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Não será permitido o parcelamento do solo urbano em terrenos com declividade igual ou superior a ___, salvo se atendidas exigências específicas das autoridades competentes.",
+  "alternativas": [
+   "45%",
+   "30%",
+   "15%",
+   "20%"
+  ],
+  "correta": 1,
+  "comentario": "Art. 3º, parágrafo único, III."
+ },
+ {
+  "id": "esp-0177",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Segundo a Lei nº 6.766/1979, NÃO integra a infraestrutura básica dos parcelamentos:",
+  "alternativas": [
+   "abastecimento de água potável",
+   "iluminação pública",
+   "esgotamento sanitário",
+   "pavimentação asfáltica de todas as vias"
+  ],
+  "correta": 3,
+  "comentario": "Art. 2º, §5º: escoamento das águas pluviais, iluminação pública, esgotamento sanitário, abastecimento de água potável, energia elétrica pública e domiciliar e vias de circulação. Não exige asfalto."
+ },
+ {
+  "id": "esp-0178",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Aprovado o projeto de loteamento, o loteador deverá submetê-lo ao registro imobiliário no prazo de:",
+  "alternativas": [
+   "180 dias",
+   "90 dias",
+   "1 ano",
+   "30 dias"
+  ],
+  "correta": 0,
+  "comentario": "Art. 18: 180 dias, sob pena de caducidade da aprovação."
+ },
+ {
+  "id": "esp-0179",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Dar início a loteamento ou desmembramento do solo para fins urbanos sem autorização do órgão público competente constitui, segundo a Lei nº 6.766/1979:",
+  "alternativas": [
+   "ilícito exclusivamente civil",
+   "mera infração administrativa, sem repercussão penal",
+   "crime contra a Administração Pública",
+   "contravenção de trânsito"
+  ],
+  "correta": 2,
+  "comentario": "Art. 50, I: crime contra a Administração Pública, com pena de reclusão e multa."
+ },
+ {
+  "id": "esp-0180",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 13.465/2017",
+  "enunciado": "A modalidade de regularização fundiária aplicável aos núcleos urbanos informais ocupados predominantemente por população de baixa renda, prevista na Lei nº 13.465/2017, é a:",
+  "alternativas": [
+   "concessão de uso especial para fins comerciais",
+   "desapropriação por interesse social",
+   "Reurb-E",
+   "Reurb-S"
+  ],
+  "correta": 3,
+  "comentario": "Reurb-S: interesse social. Reurb-E: interesse específico (os demais casos)."
+ },
+ {
+  "id": "esp-0181",
+  "disciplina": "especificos",
+  "assunto": "parcelamento-solo",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 6.766/1979",
+  "enunciado": "Pela Lei nº 6.766/1979, terrenos alagadiços e sujeitos a inundações:",
+  "alternativas": [
+   "podem ser parcelados livremente em loteamentos fechados",
+   "não podem ser parcelados em hipótese alguma",
+   "só podem ser parcelados depois de tomadas as providências para assegurar o escoamento das águas",
+   "podem ser parcelados se os lotes tiverem mais de 250 m²"
+  ],
+  "correta": 2,
+  "comentario": "Art. 3º, parágrafo único, I."
+ },
+ {
+  "id": "esp-0182",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "Constatada obra em andamento sem licença de construção, a medida administrativa destinada a paralisar a execução dos serviços é o(a):",
+  "alternativas": [
+   "interdição",
+   "embargo",
+   "habite-se",
+   "alvará"
+  ],
+  "correta": 1,
+  "comentario": "Embargo paralisa a obra. Interdição impede o uso ou ocupação de edificação (ou parte) por risco."
+ },
+ {
+  "id": "esp-0183",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "Uma edificação concluída apresenta fissuras estruturais graves, com risco de desabamento. A medida administrativa adequada para impedir seu uso é a:",
+  "alternativas": [
+   "interdição",
+   "embargo da obra",
+   "notificação preliminar, apenas",
+   "concessão de habite-se parcial"
+  ],
+  "correta": 0,
+  "comentario": "Risco à segurança ou à saúde de quem usa a edificação justifica a interdição, que pode ser imediata (autoexecutoriedade)."
+ },
+ {
+  "id": "esp-0184",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "O documento expedido pela prefeitura após vistoria final, que atesta a conclusão da obra conforme o projeto aprovado e libera sua ocupação, é o:",
+  "alternativas": [
+   "termo de embargo",
+   "habite-se (certificado de conclusão)",
+   "Registro de Responsabilidade Técnica",
+   "alvará de construção"
+  ],
+  "correta": 1,
+  "comentario": "O alvará autoriza construir; o habite-se autoriza ocupar."
+ },
+ {
+  "id": "esp-0185",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "No trabalho do inspetor ou fiscal, o documento técnico que expressa opinião fundamentada sobre determinada questão, para subsidiar a decisão da autoridade competente, é o:",
+  "alternativas": [
+   "parecer técnico",
+   "auto de infração",
+   "notificação",
+   "termo de apreensão"
+  ],
+  "correta": 0,
+  "comentario": "Relatório descreve o que foi constatado; parecer opina com fundamentação; auto de infração formaliza a infração e a penalidade."
+ },
+ {
+  "id": "esp-0186",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "Diante de irregularidade sanável em obra licenciada, a sequência usual de atos da fiscalização é:",
+  "alternativas": [
+   "auto de infração e cassação da licença, sem notificação prévia",
+   "concessão de habite-se condicionado à correção futura",
+   "notificação com prazo para correção; não atendida, auto de infração e, se necessário, embargo",
+   "demolição imediata da parte irregular"
+  ],
+  "correta": 2,
+  "comentario": "Os códigos de obras costumam prever notificação prévia para irregularidades sanáveis, graduando as sanções."
+ },
+ {
+  "id": "esp-0187",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "O código de posturas municipal trata, em geral, de:",
+  "alternativas": [
+   "regras de cálculo estrutural das edificações",
+   "procedimentos de licitação de obras",
+   "classificação dos resíduos de serviços de saúde",
+   "uso dos espaços e logradouros públicos, higiene pública, funcionamento de estabelecimentos, publicidade e sossego público"
+  ],
+  "correta": 3,
+  "comentario": "Código de obras: regras de construção. Código de posturas: convivência urbana e uso do espaço público."
+ },
+ {
+  "id": "esp-0188",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito urbanístico e administrativo; códigos de obras e posturas municipais",
+  "enunciado": "Nos códigos de obras e de posturas municipais, a construção e a conservação das calçadas em frente aos lotes são, em regra, responsabilidade:",
+  "alternativas": [
+   "do Estado",
+   "do proprietário ou possuidor do imóvel, segundo os padrões municipais",
+   "exclusiva da União",
+   "da concessionária de energia elétrica"
+  ],
+  "correta": 1,
+  "comentario": "Em regra, o município fixa o padrão (inclusive acessibilidade da NBR 9050) e o proprietário executa e conserva."
+ },
+ {
+  "id": "esp-0189",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Direito administrativo",
+  "enunciado": "A licença para construir, segundo a doutrina administrativista, é ato administrativo:",
+  "alternativas": [
+   "vinculado: atendidos os requisitos legais, a Administração deve concedê-la",
+   "dispensável para obras de ampliação",
+   "emitido somente depois do habite-se",
+   "discricionário e precário, revogável a qualquer tempo sem indenização"
+  ],
+  "correta": 0,
+  "comentario": "Licença é ato vinculado e, em regra, definitivo. Autorização é que é discricionária e precária."
+ },
+ {
+  "id": "esp-0190",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Resolução CONAMA nº 237/1997",
+  "enunciado": "A licença ambiental concedida na fase preliminar do planejamento do empreendimento, que aprova sua localização e concepção e atesta a viabilidade ambiental, é a:",
+  "alternativas": [
+   "Licença de Demolição",
+   "Licença de Operação (LO)",
+   "Licença de Instalação (LI)",
+   "Licença Prévia (LP)"
+  ],
+  "correta": 3,
+  "comentario": "Art. 8º, I. LI autoriza a implantação; LO autoriza o funcionamento."
+ },
+ {
+  "id": "esp-0191",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Resolução CONAMA nº 237/1997",
+  "enunciado": "A licença que autoriza a implantação do empreendimento, de acordo com as especificações dos planos, programas e projetos aprovados, incluindo as medidas de controle ambiental, é a:",
+  "alternativas": [
+   "Licença de Operação",
+   "Licença Prévia",
+   "Licença de Instalação",
+   "Autorização de Supressão de Vegetação"
+  ],
+  "correta": 2,
+  "comentario": "Art. 8º, II. Para obras, a LI é a licença do canteiro e da construção."
+ },
+ {
+  "id": "esp-0192",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Resolução CONAMA nº 237/1997",
+  "enunciado": "Segundo a Resolução CONAMA nº 237/1997, os prazos de validade das licenças são:",
+  "alternativas": [
+   "LP de até 10 anos; LI de até 10 anos; LO sem prazo",
+   "LP de até 5 anos; LI de até 6 anos; LO de, no mínimo, 4 e, no máximo, 10 anos",
+   "LP de até 2 anos; LI de até 4 anos; LO de até 20 anos",
+   "LP, LI e LO de até 5 anos cada"
+  ],
+  "correta": 1,
+  "comentario": "Art. 18."
+ },
+ {
+  "id": "esp-0193",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei Complementar nº 140/2011",
+  "enunciado": "Pela Lei Complementar nº 140/2011, compete aos Municípios promover o licenciamento ambiental das atividades ou empreendimentos:",
+  "alternativas": [
+   "localizados em terras indígenas",
+   "localizados no mar territorial",
+   "de qualquer porte, com exclusividade sobre União e Estados",
+   "que causem ou possam causar impacto ambiental de âmbito local, conforme tipologia definida pelos Conselhos Estaduais de Meio Ambiente"
+  ],
+  "correta": 3,
+  "comentario": "Art. 9º, XIV, a. Terras indígenas e mar territorial são da União (art. 7º)."
+ },
+ {
+  "id": "esp-0194",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Constituição Federal, art. 225",
+  "enunciado": "O Estudo de Impacto Ambiental e o respectivo Relatório (EIA/RIMA) são exigidos para:",
+  "alternativas": [
+   "reformas internas sem ampliação de área",
+   "apenas obras privadas",
+   "obras ou atividades potencialmente causadoras de significativa degradação do meio ambiente",
+   "toda construção residencial unifamiliar"
+  ],
+  "correta": 2,
+  "comentario": "CF, art. 225, §1º, IV, e Resolução CONAMA 01/1986. O RIMA traduz o EIA em linguagem acessível."
+ },
+ {
+  "id": "esp-0195",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Resolução CONAMA nº 237/1997",
+  "enunciado": "Segundo a Resolução CONAMA nº 237/1997, os empreendimentos e atividades serão licenciados:",
+  "alternativas": [
+   "em um único nível de competência",
+   "simultaneamente pela União, pelo Estado e pelo Município",
+   "exclusivamente pelo IBAMA",
+   "pelo Ministério Público"
+  ],
+  "correta": 0,
+  "comentario": "Art. 7º. A LC 140/2011 confirmou o licenciamento por um único ente federativo."
+ },
+ {
+  "id": "esp-0196",
+  "disciplina": "especificos",
+  "assunto": "licenciamento-ambiental",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Legislação ambiental da Paraíba",
+  "enunciado": "Na Paraíba, o órgão estadual responsável pelo licenciamento ambiental é a:",
+  "alternativas": [
+   "CAGEPA",
+   "SUDEMA",
+   "Secretaria de Estado da Saúde",
+   "AGEVISA"
+  ],
+  "correta": 1,
+  "comentario": "SUDEMA (Superintendência de Administração do Meio Ambiente). AGEVISA é a vigilância sanitária estadual; CAGEPA, a companhia de água e esgoto."
+ },
+ {
+  "id": "esp-0197",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "Uma obra tem custo direto de R$ 200.000,00 e BDI de 25%. O preço de venda é de:",
+  "alternativas": [
+   "R$ 225.000,00",
+   "R$ 160.000,00",
+   "R$ 250.000,00",
+   "R$ 275.000,00"
+  ],
+  "correta": 2,
+  "comentario": "Preço = custo direto × (1 + BDI) = 200.000 × 1,25 = R$ 250.000,00."
+ },
+ {
+  "id": "esp-0198",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "Segundo o entendimento do TCU para orçamentos de obras públicas, NÃO deve compor a taxa de BDI:",
+  "alternativas": [
+   "a administração local da obra",
+   "os seguros e garantias",
+   "os tributos, como ISS, PIS e COFINS",
+   "o lucro"
+  ],
+  "correta": 0,
+  "comentario": "Administração local (engenheiro residente, mestre, vigias, canteiro) é custo direto e vai na planilha, não no BDI."
+ },
+ {
+  "id": "esp-0199",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013",
+  "enunciado": "O sistema de referência de custos para obras de edificações executadas com recursos federais, mantido pela Caixa e pelo IBGE, é o:",
+  "alternativas": [
+   "IPCA",
+   "CUB",
+   "SICRO",
+   "SINAPI"
+  ],
+  "correta": 3,
+  "comentario": "SINAPI (edificações e saneamento). SICRO (DNIT) é para obras rodoviárias."
+ },
+ {
+  "id": "esp-0200",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "A curva ABC aplicada a orçamentos de obras:",
+  "alternativas": [
+   "classifica insumos ou serviços em ordem decrescente de participação no custo, evidenciando os poucos itens que concentram a maior parte do valor",
+   "calcula a taxa de BDI",
+   "define o caminho crítico do cronograma",
+   "representa o avanço físico acumulado da obra ao longo do tempo"
+  ],
+  "correta": 0,
+  "comentario": "A classe A reúne poucos itens com grande peso no custo; é onde se concentram a negociação e a fiscalização. O avanço acumulado no tempo é a curva S."
+ },
+ {
+  "id": "esp-0201",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "O cronograma físico-financeiro de uma obra representa:",
+  "alternativas": [
+   "apenas a lista de materiais a comprar",
+   "o registro diário das ocorrências da obra",
+   "a distribuição da execução dos serviços ao longo do tempo e o correspondente desembolso financeiro em cada período",
+   "o resultado do ensaio de resistência do concreto"
+  ],
+  "correta": 2,
+  "comentario": "Físico: % de cada serviço por período. Financeiro: valores correspondentes. O registro diário é o diário de obra."
+ },
+ {
+  "id": "esp-0202",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "A composição de custo unitário de uma alvenaria prevê, por m², 13 blocos a R$ 3,00 cada e 0,5 h de pedreiro a R$ 30,00 por hora (já com encargos). Desconsiderando os demais insumos, o custo unitário é de:",
+  "alternativas": [
+   "R$ 69,00/m²",
+   "R$ 39,00/m²",
+   "R$ 45,00/m²",
+   "R$ 54,00/m²"
+  ],
+  "correta": 3,
+  "comentario": "Materiais: 13 × 3,00 = 39,00. Mão de obra: 0,5 × 30,00 = 15,00. Total: R$ 54,00/m²."
+ },
+ {
+  "id": "esp-0203",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "A medição de obra pública consiste em:",
+  "alternativas": [
+   "aprovar o projeto executivo",
+   "apurar as quantidades de serviços efetivamente executados no período, conferidas pela fiscalização, para fins de pagamento",
+   "reajustar os preços contratuais pelo índice oficial",
+   "pagar antecipadamente os serviços previstos no cronograma"
+  ],
+  "correta": 1,
+  "comentario": "Só se mede e paga o que foi executado e conferido. Pagamento antecipado é exceção na Lei 14.133/2021."
+ },
+ {
+  "id": "esp-0204",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 7.983/2013 e TCU — Obras públicas",
+  "enunciado": "Em um orçamento de obras, os encargos sociais incidem sobre:",
+  "alternativas": [
+   "o custo dos equipamentos",
+   "o custo da mão de obra",
+   "o valor do BDI",
+   "o custo dos materiais"
+  ],
+  "correta": 1,
+  "comentario": "Encargos sociais e trabalhistas (INSS, FGTS, férias, 13º etc.) são aplicados sobre a mão de obra, horista ou mensalista."
+ },
+ {
+  "id": "esp-0205",
+  "disciplina": "especificos",
+  "assunto": "orcamento-obras",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "ABNT NBR 12721",
+  "enunciado": "O Custo Unitário Básico (CUB), calculado pelos Sinduscons conforme a ABNT NBR 12721, é expresso em:",
+  "alternativas": [
+   "R$/m²",
+   "R$/hora",
+   "R$/m³",
+   "percentual sobre o custo direto"
+  ],
+  "correta": 0,
+  "comentario": "CUB em R$/m², por padrão de acabamento e tipologia. Serve para estimativas iniciais, não para orçamento detalhado de obra pública."
+ },
+ {
+  "id": "esp-0206",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "São modalidades de licitação previstas na Lei nº 14.133/2021:",
+  "alternativas": [
+   "convite, tomada de preços, concorrência, concurso e leilão",
+   "concorrência, tomada de preços, pregão e diálogo competitivo",
+   "pregão, concorrência, concurso, leilão e diálogo competitivo",
+   "pregão, convite, concorrência e RDC"
+  ],
+  "correta": 2,
+  "comentario": "Art. 28. Convite e tomada de preços deixaram de existir."
+ },
+ {
+  "id": "esp-0207",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "A modalidade de licitação destinada à escolha de trabalho técnico, científico ou artístico, como um projeto de arquitetura, com concessão de prêmio ou remuneração ao vencedor, é o(a):",
+  "alternativas": [
+   "leilão",
+   "diálogo competitivo",
+   "pregão",
+   "concurso"
+  ],
+  "correta": 3,
+  "comentario": "Art. 6º, XXXIX."
+ },
+ {
+  "id": "esp-0208",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Regime de execução em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar as obras e realizar montagem, teste e pré-operação, a partir de um anteprojeto:",
+  "alternativas": [
+   "contratação semi-integrada",
+   "contratação integrada",
+   "empreitada por preço unitário",
+   "contratação por tarefa"
+  ],
+  "correta": 1,
+  "comentario": "Art. 6º, XXXII. Na semi-integrada (XXXIII), a Administração entrega o projeto básico e o contratado faz o executivo."
+ },
+ {
+  "id": "esp-0209",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Na contratação semi-integrada, prevista na Lei nº 14.133/2021, o contratado é responsável por:",
+  "alternativas": [
+   "elaborar e desenvolver o projeto executivo, além de executar as obras",
+   "elaborar o estudo técnico preliminar",
+   "fornecer mão de obra por preço certo de tarefas pequenas",
+   "elaborar o anteprojeto e o projeto básico, apenas"
+  ],
+  "correta": 0,
+  "comentario": "Art. 6º, XXXIII. O projeto básico vem da Administração e pode ser alterado mediante autorização."
+ },
+ {
+  "id": "esp-0210",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Nas alterações unilaterais do contrato, o contratado é obrigado a aceitar acréscimos ou supressões de até ___ do valor inicial atualizado e, no caso de reforma de edifício ou de equipamento, acréscimos de até ___.",
+  "alternativas": [
+   "30%; 60%",
+   "10%; 25%",
+   "25%; 50%",
+   "50%; 100%"
+  ],
+  "correta": 2,
+  "comentario": "Art. 125."
+ },
+ {
+  "id": "esp-0211",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Na Lei nº 14.133/2021, em regra, a fase de habilitação ocorre:",
+  "alternativas": [
+   "antes da apresentação das propostas, obrigatoriamente",
+   "antes da divulgação do edital",
+   "depois da homologação",
+   "depois da fase de julgamento"
+  ],
+  "correta": 3,
+  "comentario": "Art. 17: preparatória, edital, propostas e lances, julgamento, habilitação, recursal, homologação. A inversão (habilitação antes) é excepcional e motivada."
+ },
+ {
+  "id": "esp-0212",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "A garantia contratual exigida pela Administração, nos termos da Lei nº 14.133/2021, será de até ___ do valor inicial do contrato, podendo ser majorada para até ___, conforme a complexidade e os riscos.",
+  "alternativas": [
+   "1%; 5%",
+   "5%; 10%",
+   "10%; 30%",
+   "2%; 4%"
+  ],
+  "correta": 1,
+  "comentario": "Art. 98. Em obras de grande vulto, pode-se exigir seguro-garantia com cláusula de retomada de até 30% (art. 99)."
+ },
+ {
+  "id": "esp-0213",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Em se tratando de obra, o recebimento definitivo pela Administração não exime o contratado da responsabilidade objetiva pela solidez e segurança dos materiais e serviços pelo prazo mínimo de:",
+  "alternativas": [
+   "5 anos",
+   "1 ano",
+   "2 anos",
+   "10 anos"
+  ],
+  "correta": 0,
+  "comentario": "Art. 140, §6º: cinco anos, admitido prazo maior no edital e no contrato."
+ },
+ {
+  "id": "esp-0214",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "Segundo a Lei nº 14.133/2021, a execução do contrato deverá ser acompanhada e fiscalizada por:",
+  "alternativas": [
+   "pelo próprio contratado, sem participação da Administração",
+   "pelo Ministério Público",
+   "um ou mais fiscais do contrato, representantes da Administração especialmente designados",
+   "exclusivamente pelo Tribunal de Contas"
+  ],
+  "correta": 2,
+  "comentario": "Art. 117. O fiscal anota em registro próprio as ocorrências e determina a regularização de faltas."
+ },
+ {
+  "id": "esp-0215",
+  "disciplina": "especificos",
+  "assunto": "licitacoes-14133",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 14.133/2021",
+  "enunciado": "NÃO é critério de julgamento previsto no art. 33 da Lei nº 14.133/2021:",
+  "alternativas": [
+   "menor preço",
+   "técnica e preço",
+   "maior desconto",
+   "menor prazo de entrega"
+  ],
+  "correta": 3,
+  "comentario": "Critérios: menor preço; maior desconto; melhor técnica ou conteúdo artístico; técnica e preço; maior lance; maior retorno econômico."
+ },
+ {
+  "id": "esp-0216",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-35",
+  "enunciado": "Segundo a NR-35, considera-se trabalho em altura toda atividade executada acima de ___ do nível inferior, onde haja risco de queda.",
+  "alternativas": [
+   "1,25 m",
+   "1,50 m",
+   "2,00 m",
+   "3,00 m"
+  ],
+  "correta": 2,
+  "comentario": "NR-35, item 35.1.2."
+ },
+ {
+  "id": "esp-0217",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-1 e NR-6",
+  "enunciado": "Pela hierarquia das medidas de prevenção, o equipamento de proteção individual (EPI) deve ser adotado:",
+  "alternativas": [
+   "quando as medidas de proteção coletiva forem tecnicamente inviáveis ou insuficientes, enquanto estiverem sendo implantadas ou em situações de emergência",
+   "para dispensar a instalação de proteções coletivas",
+   "sempre em primeiro lugar, por ser mais barato",
+   "somente quando o trabalhador solicitar"
+  ],
+  "correta": 0,
+  "comentario": "Ordem: eliminar o risco, proteção coletiva, medidas administrativas e, por último, EPI."
+ },
+ {
+  "id": "esp-0218",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-6",
+  "enunciado": "Segundo a NR-6, o empregador deve fornecer aos trabalhadores o EPI:",
+  "alternativas": [
+   "somente após acidente registrado",
+   "gratuitamente, adequado ao risco, em perfeito estado de conservação e com Certificado de Aprovação (CA)",
+   "sem necessidade de Certificado de Aprovação",
+   "mediante desconto em folha de pagamento"
+  ],
+  "correta": 1,
+  "comentario": "Também cabe ao empregador exigir o uso, orientar e treinar, e substituir o EPI danificado."
+ },
+ {
+  "id": "esp-0219",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18 e NR-1",
+  "enunciado": "Com a reformulação da NR-18, o programa de gestão de riscos que passou a ser exigido no lugar do antigo PCMAT é o:",
+  "alternativas": [
+   "CIPA",
+   "PCMSO",
+   "PPRA",
+   "PGR"
+  ],
+  "correta": 3,
+  "comentario": "PGR (Programa de Gerenciamento de Riscos), da NR-1, adaptado à construção. O PCMSO é o programa médico; a CIPA é uma comissão."
+ },
+ {
+  "id": "esp-0220",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18",
+  "enunciado": "Na proteção contra quedas na periferia de lajes, a NR-18 prevê sistema de guarda-corpo com travessão superior a ___ de altura, travessão intermediário e rodapé.",
+  "alternativas": [
+   "1,20 m",
+   "0,90 m",
+   "1,50 m",
+   "1,00 m"
+  ],
+  "correta": 0,
+  "comentario": "Travessão superior a 1,20 m, intermediário e rodapé, ou fechamento por tela ou outro meio que impeça a queda."
+ },
+ {
+  "id": "esp-0221",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-35",
+  "enunciado": "Pela NR-35, o trabalho em altura só pode ser executado por trabalhador:",
+  "alternativas": [
+   "acompanhado apenas de um colega, sem necessidade de planejamento",
+   "com mais de 10 anos de experiência, dispensado o treinamento",
+   "que assine termo de responsabilidade, isentando o empregador",
+   "capacitado e considerado apto em avaliação de saúde, com análise de risco e, quando aplicável, permissão de trabalho"
+  ],
+  "correta": 3,
+  "comentario": "NR-35 exige planejamento, análise de risco, capacitação (teórica e prática) e aptidão em exame médico."
+ },
+ {
+  "id": "esp-0222",
+  "disciplina": "especificos",
+  "assunto": "seguranca-trabalho",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "NR-18",
+  "enunciado": "Pelas regras de segurança em escavações da NR-18, escavações com profundidade superior a ___ devem ter estabilidade dos taludes garantida e dispor de escadas ou rampas próximas aos postos de trabalho, para saída rápida em emergência.",
+  "alternativas": [
+   "2,00 m",
+   "1,25 m",
+   "0,80 m",
+   "3,00 m"
+  ],
+  "correta": 1,
+  "comentario": "1,25 m é o marco clássico para escoramento e acesso seguro em escavações."
+ },
+ {
+  "id": "esp-0223",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.429/1992, com a redação da Lei nº 14.230/2021",
+  "enunciado": "Após as alterações da Lei nº 14.230/2021, a configuração de ato de improbidade administrativa exige:",
+  "alternativas": [
+   "mera irregularidade formal",
+   "culpa, ainda que leve",
+   "dolo",
+   "responsabilidade objetiva do agente"
+  ],
+  "correta": 2,
+  "comentario": "Art. 1º, §§1º a 3º: só há improbidade com conduta dolosa; a improbidade culposa deixou de existir."
+ },
+ {
+  "id": "esp-0224",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.429/1992, com a redação da Lei nº 14.230/2021",
+  "enunciado": "Nos atos de improbidade que importam enriquecimento ilícito (art. 9º da Lei nº 8.429/1992), a suspensão dos direitos políticos pode chegar a:",
+  "alternativas": [
+   "8 anos",
+   "14 anos",
+   "10 anos",
+   "12 anos"
+  ],
+  "correta": 1,
+  "comentario": "Art. 12: até 14 anos (art. 9º) e até 12 anos (art. 10). Para o art. 11 não há mais suspensão de direitos políticos."
+ },
+ {
+  "id": "esp-0225",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 8.429/1992, com a redação da Lei nº 14.230/2021",
+  "enunciado": "Segundo a Lei nº 8.429/1992, com a redação dada pela Lei nº 14.230/2021, a ação para aplicação das sanções por improbidade prescreve em:",
+  "alternativas": [
+   "8 anos",
+   "20 anos",
+   "10 anos",
+   "5 anos"
+  ],
+  "correta": 0,
+  "comentario": "Art. 23: oito anos, contados da ocorrência do fato ou, nas infrações permanentes, do dia em que cessou a permanência."
+ },
+ {
+  "id": "esp-0226",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 12.846/2013",
+  "enunciado": "A Lei nº 12.846/2013 (Lei Anticorrupção) dispõe sobre a responsabilização objetiva, administrativa e civil, de:",
+  "alternativas": [
+   "partidos políticos",
+   "agentes políticos, exclusivamente",
+   "servidores públicos efetivos",
+   "pessoas jurídicas pela prática de atos contra a administração pública"
+  ],
+  "correta": 3,
+  "comentario": "Responsabilidade objetiva da pessoa jurídica: não depende de dolo ou culpa."
+ },
+ {
+  "id": "esp-0227",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Decreto nº 1.171/1994",
+  "enunciado": "Pelo Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994), a pena aplicável ao servidor pela Comissão de Ética é a de:",
+  "alternativas": [
+   "suspensão",
+   "demissão",
+   "censura",
+   "advertência verbal"
+  ],
+  "correta": 2,
+  "comentario": "A Comissão de Ética aplica censura; as penas disciplinares (advertência, suspensão, demissão) seguem o estatuto do servidor."
+ },
+ {
+  "id": "esp-0228",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei nº 12.378/2010",
+  "enunciado": "Segundo a Lei nº 12.378/2010, toda realização de trabalho de competência privativa do arquiteto e urbanista, ou de atuação compartilhada com outras profissões regulamentadas, será objeto de:",
+  "alternativas": [
+   "Anotação de Responsabilidade Técnica (ART)",
+   "habite-se",
+   "Registro de Responsabilidade Técnica (RRT)",
+   "Certidão de Acervo Técnico (CAT) prévia"
+  ],
+  "correta": 2,
+  "comentario": "Art. 45. A ART é do sistema CONFEA/CREA."
+ },
+ {
+  "id": "esp-0229",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Princípios da administração pública (CF, art. 37)",
+  "enunciado": "Um inspetor sanitário arquiteto é convidado pelo proprietário de uma clínica a elaborar, de forma remunerada, o projeto que ele mesmo analisará na vigilância sanitária. A conduta adequada é:",
+  "alternativas": [
+   "recusar, pois há conflito de interesses e ofensa aos princípios da impessoalidade e da moralidade",
+   "aceitar, desde que registre o RRT",
+   "aceitar e declarar-se impedido apenas no momento de assinar o parecer",
+   "aceitar, desde que cobre o valor de mercado"
+  ],
+  "correta": 0,
+  "comentario": "Projetar para quem se fiscaliza compromete a imparcialidade: é conflito de interesses e pode configurar improbidade."
+ },
+ {
+  "id": "esp-0230",
+  "disciplina": "especificos",
+  "assunto": "etica-probidade",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Constituição Federal, art. 37, §4º",
+  "enunciado": "Conforme a Constituição Federal (art. 37, §4º), os atos de improbidade administrativa importarão:",
+  "alternativas": [
+   "cassação dos direitos políticos e prisão administrativa",
+   "apenas multa civil",
+   "perda da nacionalidade brasileira",
+   "suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, sem prejuízo da ação penal cabível"
+  ],
+  "correta": 3,
+  "comentario": "A CF veda a cassação de direitos políticos (art. 15); a improbidade gera suspensão."
+ }
+]

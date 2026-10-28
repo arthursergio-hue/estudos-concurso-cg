@@ -1,0 +1,75 @@
+{
+  "concurso": {
+    "nome": "Prefeitura de Campina Grande/PB 2026",
+    "cargo": "Inspetor Sanitário – Hab. Arquiteto",
+    "banca": "IDECAN",
+    "edital": "Edital nº 01/2026 e retificações 01, 02, 03 e 05",
+    "dataProva": "2027-01-10T13:00:00-03:00",
+    "provaInfo": "turno da tarde · portões abrem às 13h · 3 horas · 40 questões (A–D)",
+    "notaMinima": "50% do total (30 de 60), pelo menos 1 ponto em cada disciplina de Conhecimentos Gerais e 2 em Específicos"
+  },
+  "disciplinas": [
+    {
+      "id": "especificos",
+      "nome": "Conhecimentos Específicos",
+      "area": "Conhecimentos Específicos",
+      "questoesNaProva": 20,
+      "peso": 2,
+      "cor": "#7c5cff"
+    },
+    {
+      "id": "portugues",
+      "nome": "Língua Portuguesa",
+      "area": "Conhecimentos Gerais",
+      "questoesNaProva": 10,
+      "peso": 1,
+      "cor": "#ff7a59"
+    },
+    {
+      "id": "informatica",
+      "nome": "Noções de Informática",
+      "area": "Conhecimentos Gerais",
+      "questoesNaProva": 4,
+      "peso": 1,
+      "cor": "#22b8cf"
+    },
+    {
+      "id": "legislacao-etica",
+      "nome": "Legislação e Ética no Serviço Público",
+      "area": "Conhecimentos Gerais",
+      "questoesNaProva": 3,
+      "peso": 1,
+      "cor": "#40c057"
+    },
+    {
+      "id": "historia-cg",
+      "nome": "História de Campina Grande/PB",
+      "area": "Conhecimentos Gerais",
+      "questoesNaProva": 3,
+      "peso": 1,
+      "cor": "#fab005"
+    }
+  ],
+  "documentos": [
+    {
+      "titulo": "Edital nº 01/2026",
+      "url": "references/edital/01-edital-01-2026.pdf"
+    },
+    {
+      "titulo": "Retificação 01",
+      "url": "references/edital/02-retificacao-01.pdf"
+    },
+    {
+      "titulo": "Retificação 02",
+      "url": "references/edital/03-retificacao-02.pdf"
+    },
+    {
+      "titulo": "Retificação 03",
+      "url": "references/edital/04-retificacao-03.pdf"
+    },
+    {
+      "titulo": "Retificação 05 (novo cronograma)",
+      "url": "references/edital/06-retificacao-05-novo-cronograma.pdf"
+    }
+  ]
+}
