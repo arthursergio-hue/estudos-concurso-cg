@@ -38,6 +38,12 @@ function Log($msg) {
 
 $cfg = Ler-Json (Join-Path $Pasta 'config.json')
 if (-not $cfg) { Log 'config.json não abriu'; exit 1 }
+[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
+
+# Sincronização pelo Drive (opcional): popup\sync.json = { "url", "chave" }, gravado por ligar-sync.ps1.
+$Sync = Ler-Json (Join-Path $Pasta 'sync.json')
+if ($Sync -and -not ([string]$Sync.url -match '^https://script\.google(usercontent)?\.com/' -and $Sync.chave)) { $Sync = $null }
+function Url-Leitura { return ([string]$Sync.url + '?t=' + [uri]::EscapeDataString([string]$Sync.chave)) }
 
 Add-Type -Namespace EstudosCG -Name Win -MemberDefinition @'
 [DllImport("shell32.dll")] public static extern int SHQueryUserNotificationState(out int state);
@@ -101,6 +107,12 @@ function Agendar-Proxima([int64]$pausaAte = 0) {
 if ($Diagnostico) {
     $m = Motivo
     if ($m) { "Não abriria agora: $m" } else { 'Abriria agora: está tudo livre.' }
+    if ($Sync) {
+        try {
+            $r = Invoke-RestMethod -Uri (Url-Leitura) -TimeoutSec 15
+            if ($r.ok) { 'Drive: sincronização ligada e respondendo.' } else { "Drive: o script recusou ($($r.erro))." }
+        } catch { "Drive: sem resposta ($($_.Exception.Message))." }
+    } else { 'Drive: sincronização desligada (rode ligar-sync.ps1 com o link do passo a passo).' }
     exit 0
 }
 if (-not $Agora -and -not $Captura) {
@@ -117,12 +129,28 @@ foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\disciplinas') -Filter *.json
     if ($d) { foreach ($a in $d.assuntos) { $Assunto["$($d.id):$($a.id)"] = $a.nome } }
 }
 $PorDisc = @{}
+$Vistas = @{}
+function Adicionar($q) {
+    if (-not $q.id -or -not $q.alternativas -or $Vistas.ContainsKey([string]$q.id) -or -not $Disc.ContainsKey([string]$q.disciplina)) { return }
+    $Vistas[[string]$q.id] = $true
+    if (-not $PorDisc.ContainsKey($q.disciplina)) { $PorDisc[$q.disciplina] = New-Object System.Collections.ArrayList }
+    [void]$PorDisc[$q.disciplina].Add($q)
+}
 foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\questoes') -Filter *.json -ErrorAction SilentlyContinue) {
-    $lista = Ler-Json $f.FullName
-    foreach ($q in $lista) {
-        if (-not $q.id -or -not $q.alternativas) { continue }
-        if (-not $PorDisc.ContainsKey($q.disciplina)) { $PorDisc[$q.disciplina] = New-Object System.Collections.ArrayList }
-        [void]$PorDisc[$q.disciplina].Add($q)
+    foreach ($q in (Ler-Json $f.FullName)) { Adicionar $q }
+}
+# Provas digitadas: só as questões que cabem num pop-up (sem anulada, sem figura e sem texto de apoio).
+foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\provas') -Filter *.json -ErrorAction SilentlyContinue) {
+    if ($f.Name -eq 'index.json') { continue }
+    $p = Ler-Json $f.FullName
+    if (-not $p -or -not $p.questoes) { continue }
+    foreach ($q in $p.questoes) {
+        if ($q.anulada -or $null -eq $q.correta -or $q.imagem -or $q.texto) { continue }
+        if (([string]$q.enunciado + ' ' + (@($q.alternativas) -join ' ')) -match '!\[') { continue }
+        foreach ($c in 'banca', 'ano', 'orgao', 'cargo') { if (-not $q.$c -and $p.$c) { $q | Add-Member -NotePropertyName $c -NotePropertyValue $p.$c -Force } }
+        $q | Add-Member -NotePropertyName origem -NotePropertyValue 'banca' -Force
+        $q | Add-Member -NotePropertyName prova -NotePropertyValue $p.id -Force
+        Adicionar $q
     }
 }
 if (-not $PorDisc.Count) { Log 'sem questões em data\questoes'; exit 0 }
@@ -130,11 +158,26 @@ if (-not $PorDisc.Count) { Log 'sem questões em data\questoes'; exit 0 }
 $Prog = Ler-Json $ArqProgresso
 if (-not $Prog -or -not $Prog.PSObject.Properties['resp']) { $Prog = [pscustomobject]@{ origem = 'popup'; resp = [pscustomobject]@{} } }
 
-function Ultima($id) {
-    $p = $Prog.resp.PSObject.Properties[$id]
-    if (-not $p) { return $null }
-    $h = @($p.Value); return $h[$h.Count - 1]
+# Última resposta de cada questão: a do pop-up e, com a sincronização ligada, a do site (PC e celular) que está no Drive.
+$Hist = @{}
+function Juntar-Hist($resp) {
+    if (-not $resp) { return }
+    foreach ($p in $resp.PSObject.Properties) {
+        foreach ($x in @($p.Value)) {
+            if ($null -eq $x -or $null -eq $x.ts) { continue }
+            $u = $Hist[$p.Name]
+            if (-not $u -or [int64]$x.ts -gt [int64]$u.ts) { $Hist[$p.Name] = $x }
+        }
+    }
 }
+Juntar-Hist $Prog.resp
+if ($Sync -and -not $Captura) {
+    try {
+        $r = Invoke-RestMethod -Uri (Url-Leitura) -TimeoutSec 8
+        if ($r.ok -and $r.estado) { Juntar-Hist $r.estado.resp }
+    } catch { Log "Drive não respondeu ao ler: $($_.Exception.Message)" }
+}
+function Ultima($id) { return $Hist[[string]$id] }
 # Mais chance para quem errou ou nunca viu; acertadas voltam aos poucos.
 function Peso($q) {
     $u = Ultima $q.id
@@ -162,6 +205,8 @@ function Registrar($q, [int]$k) {
     $h += [pscustomobject]@{ ts = (Agora-Ms); e = $k; ok = $ok }
     if ($h.Count -gt 20) { $h = $h[($h.Count - 20)..($h.Count - 1)] }
     $Prog.resp | Add-Member -NotePropertyName $q.id -NotePropertyValue $h -Force
+    $Hist[[string]$q.id] = $h[$h.Count - 1]
+    $Estado.n++
     try { Gravar-Json $ArqProgresso $Prog } catch { Log "não gravou o progresso: $_" }
     Log ("respondida {0}: {1}" -f $q.id, $(if ($ok) { 'certa' } else { 'errada' }))
     return $ok
@@ -255,7 +300,7 @@ function Mistura([string]$cor, [double]$a) {
 # Markdown simples -> Runs (negrito com **, sem links, sem crases).
 function Pintar-Texto($tb, [string]$md) {
     $tb.Inlines.Clear()
-    $t = $md -replace '\r', '' -replace '\[([^\]]+)\]\([^)]+\)', '$1' -replace '`', '' -replace '(?m)^#{1,6}\s*', '' -replace '(?m)^\s*[-*+]\s+', '• '
+    $t = $md -replace '\r', '' -replace '\+\+', '' -replace '\\\n', "`n" -replace '\\$', '' -replace '\[([^\]]+)\]\([^)]+\)', '$1' -replace '`', '' -replace '(?m)^#{1,6}\s*', '' -replace '(?m)^\s*[-*+]\s+', '• '
     $partes = $t -split '\*\*'
     for ($i = 0; $i -lt $partes.Count; $i++) {
         $s = $partes[$i] -replace '(?<![\w*])\*([^*\n]+)\*(?![\w*])', '$1'
@@ -265,7 +310,7 @@ function Pintar-Texto($tb, [string]$md) {
     }
 }
 
-$Estado = @{ q = $null; respondida = $false }
+$Estado = @{ q = $null; respondida = $false; n = 0 }
 $Letras = 'ABCDE'
 
 function Cartao-Alt([int]$k, [string]$texto) {
@@ -352,7 +397,8 @@ $E.BtnFechar.Add_Click({ $win.Close() })
 $E.BtnOutra.Add_Click({ Mostrar-Questao (Nova-Questao) })
 $E.BtnSite.Add_Click({
     $q = $Estado.q
-    Start-Process ("{0}#/a/{1}/{2}" -f $cfg.siteUrl, $q.disciplina, $q.assunto)
+    $rota = if ($q.assunto) { "a/$($q.disciplina)/$($q.assunto)" } elseif ($q.prova) { "prova/$($q.prova)" } else { "d/$($q.disciplina)" }
+    Start-Process ("{0}#/{1}" -f $cfg.siteUrl, $rota)
     $win.Close()
 })
 $E.BtnP1.Add_Click({ Pausar ((Agora-Ms) + 3600000L) })
@@ -396,3 +442,12 @@ Agendar-Proxima
 Log ('aberta: ' + $Estado.q.id)
 $win.Add_ContentRendered({ Posicionar; $timer.Start() })
 [void]$win.ShowDialog()
+
+# Depois que a janela fecha: manda as respostas do pop-up para o Drive (o servidor ignora as que já tem).
+if ($Sync -and $Estado.n -gt 0) {
+    try {
+        $corpo = @{ t = [string]$Sync.chave; estado = @{ resp = $Prog.resp } } | ConvertTo-Json -Depth 8 -Compress
+        $r = Invoke-RestMethod -Uri ([string]$Sync.url) -Method Post -Body ([Text.Encoding]::UTF8.GetBytes($corpo)) -ContentType 'text/plain; charset=utf-8' -TimeoutSec 25
+        if ($r.ok) { Log "Drive: $($r.novas) resposta(s) nova(s) enviada(s)" } else { Log "Drive recusou: $($r.erro)" }
+    } catch { Log "Drive não respondeu ao enviar: $($_.Exception.Message)" }
+}

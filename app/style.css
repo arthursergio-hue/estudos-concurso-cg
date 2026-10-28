@@ -365,6 +365,34 @@ th { color: var(--mu); font-weight: 600; font-size: 13px; }
 .lb-box .player { border-radius: 12px; }
 body.travado { overflow: hidden; }
 
+/* ---------- provas digitadas e sincronização ---------- */
+.texto-base { background: var(--s2); border: 1px solid var(--bd2); border-radius: 12px; padding: 10px 14px; margin-bottom: 14px; }
+.texto-base summary { cursor: pointer; font-weight: 600; color: #b9a8ff; display: flex; gap: 8px; align-items: center; }
+.texto-base .md, .texto-base .tl { margin-top: 10px; font-size: 14.5px; max-height: 55vh; overflow: auto; padding-right: 6px; }
+.tl { font-family: Georgia, "Times New Roman", serif; line-height: 1.65; }
+.tl-l { display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 10px; }
+.tl-n { color: var(--mu2); font: 12px/1.65 "Segoe UI", system-ui, sans-serif; text-align: right; padding-top: 2px; font-variant-numeric: tabular-nums; }
+.tl-t.rec { text-indent: 1.6em; }
+.tb-fonte { margin: 8px 0 0; color: var(--mu); font-size: 12.5px; text-align: right; font-style: italic; }
+.md u, .at u, .tl u { text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+.qfig { display: block; margin: -4px 0 16px; text-align: center; }
+.qfig img, img.mdimg { max-width: 100%; height: auto; border-radius: 10px; background: #fff; padding: 6px; }
+.at img.mdimg { max-height: 180px; }
+.tag.anulada { background: rgba(255, 84, 112, .15); color: #ff8da0; }
+.tag.drive { background: rgba(66, 133, 244, .16); color: #8ab4f8; gap: 5px; }
+.feedback.anul { background: rgba(255, 176, 32, .08); border: 1px solid rgba(255, 176, 32, .35); }
+.feedback.anul > b { color: #ffc95c; }
+.feedback.anul p { margin: 0 0 8px; }
+.qgrid .anul { text-decoration: line-through; opacity: .45; }
+.prova-t { flex: 1; min-width: 0; }
+.prova-t .chips { margin-top: 10px; }
+.prova-a { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; align-content: flex-start; max-width: 330px; }
+.prova .feitas { display: block; margin-top: 10px; color: #7ee2a8; }
+.sync-mini { font-size: 12px; color: var(--mu); display: flex; gap: 6px; align-items: center; padding: 0 6px; }
+.sync-mini[hidden] { display: none; }
+.sync-mini.erro { color: var(--warn); }
+@media (max-width: 900px) { .prova { flex-direction: column; } .prova-a { max-width: none; justify-content: flex-start; } }
+
 /* ---------- plano / provas / mais ---------- */
 .semanas { display: grid; gap: 10px; }
 .semana { background: var(--s1); border: 1px solid var(--bd); border-radius: 14px; overflow: hidden; }

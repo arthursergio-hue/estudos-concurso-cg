@@ -1,4 +1,4 @@
-/* Markdown mínimo e seguro: escapa todo HTML e só gera títulos, listas, tabelas, citações, links, negrito,
+/* Markdown mínimo e seguro: escapa todo HTML e só gera títulos, listas, tabelas, citações, links, figuras, negrito,
    itálico e código. Usado no resumo dos assuntos, no enunciado/comentário das questões e no edital. */
 (function () {
   'use strict';
@@ -9,17 +9,27 @@
     return /^https?:\/\//i.test(u) || /^(#|\.{0,2}\/|[\w-]+\/)/.test(u);
   }
 
+  // Figura: só caminho do próprio site (data/...) ou https.
+  const imgOk = u => (/^https:\/\//i.test(u) || /^data\/[\w./%-]+$/.test(u)) && !/\.\./.test(u);
+
   function inline(s) {
     s = esc(String(s ?? ''));
-    const codigos = [];
-    s = s.replace(/`([^`]+)`/g, (m, c) => { codigos.push(c); return `\u0000${codigos.length - 1}\u0000`; });
+    const guardados = [];
+    const guarda = h => { guardados.push(h); return `\u0000${guardados.length - 1}\u0000`; };
+    s = s.replace(/`([^`]+)`/g, (m, c) => guarda(`<code>${c}</code>`));
+    s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, u) =>
+      imgOk(u) ? guarda(`<img class="mdimg" src="${u}" alt="${alt}" loading="lazy">`) : alt);
     s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, t, u) =>
       urlOk(u) ? `<a href="${u}" target="_blank" rel="noopener">${t}</a>` : t);
+    s = s.replace(/\+\+([^+\n][^+]*?)\+\+/g, '<u>$1</u>');
     s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
     s = s.replace(/(^|[^*\w])\*([^*\s][^*]*?)\*(?!\w)/g, '$1<em>$2</em>');
-    s = s.replace(/\u0000(\d+)\u0000/g, (m, i) => `<code>${codigos[i]}</code>`);
+    s = s.replace(/\u0000(\d+)\u0000/g, (m, i) => guardados[i]);
     return s;
   }
+
+  // Linha terminada em "\" quebra a linha dentro do parágrafo ou do item (poema, letra de música, endereço).
+  const juntar = ls => inline(ls.map(l => (/\\$/.test(l) ? `${l.slice(0, -1).trimEnd()}\u0001` : l)).join(' ')).replace(/\u0001 ?/g, '<br>');
 
   const recuo = l => l.match(/^(\s*)/)[1].replace(/\t/g, '    ').length;
 
@@ -44,7 +54,7 @@
       break;
     }
     const tag = ordenada ? 'ol' : 'ul';
-    const html = `<${tag}>${itens.map(it => `<li>${inline(it.txt.join(' '))}${it.sub}</li>`).join('')}</${tag}>`;
+    const html = `<${tag}>${itens.map(it => `<li>${juntar(it.txt)}${it.sub}</li>`).join('')}</${tag}>`;
     return { html, i };
   }
 
@@ -84,7 +94,7 @@
       while (i < linhas.length && linhas[i].trim() && !(par.length && inicioDeBloco(linhas[i], linhas[i + 1]))) {
         par.push(linhas[i].trim()); i++;
       }
-      out.push(`<p>${inline(par.join(' '))}</p>`);
+      out.push(`<p>${juntar(par)}</p>`);
     }
     return out.join('\n');
   }

@@ -40,6 +40,7 @@
     baixar: '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/>',
     subir: '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m17 8-5-5-5 5"/><path d="M12 3v12"/>',
     luz: '<path d="M9 18h6M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/>',
+    nuvem: '<path d="M17.5 19a4.5 4.5 0 1 0-1.4-8.8A6 6 0 0 0 4.3 12.6 3.5 3.5 0 0 0 6.5 19z"/>',
   };
   const ic = (n, cls = '') => `<svg class="ic ${cls}" viewBox="0 0 24 24" aria-hidden="true">${I[n] || ''}</svg>`;
 
@@ -59,12 +60,28 @@
   const CHAVE = 'cg-estudos-v1';
   const padrao = () => ({ resp: {}, videos: {}, leituras: {}, concluidos: {}, dias: {}, tarefas: {}, simulados: [], meta: null, ultimo: null, timer: null });
   const S = (() => { try { return Object.assign(padrao(), JSON.parse(localStorage.getItem(CHAVE) || '{}')); } catch { return padrao(); } })();
-  const salvar = () => { try { localStorage.setItem(CHAVE, JSON.stringify(S)); } catch (e) { console.warn(e); } };
+  let ultimaMudanca = 0;
+  // tipo 'mudou' (padrão) agenda a sincronização com o Drive; 'local' (só deste aparelho) e 'sync' não.
+  function salvar(tipo = 'mudou') {
+    try { localStorage.setItem(CHAVE, JSON.stringify(S)); } catch (e) { console.warn(e); }
+    if (tipo === 'mudou') { ultimaMudanca = Date.now(); agendarSync(); }
+  }
   const dia = (k = hoje()) => (S.dias[k] ||= { questoes: 0, acertos: 0, seg: 0, videos: 0 });
+  // Marcas (vídeo visto, leitura lida, assunto concluído, tarefa feita): ts > 0 é marcado e ts < 0 é desmarcado.
+  // Guardar o desmarcar com horário faz ele chegar aos outros aparelhos na sincronização (vence o |ts| maior).
+  const marcado = (mapa, k) => (Number(mapa[k]) || 0) > 0;
+  const marcar = (mapa, k, sim) => { mapa[k] = sim ? Date.now() : -Date.now(); };
+  const nMarcados = mapa => Object.values(mapa).filter(v => Number(v) > 0).length;
+  const chaveOk = k => k !== '__proto__' && k !== 'constructor' && k !== 'prototype';
   let confirmarZerar = false;
 
   // ---------- dados ----------
-  const D = { idx: null, discs: [], disc: {}, qs: [], q: {}, vid: {}, provas: [], plano: null };
+  const D = { idx: null, discs: [], disc: {}, qs: [], q: {}, vid: {}, provas: [], provasInt: [], prova: {}, plano: null, chaves: new Set() };
+  const DISC_OUTRAS = { id: 'outras', nome: 'Outras matérias', cor: '#8a94a6', peso: 1, assuntos: [], as: {} };
+  const discDe = id => D.disc[id] || DISC_OUTRAS;
+  // A mesma questão vinda de dois lugares (banco e prova digitada) entra uma vez só no banco.
+  const normaliza = t => String(t || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '');
+  const chaveQ = q => `${normaliza(q.enunciado).slice(0, 160)}|${normaliza((q.alternativas || []).join('|')).slice(0, 160)}`;
 
   async function json(p) {
     const r = await fetch(p, { cache: 'no-cache' });
@@ -75,11 +92,12 @@
   async function carregar() {
     D.idx = await json('data/index.json');
     const ids = D.idx.disciplinas.map(d => d.id);
-    const [ds, qs, pv, pl] = await Promise.all([
+    const [ds, qs, pv, pl, pi] = await Promise.all([
       Promise.allSettled(ids.map(id => json(`data/disciplinas/${id}.json`))),
       Promise.allSettled(ids.map(id => json(`data/questoes/${id}.json`))),
       json('data/provas.json').catch(() => []),
       json('data/plano.json').catch(() => null),
+      json('data/provas/index.json').catch(() => []),
     ]);
     D.idx.disciplinas.forEach((base, k) => {
       const arq = ds[k].status === 'fulfilled' ? ds[k].value : null;
@@ -93,7 +111,7 @@
       for (const q of lista) {
         if (!q?.id || !Array.isArray(q.alternativas) || D.q[q.id]) continue;
         q.disciplina ||= d.id;
-        D.qs.push(q); D.q[q.id] = q;
+        D.qs.push(q); D.q[q.id] = q; D.chaves.add(chaveQ(q));
       }
     });
     for (const d of D.discs) for (const a of d.assuntos) for (const v of a.videos || []) {
@@ -101,6 +119,41 @@
     }
     D.provas = Array.isArray(pv) ? pv : [];
     D.plano = pl && typeof pl === 'object' ? pl : null;
+    D.provasInt = Array.isArray(pi) ? pi.filter(x => x && /^[\w-]+$/.test(x.id || '')) : [];
+  }
+
+  // Provas digitadas (data/provas/<id>.json): abrem sob demanda e entram no banco, sem as anuladas e sem repetir questão.
+  const carregando = {};
+  function carregarProva(id) {
+    if (D.prova[id]) return Promise.resolve(D.prova[id]);
+    return (carregando[id] ||= (async () => {
+      const info = D.provasInt.find(x => x.id === id);
+      if (!info) throw new Error('prova não encontrada');
+      const arq = /^data\/provas\/[\w./-]+\.json$/.test(info.arquivo || '') && !/\.\./.test(info.arquivo) ? info.arquivo : `data/provas/${id}.json`;
+      const p = await json(arq);
+      const link = D.provas.find(x => x.id === id) || {};
+      const textos = Object.fromEntries((p.textos || []).filter(t => t && t.id).map(t => [t.id, t]));
+      p.questoes = (p.questoes || []).filter(q => q && q.id && Array.isArray(q.alternativas) && chaveOk(q.id));
+      p.questoes.forEach((q, i) => {
+        Object.assign(q, {
+          prova: id, numero: q.numero || i + 1, origem: 'banca', banca: q.banca || p.banca || info.banca, ano: q.ano || p.ano || info.ano,
+          orgao: q.orgao || p.orgao || info.orgao, cargo: q.cargo || p.cargo || info.cargo, fonte: q.fonte || p.fonte || link.fonte || '',
+        });
+        const refs = Array.isArray(q.texto) ? q.texto : q.texto ? [q.texto] : [];
+        q.textosBase = refs.map(r => textos[r]).filter(Boolean);
+        q.anulada = !!q.anulada || !Number.isInteger(q.correta) || q.correta < 0 || q.correta >= q.alternativas.length;
+        if (!D.q[q.id]) D.q[q.id] = q;
+        const ch = chaveQ(q);
+        if (!q.anulada && D.disc[q.disciplina] && !D.chaves.has(ch)) { D.chaves.add(ch); D.qs.push(q); }
+      });
+      D.prova[id] = Object.assign({}, info, p);
+      return D.prova[id];
+    })().catch(e => { delete carregando[id]; throw e; }));
+  }
+  async function carregarProvasNoBanco() {
+    const antes = D.qs.length;
+    await Promise.allSettled(D.provasInt.map(x => carregarProva(x.id)));
+    return D.qs.length - antes;
   }
 
   // ---------- estatística ----------
@@ -111,7 +164,8 @@
     for (const q of lista) { const u = ultima(q.id); if (u) { resp++; if (u.ok) ok++; } }
     return { total: lista.length, resp, ok, pct: resp ? Math.round(100 * ok / resp) : null };
   }
-  const meta = () => Object.assign({ questoes: 30, minutosLeitura: 60, videos: 1 }, D.plano?.metaDiaria || {}, S.meta || {});
+  // S.meta = { questoes, minutosLeitura, videos, ts } (meta própria) ou { padrao: true, ts } (usar a do plano).
+  const meta = () => Object.assign({ questoes: 30, minutosLeitura: 60, videos: 1 }, D.plano?.metaDiaria || {}, S.meta && !S.meta.padrao ? S.meta : {});
   const timerSeg = () => S.timer ? Math.min(4 * 3600, Math.max(0, (Date.now() - S.timer.inicio) / 1000)) : 0;
   const segDo = k => (S.dias[k]?.seg || 0) + (k === hoje() ? timerSeg() : 0);
   function progressoDia(k) {
@@ -165,10 +219,11 @@
     return '<span class="tag aut">Autoral · estilo IDECAN</span>';
   }
   function fonteHtml(q) {
-    const partes = (q.origem === 'autoral' ? [] : [q.banca, q.ano, q.orgao, q.cargo]).filter(Boolean).map(esc).join(' · ');
+    const partes = (q.origem === 'autoral' ? [] : [q.banca, q.ano, q.orgao, q.cargo, q.prova ? `questão ${q.numero}` : '']).filter(Boolean).map(esc).join(' · ');
     const u = q.fonte ? urlSegura(q.fonte) : '#';
+    const prova = q.prova && !(QZ && QZ.prova === q.prova) ? ` · <a href="#/prova/${esc(q.prova)}">ver a prova inteira</a>` : '';
     if (!partes && u === '#') return '';
-    return `<p class="fonte">${partes}${u !== '#' ? `${partes ? ' · ' : ''}<a href="${esc(u)}" target="_blank" rel="noopener">fonte ${ic('ext', 'sm')}</a>` : ''}</p>`;
+    return `<p class="fonte">${partes}${u !== '#' ? `${partes ? ' · ' : ''}<a href="${esc(u)}" target="_blank" rel="noopener">fonte ${ic('ext', 'sm')}</a>` : ''}${prova}</p>`;
   }
 
   function heatmap(semanas = 16) {
@@ -211,7 +266,7 @@
       const q = qsDe(d.id, a.id), e = est(q);
       const cobertura = q.length ? e.resp / q.length : 0;
       const acerto = e.resp ? e.ok / e.resp : 0;
-      const feito = S.concluidos[`${d.id}:${a.id}`] ? 0.5 : 0;
+      const feito = marcado(S.concluidos, `${d.id}:${a.id}`) ? 0.5 : 0;
       itens.push({ d, a, s: d.peso * (1.2 - cobertura * 0.6 - acerto * 0.4 - feito) + hash01(k + a.id) * 0.4 });
     }
     return itens.sort((x, y) => y.s - x.s).slice(0, n);
@@ -307,7 +362,7 @@
     if (!t.length) return '';
     return `<ul class="tasks">${t.map((x, i) => {
       const k = `${w.n}:${i}`;
-      return `<li><label><input type="checkbox" data-act="tarefa" data-k="${esc(k)}" ${S.tarefas[k] ? 'checked' : ''}><span>${esc(x)}</span></label></li>`;
+      return `<li><label><input type="checkbox" data-act="tarefa" data-k="${esc(k)}" ${marcado(S.tarefas, k) ? 'checked' : ''}><span>${esc(x)}</span></label></li>`;
     }).join('')}</ul>`;
   }
 
@@ -317,7 +372,7 @@
     <div class="cursos">${D.discs.map(d => {
       const q = qsDe(d.id), e = est(q);
       const nv = d.assuntos.reduce((s, a) => s + (a.videos?.length || 0), 0);
-      const conc = d.assuntos.filter(a => S.concluidos[`${d.id}:${a.id}`]).length;
+      const conc = d.assuntos.filter(a => marcado(S.concluidos, `${d.id}:${a.id}`)).length;
       return `<a class="curso" href="#/d/${d.id}" style="--c:${d.cor}">
         <div class="curso-capa">
           ${d.peso > 1 ? '<span class="fita">Vale 2/3 da nota</span>' : ''}
@@ -345,7 +400,7 @@
     </header>
     ${d.pendente || !d.assuntos.length ? vazio('trilhas', 'O conteúdo desta trilha está sendo preparado e aparece aqui assim que ficar pronto.') :
       `<ol class="mods">${d.assuntos.map((a, k) => {
-        const qa = qsDe(did, a.id), ea = est(qa), feito = S.concluidos[`${did}:${a.id}`];
+        const qa = qsDe(did, a.id), ea = est(qa), feito = marcado(S.concluidos, `${did}:${a.id}`);
         return `<li><a class="mod ${feito ? 'feito' : ''}" href="#/a/${did}/${a.id}">
           <span class="num">${feito ? ic('check') : String(k + 1).padStart(2, '0')}</span>
           <span class="mt"><b>${esc(a.nome)}</b><small>${ic('ler', 'sm')} ${a.leituras?.length || 0} leituras · ${ic('video', 'sm')} ${a.videos?.length || 0} vídeos · ${ic('questoes', 'sm')} ${qa.length} questões${ea.resp ? ` · ${ea.pct}% de acerto` : ''}</small></span>
@@ -366,12 +421,12 @@
   function vAula(did, aid, aba) {
     const d = D.disc[did], a = d?.as[aid]; if (!a) return naoAchou();
     CTX = { did, aid, aba: ABAS.some(x => x[0] === aba) ? aba : 'resumo' };
-    S.ultimo = { href: `#/a/${did}/${aid}`, nome: a.nome }; salvar();
+    S.ultimo = { href: `#/a/${did}/${aid}`, nome: a.nome }; salvar('local');
     const vids = (a.videos || []).filter(v => ytOk(v.youtubeId));
     const q = qsDe(did, aid);
     const k = d.assuntos.indexOf(a), ant = d.assuntos[k - 1], prox = d.assuntos[k + 1];
-    const feito = S.concluidos[`${did}:${aid}`];
-    const conc = d.assuntos.filter(x => S.concluidos[`${did}:${x.id}`]).length;
+    const feito = marcado(S.concluidos, `${did}:${aid}`);
+    const conc = d.assuntos.filter(x => marcado(S.concluidos, `${did}:${x.id}`)).length;
     return `<nav class="crumbs"><a href="#/trilhas">Trilhas</a> <span>›</span> <a href="#/d/${did}">${esc(d.nome)}</a> <span>›</span> <span>${esc(a.nome)}</span></nav>
     <div class="aula" style="--c:${d.cor}">
       <div class="aula-main">
@@ -390,7 +445,7 @@
       <aside class="aula-side">
         <div class="side-h"><b>${esc(d.nome)}</b><small>${conc}/${d.assuntos.length} concluídos</small>${barra(d.assuntos.length ? 100 * conc / d.assuntos.length : 0, 'thin')}</div>
         <ol class="mini">${d.assuntos.map((x, i) => {
-          const f = S.concluidos[`${did}:${x.id}`];
+          const f = marcado(S.concluidos, `${did}:${x.id}`);
           return `<li><a class="${x.id === aid ? 'on' : ''} ${f ? 'feito' : ''}" href="#/a/${did}/${x.id}"><span class="num">${f ? ic('check') : i + 1}</span><span>${esc(x.nome)}</span></a></li>`;
         }).join('')}</ol>
         <button class="btn block js-concluir ${feito ? 'ok' : ''}" data-act="concluir" data-k="${did}:${aid}">${feito ? `${ic('check')} Assunto concluído` : 'Marcar assunto como concluído'}</button>
@@ -401,13 +456,13 @@
   const poster = v => `<button class="poster" data-act="play" data-y="${esc(v.youtubeId)}" style="background-image:url('https://i.ytimg.com/vi/${esc(v.youtubeId)}/hqdefault.jpg')" aria-label="Assistir ${esc(v.titulo)}"><span class="pbtn">${ic('play')}</span></button>`;
   const iframe = id => `<iframe src="https://www.youtube-nocookie.com/embed/${esc(id)}?autoplay=1&rel=0&modestbranding=1" title="Vídeo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`;
   const vinfo = (v, extra = '') => {
-    const visto = S.videos[v.youtubeId];
+    const visto = marcado(S.videos, v.youtubeId);
     return `<div><b>${esc(v.titulo)}</b><small>${esc(v.canal || '')}${v.duracao ? ` · ${esc(v.duracao)}` : ''}</small></div>
       <div class="row gap wrap"><button class="btn sm ${visto ? 'ok' : ''}" data-act="visto" data-y="${esc(v.youtubeId)}">${visto ? `${ic('check')} Assistido` : 'Marcar como assistido'}</button>${extra}</div>`;
   };
   const vinfoFeed = x => vinfo(x.v, `<a class="btn sm" href="#/a/${x.d.id}/${x.a.id}">${ic('trilhas')} Ir para a aula</a><button class="btn sm ghost" data-act="lb-fechar">${ic('x')} Fechar</button>`);
   const leituraHtml = l => {
-    const lido = S.leituras[l.url];
+    const lido = marcado(S.leituras, l.url);
     return `<li class="leitura ${lido ? 'feito' : ''}"><span class="rtipo">${esc(TIPO[l.tipo] || l.tipo || 'Link')}</span>
       <div class="rt"><a href="${esc(urlSegura(l.url))}" target="_blank" rel="noopener">${esc(l.titulo)} ${ic('ext', 'sm')}</a>
       ${l.nota ? `<small>${esc(l.nota)}</small>` : ''}${l.gratuito === false ? '<small class="warn">Pago</small>' : ''}</div>
@@ -423,9 +478,9 @@
     }
     if (aba === 'videos') {
       const vs = (a.videos || []).filter(v => ytOk(v.youtubeId));
-      return vs.length ? `<div class="vgrid">${vs.map((v, i) => `<button class="vcard ${S.videos[v.youtubeId] ? 'feito' : ''}" data-act="ver" data-i="${i}">
+      return vs.length ? `<div class="vgrid">${vs.map((v, i) => `<button class="vcard ${marcado(S.videos, v.youtubeId) ? 'feito' : ''}" data-act="ver" data-i="${i}">
         <span class="thumb"><img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.youtubeId)}/mqdefault.jpg" alt="">
-        ${v.duracao ? `<span class="dur">${esc(v.duracao)}</span>` : ''}${S.videos[v.youtubeId] ? `<span class="visto">${ic('check')} visto</span>` : ''}</span>
+        ${v.duracao ? `<span class="dur">${esc(v.duracao)}</span>` : ''}${marcado(S.videos, v.youtubeId) ? `<span class="visto">${ic('check')} visto</span>` : ''}</span>
         <span class="vt">${esc(v.titulo)}</span><small>${esc(v.canal || '')}</small></button>`).join('')}</div>`
         : vazio('video', 'Os vídeos deste assunto ainda estão sendo selecionados.');
     }
@@ -493,7 +548,7 @@
 
   let QZ = null;
   function novoQuiz(ids, titulo, o = {}) {
-    QZ = { ids, i: 0, titulo, modo: o.modo || 'treino', chave: o.chave || null, inline: !!o.inline, resp: {}, fase: 'fazendo',
+    QZ = { ids, i: 0, titulo, modo: o.modo || 'treino', chave: o.chave || null, inline: !!o.inline, prova: o.prova || null, resp: {}, fase: 'fazendo',
       inicio: Date.now(), limite: o.minutos ? Date.now() + o.minutos * 60000 : null, confirmar: false };
   }
   function irQuiz(ids, titulo, o) {
@@ -501,7 +556,15 @@
     novoQuiz(ids, titulo, o);
     if (location.hash === '#/quiz') rota(); else location.hash = '#/quiz';
   }
-  const acertosQuiz = () => Object.entries(QZ.resp).filter(([id, k]) => D.q[id]?.correta === k).length;
+  // Questão anulada vale ponto para todos (regra da banca); nas outras, acerto é a alternativa do gabarito.
+  const acertou = id => { const q = D.q[id], k = QZ.resp[id]; return q.anulada ? (QZ.modo === 'simulado' || k !== undefined) : k !== undefined && k === q.correta; };
+  const acertosQuiz = () => QZ.ids.filter(acertou).length;
+  function abrirProva(id, modo, inicio) {
+    const p = D.prova[id]; if (!p || !p.questoes.length) return;
+    novoQuiz(p.questoes.map(q => q.id), p.titulo, { modo, prova: id, minutos: modo === 'simulado' ? (Number(p.duracaoMin) || 180) : 0 });
+    QZ.i = Math.min(Math.max(0, inicio || 0), QZ.ids.length - 1);
+    if (location.hash === '#/quiz') rota(); else location.hash = '#/quiz';
+  }
 
   function desenharQuiz() {
     const el = $('#quiz'); if (!el || !QZ) return;
@@ -509,31 +572,54 @@
     if (QZ.limite) relogioSimulado();
   }
 
+  // Texto de apoio (provas de Português): aberto na primeira questão que usa o texto, recolhido nas seguintes.
+  function textoBaseHtml(q, t) {
+    const usa = id => { const x = D.q[id]; return !!x && x.prova === q.prova && (Array.isArray(x.texto) ? x.texto : [x.texto]).includes(t.id); };
+    const primeira = !QZ || QZ.ids.findIndex(usa) === QZ.i;
+    const corpo = t.numerarLinhas ? linhasNumeradas(t.conteudo) : `<div class="md">${md(t.conteudo)}</div>`;
+    return `<details class="texto-base" ${primeira ? 'open' : ''}><summary>${ic('ler', 'sm')} ${esc(t.titulo || 'Texto de apoio')}</summary>${corpo}${t.fonte ? `<p class="tb-fonte">${mdi(t.fonte)}</p>` : ''}</details>`;
+  }
+  // Texto com as linhas da prova (as questões citam "linha 6"): número na 1 e de 5 em 5; "\t" no começo marca parágrafo.
+  function linhasNumeradas(conteudo) {
+    const ls = String(conteudo || '').replace(/\r/g, '').split('\n');
+    return `<div class="tl">${ls.map((l, i) => {
+      const n = i + 1;
+      return `<div class="tl-l"><span class="tl-n">${n === 1 || n % 5 === 0 ? n : ''}</span><span class="tl-t${/^\t/.test(l) ? ' rec' : ''}">${mdi(l.replace(/^\t+/, '')) || '&nbsp;'}</span></div>`;
+    }).join('')}</div>`;
+  }
+  const figuraHtml = q => {
+    const u = esc(urlSegura(q.imagem));
+    return `<a class="qfig" href="${u}" target="_blank" rel="noopener"><img src="${u}" alt="Figura da questão ${esc(q.numero || '')}" loading="lazy"></a>`;
+  };
+
   function quizCartao() {
     const n = QZ.ids.length;
     const q = D.q[QZ.ids[QZ.i]];
     if (!q) return vazio('questoes', 'Nenhuma questão aqui.');
-    const d = D.disc[q.disciplina], a = d?.as[q.assunto];
+    const d = discDe(q.disciplina), a = d.as[q.assunto];
     const r = QZ.resp[q.id];
     const mostra = (QZ.modo === 'treino' && r !== undefined) || QZ.fase === 'revisao';
     const sim = QZ.modo === 'simulado' && QZ.fase === 'fazendo';
     const feitas = Object.keys(QZ.resp).length;
     return `<div class="qhead">
-      <div class="qprog"><span>${esc(QZ.titulo || 'Treino')} · <b>${QZ.i + 1}</b> de ${n}</span>
+      <div class="qprog"><span>${esc(QZ.titulo || 'Treino')} · ${QZ.prova ? `questão <b>${esc(q.numero)}</b> (${QZ.i + 1} de ${n})` : `<b>${QZ.i + 1}</b> de ${n}`}</span>
         ${sim ? `<span class="simtimer js-sim-timer">${ic('relogio')} --:--</span>` : `<span>${acertosQuiz()} de ${feitas} certas</span>`}</div>
       ${barra(100 * (sim ? feitas : QZ.i + (mostra ? 1 : 0)) / n, 'thin')}</div>
-    <article class="qcard" style="--c:${d?.cor || '#7c5cff'}">
-      <div class="qtags"><span class="tag" style="--c:${d?.cor}">${esc(d?.nome || q.disciplina)}</span>${a ? `<span class="tag ghost">${esc(a.nome)}</span>` : ''}${origemTag(q)}</div>
+    <article class="qcard" style="--c:${d.cor}">
+      <div class="qtags"><span class="tag" style="--c:${d.cor}">${esc(q.disciplina === 'outras' && q.secao ? q.secao : d.nome)}</span>${a ? `<span class="tag ghost">${esc(a.nome)}</span>` : ''}${origemTag(q)}${q.anulada ? '<span class="tag anulada">Anulada</span>' : ''}</div>
+      ${(q.textosBase || []).map(t => textoBaseHtml(q, t)).join('')}
       <div class="qenun md">${md(q.enunciado)}</div>
+      ${q.imagem ? figuraHtml(q) : ''}
       <ol class="alts">${q.alternativas.map((t, k) => {
         let cls = '';
-        if (mostra) cls = k === q.correta ? 'certa' : k === r ? 'errada' : 'apagada';
+        if (mostra) cls = q.anulada ? (k === r ? 'marcada' : '') : k === q.correta ? 'certa' : k === r ? 'errada' : 'apagada';
         else if (sim && r === k) cls = 'marcada';
         return `<li><button class="alt ${cls}" data-act="resp" data-k="${k}" ${mostra ? 'disabled' : ''}><span class="let">${LETRAS[k]}</span><span class="at">${mdi(t)}</span></button></li>`;
       }).join('')}</ol>
-      ${mostra ? `<div class="feedback ${r === q.correta ? 'ok' : 'no'}">
+      ${mostra ? (q.anulada ? `<div class="feedback anul"><b>${ic('alvo')} Questão anulada pela banca</b><p>Na prova, ela valeu ponto para todos os candidatos.</p>
+        ${q.comentario ? `<div class="md">${md(q.comentario)}</div>` : ''}${fonteHtml(q)}</div>` : `<div class="feedback ${r === q.correta ? 'ok' : 'no'}">
         <b>${r === undefined ? `Em branco. Resposta: ${LETRAS[q.correta]}` : r === q.correta ? `${ic('check')} Você acertou!` : `${ic('x')} Não foi dessa vez. Resposta: ${LETRAS[q.correta]}`}</b>
-        ${q.comentario ? `<div class="md">${md(q.comentario)}</div>` : ''}${fonteHtml(q)}</div>` : ''}
+        ${q.comentario ? `<div class="md">${md(q.comentario)}</div>` : ''}${fonteHtml(q)}</div>`) : ''}
     </article>
     <div class="qnav">
       ${QZ.i > 0 ? `<button class="btn ghost" data-act="qant">${ic('volta')} Anterior</button>` : '<span></span>'}
@@ -547,17 +633,18 @@
     </div>
     ${QZ.modo === 'simulado' ? `<div class="qgrid">${QZ.ids.map((id, k) => {
       const rr = QZ.resp[id];
-      const c = QZ.fase === 'fazendo' ? (rr !== undefined ? 'feita' : '') : (rr === undefined ? 'branco' : rr === D.q[id].correta ? 'certa' : 'errada');
-      return `<button class="${c} ${k === QZ.i ? 'atual' : ''}" data-act="qir" data-k="${k}">${k + 1}</button>`;
+      const qq = D.q[id];
+      const c = QZ.fase === 'fazendo' ? (rr !== undefined ? 'feita' : '') : qq.anulada ? 'anul' : (rr === undefined ? 'branco' : rr === qq.correta ? 'certa' : 'errada');
+      return `<button class="${c} ${k === QZ.i ? 'atual' : ''}" data-act="qir" data-k="${k}">${QZ.prova ? esc(qq.numero) : k + 1}</button>`;
     }).join('')}</div>` : ''}
-    <p class="kbd">Atalhos no teclado: <kbd>A</kbd>–<kbd>D</kbd> responde · <kbd>Enter</kbd> avança</p>`;
+    <p class="kbd">Atalhos no teclado: <kbd>A</kbd>–<kbd>${LETRAS[q.alternativas.length - 1] || 'D'}</kbd> responde · <kbd>Enter</kbd> avança</p>`;
   }
 
   function resultadoPorDisc() {
     const por = {};
     for (const id of QZ.ids) {
       const q = D.q[id]; const p = (por[q.disciplina] ||= { n: 0, ok: 0 });
-      p.n++; if (QZ.resp[id] === q.correta) p.ok++;
+      p.n++; if (acertou(id)) p.ok++;
     }
     return por;
   }
@@ -565,15 +652,21 @@
   function quizResultado() {
     const por = resultadoPorDisc();
     const n = QZ.ids.length, ok = acertosQuiz(), feitas = Object.keys(QZ.resp).length;
+    const pontos = QZ.modo === 'simulado' && !QZ.prova;
     const linhas = Object.entries(por).map(([did, p]) => {
-      const d = D.disc[did];
-      return `<tr><td><span class="dot" style="--c:${d.cor}"></span> ${esc(d.nome)}</td><td>${p.ok}/${p.n}</td>${QZ.modo === 'simulado' ? `<td>${p.ok * d.peso} / ${p.n * d.peso}</td>` : ''}</tr>`;
+      const d = discDe(did);
+      return `<tr><td><span class="dot" style="--c:${d.cor}"></span> ${esc(d.nome)}</td><td>${p.ok}/${p.n}</td>${pontos ? `<td>${p.ok * d.peso} / ${p.n * d.peso}</td>` : ''}</tr>`;
     }).join('');
     let topo;
-    if (QZ.modo === 'simulado') {
+    if (QZ.prova) {
+      const anul = QZ.ids.filter(id => D.q[id].anulada).length, pct = n ? Math.round(100 * ok / n) : 0;
+      const min = Math.round((Math.min(QZ.fimTs || Date.now(), QZ.limite || Infinity) - QZ.inicio) / 60000);
+      topo = `<div class="res ${pct >= 50 ? 'ok' : 'no'}">${anel(pct, 'de acerto')}
+        <div><h2>${ok} de ${n} certas</h2><p>${QZ.modo === 'simulado' ? `${min} min · ` : ''}${n - feitas - anul > 0 ? `${n - feitas - anul} em branco · ` : ''}${anul ? `${anul} anulada(s), que contam para todos, como na banca` : 'As respostas já contam na sua meta de hoje.'}</p></div></div>`;
+    } else if (QZ.modo === 'simulado') {
       let pts = 0, max = 0, minimoOk = true;
       for (const [did, p] of Object.entries(por)) {
-        const d = D.disc[did]; pts += p.ok * d.peso; max += p.n * d.peso;
+        const d = discDe(did); pts += p.ok * d.peso; max += p.n * d.peso;
         if (d.peso > 1 ? p.ok * d.peso < 2 : p.ok * d.peso < 1) minimoOk = false;
       }
       const passou = pts >= max / 2 && minimoOk;
@@ -585,22 +678,24 @@
       topo = `<div class="res ${ok >= feitas * 0.7 ? 'ok' : 'no'}">${anel(feitas ? 100 * ok / feitas : 0, 'de acerto')}
         <div><h2>${ok} de ${feitas} certas</h2><p>${n - feitas ? `${n - feitas} pulada(s) · ` : ''}${D.qs.length ? 'O resultado já conta na sua meta de hoje.' : ''}</p></div></div>`;
     }
-    const erradas = QZ.ids.filter(id => QZ.resp[id] !== undefined && QZ.resp[id] !== D.q[id].correta);
+    const erradas = QZ.ids.filter(id => !D.q[id].anulada && QZ.resp[id] !== undefined && QZ.resp[id] !== D.q[id].correta);
     return `${topo}
-      <div class="tbl"><table><thead><tr><th>Disciplina</th><th>Acertos</th>${QZ.modo === 'simulado' ? '<th>Pontos</th>' : ''}</tr></thead><tbody>${linhas}</tbody></table></div>
+      <div class="tbl"><table><thead><tr><th>Disciplina</th><th>Acertos</th>${pontos ? '<th>Pontos</th>' : ''}</tr></thead><tbody>${linhas}</tbody></table></div>
       <div class="row gap wrap mt">
         <button class="btn" data-act="qrevisar">${ic('questoes')} Revisar questão por questão</button>
         ${erradas.length ? `<button class="btn pri" data-act="qerradas">${ic('refazer')} Refazer as ${erradas.length} que errei</button>` : ''}
-        ${QZ.inline ? '' : '<a class="btn ghost" href="#/questoes">Novo treino</a>'}
+        ${QZ.prova ? `<a class="btn ghost" href="#/prova/${esc(QZ.prova)}">Voltar à prova</a>` : QZ.inline ? '' : '<a class="btn ghost" href="#/questoes">Novo treino</a>'}
       </div>`;
   }
 
   function finalizarSimulado() {
     QZ.fase = 'resultado'; QZ.fimTs = Date.now();
-    for (const [id, k] of Object.entries(QZ.resp)) registrar(D.q[id], k);
-    const por = resultadoPorDisc(); let pts = 0, max = 0;
-    for (const [did, p] of Object.entries(por)) { pts += p.ok * D.disc[did].peso; max += p.n * D.disc[did].peso; }
-    S.simulados.push({ ts: Date.now(), pts, max, n: QZ.ids.length, ok: acertosQuiz() });
+    for (const [id, k] of Object.entries(QZ.resp)) if (!D.q[id].anulada) registrar(D.q[id], k);
+    if (!QZ.prova) {
+      const por = resultadoPorDisc(); let pts = 0, max = 0;
+      for (const [did, p] of Object.entries(por)) { pts += p.ok * discDe(did).peso; max += p.n * discDe(did).peso; }
+      S.simulados.push({ ts: Date.now(), pts, max, n: QZ.ids.length, ok: acertosQuiz() });
+    }
     salvar(); desenharQuiz(); window.scrollTo({ top: 0, behavior: 'smooth' });
   }
   function relogioSimulado() {
@@ -639,7 +734,7 @@
     <section class="card"><div class="card-h"><h2>${ic('flame')} Constância</h2><span class="muted">${sequencia()} dia(s) seguidos</span></div>${heatmap(20)}</section>
     ${p?.semanas?.length ? `<div class="semanas">${p.semanas.map(w => {
       const atual = wa && wa.n === w.n, passou = w.fim < k;
-      const t = w.tarefas || [], feitas = t.filter((_, i) => S.tarefas[`${w.n}:${i}`]).length;
+      const t = w.tarefas || [], feitas = t.filter((_, i) => marcado(S.tarefas, `${w.n}:${i}`)).length;
       return `<details class="semana ${atual ? 'atual' : ''} ${atual && wa.proxima ? 'proxima' : ''} ${passou ? 'passou' : ''}" ${atual ? 'open' : ''}>
         <summary><span class="wn">Semana ${esc(w.n)}</span><span class="wd">${fmtCurta(w.inicio)} – ${fmtCurta(w.fim)}</span>
         <span class="wf">${esc(w.foco || '')}</span><span class="wp">${feitas}/${t.length}</span></summary>
@@ -648,15 +743,56 @@
   }
 
   function vProvas() {
-    const ps = D.provas.slice().sort((a, b) => (a.relevancia === 'alta' ? 0 : 1) - (b.relevancia === 'alta' ? 0 : 1) || (b.ano || 0) - (a.ano || 0));
+    const porId = new Set(D.provas.map(x => x.id));
+    const lista = D.provas.concat(D.provasInt.filter(x => !porId.has(x.id)).map(x => Object.assign({ relevancia: 'alta' }, x)));
+    const inter = new Set(D.provasInt.map(x => x.id));
+    lista.sort((a, b) => (inter.has(b.id) - inter.has(a.id)) || ((a.relevancia === 'alta' ? 0 : 1) - (b.relevancia === 'alta' ? 0 : 1)) || (b.ano || 0) - (a.ano || 0));
+    const noDrive = lista.some(x => x.local === 'drive');
     return `<h1 class="pg">Provas anteriores</h1>
-    <p class="sub">Provas reais para resolver como treino de prova. Comece pelas da IDECAN em Campina Grande.</p>
-    ${ps.length ? `<div class="provas">${ps.map(p => `<a class="prova ${p.relevancia === 'alta' ? 'alta' : ''}" href="${esc(urlSegura(p.url))}" target="_blank" rel="noopener">
-      <div><b>${esc(p.titulo)}</b><small>${[p.banca, p.ano, p.orgao, p.cargo].filter(Boolean).map(esc).join(' · ')}</small>
-      ${p.nota ? `<p>${esc(p.nota)}</p>` : ''}
-      <div class="chips">${(p.disciplinas || []).map(id => D.disc[id] ? `<span class="chip on sm" style="--c:${D.disc[id].cor}">${esc(D.disc[id].nome)}</span>` : '').join('')}</div></div>
-      <span class="go">${p.relevancia === 'alta' ? '<span class="tag banca">Alta relevância</span>' : ''}${ic('ext')}</span></a>`).join('')}</div>`
-      : vazio('provas', 'A lista de provas anteriores está sendo montada.')}`;
+    <p class="sub">Provas reais da banca. ${inter.size ? 'As que têm <b>Resolver no site</b> foram digitadas: dá para fazer aqui, com figura e correção. ' : ''}${noDrive ? 'As marcadas <b>no seu Drive</b> abrem só para você, logado na sua conta pessoal do Google.' : ''}</p>
+    ${lista.length ? `<div class="provas">${lista.map(x => {
+      const pi = inter.has(x.id), e = pi && D.prova[x.id] ? est(D.prova[x.id].questoes.filter(q => !q.anulada)) : null;
+      return `<article class="prova ${x.relevancia === 'alta' ? 'alta' : ''}">
+        <div class="prova-t"><b>${esc(x.titulo)}</b><small>${[x.banca, x.ano, x.orgao, x.cargo].filter(Boolean).map(esc).join(' · ')}</small>
+          ${x.nota ? `<p>${esc(x.nota)}</p>` : ''}
+          <div class="chips">${x.relevancia === 'alta' ? '<span class="tag banca">Alta relevância</span>' : ''}${x.local === 'drive' ? `<span class="tag drive">${ic('nuvem', 'sm')} no seu Drive</span>` : ''}
+            ${(x.disciplinas || []).map(id => D.disc[id] ? `<span class="chip on sm" style="--c:${D.disc[id].cor}">${esc(D.disc[id].nome)}</span>` : '').join('')}</div>
+          ${e && e.resp ? `<small class="feitas">Você já fez ${e.resp} de ${e.total} · ${e.pct}% de acerto</small>` : ''}</div>
+        <div class="prova-a">
+          ${pi ? `<a class="btn sm pri" href="#/prova/${esc(x.id)}">${ic('play')} Resolver no site</a>` : ''}
+          ${x.url ? `<a class="btn sm" href="${esc(urlSegura(x.url))}" target="_blank" rel="noopener">${ic('provas')} ${x.local === 'drive' ? 'Prova' : 'Abrir na fonte'}</a>` : ''}
+          ${x.gabarito ? `<a class="btn sm" href="${esc(urlSegura(x.gabarito))}" target="_blank" rel="noopener">${ic('check')} Gabarito</a>` : ''}
+          ${x.fonte && x.fonte !== x.url ? `<a class="btn sm ghost" href="${esc(urlSegura(x.fonte))}" target="_blank" rel="noopener">${ic('ext')} Fonte</a>` : ''}
+        </div></article>`;
+    }).join('')}</div>` : vazio('provas', 'A lista de provas anteriores está sendo montada.')}`;
+  }
+
+  function vProva(id) {
+    const p = D.prova[id];
+    if (!p) return `<nav class="crumbs"><a href="#/provas">Provas</a></nav><div class="loading"><span></span></div>`;
+    const link = D.provas.find(x => x.id === id) || {};
+    const qs = p.questoes, validas = qs.filter(q => !q.anulada), e = est(validas);
+    const porDisc = {};
+    for (const q of qs) (porDisc[q.disciplina] ||= []).push(q);
+    return `<nav class="crumbs"><a href="#/provas">Provas</a> <span>›</span> <span>${esc(p.titulo)}</span></nav>
+    <header class="dhead" style="--c:#ffb020">
+      <div><span class="eyebrow">${esc([p.banca, p.ano].filter(Boolean).join(' · '))}</span><h1>${esc(p.titulo)}</h1>
+        <p>${esc([p.orgao, p.cargo].filter(Boolean).join(' · '))}</p>
+        <p class="muted">${qs.length} questões${qs.length - validas.length ? ` · ${qs.length - validas.length} anulada(s)` : ''}${e.resp ? ` · você já fez ${e.resp} · ${e.pct}% de acerto` : ''}</p></div>
+      <div class="row gap wrap">
+        <button class="btn pri" data-act="prova-treino" data-p="${esc(id)}">${ic('play')} Resolver com correção na hora</button>
+        <button class="btn" data-act="prova-tempo" data-p="${esc(id)}">${ic('simulado')} Fazer como prova (${Number(p.duracaoMin) || 180} min)</button>
+      </div>
+    </header>
+    <section class="card"><div class="card-h"><h2>${ic('questoes')} Questões</h2><span class="muted">toque num número para começar dali</span></div>
+      <div class="qgrid">${qs.map((q, i) => {
+        const u = ultima(q.id), c = q.anulada ? 'anul' : !u ? '' : u.ok ? 'certa' : 'errada';
+        return `<button class="${c}" data-act="prova-ir" data-p="${esc(id)}" data-k="${i}" title="${esc(discDe(q.disciplina).nome)}">${esc(q.numero)}</button>`;
+      }).join('')}</div>
+      <div class="chips mt">${Object.entries(porDisc).map(([did, l]) => `<span class="chip on sm" style="--c:${discDe(did).cor}">${esc(discDe(did).nome)} <small>${l.length}</small></span>`).join('')}</div>
+    </section>
+    <div class="row gap wrap">${link.url ? `<a class="btn" href="${esc(urlSegura(link.url))}" target="_blank" rel="noopener">${ic('provas')} PDF da prova</a>` : ''}
+      ${link.gabarito ? `<a class="btn" href="${esc(urlSegura(link.gabarito))}" target="_blank" rel="noopener">${ic('check')} Gabarito oficial</a>` : ''}</div>`;
   }
 
   function vEdital() {
@@ -675,25 +811,33 @@
   }
 
   function vAjustes() {
-    const m = meta();
+    const m = meta(), cfg = syncCfg();
     const total = Object.keys(S.resp).length;
     return `<h1 class="pg">Progresso</h1>
-    <p class="sub">Seu progresso fica salvo neste aparelho. Para levar do PC para o celular, exporte num e importe no outro: os históricos se somam.
-      As respostas do pop-up do Windows ficam em <code>C:\\dev\\pessoal\\estudos\\popup\\progresso-popup.json</code>; importe esse arquivo aqui para juntar.</p>
+    <p class="sub">Seu progresso fica salvo neste aparelho. Com a sincronização pelo Drive ligada, o PC, o celular e o pop-up do Windows juntam tudo sozinhos.
+      Sem ela, dá para exportar num aparelho e importar no outro: os históricos se somam.</p>
     <div class="grid2">
+      <section class="card"><div class="card-h"><h2>${ic('nuvem')} Sincronizar com o Drive</h2></div>
+        ${cfg ? `<p class="js-sync-status muted">${esc(statusSync(cfg))}</p>
+          <div class="row gap wrap"><button class="btn pri" data-act="sync-agora">${ic('refazer')} Sincronizar agora</button>
+            <button class="btn ghost" data-act="sync-desligar">Desligar neste aparelho</button></div>`
+          : `<p class="muted">Junta o progresso do PC, do celular e do pop-up num arquivo do seu Drive pessoal. É uma configuração única, de uns 5 minutos:
+            siga o <a href="${GUIA_SYNC}" target="_blank" rel="noopener">passo a passo</a> e abra o link gerado em cada aparelho.</p>`}
+      </section>
       <section class="card"><div class="card-h"><h2>${ic('alvo')} Meta diária</h2></div>
         <div class="f3">
           <div class="f"><label for="mq">Questões</label><input id="mq" type="number" min="1" max="300" value="${m.questoes}"></div>
           <div class="f"><label for="ml">Leitura (min)</label><input id="ml" type="number" min="0" max="600" value="${m.minutosLeitura}"></div>
           <div class="f"><label for="mv">Vídeos</label><input id="mv" type="number" min="0" max="20" value="${m.videos}"></div>
         </div>
-        <div class="row gap mt"><button class="btn pri" data-act="salvar-meta">Salvar meta</button>${S.meta ? '<button class="btn ghost" data-act="meta-padrao">Usar a do plano</button>' : ''}</div>
+        <div class="row gap mt"><button class="btn pri" data-act="salvar-meta">Salvar meta</button>${S.meta && !S.meta.padrao ? '<button class="btn ghost" data-act="meta-padrao">Usar a do plano</button>' : ''}</div>
       </section>
-      <section class="card"><div class="card-h"><h2>${ic('baixar')} Levar para outro aparelho</h2></div>
-        <p class="muted">${total} questões respondidas · ${Object.keys(S.videos).length} vídeos · ${Object.keys(S.concluidos).length} assuntos concluídos.</p>
+      <section class="card"><div class="card-h"><h2>${ic('baixar')} Exportar e importar</h2></div>
+        <p class="muted">${total} questões respondidas · ${nMarcados(S.videos)} vídeos · ${nMarcados(S.concluidos)} assuntos concluídos.
+          As respostas do pop-up do Windows também ficam em <code>C:\\dev\\pessoal\\estudos\\popup\\progresso-popup.json</code>, que dá para importar aqui.</p>
         <div class="row gap wrap"><button class="btn" data-act="exportar">${ic('baixar')} Exportar progresso</button>
           <label class="btn">${ic('subir')} Importar arquivo<input id="importar" type="file" accept=".json,application/json" hidden></label></div>
-        <div class="row gap mt"><button class="btn ghost perigo-txt" data-act="zerar">${confirmarZerar ? 'Clique de novo para apagar tudo' : 'Apagar meu progresso'}</button></div>
+        <div class="row gap mt"><button class="btn ghost perigo-txt" data-act="zerar">${confirmarZerar ? (cfg ? 'Clique de novo: apaga deste aparelho e desliga a sincronização aqui' : 'Clique de novo para apagar tudo') : 'Apagar meu progresso'}</button></div>
       </section>
     </div>`;
   }
@@ -711,7 +855,7 @@
     for (const d of D.discs) for (const a of d.assuntos) for (const l of a.leituras || []) todos.push({ d, a, l });
     const tipos = Object.keys(TIPO).filter(t => todos.some(x => tipoDe(x.l) === t));
     const vis = todos.filter(x => (!BIB.tipo || tipoDe(x.l) === BIB.tipo) && (!BIB.disc || x.d.id === BIB.disc));
-    const lidas = todos.filter(x => S.leituras[x.l.url]).length;
+    const lidas = todos.filter(x => marcado(S.leituras, x.l.url)).length;
     const grupos = [];
     for (const x of vis) {
       let g = grupos[grupos.length - 1];
@@ -735,15 +879,15 @@
     return out;
   }
   function gridFeed() {
-    const vis = feedLista().filter(x => (!FEED.disc || x.d.id === FEED.disc) && (!FEED.pendentes || !S.videos[x.v.youtubeId]));
-    return vis.length ? `<div class="vgrid">${vis.map(({ d, a, v }) => `<button class="vcard ${S.videos[v.youtubeId] ? 'feito' : ''}" data-act="feed-play" data-y="${esc(v.youtubeId)}" style="--c:${d.cor}">
+    const vis = feedLista().filter(x => (!FEED.disc || x.d.id === FEED.disc) && (!FEED.pendentes || !marcado(S.videos, x.v.youtubeId)));
+    return vis.length ? `<div class="vgrid">${vis.map(({ d, a, v }) => `<button class="vcard ${marcado(S.videos, v.youtubeId) ? 'feito' : ''}" data-act="feed-play" data-y="${esc(v.youtubeId)}" style="--c:${d.cor}">
       <span class="thumb"><img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.youtubeId)}/mqdefault.jpg" alt="">
-      ${v.duracao ? `<span class="dur">${esc(v.duracao)}</span>` : ''}${S.videos[v.youtubeId] ? `<span class="visto">${ic('check')} visto</span>` : ''}</span>
+      ${v.duracao ? `<span class="dur">${esc(v.duracao)}</span>` : ''}${marcado(S.videos, v.youtubeId) ? `<span class="visto">${ic('check')} visto</span>` : ''}</span>
       <span class="vt">${esc(v.titulo)}</span><small><span class="dot"></span>${esc(a.nome)}${v.canal ? ` · ${esc(v.canal)}` : ''}</small></button>`).join('')}</div>`
       : vazio('video', FEED.pendentes ? 'Você já assistiu a todos os vídeos com esse filtro. 🎉' : 'Nenhum vídeo com esses filtros.');
   }
   function vVideos() {
-    const todos = feedLista(), vistos = todos.filter(x => S.videos[x.v.youtubeId]).length;
+    const todos = feedLista(), vistos = todos.filter(x => marcado(S.videos, x.v.youtubeId)).length;
     return `<h1 class="pg">Vídeos</h1>
     <p class="sub">As aulas do YouTube de cada assunto do edital, num lugar só. Você assistiu <b>${vistos}</b> de ${todos.length}.</p>
     <section class="card filtros">
@@ -761,7 +905,7 @@
   function vMais() {
     const it = [['#/biblioteca', 'ler', 'Biblioteca', 'Leis, normas e livros na ordem do edital'], ['#/videos', 'video', 'Vídeos', 'Todas as aulas do YouTube por assunto'],
       ['#/simulado', 'simulado', 'Simulado', 'Prova completa cronometrada'], ['#/provas', 'provas', 'Provas anteriores', 'Provas reais da banca'],
-      ['#/edital', 'edital', 'Edital', 'Resumo, datas e conteúdo'], ['#/ajustes', 'ajustes', 'Progresso', 'Meta diária, exportar e importar']];
+      ['#/edital', 'edital', 'Edital', 'Resumo, datas e conteúdo'], ['#/ajustes', 'ajustes', 'Progresso', 'Sincronizar, meta diária, exportar']];
     return `<h1 class="pg">Mais</h1><div class="maisl">${it.map(([h, i, t, s]) => `<a href="${h}">${ic(i)}<span><b>${t}</b><small>${s}</small></span>${ic('seta')}</a>`).join('')}</div>`;
   }
 
@@ -780,6 +924,7 @@
     [/^#\/videos$/, () => vVideos(), 'videos'],
     [/^#\/plano$/, () => vPlano(), 'plano'],
     [/^#\/provas$/, () => vProvas(), 'provas'],
+    [/^#\/prova\/([\w-]+)$/, m => vProva(m[1]), 'provas'],
     [/^#\/edital$/, () => vEdital(), 'edital'],
     [/^#\/ajustes$/, () => vAjustes(), 'ajustes'],
     [/^#\/mais$/, () => vMais(), 'mais'],
@@ -790,10 +935,14 @@
     ['#/edital', 'edital', 'Edital', 'edital'], ['#/ajustes', 'ajustes', 'Progresso', 'ajustes']];
   const NAV_CEL = ['inicio', 'trilhas', 'questoes', 'plano'];
 
+  let secAtual = '';
   function rota() {
     const h = location.hash || '#/';
+    const sm = h.match(/^#\/sync\?(.*)$/);
+    if (sm) { ligarSync(new URLSearchParams(sm[1])); return; }
     let html = naoAchou(), sec = '';
     for (const [re, fn, s] of ROTAS) { const m = h.match(re); if (m) { CTX = null; html = fn(m); sec = s; break; } }
+    secAtual = sec;
     document.body.classList.remove('travado');
     $('#view').innerHTML = html;
     const noMais = ['simulado', 'biblioteca', 'videos', 'provas', 'edital', 'ajustes', 'mais'].includes(sec);
@@ -801,8 +950,18 @@
     if (sec === 'questoes' && h === '#/quiz') desenharQuiz();
     if (CTX?.aba === 'questoes') trocarAba('questoes');
     if (sec === 'edital') carregarEdital();
-    pintarTimer();
+    const pm = h.match(/^#\/prova\/([\w-]+)$/);
+    if (pm && !D.prova[pm[1]]) {
+      carregarProva(pm[1]).then(() => { if (location.hash === h) rota(); })
+        .catch(e => { if (location.hash === h) $('#view').innerHTML = `<h1 class="pg">Prova</h1>${vazio('provas', `Não deu para abrir esta prova agora (${esc(e.message)}). <a href="#/provas">Voltar às provas</a>`)}`; });
+    }
+    pintarTimer(); pintarSync();
     window.scrollTo(0, 0);
+  }
+  // Depois de uma sincronização ou de carregar provas: atualiza a tela, mas nunca no meio de aula, vídeo ou questões.
+  function redesenharSePuder() {
+    if (CTX || $('#lb:not([hidden])') || !['inicio', 'trilhas', 'plano', 'ajustes', 'simulado', 'biblioteca', 'videos', 'provas'].includes(secAtual)) return;
+    const y = window.scrollY; rota(); window.scrollTo(0, y);
   }
 
   // ---------- ações ----------
@@ -816,7 +975,8 @@
     aba: b => trocarAba(b.dataset.t),
     concluir: b => {
       const k = b.dataset.k;
-      if (S.concluidos[k]) delete S.concluidos[k]; else { S.concluidos[k] = Date.now(); toast('Assunto concluído ✔'); }
+      const fim = !marcado(S.concluidos, k);
+      marcar(S.concluidos, k, fim); if (fim) toast('Assunto concluído ✔');
       salvar(); const y = window.scrollY; rota(); window.scrollTo(0, y);
     },
     play: b => { $('#player').innerHTML = iframe(b.dataset.y); },
@@ -828,10 +988,10 @@
     },
     visto: b => {
       const id = b.dataset.y;
-      if (S.videos[id]) {
+      if (marcado(S.videos, id)) {
         if (ymd(new Date(S.videos[id])) === hoje()) dia().videos = Math.max(0, (dia().videos || 0) - 1);
-        delete S.videos[id];
-      } else { S.videos[id] = Date.now(); dia().videos = (dia().videos || 0) + 1; if (dia().videos === meta().videos) toast('Meta de vídeos de hoje batida! 🎬'); }
+        marcar(S.videos, id, false);
+      } else { marcar(S.videos, id, true); dia().videos = (dia().videos || 0) + 1; if (dia().videos === meta().videos) toast('Meta de vídeos de hoje batida! 🎬'); }
       salvar();
       const x = D.vid[id];
       if (CTX) {
@@ -856,8 +1016,9 @@
     'feed-pend': b => { FEED.pendentes = b.dataset.v === '1'; rota(); },
     lido: b => {
       const u = b.dataset.u;
-      if (S.leituras[u]) delete S.leituras[u]; else S.leituras[u] = Date.now();
-      salvar(); b.classList.toggle('on', !!S.leituras[u]); b.closest('.leitura').classList.toggle('feito', !!S.leituras[u]);
+      const lido = !marcado(S.leituras, u);
+      marcar(S.leituras, u, lido);
+      salvar(); b.classList.toggle('on', lido); b.closest('.leitura').classList.toggle('feito', lido);
     },
     fdisc: b => { const d = b.dataset.d; F.discs.has(d) ? F.discs.delete(d) : F.discs.add(d); if (F.assunto && !F.assunto.startsWith(d + ':') && F.discs.size) F.assunto = ''; rota(); },
     comecar: () => irQuiz(sortear(filtrar(), F.n).map(q => q.id), 'Treino'),
@@ -865,7 +1026,7 @@
       const q = D.q[QZ.ids[QZ.i]], k = Number(b.dataset.k);
       if (QZ.modo === 'simulado') { if (QZ.fase !== 'fazendo') return; QZ.resp[q.id] = k; QZ.confirmar = false; desenharQuiz(); return; }
       if (QZ.resp[q.id] !== undefined) return;
-      QZ.resp[q.id] = k; registrar(q, k); desenharQuiz();
+      QZ.resp[q.id] = k; if (!q.anulada) registrar(q, k); desenharQuiz();
     },
     qprox: () => {
       if (QZ.i < QZ.ids.length - 1) QZ.i++;
@@ -878,9 +1039,9 @@
     qrevisar: () => { QZ.fase = 'revisao'; QZ.i = 0; desenharQuiz(); rolarQuiz(); },
     qresultado: () => { QZ.fase = 'resultado'; desenharQuiz(); rolarQuiz(); },
     qerradas: () => {
-      const ids = QZ.ids.filter(id => QZ.resp[id] !== undefined && QZ.resp[id] !== D.q[id].correta);
-      const inline = QZ.inline, chave = QZ.chave;
-      novoQuiz(ids, 'Refazendo as que errei', { inline, chave }); desenharQuiz(); rolarQuiz();
+      const ids = QZ.ids.filter(id => !D.q[id].anulada && QZ.resp[id] !== undefined && QZ.resp[id] !== D.q[id].correta);
+      const inline = QZ.inline, chave = QZ.chave, prova = QZ.prova;
+      novoQuiz(ids, 'Refazendo as que errei', { inline, chave, prova }); desenharQuiz(); rolarQuiz();
     },
     simulado: b => {
       const f = Number(b.dataset.f) || 1;
@@ -889,10 +1050,20 @@
     },
     'salvar-meta': () => {
       const n = (id, min) => Math.max(min, Number($(id).value) || 0);
-      S.meta = { questoes: n('#mq', 1), minutosLeitura: n('#ml', 0), videos: n('#mv', 0) };
+      S.meta = { questoes: n('#mq', 1), minutosLeitura: n('#ml', 0), videos: n('#mv', 0), ts: Date.now() };
       salvar(); toast('Meta salva'); rota();
     },
-    'meta-padrao': () => { S.meta = null; salvar(); rota(); },
+    'meta-padrao': () => { S.meta = { padrao: true, ts: Date.now() }; salvar(); rota(); },
+    'prova-treino': b => abrirProva(b.dataset.p, 'treino', 0),
+    'prova-tempo': b => abrirProva(b.dataset.p, 'simulado', 0),
+    'prova-ir': b => abrirProva(b.dataset.p, 'treino', Number(b.dataset.k)),
+    'sync-agora': () => {
+      toast('Sincronizando…');
+      sincronizar()
+        .then(n => { toast(n ? `${n} resposta(s) de outros aparelhos somadas` : 'Tudo sincronizado'); redesenharSePuder(); })
+        .catch(e => { toast(`Não deu para sincronizar agora: ${e.message}`); redesenharSePuder(); });
+    },
+    'sync-desligar': () => { gravarSync(null); toast('Sincronização desligada neste aparelho'); rota(); },
     exportar: () => {
       const dados = Object.assign({}, S, { timer: null });
       const blob = new Blob([JSON.stringify(dados)], { type: 'application/json' });
@@ -901,7 +1072,7 @@
     },
     zerar: () => {
       if (!confirmarZerar) { confirmarZerar = true; rota(); setTimeout(() => { confirmarZerar = false; }, 5000); return; }
-      localStorage.removeItem(CHAVE); location.reload();
+      gravarSync(null); localStorage.removeItem(CHAVE); location.reload();
     },
   };
 
@@ -911,27 +1082,141 @@
     if (window.scrollY > top || QZ.inline) window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
   }
 
-  function mesclar(o) {
-    if (!o || typeof o !== 'object' || !o.resp) throw new Error('arquivo sem progresso');
-    // Respostas novas (de outro aparelho ou do pop-up do Windows) entram no histórico e na meta do dia em que foram feitas.
+  // Junta um progresso de fora (arquivo exportado, pop-up do Windows ou Drive) com o deste aparelho, sem contar nada em dobro.
+  // Mesma regra do servidor (scripts/drive-sync/Codigo.gs): respostas pelo ts, marcas pelo |ts| maior, meta pela mais nova.
+  function mesclarEstado(o) {
     let novas = 0;
-    for (const [id, h] of Object.entries(o.resp)) {
-      if (!Array.isArray(h)) continue;
+    for (const [id, h] of Object.entries(o.resp || {})) {
+      if (!Array.isArray(h) || !chaveOk(id)) continue;
       const cur = S.resp[id] || [], ts = new Set(cur.map(x => x.ts));
       const add = h.filter(x => x && typeof x.ts === 'number' && !ts.has(x.ts));
+      if (!add.length) continue;
       for (const x of add) { const d = dia(ymd(new Date(x.ts))); d.questoes++; if (x.ok) d.acertos++; }
       novas += add.length;
       S.resp[id] = cur.concat(add).sort((a, b) => a.ts - b.ts).slice(-20);
     }
-    for (const k of ['videos', 'leituras', 'concluidos', 'tarefas']) Object.assign(S[k], o[k] || {});
-    for (const [k, v] of Object.entries(o.dias || {})) {
-      const c = dia(k);
-      c.seg = Math.max(c.seg || 0, v.seg || 0); c.videos = Math.max(c.videos || 0, v.videos || 0);
+    for (const k of ['videos', 'leituras', 'concluidos', 'tarefas']) {
+      for (const [id, v] of Object.entries(o[k] || {})) {
+        const n = typeof v === 'number' ? v : (v ? 1 : 0);
+        if (chaveOk(id) && Math.abs(n) > Math.abs(Number(S[k][id]) || 0)) S[k][id] = n;
+      }
     }
-    const sims = new Map([...(S.simulados || []), ...(o.simulados || [])].map(s => [s.ts, s]));
+    for (const [k, v] of Object.entries(o.dias || {})) {
+      if (!v || typeof v !== 'object' || !/^\d{4}-\d{2}-\d{2}$/.test(k)) continue;
+      const c = dia(k);
+      c.seg = Math.max(c.seg || 0, Number(v.seg) || 0); c.videos = Math.max(c.videos || 0, Number(v.videos) || 0);
+    }
+    const sims = new Map([...(S.simulados || []), ...(Array.isArray(o.simulados) ? o.simulados : [])].filter(x => x && x.ts).map(x => [x.ts, x]));
     S.simulados = [...sims.values()].sort((a, b) => a.ts - b.ts);
-    salvar();
+    if (o.meta && typeof o.meta === 'object' && (Number(o.meta.ts) || 0) > (Number(S.meta?.ts) || 0)) S.meta = o.meta;
     return novas;
+  }
+  function mesclar(o) {
+    if (!o || typeof o !== 'object' || !o.resp || typeof o.resp !== 'object') throw new Error('arquivo sem progresso');
+    const n = mesclarEstado(o);
+    salvar();
+    return n;
+  }
+
+  // ---------- sincronização pelo Google Drive (Apps Script na conta pessoal do Arthur) ----------
+  // Configuração única em scripts/drive-sync/COMO-CONFIGURAR.md, que gera o link #/sync?u=<url>&t=<chave>.
+  const CHAVE_SYNC = 'cg-estudos-sync';
+  const SYNC_URL = /^https:\/\/script\.google(?:usercontent)?\.com\/[\w./?=&%-]+$/;
+  const GUIA_SYNC = 'https://github.com/arthursergio-hue/estudos-concurso-cg/blob/main/scripts/drive-sync/COMO-CONFIGURAR.md';
+  function syncCfg() {
+    try {
+      const c = JSON.parse(localStorage.getItem(CHAVE_SYNC) || 'null');
+      return c && SYNC_URL.test(c.url || '') && c.chave ? c : null;
+    } catch { return null; }
+  }
+  function gravarSync(c) {
+    try { if (c) localStorage.setItem(CHAVE_SYNC, JSON.stringify(c)); else localStorage.removeItem(CHAVE_SYNC); } catch { /* sem armazenamento */ }
+  }
+  let syncTimer = null, syncRodando = null, syncDeNovo = false;
+  function agendarSync(ms = 12000) {
+    if (!syncCfg()) return;
+    clearTimeout(syncTimer);
+    syncTimer = setTimeout(() => { sincronizar().catch(() => {}); }, ms);
+  }
+  // O que vai para o Drive: o progresso, sem o cronômetro e o "continuar" (que são deste aparelho).
+  // Com "desde" > 0 vai só o que mudou depois desse instante (o servidor aceita estado parcial).
+  function estadoParaSync(desde, ultimoOk) {
+    const muda = v => Math.abs(Number(v) || 0) > desde;
+    const marcas = m => Object.fromEntries(Object.entries(m || {}).filter(([, v]) => muda(v)));
+    const resp = {};
+    for (const [id, h] of Object.entries(S.resp)) {
+      const x = desde ? h.filter(r => r.ts > desde) : h;
+      if (x.length) resp[id] = x;
+    }
+    const diaDesde = desde ? ymd(new Date(desde)) : '';
+    const e = {
+      resp, videos: marcas(S.videos), leituras: marcas(S.leituras), concluidos: marcas(S.concluidos), tarefas: marcas(S.tarefas),
+      dias: Object.fromEntries(Object.entries(S.dias).filter(([k]) => k >= diaDesde)),
+      simulados: (S.simulados || []).filter(x => x.ts > desde),
+    };
+    // A meta só vai quando mudou neste aparelho depois da última sincronização; senão um aparelho antigo desfaria a troca.
+    if (S.meta && (Number(S.meta.ts) || 0) > Math.max(desde, ultimoOk || 0)) e.meta = S.meta;
+    return e;
+  }
+  function sincronizar() {
+    const cfg = syncCfg();
+    if (!cfg) return Promise.resolve(0);
+    if (syncRodando) { syncDeNovo = true; return syncRodando; }
+    const inicio = Date.now();
+    syncRodando = (async () => {
+      try {
+        // Corpo em text/plain: o Apps Script recebe sem a consulta prévia de CORS.
+        const r = await fetch(cfg.url, { method: 'POST', body: JSON.stringify({ t: cfg.chave, estado: estadoParaSync(0, cfg.ok) }) });
+        let j = null;
+        try { j = await r.json(); } catch { throw new Error(`resposta inválida (HTTP ${r.status})`); }
+        if (!j || !j.ok) throw new Error((j && j.erro) || `HTTP ${r.status}`);
+        const novas = mesclarEstado(j.estado || {});
+        salvar('sync');
+        const c = syncCfg(); if (c) { c.ok = inicio; c.erro = ''; gravarSync(c); }
+        return novas;
+      } catch (e) {
+        const c = syncCfg(); if (c) { c.erro = String((e && e.message) || e); c.falha = Date.now(); gravarSync(c); }
+        throw e;
+      } finally {
+        syncRodando = null; pintarSync();
+        if (syncDeNovo) { syncDeNovo = false; agendarSync(2000); }
+      }
+    })();
+    return syncRodando;
+  }
+  // Ao fechar ou esconder o site: manda só o que mudou, com keepalive (o navegador limita esse envio a 64 KB).
+  function syncAoSair() {
+    const cfg = syncCfg();
+    if (!cfg || ultimaMudanca <= (cfg.ok || 0)) return;
+    const corpo = JSON.stringify({ t: cfg.chave, estado: estadoParaSync(cfg.ok || 0, cfg.ok) });
+    if (corpo.length > 60000) return;
+    try { fetch(cfg.url, { method: 'POST', body: corpo, keepalive: true }).catch(() => {}); } catch { /* navegador sem keepalive */ }
+  }
+  const hhmm = ts => new Date(ts).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+  const quando = ts => (ymd(new Date(ts)) === hoje() ? `às ${hhmm(ts)}` : `em ${new Date(ts).toLocaleDateString('pt-BR')}, ${hhmm(ts)}`);
+  function statusSync(cfg = syncCfg()) {
+    if (!cfg) return '';
+    if (cfg.erro && (cfg.falha || 0) > (cfg.ok || 0)) return `Não sincronizou ${quando(cfg.falha)} (${cfg.erro}). Tento de novo sozinho.`;
+    return cfg.ok ? `Sincronizado ${quando(cfg.ok)}.` : 'Ainda não sincronizou.';
+  }
+  function pintarSync() {
+    const cfg = syncCfg(), erro = !!(cfg && cfg.erro && (cfg.falha || 0) > (cfg.ok || 0));
+    for (const el of $$('.js-sync-status')) { el.textContent = statusSync(cfg); el.classList.toggle('warn', erro); }
+    for (const el of $$('.js-sync-mini')) {
+      el.hidden = !cfg; el.classList.toggle('erro', erro);
+      el.innerHTML = cfg ? `${ic('nuvem', 'sm')} ${erro ? 'Drive: sem conexão' : cfg.ok ? `Drive: sincronizado ${hhmm(cfg.ok)}` : 'Drive: ligado'}` : '';
+    }
+  }
+  function ligarSync(params) {
+    const u = params.get('u') || '', t = params.get('t') || '';
+    history.replaceState(null, '', `${location.pathname}${location.search}#/`); // tira a chave da barra de endereço
+    if (!SYNC_URL.test(u) || !/^[\w-]{16,128}$/.test(t)) { rota(); toast('Esse link de sincronização não é válido.'); return; }
+    gravarSync({ url: u, chave: t, ok: 0, erro: '' });
+    rota();
+    toast('Sincronização ligada. Juntando o progresso…');
+    sincronizar()
+      .then(n => { toast(n ? `Sincronização ligada: ${n} resposta(s) de outros aparelhos somadas.` : 'Sincronização ligada. Tudo em dia.'); redesenharSePuder(); })
+      .catch(e => toast(`Sincronização ligada, mas o Drive não respondeu agora (${e.message}). Tento de novo depois.`));
   }
 
   document.addEventListener('click', e => {
@@ -946,7 +1231,7 @@
   document.addEventListener('change', async e => {
     const t = e.target;
     if (t.dataset.f && t.tagName === 'SELECT') { F[t.dataset.f] = t.dataset.f === 'n' ? Number(t.value) : t.value; rota(); return; }
-    if (t.dataset.act === 'tarefa') { if (t.checked) S.tarefas[t.dataset.k] = Date.now(); else delete S.tarefas[t.dataset.k]; salvar(); return; }
+    if (t.dataset.act === 'tarefa') { marcar(S.tarefas, t.dataset.k, t.checked); salvar(); return; }
     if (t.id === 'importar' && t.files[0]) {
       try { const n = mesclar(JSON.parse(await t.files[0].text())); toast(`Importado: ${n} resposta(s) nova(s) somada(s)`); rota(); }
       catch (err) { toast(`Não deu para importar: ${err.message}`); }
@@ -961,6 +1246,14 @@
     else if (e.key === 'Enter') { const b = $('#quiz [data-act="qprox"]') || $('#quiz [data-act="qresultado"]'); if (b) { b.click(); e.preventDefault(); } }
   });
   window.addEventListener('hashchange', rota);
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') { syncAoSair(); return; }
+    const c = syncCfg();
+    if (c && Date.now() - Math.max(c.ok || 0, c.falha || 0) > 60000) {
+      sincronizar().then(n => { if (n) { toast(`${n} resposta(s) de outros aparelhos somadas`); redesenharSePuder(); } }).catch(() => {});
+    }
+  });
+  window.addEventListener('online', () => agendarSync(1500));
 
   // ---------- moldura ----------
   function moldura() {
@@ -969,6 +1262,7 @@
     $('#bottom').innerHTML = NAV.filter(n => NAV_CEL.includes(n[3])).map(([h, i, t, s]) => `<a href="${h}" data-sec="${s}">${ic(i)}<span>${t}</span></a>`).join('') +
       `<a href="#/mais" data-sec="mais">${ic('mais')}<span>Mais</span></a>`;
     $('#side-count').innerHTML = `<b>${diasAte(c.dataProva)}</b><span>dias para a prova<br><small>${new Date(c.dataProva).toLocaleDateString('pt-BR')} · ${esc(c.banca)}</small></span>`;
+    $('.side-foot')?.insertAdjacentHTML('beforeend', '<div class="sync-mini js-sync-mini" hidden></div>');
   }
 
   (async () => {
@@ -978,6 +1272,8 @@
       return;
     }
     moldura(); rota();
+    if (syncCfg()) sincronizar().then(n => { if (n) { toast(`${n} resposta(s) de outros aparelhos somadas`); redesenharSePuder(); } }).catch(() => {});
+    carregarProvasNoBanco().then(n => { if (n) redesenharSePuder(); });
     if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
   })();
 })();
