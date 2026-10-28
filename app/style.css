@@ -294,10 +294,10 @@ th { color: var(--mu); font-weight: 600; font-size: 13px; }
 
 /* ---------- questões ---------- */
 .filtros { display: grid; gap: 18px; }
-.f { display: grid; gap: 8px; }
+.f { display: grid; gap: 8px; min-width: 0; grid-template-columns: minmax(0, 1fr); }
 .f label { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--mu); font-weight: 700; }
 .f3, .f4 { display: grid; gap: 14px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
-.f4 { grid-template-columns: 2fr 1fr 1fr 1fr; }
+.f4 { grid-template-columns: minmax(0, 2fr) repeat(3, minmax(0, 1fr)); }
 .quiz-pg { max-width: 860px; margin: 0 auto; }
 .qhead { margin-bottom: 14px; display: grid; gap: 10px; }
 .qprog { display: flex; justify-content: space-between; color: var(--mu); font-size: 14px; gap: 10px; }
@@ -399,11 +399,11 @@ body.travado { overflow: hidden; }
 
 /* ---------- celular ---------- */
 @media (max-width: 1080px) {
-  .aula { grid-template-columns: 1fr; }
+  .aula { grid-template-columns: minmax(0, 1fr); }
   .aula-side { position: static; max-height: none; }
 }
 @media (max-width: 900px) {
-  #app { grid-template-columns: 1fr; }
+  #app { grid-template-columns: minmax(0, 1fr); }
   .side { display: none; }
   .topbar {
     display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 20;
@@ -420,10 +420,10 @@ body.travado { overflow: hidden; }
   .bottom a.on { color: #fff; }
   .bottom a.on .ic { color: #b9a8ff; }
   main { padding: 18px 14px calc(96px + env(safe-area-inset-bottom)); }
-  .grid2 { grid-template-columns: 1fr; }
+  .grid2 { grid-template-columns: minmax(0, 1fr); }
   .hero { flex-direction: column-reverse; align-items: flex-start; }
   .anel { width: 120px; height: 120px; }
-  .f3, .f4 { grid-template-columns: 1fr 1fr; }
+  .f3, .f4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .f4 .f:first-child { grid-column: 1 / -1; }
   .drow { grid-template-columns: auto minmax(0, 1fr) 70px; }
   .drow .bar { display: none; }
