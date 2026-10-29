@@ -45,34 +45,14 @@
   "cargo": "Arquiteto",
   "disciplinas": [
    "especificos",
-   "portugues",
-   "informatica"
+   "portugues"
   ],
   "relevancia": "alta",
-  "nota": "",
+  "nota": "Concurso 001/2017 (aplicado em 21/01/2018). Tem Português, Matemática/Raciocínio Lógico e Específicos; não tem Informática. O PDF de 2017 do Drive é o mesmo concurso: pode ser apagado.",
   "url": "https://drive.google.com/file/d/1Y4iplkRkwQdl_p69RAnJKMzdbDUOh06v/view",
   "local": "drive",
   "gabarito": "https://drive.google.com/file/d/128n5cMUt2QlGEwXI4-uF17TbC9Qy0_RR/view",
   "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2018-crf-sp-arquiteto"
- },
- {
-  "id": "idecan-2017-crfsp-arquiteto",
-  "titulo": "Arquiteto — CRF-SP (2017)",
-  "banca": "IDECAN",
-  "ano": 2017,
-  "orgao": "Conselho Regional de Farmácia de São Paulo",
-  "cargo": "Arquiteto",
-  "disciplinas": [
-   "especificos",
-   "portugues",
-   "informatica"
-  ],
-  "relevancia": "media",
-  "nota": "",
-  "url": "https://drive.google.com/file/d/10DnHayffE8itdn1Y5AHii7D8rmYXZpaf/view",
-  "local": "drive",
-  "gabarito": "https://drive.google.com/file/d/1icSjMMsNTStgiZdzKmwVSQs-7-o992cm/view",
-  "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-crf-sp-arquiteto"
  },
  {
   "id": "idecan-2016-ufpb-arquiteto",
