@@ -4598,5 +4598,245 @@
   ],
   "correta": 3,
   "comentario": "**Por que \"suspensão dos direitos políticos, perda da função pública…\":** o art. 37, §4º, da Constituição diz que os atos de improbidade importam **suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário**, na forma e gradação da lei, **sem prejuízo da ação penal** cabível. São quatro consequências; a Lei 8.429/1992 detalha prazos e acrescenta outras, como a multa civil e a proibição de contratar com o poder público.\n\n**As outras:**\n- *cassação dos direitos políticos e prisão administrativa*: a CF **proíbe a cassação** de direitos políticos; a improbidade gera **suspensão** (art. 15, V). Prisão não está entre as sanções de improbidade; pena de prisão só vem da ação penal, que corre à parte.\n- *apenas multa civil*: a multa civil está na Lei 8.429 (art. 12), não no art. 37, §4º, que prevê quatro consequências, e não uma só.\n- *perda da nacionalidade brasileira*: não tem relação com improbidade; a perda da nacionalidade só ocorre nas hipóteses do art. 12, §4º, da CF.\n\n**Para memorizar:** a CF lista quatro efeitos (suspensão, perda da função, indisponibilidade, ressarcimento) e deixa a ação penal correr à parte. Cassação de direitos políticos é sempre pegadinha."
+ },
+ {
+  "id": "esp-0231",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 25, IV",
+  "enunciado": "Pelo Código de Obras de Campina Grande (Lei nº 5.410/2013), o alvará de licença para construção de um edifício residencial multifamiliar com 1.500 m² de área terá prazo de validade de:",
+  "alternativas": [
+   "24 meses",
+   "36 meses",
+   "48 meses",
+   "18 meses"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"36 meses\":** o art. 25 fixa a validade do alvará pela **área da construção**: abaixo de 60 m², 12 meses; de 60 a 200 m², 18 meses; de 200 a 1.000 m², 24 meses; de **1.000 a 2.000 m², 36 meses**; acima de 2.000 m², 48 meses (incisos I a V). Com 1.500 m², o prédio cai no inciso IV. Se o prazo estiver para vencer com a obra em andamento, a prorrogação deve ser pedida **30 dias antes** do vencimento (§ 1º).\n\n**As outras:**\n- *18 meses*: é a validade para construções de 60 a 200 m² (art. 25, II).\n- *24 meses*: vale para 200 a 1.000 m² (art. 25, III). Também é o prazo da Aprovação Responsável Imediata criada pela LC 184/2022 (art. 25-A), que não alcança prédio multifamiliar.\n- *48 meses*: é o prazo das construções acima de 2.000 m² (art. 25, V).\n\n**Para memorizar:** 12, 18, 24, 36 e 48 meses; o prazo cresce com a área, e os degraus são 60, 200, 1.000 e 2.000 m²."
+ },
+ {
+  "id": "esp-0232",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 23, V, e art. 22, III a V",
+  "enunciado": "Segundo a Lei nº 5.410/2013 (Código de Obras de Campina Grande), NÃO depende de licença para construção:",
+  "alternativas": [
+   "a implantação de canteiro de obras distinto daquele instalado na própria obra",
+   "a instalação de stand de vendas de unidades de condomínio em área diferente da do imóvel",
+   "o retelhamento e a substituição de calhas",
+   "o avanço de tapume sobre parte do passeio público"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"o retelhamento e a substituição de calhas\" é a resposta:** o art. 23 lista as obras que **não dependem de licença**, e o inciso V inclui o retelhamento e a troca de calhas. Também estão na lista a pintura sem tapume ou andaime, o conserto de passeios, as reformas que não mudam a área nem afetam a estrutura e os reparos de fachada e telhado sem execução de laje. A dispensa não libera das regras: a obra continua sujeita às normas do Código e à **fiscalização** (§ 1º).\n\n**As outras (exigem licença):**\n- *o avanço de tapume sobre parte do passeio público*: exige licença pelo art. 22, V, porque o tapume ocupa espaço público.\n- *a implantação de canteiro de obras distinto…*: exige licença pelo art. 22, III, e o órgão municipal faz vistoria prévia no local (art. 54).\n- *a instalação de stand de vendas de unidades…*: exige licença pelo art. 22, IV, e o stand não pode ocupar a calçada.\n\n**Para memorizar:** tapume no passeio, canteiro fora da obra e stand fora do imóvel pedem licença; manutenção que não mexe em área, estrutura nem laje, não."
+ },
+ {
+  "id": "esp-0233",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 149, III, VII, VIII e X",
+  "enunciado": "Em vistoria a uma padaria, o inspetor confere as exigências do Código de Obras de Campina Grande (Lei nº 5.410/2013) para estabelecimentos de gêneros alimentícios. Está de acordo com a lei:",
+  "alternativas": [
+   "jiraus e divisões de madeira, desde que revestidos de material lavável",
+   "local de manipulação com área mínima de 8,00 m² e lavatórios com água corrente na proporção de 1 para cada 20 pessoas",
+   "paredes revestidas de material cerâmico ou similar até a altura mínima de 1,50 m nos locais de preparo de alimentos",
+   "forno a lenha no local de preparo, desde que haja sistema de exaustão"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"local de manipulação com área mínima de 8,00 m²…\":** o art. 149 traz as regras dos estabelecimentos industriais e comerciais de gêneros alimentícios da subseção das padarias, fábricas de doces e congêneres. O local de manipulação deve ter **no mínimo 8,00 m²** (inciso VII), e os lavatórios com água corrente ficam na proporção de **1 para cada 20 pessoas** (inciso VIII). A lei pede ainda depósito de matéria-prima à prova de insetos e roedores e vestiário sem comunicação direta com a manipulação.\n\n**As outras:**\n- *paredes revestidas de material cerâmico…*: a altura mínima é **2,00 m** (art. 149, III). O número 1,50 m é o da barra lavável das paredes das salas de aula (art. 206, II).\n- *jiraus e divisões de madeira…*: são proibidos nesses estabelecimentos (art. 149, X), e a lei não abre exceção para revestimento.\n- *forno a lenha no local de preparo…*: o art. 149, III, veda o forno a lenha nos locais de preparo; o art. 147 também proíbe fornos e caldeiras a lenha em várias zonas da cidade.\n\n**Para memorizar:** manipulação de alimentos: 8 m², parede lavável até 2 m, 1 lavatório para 20 pessoas, sem madeira e sem lenha."
+ },
+ {
+  "id": "esp-0234",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 46, III",
+  "enunciado": "Pela Lei nº 5.410/2013, o pedido de \"habite-se\" deve trazer cópia do certificado de aprovação do Corpo de Bombeiros nas construções multifamiliares, nas não residenciais e nas que tiverem área de construção superior a:",
+  "alternativas": [
+   "1.000 m²",
+   "60 m²",
+   "2.500 m²",
+   "750 m²"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"750 m²\":** o art. 46 lista o que o proprietário apresenta ao pedir o habite-se: cópia do alvará, cópia do projeto aprovado, requerimento assinado e, no inciso III, cópia do **certificado de aprovação do Corpo de Bombeiros** quando a área de construção for **maior que 750 m²**, quando a construção for multifamiliar e quando for não residencial. No início do processo, a licença já pede o projeto de proteção contra incêndio aprovado pelos Bombeiros, para as edificações que a legislação exige (art. 24, IV).\n\n**As outras:**\n- *60 m²*: é o limite acima do qual o projeto arquitetônico passa a ser obrigatório (art. 22, VI, e § 1º).\n- *1.000 m²*: é o degrau em que a validade do alvará passa de 24 para 36 meses (art. 25, III e IV).\n- *2.500 m²*: acima dessa área a edificação deve ter obra de arte na fachada ou no recuo (art. 1º, § 4º, e art. 427).\n\n**Para memorizar:** habite-se com certificado dos Bombeiros = mais de 750 m², multifamiliar ou não residencial. E o habite-se só sai com as multas da obra quitadas (art. 49)."
+ },
+ {
+  "id": "esp-0235",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 17",
+  "enunciado": "De acordo com o Código de Obras de Campina Grande (Lei nº 5.410/2013), perante a Prefeitura, a responsabilidade dos autores do projeto e a do responsável pela execução da obra têm início, respectivamente:",
+  "alternativas": [
+   "na data de protocolo do pedido de licença e no início da obra",
+   "na aprovação do projeto e na ligação provisória de água e luz",
+   "na expedição do alvará e na expedição do habite-se",
+   "no registro da ART ou do RRT de projeto e no registro da ART ou do RRT de execução"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"na data de protocolo do pedido de licença e no início da obra\":** é a regra do art. 17: perante a Prefeitura, a responsabilidade dos autores de projeto começa na **protocolação do pedido de licença**, e a do responsável pela obra, **quando a obra começa**. O art. 16 completa: se dois ou mais profissionais assinam o projeto, respondem **solidariamente**. E o responsável técnico que se afastar da obra deve comunicar o fato **por escrito** ao órgão municipal (art. 19).\n\n**As outras:**\n- *na expedição do alvará e na expedição do habite-se*: o alvará autoriza o início da obra (art. 34) e o habite-se autoriza o uso da edificação pronta; nenhum dos dois marca o começo da responsabilidade.\n- *na aprovação do projeto e na ligação provisória…*: a ligação provisória de água e luz só é feita à vista do alvará (art. 38); não é marco de responsabilidade.\n- *no registro da ART ou do RRT de projeto…*: ART e RRT definem a responsabilidade técnica perante o CREA e o CAU. O Código exige uma via delas na licença (art. 24, III), mas fixa outro marco perante a Prefeitura.\n\n**Para memorizar:** o autor responde desde o protocolo; o executor, desde o primeiro dia de obra."
+ },
+ {
+  "id": "esp-0236",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 443",
+  "enunciado": "Pela Lei nº 5.410/2013, depois de notificado da multa, o infrator tem um prazo para pagá-la e recebe um desconto se pagar dentro dele. Prazo e desconto são, respectivamente:",
+  "alternativas": [
+   "60 dias e 30%",
+   "15 dias e 30%",
+   "15 dias e 10%",
+   "30 dias e 30%"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"15 dias e 30%\":** o art. 443 dá ao infrator **15 dias**, contados da notificação, para pagar a multa, com **desconto de 30%** se o pagamento for feito nesse prazo. Se não pagar, o valor é inscrito na **dívida ativa** do Município (§ 2º), e quem está em dívida não pode participar de licitações, contratos e créditos com o poder público (§ 3º). A reincidência **dobra** o valor da multa, progressivamente (§ 4º).\n\n**As outras:**\n- *30 dias e 30%*: 30 dias é o prazo de outros atos, como o parecer sobre a aprovação do projeto (art. 24, parágrafo único) e a antecedência do pedido de prorrogação do alvará (art. 25, § 1º).\n- *60 dias e 30%*: 60 dias é o prazo para pagar as taxas do alvará já expedido, sob pena de cancelamento automático da licença (art. 22, § 3º).\n- *15 dias e 10%*: 10% é o acréscimo de taxa de administração cobrado quando a Prefeitura constrói o muro ou o passeio no lugar do dono do terreno (art. 23, § 2º).\n\n**Para memorizar:** multa: 15 dias e 30% de desconto. Pagar não dispensa de corrigir a irregularidade (art. 444, parágrafo único)."
+ },
+ {
+  "id": "esp-0237",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, arts. 454 e 455",
+  "enunciado": "Contra decisão que aplicou penalidade com base no Código de Obras de Campina Grande, o interessado pode recorrer. Pela Lei nº 5.410/2013, o recurso é dirigido:",
+  "alternativas": [
+   "à Procuradoria Geral do Município, em 15 dias contados da lavratura do auto",
+   "ao Prefeito, em 30 dias, e só é admitido depois do pagamento da multa",
+   "à própria autoridade que aplicou a penalidade, em 20 dias úteis contados do protocolo",
+   "à autoridade imediatamente superior à que aplicou a penalidade, em 15 dias úteis contados da ciência da penalidade"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"à autoridade imediatamente superior…\":** o art. 454 diz que cabe recurso contra decisão baseada no Código, instruído com os elementos necessários e **dirigido à autoridade imediatamente superior** àquela que aplicou a penalidade. O prazo é de **15 dias úteis**, contados da data em que o interessado tomou conhecimento da penalidade (parágrafo único). A autoridade que aplicou a pena se manifesta em parecer fundamentado em **20 dias úteis** a partir do protocolo do recurso (art. 455).\n\n**As outras:**\n- *à própria autoridade que aplicou…*: ela não julga o recurso, só dá parecer; os 20 dias úteis são o prazo desse parecer (art. 455).\n- *à Procuradoria Geral do Município…*: a Procuradoria recebe o embargo quando não há defesa em 15 dias úteis (art. 445, § 3º) e é quem revoga alvarás (art. 44), mas não é a instância do recurso.\n- *ao Prefeito, em 30 dias…*: a lei não fala em Prefeito nem condiciona o recurso ao pagamento da multa. A quitação das multas é exigida para o habite-se (art. 49).\n\n**Para memorizar:** defesa do auto: 15 dias (art. 439); defesa do embargo e recurso: 15 dias úteis; parecer da autoridade: 20 dias úteis."
+ },
+ {
+  "id": "esp-0238",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 437, § 2º",
+  "enunciado": "Sobre o auto de infração e as penalidades previstas no Código de Obras de Campina Grande (Lei nº 5.410/2013), é correto afirmar que:",
+  "alternativas": [
+   "o pagamento da multa dispensa o infrator de corrigir a irregularidade",
+   "as penalidades devem seguir a ordem multa, embargo, interdição e demolição",
+   "a recusa do infrator em assinar o auto não agrava a pena nem impede o andamento do processo",
+   "a assinatura do auto pelo infrator vale como confissão da infração"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"a recusa do infrator em assinar o auto…\":** o art. 437, § 2º, diz que a recusa em assinar **não agrava a pena** nem impede o trâmite normal do processo; o fiscal apenas **descreve a recusa**. A notificação pode ser feita pessoalmente, por via postal ou por edital (art. 437, caput), e incorreções ou omissões não anulam o auto se o processo tiver elementos suficientes para determinar a infração (§ 3º).\n\n**As outras:**\n- *as penalidades devem seguir a ordem…*: o art. 441, § 1º, diz o contrário: a aplicação **não segue obrigatoriamente** a sequência da lista. As penalidades são independentes, e uma não impede a outra (§ 2º).\n- *a assinatura do auto pelo infrator vale…*: assinar **não implica confissão** nem aceitação dos termos do auto (art. 437, § 1º).\n- *o pagamento da multa dispensa…*: quitar a multa não exime o infrator de cumprir o que a Prefeitura determinar para sanar a irregularidade (art. 444, parágrafo único).\n\n**Para memorizar:** assinar não é confessar, recusar não agrava e pagar não regulariza."
+ },
+ {
+  "id": "esp-0239",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 292",
+  "enunciado": "Segundo o Código de Obras de Campina Grande (Lei nº 5.410/2013), as edificações destinadas a hospitais devem ter pé-direito mínimo de:",
+  "alternativas": [
+   "3,00 m, exceto corredores e sanitários",
+   "6,00 m nas áreas de uso público",
+   "2,50 m em todos os compartimentos",
+   "2,80 m, exceto corredores e sanitários"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"3,00 m, exceto corredores e sanitários\":** o art. 292 fixa pé-direito mínimo de **3,00 m** para as edificações destinadas a hospitais, com exceção dos **corredores e sanitários**. É um valor acima da regra geral dos compartimentos. As salas de aula também pedem 3,00 m, mas ali o órgão competente pode reduzir o valor se houver sistema especial de renovação de ar (art. 293).\n\n**As outras:**\n- *2,50 m em todos os compartimentos*: 2,50 m é o mínimo geral dos compartimentos de permanência prolongada, como quartos, salas e escritórios (art. 287, I).\n- *2,80 m, exceto corredores e sanitários*: 2,80 m é o mínimo de cozinhas e laboratórios em edificações comerciais ou industriais (art. 287, III).\n- *6,00 m nas áreas de uso público*: 6,00 m é o pé-direito mínimo de ginásios, supermercados e shopping centers (art. 294).\n\n**Para memorizar:** 2,40 m (lavabos, despensas, depósitos e circulações), 2,50 m (permanência prolongada, cozinhas e banheiros), 2,80 m (cozinha e laboratório comercial ou industrial), 3,00 m (hospital e sala de aula), 3,50 m (corredores e galerias comerciais) e 6,00 m (ginásio, supermercado e shopping)."
+ },
+ {
+  "id": "esp-0240",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 308",
+  "enunciado": "Num quarto de uma residência em Campina Grande, o ponto mais alto do vão de iluminação fica a 2,10 m do piso. Pela Lei nº 5.410/2013, a profundidade máxima admissível desse compartimento é de:",
+  "alternativas": [
+   "4,20 m",
+   "6,25 m",
+   "3,00 m",
+   "5,25 m"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"5,25 m\":** o art. 308 limita a profundidade dos compartimentos de permanência prolongada das residências ao **alcance da iluminação natural**: no máximo **2,5 vezes a altura do ponto mais alto do vão** de iluminação. Conta: 2,5 × 2,10 m = **5,25 m**. Quarto é compartimento de permanência prolongada (art. 286, I), por isso a regra se aplica.\n\n**As outras:**\n- *3,00 m*: é a profundidade coberta máxima da varanda ou do terraço pelo qual um compartimento pode receber luz e ventilação (art. 304, parágrafo único).\n- *4,20 m*: usa o fator 2 (2 × 2,10 m), que não está na lei; o Código manda multiplicar por 2,5.\n- *6,25 m*: usa o pé-direito mínimo de 2,50 m (art. 287, I) no lugar da altura do vão: 2,5 × 2,50 = 6,25 m. A medida que conta é o topo da janela, não o teto.\n\n**Para memorizar:** profundidade ≤ 2,5 × altura do topo da janela. Na cozinha, a lei ainda desconta 0,80 m, que corresponde à altura das bancadas (art. 308, parágrafo único)."
+ },
+ {
+  "id": "esp-0241",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, art. 268, § 1º",
+  "enunciado": "Uma loja construída no alinhamento da rua, em Campina Grande, vai receber marquise sobre um passeio de 3,00 m de largura. Pela Lei nº 5.410/2013, a profundidade máxima da marquise é de:",
+  "alternativas": [
+   "2,00 m",
+   "1,50 m",
+   "3,00 m",
+   "2,40 m"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"2,00 m\":** o art. 268, § 1º, impõe três limites à marquise: no máximo **3,00 m** de profundidade, no máximo **2/3 da largura do passeio** e pelo menos **0,60 m** entre a face externa e o meio-fio; a altura mínima é de 3,00 m. Vale o mais restritivo. Contas: 2/3 × 3,00 = **2,00 m**; 3,00 − 0,60 = 2,40 m; teto absoluto = 3,00 m. O menor é 2,00 m.\n\n**As outras:**\n- *1,50 m*: é a metade do passeio, limite de ocupação dos **tapumes** e andaimes (arts. 58 e 59, I, c), não das marquises.\n- *2,40 m*: respeita só a folga de 0,60 m do meio-fio e passa dos 2/3 do passeio.\n- *3,00 m*: é o teto absoluto do § 1º, que só seria alcançado num passeio de 4,50 m ou mais.\n\n**Para memorizar:** marquise: até 3 m, no máximo 2/3 do passeio, 0,60 m livre até o meio-fio e 3 m de altura; vale o menor. Ela deve ser impermeabilizada, de material durável e incombustível, com calhas levando a água ao sistema de drenagem (art. 268)."
+ },
+ {
+  "id": "esp-0242",
+  "disciplina": "especificos",
+  "assunto": "fiscalizacao-obras-posturas",
+  "origem": "autoral",
+  "banca": "Estilo IDECAN",
+  "ano": 2026,
+  "orgao": "Prefeitura de Campina Grande/PB (simulado)",
+  "cargo": "Inspetor Sanitário – Arquiteto",
+  "fonte": "Lei 5.410/2013, arts. 331, V e VI, e 335, II",
+  "enunciado": "Uma escada de uso comum, em Campina Grande, terá degraus com 0,17 m de altura (espelho). Pelo Código de Obras (Lei nº 5.410/2013), o piso do degrau que atende ao mesmo tempo aos limites do art. 331 e à fórmula de Blondel adotada pelo Código é:",
+  "alternativas": [
+   "0,34 m",
+   "0,29 m",
+   "0,26 m",
+   "0,31 m"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"0,29 m\":** o art. 335, II, manda dimensionar os degraus pela fórmula de Blondel com **63 cm ≤ 2h + b ≤ 64 cm** (h = espelho; b = piso). Com h = 17 cm, 2 × 17 = 34; para o total ficar entre 63 e 64, o piso tem de medir **29 ou 30 cm**. Com 29 cm: 34 + 29 = **63 cm**. O valor também respeita o art. 331: espelho de 0,16 a 0,18 m (inciso V) e piso de 0,28 a 0,32 m (inciso VI).\n\n**As outras:**\n- *0,26 m*: 34 + 26 = 60 cm, abaixo de 63, e o piso fica menor que o mínimo de 0,28 m.\n- *0,31 m*: está na faixa de 0,28 a 0,32 m, mas 34 + 31 = 65 cm passa de 64. A NBR 9050 admitiria, porque aceita p + 2e até 65 cm; o Código de Campina Grande é mais rígido.\n- *0,34 m*: 34 + 34 = 68 cm, e o piso passa do máximo de 0,32 m.\n\n**Para memorizar:** espelho de 16 a 18 cm, piso de 28 a 32 cm e 2h + b entre 63 e 64 cm. Patamar intermediário quando houver mudança de direção ou mais de 16 degraus (art. 331, IX)."
  }
 ]
