@@ -1,0 +1,933 @@
+{
+ "id": "idecan-2014-ebserh-arquitetura",
+ "titulo": "Analista Administrativo – Arquitetura — EBSERH (HC-UFPE)",
+ "banca": "IDECAN",
+ "ano": 2014,
+ "orgao": "EBSERH – Hospital das Clínicas da UFPE",
+ "cargo": "Analista Administrativo – Arquitetura",
+ "fonte": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-arquitetura-ebserh-hc-ufpe-idecan-2014",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Liberdade de imprensa e liberdade de opinião",
+   "fonte": "(Luis Nassif. Disponível em: http://jornalggn.com.br/noticia/liberdade-de-imprensa-e-liberdade-de-opiniao.)",
+   "numerarLinhas": false,
+   "conteudo": "Há muita dificuldade conceitual, especialmente no Judiciário, para entender o papel dos grupos de mídia e de conceitos como liberdade de imprensa, liberdade de opinião e direito à informação.\n\nTratam como se fossem conceitos similares.\n\nDireito à informação e liberdade de expressão são direitos dos cidadãos, cláusulas pétreas da Constituição.\n\nLiberdade de imprensa é um direito acessório das empresas jornalísticas. Por acessório significa que só se justifica se utilizado para o cumprimento correto da importantíssima missão constitucional que lhe foi conferida.\n\nNo Brasil, no entanto, o conceito de liberdade de imprensa tornou-se extraordinariamente elástico, fugindo completamente dos princípios que o originaram. E há enorme resistência do Judiciário em discutir o tema. É tabu.\n\nOs grupos de mídia trabalham com jornalismo, entretenimento e *marketing*. E têm interesses comerciais próprios de uma empresa privada.\n\nJogaram todas as atividades de mídia debaixo da proteção da liberdade de imprensa, mesmo as não jornalísticas, tornando-as imunes a qualquer forma de controle seja de costumes seja da mera classificação indicativa.\n\nAnos atrás, uma procuradora da República intimou a Rede Globo devido a conceitos incorretos sobre educação inclusiva propagados em uma novela. Foi alvo de artigos desmoralizadores do colunista Arthur Xexéo – “acusando-a” de pretender interferir no roteiro, ferindo a liberdade de expressão.\n\nA ação proposta contra o apresentador Gugu, por ocasião da falsa reportagem sobre o PCC, rendeu reportagem desmoralizadora da revista Veja contra os proponentes da ação, em nome da liberdade de expressão.\n\nA mera tentativa do Ministério da Justiça de definir uma classificação etária indicativa para programas de televisão foi torpedeada pela rede Globo, sob a acusação de interferência na liberdade de expressão.\n\nEm todos os casos, a Justiça derrubou as ações em nome da liberdade de imprensa.\n\nQuando o conceito de liberdade de imprensa foi desenvolvido – no bojo da criação do modelo de democracia norte-americano – o pilar central era o da mídia descentralizada, exprimindo a posição de grupos diversificados, permitindo que dessa atoarda nascessem consensos e representações.\n\nAs rádios comunitárias eram a expressão mais autêntica desse papel democratizante da mídia, assim como as mídias regionais.\n\nHoje as rádios comunitárias são criminalizadas. E as concessões públicas tornaram-se moeda de troca com grupos políticos, com coronéis eletrônicos, que a tratam como propriedade privada. É inacreditável a naturalidade com que se aceita o aluguel de horários para grupos religiosos, ou a venda das concessões para outros grupos, como se fossem propriedade privada e não um ativo público.\n\nTudo isso decorre da enorme concentração do setor, responsável por inúmeras distorções. Houve perda de representatividade da mídia regional, esmagamento das diferenças culturais, ideológicas.\n\nDaí o movimento, em muitos países, por um marco regulatório que de maneira alguma interfira na liberdade de expressão. Mas que permita a desconcentração de mercado, promovendo o florescimento de novos grupos de mídia que tragam a diversificação e a pluralidade para o setor.\n\nEnfim, instituir a verdadeira economia de mercado no setor."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Acerca das características textuais e semânticas, o texto configura-se como sendo",
+   "alternativas": [
+    "narrativo.",
+    "instrutivo.",
+    "descritivo.",
+    "explicativo.",
+    "argumentativo."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"argumentativo\":** o autor defende uma tese: no Brasil, o conceito de liberdade de imprensa ficou \"extraordinariamente elástico\" e virou escudo para grupos de mídia concentrados. Para sustentá-la, usa exemplos (a procuradora e a Globo, o caso Gugu, a classificação indicativa), avaliações pessoais (\"É tabu\", \"É inacreditável\") e fecha com uma proposta: um marco regulatório que desconcentre o mercado. Tese + argumentos + conclusão = texto **argumentativo** (artigo de opinião).\n\n**As outras:**\n- *narrativo*: os fatos aparecem como exemplos; não há enredo, personagens nem progressão no tempo.\n- *instrutivo*: não ensina a fazer nada nem traz comandos ou passos.\n- *descritivo*: não se detém em caracterizar um ser, objeto ou lugar.\n- *explicativo*: o texto até explica um conceito (\"direito acessório\"), mas o objetivo é convencer o leitor, não só expor.\n\n**Para memorizar:** pergunte \"o autor quer me convencer de algo?\". Se há opinião e defesa de um ponto de vista, é argumentativo, mesmo com trechos narrativos ou expositivos."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Releia o trecho a seguir: *“Jogaram todas as atividades de mídia debaixo da proteção da liberdade de imprensa, mesmo as não jornalísticas, [...]”* (7º§). Assinale a alternativa cujo conteúdo NÃO sustenta, no texto, a afirmação recortada.",
+   "alternativas": [
+    "A posição da revista Veja em relação à falsa reportagem do apresentador Gugu.",
+    "A postura da justiça ante ações que supostamente feriam a liberdade de imprensa.",
+    "Os artigos desmoralizadores do colunista Arthur Xexéo que atacavam um pedido de esclarecimento judicial.",
+    "A reação da Rede Globo de Televisão à tentativa de definição de uma classificação etária para programas televisivos.",
+    "O pedido de esclarecimento de uma procuradora da República sobre conceitos equivocados vinculados à ideia de educação."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"O pedido de esclarecimento de uma procuradora da República…\" é a resposta:** a afirmação do 7º§ diz que os grupos de mídia puseram todas as suas atividades, até as não jornalísticas (como novelas), sob a proteção da liberdade de imprensa. O que sustenta essa afirmação são os casos em que a mídia, ou a Justiça, invocou essa liberdade para barrar qualquer controle. A iniciativa da procuradora é o lado oposto: é a tentativa de controle que provocou a reação. Ela é o alvo do ataque, não uma prova de que a mídia usa a liberdade de imprensa como escudo.\n\n**As outras (sustentam a afirmação):**\n- *A posição da revista Veja…*: a Veja desmoralizou os autores da ação contra Gugu \"em nome da liberdade de expressão\" (9º§).\n- *A postura da justiça…*: \"a Justiça derrubou as ações em nome da liberdade de imprensa\" (11º§).\n- *Os artigos desmoralizadores do colunista Arthur Xexéo…*: Xexéo acusou a procuradora de ferir a liberdade de expressão por causa de uma novela (8º§).\n- *A reação da Rede Globo…*: a Globo torpedeou a classificação indicativa alegando interferência na liberdade de expressão (10º§).\n\n**Para memorizar:** em \"o que NÃO sustenta\", procure o elemento que está do outro lado da tese: aqui, quem tentou controlar a mídia, e não quem se protegeu."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "No trecho *“No Brasil, no entanto, o conceito de liberdade de imprensa tornou-se extraordinariamente ++elástico++, fugindo completamente dos princípios que o originaram.”* (5º§), o termo destacado só NÃO pode ser substituído, sem afetar o sentido originalmente proposto, por",
+   "alternativas": [
+    "vago.",
+    "dúctil.",
+    "inexato.",
+    "impreciso.",
+    "hermético."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"hermético\" é a resposta:** no 5º§, \"elástico\" está em sentido figurado: o conceito ficou tão esticado que perdeu os contornos e \"fugiu\" dos princípios que o originaram. Servem como substitutos palavras ligadas a falta de limite ou de precisão. **Hermético** significa fechado, vedado (pote hermético) ou obscuro, de difícil compreensão (texto hermético): quase o oposto de elástico. A troca mudaria o sentido.\n\n**As outras (podem substituir):**\n- *vago*: indefinido, sem contornos claros, como o conceito descrito.\n- *dúctil*: que se deforma sem romper, maleável; sentido figurado muito próximo de \"elástico\".\n- *inexato*: sem exatidão; o conceito não corresponde mais ao sentido original.\n- *impreciso*: sem precisão; o conceito passou a servir para tudo.\n\n**Para memorizar:** em questão de sinônimo, leia a palavra no contexto, não no dicionário: aqui \"elástico\" = flexível demais, sem limites. Procure a alternativa que diz o contrário (fechado, rígido, obscuro)."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em *“[...] a Justiça derrubou as ações em nome da liberdade de imprensa.”* (11º§), há a presença de qual das figuras de linguagem apresentadas a seguir?",
+   "alternativas": [
+    "Ironia.",
+    "Hipérbole.",
+    "Metonímia.",
+    "Eufemismo.",
+    "Comparação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Metonímia\":** metonímia é usar uma palavra no lugar de outra com a qual ela tem relação real de proximidade: a instituição pelas pessoas, o autor pela obra, o continente pelo conteúdo. Em \"a Justiça derrubou as ações\", quem decidiu foram juízes e tribunais; o texto põe a instituição, **a Justiça**, no lugar dos magistrados que julgaram os casos.\n\n**As outras:**\n- *Ironia*: dizer o contrário do que se pensa, com intenção crítica; a frase relata o resultado ao pé da letra.\n- *Hipérbole*: exagero intencional (\"morri de rir\"); não há exagero.\n- *Eufemismo*: suavizar algo desagradável (\"partiu\" por \"morreu\"); \"derrubou\" não suaviza nada.\n- *Comparação*: aproxima dois termos com conectivo (como, tal qual); não há conectivo nem dois termos comparados.\n\n**Para memorizar:** metonímia troca por contiguidade, relação real (instituição/membros, marca/produto, autor/obra); metáfora troca por semelhança."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Finalizada a discussão que permeia o texto, o autor conclui que é preciso",
+   "alternativas": [
+    "valorizar mais as rádios comunitárias.",
+    "revogar as concessões públicas de mídias.",
+    "estabelecer limites para a liberdade de expressão.",
+    "tornar o mercado de mídia legitimamente competitivo.",
+    "acabar com os aluguéis de horários para grupos religiosos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"tornar o mercado de mídia legitimamente competitivo\":** a conclusão está nos dois últimos parágrafos. O autor defende um marco regulatório que \"de maneira alguma interfira na liberdade de expressão\", mas que \"permita a desconcentração de mercado, promovendo o florescimento de novos grupos de mídia\", e fecha: \"Enfim, instituir a verdadeira economia de mercado no setor.\" Desconcentrar e instituir a verdadeira economia de mercado é tornar o mercado de fato competitivo.\n\n**As outras:**\n- *valorizar mais as rádios comunitárias*: elas aparecem como exemplo do papel democratizante perdido (13º e 14º§), não como a conclusão.\n- *revogar as concessões públicas de mídias*: o autor critica o uso das concessões como moeda de troca, mas não propõe revogá-las.\n- *estabelecer limites para a liberdade de expressão*: é o contrário: o marco regulatório \"de maneira alguma\" deve interferir nela.\n- *acabar com os aluguéis de horários…*: é uma crítica pontual do 14º§, não a conclusão.\n\n**Para memorizar:** em texto argumentativo, a conclusão costuma vir no fim, puxada por conectivos como \"Daí\", \"Enfim\", \"Portanto\"."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "No trecho *“As rádios comunitárias eram a expressão mais autêntica desse papel democratizante da mídia, ++assim como++ as mídias regionais.”* (13º§), a expressão destacada tem função",
+   "alternativas": [
+    "causal.",
+    "aditiva.",
+    "conclusiva.",
+    "adversativa.",
+    "comparativa."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"aditiva\":** a banca alterou o gabarito depois dos recursos, e a resposta definitiva é esta. Em \"As rádios comunitárias eram a expressão mais autêntica desse papel democratizante da mídia, **assim como** as mídias regionais\", a locução não compara graus nem modos: ela **acrescenta** um segundo elemento ao que foi dito. Equivale a \"e também\": as rádios comunitárias eram essa expressão, e as mídias regionais também eram.\n\n**As outras:**\n- *causal*: não indica motivo (porque, já que).\n- *conclusiva*: não tira conclusão (portanto, logo).\n- *adversativa*: não há oposição (mas, porém).\n- *comparativa*: é a leitura tentadora, porque \"assim como\" pode comparar (\"Ele canta assim como o pai cantava\"). Aqui, porém, não há comparação de qualidade ou de modo: as mídias regionais só se somam às rádios comunitárias.\n\n**Para memorizar:** teste da troca: se \"assim como\" vira \"e também\" sem perder sentido, é adição; se vira \"do mesmo modo que\", é comparação."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "Analise as afirmativas a seguir.\n\nI. Em *“Tratam como se fossem conceitos similares.”* (2º§), a alteração de “conceitos similares” por “conceito similar” acarretaria a alteração da forma do verbo “tratar”.\n\nII. No trecho *“Os grupos de mídia trabalham com jornalismo, entretenimento e marketing. E têm interesses comerciais próprios de uma empresa privada.”* (6º§), a alteração no número do sujeito da primeira oração demandaria a alteração de “têm” por “tem”.\n\nIII. No trecho *“A mera tentativa do Ministério da Justiça de definir uma classificação etária indicativa para programas de televisão foi torpedeada pela rede Globo, [...]”* (10º§), a pluralização de “a mera tentativa” acarretaria alteração na forma do verbo “ser”.\n\nIV. Em *“Tudo isso decorre da enorme concentração do setor, responsável por inúmeras distorções.”* (15º§), a substituição de “do setor” por “dos setores” não acarretaria necessidade de alterar nenhuma outra forma no trecho.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "II e III.",
+    "II e IV.",
+    "III e IV.",
+    "I, III e IV."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"II e III\":** I está errada: \"Tratam\" concorda com seu próprio sujeito, não expresso (quem trata os conceitos); \"conceitos similares\" é predicativo dentro de \"como se fossem conceitos similares\", e mudá-lo não mexe em \"tratar\". II está certa: \"trabalham\" e \"têm\" têm o mesmo sujeito, \"Os grupos de mídia\"; no singular fica \"O grupo de mídia trabalha… E tem interesses\", sem o circunflexo. III está certa: \"As meras tentativas… foram torpedeadas\": o verbo \"ser\" vai ao plural. IV está errada para a banca, que leu \"responsável\" como referente a \"setor\": com \"dos setores\", seria preciso escrever \"responsáveis\".\n\n**As outras:**\n- *I e II*: inclui a I, que é falsa.\n- *II e IV*: inclui a IV, que a banca considerou falsa.\n- *III e IV*: deixa de fora a II, que é verdadeira.\n- *I, III e IV*: inclui a I e a IV e exclui a II.\n\n**Para memorizar:** \"têm\" (plural) × \"tem\" (singular): o circunflexo marca o plural de ter, vir e derivados.\n\nPonto discutível: \"responsável\" também pode se referir a \"concentração\" (é a concentração que causa as distorções); nessa leitura nada mudaria e a IV seria verdadeira."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa que apresenta uma asserção correta acerca da sintaxe da oração apresentada a seguir: *“Liberdade de imprensa é um direito acessório das empresas jornalísticas.”* (4º§).",
+   "alternativas": [
+    "O sujeito da oração é do tipo composto.",
+    "O termo “acessório” atua como um adjunto adverbial.",
+    "A expressão “um direito” funciona como um objeto direto.",
+    "A expressão “de imprensa” configura-se como um predicativo.",
+    "A expressão “das empresas jornalísticas” atua como complemento nominal."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"A expressão “das empresas jornalísticas” atua como complemento nominal\":** na oração, \"Liberdade de imprensa\" é o sujeito (simples), \"é\" é verbo de ligação e \"um direito acessório das empresas jornalísticas\" é o predicativo do sujeito. Para a banca, \"das empresas jornalísticas\" completa o sentido do adjetivo \"acessório\" (acessório de quem? das empresas), e termo preposicionado que completa adjetivo é sempre **complemento nominal**.\n\n**As outras:**\n- *O sujeito da oração é do tipo composto*: o sujeito tem um só núcleo, \"Liberdade\": é simples.\n- *O termo “acessório” atua como um adjunto adverbial*: é adjetivo que caracteriza \"direito\": adjunto adnominal.\n- *A expressão “um direito” funciona como um objeto direto*: verbo de ligação não tem objeto; \"um direito\" é o núcleo do predicativo.\n- *A expressão “de imprensa” configura-se como um predicativo*: ela especifica \"Liberdade\" dentro do sujeito; não é predicativo.\n\n**Para memorizar:** depois de verbo de ligação (ser, estar, parecer, ficar) vem predicativo, nunca objeto direto.\n\nPonto discutível: muitos gramáticos leriam \"das empresas jornalísticas\" como **adjunto adnominal** de \"direito\" (as empresas são as titulares do direito). Como as outras quatro estão claramente erradas, a resposta da banca é a única possível."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Em *“No Brasil, no entanto, o conceito de liberdade de imprensa tornou-se extraordinariamente elástico, ++fugindo completamente dos princípios que o originaram++.”* (5º§), o trecho destacado é uma",
+   "alternativas": [
+    "oração subordinada adjetiva restritiva.",
+    "oração subordinada adjetiva explicativa.",
+    "oração subordinada substantiva apositiva.",
+    "oração subordinada adverbial condicional.",
+    "oração subordinada adverbial consecutiva."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"oração subordinada adverbial consecutiva\":** \"fugindo completamente dos princípios que o originaram\" é oração reduzida de gerúndio. Para classificá-la, desenvolva: o conceito tornou-se **tão** elástico **que fugiu** completamente dos princípios que o originaram. O afastamento dos princípios é o **efeito** de o conceito ter ficado \"extraordinariamente elástico\"; o advérbio intensificador reforça a ideia de consequência. Oração que exprime consequência é adverbial consecutiva.\n\n**As outras:**\n- *oração subordinada adjetiva restritiva*: adjetiva caracteriza um substantivo antecedente (\"o conceito que fugia…\"); o gerúndio aqui não restringe \"conceito\", relaciona-se com o fato de ele ter ficado elástico.\n- *oração subordinada adjetiva explicativa*: também exigiria um substantivo a explicar, entre vírgulas, com \"que\" desenvolvido.\n- *oração subordinada substantiva apositiva*: aposto oracional explica um termo anterior, em geral depois de dois-pontos.\n- *oração subordinada adverbial condicional*: não há hipótese (\"se fugir…\").\n\n**Para memorizar:** em reduzida de gerúndio, desenvolva com conectivos e veja qual mantém o sentido: \"tão… que\" (consecutiva), \"porque\" (causal), \"se\" (condicional), \"embora\" (concessiva)."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "O conteúdo das alternativas é composto por trechos do texto que tiveram a sua pontuação alterada e/ou excluída. Diante disso, assinale a alternativa em que a(s) mudança(s) não ocasiona(m) erro e/ou problema(s) de composição.",
+   "alternativas": [
+    "Direito à informação e liberdade de expressão são direitos dos cidadãos cláusulas pétreas da Constituição.",
+    "Há muita dificuldade conceitual especialmente no Judiciário para entender o papel dos grupos de mídia e de conceitos como liberdade de imprensa, liberdade de opinião e direito à informação.",
+    "A mera tentativa do Ministério da Justiça de definir uma classificação etária indicativa para programas de televisão foi torpedeada pela rede Globo. Sob a acusação de interferência na liberdade de expressão.",
+    "No Brasil, no entanto, o conceito de liberdade de imprensa tornou-se extraordinariamente elástico, fugindo completamente dos princípios que o originaram. E há enorme resistência do Judiciário em discutir o tema: é tabu.",
+    "Quando o conceito de liberdade de imprensa foi desenvolvido: no bojo da criação do modelo de democracia norte-americano. O pilar central era o da mídia descentralizada, exprimindo a posição de grupos diversificados, permitindo que dessa atoarda nascessem consensos e representações."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"No Brasil, no entanto… em discutir o tema: é tabu.\":** a única mudança foi trocar o ponto antes de \"É tabu\" por dois-pontos. Os dois-pontos podem introduzir uma explicação ou síntese do que veio antes, e \"é tabu\" resume justamente a resistência do Judiciário. A frase continua correta e com o mesmo sentido.\n\n**As outras:**\n- *Direito à informação e liberdade de expressão… cidadãos cláusulas pétreas…*: tirou a vírgula que isolava o aposto \"cláusulas pétreas da Constituição\"; aposto explicativo vem separado por vírgula.\n- *Há muita dificuldade conceitual especialmente no Judiciário…*: tirou as vírgulas da expressão intercalada \"especialmente no Judiciário\", que interrompe a oração e deve vir isolada.\n- *A mera tentativa do Ministério da Justiça… Sob a acusação…*: o ponto solta do período o adjunto \"Sob a acusação de interferência…\", que fica sem verbo, como frase fragmentada.\n- *Quando o conceito de liberdade de imprensa foi desenvolvido: no bojo…*: os dois-pontos e o ponto separam a oração subordinada \"Quando…\" da principal; o primeiro período fica incompleto.\n\n**Para memorizar:** não se separa com ponto o que depende sintaticamente da oração vizinha; termos intercalados e apostos explicativos vão entre vírgulas."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico-Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Três amigas – uma ruiva, uma loira e uma morena – têm olhos das cores verdes, castanhos e azuis, não necessariamente nessa ordem. Considere que das afirmativas a seguir apenas uma é verdadeira:\n\n- a ruiva tem olhos verdes;\n- a loira não tem olhos verdes;\n- a morena não tem olhos azuis.\n\nSendo assim, é correto afirmar que a",
+   "alternativas": [
+    "morena tem olhos verdes e a loira tem olhos azuis.",
+    "ruiva tem olhos verdes e a loira tem olhos castanhos.",
+    "loira tem olhos azuis e a morena tem olhos castanhos.",
+    "morena tem olhos castanhos e a ruiva tem olhos azuis.",
+    "loira tem olhos castanhos e a morena tem olhos verdes."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"morena tem olhos castanhos e a ruiva tem olhos azuis\":** teste qual afirmativa pode ser a única verdadeira. Se a 1ª fosse verdadeira (ruiva de olhos verdes), a 2ª também seria (a loira não teria olhos verdes): duas verdades, impossível. Se só a 2ª fosse verdadeira, a ruiva e a loira não teriam olhos verdes, então a morena teria; mas a 3ª falsa diria que a morena tem olhos azuis. Contradição. Logo, só a 3ª é verdadeira. Como a 2ª é falsa, a **loira tem olhos verdes**; a morena não tem azuis, então tem **castanhos**; sobra **azul** para a ruiva.\n\n**As outras:**\n- *morena tem olhos verdes e a loira tem olhos azuis*: a loira é quem tem olhos verdes.\n- *ruiva tem olhos verdes e a loira tem olhos castanhos*: tornaria verdadeiras a 1ª e a 2ª afirmativas.\n- *loira tem olhos azuis e a morena tem olhos castanhos*: acerta a morena, mas a loira tem olhos verdes.\n- *loira tem olhos castanhos e a morena tem olhos verdes*: troca as cores da loira e da morena.\n\n**Para memorizar:** em \"só uma é verdadeira\", suponha cada afirmativa verdadeira por vez e descarte as que geram contradição."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico-Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O raio da circunferência na figura a seguir mede 3 cm. A área em negrito, no interior da figura, totaliza",
+   "imagem": "data/provas/img/idecan-2014-ebserh-arquitetura/q12.webp",
+   "alternativas": [
+    "21,56 cm².",
+    "23,42 cm².",
+    "24,16 cm².",
+    "25,74 cm².",
+    "26,72 cm²."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"25,74 cm²\":** a área escura tem duas partes. 1) Os quatro cantos do quadrado externo que ficam fora do círculo. O círculo está inscrito no quadrado, então o lado é o diâmetro: 2 × 3 = 6 cm, e a área do quadrado é 6² = 36 cm². A do círculo é π × 3² = 9π ≈ 9 × 3,14 = 28,26 cm². Cantos: 36 − 28,26 = 7,74 cm². 2) O quadrado inscrito no círculo: sua diagonal é o diâmetro, 6 cm, e a área pela diagonal é d²/2 = 36/2 = 18 cm². Total: 7,74 + 18 = **25,74 cm²**.\n\n**As outras:**\n- *21,56 cm².*, *23,42 cm².*, *24,16 cm².* e *26,72 cm².*: nenhuma sai da conta 36 − 9π + 18 com π = 3,14; são distratores para quem erra a área do quadrado inscrito (usando lado 6, por exemplo) ou a do círculo (usando o diâmetro no lugar do raio).\n\n**Para memorizar:** num círculo de raio r, o quadrado circunscrito tem área 4r² e o inscrito, 2r². Aqui: 4 × 9 = 36 e 2 × 9 = 18."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico-Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Bruna comprou: sandália, protetor solar, toalha de praia e óculos de sol. Considere que:\n\n- a sandália não foi o item mais caro;\n- os óculos foram mais caros que a toalha;\n- o protetor solar foi o item mais barato.\n\nPortanto, é correto afirmar que",
+   "alternativas": [
+    "os óculos foi o item mais caro.",
+    "a toalha foi o item mais barato.",
+    "a sandália foi mais cara do que a toalha.",
+    "os óculos foram mais baratos do que a sandália.",
+    "a sandália foi mais barata do que o protetor solar."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"os óculos foi o item mais caro\":** o protetor solar foi o mais barato, e a sandália não foi o mais caro. Então o mais caro só pode ser os óculos ou a toalha. Como os óculos custaram mais que a toalha, a toalha não pode ser a mais cara: o item mais caro foram **os óculos**. (A concordância \"os óculos foi\" está como na prova.)\n\n**As outras:**\n- *a toalha foi o item mais barato*: o mais barato foi o protetor solar.\n- *a sandália foi mais cara do que a toalha*: não dá para saber; sandália e toalha ficam entre os óculos e o protetor, em ordem indefinida.\n- *os óculos foram mais baratos do que a sandália*: impossível, os óculos foram o item mais caro.\n- *a sandália foi mais barata do que o protetor solar*: impossível, o protetor foi o mais barato.\n\n**Para memorizar:** em problemas de ordenação, fixe primeiro os extremos (mais caro e mais barato) e só depois veja o que fica indeterminado no meio."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico-Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um casal de tartarugas estava inicialmente separado por uma distância de 12 m e ambas começaram a caminhar, simultaneamente, com velocidades constantes, uma de encontro a outra. Sabe-se que o macho se deslocou com velocidade de 6 cm/s. Em 2 minutos e 30 segundos as tartarugas se encontraram, então, a velocidade da fêmea era de",
+   "alternativas": [
+    "2 cm/s.",
+    "3 cm/s.",
+    "4 cm/s.",
+    "5 cm/s.",
+    "6 cm/s."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"2 cm/s\":** as tartarugas andam uma em direção à outra, então as velocidades se somam. Converta tudo: 12 m = 1.200 cm; 2 min 30 s = 150 s. Juntas, elas cobrem 1.200 cm em 150 s: 1.200 ÷ 150 = 8 cm/s. Se o macho anda a 6 cm/s, a fêmea anda a 8 − 6 = **2 cm/s**. Conferindo: em 150 s, o macho anda 900 cm e a fêmea, 300 cm; 900 + 300 = 1.200 cm.\n\n**As outras:**\n- *3 cm/s.*: somaria 9 cm/s, e o encontro seria em cerca de 133 s, antes de 2 min 30 s.\n- *4 cm/s.*: 10 cm/s juntas, encontro em 120 s.\n- *5 cm/s.*: 11 cm/s juntas, encontro em cerca de 109 s.\n- *6 cm/s.*: 12 cm/s juntas, encontro em 100 s.\n\n**Para memorizar:** sentidos opostos (uma de encontro à outra): somam-se as velocidades; mesmo sentido (uma perseguindo a outra): subtraem-se."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico-Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A soma dos números que substituem corretamente as interrogações na figura a seguir é igual a",
+   "imagem": "data/provas/img/idecan-2014-ebserh-arquitetura/q15.webp",
+   "alternativas": [
+    "86.",
+    "88.",
+    "90.",
+    "92.",
+    "94."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"92\":** a regra é multiplicação. Cada triângulo lateral é o produto dos dois números da coluna vizinha do quadrado central: à esquerda, 36 = ? × 9, então o ? de cima à esquerda é **4**; à direita, 42 = 7 × ?, então o ? de baixo à direita é **6**. Os triângulos de cima e de baixo são o produto da linha vizinha: em cima, 4 × 7 = **28**; embaixo, 9 × 6 = **54**. Soma das quatro interrogações: 4 + 6 + 28 + 54 = **92**.\n\n**As outras:**\n- *86.*, *88.*, *90.* e *94.*: não saem da regra que vale para os dois números já dados (36 = 4 × 9 e 42 = 7 × 6). Qualquer outro valor nas casas centrais quebraria uma dessas igualdades.\n\n**Para memorizar:** em figuras com números, teste primeiro as operações simples (soma, produto) com as partes já preenchidas; a regra tem de valer para todas as partes da figura."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q16",
+   "numero": 16,
+   "secao": "Legislação Aplicada à EBSERH",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Segundo o Decreto nº 7.661/2011, a EBSERH prestará os serviços relacionados às suas competências mediante contrato com as instituições federais de ensino ou instituições públicas congêneres, o qual conterá, obrigatoriamente:\n\nI. As metas de desempenho, indicadores e prazos de execução a serem observados pelas partes.\n\nII. A respectiva sistemática de acompanhamento e avaliação, contendo critérios e parâmetros a serem aplicados.\n\nIII. Cláusula de garantia consistente em caução em dinheiro e fiança bancária.\n\nEstá(ão) correta(s) apenas a(s) afirmativa(s)",
+   "alternativas": [
+    "I.",
+    "II.",
+    "III.",
+    "I e II.",
+    "II e III."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"I e II\":** o art. 9º do Estatuto Social da EBSERH (anexo do Decreto 7.661/2011) diz que a empresa presta seus serviços mediante contrato com as instituições federais de ensino ou congêneres, e esse contrato deve conter, obrigatoriamente: as obrigações dos signatários (inciso I); as metas de desempenho, indicadores e prazos de execução (inciso II); e a sistemática de acompanhamento e avaliação, com critérios e parâmetros (inciso III). Logo, as afirmativas I e II estão corretas. A III está errada: não há cláusula obrigatória de garantia em caução e fiança bancária.\n\n**As outras:**\n- *I.*: deixa de fora a II, que também é conteúdo obrigatório.\n- *II.*: deixa de fora a I.\n- *III.*: é a única falsa; caução e fiança são garantias típicas de contratos com particulares na Lei de Licitações, não deste contrato entre entes públicos.\n- *II e III.*: inclui a III.\n\n**Para memorizar:** contrato EBSERH–universidade: obrigações, metas/indicadores/prazos e acompanhamento/avaliação, com ampla divulgação no site. O Decreto 7.661/2011 foi declarado revogado pelo Decreto 10.810/2021; a questão vale pelo texto em vigor na época da prova."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q17",
+   "numero": 17,
+   "secao": "Legislação Aplicada à EBSERH",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com o disposto no Decreto nº 7.661/2011, relacione adequadamente as colunas.\n\n1. Conselho de Administração.\n2. Diretoria Executiva.\n3. Conselho Fiscal.\n4. Conselho Consultivo.\n\n( ) Responsável por administrar a EBSERH, composta pelo Presidente e até seis Diretores, todos nomeados e destituíveis, a qualquer tempo, pelo Presidente da República, por indicação do Ministro de Estado da Educação.\n\n( ) Órgão permanente da EBSERH, compõe-se de três membros efetivos e respectivos suplentes, nomeados pelo Ministro de Estado da Educação.\n\n( ) O órgão de orientação superior da EBSERH, sendo composto por nove membros, nomeados pelo Ministro de Estado da Educação.\n\n( ) Tem como competência, dentre outras, propor linhas de ação, programas, estudos, projetos, formas de atuação ou outras medidas, orientando para que a EBSERH atinja os objetivos para a qual foi criada.\n\nA sequência está correta em",
+   "alternativas": [
+    "4, 3, 2, 1.",
+    "1, 2, 3, 4.",
+    "2, 3, 1, 4.",
+    "3, 2, 1, 4.",
+    "1, 3, 4, 2."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"2, 3, 1, 4\":** no Estatuto Social da EBSERH (anexo do Decreto 7.661/2011): o 1º parêntese é a **Diretoria Executiva** (2), composta pelo Presidente e até seis Diretores, nomeados e destituíveis a qualquer tempo pelo Presidente da República, por indicação do Ministro da Educação (art. 15). O 2º é o **Conselho Fiscal** (3), órgão permanente com três membros efetivos e suplentes nomeados pelo Ministro da Educação (art. 21). O 3º é o **Conselho de Administração** (1), órgão de orientação superior, com nove membros nomeados pelo Ministro da Educação (art. 12). O 4º é o **Conselho Consultivo** (4), que tem, entre outras, a competência de propor linhas de ação, programas, estudos e projetos (art. 24, II).\n\n**As outras:**\n- *4, 3, 2, 1.*: dá ao Consultivo a administração da empresa e à Diretoria a orientação superior.\n- *1, 2, 3, 4.*: só repete a ordem da coluna, sem relação com as descrições.\n- *3, 2, 1, 4.*: troca a Diretoria Executiva e o Conselho Fiscal.\n- *1, 3, 4, 2.*: troca o Conselho de Administração, a Diretoria e o Consultivo.\n\n**Para memorizar:** Diretoria = Presidente + até 6 (nomeados pelo Presidente da República); Conselho de Administração = 9; Conselho Fiscal = 3 + suplentes; Consultivo = consulta, controle social e propostas. O Decreto 7.661/2011 foi declarado revogado pelo Decreto 10.810/2021; a questão vale pelo texto em vigor na época da prova."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q18",
+   "numero": 18,
+   "secao": "Legislação Aplicada à EBSERH",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sobre a participação nos órgãos da EBSERH, de acordo com as diretrizes estabelecidas pelo Decreto nº 7.661/2011, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) Não podem participar dos referidos órgãos, os declarados inabilitados para cargos de administração em empresas sujeitas a autorização, controle e fiscalização de órgãos e entidades da administração pública direta e indireta.\n\n( ) Aos integrantes dos órgãos de administração é vedado intervir em operação em que, direta ou indiretamente, sejam interessadas sociedades de que detenham o controle ou participação superior a cinco por cento do capital social.\n\n( ) Embora vedado aos descendentes e ascendentes, poderão participar dos órgãos da EBSERH, o sócio ou parente colateral ou afim, até o terceiro grau, de membro do Conselho de Administração, da Diretoria Executiva e do Conselho Fiscal.\n\n( ) A participação na Diretoria Executiva e Conselho de Administração está condicionada à conclusão de curso superior na área relacionada às atividades e finalidades do órgão, bem como à realização de curso de reciclagem periódica, não inferior a seis meses.\n\nA sequência está correta em",
+   "alternativas": [
+    "V, V, F, F.",
+    "F, F, V, V.",
+    "V, F, V, F.",
+    "F, V, F, V.",
+    "V, F, F, V."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"V, V, F, F\":** no Estatuto Social da EBSERH (anexo do Decreto 7.661/2011): 1ª V: o art. 11, III, impede a participação dos declarados inabilitados para cargos de administração em empresas sujeitas a autorização, controle e fiscalização do poder público. 2ª V: o art. 11, §1º, veda aos integrantes dos órgãos de administração intervir em operação de sociedades de que detenham o controle ou participação superior a **5%** do capital. 3ª F: o art. 11, VI, impede **também** o sócio e os parentes colaterais ou afins até o terceiro grau (além de ascendentes e descendentes) de membros do Conselho de Administração, da Diretoria Executiva e do Conselho Fiscal. 4ª F: o estatuto não exige curso superior na área nem curso de reciclagem; para Presidente e Diretores, pede idoneidade moral, reputação ilibada, notórios conhecimentos e mais de dez anos de experiência (art. 15, §2º).\n\n**As outras:**\n- *F, F, V, V.*: inverte as quatro.\n- *V, F, V, F.*: nega o limite de 5% e libera sócio e parentes.\n- *F, V, F, V.*: nega o impedimento dos inabilitados e aceita o curso inventado.\n- *V, F, F, V.*: nega o limite de 5% e aceita o curso inventado.\n\n**Para memorizar:** impedimentos do art. 11: inabilitados, condenados por certos crimes, falidos, quem tem conflito de interesses e parentes até o 3º grau dos dirigentes. O Decreto 7.661/2011 foi declarado revogado pelo Decreto 10.810/2021; a questão vale pelo texto em vigor na época da prova."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q19",
+   "numero": 19,
+   "secao": "Legislação Aplicada à EBSERH",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A respeito da composição do Conselho de Administração, segundo as regras dispostas no Decreto nº 7.661/2011, assinale a afirmativa correta.",
+   "alternativas": [
+    "A Presidência do Conselho será exercida pelo Presidente da Empresa, salvo em caso de ausência ou impedimentos.",
+    "Considerar-se-á vaga a função de membro do Conselho de Administração apenas nos casos de destituição, morte ou renúncia.",
+    "O prazo de gestão dos membros do Conselho de Administração será de dois anos contados a partir da data de publicação do ato de nomeação, podendo ser reconduzidos por igual período.",
+    "No caso de vacância definitiva do cargo de Conselheiro ocupado por representante dos empregados, o substituto será nomeado pelos Conselheiros remanescentes e servirá até a designação do novo representante.",
+    "Nos casos em que os membros do Conselho de Administração percebam honorários mensais, no quantitativo especificado no decreto, não farão jus a reembolso das despesas de locomoção e estada necessárias ao desempenho da função."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O prazo de gestão dos membros do Conselho de Administração será de dois anos…\":** é o art. 12, §1º, do Estatuto Social da EBSERH (anexo do Decreto 7.661/2011): prazo de gestão de dois anos, contados da publicação do ato de nomeação, com recondução por igual período.\n\n**As outras:**\n- *A Presidência do Conselho será exercida pelo Presidente da Empresa…*: o presidente do Conselho é um dos três membros indicados pelo Ministro da Educação (art. 12, I); o Presidente da EBSERH integra o Conselho, mas não pode presidi-lo, nem interinamente (art. 12, II).\n- *Considerar-se-á vaga… apenas nos casos de destituição, morte ou renúncia*: também fica vago o lugar de quem falta, sem justificativa formal, a duas reuniões consecutivas ou três alternadas no intervalo de um ano (art. 12, §10).\n- *No caso de vacância definitiva do cargo de Conselheiro ocupado por representante dos empregados…*: a nomeação pelos remanescentes vale para os demais, \"exceto no caso do representante dos empregados\" (§7º); a vaga dele é ocupada pelo suplente eleito (§8º).\n- *Nos casos em que os membros… percebam honorários mensais…*: o reembolso das despesas de locomoção e estada é **obrigatório** (§9º).\n\n**Para memorizar:** Conselho de Administração da EBSERH: 9 membros, gestão de 2 anos (+ 1 recondução), presidido por indicado do MEC. O Decreto 7.661/2011 foi declarado revogado pelo Decreto 10.810/2021; a questão vale pelo texto em vigor na época da prova."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q20",
+   "numero": 20,
+   "secao": "Legislação Aplicada à EBSERH",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considerando as disposições do Decreto nº 7.661/2011, compete ao Presidente da EBSERH, EXCETO:",
+   "alternativas": [
+    "Representar a EBSERH, em juízo ou fora dele, podendo delegar essa atribuição em casos específicos, e, em nome da entidade, constituir mandatários ou procuradores.",
+    "Coordenar o trabalho das unidades da EBSERH, podendo delegar competência executiva e decisória e distribuir, entre os diretores, a coordenação dos serviços da empresa.",
+    "Designar substitutos para os membros da Diretoria, em seus impedimentos temporários, que não possam ser atendidos mediante redistribuição de tarefas, e, no caso de vaga, até o seu preenchimento.",
+    "Admitir, promover, punir, dispensar e praticar os demais atos compreendidos na administração de pessoal, de acordo com as normas e critérios previstos em lei e aprovados pela Diretoria, podendo delegar esta atribuição no todo ou em parte.",
+    "Administrar e dirigir os bens, serviços e negócios da EBSERH e decidir, por proposta dos responsáveis pelas respectivas áreas de coordenação, sobre operações de responsabilidade situadas no respectivo nível de alçada decisória estabelecido pelo Conselho de Administração."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Administrar e dirigir os bens, serviços e negócios da EBSERH…\" é a resposta:** essa competência é da **Diretoria Executiva**, como colegiado (art. 16, I, do Estatuto Social anexo ao Decreto 7.661/2011), e não do Presidente sozinho: administrar os bens e negócios e decidir, por proposta dos responsáveis por cada área, sobre operações dentro da alçada fixada pelo Conselho de Administração.\n\n**As outras (são do Presidente, art. 18):**\n- *Representar a EBSERH, em juízo ou fora dele…*: inciso I.\n- *Coordenar o trabalho das unidades da EBSERH…*: inciso III.\n- *Designar substitutos para os membros da Diretoria…*: inciso VI.\n- *Admitir, promover, punir, dispensar…*: inciso V (administração de pessoal).\n\n**Para memorizar:** o Presidente representa, coordena, cuida do pessoal e designa substitutos; a Diretoria, em conjunto, administra bens, serviços e negócios dentro das alçadas do Conselho de Administração. O Decreto 7.661/2011 foi declarado revogado pelo Decreto 10.810/2021; a questão vale pelo texto em vigor na época da prova."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q21",
+   "numero": 21,
+   "secao": "Legislação Aplicada ao SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Antes da criação do Sistema Único de Saúde (SUS), a saúde não era considerada um direito social. O SUS foi institucionalizado no Brasil com a",
+   "alternativas": [
+    "Lei nº 8.080/90.",
+    "Lei nº 8.142/90.",
+    "Declaração de Alma-Ata.",
+    "Constituição Federal de 67.",
+    "Constituição Federal de 88."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Constituição Federal de 88\":** o SUS nasce na Constituição de 1988. O art. 196 declara que \"a saúde é direito de todos e dever do Estado\", e o art. 198 diz que as ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um **sistema único**, com descentralização, atendimento integral e participação da comunidade. Antes disso, a assistência médica pública (INAMPS) atendia sobretudo quem contribuía para a Previdência.\n\n**As outras:**\n- *Lei nº 8.080/90.*: é a Lei Orgânica da Saúde; **regulamenta** o SUS já criado pela Constituição (organização, competências, funcionamento).\n- *Lei nº 8.142/90.*: trata da participação da comunidade (conferências e conselhos de saúde) e das transferências de recursos.\n- *Declaração de Alma-Ata.*: documento da conferência internacional de 1978 sobre atenção primária; inspirou a reforma sanitária, mas não é norma brasileira.\n- *Constituição Federal de 67.*: não previa a saúde como direito universal nem um sistema único.\n\n**Para memorizar:** CF/88 cria o SUS (arts. 196 a 200); a Lei 8.080 organiza; a Lei 8.142 traz participação social e financiamento."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q22",
+   "numero": 22,
+   "secao": "Legislação Aplicada ao SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Na organização dos Conselhos de Saúde, a Resolução CNS nº 453/2012 recomenda que, a cada eleição, os segmentos de representações de usuários, trabalhadores e prestadores de serviços, ao seu critério, promovam a renovação de suas entidades representativas, no mínimo, na proporção de",
+   "alternativas": [
+    "10%.",
+    "25%.",
+    "30%.",
+    "50%.",
+    "70%."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"30%\":** a Resolução CNS 453/2012, na Terceira Diretriz (organização dos conselhos), inciso V, recomenda que, a cada eleição, os segmentos de usuários, trabalhadores e prestadores de serviços, a seu critério, promovam a renovação de, **no mínimo, 30%** de suas entidades representativas. A ideia é renovar o controle social sem perder a memória do conselho.\n\n**As outras:**\n- *10%.*: não aparece na resolução.\n- *25%.*: é a fatia das vagas dos trabalhadores de saúde e, também, a de governo e prestadores (inciso II, alíneas b e c), não o percentual de renovação.\n- *50%.*: é a fatia das vagas dos usuários (inciso II, alínea a).\n- *70%.*: não aparece na resolução.\n\n**Para memorizar:** paridade 50-25-25 (usuários; trabalhadores; governo e prestadores) e renovação mínima de 30% das entidades a cada eleição. A 453/2012 substituiu a antiga Resolução CNS 333/2003."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q23",
+   "numero": 23,
+   "secao": "Legislação Aplicada ao SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "De acordo com a redação atual da Lei nº 8.080/90, a Comissão Nacional de Incorporação de Tecnologias no SUS deve contar com um representante indicado pelo Conselho Federal de Medicina e um representante indicado pelo",
+   "alternativas": [
+    "Ministério da Saúde.",
+    "Conselho Nacional de Saúde.",
+    "Conselho Federal de Farmácia.",
+    "Conselho Federal de Informática.",
+    "Ministério da Ciência e Tecnologia."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Conselho Nacional de Saúde\":** o art. 19-Q da Lei 8.080/1990 (incluído pela Lei 12.401/2011) atribui ao Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec), a incorporação, exclusão ou alteração de medicamentos, produtos e procedimentos. Pelo §1º, na redação da época da prova, a comissão contava com um representante indicado pelo **Conselho Nacional de Saúde** e um representante, especialista na área, indicado pelo **Conselho Federal de Medicina**.\n\n**As outras:**\n- *Ministério da Saúde.*: é o órgão assessorado pela comissão (ele decide), não uma das indicações externas do §1º.\n- *Conselho Federal de Farmácia.*: não tem vaga prevista na lei.\n- *Conselho Federal de Informática.*: não é citado na lei.\n- *Ministério da Ciência e Tecnologia.*: não aparece no art. 19-Q.\n\n**Para memorizar:** Conitec na lei original = CNS + CFM. Hoje o §1º mudou: a Lei 14.655/2023 incluiu um representante da Associação Médica Brasileira, e a Lei 15.120/2025, um representante de organização da sociedade civil, com direito a voto."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q24",
+   "numero": 24,
+   "secao": "Legislação Aplicada ao SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "De acordo com o Decreto Presidencial nº 7.508/11, são portas de entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os seguintes serviços, EXCETO:",
+   "alternativas": [
+    "De atenção primária.",
+    "De vigilância em saúde.",
+    "De atenção psicossocial.",
+    "Especiais de acesso aberto.",
+    "De atenção de urgência e emergência."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"De vigilância em saúde\" é a resposta:** o art. 9º do Decreto 7.508/2011 lista as Portas de Entrada às ações e serviços de saúde nas Redes de Atenção à Saúde: os serviços de atenção primária (I), de atenção de urgência e emergência (II), de atenção psicossocial (III) e especiais de acesso aberto (IV). Vigilância em saúde não está na lista: é um conjunto de ações (epidemiológica, sanitária, ambiental, saúde do trabalhador) que toda Região de Saúde precisa ter, mas não é por onde o usuário entra no sistema.\n\n**As outras (são portas de entrada):**\n- *De atenção primária.*: inciso I; é a porta preferencial e ordenadora do acesso.\n- *De atenção psicossocial.*: inciso III.\n- *Especiais de acesso aberto.*: inciso IV.\n- *De atenção de urgência e emergência.*: inciso II.\n\n**Para memorizar:** portas de entrada = Primária, Urgência, Psicossocial e Especiais de acesso aberto. Vigilância em saúde aparece no art. 5º, entre os serviços mínimos para instituir uma Região de Saúde, junto com atenção ambulatorial especializada e hospitalar. O parágrafo único do art. 9º permite criar novas portas, com justificativa técnica e pactuação nas Comissões Intergestores."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q25",
+   "numero": 25,
+   "secao": "Legislação Aplicada ao SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "De acordo com o Decreto Presidencial nº 7.508/2011, todas as ações e serviços que o SUS oferece ao usuário para atendimento da integralidade da assistência à saúde são compreendidos pela",
+   "alternativas": [
+    "CIB.",
+    "CIR.",
+    "CIT.",
+    "RENAME.",
+    "RENASES."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"RENASES\":** o art. 21 do Decreto 7.508/2011 diz que a Relação Nacional de Ações e Serviços de Saúde (**RENASES**) compreende todas as ações e serviços que o SUS oferece ao usuário para atendimento da integralidade da assistência à saúde. O Ministério da Saúde dispõe sobre ela em âmbito nacional, observadas as diretrizes pactuadas na CIT (art. 22).\n\n**As outras:**\n- *CIB.*: Comissão Intergestores Bipartite, instância de pactuação no âmbito do Estado (art. 30, II).\n- *CIR.*: Comissão Intergestores Regional, no âmbito da região, vinculada à Secretaria Estadual de Saúde (art. 30, III).\n- *CIT.*: Comissão Intergestores Tripartite, no âmbito da União (art. 30, I).\n- *RENAME.*: Relação Nacional de Medicamentos Essenciais: seleção e padronização de **medicamentos** (art. 25), não de todas as ações e serviços.\n\n**Para memorizar:** RENASES = ações e serviços (o \"cardápio\" do SUS); RENAME = medicamentos. CIT, CIB e CIR são comissões de pactuação entre gestores, não listas."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "Em regiões de clima quente, o piso levantado em relação ao terreno por meio de aterro, de porão ventilado ou de pilotis é uma boa alternativa para a melhor ventilação, uma vez que é mais higiênica; e, em terrenos úmidos, essa solução reduz a umidade dos pisos e paredes. O desenho a seguir exemplifica uma ocorrência que pode ser muito comum em algumas edificações.\n\n![Dois cortes esquemáticos: casa com piso elevado sobre porão ventilado e casa sobre pilotis, com setas de vento atravessando o interior e o espaço sob o piso](data/provas/img/idecan-2014-ebserh-arquitetura/q26.webp)\n\nSobre a ocorrência na ventilação nas edificações apresentada anteriormente, assinale a afirmativa correta.",
+   "alternativas": [
+    "Ventilação elevada: quando a edificação está elevada do solo considera-se ventilação elevada devido a esta situação.",
+    "Ventilação artificial: com o auxílio de aparelhos mecânicos, provoca-se ventilação artificial nas edificações elevadas do solo.",
+    "Ventilação rebaixada: quando o ar passa por baixo das edificações, este tipo de ventilação denomia-se ventilação rebaixada.",
+    "Ventilação forçada: devido ao posicionamento dos vãos de janelas e portas, o ar fica forçado a fazer entrada e saída pelos mesmos lados da edificação.",
+    "Ventilação cruzada: o ar entra por um lado da edificação encontrando saída pelo lado oposto, favorecendo a ventilação cruzada dentro da edificação."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Ventilação cruzada…\":** o desenho mostra o ar atravessando a edificação de um lado ao outro, tanto no ambiente quanto por baixo do piso elevado (porão ventilado e pilotis). É a **ventilação cruzada**: o ar entra por aberturas de uma fachada e sai pelas da fachada oposta, movido pela diferença de pressão que o vento cria entre elas. É a estratégia mais eficiente em clima quente e úmido, e o piso elevado ainda afasta a umidade do solo.\n\n**As outras:**\n- *Ventilação elevada…*: não é termo técnico; elevar o piso é solução construtiva, não tipo de ventilação.\n- *Ventilação artificial…*: o desenho não mostra aparelho algum; a ventilação é natural.\n- *Ventilação rebaixada…*: termo inexistente; o ar sob o piso faz parte da mesma ventilação cruzada.\n- *Ventilação forçada…*: entrar e sair pelo mesmo lado é ventilação unilateral, bem menos eficiente; \"forçada\" costuma designar a ventilação mecânica.\n\n**Para memorizar:** a ventilação natural tem dois motores: o vento (ventilação cruzada) e o efeito chaminé (o ar quente sobe e sai por aberturas altas). Em estabelecimento de saúde, a RDC 50/2002 (Parte III, item 5) exige que janelas de ambientes de uso prolongado fiquem a pelo menos 3,0 m de empenas de qualquer edificação."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Arquitetos, técnicos em edificações, engenheiros, eletricistas e, até mesmo, pessoas que precisam comprar lâmpadas precisam ter conhecimentos básicos essenciais para não errarem diante de tantos materiais para instalações elétricas disponíveis nas lojas. Por exemplo, a sigla IRC (Índice de Reprodução de Cor) representa a fidelidade de reprodução de cor que uma fonte de luz pode atingir. Uma informação como essa facilita o diálogo entre técnicos, vendedores, construtores e ajuda a obter o melhor resultado nos instalações elétricas. Sobre os itens de instalação elétrica, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Disjuntor: dispositivo que desliga automaticamente o circuito elétrico da residência em caso de sobrecarga.",
+    "Balizador: luminária que emite fraco facho de luz com o intuito de sinalizar e demarcar as áreas de passagens, jardins, escadas, garagens etc.",
+    "Plafon: caixa que abriga os disjuntores. Pode ficar embutida ou sobreposta nas paredes de forma que protejam os disjuntores contra danos em caso de curto-circuito.",
+    "Arandela: essa luminária pode ser utilizada em vários lugares da casa, sendo fixada em paredes internas e externas. Há inúmeros modelos e materiais, tais como: tecido, metal, vidro e policabornato.",
+    "Bulbo: parte de vidro da lâmpada que envolve o filamento e os gases internos. Há diferentes formatos, matérias e tamanhos, dependendo se o bulbo está presente numa lâmpada halógena, incandescente, entre outras."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Plafon: caixa que abriga os disjuntores…\" é a resposta:** plafon é uma **luminária** fixada diretamente no teto (sobreposta ou embutida no forro), em geral com difusor que esconde a lâmpada. A caixa que abriga e protege os disjuntores é o **quadro de distribuição** (quadro de luz, QDC).\n\n**As outras (estão corretas):**\n- *Disjuntor…*: desliga o circuito automaticamente em sobrecarga (e em curto-circuito, no disjuntor termomagnético); depois, basta religar.\n- *Balizador…*: luminária baixa, de luz fraca, que demarca caminhos, degraus e jardins.\n- *Arandela…*: luminária de parede, interna ou externa.\n- *Bulbo…*: é o invólucro de vidro da lâmpada, de formatos variados.\n\n**Para memorizar:** plafon = teto; arandela = parede; balizador = piso e caminhos; pendente = suspenso por cabo. O IRC citado no enunciado vai de 0 a 100: quanto maior, mais fiel a cor."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "As vagas de veículos ao estacionamento de pessoas com deficiência devem estar devidamente sinalizadas, tanto no piso, quanto através de sinalização vertical. Além disso, as vagas devem estar sempre próximas de rampas ou rebaixamento de calçadas nos passeios, assim como das entradas dos edifícios. O piso deve ser sempre estável e nivelado. A vaga deve ser maior do que a medida padrão, permitindo que uma cadeira de rodas pare ao lado do veículo para que a pessoa se transfira adequadamente do carro para a cadeira. Considerando que a porta do veículo permanecerá aberta durante a transferência, qual a largura mínima necessária além do padrão nas vagas de estacionamento para pessoas com deficiência?",
+   "alternativas": [
+    "0,40 m.",
+    "0,50 m.",
+    "1,20 m.",
+    "2,20 m.",
+    "3,20 m."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"1,20 m\":** a ABNT NBR 9050 exige, ao lado da vaga reservada à pessoa com deficiência, um **espaço adicional de circulação com no mínimo 1,20 m de largura**, demarcado no piso (faixa zebrada). É onde a cadeira de rodas fica para a pessoa passar do carro para a cadeira com a porta aberta. Esse espaço pode ser compartilhado por duas vagas vizinhas.\n\n**As outras:**\n- *0,40 m.*: não cabe uma cadeira de rodas; o módulo de referência da NBR 9050 tem 0,80 m × 1,20 m.\n- *0,50 m.*: também não permite a transferência.\n- *2,20 m.*: é quase a largura de outra vaga inteira; a norma pede só o acréscimo de 1,20 m.\n- *3,20 m.*: exagerado; não é medida da norma para esse espaço.\n\n**Para memorizar:** 1,20 m é número-chave da NBR 9050: faixa de transferência ao lado da vaga e largura mínima de corredor de uso comum com até 10 m. Em estabelecimentos de saúde, a RDC 50/2002 (Parte III, item 4.2) manda reservar duas vagas para pessoas com deficiência em estacionamentos de até 100 vagas e 1% acima disso, conforme a NBR 9050."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "Há muitos anos, os biólogos verificaram que o homem precisa de, aproximadamente, 30 m³ de ar por hora. No entanto, são comuns os ambientes com insuficiência de ar. Nota-se isso pelas atitudes das pessoas: abrindo a camisa, abanando o rosto com as mãos ou com um pedaço de papel, ligando o ventilador ou nos gestos de impaciência e irritação. Geralmente, os leigos e pessoas comuns não sabem diferenciar ventilação de aeração, e não falta quem diga que são dois rótulos diferentes para o mesmo produto. Diante do exposto, é correto afirmar que",
+   "alternativas": [
+    "ventilação é o nome popular para as condições de renovação de ar nos interiores das edificações, e aeração se trata da mesmo fenômeno, mas com nome técnico.",
+    "ventilação, como o nome já diz, é a ação do vento: movimento do ar. A direção e a velocidade do ar, o efeito do calor e da pressão. Aeração é a renovação do ar por efeito natural do vento ou de outra causa.",
+    "ventilação é o resultado físico obtido pelos aparelhos de ar condicionado, exaustores e ventiladores instalados nas salas dos prédios comerciais. Aeração está diretamente relacionada à insolação na fachada dos prédios.",
+    "ventilação é um fenômeno natural que ocorre no interior de todas as edificações independentes da disposição e tamanhos de janelas e portas. Aeração é ação do vento provocada dentro dos ambientes das edificações.",
+    "ventilação é um princípio básico elementar que deve ser obrigatoriamente instalado e produzido por aparelhos de ar condicionado em todas as edificações públicas. Aeração é um princípio natural ocasionado pelos ventos nos interiores das edificações."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"ventilação, como o nome já diz, é a ação do vento…\":** a afirmativa separa os dois conceitos como faz a literatura de conforto ambiental: **ventilação** é o movimento do ar, com direção e velocidade, influenciado pelo calor e pela pressão; **aeração** é a **renovação** do ar de um ambiente, a troca do ar viciado por ar novo, que pode ocorrer pelo vento ou por outra causa (efeito chaminé, exaustão). O ar pode se mover sem ser renovado (ventilador em sala fechada) e pode ser renovado com pouco movimento perceptível.\n\n**As outras:**\n- *ventilação é o nome popular… aeração… nome técnico*: trata como sinônimos o que o enunciado diz serem coisas diferentes.\n- *ventilação é o resultado físico obtido pelos aparelhos…*: ventilação também é natural, e aeração não tem relação com insolação da fachada.\n- *ventilação é um fenômeno natural que ocorre no interior de todas…*: a ventilação depende justamente da posição e do tamanho das aberturas.\n- *ventilação é um princípio básico… ar condicionado em todas as edificações públicas…*: não há essa obrigação, e aeração não é só natural.\n\n**Para memorizar:** o ventilador mexe o ar (ventilação); a janela aberta ou a exaustão renovam o ar (aeração). Os 30 m³/h por pessoa do enunciado são uma necessidade de renovação, isto é, de aeração."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "A medida mínima para a largura de corredores é de 0,90 m, o que permite a passagem de apenas uma cadeira de rodas ou um portador de deficiência visual. No entanto, é mais indicada a largura de 1,20 m para locais com trânsito um pouco intenso, pois esta largura permite a passagem lado a lado de uma cadeira de rodas e um indivíduo caminhando a pé. Já em locais de grande fluxo de pessoas, o corredor deve ter 1,50 m de largura, o que permitiria não só a passagem de duas cadeiras de roda lado a lado, como também a manobra de cadeira em volta de 360°. Qual a largura mínima necessária em corredores e também em locais de grande fluxo de pessoas, para permitir não só a passagem de duas cadeiras de roda lado a lado, como a manobra de cadeira em volta de 360°?",
+   "alternativas": [
+    "1,00 m.",
+    "1,50 m.",
+    "2,20 m.",
+    "3,00 m.",
+    "4,20 m."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"1,50 m\":** a resposta está no próprio enunciado e segue a ABNT NBR 9050: 1,50 m permite a passagem de duas cadeiras de rodas lado a lado e a rotação de 360° da cadeira, que pede um círculo de 1,50 m de diâmetro. A norma exige 1,50 m em corredores de uso público e em corredores de uso comum com mais de 10 m de extensão; 0,90 m vale só para corredores de uso comum de até 4 m, e 1,20 m para os de até 10 m.\n\n**As outras:**\n- *1,00 m.*: só passa uma cadeira, e ela não consegue girar 360°.\n- *2,20 m.*: atende, mas não é o mínimo pedido.\n- *3,00 m.*: idem; não é mínimo de nenhuma situação citada.\n- *4,20 m.*: sem base na norma.\n\n**Para memorizar:** em hospital a régua é outra: a RDC 50/2002 (Parte III, item 4.3) exige corredores de circulação de pacientes (ambulantes, em cadeira de rodas, maca ou cama) com **2,00 m** de largura quando têm mais de 11 m, e 1,20 m nos demais; nas unidades de urgência e emergência e nos centros cirúrgico e obstétrico, sempre 2,00 m."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "A sinalização tem por objetivo informar, alertar ou orientar os usuários de um determinado espaço. A sinalização é fundamental para a acessibilidade de pessoas com deficiência ou dificuldades. A sinalização visual e a sinalização tátil dispõem de artifícios como o contraste de cores e as diferentes texturas, respectivamente, para que se tornem mais facilmente perceptíveis. A indicação de acessibilidade de determinado equipamento, mobiliário ou espaço é representada por símbolos internacionais já convencionados. Trata-se de pictogramas brancos sobre fundo azul, opcionalmente representados em preto e branco. Outros símbolos são largamente utilizados no interior de edificações para indicar elevadores, escadas rolantes, sanitários, saídas de emergência etc. As representações no piso, sendo de guia ou de alerta, são formadas de sinalização tátil e visual que têm como objetivo informar determinado percurso a ser seguido e alertar sobre obstáculos, respectivamente,\n\n![Três pictogramas: pessoa com bengala longa, pessoa em cadeira de rodas e orelha cortada por uma faixa diagonal](data/provas/img/idecan-2014-ebserh-arquitetura/q31.webp)\n\nAs imagens anteriores representam, respectivamente:",
+   "alternativas": [
+    "área exclusiva para idosos, área exclusiva para deficientes e área exclusiva para deficientes auditivos.",
+    "passagem exclusiva para deficientes visuais, vaga exclusiva para deficientes e proibido entrar com aparelhos celulares.",
+    "símbolo de pessoas que usam bengala, símbolo de passagem exclusiva de pessoas com deficiência e símbolo de telefones públicos",
+    "símbolo internacional de pessoas com deficiência visual, símbolo internacional de acesso e símbolo internacional de pessoas com surdez.",
+    "permissão de passagem de pessoas que usam bengala, permissão de passagem de pessoas com deficiência e permitido o uso de aparelhos celulares."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"símbolo internacional de pessoas com deficiência visual, símbolo internacional de acesso e símbolo internacional de pessoas com surdez\":** são os três símbolos internacionais adotados pela ABNT NBR 9050. A pessoa com bengala longa indica **pessoa com deficiência visual**; a figura em cadeira de rodas é o **Símbolo Internacional de Acesso (SIA)**, que identifica edificações, espaços, mobiliário e serviços acessíveis; a orelha cortada por uma faixa diagonal é o **símbolo internacional de pessoas com surdez** (deficiência auditiva). Todos são brancos sobre fundo azul, ou em preto e branco.\n\n**As outras:**\n- *área exclusiva para idosos…*: não há símbolo de idoso aí, e esses símbolos indicam acessibilidade, não exclusividade.\n- *passagem exclusiva para deficientes visuais… proibido entrar com aparelhos celulares*: a orelha riscada não é proibição de celular.\n- *símbolo de pessoas que usam bengala… telefones públicos*: a orelha não representa telefone; telefone tem pictograma próprio.\n- *permissão de passagem… permitido o uso de aparelhos celulares*: símbolos de acessibilidade não são placas de permissão.\n\n**Para memorizar:** o SIA (cadeira de rodas) significa \"acessível\", não \"exclusivo\". Na NBR 9050, o símbolo de surdez é a orelha com faixa diagonal."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "As formas aditivas resultantes do acréscimo de elementos distintos podem ser caracterizadas pela capacidade de crescer e fundir-se a outras formas. Para que se perceba os agrupamentos aditivos como composição unificada de forma – como figuras em nosso campo visual –, os elementos que se combinam devem estar relacionados entre si de uma maneira coerente. Os desenhos apresentados classificam as formas aditivas de acordo com a natureza da relação que existe entre as formas componentes, assim como as configurações globais.\n\n![Três diagramas: um ponto com setas convergindo para ele, uma fileira de pontos entre duas setas opostas e um ponto com três setas saindo dele](data/provas/img/idecan-2014-ebserh-arquitetura/q32.webp)\n\nOs desenhos anteriores significam, respectivamente,",
+   "alternativas": [
+    "forma centralizada, forma linear e forma radial.",
+    "tensão espacial, expansão e tensão de expansão.",
+    "radioatividade interna, radioatividade linear e radioatividade externa.",
+    "cobertura de quatro águas, cobertura plana e cobertura de três águas.",
+    "tubulação de descida de águas, múltiplos pontos elétricos e ponto elétrico único."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"forma centralizada, forma linear e forma radial\":** os diagramas são os de Francis Ching (*Arquitetura: forma, espaço e ordem*), que classifica as formas aditivas pela relação entre as partes. Na **centralizada**, formas secundárias se agrupam em torno de uma forma dominante central (setas convergindo para o ponto). Na **linear**, as formas se dispõem em sequência ao longo de uma linha (pontos enfileirados). Na **radial**, braços lineares se estendem para fora a partir de um centro (setas saindo do ponto). Ching cita ainda as formas aglomeradas e em malha.\n\n**As outras:**\n- *tensão espacial, expansão e tensão de expansão*: \"tensão espacial\" é um modo de relacionar formas próximas, não o nome dessas configurações.\n- *radioatividade interna, radioatividade linear e radioatividade externa*: termos sem sentido em composição arquitetônica.\n- *cobertura de quatro águas, cobertura plana e cobertura de três águas*: são diagramas de composição, não plantas de telhado.\n- *tubulação de descida de águas, múltiplos pontos elétricos…*: não são símbolos de instalações.\n\n**Para memorizar:** centralizada converge, radial irradia, linear enfileira; aglomerada agrupa por proximidade; em malha se organiza por uma grelha."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "O principal elemento superior de um edifício é o plano de cobertura. Ele não somente abriga os espaços interiores de um edifício do sol, da chuva e da neve, como também exerce um grande impacto sobre a forma geral de um edifício e a moldagem de seus espaços. A forma do plano superior, por sua vez, é determinada pelo material, pela geometria e pelas proporções do sistema estrutural e pela maneira como este transfere sua carga através do espaço para os seus apoios.\n\n![Três cortes: telhado de duas águas apoiado em tesoura, cobertura plana sobre viga treliçada e abóbada de alvenaria](data/provas/img/idecan-2014-ebserh-arquitetura/q33.webp)\n\nAs representações gráficas anteriores são, respectivamente, os desenhos de",
+   "alternativas": [
+    "teto inclinado, teto plano r teto curvo.",
+    "fachada, planta baixa r porta de entrada.",
+    "laje tensionada, viga protendida r portal de pedra.",
+    "viga treliçada, laje pré-moldada r pórtico de mármore.",
+    "tesoura de madeira, viga de aço r abóboda de alvenaria."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"tesoura de madeira, viga de aço r abóboda de alvenaria\":** (o \"r\" no lugar de \"e\" está como na prova.) O enunciado fala do sistema estrutural de cada cobertura. O primeiro desenho é um telhado de duas águas apoiado numa **tesoura**: treliça triangular de madeira com linha, pernas, pendural e escoras. O segundo é uma cobertura plana sobre uma **viga treliçada de aço** (banzos paralelos e diagonais em zigue-zague) que vence o vão entre pilares. O terceiro é uma **abóbada** de alvenaria: arco contínuo cujas peças trabalham à compressão e empurram as paredes para fora (empuxo).\n\n**As outras:**\n- *teto inclinado, teto plano r teto curvo*: descreve só a forma do teto, não o sistema estrutural que o enunciado pede (material, geometria, transmissão de carga).\n- *fachada, planta baixa r porta de entrada*: os três desenhos são cortes de coberturas, não plantas nem portas.\n- *laje tensionada, viga protendida r portal de pedra*: não há laje nem protensão, e o arco é abóbada.\n- *viga treliçada, laje pré-moldada r pórtico de mármore*: o primeiro é tesoura (treliça triangular) e o segundo é treliça, não laje.\n\n**Para memorizar:** tesoura = treliça triangular de telhado inclinado; treliça de banzos paralelos = cobertura plana; abóbada = arco estendido, só compressão, com empuxo lateral."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Sobre ensaio de abatimento, assinale a afirmativa correta.",
+   "alternativas": [
+    "Teste realizado em laboratório forense que tem a capacidade de ensaiar, testar e investigar as causas ou possíveis causas de sinistros ocorridos na construção civil.",
+    "Relatório técnico realizado pelo engenheiro responsável pela execução das obras, relatório este que deverá ficar arquivado por 5 anos como forma de garantia das execuções das obras da edificação.",
+    "Sondagem feita nas estruturas para verificação de deformação das peças estruturais, principalmente vigas, que tendem a apresentar um abatimento em sua parte central, também conhecida como flambagem.",
+    "Método para determinar a consistência e a plasticidade do concreto recém-misturado mediante a medição de abatimento sofrido por uma massa de concreto fresco, ensaiada. Também chamado de *slump test*.",
+    "Procedimento comum, dentro do campo da engenharia civil, realizado somente no ato da concretagem de peças estruturais, com o objetivo de verificar se os níveis da mistura dos materiais – cimento, brita, cal e água – estão dentro das normas técnicas brasileiras."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Método para determinar a consistência e a plasticidade do concreto recém-misturado…\":** o ensaio de abatimento do tronco de cone (*slump test*, ABNT NBR NM 67) mede a consistência do concreto **fresco**. Enche-se um molde em forma de tronco de cone em três camadas, cada uma adensada com 25 golpes de haste; retira-se o molde na vertical e mede-se quanto a massa \"abaixou\". É feito na obra, na chegada do caminhão, para conferir se o concreto tem a trabalhabilidade especificada.\n\n**As outras:**\n- *Teste realizado em laboratório forense…*: confunde com perícia; o abatimento não investiga sinistros.\n- *Relatório técnico… arquivado por 5 anos…*: não é relatório; é ensaio.\n- *Sondagem feita nas estruturas… flambagem*: a \"barriga\" de uma viga é flecha (deformação por flexão); flambagem é a instabilidade de peças comprimidas.\n- *Procedimento comum… cimento, brita, cal e água…*: o ensaio não confere proporções da mistura (e cal não é componente usual do concreto); mede só a consistência.\n\n**Para memorizar:** concreto fresco = slump (consistência); concreto endurecido = compressão de corpos de prova (resistência, fck)."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "O edifício é um abrigo contra a chuva, o sol e o vento. Por isso, pressupõe-se a existência de uma cobertura e paredes para sustentá-los; se as paredes fecham por completo o espaço interno, haverá portas e janelas. Coberturas, paredes, janelas e portas são elementos importantes de um edifício. Além de valioso como abrigo, o edifício pode ser um objeto primoroso e encantador, sendo os arquitetos responsáveis por este primor e encantamento dos edifícios construídos. Considerando a linguagem das construções de edifícios, é correto afirmar que",
+   "alternativas": [
+    "pé esquerdo são as alturas compreendidas entre as lajes da edificação.",
+    "pavimento é a divisão horizontal completa de um edifício, dotada de um piso contínuo ou quase contínuo e compreendendo o espaço entre dois níveis adjacentes. Também conhecido como piso.",
+    "pé direito é a altura compreendida do piso até a última laje somente nos lados direitos das edificações orientadas do campo de observação da via pública para o lote onde se encontra a edificação.",
+    "rufo é a parte do beiral do telhado geralmente instalado no último pavimento com o objetivo de evitar o gotejamento excessivo das águas de chuvas no pavimentos inferiores à cobertura.",
+    "entre-forro é o espaço compreendido entre o primeiro piso, que pode estar situado no pavimento térreo, até a última laje, que pode ser a laje final da edificação ou telhado que cobre a laje descoberta no último pavimento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"pavimento é a divisão horizontal completa de um edifício…\":** é a definição dos dicionários técnicos de arquitetura: pavimento (ou andar, piso) é cada nível de um edifício, com piso contínuo ou quase contínuo, mais o espaço entre ele e o nível imediatamente acima.\n\n**As outras:**\n- *pé esquerdo são as alturas compreendidas entre as lajes…*: não é termo normativo; códigos de obras usam **pé-direito** (do piso ao teto) e altura de piso a piso.\n- *pé direito é a altura… somente nos lados direitos…*: pé-direito é a distância vertical do piso ao teto (ou forro) de um ambiente, em qualquer ponto; o nome não tem nada a ver com \"lado direito\".\n- *rufo é a parte do beiral…*: rufo é a peça (em geral metálica) que arremata e veda o encontro do telhado com paredes, platibandas e chaminés; não é parte do beiral.\n- *entre-forro é o espaço compreendido entre o primeiro piso… até a última laje*: entreforro é o vão entre o forro e a laje ou o telhado logo acima dele.\n\n**Para memorizar:** pé-direito = piso ao teto do ambiente; entreforro = entre forro e laje/telhado; rufo = arremate contra infiltração.\n\nPonto discutível: em alguns glossários informais, \"pé-esquerdo\" aparece como a altura de piso a piso, o que aproximaria a primeira afirmativa da verdade; a banca a considerou errada."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Ensaio de compressão, dosagem racional, mistura plástica, mistura seca, cilindro de ensaio, ensaio de testemunho, plasticidade e consistência são palavras comuns ao vocabulário das nomenclaturas técnicas referentes ao concreto armado, presentes nas obras e projetos de todos as edificações construídas com a tecnoclogia do concreto armado que, durante séculos, foi a tipologia estrutural mais adotada e empregada em todo mundo, mas que vem perdendo espaço para o emprego das estruturas metálicas. Porém, no Brasil, se emprega em grande escala o concreto armado, que é a tecnologia estrutural mais convencional atualmente. Sobre o ensaio de compressão, é correto afirmar que é o(a)",
+   "alternativas": [
+    "seleção mais econômica e proporcional de cimento, água e agregado para produzir um concreto ou argamassa com propriedades necessárias de plasticidade, resistência e durabilidade.",
+    "Lei que postula que componentes, cura e consolidações de ensaios dados, a resistência do concreto à tração é inversamente proporcional à relação de dosagem de água, cimento, areia e brita.",
+    "procedimento de análise técnica realizada através de inspeções visuais rotineiras, com o objetivo de identificar possíveis deformações nas peças estruturais de uma edificação recém-construída.",
+    "procedimento que visa determinar a resistência à compressão de um lote de concreto mediante a utilização de um prensa hidráulica para medir a carga máxima que um cilindro de ensaio é capaz de suportar em compressão axial até se romper.",
+    "análise técnica de competência do engenheiro responsável pelos cálculos estruturais da fundação, análise esta que prevê de forma estimada as possíveis deformações das peças de fundação, acusando possíveis desníveis e desalinhamento das edificações após conclusão das obras."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"procedimento que visa determinar a resistência à compressão…\":** no ensaio de compressão (ABNT NBR 5739), corpos de prova cilíndricos moldados com o concreto da obra são curados e levados a uma prensa hidráulica, que aplica carga axial crescente até a ruptura. A carga máxima dividida pela área da seção dá a resistência à compressão, comparada ao fck do projeto (em geral aos 28 dias).\n\n**As outras:**\n- *seleção mais econômica e proporcional de cimento, água e agregado…*: é a **dosagem racional** (estudo de traço).\n- *Lei que postula… a resistência do concreto à tração é inversamente proporcional…*: é uma versão deformada da Lei de Abrams, que liga a resistência à **compressão** ao **fator água/cimento**: quanto mais água por cimento, menor a resistência.\n- *procedimento de análise técnica realizada através de inspeções visuais…*: inspeção visual não é ensaio de compressão.\n- *análise técnica… deformações das peças de fundação…*: é previsão de recalques, assunto do projeto de fundações.\n\n**Para memorizar:** o \"ensaio de testemunho\" citado no enunciado é a extração de cilindros do concreto já endurecido na estrutura, usada quando os corpos de prova moldados dão resultado ruim."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Antes de contratar os serviços de um arquiteto ou empresa de arquitetura, é necessário saber o que são plantas, perspectivas e outras especificações, como fachadas e cortes longitudinal e transversal, alguns dos muitos componentes do projeto da futura edificação. É preciso que, após o projeto arquitetônico estar no papel, todas as pessoas envolvidas possam acompanhar e tirar dúvidas durante a execução das obras de estrutura, hidráulica e elétrica. Cada projeto possui as características que a edificação terá, como escadas, portas, janelas, paredes, vigas e pilares. A apresentação gráfica está normatizada por normas técnicas brasileiras. Em relação ao projeto arquitetônico, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Planta baixa: usada para se ter uma visão de cima para baixo, onde se pode avaliar a distribuição interna de cada pavimento.",
+    "Planta de cobertura: também visualiza a casa de cima para baixo. O objetivo desta planta é apresentar a vista do telhado e do terreno.",
+    "Perspectiva: mostra ao proprietário o interior ou exterior da casa, como efeito tridimensional em vários ângulos para que o cliente tenha a sensação de estar no local.",
+    "Planta de implantação: conhecida como planta de implantação de instalações, especifica todas as instalações prediais do edificação, como instalações elétricas e hidráulicas.",
+    "Cortes: existem dois tipos – o longitudinal e o transversal. O longitudinal mostra o corte da casa, do fundo à frente, onde deve ser visto a implantação no terreno, os níveis, o telhado e a projeção das paredes. Já o transversal mostra um corte de lado a lado."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Planta de implantação…\" é a resposta:** a planta de implantação mostra a **posição da edificação dentro do terreno**: contorno do lote, recuos e afastamentos, acessos, níveis, áreas externas e orientação (norte). As instalações elétricas e hidráulicas ficam nos projetos complementares de instalações, com plantas próprias.\n\n**As outras (estão corretas):**\n- *Planta baixa…*: corte horizontal imaginário, a cerca de 1,50 m do piso, visto de cima; mostra a distribuição interna de cada pavimento.\n- *Planta de cobertura…*: vista de cima do telhado (águas, caimentos, calhas), com o terreno em volta.\n- *Perspectiva…*: representação tridimensional para o cliente visualizar o espaço.\n- *Cortes…*: o longitudinal acompanha a maior dimensão e o transversal, a menor; mostram pés-direitos, níveis, telhado e relação com o terreno.\n\n**Para memorizar:** planta de situação = lote na quadra; planta de implantação = edificação dentro do lote; planta baixa = interior de cada pavimento. A representação de projetos de arquitetura segue a ABNT NBR 6492."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Na antiguidade, a arquitetura era repleta de conceitos artísticos, as proporções eram exageradas com o objetivo de conferir poder e tamanho, como, por exemplo, as pirâmides do Egito e suas esfinges. Muitas vezes, simbologias religiosas e de crenças eram expressadas nas edificações. Com a moderna aqruitetura de nossa era, muitos destes conceitos e formas de projetos foram abandonados, em virtude das formas mais racionais e tecnológicas de construir. Em relação aos conceitos e parâmetros da arquitetura contemporânea, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Antropometria: medição e estudo do tamanho e das proporções do corpo humano.",
+    "Escala: determinado tamanho, extensão ou graduação proporcional, normalmente julgado em relação a algum padrão ou ponto de referência.",
+    "Antropomorfizar: elaborar projetos específicos individualizados personalizados para cada usuário, respeitando as formas e medidas próprias de seu corpo.",
+    "Escala humana: tamanho ou porporção de um elemento arquitetônico ou espacial, ou de uma peça de mobiliário, em relação às dimensões estruturais ou funcionais do corpo humano.",
+    "Ergonomia: ciência aplicada que trata das características humanas que devem ser consideradas no projeto de equipamentos e sistemas de modo que as pessoas possam interagir com eficácia e segurança."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Antropomorfizar…\" é a resposta:** antropomorfizar é **atribuir forma ou características humanas** a algo que não é humano: um objeto, um animal, um edifício, uma ideia. Não tem a ver com projetar sob medida para o corpo de cada usuário; o cuidado com as medidas do corpo é tema da antropometria e da ergonomia.\n\n**As outras (estão corretas):**\n- *Antropometria…*: medição e estudo do tamanho e das proporções do corpo humano.\n- *Escala…*: tamanho ou proporção julgado em relação a um padrão de referência.\n- *Escala humana…*: tamanho de um elemento ou de um móvel em relação às dimensões do corpo humano.\n- *Ergonomia…*: ciência aplicada que adapta equipamentos, postos de trabalho e sistemas às características humanas, com eficácia e segurança.\n\n**Para memorizar:** antropometria mede o corpo; ergonomia aplica essas medidas ao projeto; antropomorfismo \"dá forma humana\" a algo. Projeto sob medida para um usuário específico seria personalização, não antropomorfização."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Nas estruturas metálicas das edificações, o conjunto de muitas peças compõem todo o complexo sistema estrutural. Muitas peças são individualmente montadas a partir de peças menores que, juntas, formam peças específicas. Outras peças são forjadas para formarem peças tipo monobloco, ou corpo único, ou seja, estas peças não são o conjunto de peças menores. Sendo o conjunto de muitas peças que compõem o complexo sistema estrutural metálico, peças com nomes de vigas U, vigas I, vigas treliçadas, aba, alma e cantoneira são nomes comuns nas estruturas metálicas. Com base no exposto, é correto afirmar que",
+   "alternativas": [
+    "juntando, através de soldas múltiplas, várias chapas finas formam-se a conhecida chapa enrijecida.",
+    "chapa de coroamento é a chapa que cobre a última viga metálica no sistema estrutural metálico.",
+    "perfil H é o perfil estrutural de aço, laminado a quente, de formando semelhante a um perfil H de abas largas.",
+    "vigas treliçadas são feitas a partir de telas metálicas treliçadas que, soldadas umas sobre as outras, formam uma chapa prefurada mais resistente, possibilitando a confecção de vigas treliçadas.",
+    "viga U é a viga formada pela soldagem de algumas barras em formato da letra U. A soldagem dessas barras com esse formato possibilita uma resistência suficiente para vãos maiores que 10 m de comprimento."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"perfil H é o perfil estrutural de aço, laminado a quente…\":** os perfis H (e os I de abas largas) saem da usina por **laminação a quente**: o aço aquecido passa por cilindros até ganhar a seção em H, com duas abas (mesas) largas ligadas por uma alma. Com abas largas, resistem bem à compressão e à flambagem e são muito usados como pilares. (O \"de formando\" está como na prova.)\n\n**As outras:**\n- *juntando, através de soldas múltiplas, várias chapas finas…*: sobrepor chapas finas soldadas não define chapa enrijecida; enrijecer é dar à chapa nervuras, dobras ou enrijecedores que evitam a flambagem local.\n- *chapa de coroamento…*: não é peça usual do sistema metálico com essa função de \"cobrir a última viga\".\n- *vigas treliçadas são feitas a partir de telas metálicas…*: treliças são barras (banzos, montantes e diagonais) formando triângulos, não telas soldadas umas sobre as outras.\n- *viga U é a viga formada pela soldagem de algumas barras…*: o perfil U é laminado ou feito de chapa dobrada; o vão que vence depende do cálculo, não há regra de \"mais de 10 m\".\n\n**Para memorizar:** laminados a quente: perfis I, H, U e cantoneiras de catálogo; dobrados a frio: perfis leves de chapa fina (como os do steel frame); soldados: perfis montados com chapas."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "A história da arquitetura documenta, através de suas literaturas históricas, estilos e escolas arquitetônicas predominantes em determinadas épocas e locais no mundo. No entanto, a história da arquitetura não se limita somente a estilos e escolas em suas formas estéticas e visuais, mas também nas tecnologias construídas, características de cada época, em função da tecnologia disponível naquele tempo. Os registros mais antigos de obras de contenção apontam para muros de alvenaria de argila contendo aterros na região sul da Mesopotâmia construídos por sumerianos entre 3.200 e 2.800 a.C.. Obras construídas com tecnologia da arquitetura moderna começaram a surgir apenas no início do século XVIII, com os arquitetos franceses, devido à necessidade da construção de fortificações militares em vários locais, terrenos e continentes da Terra. A moderna arquitetura chama de contenção todo elemento ou estrutura destinado a contrapor-se a empuxos ou tensões geradas em maciço, cuja condição foi alterada por algum tipo de escavação, corte ou aterro. Em relação à arquitetura moderna, assinale a alternativa cujo elemento pode ser empregado em outras obras, que não sejam especificamente obras de contenções e arrimos.",
+   "alternativas": [
+    "Cortinas: contenções ancoradas ou apoiadas em outras estruturas.",
+    "Muros: estruturas corridas constituídas de parede vertical ou quase vertical apoiada numa fundação rasa ou profunda. Podem ser construídos em alvenaria, concreto simples ou armado.",
+    "Reforços do terreno: construções em que um ou mais elementos são introduzidos no solo com a finalidade de aumentar a resistência para que possam suportar as tensões geradas por um desnível abrupto.",
+    "*Crib-walls*: construídas montando-se peças pré-moldadas das fogueiras, no próprio local e enchendo os espaços centrais, de preferência, com material granular graúdo (brita grossa ou brita de mão). São estruturas capazes de se acomodar a recalques das fundações e funcionam como arrimos de gravidade.",
+    "Blocos de fundação: elementos de apoio construídos de concreto simples e caracterizados por uma altura relativamente grande, necessária para que trabalhem essencialmente à compressão. Geralmente, os blocos assumem a forma de um bloco escalonado, ou pedestal, ou de um tronco de cone. A altura de um bloco é calculada de tal forma que as tensões de tração atuantes no concreto, possam ser absorvidas pelo mesmo, sem necessidade de armar o piso da base."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Blocos de fundação…\":** o enunciado pede o elemento que **não é exclusivo** de contenções e arrimos. Bloco de fundação é fundação superficial (rasa) de concreto simples, alto o bastante para que as tensões de tração sejam resistidas pelo próprio concreto, sem armadura. Ele recebe a carga de pilares de qualquer tipo de edificação, por isso aparece em obras de todo tipo.\n\n**As outras (são típicas de contenção):**\n- *Cortinas…*: paredes de contenção ancoradas (tirantes) ou apoiadas em outras estruturas.\n- *Muros…*: muros de arrimo, de gravidade ou de flexão, em alvenaria ou concreto.\n- *Reforços do terreno…*: elementos introduzidos no maciço (como no solo grampeado) para ele resistir ao desnível.\n- *Crib-walls…*: \"fogueiras\" de peças pré-moldadas preenchidas com material granular; funcionam como muro de gravidade e aceitam recalques.\n\n**Para memorizar:** bloco (concreto simples, alto, sem armadura) × sapata (concreto armado, mais baixa e larga): as duas são fundações rasas. Quem segura terra são cortinas, muros, crib-walls e solo reforçado."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Abrigos ou caixas de incêndio dos sistemas sob comando são compartimentos embutidos ou aparentes fixados nas paredes ou pilares, dotados de porta, destinados unicamente para armazenar e proteger contra intempéries, vandalismo, furto e danos diversos, sendo ainda muito comuns as tomadas de incêndio e os demais equipamentos, como mangueiras de hidrantes, carretéis com mangotinhos, esguichos etc., usados no combate a incêndios. Originalmente, o abrigo de incêndio se destinava somente para guardar as mangueiras de hidratantes e demais acessórios, como o(s) esguichos(s) e a chave de mangueiras de hidrantes, já que a tomada de água de incêndio como a válvula angular ficava do lado de fora. Hoje, principalmente por questões de arquitetura do interior dos ambientes e de acabamento, a válvula angular do hidrante e a botoeira de acionamento da bomba de reforço também podem ser instaladas no interior do abrigo, junto com os demais equipamentos, desde que a acessibilidade para colocar o sistema em operação esteja garantida. Segundo as características construtivas dos abrigos, a norma NBR 13.714:2011 – Revisão e a IT 22:2011, os abrigos NÃO devem",
+   "alternativas": [
+    "ter fechamento por meio de cadeado. Quando se usar cadeado, as chaves devem permanecer somente com o chefe da brigada de incêndios ou com o síndico do condomínio, devido à abertura indevida ou pessoa não preparada para manusear os dispositivos de combate a incêndio.",
+    "quando instalados em paredes com revestimento aplicado, o abrigo pode ser revestido com o mesmo material, desde que seja incombustível ou resistente ao fogo através de tratamento com produtos ignifugantes ou retardantes, e atenda aos demais requisitos de dimensões, acesso etc.",
+    "ser embutidos nas paredes de corredores e saguões que constituem saídas de emergência, pois em caso de incêndio são obstáculos à passagem das pessoas durante a desocupação da edificação e, certamente, no projeto arquitetônico, estes obstáculos não estavam previstos originalmente na largura efetiva dos corredores.",
+    "ter portas que podem ser de material transparente, metálicas ou de fibras sintéticas. Quando metálicas ou de fibras sintéticas, devem ter amplo visor de vidro, com a palavra “incêndio” em cor contrastante. A porta do abrigo também pode ser lacrada para prevenir abertura indevida, desde que o lacre seja de fácil rompimento manual ou exista a possibilidade de alerta por monitoramento remoto.",
+    "ser confeccionados em alvenaria, concreto armado, materiais metálicos, fibras sintéticas ou vidro laminado, ou de outro material a critério do projetista, desde que atendam aos demais requisitos. O abrigo é apenas um abrigo. Na prática, recomenda-se que os materiais componentes dos abrigos de incêndio sejam incombustíveis para resistir melhor ao calor e ao fogo, e proteger por mais tempo a mangueira de hidrante ou mangotinho e demais acessórios."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"ter fechamento por meio de cadeado…\" é a resposta:** o abrigo de mangueiras tem de ser aberto por qualquer pessoa, na hora, sem depender de quem guarda a chave. Trancar com cadeado e deixar a chave com o chefe da brigada ou com o síndico atrasa o primeiro combate, justamente quando o fogo é mais fácil de controlar. Para evitar abertura indevida, a solução aceita é o **lacre de fácil rompimento manual** ou o monitoramento remoto, como descreve a afirmativa sobre as portas.\n\n**As outras (são permitidas):**\n- *quando instalados em paredes com revestimento aplicado…*: o abrigo pode receber o mesmo revestimento, se incombustível ou tratado contra o fogo, mantendo dimensões e acesso.\n- *ser embutidos nas paredes de corredores e saguões…*: o abrigo **embutido** é justamente o que não invade a largura da rota de fuga; o problema de obstáculo é do abrigo sobreposto (aparente).\n- *ter portas que podem ser de material transparente…*: descreve as portas aceitas (visor, palavra \"incêndio\", lacre de fácil rompimento).\n- *ser confeccionados em alvenaria, concreto armado…*: o material é livre se atender aos demais requisitos; recomenda-se material incombustível.\n\n**Para memorizar:** equipamento de combate a incêndio fica visível, sinalizado, desobstruído e sem chave."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Os hidrantes ou dispositivos de recalque têm a função de abastecer os hidrantes e mangotinhos da edificação, depois de esgotada a reserva técnica de incêndio, através do recalque de água do autobomba-tanque do Corpo de Bombeiros. Com isso, os bombeiros poderão utilizar as mangueiras do pavimento onde está ocorrendo o incêndio, e dos mais próximos, com mais rapidez para o contínuo combate ao fogo, enquanto arma outros montantes de linhas de mangueiras com caminhamento pela escadaria de edificação, quando possível. A coluna de incêndio deve ser prolongada até um ponto à frente da edificação ou no passeio, com uma canalização de diâmetro que pode ter um mínimo de 50 mm até 100 mm, de acordo com o tipo de sistema adotado na edificação, onde é instalado um hidrante, ou um dispositivo de recalque ou de passeio, com engate compatível com o utilizado pelo Corpo de Bombeiros do local, ou seja, de 65 mm. O prolongamento da canalização do hidrante de recalque deve ter o diâmetro igual ou superior ao da coluna de incêndio do sistema. Acerca do hidrante ou dispositivo de recalque, é correto afirmar que",
+   "alternativas": [
+    "preferencialmente, devem ser instalados nos jardins das edificações de forma que sejam preservados de vandalismos e depredação de pedestres.",
+    "obrigatoriamente, conforme norma técnica, devem ser pintados na cor vermelha e instados sobre plataforma elevada entre 60 cm a 1,00 m de forma a atender as exigências ergonômicas, funcionais e de rápida instalação para combater os incêndios.",
+    "qualquer lugar pode receber as instalações de hidrante ou dispositivos de recalque, pois o Corpo de Bombeiros está completamente treinado e inteirado com os sistemas de combate contra incêndios, caso encontre algum obstáculo de acesso, consegue facilmente transpor tais obstáculos.",
+    "deve ser instalado em local perfeitamente visível, acessível e o mais próximo possível da rua, para que o Corpo de Bombeiros possa instalar seus equipamentos e linhas de mangueiras e chegar ao local do incêndio sem a interferência de muros, grades ou outros obstáculos.",
+    "conforme norma técnica, a localização de hidrante ou dispositivo de recalque deverá ser instalado em área quadrada mínima de 9,00 m² livres de obstáculos ao redor de área, para que o Corpo de Bombeiros possa instalar seus equipamentos e linhas de mangueiras, mesmo que, para se chegar a estes locais, ainda existam grades, muros, jardineiras ou outros elementos de obstáculos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"deve ser instalado em local perfeitamente visível, acessível e o mais próximo possível da rua…\":** o hidrante de recalque é a \"tomada de entrada\" pela qual a viatura do Corpo de Bombeiros bombeia água para dentro da rede de hidrantes do prédio. Por isso ele fica junto à via de acesso das viaturas (no passeio ou na fachada), visível, sinalizado e sem muros, grades ou outros obstáculos entre a rua e o engate.\n\n**As outras:**\n- *preferencialmente, devem ser instalados nos jardins…*: escondê-lo em jardim dificulta o acesso; a prioridade é a chegada rápida da viatura, não a proteção contra vandalismo.\n- *obrigatoriamente… pintados na cor vermelha e instados sobre plataforma elevada…*: a plataforma elevada é invenção; o recalque fica no passeio ou na fachada, ao alcance do bombeiro.\n- *qualquer lugar pode receber as instalações…*: a localização é definida em projeto e tem de ser desobstruída; tempo perdido com obstáculo custa o combate.\n- *conforme norma técnica… área quadrada mínima de 9,00 m²…*: inventa uma área mínima e aceita obstáculos no caminho, o contrário do exigido.\n\n**Para memorizar:** recalque = na frente do prédio, visível e livre. Em estabelecimentos de saúde, a RDC 50/2002 (Parte III, item 8.1, A.1) exige vias de aproximação das viaturas de bombeiros com largura mínima de 3,20 m e altura livre de 5,00 m."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Atualmente, as aglomerações urbanas são cada vez maiores, exigindo edificações com grandes áreas e/ou alturas altamente concentradas, com o consequente aumento do perigo de propagação do fogo com a geração de grandes incêndios. As atividades industriais são, geralmente, exercidas em edificações de grandes áreas e as comerciais podem ter grandes áreas e alturas, muitas vezes com revestimento e produtos altamente combustíveis e com grandes concentrações humanas. Quando ocorrer um incêndio numa edificação deste porte, pode-se ter uma grande tragédia se ela não for projetada com sistemas de proteção adequados, tanto preventivos quanto de combate ao fogo. Quando se analisa um sistema de proteção contra o fogo, vários fatores devem ser levados em consideração: perdas econômicas, redução ou paralisação total das atividades comerciais ou industriais e, principalmente, as perdas de vidas humanas, que é o fator mais importante no contexto da análise. Desta forma, os efeitos de um incêndio sempre devem ser quantificados sob os pontos de vista da perda de vidas humanas e da distribuição de bens e seus efeitos adversos, e, muitas vezes, permanentes sobre as famílias, os negócios, os proprietários, os inquilinos e os empregados, e que pode se estender sobre toda uma coletividade. Então, essas edificações devem ter proteção contra o fogo, tanto de forma prevenida, que deve constar no projeto arquitetônico e de seus complementares as medidas necessárias para evitar o fogo ou, então, confiná-lo de uma forma adequada, ou de medidas ativas ou de combate ao fogo já instalado em equipamentos que sejam eficientes e acionados de forma automática, sem a interferência humana. Estas instalações de combate ao fogo já devem ser previstas e projetadas de forma simultânea com os demais projetos de edificações.\n\nAtualmente, o sistema mais indicado é sistema de chuveiros automáticos, sobre o qual é correto afirmar que",
+   "alternativas": [
+    "são dispositivos com elemento termossensível, projetados para serem acionados em faixas de temperaturas pré-determinadas, lançando automaticamente água sob forma de aspersão sobre determinada área de cobertura, com vazão e pressão mínimas especificadas por norma, para controlar ou extinguir um foco de fogo.",
+    "após o alarme de incêndios na edificação, o sistema reconhece automaticamente o alerta sonoro de incêndio, através de sensores acústicos que identificam exatamente o tipo de alarme. Este sensor acústico que identifica o alarme é o dispositivo que dispara o acionamento dos chuveiros que fazem a aspersão de águas sobre as primeiras chamas do incêndio.",
+    "quando confirmado o incêndio pela presença de algum soldado do Corpo de Bombeiros no local, este possui treinamento específico para acionar o sistema de combate ao incêndio. Sendo o sistema o de chuveiros automáticos, este identifica automaticamente onde se encontram os focos de chamas e dispara somente os chuveiros necessários ao combate do fogo.",
+    "fica integrado ao sistema de telefonia do Corpo de Bombeiros, que, por sua vez, podem acionar de forma automática e remotamente por telefone os sistemas automáticos de chuveiros, que liberam água através de aspersão para o combate e controle de chamas que podem provocar o incêndio irreversível de forma incontrolável.",
+    "é um sistema de última geração completamente digital, integrado em uma central de inteligência artificial, e dotado de sensores térmicos em pontos estratégicos na edificação. Estes sensores, quando identificam temperaturas elevadas acimam do normal, em faixas de temperaturas pré-determinadas por normas, aciona o funcionamento destes chuveiros nos locais acusados pelos sensores, fazendo o retardamento, prevenção e combate nas fases iniciais do incêndio."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"são dispositivos com elemento termossensível…\":** o chuveiro automático (*sprinkler*) é fechado por um **elemento termossensível**, uma ampola de vidro com líquido ou um elo fusível, que se rompe numa faixa de temperatura definida. Ao romper, só aquele chuveiro abre e lança água em aspersão sobre sua área de cobertura, com vazão e pressão mínimas de norma (ABNT NBR 10897), para controlar ou extinguir o fogo. Não precisa de alarme, central eletrônica nem pessoa: o calor do próprio fogo o aciona.\n\n**As outras:**\n- *após o alarme de incêndios… sensores acústicos…*: o chuveiro não \"escuta\" alarme; reage ao calor no próprio elemento.\n- *quando confirmado o incêndio pela presença de algum soldado…*: o sistema é automático, não depende de bombeiro no local.\n- *fica integrado ao sistema de telefonia do Corpo de Bombeiros…*: não existe acionamento remoto por telefone.\n- *é um sistema de última geração completamente digital…*: o sprinkler comum é mecânico e independe de central ou de sensores eletrônicos.\n\n**Para memorizar:** cada chuveiro é seu próprio detector: abre só onde o calor chega, e o dano por água fica limitado à área do fogo. A cor do líquido da ampola indica a temperatura de acionamento (vermelha, 68 °C, é a mais comum)."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Nas instalações hidráulicas de combate a incêndio nas edificações, os reservatórios devem ser projetados para locais de fácil acesso, que permitam a inspeção de todas as paredes laterais, da cobertura e do fundo, inclusive do seu interior, divididos em duas células ou volumes independentes, de tal forma que permita a limpeza e manutenção sem interrupção total do suprimento de água. Os reservatórios com a reserva técnica de incêndio conjugados os com volumes de água para outras finalidades, como água para consumo, por exemplo, se forem de concreto armado sempre devem ser divididos em duas células com instalações completamente independentes, ou se forem de fibra ou metal devem ser dois reservatórios de mesmos tamanhos, cada um deles correspondendo a uma célula. Para suprir a necessidade de água no combate a incêndio, outros reservatórios podem ser utilizados como outras alternativas, além dos reservatórios construídos e/ou instalados nas edificações. Assinale a alternativa que NÃO pode ser um reservatório de águas para o combate de incêndios nas edificações.",
+   "alternativas": [
+    "Poço artesiano.",
+    "Tanque de pressão.",
+    "Reservatórios naturais, como: rios, açudes, lagos ou piscinas.",
+    "Reservatórios elevados ou superiores: em torre isolada de edificação (castelo de água) e/ou no topo da edificação.",
+    "Reservatórios térreos, inferiores ou de sucção: Com o fundo acima do nível do solo, com fundo no nível do solo; semienterrados e subterrâneos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Poço artesiano\" é a resposta:** reserva técnica de incêndio é um **volume de água armazenado e sempre disponível**. O poço artesiano é uma fonte de captação: a vazão depende do aquífero e de bombeamento, e não há volume garantido na hora do incêndio. Por isso a banca não o aceita como reservatório de incêndio; ele pode, no máximo, abastecer um reservatório.\n\n**As outras (podem ser reservatórios):**\n- *Tanque de pressão*: reservatório pressurizado, que guarda um volume de água sob pressão.\n- *Reservatórios naturais, como: rios, açudes, lagos ou piscinas*: servem de fonte se garantirem o volume e tiverem captação adequada para as bombas.\n- *Reservatórios elevados ou superiores…*: castelo d'água ou caixa no topo do prédio, alimentando a rede por gravidade.\n- *Reservatórios térreos, inferiores ou de sucção…*: no nível do solo, semienterrados ou subterrâneos, com bombas de incêndio.\n\n**Para memorizar:** a reserva de incêndio não pode ser gasta no uso diário: no reservatório conjugado, a saída de consumo fica acima do volume de incêndio. Em hospitais, a RDC 50/2002 (Parte III, item 7.1.1) exige que a reserva de água fria tenha autonomia mínima de dois dias e que o reservatório tenha ao menos dois compartimentos, para limpeza e manutenção sem cortar o abastecimento."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Concreto armado é uma tecnologia estrutural utilizada na construção civil, tornando-se abrangentemente aplicada em construções de grandes portes até edificações de casas populares em quase todos os países. Muitas edificações podem apresentam de forma muito visível e perceptível os efeitos dos esforços aplicados nas estruturas de concreto armado. Considerando os efeitos nas estruturas de concreto armado, assinale a afirmativa correta.",
+   "alternativas": [
+    "Deformação: peças que se deformam sem se romper, podem ser indesejáveis, como, por exemplo, a flecha exagerada de uma laje.",
+    "Cura: manchas enferrujadas nas superfícies das lajes ocorridas pelo excesso de água na mistura dos componentes da dosagem do concreto.",
+    "Estrondamento: desagregação de pedaços que descobrem as armaduras das peças estruturais, permitindo a oxidação das ferragens destas peças.",
+    "Flambagem: peças como pilares nunca sofrem flambagem, que é uma deformação caracterizada por desvio vertical sutil, mas que pode ser percebido visualmente.",
+    "Vibração: peças sofrendo tração nunca vibram como certas peças leves de alumínio com a ação do vento. Em instrumentos musicais, a vibração pode ser o objetivo, como as cordas de um violão. Na construção civil, mesmo construindo lajes pouco espessas, não acontecem vibrações com a passagem de pessoas ou cargas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Deformação: peças que se deformam sem se romper…\":** toda peça carregada se deforma; o problema é a deformação excessiva. A flecha exagerada de uma laje ou viga (a \"barriga\") é deformação sem ruptura que pode trincar paredes, empoçar água e incomodar o usuário. Por isso a ABNT NBR 6118 limita as flechas no estado-limite de serviço de deformações excessivas.\n\n**As outras:**\n- *Cura…*: cura é manter o concreto úmido nos primeiros dias para o cimento hidratar; manchas de ferrugem indicam corrosão da armadura.\n- *Estrondamento…*: a perda de pedaços que deixa a armadura à vista é o desplacamento (ou destacamento) do cobrimento; \"estrondamento\" não é o nome técnico desse fenômeno.\n- *Flambagem: peças como pilares nunca sofrem flambagem…*: pilares esbeltos são justamente as peças mais sujeitas a ela (perda de estabilidade por compressão, com curvatura lateral).\n- *Vibração: peças sofrendo tração nunca vibram…*: cabos tracionados vibram, e lajes esbeltas podem vibrar com a passagem de pessoas; a NBR 6118 tem até um estado-limite de vibrações excessivas.\n\n**Para memorizar:** flecha = deformação de peça fletida (viga, laje); flambagem = instabilidade de peça comprimida (pilar); cura = umidade no concreto novo."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Existem tipologias estruturais conhecidas como concreto armado convencional, concreto protendido, concreto pré-moldado, estruturas metálicas e estruturas de madeira. Nas estruturas convencionais de concreto armado alguns esforços ocorrem. Estes esforços podem ser chamados de solicitações estruturais. Sobre os tipos de esforços ou solicitações mais comuns, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Tração: ocorre tração numa estrutura quando suas partes sofrem estiramento, afastamento. Uma corda sofre tração quando é esticada.",
+    "Compressão: ocorre compressão numa estrutura quando suas partes sofrem encurtamento, aproximação. Um pilar sofre compressão quando em trabalho.",
+    "Flexão: ocorre flexão (dobramento) quando numa estrutura agem forças distribuídas longitudinalmente ao longo do eixo e forçam a estrutura a sofrer dobramento (flexão).",
+    "Cisalhamento: acontece cisalhamento quando o concreto fica deteriorado, apresentando fissuras, rachaduras e/ou soltando “escamas” na superfície das peças estruturais, como lajes, vias e pilares, resultante de esforços excessivos de tração ou compreensão.",
+    "Torção: ocorre torção (girar em torno do eixo) quando numa estrutura agem forças impelindo a estrutura a girar em torno do seu eixo de simetria. Escadas helicoidais têm torção. A famosa e linda passarela (rampa) do Palácio das Indústrias no Parque Ibirapuera, projeto de Oscar *Niemeyer*, sofre torção e flexão."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Cisalhamento: acontece cisalhamento quando o concreto fica deteriorado…\" é a resposta:** cisalhamento é um **esforço**, não uma deterioração. Ele aparece quando forças paralelas à seção tendem a fazer uma parte da peça deslizar em relação à vizinha, como a tesoura que corta papel. Nas vigas de concreto armado, o esforço cortante é maior perto dos apoios e é resistido pelos estribos; quando excessivo, gera fissuras inclinadas. Fissuras e \"escamas\" são sintomas de patologias, não a definição do esforço.\n\n**As outras (estão corretas):**\n- *Tração…*: as partes tendem a se afastar (corda esticada, tirante).\n- *Compressão…*: as partes tendem a se aproximar (pilar).\n- *Flexão…*: as cargas ao longo do vão fazem a peça curvar, com uma face comprimida e a outra tracionada (vigas e lajes).\n- *Torção…*: forças que fazem a peça girar em torno do próprio eixo (escadas helicoidais, rampas curvas).\n\n**Para memorizar:** os esforços simples são tração, compressão, flexão, cisalhamento (corte) e torção. No concreto armado, o concreto resiste à compressão e o aço resolve a tração."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Todas as estruturas de concreto armado são passivas de sofrerem agressões provenientes das intempérieis da natureza e da poluição causada pelas atividades humanas. A armadura do concreto não deve estar exposta ao ambiente, pois pode sofrer oxidação pela umidade do ar. A melhor forma de impedir a exposição e a oxidação é protegê-la com uma camada de concreto, denominada cobrimento. Para garantir este cobrimento, deve usar pastilhas de concreto ou peças plásticas que afastam a armadura das formas durante a concretagem, garantindo, assim, um cobrimento mínimo necessário. Em função do ambiente, com maior ou menor potencial agressivo, espessuras mínimas deverão ser previstas para os cobrimentos das armaduras. Segundo normas brasileiras, existem 4 classes de agressividade – classes I, II, III e IV –, que representam, gradualmente, as seguintes agressividades fraca, moderada, forte e muito forte. Para cada classe de agressividade, as normas irão prever um cobrimento mínimo para cada peça estrutural, como lajes, vigas e pilares. Com base no exposto, assinale a afirmativa correta.",
+   "alternativas": [
+    "As vigas deverão ter cobrimento mínimo de 15 mm de espessura para ambientes com classe de agressividade IV.",
+    "Todas as peças estruturais como lajes, vigas e pilares deverão ter cobrimento mínimo de 15 mm para classe de agressividade IV.",
+    "Considerando a classe de agressividade III para as lajes não são necessários nenhum cobrimento mínimo, sendo permitido por norma o cobrimento de 15 mm.",
+    "Em áreas rurais, o risco de deterioração é insignificante, com agressividade fraca. A norma brasileira considera como classe de agressividade I, a classe de agressividade ambiental em áreas rurais.",
+    "O risco de deterioração é muito elevado para edificações em áreas industriais ou em áreas com respingos de marés, com isto, a agressividade é muito forte, considerada como classe IV de agressividade ambiental. Para esta classe de agressividade IV, os pilares das edificações devem ter cobrimento mínimo de 30 mm."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Em áreas rurais, o risco de deterioração é insignificante…\":** pela ABNT NBR 6118 (Tabela 6.1), a classe de agressividade ambiental **I (fraca)** corresponde a ambientes **rurais** ou submersos, com risco de deterioração **insignificante**. A II (moderada) é urbana, risco pequeno; a III (forte), marinha ou industrial, risco grande; a IV (muito forte), industrial ou com respingos de maré, risco elevado.\n\n**As outras:**\n- *As vigas deverão ter cobrimento mínimo de 15 mm… classe de agressividade IV*: na classe IV, o cobrimento nominal de vigas e pilares de concreto armado é **50 mm** (Tabela 7.2).\n- *Todas as peças estruturais… 15 mm para classe de agressividade IV*: na classe IV são 45 mm em lajes e 50 mm em vigas e pilares.\n- *Considerando a classe de agressividade III para as lajes não são necessários…*: toda peça tem cobrimento; na classe III, lajes pedem 35 mm.\n- *O risco de deterioração é muito elevado… pilares… 30 mm*: a descrição da classe IV está certa, mas o cobrimento de pilares é 50 mm, não 30.\n\n**Para memorizar:** cobrimento nominal do concreto armado (laje / viga e pilar): classe I 20/25; II 25/30; III 35/40; IV 45/50 mm."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "A sondagem é uma técnica que detecta as características do solo, revelando as suas condições no que se refere à disposição, à natureza e à espessura das camadas, além de possibilitar a descrição das características e nível de água. Nos terrenos, a sondagem é utilizada para detectar a capacidade que os diferentes tipos de solo têm para suportar o peso da casa. É através da análise da terra que se descobre a firmeza e o tipo do solo. A participação de uma pessoa especializada é fundamental para que se possa detectar os tipos de solo, não pela coloração, que pode variar de acordo com a ação e exposição do tempo, mas pela análise completa. Normalmente, são utilizados dois grupos de exploração de solo: a retirada de amostras e os ensaios locais. As amostras funcionam com a abertura de poços de exploração, enquanto os ensaios são as técnicas de bombeamento, palheta, medida de pressão, prova de carga, medida de recalque e ensaios geofísicos. Normalmente, as amostras de solo servem para distinguir dois tipos: as deformadas (para identificação e classificação) e as indeformadas (para determinar as propriedades físicas e mecânicas). Em relação às técnicas utilizadas para o reconhecimento do solo, que consistem nas análises dos tipos de solo, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Rotativa: consiste no reconhecimento de solos duros e com rochas.",
+    "*Deep Sound*: diferente dos outros, caracteriza-se pela cavação contínua através de um penetrômetro, montado em cima de um caminhão, que avalia somente a resistência do solo aos golpes.",
+    "Exploração: este método de abertura de poços é o que traz resultados mais garantidos, pois nele o consultor de fundação desce no poço e faz uma vistoria do que foi avaliado na etapa do reconhecimento do solo.",
+    "Percussão: realizadas amostras através da utilização de um barrilete amostrador que vai medir a resistência do solo à penetração, pelo número de golpes. O barrilete pesa 65 kg e é colocado a 75 cm de altura, sendo que serão feitas 3 penetrações de 15 cm cada, até que totalize 45 cm do solo e se retire uma amostra.",
+    "Entrevista de campo: consiste em entrevistar pessoas e moradores da localidade da obra, com o objetivo de levantar através de relatos os testemunhos das características do solo onde se realizará o lançamento das fundações. Este método é completamente seguro pois possibilita ao responsável técnico estimar as resistências específica pelo características dos solos relatados."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Entrevista de campo…\" é a resposta:** relato de moradores não é método de investigação geotécnica e não permite estimar a resistência do solo com segurança. O reconhecimento do subsolo exige sondagens e ensaios feitos por profissional habilitado; a mais comum no Brasil é a sondagem a percussão com SPT (ABNT NBR 6484). Informação de vizinhos serve, no máximo, como dado preliminar.\n\n**As outras (a banca considerou corretas):**\n- *Rotativa…*: usa coroa diamantada para atravessar rocha e materiais muito duros, extraindo testemunhos.\n- *Deep Sound…*: o ensaio de cone (*deep sounding*, CPT) crava continuamente um penetrômetro, em geral montado em caminhão.\n- *Exploração…*: poços e trincheiras permitem ver as camadas e retirar amostras indeformadas.\n- *Percussão…*: o SPT mede a resistência à penetração pelo número de golpes, em três trechos de 15 cm (45 cm).\n\n**Para memorizar:** no SPT, um martelo de 65 kg cai de 75 cm sobre a haste; o índice N é o número de golpes para cravar os últimos 30 cm do amostrador.\n\nPonto discutível: quem pesa 65 kg é o martelo, não o \"barrilete\", e o CPT é cravado por pressão estática, não por golpes. A banca ignorou essas imprecisões."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "O telhado das edificações tem como função principal fazer a devida proteção contra chuvas, ventos, sol, neve e granizo, fornecendo perfeita cobertura contra todas as intempéries da natureza, permitindo, assim, que humanos possam se abrigar nas edificações. Além de fornecer proteção e cobertura, os telhados podem ser elementos que compõem o partido, a volumetria e a forma final das obras arquitetônicas. É indispensável que o arquiteto, além de saber projetar telhado, conheça os devidos nomes de peças e elementos que compõem os telhados. Diante do exposto, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Beiral: bordo inferior de um telhado que se prolonga para além da parede.",
+    "Calha: canal no beiral ou no telhado, destinado à captação de águas provenientes das chuvas.",
+    "Cumeeira: linha horizontal de interseção entre dois planos inclinados de um telhado no topo deste.",
+    "Rincão: interseção entre duas superfícies inclinadas de um telhado, para onde correm as águas pluviais.",
+    "Espigão: tubulação instalada verticalmente para dar escoamento das águas pluviais coletadas pelas calhas."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Espigão: tubulação instalada verticalmente…\" é a resposta:** espigão é a **aresta inclinada saliente** formada pelo encontro de duas águas do telhado; funciona como divisor, e a água escorre para os dois lados dele. O tubo vertical que leva a água das calhas até o chão é o **condutor vertical** (ou tubo de queda).\n\n**As outras (estão corretas):**\n- *Beiral…*: prolongamento do telhado além da parede, que protege a fachada da chuva.\n- *Calha…*: canal que recolhe a água da chuva no beiral ou entre águas.\n- *Cumeeira…*: aresta horizontal mais alta, no encontro de duas águas.\n- *Rincão…*: aresta inclinada reentrante, onde duas águas se encontram e a água converge (também chamada água-furtada).\n\n**Para memorizar:** cumeeira = topo horizontal; espigão = aresta inclinada que **divide** a água; rincão = aresta inclinada que **junta** a água; condutor = tubo vertical."
+  },
+  {
+   "id": "idecan-2014-ebserh-arquitetura-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "No processo de projetação contemporâneo, a criação das formas em arquitetura é gerada pelo:\n\nI. método inovativo, definido como um procedimento através do qual se tenta resolver um problema sem precedentes ou um problema bem conhecido de maneira diferente;\n\nII. método da tábula rasa definido como um procedimento onde se abandonam aprioristicamente os processos projetuais de modo a se criar sem a limitação de preconceitos;\n\nIII. método mimético definido como um procedimento a partir do qual se geram novos artefatos arquitetônicos através da imitação de modelos existentes;\n\nIV. método normativo definido como o procedimento a partir do qual as formas arquitetônicas são criadas com o auxílio de normas estéticas, isto é, princípios reguladores.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I, III e IV.",
+    "II e III.",
+    "I e IV.",
+    "I, II e III.",
+    "II, III e IV."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, III e IV\":** a classificação é de Edson Mahfuz (*Ensaio sobre a razão compositiva*, 1995), que descreve **quatro** métodos de geração da forma: **inovativo** (resolver um problema sem precedentes, ou um problema conhecido de modo diferente), **tipológico** (partir de tipos já consagrados), **mimético** (imitar modelos existentes) e **normativo** (criar com o auxílio de normas estéticas, princípios reguladores como malhas e sistemas de proporção). As afirmativas I, III e IV reproduzem três deles. A II está errada: \"tábula rasa\", criar abandonando de antemão todo processo de projeto, não é um dos métodos; para Mahfuz, até o método inovativo se apoia em analogias.\n\n**As outras:**\n- *II e III.*: inclui a II e deixa de fora a I e a IV.\n- *I e IV.*: deixa de fora o método mimético (III).\n- *I, II e III.*: troca o normativo (IV) pela tábula rasa.\n- *II, III e IV.*: troca o inovativo (I) pela tábula rasa.\n\n**Para memorizar:** Mahfuz = quatro métodos: inovativo, tipológico, mimético e normativo. Nenhum deles parte do zero absoluto."
+  }
+ ]
+}

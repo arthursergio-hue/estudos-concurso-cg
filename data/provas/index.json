@@ -207,5 +207,16 @@
   "arquivo": "data/provas/idecan-2021-cg-guarda-municipal.json",
   "nQuestoes": 60,
   "duracaoMin": 240
+ },
+ {
+  "id": "idecan-2014-ebserh-arquitetura",
+  "titulo": "Analista Administrativo – Arquitetura — EBSERH (HC-UFPE)",
+  "banca": "IDECAN",
+  "ano": 2014,
+  "orgao": "EBSERH – Hospital das Clínicas da UFPE",
+  "cargo": "Analista Administrativo – Arquitetura",
+  "arquivo": "data/provas/idecan-2014-ebserh-arquitetura.json",
+  "nQuestoes": 50,
+  "duracaoMin": 240
  }
 ]
