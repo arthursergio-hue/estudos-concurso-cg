@@ -1,0 +1,1069 @@
+{
+ "id": "idecan-2023-maracanau-fiscal-sanitario",
+ "titulo": "Fiscal Sanitário — Prefeitura de Maracanaú/CE",
+ "banca": "IDECAN",
+ "ano": 2023,
+ "orgao": "Prefeitura de Maracanaú/CE",
+ "cargo": "Fiscal Sanitário",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2023-prefeitura-de-maracanau-ce-fiscal-sanitario",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto para as questões de 1 a 10 · Quando o corpo fala",
+   "fonte": "Martha Medeiros, Doidas e Santas.",
+   "numerarLinhas": true,
+   "conteudo": "\tNunca tinha escutado o nome de Louise L. Hay, que, pelo que eu soube, é uma psicóloga americana com vários livros\npublicados e traduzidos para diversos idiomas, inclusive para o português.\n\tEla diz que todas as doenças que temos são criadas por nós. Pô, Louise. Como assim, “criadas”? Fosse simples desse\njeito, bastaria a força da mente para evitar que o vírus da gripe infectasse o ser humano.\n\tPorém, se não levarmos tudo o que ela diz ao pé da letra, se abstrairmos certos exageros, vamos chegar a um senso\ncomum: nós realmente facilitamos certas invasões ao nosso corpo. É o que se chama somatizar, ou seja, é quando uma dor\npsíquica pode se manifestar fisicamente. Muitas vezes acontece, sim.\n\tPor que não tentar?\n\tLouise L. Hay acredita tanto, mas tanto nisso, que chegou a fazer uma lista de doenças e suas prováveis causas.\nExemplo: apendicite vem do medo. Asma, de choro contido. Câncer, de mágoas mantidas por muito tempo. Derrame, da\nrejeição à vida. Dor de cabeça vem da autocrítica. Gastrite, de incertezas profundas. Hemorroidas vem do medo de prazos\ndeterminados e raiva do passado. A insônia vem da culpa. Os nódulos, do ego ferido. Sinusite é irritação com pessoa próxima.\n\tEu sei e os leitores também sabem que não é bem assim, que isso é uma generalização e que há vários outros\nfatores em jogo, mas não custa prestarmos atenção na interferência que nossos sentimentos têm sobre nosso corpo, assim\npoderemos ajudar no tratamento sendo menos tensos e angustiados.\n\tPara quem é 100% cético, tudo isso é balela. Já fui desse modo. Tempos atrás, não daria a mínima para as afirmações\nde Louise L. Hay. Hoje me considero 70% cética e ainda pretendo reduzir este índice, pois reconheço que os meus parcos\n30% de crença no que não é cientificamente provado é que me salvam de uma úlcera."
+  },
+  {
+   "id": "t2",
+   "titulo": "Texto para as questões de 11 a 20 · Brasil mais indígena",
+   "fonte": "Disponível em: https://www1.folha.uol.com.br/opiniao/2023/08/brasil-mais-indigena.shtml. Acesso em 15 set. 2023. Adaptado.",
+   "numerarLinhas": true,
+   "conteudo": "\tSegundo o censo de 2022, os indígenas são quase 1,7 milhão dos 203,1 milhões de brasileiros, o que representa alta\nde 88,8% em relação ao recenseamento anterior, que registrou 896,9 mil em 2010.\n\tNão se sabe o papel dos fatores demográficos (nascimentos e mortes), que ainda serão divulgados, para tamanho\nsalto. Mas mudanças na metodologia do levantamento ajudam a entender os números.\n\tPara a contagem, pesquisadores perguntam sobre raça ou cor, com as opções branca, preta, parda, amarela e indígena\na assinalar\n\tEm 2022, se o entrevistado estivesse em uma área indígena (terra, agrupamento ou outro tipo de localidade) e não se\ndeclarasse como tal, era submetido a uma questão específica sobre essa condição.\n\tEm 2010, essa segunda questão só era feita em terra indígena oficialmente demarcada, o que pode ter prejudicado\na contagem. De um censo para outro, aumentou expressivamente a parcela dos indígenas contados a partir da segunda\npergunta, de 8,8% para 27,58%.\n\tA abordagem também mudou. Houve participação de guias comunitários e intérpretes, além de reuniões com lideranças\npara facilitar o acesso e a comunicação.\n\tAs alterações implementadas pelo IBGE são bem-vindas, já que políticas públicas dependem de dados estatísticos\nconfiáveis, e parte das comunidades indígenas, principalmente aquelas distantes dos centros urbanos, vive em situação de\nvulnerabilidade social.\n\tNão mais de 37% (622,1 mil) dos indígenas habitam territórios com alguma delimitação formal; 51,2% (867,9 mil) estão\nna Amazônia Legal. De 573 áreas oficialmente demarcadas até o final de julho do ano passado, a mais populosa é a Terra\nIndígena Yanomami, que se espalha pelos estados do Amazonas e de Roraima.\n\tNo início deste ano, os mais de 27 mil indígenas que vivem no local passaram por uma crise humanitária, com surtos\nde malária e desnutrição. A região sofre com o garimpo ilegal, cujo alcance quase triplicou entre 2020 e 2022.\n\tO enfraquecimento dos órgãos de fiscalização e o desmonte de programas ambientais e indigenistas sob o governo do\nex-presidente agravaram a situação no território, que historicamente enfrenta graves problemas.\n\tEspera-se que os dados do último censo sejam de fato mais precisos e contribuam para que o poder público atenda\ncom maior eficácia essa parcela da sociedade brasileira."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "A partir da intencionalidade discursiva do texto *Quando o corpo fala*, é verdadeiro afirmar que",
+   "alternativas": [
+    "a autora se mostra um tanto descrente sobre o estudo da psicóloga, mas lhe dá anuência.",
+    "a autora descredibiliza veementemente o estudo da psicóloga.",
+    "o estudo da psicóloga é referendado pela autora durante todo o texto.",
+    "a autora retifica o estudo da psicóloga, pois tem argumento de autoridade para fazê-lo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"a autora se mostra um tanto descrente sobre o estudo da psicóloga, mas lhe dá anuência\":** a crônica oscila entre a dúvida e a concordância parcial. A descrença aparece em \"Pô, Louise. Como assim, 'criadas'?\" (linha 3) e em \"Hoje me considero 70% cética\" (linha 17). A **anuência** (concordância) vem em \"nós realmente facilitamos certas invasões ao nosso corpo\" e \"Muitas vezes acontece, sim\" (linhas 6 e 7), além de \"Por que não tentar?\" e dos \"30% de crença\" que a salvam de uma úlcera.\n\n**As outras:**\n- *a autora descredibiliza veementemente o estudo da psicóloga.*: \"veementemente\" é exagero; ela relativiza (\"se abstrairmos certos exageros\") e admite parte da ideia.\n- *o estudo da psicóloga é referendado pela autora durante todo o texto.*: não é \"durante todo o texto\"; ela chama a lista de \"generalização\" e diz que \"não é bem assim\" (linha 13).\n- *a autora retifica o estudo da psicóloga, pois tem argumento…*: ela não corrige o estudo nem se apoia em especialista; fala como cronista, com opinião pessoal.\n\n**Para memorizar:** em crônica, procure as palavras de concessão (\"porém\", \"mas\", \"sim\"): elas mostram a posição matizada do autor."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "A partir da definição de classe de palavra como sendo uma categorização que considera as funções morfológicas dos vocábulos, analise a correlação termo destacado/função entre colchetes para assinalar a alternativa correta.",
+   "alternativas": [
+    "“...traduzidos para diversos idiomas, **inclusive** para o português (linha 2). [conjunção].",
+    "“Gastrite, de **incertezas** profundas....” (linha 11) [adjetivo].",
+    "“...o vírus **da gripe** infectasse o ser humano.” (linha 4) [substantivo].",
+    "“...se não levarmos tudo **o** que ela diz ao pé da letra.” (linha 5) [pronome]."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"...se não levarmos tudo o que ela diz ao pé da letra. [pronome]\":** em \"tudo **o** que ela diz\", o \"o\" equivale a \"aquilo\" (\"tudo aquilo que ela diz\"). É **pronome demonstrativo**, antecedente do pronome relativo \"que\". Se der para trocar o \"o\" por \"aquilo\", é pronome, e não artigo.\n\n**As outras:**\n- *...traduzidos para diversos idiomas, inclusive para o português… [conjunção]*: \"inclusive\" não liga orações; é palavra denotativa de inclusão (muitos a tratam como advérbio), não conjunção.\n- *Gastrite, de incertezas profundas.... [adjetivo]*: \"incertezas\" é substantivo, núcleo da expressão; o adjetivo é \"profundas\".\n- *...o vírus da gripe infectasse o ser humano. [substantivo]*: \"da gripe\" é locução adjetiva (preposição + substantivo) que caracteriza \"vírus\", como \"vírus gripal\"; funciona como adjetivo.\n\n**Para memorizar:** \"o\" antes de \"que\" com sentido de \"aquilo\" é pronome demonstrativo; \"o\" antes de substantivo é artigo."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Partindo da definição de que orações subordinadas são aquelas que dependem de outras orações no período e que não têm sentido completo isoladas, aponte a alternativa em que há uma oração subordinada destacada cuja classificação se encontra correta entre parênteses.",
+   "alternativas": [
+    "“...mas não custa prestarmos atenção na interferência **que nossos sentimentos têm sobre nosso corpo.**” (linha 14) [subordinada substantiva completiva nominal].",
+    "“...os leitores também sabem **que não é bem assim**” (linha 13) [subordinada substantiva subjetiva].",
+    "“...pois reconheço **que os meus parcos 30% de crença**.” (linhas 17 e 18) [subordinada substantiva objetiva direta].",
+    "“Ela diz que todas as doenças **que temos são criadas por nós**.” (linha 3) [subordinada substantiva predicativa]."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"...pois reconheço que os meus parcos 30% de crença. [objetiva direta]\":** \"reconheço\" é verbo transitivo direto (quem reconhece, reconhece algo). A oração \"que os meus parcos 30% de crença [...] é que me salvam\" completa esse verbo e pode ser trocada por \"isso\": \"reconheço isso\". Oração com conjunção integrante na função de objeto direto = **subordinada substantiva objetiva direta**.\n\n**As outras:**\n- *...mas não custa prestarmos atenção na interferência que nossos sentimentos…*: o \"que\" retoma \"interferência\" (= a qual) e é pronome relativo; a oração é **adjetiva restritiva**, não completiva nominal.\n- *...os leitores também sabem que não é bem assim [subjetiva]*: \"sabem\" é transitivo direto e já tem sujeito (\"os leitores\"); a oração é **objetiva direta**.\n- *Ela diz que todas as doenças que temos são criadas por nós. [predicativa]*: o destaque mistura duas orações: \"que temos\" é adjetiva restritiva e \"que todas as doenças [...] são criadas por nós\" é objetiva direta de \"diz\". Predicativa vem depois de verbo de ligação (\"A verdade é que...\").\n\n**Para memorizar:** troque a oração por \"isso\". Se \"isso\" vira objeto do verbo, é objetiva direta; se vira sujeito, subjetiva; se o \"que\" vira \"o qual\", é adjetiva."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Em “Dor de cabeça vem da **autocrítica**.” (linha 11), A palavra destacada é formada por",
+   "alternativas": [
+    "derivação parassintética.",
+    "derivação prefixal.",
+    "composição justaposta.",
+    "composição aglutinada."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"composição justaposta\":** a banca tratou \"autocrítica\" como a junção de dois radicais: **auto-** (do grego *autós*, \"de si mesmo\") + **crítica**. Como os dois elementos ficam inteiros, sem perder som nem letra, é composição por **justaposição**, como em \"autorretrato\" e \"autoestima\".\n\n**As outras:**\n- *derivação parassintética.*: exige prefixo e sufixo ao mesmo tempo, sem existir a palavra com só um deles (en-tard-ecer, a-manh-ecer).\n- *derivação prefixal.*: acréscimo de prefixo a uma palavra (in-feliz, re-fazer). Seria a resposta para quem trata \"auto-\" como prefixo, mas a banca o tomou como radical.\n- *composição aglutinada.*: os elementos se fundem e perdem som ou letra (plano + alto = planalto; em + boa + hora = embora).\n\n**Para memorizar:** justaposição = elementos inteiros (passatempo, girassol); aglutinação = elementos \"amassados\" (fidalgo, aguardente).\n\n**Ponto discutível:** várias gramáticas classificam \"auto-\" como prefixo (ou falso prefixo), o que levaria a \"derivação prefixal\"; a banca seguiu a linha do radical grego."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Analise a função do termo destacado, no trecho a seguir, para assinalar a alternativa correta.\n\n“Hoje me considero 70% cética e ainda pretendo reduzir **este** índice...” (linha 17).",
+   "alternativas": [
+    "É um elemento catafórico e está de acordo com as regras de referenciação.",
+    "Infringe às regras de referenciação, pois deveria ser **esse**.",
+    "Infringe às regras de referenciação, pois deveria ser **aquele**.",
+    "É um elemento anafórico e está de acordo com as regras de referenciação."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Infringe às regras de referenciação, pois deveria ser esse.\":** \"este índice\" retoma \"70%\", que acabou de ser dito. Pela regra escolar cobrada pelas bancas, para **retomar** o que já foi mencionado (anáfora) usa-se **esse**; **este** anuncia o que ainda vai ser dito (catáfora) ou indica o que está perto de quem fala. Para a banca, o correto seria \"reduzir esse índice\".\n\n**As outras:**\n- *É um elemento catafórico e está de acordo com as regras…*: o termo não aponta para frente; retoma \"70%\", que já apareceu.\n- *Infringe às regras de referenciação, pois deveria ser aquele.*: \"aquele\" serve para o que está distante no tempo ou no texto, ou para o primeiro de dois elementos citados.\n- *É um elemento anafórico e está de acordo com as regras…*: é anafórico, sim, mas pela regra escolar a forma anafórica é \"esse\", e não \"este\".\n\n**Para memorizar:** \"esSe\" = Se refere ao que Se disse; \"esTe\" = o que esTá por vir.\n\n**Ponto discutível:** muitos gramáticos aceitam \"este\" para retomar o termo imediatamente anterior; a banca aplicou a regra escolar estrita."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "Respeitando a hierarquia da sintaxe de colocação pronominal, o trecho “...não daria a mínima para as afirmações...” (linha 16) poderia ser reescrito consoante a alternativa",
+   "alternativas": [
+    "“Não daria-lhes a mínima”.",
+    "“Daria-lhes a mínima”.",
+    "“Dar-nos-ei a mínima”.",
+    "“Dar-lhes-ia a mínima”."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Dar-lhes-ia a mínima\":** \"daria\" está no **futuro do pretérito**. Com verbo no futuro (do presente ou do pretérito) nunca se usa ênclise: ou o pronome vem antes (próclise, se houver palavra atrativa), ou no meio do verbo (**mesóclise**). Com o verbo abrindo a frase e sem palavra atrativa, a mesóclise é obrigatória: dar-lhes-ia. O \"lhes\" substitui o complemento \"para as afirmações\" (a elas). Repare que a reescrita perde o \"não\"; a questão avalia só a colocação do pronome.\n\n**As outras:**\n- *Não daria-lhes a mínima*: o advérbio \"não\" atrai o pronome: o certo seria \"Não lhes daria a mínima\". E ênclise com futuro do pretérito é sempre errada.\n- *Daria-lhes a mínima*: ênclise com futuro do pretérito é proibida; sem palavra atrativa, usa-se a mesóclise.\n- *Dar-nos-ei a mínima*: a colocação está certa, mas muda o tempo (futuro do presente), a pessoa (eu) e o pronome (nos); não reescreve o trecho.\n\n**Para memorizar:** futuro no início da frase = mesóclise (far-se-á, dir-te-ia); futuro com palavra atrativa = próclise (não se fará)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "A regência verbal trata-se da relação que se estabelece entre os verbos e os termos que os complementam ou os circunstanciam. Tendo por base essa definição, assinale a alternativa que traz uma informação correta sobre essa relação.",
+   "alternativas": [
+    "“Hoje me considero 70% cética” (linha 17) [O verbo **considerar** é intransitivo; e o termo **70% cética** sua circunstância].",
+    "“não daria a mínima para as afirmações de Louise L. Hay.” (linhas 16 e 17) [O verbo **dar** é apenas transitivo indireto; e o termo **para as afirmações de Louise L. Hay**, seu objeto indireto].",
+    "“Louise L. Hay acredita tanto, mas tanto nisso ...” (linha 9) [O verbo **acreditar** é transitivo indireto; e o termo **nisso**, seu objeto indireto].",
+    "“...bastaria a força da mente” (linha 4) [O verbo **bastar** é transitivo direto; e o termo **a força da mente**, seu objeto direto]."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Louise L. Hay acredita tanto, mas tanto nisso... [acreditar é transitivo indireto]\":** quem acredita, acredita **em** algo. \"Acreditar\" pede complemento com preposição, logo é **transitivo indireto**, e \"nisso\" (em + isso) é o **objeto indireto**.\n\n**As outras:**\n- *Hoje me considero 70% cética [considerar é intransitivo]*: \"considerar\" é transitivo direto predicativo: \"me\" é objeto direto e \"70% cética\" é predicativo do objeto (considero-me cética).\n- *não daria a mínima para as afirmações de Louise L. Hay. [dar é apenas transitivo indireto]*: \"dar\" é transitivo direto e indireto: \"a mínima\" é objeto direto e \"para as afirmações...\" é objeto indireto. Não é \"apenas\" indireto.\n- *...bastaria a força da mente [bastar é transitivo direto]*: \"bastar\" é intransitivo; \"a força da mente\" é o sujeito posposto (a força da mente bastaria).\n\n**Para memorizar:** para achar o sujeito, pergunte ao verbo \"o que bastaria?\". Se a resposta é o termo depois do verbo, ele é sujeito posposto, não objeto."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "verbos",
+   "texto": "t1",
+   "enunciado": "Os tempos compostos do verbo são formados pelos verbos auxiliares ter e haver, e por um verbo principal no particípio, do qual resulta uma locução verbal. Assim sendo, na passagem “Nunca **tinha escutado** o nome de Louise L. Hay” (linha 1), a locução verbal destacada indica um tempo composto no",
+   "alternativas": [
+    "pretérito perfeito.",
+    "pretérito mais-que-perfeito",
+    "futuro do presente.",
+    "futuro do pretérito."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"pretérito mais-que-perfeito\":** a locução \"tinha escutado\" junta o auxiliar **ter no pretérito imperfeito** (tinha) com o particípio (escutado). Essa combinação forma o **pretérito mais-que-perfeito composto do indicativo**, equivalente à forma simples \"escutara\": uma ação passada anterior a outra ação também passada.\n\n**As outras:**\n- *pretérito perfeito.*: o composto é o auxiliar no presente + particípio (\"tenho escutado\"), que indica ação repetida até o momento atual.\n- *futuro do presente.*: o composto é \"terei escutado\" (auxiliar no futuro do presente).\n- *futuro do pretérito.*: o composto é \"teria escutado\" (auxiliar no futuro do pretérito).\n\n**Para memorizar:** olhe o tempo do auxiliar: tenho (presente) = perfeito composto; tinha (imperfeito) = mais-que-perfeito composto; terei = futuro do presente composto; teria = futuro do pretérito composto."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em “Hoje me considero 70% **cética**...” (linha 17), a palavra destacada tem seu significado oposto no termo destacado em",
+   "alternativas": [
+    "“É o que se chama **somatizar**” (linha 6)",
+    "“...assim poderemos ajudar no tratamento sendo menos **tensos** e angustiados.” (linhas 14 e 15)",
+    "“...se **abstrairmos** certos exageros, vamos chegar a um senso comum:” (linhas 5 e 6)",
+    "“Louise L. Hay **acredita** tanto, mas tanto nisso...” (linha 9)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Louise L. Hay acredita tanto, mas tanto nisso...\":** \"cética\" é quem duvida, quem não acredita com facilidade. O oposto é quem **acredita**, quem crê. A própria autora contrapõe os \"70% cética\" aos \"30% de crença\" (linhas 17 e 18), o que confirma a oposição entre ceticismo e crença.\n\n**As outras:**\n- *É o que se chama somatizar*: somatizar é transformar sofrimento psíquico em sintoma físico; não tem relação de oposição com \"cética\".\n- *...assim poderemos ajudar no tratamento sendo menos tensos e angustiados.*: \"tensos\" se opõe a \"relaxados\" ou \"calmos\", e não a \"céticos\".\n- *...se abstrairmos certos exageros, vamos chegar a um senso comum:*: \"abstrair\", aqui, é deixar de lado, desconsiderar; também não é o contrário de duvidar.\n\n**Para memorizar:** antônimo de cético = crédulo, crente, quem acredita."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "“...os meus parcos 30% de crença (...) é que me salvam de uma úlcera.” (linhas 17 e 18). De acordo com as regras de concordância verbal, o período em análise também atende à norma-padrão na alternativa",
+   "alternativas": [
+    "“...os meus parcos 30% de crença (...) é que me salva de uma úlcera.”",
+    "“...os meus parcos de crenças (...) é que me salva de uma úlcera.”",
+    "“...os meus parcos 30% de crenças (...) é que me salva de uma úlcera.”",
+    "“...os meus parcos 30% (...) é que me salva de uma úlcera.”"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"...os meus parcos 30% de crença (...) é que me salva de uma úlcera.\":** com **porcentagem seguida de especificador**, a regra geral permite que o verbo concorde com o número (30%, plural: \"salvam\") ou com o especificador (\"crença\", singular: \"salva\"). Como \"crença\" está no singular, a banca aceitou \"salva\". O \"é que\" é expressão de realce e não interfere na concordância.\n\n**As outras:**\n- *...os meus parcos de crenças (...) é que me salva de uma úlcera.*: some a porcentagem e \"parcos\" fica sem núcleo; além disso, \"crenças\" no plural pediria \"salvam\".\n- *...os meus parcos 30% de crenças (...) é que me salva de uma úlcera.*: número e especificador estão no plural (\"30%\" e \"crenças\"); o verbo só pode ir ao plural: \"salvam\".\n- *...os meus parcos 30% (...) é que me salva de uma úlcera.*: sem especificador, o verbo concorda com o número: 30% pede \"salvam\".\n\n**Para memorizar:** porcentagem + especificador: o verbo pode ir com qualquer dos dois; sem especificador, só com o número.\n\n**Ponto discutível:** quando a porcentagem vem precedida de artigo ou pronome no plural (\"os meus parcos 30%\"), parte dos gramáticos exige o verbo no plural, o que tornaria \"salva\" inadequado também na alternativa dada como certa."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q11",
+   "numero": 11,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t2",
+   "enunciado": "No decorrer do texto, utilizam-se diversos sinais de pontuação, como vírgulas, parênteses, pontos-finais etc., que são muito importantes para a boa organização sintática dos períodos e, consequentemente, o adequado entendimento dos enunciados. Considerando isso, assinale o trecho em que há alguma falha de pontuação.",
+   "alternativas": [
+    "Com os corredores livres, o risco de acidentes cresceria consideravelmente; sem isso, entretanto, a agilidade das duas rodas, principalmente nos centros urbanos, seria afetada. Os obstáculos para fiscalizar eventuais infrações eram outro complicador.",
+    "A eficácia da iniciativa decerto exige mais observação, mas, já atrai o interesse de outras cidades do país. Políticas como essa devem obrigatoriamente vir acompanhadas de campanhas educativas, rígida fiscalização e, sobretudo, respeito às leis de trânsito —por motociclistas ou motoristas.",
+    "“Nos últimos 25 anos, houve expansão vertiginosa da frota no país — empurrada por fatores como baixo custo de aquisição, economia de combustível e, mais recentemente, popularização dos serviços de entrega. O total de mortos em acidentes envolvendo motos acompanhou essa alta: subiu quase nove vezes desde o CTB”.",
+    "“Espremer-se entre os carros, por óbvio, ficou ainda mais perigoso. Na cidade de São Paulo, esses óbitos bateram recorde em 2022: 405, ou 36,4% a mais na comparação com 2019, antes da pandemia.”"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A eficácia da iniciativa decerto exige mais observação, mas, já atrai…\":** a vírgula **depois** de \"mas\" está errada. A conjunção adversativa pede vírgula **antes** (\"observação, mas já atrai\"); depois dela só cabe vírgula se vier um termo intercalado, fechado por outra vírgula (\"mas, por enquanto, já atrai\"). Há ainda o travessão colado em \"—por\". Os trechos das alternativas não estão no texto da prova (vêm de um texto sobre motos), mas a questão se resolve só com as regras.\n\n**As outras:**\n- *Com os corredores livres, o risco de acidentes cresceria…*: vírgula após o adjunto adverbial deslocado, ponto e vírgula entre orações e \"entretanto\" intercalado entre vírgulas: correto.\n- *Nos últimos 25 anos, houve expansão vertiginosa da frota…*: o travessão introduz a explicação, as vírgulas isolam \"mais recentemente\" e os dois-pontos introduzem o esclarecimento: correto.\n- *Espremer-se entre os carros, por óbvio, ficou ainda mais perigoso…*: \"por óbvio\" intercalado entre vírgulas e dois-pontos antes dos números: correto.\n\n**Para memorizar:** vírgula antes de \"mas\", sempre; depois de \"mas\", só se houver intercalação."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q12",
+   "numero": 12,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t2",
+   "enunciado": "“Não se sabe o papel dos fatores demográficos (nascimentos e mortes)” (linha 3). Neste trecho, localizado no 2º parágrafo, faz-se o uso da próclise. A próclise, assim como a ênclise e a mesóclise, são colocações pronominais possíveis na língua portuguesa. Assinale a alternativa em que a mesóclise foi usada **incorretamente**.",
+   "alternativas": [
+    "Ver-nos-emos mais tarde na praça, conforme o combinado.",
+    "A turnê, disseram-me, iniciar-se-á em breve.",
+    "Os problemas resolver-se-iam com o tempo, apontou o relatório.",
+    "Ela informou que não entregar-se-ia para a polícia."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ela informou que não entregar-se-ia para a polícia.\" é a resposta:** a mesóclise só é usada quando o verbo no futuro **não** tem palavra atrativa antes. Aqui há duas: a conjunção integrante \"que\" e o advérbio de negação \"não\". As duas puxam o pronome para antes do verbo: o certo é \"que não **se entregaria**\" (próclise).\n\n**As outras (estão corretas):**\n- *Ver-nos-emos mais tarde na praça, conforme o combinado.*: futuro do presente iniciando a frase, sem palavra atrativa: mesóclise obrigatória.\n- *A turnê, disseram-me, iniciar-se-á em breve.*: depois da intercalação \"disseram-me\", não há palavra atrativa ligada ao verbo; a mesóclise é adequada.\n- *Os problemas resolver-se-iam com o tempo, apontou o relatório.*: sujeito substantivo antes do verbo não atrai o pronome; a mesóclise está certa (a próclise também seria aceita).\n\n**Para memorizar:** palavra atrativa (não, que, nunca, quem, já, pronome indefinido) manda o pronome para antes do verbo, mesmo no futuro."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q13",
+   "numero": 13,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t2",
+   "enunciado": "Os tipos de texto são classificações empregadas para discernir os principais propósitos comunicativos de um texto e o modo como as informações são arranjadas em sua composição. Nesse contexto, o texto apresentado é caracterizado predominantemente pelo tipo",
+   "alternativas": [
+    "expositivo-argumentativo.",
+    "descritivo-narrativo.",
+    "expositivo-descritivo.",
+    "descritivo-argumentativo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"expositivo-argumentativo\":** o texto é um editorial da seção de opinião da Folha. Ele **expõe** dados do censo (quase 1,7 milhão de indígenas, alta de 88,8%, mudanças na metodologia) e **argumenta** a favor de uma posição: as mudanças do IBGE \"são bem-vindas, já que políticas públicas dependem de dados estatísticos confiáveis\" (linha 14), e \"Espera-se que os dados [...] contribuam\" para melhores políticas (linha 24).\n\n**As outras:**\n- *descritivo-narrativo.*: não há sequência de fatos com personagens e tempo (narração), nem o retrato de características como foco (descrição).\n- *expositivo-descritivo.*: há exposição, mas falta o traço descritivo e sobra a opinião, que esse rótulo ignora.\n- *descritivo-argumentativo.*: há argumentação, mas a base é a exposição de dados, e não a descrição.\n\n**Para memorizar:** dados + opinião com justificativa (\"já que\", \"espera-se\") = expositivo-argumentativo, o padrão do editorial."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q14",
+   "numero": 14,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t2",
+   "enunciado": "“As alterações implementadas pelo IBGE são bem-vindas [...]” (linha 14). Neste trecho, localizado no 7º parágrafo, utiliza-se o hífen. Assinale a alternativa em que todas as palavras e/ou expressões estão grafadas corretamente, respeitando as regras de uso do hífen.",
+   "alternativas": [
+    "*check-in*, face a face, dia a dia, ex-vice-presidente, afro-brasileira.",
+    "anti-inflamatório, contraindicação, autoaprendizagem, coirmão, mal-sucedido.",
+    "ponta-pé, conta-gotas, pé de moleque, pé-de-meia, pimenta-do-reino.",
+    "afrodescendente, arco-e-flecha, auto-hipnose, antissocial, reedição."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"check-in, face a face, dia a dia, ex-vice-presidente, afro-brasileira.\":** todas seguem o Acordo Ortográfico. \"Check-in\" é estrangeirismo e mantém o hífen original. \"Face a face\" e \"dia a dia\" são locuções e, desde o Acordo, ficam sem hífen. Os prefixos **ex-** (estado anterior) e **vice-** sempre levam hífen. \"Afro-brasileira\" é adjetivo pátrio composto, com hífen.\n\n**As outras:**\n- *anti-inflamatório, contraindicação, autoaprendizagem, coirmão, mal-sucedido.*: o erro é \"mal-sucedido\": \"mal\" só pede hífen antes de vogal, h ou l; o certo é **malsucedido**.\n- *ponta-pé, conta-gotas, pé de moleque, pé-de-meia, pimenta-do-reino.*: o erro é \"ponta-pé\"; a palavra perdeu a noção de composição e se escreve **pontapé**. \"Pé-de-meia\" é exceção que mantém o hífen, e \"pimenta-do-reino\" é nome de espécie botânica.\n- *afrodescendente, arco-e-flecha, auto-hipnose, antissocial, reedição.*: o erro é \"arco-e-flecha\"; a locução se escreve **arco e flecha**, sem hífen.\n\n**Para memorizar:** prefixo + h = hífen (auto-hipnose); vogais iguais = hífen (anti-inflamatório); vogais diferentes = junto (contraindicação); prefixo em vogal + r ou s = dobra a letra (antissocial)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q15",
+   "numero": 15,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "verbos",
+   "texto": "t2",
+   "enunciado": "“Espera-se que os dados do último censo **sejam** de fato mais precisos” (linha 24). Neste trecho, localizado no 11º parágrafo, conjuga-se um verbo irregular. Assinale a alternativa em que há um verbo irregular conjugado corretamente no mesmo modo e tempo que o verbo do trecho citado.",
+   "alternativas": [
+    "Os funcionários perfizeram o projeto dentro do prazo estabelecido, demonstrando sua dedicação e eficiência.",
+    "Espero que eles intermediem a negociação de forma justa e imparcial.",
+    "Os professores gostam que os alunos falem sobre seus projetos durante a apresentação.",
+    "Peço que te predisponhas a ouvir o que tenho a dizer, pois é importante para o nosso entendimento mútuo."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Peço que te predisponhas a ouvir o que tenho a dizer…\":** \"sejam\" é o verbo ser no **presente do subjuntivo**. \"Predispor\" deriva de **pôr**, verbo irregular, e se conjuga como ele: que eu predisponha, que tu **predisponhas**, que ele predisponha. Está no mesmo modo e tempo e conjugado corretamente.\n\n**As outras:**\n- *Os funcionários perfizeram o projeto dentro do prazo…*: \"perfizeram\" (de perfazer, irregular) está certo, mas no pretérito perfeito do indicativo, não no presente do subjuntivo.\n- *Espero que eles intermediem a negociação…*: está no presente do subjuntivo, mas mal conjugado. \"Intermediar\" segue o modelo de \"odiar\": que eles **intermedeiem**.\n- *Os professores gostam que os alunos falem sobre seus projetos…*: \"falem\" está no presente do subjuntivo, mas \"falar\" é verbo regular.\n\n**Para memorizar:** os verbos do MARIO (Mediar, Ansiar, Remediar, Intermediar, Incendiar, Odiar) ganham \"e\" nas formas fortes: odeio, medeio, que intermedeiem."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q16",
+   "numero": 16,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t2",
+   "enunciado": "Considere os usos do “**que**” a seguir e assinale a alternativa correta acerca de sua análise.\n\n“[...] **que** registrou 896,9 mil em 2010.” (1º parágrafo) [linha 2];\n\n“[...] **que** ainda serão divulgados [...]” (2º parágrafo) [linha 3];\n\n“[...] **que** se espalha pelos estados do Amazonas e de Roraima.” (8º parágrafo) [linha 19];\n\n“[...] **que** vivem no local passaram por uma crise humanitária [...]” (9º parágrafo) [linha 20];\n\n“[...] **que** historicamente enfrenta graves problemas.” (10º parágrafo) [linha 23].",
+   "alternativas": [
+    "Todos os “que” são conjunções integrantes e subordinam, à oração principal, uma oração substantiva subjetiva, menos um deles.",
+    "Todos os “que” são pronomes relativos e subordinam, à oração principal, uma oração adjetiva restritiva, menos um deles.",
+    "Todos os “que” são pronomes relativos e subordinam, à oração principal, uma oração adjetiva explicativa, menos um deles.",
+    "Todos os “que” são conjunções integrantes e subordinam, à oração principal, uma oração substantiva objetiva, menos um deles."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Todos os que são pronomes relativos [...] adjetiva explicativa, menos um deles\":** em todos os casos o \"que\" retoma um termo anterior e pode ser trocado por \"o qual/os quais\": é **pronome relativo**. Quatro vêm depois de vírgula e acrescentam uma informação extra: são **adjetivas explicativas** (\"recenseamento anterior, que registrou\", \"(nascimentos e mortes), que ainda serão divulgados\", \"Yanomami, que se espalha\", \"território, que historicamente enfrenta\"). A exceção é \"os mais de 27 mil indígenas que vivem no local\" (linha 20), sem vírgula: **restritiva**, pois delimita de quais indígenas se fala.\n\n**As outras:**\n- *Todos os “que” são conjunções integrantes [...] substantiva subjetiva…*: conjunção integrante não retoma termo; aqui todos têm antecedente.\n- *Todos os “que” são pronomes relativos [...] adjetiva restritiva…*: só um é restritivo; os outros quatro são explicativos.\n- *Todos os “que” são conjunções integrantes [...] substantiva objetiva…*: mesmo erro de classe: são relativos, não integrantes.\n\n**Para memorizar:** adjetiva com vírgula = explicativa; sem vírgula = restritiva."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q17",
+   "numero": 17,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t2",
+   "enunciado": "Assinale a alternativa que contém a oração cujo verbo destacado pode ser conjugado tanto no singular quanto no plural sem que ocorram problemas de concordância.",
+   "alternativas": [
+    "“Não se **sabe** o papel dos fatores demográficos (nascimentos e mortes) [...]” (2º parágrafo). (linha 3)",
+    "“[...] e parte das comunidades indígenas, principalmente aquelas distantes dos centros urbanos, **vive** em situação de vulnerabilidade social.” (7º parágrafo). [linhas 15 e 16]",
+    "“[...] **aumentou** expressivamente a parcela dos indígenas contados a partir da segunda pergunta, de 8,8% para 27,58%.” (5º parágrafo) [linhas 10 e 11].",
+    "“**Houve** participação de guias comunitários e intérpretes, além de reuniões com lideranças [...]” (6º parágrafo) [linha 12]"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"...e parte das comunidades indígenas [...] vive em situação de vulnerabilidade social.\":** o sujeito é **expressão partitiva** (\"parte de\") seguida de substantivo no plural (\"das comunidades indígenas\"). Nesse caso, a norma aceita o verbo no singular, concordando com o núcleo \"parte\" (vive), ou no plural, concordando com o especificador (vivem). As duas formas estão corretas.\n\n**As outras:**\n- *Não se sabe o papel dos fatores demográficos…*: \"se\" é partícula apassivadora e o sujeito é \"o papel\", no singular: só \"sabe\".\n- *...aumentou expressivamente a parcela dos indígenas…*: o sujeito posposto é \"a parcela\", singular; o verbo fica no singular.\n- *Houve participação de guias comunitários e intérpretes…*: \"haver\" no sentido de existir é impessoal e fica sempre no singular.\n\n**Para memorizar:** \"a maioria de\", \"parte de\", \"metade de\" + plural = verbo no singular ou no plural; \"haver\" no sentido de existir = sempre singular."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q18",
+   "numero": 18,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t2",
+   "enunciado": "“O enfraquecimento dos órgãos de fiscalização e o desmonte de programas ambientais e **indigenistas** sob o governo do ex-presidente agravaram a situação no território, que historicamente enfrenta graves problemas” (linhas 22 e 23). Nesse trecho, localizado no 10º parágrafo do texto, utiliza-se a palavra “**indigenistas**”. Pode-se afirmar que esse termo é formado por",
+   "alternativas": [
+    "derivação a partir da palavra primitiva “índio”.",
+    "composição e contém um sufixo que indica ocupação ou ofício, assim como “jornalista”.",
+    "derivação e contém um sufixo que exprime noção de adepto, assim como “liberalista”.",
+    "composição a partir da aglutinação das palavras “índio” e “genista”."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"derivação e contém um sufixo que exprime noção de adepto, assim como liberalista\":** \"indigenista\" vem de **indígena + -ista**: um único radical com sufixo, ou seja, **derivação sufixal**. O sufixo **-ista** indica adepto, partidário ou defensor de uma ideia ou causa: indigenista é quem defende a causa indígena (ou o que se refere a essa política), como liberalista é o adepto do liberalismo.\n\n**As outras:**\n- *derivação a partir da palavra primitiva “índio”.*: a base é \"indígena\" (indigen- + -ista), e não \"índio\".\n- *composição e contém um sufixo que indica ocupação ou ofício…*: não é composição (há um só radical) e, aqui, -ista não indica profissão.\n- *composição a partir da aglutinação das palavras “índio” e “genista”.*: \"genista\" não entra na formação; não há aglutinação.\n\n**Para memorizar:** composição = dois radicais; derivação = um radical + afixo. O sufixo -ista indica ofício (dentista) ou adepto (budista, liberalista)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q19",
+   "numero": 19,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t2",
+   "enunciado": "“Espera-se que os dados do último censo sejam de fato mais precisos e contribuam para que o poder público atenda com maior eficácia essa parcela da sociedade brasileira” (linhas 24 e 25). Acerca desse período, localizado no 11º parágrafo do texto, assinale a alternativa que o analisa corretamente.",
+   "alternativas": [
+    "O primeiro “-se” é uma partícula apassivadora. O sujeito de “Espera-se” é uma oração. O primeiro “que” é uma conjunção integrante. “Precisos” é o núcleo de um predicado nominal. “Sejam” e “contribuam” têm o mesmo sujeito.",
+    "O primeiro “-se” é um índice de indeterminação do sujeito. O sujeito de “Espera-se” é vago/indeterminado. O primeiro “que” é uma conjunção coordenativa. “Precisos” é o núcleo de um predicado nominal. “Sejam” e “contribuam” têm o mesmo sujeito.",
+    "O primeiro “-se” é índice de indeterminação do sujeito. O sujeito de “Espera-se” é vago/indeterminado. O primeiro “que” é uma conjunção integrante. “Precisos” é o núcleo de um predicado verbo-nominal. “Sejam” e “contribuam” têm o mesmo sujeito.",
+    "O primeiro “-se” é uma partícula apassivadora. O sujeito de “Espera-se” é uma oração. O primeiro “que” é uma conjunção integrante. “Precisos” é o núcleo de um predicado verbal. “Sejam” e “contribuam” têm sujeitos diferentes."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"O primeiro -se é uma partícula apassivadora. O sujeito de Espera-se é uma oração…\":** \"esperar\" é transitivo direto, então o \"se\" é **partícula apassivadora** (\"é esperado\"). O sujeito é a oração \"que os dados [...] sejam [...] precisos\", subordinada substantiva **subjetiva**, introduzida pela **conjunção integrante** \"que\". Em \"sejam mais precisos\", \"ser\" é verbo de ligação e \"precisos\" é predicativo: **predicado nominal**. \"Sejam\" e \"contribuam\" têm o mesmo sujeito: \"os dados do último censo\".\n\n**As outras:**\n- *O primeiro “-se” é um índice de indeterminação do sujeito. [...] conjunção coordenativa…*: com verbo transitivo direto o \"se\" é apassivador, e o \"que\" é integrante, não coordenativo.\n- *O primeiro “-se” é índice de indeterminação do sujeito. [...] predicado verbo-nominal…*: erra o \"se\" e o predicado, que é nominal por ter verbo de ligação.\n- *…“Precisos” é o núcleo de um predicado verbal. “Sejam” e “contribuam” têm sujeitos diferentes.*: o predicado é nominal e os dois verbos têm o mesmo sujeito.\n\n**Para memorizar:** verbo transitivo direto + se + sujeito = voz passiva sintética (\"Espera-se que...\" = \"É esperado que...\")."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q20",
+   "numero": 20,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t2",
+   "enunciado": "“Em 2010, **essa segunda questão** só era feita em terra indígena oficialmente demarcada, o que pode ter prejudicado a contagem” (linhas 9 e 10). Nesse trecho, localizado no 5º parágrafo, a expressão destacada faz um movimento",
+   "alternativas": [
+    "endofórico e catafórico.",
+    "endofórico e anafórico",
+    "exofórico a anafórico.",
+    "exofórico e catafórico."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"endofórico e anafórico\":** \"essa segunda questão\" remete a algo **dentro do texto** (referência **endofórica**): a \"questão específica sobre essa condição\" citada no parágrafo anterior (linha 8). Como aponta para algo **já dito**, o movimento é **anafórico**. O pronome \"essa\" reforça a retomada.\n\n**As outras:**\n- *endofórico e catafórico.*: é endofórico, mas catáfora aponta para algo que ainda vai aparecer, o que não ocorre aqui.\n- *exofórico a anafórico.*: exófora remete a algo fora do texto (a situação de comunicação, como \"aqui\" e \"agora\"); o referente está no próprio texto.\n- *exofórico e catafórico.*: erra as duas classificações.\n\n**Para memorizar:** endo = dentro do texto (ana = para trás; cata = para frente); exo = fora do texto."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q21",
+   "numero": 21,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em torno de uma mesa quadrada, encontram-se em reunião quatro servidores públicos. Miguel, o mais novo entre eles, é alagoano. Há também um maranhense, um paulista e um cearense. João está sentado à esquerda do alagoano. Pedro, à esquerda do maranhense. Por sua vez, José que não é paulista, encontra-se à frente de João. Assim, é correto afirmar que",
+   "alternativas": [
+    "José é cearense e João maranhense.",
+    "José é maranhense e Pedro é paulista.",
+    "José é maranhense e Pedro é cearense.",
+    "José é cearense e João é paulista."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"José é cearense e João maranhense.\":** desenhe a mesa. \"À esquerda\" de alguém é o lugar à esquerda dessa pessoa, sentada olhando para o centro. Ponha Miguel (alagoano) num lado; João senta à esquerda dele. José fica de frente para João, e Pedro ocupa o lugar que sobra, de frente para Miguel. Quem tem Pedro à sua esquerda? É João. Como Pedro está \"à esquerda do maranhense\", **João é maranhense**. Restam paulista e cearense para José e Pedro; como José não é paulista, **José é cearense** e Pedro é paulista.\n\n**As outras:**\n- *José é maranhense e Pedro é paulista.*: Pedro é mesmo paulista, mas o maranhense é João.\n- *José é maranhense e Pedro é cearense.*: o maranhense é João e Pedro é o paulista.\n- *José é cearense e João é paulista.*: José é cearense, mas João é o maranhense; o paulista é Pedro.\n\n**Para memorizar:** em mesa redonda ou quadrada, desenhe e marque a esquerda do ponto de vista de quem está sentado, olhando para o centro."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q22",
+   "numero": 22,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Mariana, Raquel e Samuel estão envolvidos em processos na Vigilância Sanitária: inspeção de estabelecimento, infração de normas de higiene e denúncia de irregularidades, não necessariamente nessa ordem. Suas idades são 32, 37 e 45 anos, embora não tenhamos informações sobre quem está envolvido em qual caso ou qual é a idade de cada um deles. No entanto, sabemos que Mariana tem 32 anos, que Samuel está envolvido em um caso relacionado à inspeção de estabelecimento e que Raquel não tem 45 anos de idade e também não está envolvida em um caso relacionado à denúncia de irregularidades. Com base nesses fatos, é correto afirmar que",
+   "alternativas": [
+    "Raquel está envolvida em inspeção de estabelecimento e Samuel tem 45 anos.",
+    "Raquel tem 37 anos e Mariana está envolvida em denúncia de irregularidade.",
+    "Mariana está envolvida em infração de normas de higiene e Samuel tem 37 anos.",
+    "Samuel tem 37 anos e Mariana está envolvida em denúncia de irregularidades."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Raquel tem 37 anos e Mariana está envolvida em denúncia de irregularidade.\":** comece pelas idades. Mariana tem 32; Raquel não tem 45, então tem **37**; sobram 45 anos para Samuel. Agora os casos: Samuel está na inspeção de estabelecimento; Raquel não está na denúncia, então está na **infração de normas de higiene**; sobra a **denúncia de irregularidades** para Mariana.\n\n**As outras:**\n- *Raquel está envolvida em inspeção de estabelecimento e Samuel tem 45 anos.*: Samuel tem 45, mas quem está na inspeção é ele, e não Raquel.\n- *Mariana está envolvida em infração de normas de higiene e Samuel tem 37 anos.*: Mariana está na denúncia e Samuel tem 45.\n- *Samuel tem 37 anos e Mariana está envolvida em denúncia de irregularidades.*: Mariana está mesmo na denúncia, mas quem tem 37 é Raquel.\n\n**Para memorizar:** em associação lógica, monte uma tabela e comece pelas informações diretas; as negações (\"não tem 45\") fecham as lacunas."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q23",
+   "numero": 23,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Os números 1, 2, 3, 4, 5, 6, 7, 8 e 9 deverão ser distribuídos entre os nove quadrados menores de um quadriculado 3 x 3, de modo que:\n\n- cada um dos nove números seja escrito uma única vez;\n- cada quadrado menor contenha exatamente um número;\n- a soma dos três números de uma mesma linha, de uma mesma coluna e de uma mesma diagonal do quadriculado sejam todos iguais a um mesmo valor P.\n\nConsidere a distribuição iniciada na figura abaixo.\n\n![Quadriculado 3 x 3: primeira linha 4, vazio, 8; segunda linha 9, 5, vazio; terceira linha quadrado cinza, 7, vazio](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q23.webp)\n\nSe as regras descritas forem todas obedecidas, o quadrado em cinza deverá ser preenchido pelo número:",
+   "alternativas": [
+    "6",
+    "1",
+    "2",
+    "3"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"2\":** é um quadrado mágico com os números de 1 a 9. A soma de todos é 1 + 2 + ... + 9 = 45; dividindo pelas 3 linhas, **P = 15**. A primeira coluna tem 4 e 9, então o quadrado cinza vale 15 − 4 − 9 = **2**. Conferindo: a diagonal 8 + 5 + 2 = 15, e o quadrado completo fica 4-3-8 / 9-5-1 / 2-7-6.\n\n**As outras:**\n- *6*: completa a terceira linha (2 + 7 + 6 = 15), mas fica no canto inferior direito, não no quadrado cinza.\n- *1*: é o número que falta na segunda linha (9 + 5 + 1 = 15).\n- *3*: é o número que falta na primeira linha (4 + 3 + 8 = 15).\n\n**Para memorizar:** no quadrado mágico 3 x 3 com 1 a 9, a soma é sempre 15 e o centro é sempre 5."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q24",
+   "numero": 24,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Jonas, Júnior, Jean e João são quatro irmãos. Eles possuem idades e alturas diferentes, a mãe deles os organizou em fila, seguindo do mais novo para o mais velho. Sabe-se que:\n\n- João é mais alto que Jonas.\n- Jonas está imediatamente a frente de Júnior, que é o mais baixo de todos.\n- O mais velho não é o mais alto de todos.\n- Jean é mais novo do que João, mas não é o mais novo de todos.\n\nÉ correto concluir que:",
+   "alternativas": [
+    "O mais leve está em primeiro lugar na fila.",
+    "Jean é o primeiro da fila.",
+    "O mais alto está em terceiro lugar na fila.",
+    "Jean está em segundo lugar na fila."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O mais alto está em terceiro lugar na fila.\":** a fila vai do mais novo (1º) ao mais velho (4º). Jonas fica imediatamente à frente de Júnior, e Jean não é o mais novo, mas é mais novo que João. Se Jonas e Júnior estivessem em 2º-3º ou em 3º-4º, Jean seria o mais novo ou ficaria atrás de João. Então: **Jonas 1º, Júnior 2º, Jean 3º, João 4º**. Alturas: Júnior é o mais baixo, João é mais alto que Jonas e o mais velho (João) não é o mais alto. Logo o mais alto é **Jean, em 3º lugar**.\n\n**As outras:**\n- *O mais leve está em primeiro lugar na fila.*: o problema não fala de peso; não dá para concluir nada.\n- *Jean é o primeiro da fila.*: Jean não é o mais novo; o primeiro é Jonas.\n- *Jean está em segundo lugar na fila.*: o 2º é Júnior, que vem logo depois de Jonas.\n\n**Para memorizar:** em problemas de ordenação, fixe primeiro o par \"imediatamente\" (Jonas-Júnior) e teste as posições possíveis."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q25",
+   "numero": 25,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "As pirâmides matemáticas, também conhecidas como pirâmides numéricas ou pirâmides secretas, são um tipo de quebra-cabeça lógico amplamente utilizado como exercício de estimulação cognitiva matemática. A seguir, é exibida uma pirâmide numérica com uma sequência lógica em que alguns valores estão ausentes de alguns quadrados.\n\n![Pirâmide numérica: topo 19; abaixo 9 e x; abaixo y, vazio e 6; base 2, vazio, 1 e 5](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q25.webp)\n\nAnalisando a pirâmide, o produto entre x e y é igual a",
+   "alternativas": [
+    "100",
+    "10",
+    "25",
+    "50"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"50\":** a regra é: cada quadrado é a **soma dos dois de baixo** (confira: 1 + 5 = 6). No topo, 19 = 9 + x, logo **x = 10**. Na fileira de baixo, x = (quadrado vazio do meio) + 6, então o vazio vale 4. Ao lado, 9 = y + 4, logo **y = 5**. Produto: 10 × 5 = **50**. Conferindo a base: y = 2 + 3 e 4 = 3 + 1.\n\n**As outras:**\n- *100*: seria 10 × 10, tomando y igual a x.\n- *10*: é só o valor de x, não o produto.\n- *25*: seria 5 × 5, tomando x igual a y.\n\n**Para memorizar:** antes de calcular, teste a regra num trecho completo da pirâmide (aqui, 1 + 5 = 6)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q26",
+   "numero": 26,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um prêmio em dinheiro foi dividido entre 3 pessoas: a primeira recebeu 1/5 do valor do prêmio, a segunda recebeu 1/4 e a terceira ganhou R$ 2.750,00. Então, em relação as partes e ao valor desse prêmio, é correto afirmar que",
+   "alternativas": [
+    "O valor do primeiro prêmio mais o segundo prêmio é igual a R$ 5.000,00.",
+    "O valor total do prêmio é superior a R$ 3.789,00.",
+    "O valor do primeiro prêmio é superior a R$ 1.152,00.",
+    "O valor do segundo prêmio é inferior a R$ 987,00."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O valor total do prêmio é superior a R$ 3.789,00.\":** a primeira e a segunda pessoa ficam com 1/5 + 1/4 = 4/20 + 5/20 = **9/20** do prêmio. Sobram 11/20 para a terceira, que recebeu R$ 2.750,00. Então 1/20 = 2.750 ÷ 11 = 250, e o prêmio total = 20 × 250 = **R$ 5.000,00**, maior que R$ 3.789,00. A primeira recebeu 5.000 ÷ 5 = R$ 1.000,00 e a segunda, 5.000 ÷ 4 = R$ 1.250,00.\n\n**As outras:**\n- *O valor do primeiro prêmio mais o segundo prêmio é igual a R$ 5.000,00.*: a soma é 1.000 + 1.250 = R$ 2.250,00; R$ 5.000,00 é o total.\n- *O valor do primeiro prêmio é superior a R$ 1.152,00.*: a primeira parte é R$ 1.000,00.\n- *O valor do segundo prêmio é inferior a R$ 987,00.*: a segunda parte é R$ 1.250,00.\n\n**Para memorizar:** some as frações conhecidas, ache a fração que sobra e divida o valor conhecido por ela."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q27",
+   "numero": 27,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analisando o diagrama abaixo, pelo posicionamento dos elementos 7 e 9, é correto afirmar que eles formam o conjunto",
+   "imagem": "data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q27.webp",
+   "alternativas": [
+    "intersecção de A com B.",
+    "produto de A com B.",
+    "diferença de A com B.",
+    "união de A com B."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"intersecção de A com B.\":** os números 7 e 9 estão na região em que os dois círculos se sobrepõem, ou seja, pertencem a A **e** a B ao mesmo tempo. Essa região é a **intersecção**: A ∩ B = {7, 9}.\n\n**As outras:**\n- *produto de A com B.*: o produto cartesiano A × B é o conjunto de pares ordenados (a, b); não aparece num diagrama de Venn.\n- *diferença de A com B.*: A − B são os elementos que estão só em A: {2, 4, 6, 8}.\n- *união de A com B.*: A ∪ B reúne tudo o que está em algum dos círculos: {1, 2, 3, 4, 5, 6, 7, 8, 9}.\n\n**Para memorizar:** \"e\" = intersecção (a região comum); \"ou\" = união (tudo junto)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q28",
+   "numero": 28,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em uma equipe de vigilância sanitária de um órgão estadual, existem três principais categorias de funções para seus agentes de fiscalização: inspeção de estabelecimentos, consultoria técnica e investigação dte infrações. Recentemente, foi conduzida uma pesquisa para avaliar a participação dos agentes nessas funções ao longo de um bimestre, e os resultados foram os seguintes:\n\n| Funções | Participações |\n|---|---|\n| Inspeção de estabelecimentos | 45 |\n| Consultoria técnica | 55 |\n| Investigação de infrações | 50 |\n| Inspeção de estabelecimentos e consultoria técnica | 30 |\n| Inspeção de estabelecimentos e investigação de infrações | 20 |\n| Consultoria técnica e investigação de infrações | 15 |\n| Inspeção de estabelecimentos, consultoria técnica e investigação de infrações | 10 |\n\nA quantidade de participações somente nas funções inspeção de estabelecimentos, consultoria técnica e investigação de infrações foi de",
+   "alternativas": [
+    "75",
+    "5",
+    "20",
+    "50"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"50\":** use o diagrama de três conjuntos, de dentro para fora. Nas três funções: 10. Só em duas: inspeção e consultoria = 30 − 10 = 20; inspeção e investigação = 20 − 10 = 10; consultoria e investigação = 15 − 10 = 5. Só em uma: inspeção = 45 − 20 − 10 − 10 = **5**; consultoria = 55 − 20 − 5 − 10 = **20**; investigação = 50 − 10 − 5 − 10 = **25**. Somente em uma função: 5 + 20 + 25 = **50**.\n\n**As outras:**\n- *75*: é a soma das linhas com mais de uma função (30 + 20 + 15 + 10), sem descontar nada.\n- *5*: é só a parte \"somente inspeção de estabelecimentos\".\n- *20*: é só a parte \"somente consultoria técnica\".\n\n**Para memorizar:** preencha o diagrama de Venn de dentro para fora: primeiro a intersecção dos três, depois as de dois, por último os \"somente\"."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q29",
+   "numero": 29,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Carlos comprou um terreno que possui formato de um retângulo, com dimensões de 25 metros de comprimento e 9 metros de largura. Sua prima Helena comprou um terreno com a mesma área, entretanto, com formato quadrado. A medida do lado do terreno da Helena é de",
+   "alternativas": [
+    "18 metros.",
+    "15 metros.",
+    "16 metros.",
+    "17 metros."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"15 metros.\":** a área do terreno de Carlos é 25 × 9 = **225 m²**. O terreno de Helena é quadrado e tem a mesma área: lado² = 225, então lado = √225 = **15 m**. Conferindo: 15 × 15 = 225.\n\n**As outras:**\n- *18 metros.*: 18² = 324 m², maior que 225 m².\n- *16 metros.*: 16² = 256 m².\n- *17 metros.*: 17² = 289 m².\n\n**Para memorizar:** área do retângulo = comprimento × largura; lado do quadrado = raiz quadrada da área. Aqui, 25 × 9 = 5² × 3², e a raiz é 5 × 3 = 15."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q30",
+   "numero": 30,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sendo b um número real, considere a matriz\n\n![Matriz A de linhas (1, 0) e (b, −1)](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q30.webp)\n\nEntão A²⁰²³ é igual a",
+   "alternativas": [
+    "![Matriz de linhas (1, 0) e (b²⁰²³, −1)](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q30-a.webp)",
+    "![Matriz de linhas (1, 0) e (0, 1)](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q30-b.webp)",
+    "![Matriz de linhas (1, 0) e (b, −1)](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q30-c.webp)",
+    "![Matriz de linhas (1, 1) e (1, 1)](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q30-d.webp)"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"a matriz de linhas (1, 0) e (b, −1)\", a própria A:** calcule A². Linha 1: (1·1 + 0·b ; 1·0 + 0·(−1)) = (1 ; 0). Linha 2: (b·1 + (−1)·b ; b·0 + (−1)·(−1)) = (0 ; 1). Logo **A² = I**, a matriz identidade. Então A²⁰²² = (A²)¹⁰¹¹ = I e A²⁰²³ = A²⁰²² · A = I · A = **A**.\n\n**As outras:**\n- *matriz de linhas (1, 0) e (b²⁰²³, −1)*: potência de matriz não é a potência de cada elemento.\n- *matriz de linhas (1, 0) e (0, 1)*: é a identidade, resultado de expoente par (A², A⁴...); 2023 é ímpar.\n- *matriz de linhas (1, 1) e (1, 1)*: não aparece em nenhuma potência de A.\n\n**Para memorizar:** em potência alta de matriz, procure um ciclo: se A² = I, expoente par dá I e expoente ímpar dá A."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q31",
+   "numero": 31,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "No que se refere ao hardware dos computadores, observe a especificação abaixo de um notebook.\n\n“Lenovo 82MG0009BR - Notebook ideapad Gaming 3i, i5-11300H, 8GB, 512GB SSD Dedicada GTX 1650 4GB 15.6” FHD WVA W11, Preto”\n\nAs citações na especificação que fazem referência à memória principal RAM e à memória secundária de armazenamento são, respectivamente",
+   "alternativas": [
+    "512 SSD e 4 GB",
+    "4 GB e 8 GB",
+    "512 SSD e 8 GB",
+    "8 GB e 512 SSD"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"8 GB e 512 SSD\":** na especificação, \"8GB\" é a **memória RAM** (memória principal, volátil, onde ficam os programas em uso) e \"512GB SSD\" é o **armazenamento** (memória secundária, permanente, onde ficam o sistema e os arquivos). O SSD é um disco de estado sólido, mais rápido que o HD.\n\n**As outras:**\n- *512 SSD e 4 GB*: inverte a ordem e usa os 4 GB, que são a memória de vídeo dedicada da placa GTX 1650, e não a RAM.\n- *4 GB e 8 GB*: 4 GB é a memória da placa de vídeo e 8 GB é a RAM; nenhum dos dois é o armazenamento.\n- *512 SSD e 8 GB*: inverte a ordem pedida (primeiro a RAM, depois o armazenamento).\n\n**Para memorizar:** a ficha de notebook costuma seguir a ordem processador (i5-11300H), RAM (8GB), armazenamento (512GB SSD), placa de vídeo (GTX 1650 4GB) e tela (15.6\" FHD)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q32",
+   "numero": 32,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "No uso dos recursos do Windows 11 BR, um fiscal sanitário acionou a janela do ambiente gráfico Explorador de Arquivos. Estando com essa janela ativa e aberta, ele selecionou a pasta CONTROLE no drive D:\\ e executou o atalho de teclado Ctrl + A, com um objetivo específico de",
+   "alternativas": [
+    "selecionar as pastas e os arquivos armazenados na pasta CONTROLE",
+    "classificar em ordem ascendente, as pastas e os arquivos armazenadas na pasta CONTROLE",
+    "excluir um arquivo gravado na pasta CONTROLE, transferindo-o para a Lixeira",
+    "mover as pastas e os arquivos da pasta CONTROLE para a pasta BACKUP"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"selecionar as pastas e os arquivos armazenados na pasta CONTROLE\":** no Explorador de Arquivos, **Ctrl + A** é \"Selecionar tudo\": marca todos os itens (pastas e arquivos) exibidos na janela. A banca considerou que a pasta CONTROLE estava aberta, então o atalho seleciona todo o conteúdo dela.\n\n**As outras:**\n- *classificar em ordem ascendente, as pastas e os arquivos…*: classificar se faz clicando no cabeçalho da coluna (Nome, Data etc.) ou no botão Classificar; não é o Ctrl + A.\n- *excluir um arquivo gravado na pasta CONTROLE, transferindo-o…*: mandar para a Lixeira é a tecla Delete (ou Ctrl + D); Shift + Delete exclui sem passar pela Lixeira.\n- *mover as pastas e os arquivos da pasta CONTROLE para a pasta BACKUP*: mover se faz com Ctrl + X (recortar) e Ctrl + V (colar) no destino, ou arrastando com o mouse.\n\n**Para memorizar:** Ctrl + A = \"All\" (tudo), em praticamente todo programa do Windows."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q33",
+   "numero": 33,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "No que se relaciona às distribuições Linux, um diretório é simplesmente um arquivo, distribuído em forma de hierarquia. Existem diversas estruturas de diretórios, com o “root” como raiz, que usa o símbolo “/”. Entre os principais diretórios do Linux estão aqueles mais usados e mais úteis no dia a dia, como o que armazena várias bibliotecas de comandos que podem ser ativadas como atalhos. Comparando com o S. O. Windows 10 BR, esse diretório é muito parecido com o *System* ou *System32*.\n\nO diretório em destaque é conhecido como",
+   "alternativas": [
+    "/bin",
+    "/lib",
+    "/etc",
+    "/sys"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"/lib\":** o diretório **/lib** guarda as **bibliotecas compartilhadas** (arquivos .so) e os módulos do kernel usados pelos programas essenciais de /bin e /sbin. É o paralelo das bibliotecas DLL que o Windows guarda em System32.\n\n**As outras:**\n- */bin*: guarda os binários (comandos) essenciais do sistema, como ls, cp e cat.\n- */etc*: guarda os arquivos de configuração do sistema, como /etc/passwd e /etc/fstab.\n- */sys*: é um sistema de arquivos virtual que expõe informações do kernel e dos dispositivos.\n\n**Para memorizar:** lib = library (biblioteca); bin = binários (programas); etc = configurações."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q34",
+   "numero": 34,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "A figura mostra um texto digitado no editor *Word 2019 BR*, com formatação justificada. Durante a digitação, ao texto foi utilizado um ++recurso++ para dar destaque à letra **++N++** do parágrafo, conforme ilustrado e, para finalizar, o alinhamento à esquerda foi aplicado ao texto por meio da execução de um ++atalho de teclado++.\n\n![Parágrafo sobre a Vigilância Sanitária com a letra N inicial em tamanho grande, ocupando três linhas](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q34.webp)\n\nNessas condições, o recurso e o atalho de teclado são, respectivamente:",
+   "alternativas": [
+    "Destacar e Ctrl + Q",
+    "Capitular e Ctrl + E",
+    "Capitular e Ctrl + Q",
+    "Destacar e Ctrl + E"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito definitivo não informa o motivo. Pelo conteúdo, a resposta esperada seria **Capitular e Ctrl + Q**: a letra \"N\" grande, ocupando três linhas no começo do parágrafo, é a **Letra Capitular** (guia Inserir > Letra Capitular), e no Word em português **Ctrl + Q** alinha à esquerda. Uma hipótese para a anulação é a figura mostrar o parágrafo ainda justificado, em conflito com o enunciado, que diz que o alinhamento à esquerda foi aplicado no fim.\n\nPara estudar: no Word em português, **Ctrl + Q** alinha à esquerda, **Ctrl + E** centraliza, **Ctrl + G** alinha à direita e **Ctrl + J** justifica. \"Destacar\" não é nome de recurso do Word; o que existe é o **Realce** (marca-texto), que só muda a cor de fundo do trecho."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q35",
+   "numero": 35,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "email-reunioes",
+   "enunciado": "Um funcionário que atua na área da vigilância sanitária está usando os recursos do software de correio eletrônico *Thunderbird* Mozilla versão 102.15.0 (64-bit), em português. Em dado momento, ele executou um atalho de teclado que tem por significado “Responder a Todos”. Esse atalho de teclado é",
+   "alternativas": [
+    "Ctrl + Shift + T",
+    "Ctrl + R",
+    "Ctrl + T",
+    "Ctrl + Shift + R"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ctrl + Shift + R\":** no Thunderbird, **Ctrl + R** responde só ao remetente e **Ctrl + Shift + R** responde **a todos** (remetente e demais destinatários da mensagem). O Shift \"amplia\" a resposta.\n\n**As outras:**\n- *Ctrl + Shift + T*: em versões do Thunderbird, baixa as mensagens novas de todas as contas; não responde.\n- *Ctrl + R*: responde apenas ao remetente.\n- *Ctrl + T*: em versões do Thunderbird, baixa as mensagens novas da conta atual.\n\n**Para memorizar:** R de \"Reply\" (responder); com Shift, \"Reply All\". No Outlook, responder a todos também é Ctrl + Shift + R."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q36",
+   "numero": 36,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "A planilha da figura foi criada no *Calc* do pacote LibreOffice 7.3.2.2 (x64), em português, a partir da inserção da fórmula **=SE(C3-A2>5;”SAÚDE”;SE(C3-A2<4;”VIGILÂNCIA”;”SANITÁRIA”))** na célula C3. Deseja-se saber, primeiramente o conteúdo mostrado na célula C4 nas condições atuais sem alteração e, para finalizar, se o número 19 exibido em C3 for alterado para 18, qual seria a mudança no conteúdo da célula C4.\n\n![Planilha com 13 em A2, 19 em C3 e ? em C4](data/provas/img/idecan-2023-maracanau-fiscal-sanitario/q36.webp)\n\nNesse contexto, o conteúdo em C4 nas condições atuais sem alteração e o novo conteúdo também em C4 mas com a alteração de 19 para 18 em C3, estão indicados, respectivamente, na seguinte opção",
+   "alternativas": [
+    "SANITÁRIA e VIGILÂNCIA",
+    "SAÚDE e VIGILÂNCIA",
+    "SAÚDE e SANITÁRIA",
+    "VIGILÂNCIA e SANITÁRIA"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"SAÚDE e SANITÁRIA\":** a fórmula está em C4 (o enunciado diz C3 por engano, mas a pergunta é sobre C4) e testa C3 − A2. Agora: 19 − 13 = **6**; como 6 > 5, o primeiro SE é verdadeiro e aparece **SAÚDE**. Com C3 = 18: 18 − 13 = **5**. 5 > 5 é falso, então vai para o segundo SE; 5 < 4 também é falso, então aparece o último valor, **SANITÁRIA**.\n\n**As outras:**\n- *SANITÁRIA e VIGILÂNCIA*: inverte os casos; VIGILÂNCIA só sairia com diferença menor que 4.\n- *SAÚDE e VIGILÂNCIA*: acerta a primeira parte, mas 5 não é menor que 4.\n- *VIGILÂNCIA e SANITÁRIA*: 6 não é menor que 4; o primeiro teste (6 > 5) já dá SAÚDE.\n\n**Para memorizar:** SE aninhado se lê em ordem: o primeiro teste verdadeiro decide; se nenhum for, vale o último valor. Cuidado com o limite: 5 > 5 é falso."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q37",
+   "numero": 37,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "email-reunioes",
+   "enunciado": "O *Microsoft Team* é uma plataforma unificada de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho. Nesse aspecto, representa uma forma de conexão com as pessoas e com as informações que um usuário precisa para colaborar com mais eficiência, de forma mais rápida e simples. Entre seus recursos, um é utilizado para chamar a atenção de um membro da equipe com o objetivo de ficar atualizado sobre os itens de ações ao filtrar o *feed* de atividades. Esse recurso é conhecido como",
+   "alternativas": [
+    "@chat",
+    "@menções",
+    "@exchange",
+    "@meet"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"@menções\":** no Microsoft Teams, ao digitar **@** seguido do nome de alguém, você **menciona** a pessoa: ela recebe notificação e a mensagem aparece no feed de **Atividade**, que pode ser filtrado para mostrar só as menções. É o recurso para chamar a atenção de um membro da equipe.\n\n**As outras:**\n- *@chat*: Chat é a área de conversas do Teams, não um recurso de menção.\n- *@exchange*: Exchange é o servidor de e-mail e calendário da Microsoft que se integra ao Teams; não serve para chamar alguém.\n- *@meet*: \"Reunir agora\" (Meet) inicia uma reunião; não é menção.\n\n**Para memorizar:** @ + nome = menção, no Teams, no Slack, no WhatsApp e nas redes sociais."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q38",
+   "numero": 38,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "De acordo com a Microsoft, o termo nuvem é utilizado para descrever uma rede global de servidores, cada um com uma função única. Nesse sentido, a computação em nuvem elimina a necessidade de as empresas adquirirem, configurarem ou gerenciarem a infraestrutura porque elas pagam apenas pelo que usam. Os principais tipos de modelos de serviços de computação com base no nível de controle, de flexibilidade e de gerenciamento, oferecem acesso a serviços de infraestrutura de TI, incluindo computação, armazenamento, rede e virtualização. Esse serviço de computação em nuvem é conhecido por",
+   "alternativas": [
+    "IaaS – Infraestrutura como Serviço",
+    "SaaS – Software como Serviço",
+    "HaaS – Hardware como Serviço",
+    "PaaS – Plataforma como Serviço"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"IaaS – Infraestrutura como Serviço\":** no **IaaS**, o provedor entrega a infraestrutura de TI: servidores (computação), armazenamento, rede e virtualização, cobrados pelo uso. O cliente cuida do sistema operacional, dos programas e dos dados. Exemplos: máquinas virtuais do Azure e do AWS EC2.\n\n**As outras:**\n- *SaaS – Software como Serviço*: o usuário usa um programa pronto pela internet (Gmail, Microsoft 365), sem gerenciar infraestrutura.\n- *HaaS – Hardware como Serviço*: é o aluguel de equipamento físico gerenciado; não é um dos três modelos principais de nuvem.\n- *PaaS – Plataforma como Serviço*: entrega um ambiente pronto para desenvolver e rodar aplicações, sem gerenciar servidores.\n\n**Para memorizar:** IaaS = infraestrutura (você monta o resto); PaaS = plataforma (você só programa); SaaS = software pronto (você só usa)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q39",
+   "numero": 39,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "Ao navegar em sites da internet por meio do browser Firefox Mozilla, um internauta realizou diversos *downloads* em um *notebook*. Esse usuário para realizar uma avaliação sobre o andamento dos downloads realizados, executa o atalho de teclado descrito em",
+   "alternativas": [
+    "Ctrl + J",
+    "Ctrl + N",
+    "Ctrl + W",
+    "Ctrl + D"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Ctrl + J\":** no Firefox para Windows, **Ctrl + J** abre a lista de **Downloads** (na janela Biblioteca), onde se acompanha o andamento, se pausa ou se abre o que foi baixado. Chrome e Edge usam o mesmo atalho.\n\n**As outras:**\n- *Ctrl + N*: abre uma nova janela do navegador.\n- *Ctrl + W*: fecha a aba atual.\n- *Ctrl + D*: adiciona a página atual aos favoritos.\n\n**Para memorizar:** nos navegadores, J = downloads, H = histórico, D = favoritar, T = nova aba, W = fechar aba."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q40",
+   "numero": 40,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "seguranca",
+   "enunciado": "No contexto da segurança da informação, a inundação de SYN TCP é um tipo de praga cibernética, um tipo de ataque de negação de serviço (DoS) ou de negação de serviço distribuído (DDoS) que envia um grande número de solicitações SYN a um servidor para sobrecarregá-lo com conexões abertas. É um ataque de camada de rede que bombardeia um servidor com solicitações de conexão sem responder às confirmações correspondentes. O grande número de conexões TCP abertas consomem os recursos do servidor para essencialmente bloquear o tráfego legítimo, tornando impossível abrir novas conexões legítimas, dificultando o servidor de funcionar corretamente para usuários autorizados que já estão conectados. Esse tipo de ataque é conhecido por SYN",
+   "alternativas": [
+    "Stockading",
+    "Spooling",
+    "Blockading",
+    "Flooding"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Flooding\":** o ataque descrito é o **SYN flood** (inundação de SYN). Ele explora o aperto de mão de três vias do TCP (SYN, SYN-ACK, ACK): o atacante envia muitos SYN e não responde ao SYN-ACK. O servidor guarda as conexões \"meio abertas\" esperando a resposta, esgota seus recursos e deixa de atender usuários legítimos. É um ataque de negação de serviço (DoS ou DDoS).\n\n**As outras:**\n- *Stockading*: não é nome de ataque de rede.\n- *Spooling*: é a técnica de pôr tarefas em fila para um dispositivo (como a fila de impressão); não é ataque.\n- *Blockading*: também não é termo usado para esse ataque.\n\n**Para memorizar:** flood = inundação: requisições em massa até o servidor parar de responder."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Segundo a Norma Regulamentadora (NR) n.º 32, os equipamentos de proteção individual (EPI), descartáveis ou não, deverão estar à disposição, em número suficiente, nos postos de trabalho, de modo que seja garantido seu imediato fornecimento ou sua reposição. Nesse contexto, o empregador deverá",
+   "alternativas": [
+    "comunicar imediatamente às instâncias superiores todo acidente ou incidente, com possível exposição a agentes biológicos.",
+    "ser o responsável pelo descarte dos objetos perfurocortantes.",
+    "comunicar o extravio ou qualquer dano causado no EPI.",
+    "garantir a conservação e a higienização dos materiais e instrumentos de trabalho."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"garantir a conservação e a higienização dos materiais e instrumentos de trabalho.\":** a NR 32 trata da segurança e saúde no trabalho em serviços de saúde. O enunciado reproduz o item **32.2.4.7** (EPI à disposição, em número suficiente). Logo depois, o item **32.2.4.8** diz que o empregador deve: a) **garantir a conservação e a higienização dos materiais e instrumentos de trabalho**; b) providenciar recipientes e meios de transporte adequados para materiais infectantes, fluidos e tecidos orgânicos.\n\n**As outras:**\n- *comunicar imediatamente às instâncias superiores todo acidente…*: pelo item 32.2.4.11, quem comunica imediatamente acidente ou incidente com possível exposição a agente biológico são os **trabalhadores**, ao responsável pelo local e, quando houver, ao serviço de segurança e saúde do trabalho e à CIPA.\n- *ser o responsável pelo descarte dos objetos perfurocortantes.*: pelo item 32.2.4.14, o descarte cabe ao **trabalhador que usou** o perfurocortante.\n- *comunicar o extravio ou qualquer dano causado no EPI.*: avisar extravio ou dano do EPI é dever do **empregado**, previsto na NR 6.\n\n**Para memorizar:** na NR 32, quem usa descarta o perfurocortante e quem se acidenta comunica; ao empregador cabem os meios (EPI, materiais conservados e higienizados, recipientes, capacitação)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "A responsabilidade legal pela segurança em ambientes de trabalho é dos administradores, no entanto os funcionários devem incorporar em sua rotina de trabalho as boas técnicas microbiológicas e as normas de biossegurança (NR 32 MTE). Sendo assim, deve-se designar uma pessoa ou uma comissão de biossegurança que vise a",
+   "alternativas": [
+    "estabelecer programas de treinamento para prevenção de infecções e monitorar a incidência de sepse.",
+    "implementar as normas preconizadas em biossegurança, a fim de prevenir riscos para funcionários, alunos e pacientes e para o meio ambiente.",
+    "padronizar e normatizar procedimentos que regulamentem as avaliações clínicas.",
+    "identificar e classificar áreas de intervenção cirúrgica."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"implementar as normas preconizadas em biossegurança, a fim de prevenir riscos…\":** o enunciado separa os papéis: a responsabilidade legal é dos administradores, mas a segurança depende de todos seguirem as normas. A pessoa ou **comissão de biossegurança** existe para **pôr essas normas em prática** no dia a dia (orientar, acompanhar, revisar rotinas), protegendo quem trabalha, quem estuda, quem é atendido e o meio ambiente. É a função típica dessa comissão em serviços de saúde e escolas da área.\n\n**As outras:**\n- *estabelecer programas de treinamento para prevenção de infecções e monitorar…*: vigiar infecções e sepse é papel do **controle de infecção hospitalar** (CCIH e Programa de Controle de Infecções, Lei 9.431/1997 e Portaria MS 2.616/1998), não da comissão de biossegurança.\n- *padronizar e normatizar procedimentos que regulamentem as avaliações clínicas.*: protocolos clínicos são da direção técnica e das equipes assistenciais.\n- *identificar e classificar áreas de intervenção cirúrgica.*: classificar áreas por risco (críticas, semicríticas, não críticas) é assunto de projeto e de controle de infecção, como na RDC 50/2002; não é o objetivo da comissão de biossegurança.\n\n**Para memorizar:** biossegurança protege **pessoas e ambiente** contra riscos; CCIH cuida das **infecções** ligadas à assistência."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "As comissões intersetoriais de âmbito nacional, criadas com a finalidade de articular políticas e programas de interesse para a saúde e subordinadas ao Conselho Nacional de Saúde, abrangerão, entre outras, as seguintes atividades:",
+   "alternativas": [
+    "saneamento e meio ambiente; alimentação e nutrição; ciência; e tecnologia leves, leves-duras e duras.",
+    "saneamento e meio ambiente; recursos humanos; ciência e tecnologia; e saúde do trabalhador.",
+    "alimentação e nutrição; vigilância sanitária; administração de medicamentos pelo SUS; e saneamento e meio ambiente.",
+    "alimentação e nutrição; saneamento e meio ambiente; e saúde do trabalhador da área da saúde."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"saneamento e meio ambiente; recursos humanos; ciência e tecnologia; e saúde do trabalhador.\":** a Lei 8.080/1990 cria as **comissões intersetoriais** de âmbito nacional, subordinadas ao Conselho Nacional de Saúde (art. 12), e o **art. 13** lista as atividades que elas articulam: I – alimentação e nutrição; II – saneamento e meio ambiente; III – vigilância sanitária e farmacoepidemiologia; IV – recursos humanos; V – ciência e tecnologia; VI – saúde do trabalhador. A alternativa traz quatro itens da lista, com as palavras da lei.\n\n**As outras:**\n- *saneamento e meio ambiente; alimentação e nutrição; ciência; e tecnologia leves…*: separa \"ciência\" de \"tecnologia\" e inclui \"tecnologias leves, leves-duras e duras\", classificação de Merhy sobre o trabalho em saúde, que não está na lei.\n- *alimentação e nutrição; vigilância sanitária; administração de medicamentos…*: a lei fala em \"vigilância sanitária e farmacoepidemiologia\"; \"administração de medicamentos pelo SUS\" não está no art. 13.\n- *alimentação e nutrição; saneamento e meio ambiente; e saúde do trabalhador da área da saúde.*: a lei fala em saúde do trabalhador em geral, não só de quem trabalha na saúde.\n\n**Para memorizar:** as seis do art. 13: alimentação, saneamento, vigilância sanitária e farmacoepidemiologia, recursos humanos, ciência e tecnologia, saúde do trabalhador."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A lei orgânica do Sistema Único de Saúde (SUS) descreve que as ações e os serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o SUS são desenvolvidos de acordo com as diretrizes previstas na Constituição Federal de 1988, obedecendo a alguns princípios. Acerca dos princípios e das diretrizes do SUS, julgue os itens a seguir.\n\nI. A preservação da autonomia das pessoas, na defesa de sua integridade física e moral, é um dos princípios do SUS.\n\nII. A descentralização político-administrativa, com direção única em cada esfera de governo, é um dos princípios do SUS.\n\nIII. A organização dos serviços públicos e privados, de modo a evitar a duplicidade de meios para fins idênticos, é um dos princípios do SUS.\n\nIV. A conjugação dos recursos financeiros, tecnológicos, materiais e humanos da União, dos estados, do Distrito Federal e dos municípios, na prestação de serviços de assistência à saúde da população, é um dos princípios do SUS.\n\nAssinale a opção correta.",
+   "alternativas": [
+    "Apenas os itens I, II e IV estão certos.",
+    "Apenas os itens I e II estão certos.",
+    "Apenas os itens II e III estão certos.",
+    "Apenas os itens III e IV estão certos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas os itens I, II e IV estão certos.\":** os itens copiam incisos do **art. 7º da Lei 8.080/1990**. I está certo: é o inciso III (preservação da autonomia das pessoas na defesa de sua integridade física e moral). II está certo: inciso IX (descentralização político-administrativa, com direção única em cada esfera de governo). IV está certo: inciso XI (conjugação dos recursos financeiros, tecnológicos, materiais e humanos dos entes). III está **errado**: o inciso XIII fala só em organização dos **serviços públicos** de modo a evitar duplicidade de meios para fins idênticos; a prova acrescentou \"e privados\".\n\n**As outras:**\n- *Apenas os itens I e II estão certos.*: deixa de fora o IV, que reproduz o inciso XI.\n- *Apenas os itens II e III estão certos.*: inclui o III, alterado, e exclui o I e o IV.\n- *Apenas os itens III e IV estão certos.*: o III está errado, e faltam o I e o II.\n\n**Para memorizar:** na Lei 8.080, só os serviços **públicos** são organizados para evitar duplicidade; a iniciativa privada participa do SUS em caráter complementar (art. 4º, § 2º)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A criação do SUS foi resultado de um processo social marcado por uma luta política, e seus princípios coincidem com as bandeiras levantadas pelo movimento de redemocratização do país. Assim, não é por acaso que sua implantação reflete fortemente o processo de descentralização política e a abertura de espaços de participação democrática após 1988. Considerando essas informações, julgue os itens que se seguem.\n\nI. Constituem-se como bases legais do SUS os artigos de 196 a 200 da Constituição Federal de1988 – Seção da Saúde.\n\nII. Constitui-se como base legal do SUS a Lei n.º 8.080/1990.\n\nIII. Constitui-se como base legal do SUS a Lei n.º 8.142/1990.\n\nIV. Constitui-se como base legal do SUS a Emenda Constitucional n.º 120/2022.\n\nAssinale a opção correta.",
+   "alternativas": [
+    "Todos os itens estão certos.",
+    "Apenas os itens I e II estão certos.",
+    "Apenas os itens I, II e III estão certos.",
+    "Apenas os itens II, III e IV estão certos."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas os itens I, II e III estão certos.\":** as bases legais clássicas do SUS são três: a **Constituição de 1988, arts. 196 a 200** (seção \"Da Saúde\"), a **Lei 8.080/1990** (Lei Orgânica da Saúde: condições de promoção, proteção e recuperação da saúde e organização dos serviços) e a **Lei 8.142/1990** (participação da comunidade, por conferências e conselhos, e transferências de recursos). Por isso I, II e III estão certos.\n\n**As outras:**\n- *Todos os itens estão certos.*: a banca não aceitou o IV. A EC 120/2022 trata da responsabilidade da União pela remuneração dos agentes comunitários de saúde e de combate às endemias (piso de dois salários mínimos); não é tida como base legal do SUS.\n- *Apenas os itens I e II estão certos.*: esquece a Lei 8.142/1990, que completa a Lei 8.080.\n- *Apenas os itens II, III e IV estão certos.*: deixa de fora a Constituição, que é a base de tudo, e inclui a EC 120/2022.\n\n**Para memorizar:** tripé legal do SUS = CF arts. 196 a 200 + Lei 8.080 + Lei 8.142.\n\n**Ponto discutível:** a EC 120/2022 acrescentou os §§ 7º a 11 ao art. 198 da Constituição, dentro da seção da Saúde, então dá para argumentar que ela também integra a base constitucional do SUS. A banca manteve o gabarito."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Assinale a opção que apresenta o processo, contínuo e sistemático, de coleta, consolidação e análise de dados e de disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de saúde pública, incluindo a regulação, a intervenção e a atuação em condicionantes e determinantes da saúde, para a proteção e a promoção da saúde da população e para a prevenção e o controle de riscos, agravos e doenças.",
+   "alternativas": [
+    "análise de situação de saúde",
+    "vigilância sanitária",
+    "modelo de atenção à saúde",
+    "vigilância em saúde"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"vigilância em saúde\":** o enunciado copia a definição de **vigilância em saúde** da Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018, art. 2º, § 1º): processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, para planejar e implementar medidas de saúde pública. Ela articula as vigilâncias epidemiológica, em saúde ambiental, em saúde do trabalhador e sanitária (art. 3º).\n\n**As outras:**\n- *análise de situação de saúde*: é atividade **transversal** dentro da vigilância em saúde, ao lado das ações laboratoriais (art. 3º, parágrafo único), e não o processo inteiro.\n- *vigilância sanitária*: é um dos componentes. A Lei 8.080 (art. 6º, § 1º) a define como o conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde.\n- *modelo de atenção à saúde*: é a forma de organizar as ações e os serviços de cuidado, não um processo de coleta e análise de dados.\n\n**Para memorizar:** vigilância **em saúde** é o guarda-chuva; vigilância **sanitária** é uma das quatro vigilâncias debaixo dele."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Em 12 de junho de 2018, foi instituída a Política Nacional de Vigilância em Saúde (PNVS), por meio da Resolução n.º 588/2018, do Conselho Nacional de Saúde (CNS). A PNVS é um documento norteador do planejamento das ações de vigilância em saúde, nas três esferas de gestão do SUS. A respeito da PNVS e das estratégias para a organização da vigilância em saúde que ela deve contemplar, assinale a opção correta.",
+   "alternativas": [
+    "A PNVS deve contemplar a gestão do trabalho e o desenvolvimento e a educação permanentes, o que pressupõe estar em consonância com as necessidades nacionais, de modo a qualificar os profissionais de saúde de todos os níveis de atenção.",
+    "A PNVS deve contemplar a articulação entre as vigilâncias, que pressupõe a proposição e a produção de indicadores conjuntos para o monitoramento e a avaliação da situação de saúde.",
+    "A PNVS deve contemplar os processos de trabalho integrados com a atenção à saúde, que devem ser pautados pelo conhecimento clínico-tecnológico, médico, sanitário, social, demográfico, agroambiental, econômico, cultural, político, de produção e do trabalho.",
+    "A PNVS deve contemplar a regionalização das ações e dos serviços de vigilância ambiental, articulada com a atenção público/privada em saúde, no âmbito da região de saúde."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A PNVS deve contemplar a articulação entre as vigilâncias, que pressupõe… indicadores conjuntos\":** a Resolução CNS 588/2018 lista no **art. 9º** as estratégias para organizar a vigilância em saúde. A primeira (inciso I) é a **articulação entre as vigilâncias**, que pressupõe, entre outras coisas, planejamento conjunto, investigação conjunta de surtos e a **proposição e produção de indicadores conjuntos** para monitoramento e avaliação da situação de saúde (alínea \"d\").\n\n**As outras:**\n- *A PNVS deve contemplar a gestão do trabalho e o desenvolvimento…*: o inciso VI fala em consonância com as necessidades **locais**, para qualificar os profissionais **de vigilância** e de todos os níveis de atenção; a prova trocou por \"nacionais\".\n- *A PNVS deve contemplar os processos de trabalho integrados com a atenção…*: o inciso II fala em conhecimento **epidemiológico**, sanitário, social, demográfico, **ambiental**, econômico etc.; \"clínico-tecnológico\", \"médico\" e \"agroambiental\" foram inventados.\n- *A PNVS deve contemplar a regionalização das ações e dos serviços de vigilância ambiental…*: o inciso III fala em regionalização da **vigilância em saúde**, articulada com a atenção em saúde na região de saúde; não fala em atenção \"público/privada\".\n\n**Para memorizar:** a Resolução CNS 588 é de **12 de julho** de 2018 (o enunciado diz junho)."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Segundo o documento de 2009, Subsídios para a Construção da Política Nacional de Saúde Ambiental (PNSA), pode ser considerada como propósito da PNSA a promoção da saúde humana e de ambientes saudáveis, por meio da integração de políticas públicas,",
+   "alternativas": [
+    "fomentando e buscando bases em pesquisas de campo para atuar junto à gestão.",
+    "fomentando ações em nível nacional, regional, estadual e municipal.",
+    "cooperando técnico-administrativamente com outros atores.",
+    "agregando e apoiando atores, soluções e interesses."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"agregando e apoiando atores, soluções e interesses.\":** o documento Subsídios para Construção da PNSA (Ministério da Saúde e Conselho Nacional de Saúde) diz que o propósito da política é promover a saúde humana e ambientes saudáveis por meio da integração de políticas públicas: (1) **agregando e apoiando atores, soluções e interesses**; (2) fomentando ações em nível **internacional**, regional, estadual e municipal; (3) cooperando **técnica e financeiramente** com outros atores; (4) fomentando e buscando bases e **pesquisas científicas** para atuar; (5) criando mecanismos de avaliação de impactos à saúde de projetos e ações de desenvolvimento.\n\n**As outras:**\n- *fomentando e buscando bases em pesquisas de campo para atuar junto à gestão.*: o texto fala em bases e pesquisas **científicas**, não em pesquisa de campo junto à gestão.\n- *fomentando ações em nível nacional, regional, estadual e municipal.*: o original diz nível **internacional**.\n- *cooperando técnico-administrativamente com outros atores.*: o original fala em cooperação **técnica e financeira**.\n\n**Para memorizar:** a banca copia a lista e troca uma palavra. Guarde as palavras-chave: atores, internacional, técnica e financeira, científicas, avaliação de impacto."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado, oficialmente, a partir de 1990, com o objetivo de coletar dados sobre os nascimentos ocorridos em todo o território nacional e de fornecer informações sobre natalidade para todos os níveis do sistema de saúde. No que se refere à coleta dos dados que alimentam o SINASC, julgue os itens subsequentes.\n\nI. O documento-padrão, de uso obrigatório em todo o território nacional e essencial à coleta de dados de nascidos vivos no Brasil, é a declaração de nascidos vivos (DN).\n\nII. A DN é considerada como o documento hábil para a lavratura da certidão de nascimento pelo Cartório de Registro Civil.\n\nIII. A DN é impressa e preenchida em duas vias, pré-numeradas sequencialmente. Sua emissão e sua distribuição são de competência exclusiva das secretarias de saúde estaduais.\n\nIV. É vedada a distribuição de formulários para profissionais de saúde e parteiras tradicionais, uma vez que as famílias devem ser encaminhadas para a secretaria de saúde do município.\n\nAssinale a opção correta.",
+   "alternativas": [
+    "Apenas os itens I, II e IV estão certos.",
+    "Apenas os itens I e II estão certos.",
+    "Apenas os itens II e III estão certos.",
+    "Apenas os itens III e IV estão certos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas os itens I e II estão certos.\":** pela Portaria SVS/MS 116/2009, a **Declaração de Nascido Vivo (DN)** é o formulário-padrão obrigatório para coletar os dados do SINASC e é o documento hábil para a **lavratura da certidão de nascimento** no cartório (art. 11); a Lei 12.662/2012 confirma esse uso. Por isso I e II estão certos. III erra duas vezes: a DN tem **três vias** autocopiativas com numeração única, e a impressão, a distribuição e o controle cabem ao **Ministério da Saúde** (SVS), que repassa às secretarias estaduais, e estas às municipais (arts. 12 e 13). IV também erra: as secretarias municipais **fornecem** a DN a médicos, enfermeiros e **parteiras tradicionais** vinculadas a unidades de saúde (art. 13, § 8º).\n\n**As outras:**\n- *Apenas os itens I, II e IV estão certos.*: o IV inverte a regra; as parteiras recebem formulários.\n- *Apenas os itens II e III estão certos.*: o III está errado, e o I está certo.\n- *Apenas os itens III e IV estão certos.*: os dois itens estão errados.\n\n**Para memorizar:** DN = 3 vias; o Ministério imprime e controla a numeração, o estado distribui e o município entrega a quem faz o parto."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "O sistema e-SUS Notifica foi lançado, em 27 de março de 2020, para receber notificações de síndrome gripal (SG) suspeita e confirmada de covid-19 no Brasil. Nesse sistema, o módulo Notificação Covid-19 foi implementado para auxiliar a vigilância epidemiológica na identificação e no monitoramento dos casos no território. Acerca do módulo Notificação Covid-19, assinale a opção **incorreta**.",
+   "alternativas": [
+    "Todos os profissionais e todos os estabelecimentos de saúde podem realizar a notificação a que se destina o módulo, após cadastro prévio.",
+    "Todos os casos leves de SG suspeita ou confirmada de covid-19 devem ser registrados.",
+    "Deve ser realizado o registro de resultados coletivos de todos os testes anatomopatológicos com resultado positivo para covid-19.",
+    "Os gestores municipais e estaduais podem visualizar os registros digitados por usuários notificados e residentes, em sua área de abrangência."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Deve ser realizado o registro de resultados coletivos de todos os testes…\" é a resposta:** a notificação no e-SUS Notifica é **individual**: cada ficha é de uma pessoa, com seus dados, sintomas e até 12 **testes laboratoriais** (RT-PCR, RT-LAMP, sorologia e testes rápidos de antígeno ou anticorpo), com resultado positivo **ou negativo**. Não existe registro de \"resultados coletivos\", e o diagnóstico de covid-19 não se faz por exame anatomopatológico.\n\n**As outras (estão corretas):**\n- *Todos os profissionais e todos os estabelecimentos de saúde podem…*: qualquer profissional ou serviço de saúde pode notificar, depois de se cadastrar no sistema (acesso pelo gov.br).\n- *Todos os casos leves de SG suspeita ou confirmada de covid-19 devem ser registrados.*: o módulo existe para os casos leves e moderados de síndrome gripal; os graves (SRAG) vão para o SIVEP-Gripe.\n- *Os gestores municipais e estaduais podem visualizar os registros…*: os perfis de gestor veem as fichas notificadas no seu território ou de residentes nele.\n\n**Para memorizar:** SG leve ou moderada = e-SUS Notifica; SRAG hospitalizada e óbito = SIVEP-Gripe."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Os indicadores de saúde são medidas que contêm informações relevantes sobre o desempenho do sistema de saúde e que devem refletir a situação sanitária de uma população, servindo para a vigilância das condições de saúde. A taxa de mortalidade infantil é um indicador de saúde muito importante, pois estima o risco de as crianças nascidas vivas morrerem antes de completarem um ano de vida. Para calcular esse indicador, é necessário o",
+   "alternativas": [
+    "o número de óbitos em menores de cinco anos de idade (por 1.000), dividido pelo número de internações no ano considerado.",
+    "total de óbitos na população infantil (incluindo causas e taxas de internação).",
+    "o número de óbitos em menores de um ano de idade (por 1.000), dividido pelo número total de habitantes.",
+    "número de óbitos em menores de um ano de idade (por 1.000), dividido pelo número de nascidos vivos da população no ano considerado."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"número de óbitos em menores de um ano de idade (por 1.000), dividido pelo número de nascidos vivos…\":** a **taxa de mortalidade infantil** é: óbitos de **menores de 1 ano** ÷ **nascidos vivos** do mesmo local e ano × **1.000**. O denominador são os nascidos vivos porque eles são a população exposta ao risco de morrer antes de completar 1 ano. Os óbitos vêm do SIM e os nascidos vivos, do SINASC.\n\n**As outras:**\n- *o número de óbitos em menores de cinco anos de idade (por 1.000), dividido…*: menores de 5 anos é outro indicador (mortalidade na infância), e o denominador nunca é o número de internações.\n- *total de óbitos na população infantil (incluindo causas e taxas de internação).*: contagem bruta não é taxa e não considera os nascidos vivos.\n- *o número de óbitos em menores de um ano de idade (por 1.000), dividido pelo número total de habitantes.*: o numerador está certo, mas dividir pela população total mede outra coisa.\n\n**Para memorizar:** mortalidade infantil = óbitos < 1 ano ÷ nascidos vivos × 1.000."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "etica-probidade",
+   "enunciado": "Um ponto importante do Código Sanitário é o conflito de interesse. Essa expressão se traduz como sendo uma contradição de propostas e princípios, em uma situação ou ação da qual participem indivíduos ou grupos, resultando em algum vínculo para com eles. Com relação ao conflito de interesse, julgue os próximos itens.\n\nI. Configura conflito de interesse receber presente de quem tenha interesse em decisão do agente público ou de colegiado do qual este participe, fora dos limites e das condições estabelecidos em regulamento.\n\nII. Configura conflito de interesse prestar serviços, ainda que eventuais, para empresa cuja atividade seja controlada, fiscalizada ou regulada pelo ente ao qual o agente público esteja vinculado.\n\nIII. Configura conflito de interesse divulgar ou fazer uso de informação privilegiada, obtida em razão das atividades exercidas, em proveito próprio ou de terceiros.\n\nIV. Configura conflito de interesse atuar, formalmente, como procurador, consultor, assessor ou intermediário de interesses privados nos órgãos ou nas entidades da administração pública indireta de qualquer dos estados ou dos municípios.\n\nAssinale a opção correta.",
+   "alternativas": [
+    "Todos os itens estão certos.",
+    "Apenas os itens I e II estão certos.",
+    "Apenas os itens I, II e III estão certos.",
+    "Apenas os itens II, III e IV estão certos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Todos os itens estão certos.\":** apesar de o enunciado falar em \"Código Sanitário\", os itens vêm do **art. 5º da Lei 12.813/2013** (conflito de interesses no Poder Executivo federal). I é o inciso VI (receber presente fora dos limites do regulamento). II é o inciso VII (prestar serviços, ainda que eventuais, a empresa controlada, fiscalizada ou regulada pelo ente do agente). III é o inciso I (divulgar ou usar informação privilegiada). IV vem do inciso IV, que proíbe atuar, **ainda que informalmente**, como procurador, consultor, assessor ou intermediário de interesses privados na administração direta ou indireta da União, dos estados, do DF e dos municípios; a atuação formal, na indireta de estados e municípios, está dentro da regra.\n\n**As outras:**\n- *Apenas os itens I e II estão certos.*: o III é o inciso I do art. 5º.\n- *Apenas os itens I, II e III estão certos.*: o IV também é conflito; a lei pega até a atuação informal.\n- *Apenas os itens II, III e IV estão certos.*: o I (presente fora dos limites) é o inciso VI.\n\n**Para memorizar:** conflito de interesses = interesse privado do agente batendo com o público: informação privilegiada, presentes, serviço a empresa regulada, intermediação."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Um importante indicador dos serviços de saúde, que é mensurado pelo número de partos cesáreos dividido pelo total de nascimentos na população, no ano considerado, é a",
+   "alternativas": [
+    "taxa de nascimento, relacionada ao tipo de parto.",
+    "proporção de partos cesáreos.",
+    "taxa de nascidos vivos por parto cesáreo.",
+    "taxa de nascidos vivos em ambiente hospitalar."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"proporção de partos cesáreos.\":** partos cesáreos ÷ total de partos (ou de nascidos vivos), no lugar e no ano considerados, é a **proporção de partos cesáreos**, em geral expressa em percentual (× 100). Ela mostra o peso das cesarianas na assistência ao parto e ajuda a vigiar o excesso de cirurgias sem indicação.\n\n**As outras:**\n- *taxa de nascimento, relacionada ao tipo de parto.*: a taxa de natalidade é nascidos vivos ÷ população total (por 1.000) e não envolve tipo de parto.\n- *taxa de nascidos vivos por parto cesáreo.*: nome inventado; a medida é uma proporção, não uma taxa por parto.\n- *taxa de nascidos vivos em ambiente hospitalar.*: seria a proporção de partos hospitalares, outro indicador, que olha o local do parto e não o tipo.\n\n**Para memorizar:** parte ÷ todo do mesmo grupo = proporção (%); eventos ÷ população exposta = taxa ou coeficiente."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "O *locus* principal de atuação da vigilância sanitária é o âmbito das relações sociais de produção/consumo, onde se constitui como espaço de intervenção, em prol dos interesses da saúde, com vistas ao controle de risco e ao exercício do poder de polícia, que, uma vez acionado, impulsiona um conjunto de tecnologias de intervenção ou de instrumentos de ação. Considerando essa informação, assinale a opção correta acerca da inspeção, como ação sanitária.",
+   "alternativas": [
+    "É um conjunto de procedimentos técnicos e administrativos que visa à proteção da saúde individual e coletiva, por meio da verificação, *in loco*, do cumprimento dos marcos legais e regulatórios sanitários, relacionados às atividades desenvolvidas e às condições sanitárias de estabelecimentos, processos e produtos.",
+    "Integra a estrutura da vigilância sanitária e é um instrumento que produz informação relevante, que permite analisar o produto em si e os efeitos do seu uso na saúde de indivíduos e grupos da população.",
+    "Abrange normas de proteção da saúde coletiva e individual e é imprescindível, devido à natureza interventora das ações e à necessidade de observância do princípio da legalidade na atuação do Estado.",
+    "Avalia e controla situações de risco, processos, a qualidade de produtos, entre outros, e identifica riscos iminentes ou virtuais de agravos à saúde, além dos resultados das ações de controle."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"É um conjunto de procedimentos técnicos e administrativos que visa à proteção…\":** essa é a definição de **inspeção sanitária** usada no Sistema Nacional de Vigilância Sanitária: procedimentos técnicos e administrativos que protegem a saúde individual e coletiva por meio da **verificação no local** (in loco) do cumprimento das normas sanitárias, olhando atividades, estabelecimentos, processos e produtos. É uma das tecnologias de intervenção que o poder de polícia aciona.\n\n**As outras:**\n- *Integra a estrutura da vigilância sanitária e é um instrumento que produz informação…*: descreve o **laboratório** (análise de produtos), que examina o produto em si e os efeitos do seu uso.\n- *Abrange normas de proteção da saúde coletiva e individual e é imprescindível…*: descreve a **legislação sanitária**, exigida pelo princípio da legalidade.\n- *Avalia e controla situações de risco, processos, a qualidade de produtos…*: descreve o **monitoramento**, que acompanha riscos e resultados das ações de controle ao longo do tempo.\n\n**Para memorizar:** inspeção = ir ao local e verificar; laboratório = analisar o produto; norma = dizer o que vale; monitoramento = acompanhar ao longo do tempo."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Desde a criação do SUS, o Brasil obteve importantes avanços no âmbito do saneamento básico, porém ainda existem desigualdades de distribuição dos serviços de saneamento. A Lei n.º 11.445/2007 estabelece diretrizes nacionais para o saneamento básico, e **não** é uma delas a de",
+   "alternativas": [
+    "disponibilidade, em todas as áreas urbanas e rurais, de serviços de drenagem e pavimentação, com manejo das águas fluviais adequado à saúde pública e à segurança da vida e do patrimônio, público e privado.",
+    "articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza e de sua erradicação, de proteção ambiental e de promoção da saúde.",
+    "utilização de tecnologias apropriadas, considerando a capacidade de pagamento dos usuários e a adoção de soluções graduais e progressivas.",
+    "abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos, realizados de formas adequadas à saúde pública e à proteção do meio ambiente."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"disponibilidade, em todas as áreas urbanas e rurais, de serviços de drenagem e pavimentação…\" é a resposta:** a Lei 11.445/2007 lista no **art. 2º** os princípios fundamentais dos serviços de saneamento. O inciso IV fala em disponibilidade, **nas áreas urbanas**, de serviços de **drenagem e manejo das águas pluviais**, adequados à saúde pública, à proteção do meio ambiente e à segurança da vida e do patrimônio. A alternativa acrescenta \"e rurais\", inclui \"pavimentação\" (que não é serviço de saneamento) e troca águas **pluviais** (de chuva) por \"fluviais\" (de rios).\n\n**As outras (estão corretas):**\n- *articulação com as políticas de desenvolvimento urbano e regional…*: é o inciso VI do art. 2º.\n- *utilização de tecnologias apropriadas, considerando a capacidade de pagamento…*: resume o inciso VIII (estímulo a tecnologias apropriadas, consideradas a capacidade de pagamento e soluções graduais e progressivas).\n- *abastecimento de água, esgotamento sanitário, limpeza urbana e manejo…*: é o inciso III.\n\n**Para memorizar:** saneamento básico = quatro serviços: água, esgoto, limpeza urbana e resíduos sólidos, drenagem de águas **pluviais**. Pavimentação não entra."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "etica-probidade",
+   "enunciado": "Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades. Conforme a Lei n.º 8.429/1992, assinale a opção que **não** apresenta atividade considerada como ato de improbidade administrativa.",
+   "alternativas": [
+    "usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades",
+    "perceber vantagem econômica, direta ou indireta, para facilitar a alienação, a permuta ou a locação de bem público ou o fornecimento de serviço, por ente estatal, por preço inferior ao valor de mercado",
+    "utilizar, em obra ou serviço para bem coletivo, qualquer bem móvel, de propriedade ou à disposição de qualquer das entidades, bem como o trabalho de servidores, de empregados ou de terceiros contratados por essas entidades",
+    "incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"utilizar, em obra ou serviço para bem coletivo, qualquer bem móvel…\" é a resposta:** a Lei 8.429/1992, no **art. 9º, IV**, pune quem usa, em obra ou serviço **particular**, bem móvel das entidades públicas ou o trabalho de servidores, empregados ou terceiros contratados por elas. Usar esses recursos em obra **para bem coletivo** é justamente a finalidade pública, e não improbidade.\n\n**As outras (estão corretas):**\n- *usar, em proveito próprio, bens, rendas, verbas ou valores…*: art. 9º, XII.\n- *perceber vantagem econômica, direta ou indireta, para facilitar a alienação…*: art. 9º, III.\n- *incorporar, por qualquer forma, ao seu patrimônio bens, rendas…*: art. 9º, XI.\n\n**Para memorizar:** as três condutas corretas estão no art. 9º, que trata do **enriquecimento ilícito**, embora o enunciado copie o caput do art. 10 (**lesão ao erário**). Desde a Lei 14.230/2021, todos os atos de improbidade exigem **dolo**."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Com base na Portaria n.º 1.428/1993, que estabelece as diretrizes para o estabelecimento de boas práticas de produção e de prestação de serviços na área de alimentos, julgue os itens a seguir.\n\nI. A informação aos órgãos de vigilância sanitária, quanto às práticas adotadas pelos estabelecimentos produtores e(ou) prestadores de serviços na área de alimentos, é uma das diretrizes.\n\nII. A avaliação das informações ao consumidor, apresentadas pelos estabelecimentos produtores e(ou) prestadores de serviços, em relação aos aspectos da qualidade dos alimentos, incluindo o controle do teor nutricional, e da qualidade dos serviços, quanto à proteção da sua saúde, é uma das diretrizes.\n\nIII. A avaliação dos controles de situações de risco à saúde do trabalhador é uma das diretrizes.\n\nIV. A avaliação dos controles de situações de risco para a saúde humana, decorrentes do ambiente, é uma das diretrizes.\n\nAssinale a opção correta.",
+   "alternativas": [
+    "Todos os itens estão certos.",
+    "Apenas os itens I e II estão certos.",
+    "Apenas os itens I, II e III estão certos.",
+    "Apenas os itens II, III e IV estão certos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Todos os itens estão certos.\":** a Portaria MS 1.428/1993 aprovou três textos: o Regulamento Técnico para Inspeção Sanitária de Alimentos, as **Diretrizes para o Estabelecimento de Boas Práticas de Produção e de Prestação de Serviços na Área de Alimentos** e o regulamento de Padrões de Identidade e Qualidade. Na parte \"Diretrizes\" desse segundo texto estão exatamente os quatro itens: informação à vigilância sanitária sobre as práticas adotadas (I), avaliação das informações ao consumidor, incluindo teor nutricional (II), avaliação dos controles de risco à **saúde do trabalhador** (III) e à saúde humana **decorrentes do ambiente** (IV).\n\n**As outras:**\n- *Apenas os itens I e II estão certos.*: deixa de fora os riscos ao trabalhador e ao ambiente, que também são diretrizes.\n- *Apenas os itens I, II e III estão certos.*: esquece o item IV (riscos decorrentes do ambiente).\n- *Apenas os itens II, III e IV estão certos.*: esquece o item I (informação aos órgãos de vigilância sanitária).\n\n**Para memorizar:** a 1.428 olha o alimento de forma ampla: vigilância informada, consumidor informado, trabalhador protegido e ambiente controlado."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "As áreas de competência jurídica não são delimitadas enquanto áreas específicas de atuação profissional em vigilância sanitária. Elas são genéricas, provêm de uma visão de conjunto. Considerando essas informações, assinale a opção que **não** apresenta uma das áreas de competência jurídica.",
+   "alternativas": [
+    "sociopolítica − reflexão sobre a esfera do mundo do trabalho, consciência da qualidade e das implicações éticas do trabalho, autonomia de ação, compromisso social e desenvolvimento do exercício da cidadania",
+    "técnica − domínio dos conteúdos das ações, das regras e dos procedimentos da área de trabalho, compreensão dos processos e do manejo de equipamentos e compreensão dos sistemas e das redes de relações e das formas de se obter e de se usar as informações",
+    "organizacional − planejamento de ações coletivas e de organização do trabalho, estabelecimento de métodos guiados, gerenciamento do tempo e desenvolvimento da flexibilidade e da criatividade no espaço de trabalho",
+    "comunicativa − expressão e comunicação com o grupo, com os superiores hierárquicos, com os subordinados e com os usuários, cooperação, trabalho em equipe, prática do diálogo, exercício da negociação e comunicação interpessoal"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"organizacional − planejamento de ações coletivas… métodos guiados…\" é a resposta:** a questão usa a classificação de competências profissionais dos textos de formação em vigilância sanitária (técnica, organizacional, comunicativa e sociopolítica). Nela, a competência **organizacional** é ligada à **autonomia** do trabalhador: autoplanejamento, auto-organização, estabelecimento de **métodos próprios**, gestão do próprio tempo e espaço de trabalho, com flexibilidade e criatividade. A alternativa troca isso por \"ações coletivas\" e \"métodos **guiados**\", o oposto da ideia.\n\n**As outras (estão corretas):**\n- *sociopolítica − reflexão sobre a esfera do mundo do trabalho…*: reflexão sobre o trabalho, ética, autonomia de ação, compromisso social e cidadania.\n- *técnica − domínio dos conteúdos das ações, das regras e dos procedimentos…*: domínio do conteúdo, dos procedimentos, dos equipamentos e da informação.\n- *comunicativa − expressão e comunicação com o grupo…*: diálogo, cooperação, trabalho em equipe e negociação.\n\n**Para memorizar:** organizacional = \"auto\" (autoplanejamento, auto-organização, métodos próprios). O enunciado fala em competência \"jurídica\", mas o tema é competência profissional."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Segundo a Portaria n.º 1.428/1993, boas práticas são normas e procedimentos para se atingir um determinado padrão de identidade e qualidade em um produto e(ou) em um serviço na área de alimentos, cuja eficácia e cuja efetividade devem ser avaliadas por meio da inspeção e(ou) da investigação. Incluem-se aqui produtos como",
+   "alternativas": [
+    "aditivos, produtos farmacêuticos, embalagens e materiais em contato com alimentos.",
+    "bebidas, medicamentos, embalagens, utensílios e materiais em contato com alimentos.",
+    "fármacos, dermocosméticos, utensílios e materiais em contato com alimentos.",
+    "bebidas, aditivos, embalagens, utensílios e materiais em contato com alimentos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"bebidas, aditivos, embalagens, utensílios e materiais em contato com alimentos.\":** nas Diretrizes de Boas Práticas aprovadas pela Portaria MS 1.428/1993, o conceito de Boas Práticas termina assim: incluem-se também produtos como **bebidas, aditivos, embalagens, utensílios e materiais em contato com alimentos**. A alternativa reproduz a lista inteira, na mesma ordem.\n\n**As outras:**\n- *aditivos, produtos farmacêuticos, embalagens e materiais…*: produtos farmacêuticos não são da área de alimentos; têm boas práticas próprias.\n- *bebidas, medicamentos, embalagens, utensílios e materiais…*: troca \"aditivos\" por \"medicamentos\", que também não são da área de alimentos.\n- *fármacos, dermocosméticos, utensílios e materiais em contato com alimentos.*: fármacos e cosméticos são outras categorias de produtos sujeitos à vigilância sanitária.\n\n**Para memorizar:** a área de alimentos inclui tudo o que entra no alimento ou encosta nele: bebida, aditivo, embalagem, utensílio. Remédio e cosmético ficam de fora."
+  },
+  {
+   "id": "idecan-2023-maracanau-fiscal-sanitario-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "A inspeção sanitária consiste na verificação *in loco* da fonte de água, das instalações e dos equipamentos de um sistema de abastecimento e das condições e dos procedimentos de operação e manutenção, visando avaliar a suficiência de todos esses componentes para produzir e fornecer, sob condições seguras, água para consumo humano. Uma inspeção sanitária nas formas de abastecimento de água para consumo humano é composta, de forma simplificada, por algumas etapas. **Não** é uma delas o(a)",
+   "alternativas": [
+    "determinação das ações curativas e das medidas de promoção da saúde, a serem disponibilizadas aos profissionais, a fim de minimizar e de prevenir riscos à comunidade.",
+    "planejamento das atividades.",
+    "elaboração do relatório da inspeção.",
+    "visita *in loco* para avaliação das unidades/etapas do processo de produção, fornecimento e consumo de água."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"determinação das ações curativas e das medidas de promoção da saúde…\" é a resposta:** a inspeção sanitária do abastecimento de água verifica no local a fonte, as instalações, os equipamentos e a operação do sistema, para saber se ele produz e entrega água segura. De forma simplificada, tem três etapas: **planejamento** (reunir dados do sistema e preparar o roteiro), **visita in loco** às unidades e etapas do processo e **relatório**, com os riscos encontrados e as recomendações ao responsável pelo abastecimento. Ações **curativas** são assistência à saúde e não fazem parte da inspeção.\n\n**As outras (estão corretas):**\n- *planejamento das atividades.*: é a primeira etapa: definir o que inspecionar e levantar informações prévias.\n- *elaboração do relatório da inspeção.*: fecha a inspeção, registra os achados e orienta as medidas corretivas.\n- *visita in loco para avaliação das unidades/etapas do processo…*: é o núcleo da inspeção: percorrer captação, tratamento, reservação, distribuição e consumo.\n\n**Para memorizar:** inspeção = planejar, ir ao local, relatar. Quem inspeciona aponta correções no sistema; não trata doentes."
+  }
+ ]
+}

@@ -33,6 +33,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2023-maracanau-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Maracanaú/CE",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura de Maracanaú/CE",
+  "cargo": "Fiscal Sanitário",
+  "arquivo": "data/provas/idecan-2023-maracanau-fiscal-sanitario.json",
+  "nQuestoes": 60,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",
