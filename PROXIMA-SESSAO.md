@@ -46,8 +46,10 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - [ ] Instalação da tarefa agendada do pop-up.
 - [x] O Arthur confirmou (28/10/2026): questões reais podem entrar no site com crédito completo. Regra atualizada
   no `CLAUDE.md`.
-- [ ] Revisão independente das 230 questões de Específicas feita pela sessão B: aplicar as correções confirmadas
-  nos lotes e rodar o script de novo.
+- [x] Revisão independente das 230 questões de Específicas (estudos-0a, 29/10): nenhum gabarito errado. Ajustes
+  aplicados pela estudos-f8 (commits 6d8342a e 7594c7e): NBR 9077:2025 (esp-0025 a 0032 e aula de circulações),
+  radier pela NBR 6122:2019, enunciado da esp-0095, 8 fontes e improbidade sem a regra da "metade" (STF, ADIs 7156
+  e 7236, na esp-0225 e na aula de ética).
 - [x] 21 provas da IDECAN (com gabarito) baixadas para o Drive pessoal e ligadas em `data/provas.json` (28 provas no total).
 - [x] As 5 provas do PCI com captcha (Fiscal de Obras, Agente Administrativo e Assistente Social de CG 2021, EBSERH
   Arquitetura 2014, UEPB 2014) foram baixadas pelo Arthur no Chrome e estão no Drive: 26 de 28 provas com PDF.
@@ -95,4 +97,4 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 ## Onde parou em 28/10/2026 (noite)
 
 - Nada gravado pela metade. Último arquivo mexido: `scripts/drive-sync/Codigo.gs` (endurecimento do `mesclar_` e campo `e` numérico). Sintaxe conferida; ainda não testado no Google de verdade.
-- Para amanhã, na ordem: (1) Arthur configura o Apps Script (`scripts/drive-sync/COMO-CONFIGURAR.md`) e manda o link de volta se der erro; (2) conferir o gabarito das 230 de Específicas com a lista da estudos-29, se ela enviar; (3) decidir a regra de provas no `CLAUDE.md` (pendente de aprovação do Arthur); (4) apagar, se ele quiser, o PDF duplicado do CRF-SP 2017 no Drive.
+- Para amanhã, na ordem: (1) Arthur configura o Apps Script (`scripts/drive-sync/COMO-CONFIGURAR.md`) e manda o link de volta se der erro; (2) ~~conferir o gabarito das 230 de Específicas~~ (feito em 29/10); (3) decidir a regra de provas no `CLAUDE.md` (pendente de aprovação do Arthur); (4) apagar, se ele quiser, o PDF duplicado do CRF-SP 2017 no Drive.
