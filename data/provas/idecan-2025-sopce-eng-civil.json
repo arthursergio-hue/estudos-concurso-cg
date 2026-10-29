@@ -1,0 +1,932 @@
+{
+ "id": "idecan-2025-sopce-eng-civil",
+ "titulo": "Engenheiro Civil — SOP-CE",
+ "banca": "IDECAN",
+ "ano": 2025,
+ "orgao": "Superintendência de Obras Públicas do Ceará",
+ "cargo": "Engenheiro Civil",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2025-sop-ce-engenheiro-civil",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Os filtros da memória",
+   "fonte": "Ana Kubata. Os filtros da memória. Revista *Mente Afiada,* nº 26, maio de 2025 (adaptado).",
+   "numerarLinhas": false,
+   "conteudo": "A memória, do ponto de vista científico, é uma função essencial do cérebro e, ao mesmo tempo, carrega muitos mistérios em relação à forma como ela funciona e se manifesta durante nossa vida. “Ela é a capacidade do cérebro de codificar, armazenar e recuperar informações”, começa a esclarecer Gustavo Yamin Fernandes, coordenador da equipe de psiquiatria do Hospital Samaritano Higienópolis.\n\nAinda segundo o profissional, esse processo acontece em diferentes fases: codificação (quando percebemos e interpretamos um evento), armazenamento (que costuma envolver o hipocampo) e recuperação (o famoso lembrar de algo). Mas há um porém: nem tudo o que vivemos chega ao estágio final.\n\nO cérebro seleciona o que grava. “Momentos emocionalmente marcantes ou que causaram grande impacto são mais facilmente lembrados”, afirma o psiquiatra. “Isso acontece porque emoções fortes ativam áreas do cérebro ligadas à sobrevivência, como a amígdala, que, por sua vez, influencia diretamente o armazenamento dessas memórias”, completa.\n\nJá o que é neutro ou rotineiro tende a se apagar com o tempo. Isso não significa que não tenha sido vivido, apenas que o cérebro não o considerou relevante o suficiente para guardar. E podemos pensar que isso é, de certo modo, positivo. Afinal, imagina se lembrássemos com riqueza de detalhes de todos os dias da infância – das refeições, dos trajetos até a escola, dos banhos, roupas – seria exaustivo e até confuso. O esquecimento, nesses casos, é uma forma de organização interna.\n\n(...)"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2025-sopce-eng-civil-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Assinale a única das afirmativas abaixo que encontra respaldo na leitura do texto.",
+   "alternativas": [
+    "A memória é uma função prescindível, do ponto de vista científico, para o cérebro humano.",
+    "Quando percebemos e interpretamos um evento ele fica armazenado em nossa memória.",
+    "Quando uma memória é formada com o envolvimento do hipocampo significa que o evento a que ela se refere será recuperado por nosso cérebro em algum momento.",
+    "Temos mais facilidade de memorizar aquilo com que tomamos contato quando estamos calmos.",
+    "O esquecimento é, muitas vezes, algo positivo, pois ajuda o cérebro a se organizar."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"O esquecimento é, muitas vezes, algo positivo, pois ajuda o cérebro a se organizar.\":** o 4º parágrafo diz que o que é neutro ou rotineiro tende a se apagar e que \"podemos pensar que isso é, de certo modo, positivo\", porque lembrar de tudo \"seria exaustivo e até confuso\". E fecha: \"O esquecimento, nesses casos, é uma forma de organização interna\". A alternativa só reformula essa ideia.\n\n**As outras:**\n- *A memória é uma função prescindível…*: prescindível quer dizer dispensável. O texto diz o contrário: a memória é \"uma função essencial do cérebro\".\n- *Quando percebemos e interpretamos um evento ele fica armazenado…*: perceber e interpretar é só a codificação. O texto avisa que \"nem tudo o que vivemos chega ao estágio final\".\n- *Quando uma memória é formada com o envolvimento do hipocampo…*: o texto diz que o armazenamento costuma envolver o hipocampo, mas não garante que a lembrança será recuperada.\n- *Temos mais facilidade de memorizar aquilo com que tomamos contato quando estamos calmos.*: é o oposto. Gravamos melhor os momentos emocionalmente marcantes, porque emoções fortes ativam a amígdala.\n\n**Para memorizar:** a banca troca palavras de forma parecida e sentido oposto: prescindível (dispensável) × imprescindível (essencial)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "No que tange à estruturação do texto, é possível observar que a disposição das ideias e a construção dos parágrafos contribuem para a clareza da argumentação. Sabendo disso, analise a progressão do texto e identifique a alternativa que descreve corretamente a função do parágrafo que se inicia com a frase “O cérebro seleciona o que grava”.",
+   "alternativas": [
+    "Introduz um novo tema, desconectado da definição de memória apresentada no parágrafo anterior, para abordar o papel das emoções na neurologia.",
+    "Acrescenta a dimensão subjetiva da seletividade cerebral à informação sobre as fases, apresentadas de modo objetivo, pelas quais passa a função cerebral da memória.",
+    "Conclui o raciocínio sobre a memória, enfatizando o papel da amígdala como o principal componente responsável pela seletividade.",
+    "Serve como uma transição, resumindo as ideias anteriores sobre as fases da memória para, em seguida, introduzir o conceito de esquecimento.",
+    "Detalha os estágios de codificação, armazenamento e recuperação, com foco nas estruturas cerebrais envolvidas em cada um deles."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Acrescenta a dimensão subjetiva da seletividade cerebral…\":** o 2º parágrafo descreve, de modo objetivo, as fases da memória (codificação, armazenamento e recuperação) e termina com o gancho \"Mas há um porém: nem tudo o que vivemos chega ao estágio final\". O 3º parágrafo, aberto por \"O cérebro seleciona o que grava\", explica esse porém: o cérebro escolhe o que guardar, e as emoções pesam nessa escolha. Ele soma a seletividade às fases já apresentadas; não muda de assunto.\n\n**As outras:**\n- *Introduz um novo tema, desconectado…*: o parágrafo está ligado ao anterior, porque desenvolve o \"porém\" do 2º parágrafo.\n- *Conclui o raciocínio sobre a memória…*: o texto continua no 4º parágrafo, e a amígdala aparece como uma das áreas ligadas à emoção, não como \"o principal componente\".\n- *Serve como uma transição, resumindo as ideias anteriores…*: o parágrafo não resume as fases, e o esquecimento só aparece no parágrafo seguinte.\n- *Detalha os estágios de codificação, armazenamento e recuperação…*: quem faz isso é o 2º parágrafo.\n\n**Para memorizar:** em questão de progressão textual, veja o que o parágrafo anterior deixou em aberto (aqui, o \"porém\") e como o seguinte responde."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Considerando os mecanismos de articulação textual, analise a função dos nexos e operadores sequenciais presentes nos trechos fornecidos abaixo e assinale a alternativa que apresenta a análise correta.",
+   "alternativas": [
+    "A expressão “Ainda segundo o profissional” (2º parágrafo) introduz uma contradição em relação ao que foi dito no parágrafo anterior, apresentando um novo ponto de vista.",
+    "A conjunção “e” em “e, ao mesmo tempo, carrega muitos mistérios” (1º parágrafo), indica uma relação de causalidade entre as duas orações.",
+    "A expressão “Já o que é neutro ou rotineiro” (4º parágrafo) retoma e reforça a ideia de que memórias emocionalmente fortes são mais facilmente lembradas.",
+    "A conjunção “Afinal” (4º parágrafo) introduz uma justificativa ou explicação para a afirmação anterior sobre a positividade do esquecimento.",
+    "O pronome demonstrativo “Isso” no início do 4º parágrafo tem a função de antecipar uma informação que será apresentada a seguir."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A conjunção “Afinal” (4º parágrafo) introduz uma justificativa…\":** o texto afirma que o esquecimento é, \"de certo modo, positivo\" e logo depois explica por quê: \"Afinal, imagina se lembrássemos com riqueza de detalhes de todos os dias da infância [...] seria exaustivo e até confuso\". Nesse uso, \"afinal\" equivale a \"pois\" ou \"porque\": traz o argumento que sustenta a afirmação anterior, com valor explicativo.\n\n**As outras:**\n- *A expressão “Ainda segundo o profissional”…*: \"ainda\" indica continuidade e \"segundo\" indica conformidade (= conforme). O psiquiatra continua falando; não há contradição nem novo ponto de vista.\n- *A conjunção “e” em “e, ao mesmo tempo, carrega muitos mistérios”…*: o \"e\" soma duas características da memória (é essencial e carrega mistérios). É aditivo, não causal.\n- *A expressão “Já o que é neutro ou rotineiro”…*: o \"Já\" marca contraste: depois das memórias marcantes, o texto fala do que se apaga. Ele opõe, não reforça.\n- *O pronome demonstrativo “Isso” no início do 4º parágrafo…*: em \"Isso não significa que não tenha sido vivido\", o pronome retoma o que acabou de ser dito (o rotineiro se apaga). É anafórico, não catafórico.\n\n**Para memorizar:** pronome que retoma o que veio antes é anafórico; o que anuncia o que vem depois é catafórico."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "No trecho “A memória... é uma função essencial do cérebro e, ao mesmo tempo, carrega muitos mistérios...” (1º parágrafo), as duas orações estão unidas por um processo sintático de coordenação. Nesse sentido, assinale a alternativa em que um trecho do texto apresenta a relação sintática de subordinação, com a oração subordinada corretamente identificada.",
+   "alternativas": [
+    "“...o cérebro não o considerou relevante o suficiente para guardar.” (4º parágrafo) (Oração subordinada: “o suficiente para guardar”).",
+    "“Momentos emocionalmente marcantes ou que causaram grande impacto são mais facilmente lembrados.” (3º parágrafo) (Oração subordinada: “ou que causaram grande impacto”).",
+    "“...que, por sua vez, influencia diretamente o armazenamento dessas memórias” (3º parágrafo) (Oração subordinada: “diretamente o armazenamento dessas memórias”).",
+    "“Isso acontece porque emoções fortes ativam áreas do cérebro...” (3º parágrafo) (Oração subordinada: “porque emoções fortes ativam áreas do cérebro”).",
+    "“...à forma como ela funciona e se manifesta durante nossa vida.” (1º parágrafo) (Oração subordinada: “e se manifesta durante nossa vida”)."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"“Isso acontece porque emoções fortes ativam áreas do cérebro...”…\":** \"porque\" é conjunção subordinativa causal. A oração \"porque emoções fortes ativam áreas do cérebro\" depende da principal (\"Isso acontece\") e indica a causa do fato: é uma **oração subordinada adverbial causal**, e foi identificada corretamente.\n\n**As outras:**\n- *“...o cérebro não o considerou relevante o suficiente para guardar.”…*: a subordinada é só \"para guardar\" (adverbial final reduzida de infinitivo); \"o suficiente\" pertence à oração principal.\n- *“Momentos emocionalmente marcantes ou que causaram grande impacto…”…*: \"que causaram grande impacto\" é adjetiva, mas o recorte inclui o \"ou\", conjunção coordenativa que a liga a \"emocionalmente marcantes\".\n- *“...que, por sua vez, influencia diretamente o armazenamento…”…*: \"diretamente o armazenamento dessas memórias\" não tem verbo, então não é oração. A adjetiva é o trecho inteiro, a partir do \"que\".\n- *“...à forma como ela funciona e se manifesta durante nossa vida.”…*: \"e se manifesta durante nossa vida\" está coordenada a \"como ela funciona\", pelo \"e\" aditivo.\n\n**Para memorizar:** oração precisa de verbo, e a subordinada começa pelo conectivo subordinativo (que, porque, como, para…)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "No trecho “O esquecimento, nesses casos, é uma forma de organização interna” (4º parágrafo), a palavra “esquecimento” é um substantivo formado pelo processo de derivação sufixal, a partir do verbo “esquecer”. Considerando a função das classes de palavras em seu uso, analise as afirmações abaixo e assinale a correta.",
+   "alternativas": [
+    "A palavra “segundo”, em “Ainda **++segundo++** o profissional” (2º parágrafo), funciona como uma preposição acidental.",
+    "A palavra “porém”, em “Mas há um **++porém++**: nem tudo o que vivemos chega ao estágio final.” (2º parágrafo), pertence à classe gramatical das conjunções.",
+    "A palavra “facilmente”, em “Momentos emocionalmente marcantes ou que causaram grande impacto são mais **++facilmente++** lembrados” (3º parágrafo), é um adjetivo.",
+    "O vocábulo “que”, em “Já o **++que++** é neutro ou rotineiro tende a se apagar com o tempo.” (4º parágrafo), é uma preposição.",
+    "A palavra “completa”, em “‘que, por sua vez, influencia diretamente o armazenamento dessas memórias’, **++completa++**.” (3º parágrafo), é um advérbio de modo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A palavra “segundo”, em “Ainda segundo o profissional”…\":** \"segundo\" é originalmente numeral (o segundo lugar), mas aqui equivale a \"conforme\": \"Ainda conforme o profissional\". Palavra de outra classe que passa a funcionar como preposição é chamada de **preposição acidental**, como conforme, segundo, consoante, durante, mediante, exceto e salvo.\n\n**As outras:**\n- *A palavra “porém”, em “Mas há um porém…”*: precedida do artigo \"um\", a palavra foi substantivada (= uma ressalva, um obstáculo). Ali é substantivo, não conjunção.\n- *A palavra “facilmente”…*: termina em -mente e modifica o particípio \"lembrados\": é advérbio de modo.\n- *O vocábulo “que”, em “Já o que é neutro…”*: \"o que\" equivale a \"aquilo que\"; o \"que\" é pronome relativo, sujeito de \"é neutro\".\n- *A palavra “completa”…*: é o verbo completar (ele completa), verbo de elocução que fecha a fala do psiquiatra. Não é advérbio.\n\n**Para memorizar:** artigo antes de qualquer palavra a transforma em substantivo: \"um porém\", \"o sim\", \"o amanhã\"."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Analise a flexão de algumas palavras presentes no texto e assinale a alternativa que apresenta o emprego da flexão nominal ou verbal de forma correta e a adequada descrição de seu contexto.",
+   "alternativas": [
+    "A forma verbal “esclarecer”, em “começa a **esclarecer**” (1º parágrafo), está flexionada no imperativo, indicando uma ação contínua.",
+    "A forma verbal “é”, em “Ela **é** a capacidade” (1º parágrafo), está no presente do indicativo, mas expressa uma ação no passado.",
+    "O substantivo “dias”, em “todos os **dias** da infância” (4º parágrafo), está flexionado no plural, concordando com o adjetivo “todos”.",
+    "O substantivo “rotineiro”, em “Já o que é neutro ou **rotineiro** tende a se apagar com o tempo.” (4º parágrafo), está flexionado no masculino singular e concorda com o adjetivo “neutro”.",
+    "O verbo “vivido”, em “Isso não significa que não tenha sido **vivido**” (4º parágrafo), está flexionado no particípio, indicando um estado."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O substantivo “dias”, em “todos os dias da infância”…\":** \"dias\" é substantivo masculino no **plural** (flexão de número: dia → dias), e os termos que o acompanham estão em concordância com ele: \"todos\" e \"os\" também estão no masculino plural. Das cinco, é a única descrição de flexão que bate com o texto.\n\n**As outras:**\n- *A forma verbal “esclarecer”…*: \"esclarecer\" está no infinitivo, forma nominal do verbo, e não no imperativo. \"Começa a esclarecer\" é locução verbal que indica o início da ação.\n- *A forma verbal “é”, em “Ela é a capacidade”…*: está no presente do indicativo e expressa um fato permanente (uma definição), não uma ação passada.\n- *O substantivo “rotineiro”…*: \"rotineiro\" é adjetivo, como \"neutro\"; os dois se coordenam e se referem a \"o que\". Não é substantivo.\n- *O verbo “vivido”…*: o particípio é forma nominal; em \"tenha sido vivido\" ele compõe a voz passiva (algo foi vivido) e indica uma ação sofrida, não um estado.\n\n**Ponto discutível:** \"todos\" é, a rigor, pronome indefinido com função adjetiva, e quem se ajusta é o determinante ao substantivo, não o contrário. A banca simplificou a nomenclatura."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "Considerando o emprego dos pronomes e a sua função no texto, assinale a única alternativa que apresenta uma análise correta.",
+   "alternativas": [
+    "O pronome “ela”, em “carrega muitos mistérios em relação à forma como **ela** funciona” (1º parágrafo), é um pronome oblíquo com função de objeto direto, referindo-se à memória.",
+    "O pronome “sua”, em “por **sua** vez, influencia diretamente o armazenamento dessas memórias” (3º parágrafo), é um pronome possessivo, que indica a posse do hipocampo.",
+    "O pronome “o”, em “...o cérebro não **o** considerou...” (4º parágrafo), é um pronome pessoal do caso oblíquo, que retoma a ideia de “o que é neutro ou rotineiro”.",
+    "O pronome “isso”, em “**Isso** não significa...” (4º parágrafo), é um pronome pessoal do caso reto, que retoma a ideia de que o que é neutro ou rotineiro tende a se apagar.",
+    "O pronome “nossa”, em “**nossa** vida” (1º parágrafo), é um pronome demonstrativo, que indica a vida de quem fala."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O pronome “o”, em “...o cérebro não o considerou...”…\":** em \"o cérebro não o considerou relevante\", o \"o\" é **pronome pessoal oblíquo átono**, objeto direto de \"considerou\" (considerar algo). Ele retoma \"o que é neutro ou rotineiro\", da frase anterior: o cérebro não considerou relevante aquilo que é neutro ou rotineiro.\n\n**As outras:**\n- *O pronome “ela”…*: \"ela\" é pronome pessoal do caso reto e funciona como sujeito de \"funciona\" (a memória funciona), não como objeto direto.\n- *O pronome “sua”, em “por sua vez”…*: o possessivo se refere à amígdala, citada logo antes (\"a amígdala, que, por sua vez...\"), e não ao hipocampo.\n- *O pronome “isso”, em “Isso não significa...”*: \"isso\" é pronome demonstrativo, não pessoal do caso reto.\n- *O pronome “nossa”, em “nossa vida”…*: \"nossa\" é pronome possessivo de 1ª pessoa do plural, não demonstrativo.\n\n**Para memorizar:** pronomes retos (eu, tu, ele, nós, vós, eles) fazem papel de sujeito; oblíquos átonos (me, te, se, o, a, lhe, nos, vos) são complementos."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "enunciado": "A “sintaxe de concordância” se preocupa com a perfeita harmonização das palavras dentro de um período. A harmonia sintática entre o verbo e seu sujeito é regulada pelas regras de concordância verbal. Em algumas ocasiões existe mais de uma forma de fazer a concordância verbal, em outras apenas uma das formas está correta. Sabendo disso, assinale abaixo a única alternativa em que apenas uma das concordâncias sugeridas pode ser considerada correta.",
+   "alternativas": [
+    "Gustavo Yamin Fernandes é um dos membros da equipe de psiquiatria do Hospital Samaritano Higienópolis que **++estudou/estudaram++** o comportamento da memória humana.",
+    "2/5 dos moradores de Higienópolis **++participou/participaram++** dos estudos no Hospital Samaritano Higienópolis.",
+    "Boa parte dos brasileiros **++esquece/esquecem++** compromissos considerados importantes.",
+    "12% do financiamento do Hospital Samaritano Higienópolis **++vem/vêm++** de doações.",
+    "Gustavo Yamin Fernandes é um dos profissionais que mais se **++destacou/destacaram++** no estudo da memória de seres humanos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"2/5 dos moradores de Higienópolis participou/participaram…\":** com número fracionário, o verbo concorda com o **numerador**: \"1/3 dos alunos faltou\", \"2/5 dos alunos faltaram\". Aqui o numerador é 2 (plural) e o complemento \"dos moradores\" também está no plural, então não há base para o singular. Só \"participaram\" é correto.\n\n**As outras (admitem as duas formas):**\n- *Gustavo Yamin Fernandes é um dos membros da equipe… que estudou/estudaram…*: na construção \"um dos ... que\", o verbo pode ir ao plural (concorda com \"membros\") ou ao singular (destaca o \"um\"); além disso, o \"que\" pode retomar \"equipe\".\n- *Boa parte dos brasileiros esquece/esquecem…*: com expressão partitiva (parte de, a maioria de), o verbo concorda com o núcleo \"parte\" (singular) ou com \"brasileiros\" (plural).\n- *12% do financiamento… vem/vêm de doações.*: com porcentagem, o verbo pode concordar com o número (12% vêm) ou com o termo especificado (do financiamento vem).\n- *Gustavo Yamin Fernandes é um dos profissionais que mais se destacou/destacaram…*: mesma estrutura \"um dos que\": o plural é o mais usado, mas o singular é aceito para realçar o indivíduo.\n\n**Para memorizar:** fração → numerador; porcentagem → número ou especificador; \"um dos que\" → plural (preferível) ou singular."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "enunciado": "Assinale a única alternativa em que todas as palavras estão grafadas conforme orienta a ortografia oficial do português brasileiro.",
+   "alternativas": [
+    "Pessoas com alguma imunodefisciência tendem a ter mais problemas de memória.",
+    "Às vezes nossa memória é capsiosa e nos coloca em situações complicadas.",
+    "O estudo da memória é uma obcessão da equipe de psiquiatria do Hospital Samaritano de Higienópolis.",
+    "O Hospital Samaritano Higienópolis é fruto de ações de beneficiência promovidas por empresários do interior paulista.",
+    "O processo de memorização não é regra no nosso cérebro, nós esquecemos a maior parte das coisas que nosso cérebro codifica, lembrar não é a regra, é a exceção."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"O processo de memorização não é regra no nosso cérebro…\":** todas as palavras dessa frase seguem a grafia oficial (memorização, esquecemos, codifica, exceção). Cada uma das outras tem uma palavra com erro de grafia.\n\n**As outras:**\n- *Pessoas com alguma imunodefisciência…*: o certo é **imunodeficiência**, com \"c\", da mesma família de \"deficiente\". Não existe \"sc\" aí.\n- *Às vezes nossa memória é capsiosa…*: o certo é **capciosa** (ardilosa, que engana), com \"c\" antes do \"i\".\n- *O estudo da memória é uma obcessão…*: o certo é **obsessão**, com \"bs\" e \"ss\", da família de \"obsessivo\".\n- *O Hospital Samaritano Higienópolis é fruto de ações de beneficiência…*: o certo é **beneficência**, sem o \"i\" depois do \"c\", como em \"beneficente\".\n\n**Para memorizar:** beneficente e beneficência (nunca \"beneficiente\"); obsessão com \"bs\" e \"ss\"; exceção com \"xc\" e \"ç\"; capcioso com \"pc\"."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "No trecho “Isso acontece porque emoções fortes ativam áreas do cérebro ligadas à sobrevivência, como a **++amígdala++**, que, por sua vez, influencia diretamente o armazenamento dessas memórias”, a palavra em destaque se refere a:",
+   "alternativas": [
+    "uma massa arredondada de tecido localizada na parte de trás da garganta.",
+    "uma estrutura do cérebro em forma de amêndoa, localizada na parte medial do lobo temporal.",
+    "uma estrutura única localizada na região superoposterior da faringe.",
+    "uma glândula em forma de borboleta que fica localizada na parte anterior do pescoço, abraçando a traqueia.",
+    "uma estrutura encontrada nos lóbulos temporais do cérebro dos seres humanos, tanto do lado direito quanto do lado esquerdo, abaixo da superfície cortical, considerada o principal local de armazenamento temporário da memória."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"uma estrutura do cérebro em forma de amêndoa…\":** no texto, a amígdala aparece entre as \"áreas do cérebro ligadas à sobrevivência\" que influenciam o armazenamento de memórias. É a **amígdala cerebral**, estrutura em forma de amêndoa (daí o nome, do grego *amygdále*, amêndoa) na parte medial do lobo temporal, ligada ao processamento das emoções, como o medo.\n\n**As outras:**\n- *uma massa arredondada de tecido localizada na parte de trás da garganta.*: é a amígdala palatina (tonsila). Mesmo nome, outro sentido; o contexto (\"áreas do cérebro\") descarta.\n- *uma estrutura única localizada na região superoposterior da faringe.*: descreve a adenoide (tonsila faríngea).\n- *uma glândula em forma de borboleta…*: é a tireoide.\n- *uma estrutura encontrada nos lóbulos temporais…*: a descrição de \"principal local de armazenamento temporário da memória\" é a do hipocampo, que o texto cita em outro ponto, e não a da amígdala.\n\n**Para memorizar:** palavra com vários sentidos se resolve pelo contexto: \"áreas do cérebro\" leva à amígdala cerebral, não à da garganta."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Joana percebeu que o dia do seu aniversário, 15 de setembro, caiu em uma sexta-feira no ano de 2023. Ela quer saber em que dia da semana cairá seu próximo aniversário, em 2024, sabendo que esse será um ano bissexto. A data cairá em um(a):",
+   "alternativas": [
+    "Quinta-feira.",
+    "Sexta-feira.",
+    "Sábado.",
+    "Domingo.",
+    "Segunda-feira."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Domingo.\":** de 15/09/2023 a 15/09/2024 passa um ano que inclui o dia 29 de fevereiro de 2024, ou seja, **366 dias**. Divida por 7: 366 = 52 × 7 + 2. As 52 semanas completas voltam ao mesmo dia da semana e sobram 2 dias. Sexta-feira + 2 dias = **domingo**.\n\n**As outras:**\n- *Quinta-feira.*: seria voltar um dia, o que não acontece de um ano para o seguinte.\n- *Sexta-feira.*: só se o intervalo fosse múltiplo de 7.\n- *Sábado.*: é o resultado de um ano comum (365 = 52 × 7 + 1); esquece que o intervalo inclui o 29/02/2024.\n- *Segunda-feira.*: somaria 3 dias, mais do que o resto da divisão.\n\n**Para memorizar:** de um ano para o outro, a data anda 1 dia da semana; se o intervalo inclui um 29 de fevereiro, anda 2. Atenção: o que importa é o 29/02 estar dentro do intervalo, não o ano do aniversário ser bissexto."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em uma universidade com 900 estudantes, 520 gostam de leitura, 410 gostam de música e 180 gostam de ambas as atividades. A quantidade de estudantes que não gostam de nenhuma dessas duas atividades é:",
+   "alternativas": [
+    "140.",
+    "150.",
+    "160.",
+    "170.",
+    "180."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"150.\":** use a união de conjuntos. Quem gosta de pelo menos uma atividade: 520 + 410 − 180 = **750**. Os 180 que gostam das duas foram contados duas vezes (na leitura e na música), por isso se subtrai uma vez. Quem não gosta de nenhuma: 900 − 750 = **150**.\n\nPelo diagrama: só leitura = 520 − 180 = 340; só música = 410 − 180 = 230; as duas = 180. Total com alguma preferência: 340 + 230 + 180 = 750.\n\n**As outras:**\n- *140.*, *160.* e *170.*: não saem dos dados; aparecem quando se erra a conta da interseção.\n- *180.*: é o número de quem gosta das duas atividades, não de quem não gosta de nenhuma.\n\n**Para memorizar:** n(L ∪ M) = n(L) + n(M) − n(L ∩ M), com L = leitura e M = música; \"nenhuma\" = total − união."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um vendedor percorreu quatro lojas em sequência, carregando inicialmente uma certa quantidade de produtos. Ele distribuiu os itens da seguinte maneira:\n\n- Na primeira loja: entregou 10 produtos;\n- Na segunda loja: entregou a metade do que tinha naquele momento;\n- Na terceira loja: entregou 12 produtos;\n- Na quarta loja: entregou 10 produtos e ainda restaram 18 produtos na mochila.\n\nA soma dos algarismos da quantidade inicial de produtos é:",
+   "alternativas": [
+    "8.",
+    "10.",
+    "11.",
+    "12.",
+    "9."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"9.\":** resolva de trás para frente, desfazendo cada entrega. No fim sobraram 18. Antes da 4ª loja: 18 + 10 = 28. Antes da 3ª: 28 + 12 = 40. Na 2ª ele entregou a metade e ficou com 40, então tinha 40 × 2 = 80. Antes da 1ª: 80 + 10 = **90**. Soma dos algarismos: 9 + 0 = **9**.\n\nConferindo no sentido normal: 90 − 10 = 80; entrega a metade (40) e fica com 40; 40 − 12 = 28; 28 − 10 = 18.\n\n**As outras:**\n- *8.*, *10.*, *11.* e *12.*: saem de erros no caminho de volta, como dividir por 2 em vez de multiplicar na 2ª loja ou desfazer as entregas fora de ordem. Nenhuma quantidade inicial com essas somas de algarismos termina com 18 produtos.\n\n**Para memorizar:** problema de \"quanto tinha no começo\" se resolve de trás para frente, invertendo as operações: subtrair vira somar, e \"entregou a metade\" vira dobrar."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em uma papelaria, o preço de um caderno e duas canetas é de R$ 26,00. Já o preço de dois cadernos e uma caneta é de R$ 31,00. Logo, o valor de um caderno é:",
+   "alternativas": [
+    "R$ 10,00.",
+    "R$ 11,00.",
+    "R$ 12,00.",
+    "R$ 13,00.",
+    "R$ 14,00."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"R$ 12,00.\":** chame o caderno de c e a caneta de p: c + 2p = 26 e 2c + p = 31. Somando as duas equações: 3c + 3p = 57, logo c + p = 19. Subtraia isso da 2ª equação: (2c + p) − (c + p) = 31 − 19, então **c = 12**. A caneta custa p = 19 − 12 = 7. Conferindo: 12 + 2 × 7 = 26 e 2 × 12 + 7 = 31.\n\n**As outras:**\n- *R$ 10,00.*: a caneta sairia a R$ 8,00 pela 1ª equação, e 2 × 10 + 8 = 28, não 31.\n- *R$ 11,00.*: caneta a R$ 7,50; 22 + 7,50 = 29,50.\n- *R$ 13,00.*: caneta a R$ 6,50; 26 + 6,50 = 32,50.\n- *R$ 14,00.*: caneta a R$ 6,00; 28 + 6 = 34.\n\n**Para memorizar:** em sistema \"cruzado\" como este (1 e 2 / 2 e 1), somar as equações dá a soma das incógnitas de uma vez."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere a seguinte sequência de letras do alfabeto português, que possui 26 letras: A, C, F, J, O, __. A próxima letra da sequência é:",
+   "alternativas": [
+    "U.",
+    "T.",
+    "V.",
+    "X.",
+    "Y."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"U.\":** troque cada letra pela posição no alfabeto: A = 1, C = 3, F = 6, J = 10, O = 15. As diferenças crescem de um em um: +2, +3, +4, +5. A próxima é +6: 15 + 6 = **21**, e a 21ª letra é o **U** (P = 16, Q = 17, R = 18, S = 19, T = 20, U = 21).\n\n**As outras:**\n- *T.*: é a 20ª; corresponderia a repetir a diferença +5.\n- *V.*: é a 22ª; seria somar 7.\n- *X.*: é a 24ª; seria somar 9.\n- *Y.*: é a 25ª; seria somar 10.\n\n**Para memorizar:** sequência de letras quase sempre vira sequência de números pela posição no alfabeto; procure o padrão nas diferenças. Aqui são os números triangulares mais um (1, 3, 6, 10, 15, 21)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q16",
+   "numero": 16,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Planejamento pode ser definido como um processo desenvolvido para o alcance de uma situação futura desejada, de um modo mais eficiente, eficaz e efetivo, com a melhor concentração de esforços e recursos pela empresa ou organização. Com base no conceito de planejamento apresentado, é correto afirmar que o planejamento em uma organização:",
+   "alternativas": [
+    "tem como principal objetivo eliminar todos os riscos e incertezas do ambiente externo.",
+    "serve apenas para definir metas de curto prazo, desconsiderando cenários futuros.",
+    "possibilita à organização interferir no futuro, articulando recursos e estratégias para alcançar seus objetivos.",
+    "deve ser evitado em ambientes instáveis, pois sua eficácia depende da previsibilidade absoluta.",
+    "está voltado exclusivamente para a redução de custos e controle financeiro."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"possibilita à organização interferir no futuro…\":** planejar é decidir hoje o que fazer para chegar a uma situação futura desejada. Como diz o enunciado, o planejamento busca esse futuro com eficiência, eficácia e efetividade, concentrando esforços e recursos. Com ele, a organização age sobre o próprio futuro em vez de só reagir ao que acontece, articulando meios (recursos, estratégias) e fins (objetivos).\n\n**As outras:**\n- *tem como principal objetivo eliminar todos os riscos…*: nenhum planejamento elimina todos os riscos; ele os reduz e prepara respostas.\n- *serve apenas para definir metas de curto prazo…*: há planejamento estratégico (longo prazo), tático e operacional; desconsiderar cenários futuros contraria a ideia de planejar.\n- *deve ser evitado em ambientes instáveis…*: é em ambiente instável que planejar, com cenários e revisões, tem mais valor; não se exige previsibilidade absoluta.\n- *está voltado exclusivamente para a redução de custos…*: custo é só uma das dimensões; o planejamento cobre objetivos, estratégias, pessoas e processos.\n\n**Para memorizar:** em questões de administração, desconfie de \"eliminar todos\", \"apenas\", \"exclusivamente\" e \"absoluta\"."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q17",
+   "numero": 17,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "legislacao-etica",
+   "assunto": "lgpd",
+   "enunciado": "A Lei Geral de Proteção de Dados (nº 13.709/2018) tem como principal objetivo proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. Nesse sentido, de acordo com a Seção I da Lei nº 13.709/2018 (LGPD), é correto afirmar que:",
+   "alternativas": [
+    "O tratamento de dados pessoais sempre exige o consentimento prévio e expresso do titular.",
+    "O tratamento de dados pessoais pode ocorrer sem consentimento quando necessário para a execução de políticas públicas previstas em leis e regulamentos.",
+    "O tratamento de dados pode ser realizado para atender aos interesses comerciais do controlador, sem base legal específica.",
+    "O legítimo interesse do controlador permite o tratamento de dados pessoais mesmo sem avaliação de impacto ou transparência.",
+    "A tutela da saúde só autoriza o tratamento de dados pessoais com autorização judicial expressa."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O tratamento de dados pessoais pode ocorrer sem consentimento quando necessário para a execução de políticas públicas…\":** a Seção I do Capítulo II da LGPD trata dos requisitos para o tratamento de dados pessoais. O **art. 7º** lista as hipóteses (bases legais), e o consentimento é só uma delas (inciso I). O **inciso III** autoriza o tratamento \"pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos\", sem depender de consentimento.\n\n**As outras:**\n- *O tratamento de dados pessoais sempre exige o consentimento…*: o art. 7º tem dez hipóteses; nas outras nove (obrigação legal, políticas públicas, contrato, tutela da saúde etc.) o consentimento não é exigido.\n- *O tratamento de dados pode ser realizado para atender aos interesses comerciais…*: todo tratamento precisa de uma base legal do art. 7º.\n- *O legítimo interesse do controlador permite o tratamento…*: o art. 10 exige transparência no tratamento baseado em legítimo interesse, e a ANPD pode pedir relatório de impacto.\n- *A tutela da saúde só autoriza o tratamento…*: o inciso VIII permite o tratamento para tutela da saúde, em procedimento feito por profissionais de saúde, serviços de saúde ou autoridade sanitária, sem autorização judicial.\n\n**Para memorizar:** na LGPD, consentimento é uma das bases legais, não a única."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q18",
+   "numero": 18,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Antes de implementar qualquer ação de modelagem, análise ou melhoria de processos organizacionais, é fundamental compreender como eles funcionam na prática. Para isso, utiliza-se o mapeamento de processos, uma etapa que permite visualizar e entender as atividades envolvidas, seus responsáveis, seus fluxos e suas interações. Nesse contexto, uma das técnicas mais utilizadas nesse mapeamento é a representação gráfica sequencial das etapas, com uso de símbolos padronizados que facilitam a leitura, a comunicação e a identificação de gargalos, que é denominada de:",
+   "alternativas": [
+    "Matriz GUT.",
+    "Ciclo PDCA.",
+    "Fluxogramação.",
+    "Diagrama de Ishikawa.",
+    "Benchmarking."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Fluxogramação.\":** o **fluxograma** é a representação gráfica da sequência de etapas de um processo, com símbolos padronizados (retângulo para atividade, losango para decisão, elipse para início e fim, setas para o fluxo). Montá-lo é a fluxogramação, técnica mais usada no mapeamento de processos porque mostra quem faz o quê e em que ordem, e evidencia gargalos e retrabalhos.\n\n**As outras:**\n- *Matriz GUT.*: prioriza problemas por Gravidade, Urgência e Tendência; não desenha o processo.\n- *Ciclo PDCA.*: método de melhoria contínua (Planejar, Executar, Verificar, Agir).\n- *Diagrama de Ishikawa.*: a \"espinha de peixe\" organiza as causas de um problema (os 6M), não a sequência de etapas.\n- *Benchmarking.*: comparação com as melhores práticas de outras organizações.\n\n**Para memorizar:** sequência de etapas com símbolos = fluxograma; causas de um problema = Ishikawa; prioridade = GUT."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q19",
+   "numero": 19,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A centralização ocorre quando o Estado executa diretamente suas tarefas, por meio de seus próprios órgãos e agentes, pertencentes à Administração Direta. Em contraposição, os institutos da descentralização e da desconcentração envolvem formas de delegação ou distribuição de competências administrativas. Com base nesse entendimento, assinale a alternativa correta quanto à caracterização dos institutos da centralização, descentralização e desconcentração.",
+   "alternativas": [
+    "Na descentralização, há a criação de órgãos internos do mesmo ente político para melhorar a eficiência administrativa, mantendo-se a unidade hierárquica.",
+    "A descentralização envolve a transferência da execução de atividades para outra pessoa jurídica, distinta do ente político, podendo ser da Administração Indireta ou até privada.",
+    "A desconcentração ocorre quando a União transfere a execução de determinada atividade pública para uma autarquia federal.",
+    "A centralização pressupõe a criação de entidades com personalidade jurídica própria, vinculadas ao ente político, para descentralizar a execução de políticas públicas.",
+    "A desconcentração se dá quando o Estado transfere, por meio de lei, a titularidade e execução de um serviço público para outra pessoa federativa, como um município."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A descentralização envolve a transferência da execução de atividades para outra pessoa jurídica…\":** na **descentralização**, o Estado passa a atividade para **outra pessoa**. Por outorga, cria por lei entidades da Administração Indireta (autarquias, fundações, empresas estatais); por delegação, transfere a execução a particulares (concessionárias e permissionárias). Na **desconcentração**, a distribuição é interna, entre órgãos da mesma pessoa jurídica, com hierarquia.\n\n**As outras:**\n- *Na descentralização, há a criação de órgãos internos…*: órgãos internos da mesma pessoa, com hierarquia, é desconcentração.\n- *A desconcentração ocorre quando a União transfere a execução… para uma autarquia federal.*: autarquia é outra pessoa jurídica; isso é descentralização.\n- *A centralização pressupõe a criação de entidades…*: centralização é o Estado agindo diretamente por seus órgãos; criar entidades é descentralizar.\n- *A desconcentração se dá quando o Estado transfere, por meio de lei, a titularidade…*: transferir para outra pessoa não é desconcentração; e a repartição de competências entre entes federativos vem da Constituição.\n\n**Para memorizar:** desconcentração = continua na mesma pessoa (órgãos); descentralização = outra pessoa (entidades ou particulares)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q20",
+   "numero": 20,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "especificos",
+   "assunto": "etica-probidade",
+   "enunciado": "De acordo com a Lei nº 8.429/1992, assinale a alternativa que apresenta exclusivamente atos de improbidade administrativa que importam enriquecimento ilícito, nos termos do art. 9º da referida lei.",
+   "alternativas": [
+    "Receber propina para favorecer empresa em licitação, utilizar recursos de programas públicos em benefício próprio e permitir que terceiro enriqueça ilicitamente com recursos públicos.",
+    "Utilizar bens públicos em proveito próprio, receber vantagem econômica para facilitar a aquisição de contratos com o poder público e frustrar a licitude de concurso público.",
+    "Perceber vantagem econômica indevida em razão do cargo, adquirir bens incompatíveis com a evolução patrimonial e utilizar recursos públicos sem a devida prestação de contas.",
+    "Praticar ato visando fim proibido em lei, conceder benefício administrativo sem observar os critérios legais e usar cargo público para obter vantagem patrimonial indevida.",
+    "Omitir-se dolosamente na prestação de contas, frustrar licitude de concurso público e usar recursos públicos com desvio de finalidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Receber propina para favorecer empresa em licitação…\":** o **art. 9º** da Lei 8.429/1992 trata dos atos que importam **enriquecimento ilícito**: o agente obtém para si vantagem patrimonial indevida em razão do cargo. Receber propina corresponde ao inciso I (receber vantagem econômica de quem tenha interesse em ação ou omissão do agente), e usar em proveito próprio verbas ou bens públicos, ao inciso XII. Para a banca, é a alternativa que reúne condutas de enriquecimento do próprio agente.\n\n**As outras:**\n- *Utilizar bens públicos em proveito próprio, receber vantagem econômica…*: as duas primeiras são do art. 9º, mas frustrar o caráter concorrencial de concurso público é ato contra os princípios (art. 11, V).\n- *Perceber vantagem econômica indevida em razão do cargo…*: as duas primeiras são do art. 9º (caput e inciso VII), mas deixar de prestar contas é do art. 11, VI.\n- *Praticar ato visando fim proibido em lei…*: \"fim proibido em lei\" era o antigo art. 11, I (revogado em 2021), e conceder benefício sem as formalidades legais é prejuízo ao erário (art. 10, VII).\n- *Omitir-se dolosamente na prestação de contas…*: são atos contra os princípios (art. 11) e de prejuízo ao erário (art. 10).\n\n**Ponto discutível:** \"permitir que terceiro enriqueça ilicitamente\" está no art. 10, XII (prejuízo ao erário), e não no art. 9º; a rigor, nem a alternativa da banca é \"exclusivamente\" do art. 9º."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q21",
+   "numero": 21,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "O Decreto nº 11.462/2023 regulamenta a aplicação da Lei nº 14.133/2021 no âmbito da administração pública federal direta, autárquica e fundacional. Com base nesse Decreto, assinale a alternativa correta sobre os requisitos da contratação direta.",
+   "alternativas": [
+    "A contratação direta por dispensa ou inexigibilidade dispensa a formalização de processo administrativo específico, bastando a justificativa da autoridade competente.",
+    "A estimativa de preços não é obrigatória nos casos de inexigibilidade, desde que haja previsão orçamentária e justificativa técnica.",
+    "É dispensável a publicação do extrato do contrato firmado por inexigibilidade, salvo nos casos de contratação emergencial.",
+    "A pesquisa de preços pode ser substituída por mero orçamento apresentado pelo contratado nos casos de dispensa por valor, independentemente do montante.",
+    "A instrução do processo de contratação direta deve conter, entre outros elementos, a justificativa da escolha do contratado e a descrição da necessidade da contratação."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"A instrução do processo de contratação direta deve conter… a justificativa da escolha do contratado…\":** os requisitos estão no **art. 72 da Lei 14.133/2021**. O processo de contratação direta (dispensa e inexigibilidade) deve ser instruído com: documento de formalização de demanda, onde se descreve a necessidade; estimativa de despesa; pareceres; demonstração de recursos orçamentários; comprovação de habilitação do contratado; **razão da escolha do contratado**; justificativa de preço; e autorização da autoridade competente.\n\n**As outras:**\n- *A contratação direta por dispensa ou inexigibilidade dispensa a formalização de processo…*: a contratação direta dispensa a licitação, não o processo; o art. 72 exige processo instruído.\n- *A estimativa de preços não é obrigatória nos casos de inexigibilidade…*: a estimativa de despesa (inciso II) e a justificativa de preço (inciso VII) valem também na inexigibilidade.\n- *É dispensável a publicação do extrato do contrato…*: o parágrafo único do art. 72 manda divulgar em sítio eletrônico oficial o ato que autoriza a contratação direta ou o extrato do contrato.\n- *A pesquisa de preços pode ser substituída por mero orçamento…*: a estimativa segue os parâmetros do art. 23, e não um orçamento do próprio contratado.\n\n**Observação:** o Decreto 11.462/2023 citado no enunciado regulamenta o sistema de registro de preços (arts. 82 a 86 da lei); os requisitos da contratação direta vêm do art. 72 da própria Lei 14.133."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q22",
+   "numero": 22,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No âmbito da Administração Pública Federal, existem diferentes tipos de autarquias com finalidades específicas. As agências executivas e as agências reguladoras são espécies de autarquias com regimes jurídicos diferenciados, voltadas ao desempenho de funções especializadas. Apesar de ambas possuírem autonomia administrativa, cada uma apresenta características próprias quanto à sua finalidade, estrutura e forma de qualificação. Sobre esse tema, é correto afirmar que:",
+   "alternativas": [
+    "as agências reguladoras são organizações da sociedade civil qualificadas por meio de decreto, enquanto as agências executivas são criadas por lei para regular setores estratégicos da economia.",
+    "as agências reguladoras atuam na execução de políticas públicas finalísticas, enquanto as agências executivas exercem poder normativo e fiscalizatório sobre atividades econômicas.",
+    "as agências executivas fazem parte da Administração Direta, enquanto as agências reguladoras integram a Administração Indireta e estão subordinadas hierarquicamente aos ministérios.",
+    "as agências reguladoras são autarquias sob regime especial voltadas à regulação e fiscalização de setores econômicos, enquanto as agências executivas são autarquias ou fundações qualificadas por decreto, mediante celebração de contrato de gestão.",
+    "tanto agências reguladoras quanto executivas são entidades privadas, qualificadas pelo poder público para a execução indireta de atividades de interesse coletivo."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"as agências reguladoras são autarquias sob regime especial…\":** as **agências reguladoras** (Aneel, Anatel, Anvisa...) são autarquias de regime especial criadas por lei, com dirigentes de mandato fixo e autonomia reforçada (Lei 13.848/2019), para regular e fiscalizar setores. **Agência executiva** não é uma entidade nova: é uma qualificação que o Executivo dá, **por decreto**, a uma autarquia ou fundação que tenha plano estratégico de reestruturação e celebre **contrato de gestão** com o ministério supervisor (Lei 9.649/1998, art. 51).\n\n**As outras:**\n- *as agências reguladoras são organizações da sociedade civil…*: inverte tudo; reguladoras são autarquias criadas por lei, e organizações da sociedade civil são entidades privadas.\n- *as agências reguladoras atuam na execução de políticas públicas finalísticas…*: troca os papéis: quem regula e fiscaliza é a reguladora.\n- *as agências executivas fazem parte da Administração Direta…*: as duas estão na Administração Indireta, e há vinculação (tutela), não subordinação hierárquica.\n- *tanto agências reguladoras quanto executivas são entidades privadas…*: são pessoas jurídicas de direito público.\n\n**Para memorizar:** reguladora = lei + regime especial + regula; executiva = qualificação por decreto + contrato de gestão."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q23",
+   "numero": 23,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Filosofia que significa “mudança para melhor” ou “melhoria contínua”. No ambiente organizacional, esse conceito está relacionado à busca constante por aperfeiçoamento de processos, produtos e comportamentos, com foco não apenas em produtividade, mas também em qualidade de vida, bem-estar e engajamento das pessoas. Trata-se de um processo contínuo, incremental e participativo, envolvendo todos os níveis da organização.\n\nO texto refere-se ao conceito de:",
+   "alternativas": [
+    "Benchmarking.",
+    "Downsizing.",
+    "Kaizen.",
+    "Just in Time.",
+    "Reengenharia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Kaizen.\":** *kaizen* é palavra japonesa (kai = mudança; zen = bom, melhor): \"mudança para melhor\". Na gestão, é a filosofia da **melhoria contínua** feita em pequenos passos, todos os dias, com participação de todos os níveis, do chão de fábrica à diretoria. Ficou conhecida com o Sistema Toyota de Produção.\n\n**As outras:**\n- *Benchmarking.*: comparar processos com os das melhores organizações para adaptar boas práticas.\n- *Downsizing.*: enxugamento da estrutura, com redução de níveis hierárquicos e de pessoal.\n- *Just in Time.*: produzir e entregar no momento exato, com estoque mínimo.\n- *Reengenharia.*: redesenho radical dos processos, o oposto do caráter incremental do kaizen.\n\n**Para memorizar:** kaizen = pequenas melhorias contínuas; reengenharia = mudança radical de uma vez."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q24",
+   "numero": 24,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O planejamento estratégico é uma das principais ferramentas da administração moderna e corresponde à primeira etapa do processo de gestão. Ele visa estabelecer a direção da organização no longo prazo, definindo objetivos, metas e os caminhos mais eficazes para alcançá-los, considerando o ambiente interno e externo. Nesse sentido, a ferramenta que permite identificar as forças e fraquezas internas da organização, bem como as oportunidades e ameaças do ambiente externo, é denominada de:",
+   "alternativas": [
+    "Matriz BCG.",
+    "Diagrama de Ishikawa.",
+    "Análise de Pareto.",
+    "5 Forças de Porter.",
+    "Matriz SWOT."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Matriz SWOT.\":** SWOT reúne **S**trengths (forças), **W**eaknesses (fraquezas), **O**pportunities (oportunidades) e **T**hreats (ameaças). Forças e fraquezas são do ambiente **interno**; oportunidades e ameaças, do ambiente **externo**. Em português também é chamada de análise FOFA.\n\n**As outras:**\n- *Matriz BCG.*: classifica produtos pela participação de mercado e pelo crescimento do mercado (estrela, vaca leiteira, interrogação, abacaxi).\n- *Diagrama de Ishikawa.*: diagrama de causa e efeito (espinha de peixe).\n- *Análise de Pareto.*: princípio 80/20, que separa as poucas causas vitais das muitas triviais.\n- *5 Forças de Porter.*: analisa a competição no setor (rivais, novos entrantes, substitutos, poder de clientes e de fornecedores); olha só o ambiente externo.\n\n**Para memorizar:** SWOT = FOFA: forças e fraquezas dentro; oportunidades e ameaças fora."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q25",
+   "numero": 25,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na Administração Pública, o poder vinculado ocorre quando a lei estabelece todos os elementos do ato administrativo, de forma que o agente não possui margem de escolha: deve agir estritamente conforme a norma. Esse tipo de poder se diferencia do poder discricionário, que admite certa liberdade nos critérios de conveniência e oportunidade. Além desses, a Administração exerce outros poderes, como o regulamentar, hierárquico e disciplinar, cada qual com características próprias. Com base nessas informações, é correto afirmar que:",
+   "alternativas": [
+    "a aplicação de multa a contribuinte prevista expressamente em lei, com valor fixo e prazo determinado, é exemplo típico de poder vinculado.",
+    "o poder vinculado permite ao agente público analisar a conveniência da aplicação da penalidade, desde que os elementos do ato estejam definidos em lei.",
+    "a nomeação de servidor aprovado em concurso público é exemplo de poder discricionário, pois depende da conveniência da Administração.",
+    "o poder regulamentar permite à Administração aplicar sanções administrativas previstas em lei, com liberdade de escolha quanto à penalidade.",
+    "o poder hierárquico é exercido quando o agente edita norma infralegal com efeitos externos, complementando a legislação."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"a aplicação de multa a contribuinte prevista expressamente em lei…\":** no ato **vinculado**, a lei já define todos os elementos (competência, finalidade, forma, motivo e objeto). Se a lei diz que, ocorrido o fato, a multa tem valor fixo e prazo certo, o agente apenas aplica: não há juízo de conveniência e oportunidade.\n\n**As outras:**\n- *o poder vinculado permite ao agente público analisar a conveniência…*: analisar conveniência e oportunidade é marca do poder discricionário.\n- *a nomeação de servidor aprovado em concurso público…*: para o aprovado dentro do número de vagas, a nomeação é direito subjetivo (STF, RE 598.099); a Administração escolhe o momento, dentro da validade do concurso, mas não pode deixar de nomear.\n- *o poder regulamentar permite à Administração aplicar sanções…*: poder regulamentar é editar decretos e regulamentos para a fiel execução da lei; aplicar sanções é poder disciplinar (servidores) ou de polícia (particulares).\n- *o poder hierárquico é exercido quando o agente edita norma infralegal…*: isso é poder regulamentar; o hierárquico serve para ordenar, coordenar, fiscalizar, delegar e avocar dentro da estrutura.\n\n**Para memorizar:** vinculado: a lei diz tudo; discricionário: a lei deixa margem de conveniência e oportunidade."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q26",
+   "numero": 26,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "A Lei nº 14.133/2021, que institui a Nova Lei de Licitações e Contratos Administrativos, revogando progressivamente as normas anteriores, trouxe inovações importantes no regime jurídico das contratações públicas. Entre essas mudanças, estão as modalidades de licitação que passaram a vigorar sob a nova legislação, visando maior eficiência, competitividade e transparência nos processos licitatórios. Desse modo, são modalidades de licitação previstas nessa legislação:",
+   "alternativas": [
+    "Concorrência, Tomada de Preços, Carta Convite, Pregão e Leilão.",
+    "Concorrência, Tomada de Preços, Concurso, Pregão e RDC.",
+    "Concorrência, Pregão, Carta Convite, Diálogo Competitivo e RDC.",
+    "Concorrência, Concurso, Pregão, Leilão e Diálogo Competitivo.",
+    "Tomada de Preços, Concurso, Diálogo Competitivo, Pregão e Leilão."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Concorrência, Concurso, Pregão, Leilão e Diálogo Competitivo.\":** o **art. 28 da Lei 14.133/2021** prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. O diálogo competitivo é a novidade, usado em contratações inovadoras, em que a Administração dialoga com licitantes previamente selecionados para desenvolver a solução. O § 2º do art. 28 proíbe criar outras modalidades ou combinar as existentes.\n\n**As outras:**\n- *Concorrência, Tomada de Preços, Carta Convite, Pregão e Leilão.*: tomada de preços e convite eram da Lei 8.666/1993 e não existem na nova lei.\n- *Concorrência, Tomada de Preços, Concurso, Pregão e RDC.*: além da tomada de preços, traz o RDC (Lei 12.462/2011), regime diferenciado que a Lei 14.133 revogou depois do período de transição.\n- *Concorrência, Pregão, Carta Convite, Diálogo Competitivo e RDC.*: convite e RDC não estão no art. 28.\n- *Tomada de Preços, Concurso, Diálogo Competitivo, Pregão e Leilão.*: tira a concorrência e inclui a extinta tomada de preços.\n\n**Para memorizar:** as cinco da nova lei: pregão, concorrência, concurso, leilão e diálogo competitivo. Saíram tomada de preços e convite."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q27",
+   "numero": 27,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "legislacao-etica",
+   "assunto": "principios-limpe",
+   "enunciado": "Os princípios constitucionais expressos no caput do art. 37 da Constituição Federal de 1988 representam fundamentos essenciais que orientam a atuação da Administração Pública e condicionam a validade dos atos administrativos. Cada princípio possui conteúdo próprio e funções distintas no controle da legalidade e legitimidade dos atos praticados pelos agentes públicos. Sobre esses princípios, é correto afirmar que:",
+   "alternativas": [
+    "a moralidade impõe o cumprimento estrito das normas legais; a publicidade assegura a subjetividade das decisões; e a eficiência se refere apenas ao tempo de execução das tarefas públicas.",
+    "a impessoalidade permite que agentes públicos promovam seu nome desde que haja interesse público; a publicidade se restringe a atos administrativos internos; e a legalidade admite margem de interpretação pessoal.",
+    "a eficiência e a legalidade são princípios exclusivamente vinculados à Administração Direta, enquanto a moralidade e a impessoalidade aplicam-se apenas à Administração Indireta.",
+    "a legalidade diz respeito ao cumprimento da vontade pessoal do agente público; a impessoalidade garante que a publicidade dos atos seja opcional; e a moralidade diz respeito apenas à honestidade subjetiva do servidor.",
+    "a eficiência exige a busca por resultados com qualidade e economia; a legalidade impõe atuação conforme a lei; e a impessoalidade veda favorecimentos ou perseguições pessoais na atuação administrativa."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"a eficiência exige a busca por resultados com qualidade e economia…\":** o caput do **art. 37 da Constituição** traz os princípios LIMPE: legalidade, impessoalidade, moralidade, publicidade e eficiência. **Legalidade**: o administrador só faz o que a lei permite ou determina. **Impessoalidade**: atuação voltada ao interesse público, sem favorecer nem perseguir ninguém e sem promoção pessoal (§ 1º). **Eficiência** (incluída pela EC 19/1998): bons resultados, com qualidade e economia de recursos.\n\n**As outras:**\n- *a moralidade impõe o cumprimento estrito das normas legais…*: cumprir a lei é legalidade; publicidade é transparência, não subjetividade; e eficiência vai muito além do tempo.\n- *a impessoalidade permite que agentes públicos promovam seu nome…*: o § 1º do art. 37 proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal.\n- *a eficiência e a legalidade são princípios exclusivamente vinculados…*: o art. 37 vale para a Administração direta e indireta de todos os Poderes e entes.\n- *a legalidade diz respeito ao cumprimento da vontade pessoal…*: é o oposto: legalidade é a vontade da lei; publicidade é a regra, não opção; e moralidade é ética objetiva, não só honestidade subjetiva.\n\n**Para memorizar:** LIMPE, e nenhum desses princípios admite \"vontade pessoal\" do agente."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q28",
+   "numero": 28,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "O Decreto nº 31.198/2013, do Estado do Ceará, contempla normas relativas à ética profissional no serviço público, prevendo a criação de Comissões de Ética e a aplicação de sanções éticas em casos de descumprimento dos preceitos estabelecidos no Código de Ética. Nesse sentido, assinale a alternativa que apresenta corretamente uma das sanções éticas previstas.",
+   "alternativas": [
+    "Censura Ética.",
+    "Suspensão por 30 dias, sem perda da remuneração.",
+    "Suspensão por 45 dias, com perda da remuneração.",
+    "Exclusão Ética.",
+    "Multa Ética."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Censura Ética.\":** o Decreto estadual 31.198/2013 instituiu o Código de Ética e Conduta da Administração Pública Estadual do Ceará. Quem viola o Código fica sujeito a **sanções éticas**, de caráter moral, aplicadas pela Comissão de Ética: a advertência ética e a **censura ética**. Elas não impedem as sanções administrativas, civis e penais cabíveis, que seguem os próprios processos.\n\n**As outras:**\n- *Suspensão por 30 dias, sem perda da remuneração.*: suspensão é penalidade disciplinar do estatuto do servidor, aplicada em processo administrativo disciplinar, e não pela comissão de ética.\n- *Suspensão por 45 dias, com perda da remuneração.*: também é sanção disciplinar, não ética.\n- *Exclusão Ética.*: essa sanção não existe.\n- *Multa Ética.*: comissão de ética não aplica multa.\n\n**Para memorizar:** comissão de ética aplica sanção moral (advertência, censura); suspensão e demissão vêm do processo disciplinar. No âmbito federal (Decreto 1.171/1994), a pena aplicável pela comissão de ética também é a censura."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q29",
+   "numero": 29,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "legislacao-etica",
+   "assunto": "lai",
+   "enunciado": "A Lei nº 12.527, de 18 de novembro de 2011, conhecida como Lei de Acesso à Informação (LAI), regulamenta o direito constitucional de acesso às informações públicas. Ela estabelece os procedimentos que os órgãos e entidades devem seguir para garantir a transparência ativa e passiva, promovendo o controle social e o fortalecimento da democracia. Nesse sentido, estão sujeitos a seus dispositivos e obrigações:",
+   "alternativas": [
+    "os órgãos do Poder Executivo Federal e as autarquias federais, apenas.",
+    "as entidades que recebam recursos da União para execução de políticas públicas, apenas.",
+    "os órgãos da administração direta e fundações públicas da União, Estados e Municípios.",
+    "todos os órgãos dos Poderes Executivo, Legislativo e Judiciário da União, Estados, Distrito Federal e Municípios, além de entidades privadas que recebam recursos públicos.",
+    "os órgãos do Poder Legislativo e Judiciário, apenas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"todos os órgãos dos Poderes Executivo, Legislativo e Judiciário…\":** a LAI vale para **todos os entes e Poderes**. O art. 1º, parágrafo único, inclui os órgãos da administração direta dos Poderes Executivo, Legislativo (com os Tribunais de Contas) e Judiciário e o Ministério Público, além de autarquias, fundações, empresas públicas, sociedades de economia mista e demais entidades controladas pela União, Estados, DF e Municípios. O **art. 2º** estende a lei, no que couber, às entidades privadas sem fins lucrativos que recebam recursos públicos, quanto a esses recursos.\n\n**As outras:**\n- *os órgãos do Poder Executivo Federal e as autarquias federais, apenas.*: a lei é nacional e alcança todos os Poderes e esferas.\n- *as entidades que recebam recursos da União…, apenas.*: as entidades privadas com recursos públicos são alcançadas, mas não só elas.\n- *os órgãos da administração direta e fundações públicas…*: deixa de fora o Legislativo e o Judiciário como Poderes, as autarquias, as estatais e o DF.\n- *os órgãos do Poder Legislativo e Judiciário, apenas.*: exclui o Executivo, que é o principal destinatário.\n\n**Para memorizar:** LAI: todos os Poderes, todas as esferas, administração direta e indireta, e entidades privadas sem fins lucrativos que recebam recursos públicos."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q30",
+   "numero": 30,
+   "secao": "Noções de Administração Pública e Ética no Serviço Público",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto dos Funcionários Públicos Civis do Ceará (Lei nº 9.826/1974), a posse no cargo público deverá ocorrer dentro de prazo determinado após a publicação do ato de provimento, sendo possível a posse por procuração em situações especiais. Também está prevista a possibilidade de prorrogação do prazo para posse, mediante requerimento do servidor ou seu representante legal. Nesse sentido, é correto afirmar que:",
+   "alternativas": [
+    "a posse deve ocorrer em até 30 dias após a publicação do ato de provimento, e o prazo pode ser prorrogado até o máximo de 60 dias após o término desse prazo, mediante requerimento.",
+    "a posse deve ocorrer em até 15 dias após a publicação do ato de provimento, e o prazo pode ser prorrogado por igual período, a critério da autoridade competente.",
+    "a posse deve ocorrer em até 60 dias após a publicação do ato de provimento, e o prazo pode ser prorrogado por igual período, a critério da autoridade competente.",
+    "a posse deve ocorrer em até 30 dias após a publicação do ato de provimento, e o prazo pode ser prorrogado até o máximo de 90 dias após o término desse prazo, mediante requerimento.",
+    "a posse deve ocorrer em até 30 dias após a publicação do ato de provimento, e o prazo pode ser prorrogado por igual período, mediante requerimento."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"a posse deve ocorrer em até 30 dias… prorrogado até o máximo de 60 dias…\":** pelo Estatuto dos Funcionários Públicos Civis do Ceará (Lei 9.826/1974), a posse deve ocorrer em até **30 dias** contados da publicação do ato de provimento no Diário Oficial. A requerimento do interessado ou de seu representante legal, esse prazo pode ser prorrogado por até **60 dias**, contados do término do prazo inicial. Em casos especiais, a posse pode ser dada por procuração.\n\n**As outras:**\n- *a posse deve ocorrer em até 15 dias…*: o prazo é de 30 dias, e a prorrogação depende de requerimento, não só do critério da autoridade.\n- *a posse deve ocorrer em até 60 dias…*: 60 dias é o limite da prorrogação, não o prazo inicial.\n- *…prorrogado até o máximo de 90 dias…*: a prorrogação vai até 60 dias, não 90.\n- *…prorrogado por igual período, mediante requerimento.*: a prorrogação não é por igual período (30 dias), e sim por até 60 dias.\n\n**Para memorizar:** Ceará: 30 dias + prorrogação de até 60. Compare com a Lei 8.112/1990 (federal): posse em 30 dias, sem prorrogação."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Observe o pórtico abaixo:\n\n![Pórtico com pilar AC de 4 m, força horizontal de 5 kN em D (a 2 m de A), viga CB de 4 m com carga distribuída de 10 kN/m, apoios em A e B](data/provas/img/idecan-2025-sopce-eng-civil/q31.webp)\n\nConsiderando o pórtico mostrado na figura, as reações de apoio em A e B, respectivamente, têm valores, em KN, iguais a:",
+   "alternativas": [
+    "20 e 20.",
+    "23,3 e 16,7.",
+    "25,5 e 14,5.",
+    "22,5 e 17,5.",
+    "30 e 10."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"22,5 e 17,5.\":** pela figura, A é apoio **móvel** (triângulo sobre roletes: só reação vertical) e B é apoio **fixo** (reação vertical e horizontal). A carga distribuída vale 10 kN/m × 4 m = 40 kN, aplicada no meio da viga, a 2 m de B.\n\n- ΣFx = 0: a reação horizontal em B equilibra os 5 kN (5 kN para a esquerda).\n- ΣM em B = 0: a carga da viga e a força de 5 kN (aplicada 2 m abaixo de B) giram o pórtico no mesmo sentido, e VA equilibra as duas: VA × 4 = 40 × 2 + 5 × 2 = 90, logo **VA = 22,5 kN**.\n- ΣFy = 0: VB = 40 − 22,5 = **17,5 kN**.\n\n**As outras:**\n- *20 e 20.*: divide os 40 kN igualmente e ignora o momento da força horizontal.\n- *23,3 e 16,7.*, *25,5 e 14,5.* e *30 e 10.*: somam 40 kN, mas não satisfazem a equação de momentos; vêm de braços de alavanca errados.\n\n**Para memorizar:** comece pelo momento no apoio que tem mais incógnitas (aqui B, com vertical e horizontal): elas somem da equação, e sobra só a reação do outro apoio."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Para o projeto e execução de fundações, o método de valores admissíveis é um método em que as forças ou tensões de ruptura são divididas por um fator de segurança global e a condição de verificação da segurança é:\n\n![Fórmula: Padm = Rk / FSg e Padm ≫ Sk](data/provas/img/idecan-2025-sopce-eng-civil/q32.webp)\n\nOnde Sk representa:",
+   "alternativas": [
+    "as solicitações características.",
+    "as forças ou tensões características de ruptura (últimas).",
+    "o fator de segurança global.",
+    "a tensão admissível de sapatas e tubulões e carga admissível de estaca.",
+    "o fator do material EPS da fundação."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"as solicitações características.\":** no **método de valores admissíveis** da NBR 6122 (projeto e execução de fundações), a resistência característica de ruptura (Rk) é dividida por um fator de segurança global (FSg), o que dá o valor admissível: Padm = Rk / FSg. A verificação exige que esse valor seja **maior ou igual às solicitações características (Sk)**, isto é, às cargas de serviço, sem majoração. O sinal \"≫\" impresso na prova deve ser lido como \"≥\".\n\n**As outras:**\n- *as forças ou tensões características de ruptura (últimas).*: essas são o Rk, no numerador da fração.\n- *o fator de segurança global.*: é o FSg, no denominador.\n- *a tensão admissível de sapatas e tubulões e carga admissível de estaca.*: é o próprio Padm, resultado da divisão.\n- *o fator do material EPS da fundação.*: não existe na fórmula.\n\n**Para memorizar:** valores admissíveis: um único fator global, aplicado na resistência, comparado com a carga de serviço. Valores de projeto: fatores parciais que minoram a resistência e majoram as ações."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "O ensaio de estanqueidade deve ser realizado de modo a submeter cada seção da tubulação a uma pressão mínima de 600 kPa (60 m.c.a.) ou 1,5 vez a máxima pressão de trabalho, o que for menor. O sistema é considerado estanque caso não sejam detectados vazamentos ou queda de pressão manométrica por um período mínimo de 1 h após a estabilização da pressão. O manômetro utilizado deve ter precisão e escala compatíveis com o valor da pressão de ensaio. O ensaio de estanqueidade em tubulações do sistema predial de água quente deve ser realizado com água, antes da aplicação de eventual isolamento térmico ou acústico ou antes de serem recobertas, com temperatura mínima, em °C, de:",
+   "alternativas": [
+    "60.",
+    "65.",
+    "70.",
+    "75.",
+    "80."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"80.\":** o enunciado segue o ensaio de estanqueidade da NBR 5626:2020, que hoje trata em conjunto dos sistemas prediais de água fria e de água quente (ela substituiu a antiga NBR 7198, de água quente). Segundo a norma e o gabarito, as tubulações de água quente são ensaiadas com a própria água aquecida a **no mínimo 80 °C**, antes de receber isolamento ou de serem recobertas. A ideia é testar tubos e juntas já dilatados, na condição mais severa de uso, enquanto ainda dá para ver e corrigir um vazamento.\n\n**As outras:**\n- *60.*, *65.*, *70.* e *75.*: ficam abaixo do mínimo; um ensaio mais frio não reproduz a dilatação térmica das tubulações na situação mais crítica.\n\n**Para memorizar:** estanqueidade de água quente: água a 80 °C, pressão de ensaio mantida por 1 h sem vazamento nem queda, e sempre antes de isolar ou cobrir a tubulação."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "O projeto de água fria é um conjunto de cálculos, especificações e desenhos técnicos que definem o sistema de abastecimento de água potável em edificações. Ele deve atender às normas técnicas (como a NBR 5.626/2020) e garantir eficiência, segurança e conforto aos usuários. Com isso, qualquer componente que combine um ou mais elementos da tubulação, com ou sem variação diametral, e que tenha como finalidade a união, interrupção, ramificação ou mudança de direção de tubos, com o mesmo tipo ou diferentes tipos de juntas, ou o acoplamento de peças de utilização ao sistema, pode ser chamado de:",
+   "alternativas": [
+    "Dreno.",
+    "Conexão.",
+    "Respiro.",
+    "Ramal.",
+    "Barrilete."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Conexão.\":** a definição do enunciado é a de **conexão** na NBR 5626:2020: o componente que une tubos (luvas, uniões), muda a direção (joelhos, curvas), ramifica (tês), fecha a ponta (tampões, caps) ou acopla peças de utilização (adaptadores, joelhos de saída). A expressão \"com ou sem variação diametral\" lembra que buchas e reduções também são conexões.\n\n**As outras:**\n- *Dreno.*: tubulação ou dispositivo usado para esvaziar a rede ou o reservatório.\n- *Respiro.*: tubulação que permite a entrada e a saída de ar, evitando pressões negativas.\n- *Ramal.*: tubulação que deriva da coluna de distribuição e alimenta os sub-ramais.\n- *Barrilete.*: tubulação que sai do reservatório e alimenta as colunas de distribuição.\n\n**Para memorizar:** caminho da água fria predial: reservatório → barrilete → coluna → ramal → sub-ramal → peça de utilização. As conexões fazem as ligações ao longo desse caminho."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "O BDI (benefício de despesas indiretas) é um percentual aplicado sobre os custos diretos de um projeto, para cobrir despesas indiretas, impostos, riscos e lucro. É essencial, para orçamentos na construção civil, serviços ou licitações. Em uma obra pública, a administração central é igual a 4%, os riscos, seguros e garantias somam juntos 1%, as despesas financeiras somam 1%, o lucro é igual a 5% e os impostos igual a 10%. O valor final do BDI, em porcentagem, é igual a:",
+   "alternativas": [
+    "21,25.",
+    "23,73.",
+    "25,74.",
+    "29,88.",
+    "31,43."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"23,73.\":** use a fórmula de BDI adotada pelo TCU (Acórdão 2.622/2013):\n\nBDI = [(1 + AC + S + R + G) × (1 + DF) × (1 + L) ÷ (1 − I)] − 1\n\nCom AC = 4%, S + R + G = 1%, DF = 1%, L = 5% e I = 10%:\\\n1 + 0,04 + 0,01 = 1,05\\\n1,05 × 1,01 = 1,0605\\\n1,0605 × 1,05 = 1,113525\\\n1,113525 ÷ 0,90 = 1,23725\\\nBDI = 1,23725 − 1 = 0,2373, ou seja, **23,73%**.\n\n**As outras:**\n- *21,25.*: fica perto da soma simples das parcelas (4 + 1 + 1 + 5 + 10 = 21%). O BDI não é soma: as taxas incidem umas sobre as outras, e os impostos incidem sobre o preço de venda.\n- *25,74.*, *29,88.* e *31,43.*: não saem da fórmula com esses dados.\n\n**Para memorizar:** os impostos ficam no denominador (1 − I) porque incidem sobre o preço de venda, e não sobre o custo direto."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "O AutoCAD é o software para desenho técnico, amplamente utilizado em arquitetura, engenharia, construção e design industrial. É uma ferramenta indispensável para projetos precisos. A função Snap Mode, que interfere no movimento do cursor na tela, faz com que ele se movimente somente nos pontos do grid e não mais livremente pelo Model Space. Esse comando pode ser ativado ou desativado também pela barra de status. O atalho para função Snap Mode é a tecla:",
+   "alternativas": [
+    "F7.",
+    "F8.",
+    "F9.",
+    "F10.",
+    "F11."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"F9.\":** no AutoCAD, **F9** liga e desliga o **Snap Mode**, que prende o cursor a pontos com um espaçamento definido (em geral o mesmo do grid). O mesmo comando fica num botão da barra de status.\n\n**As outras:**\n- *F7.*: liga e desliga o Grid, a malha de referência que só aparece na tela, sem prender o cursor.\n- *F8.*: Ortho Mode, que restringe o cursor às direções horizontal e vertical.\n- *F10.*: Polar Tracking, rastreamento por ângulos.\n- *F11.*: Object Snap Tracking, rastreamento a partir dos pontos de snap dos objetos.\n\n**Para memorizar:** F3 Osnap, F7 Grid, F8 Ortho, F9 Snap, F10 Polar, F11 Otrack. O grid se vê; o snap se sente no cursor."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Considere a seguinte parte de uma planta baixa:\n\n![Planta baixa parcial com o Quarto 2 (8.64 m²), porta P1, janela J1 e cotas](data/provas/img/idecan-2025-sopce-eng-civil/q37.webp)\n\nSabendo que J1 = 1,50x1,20 m, P1 = 0,80x2,10 m e o pé-direito igual a 3,00 m, bem como a casa possui laje, calcule a quantidade de tinta, em m², para a pintura completa do quarto 2.",
+   "alternativas": [
+    "25,25.",
+    "31,92.",
+    "34,99.",
+    "40,56.",
+    "48,02."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"40,56.\":** \"pintura completa do quarto\" é paredes + teto (a casa tem laje). Pelas cotas, o Quarto 2 mede 2,70 m × 3,20 m por dentro, o que confere com a área indicada (8,64 m²).\n\n- Perímetro: 2 × (2,70 + 3,20) = 11,80 m\n- Paredes: 11,80 × 3,00 = 35,40 m²\n- Desconto da janela J1: 1,50 × 1,20 = 1,80 m²\n- Desconto da porta P1: 0,80 × 2,10 = 1,68 m²\n- Paredes a pintar: 35,40 − 1,80 − 1,68 = 31,92 m²\n- Teto (laje): 8,64 m²\n- Total: 31,92 + 8,64 = **40,56 m²**\n\n**As outras:**\n- *31,92.*: é só a área das paredes; esquece o teto.\n- *25,25.*, *34,99.* e *48,02.*: não correspondem ao cálculo; resultam de perímetro, pé-direito ou descontos errados.\n\n**Para memorizar:** área de pintura = perímetro × pé-direito − vãos + teto (quando há laje). Leia se o enunciado pede só as paredes ou o cômodo completo."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Para o sistema de proteção contra incêndio por meio de hidrante urbano, a operadora deve definir os pontos da instalação de hidrante urbano para combate a incêndio, considerar a capacidade da rede de distribuição para a região específica, conforme normativo técnico específico, e consultar o corpo de bombeiros na fase de concepção da rede ou na ampliação e remanejamento de hidrantes. Em comunidades com demanda total de 50 L/s ou população equivalente a 20.000 (vinte mil) habitantes, deve-se instalar hidrantes em pontos do sistema de abastecimento de água que tenham condições técnicas, inclusive acesso, para alimentar viaturas (carros-pipa) para combate a incêndio, com isso, é possível afirmar que:",
+   "alternativas": [
+    "a água precisa ser necessariamente potável.",
+    "na instalação de hidrante de coluna, o atendimento à acessibilidade é facultativo.",
+    "os hidrantes podem ser de coluna ou subterrâneo.",
+    "viaturas do corpo de bombeiros equipadas com mangueiras de sucção (mangote) podem fazer sucção em hidrantes públicos, para evitar o colapso da rede e a contaminação do sistema de distribuição e água.",
+    "para populações com mais de 20.000 (vinte mil) habitantes, com ocupação predominantemente unifamiliar adensada, comercial, patrimônio público, e áreas horizontalizadas, os hidrantes na rede de distribuição de água devem ter um raio/distância entre 2.000 metros /3.000 metros."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"os hidrantes podem ser de coluna ou subterrâneo.\":** o enunciado trata dos hidrantes urbanos ligados à rede pública de distribuição de água (NBR 12218, projeto de rede de distribuição). Eles podem ser de **coluna**, instalados sobre a calçada, com corpo cilíndrico e saídas para mangueira, ou **subterrâneos**, dentro de uma caixa sob o piso. Hoje vários corpos de bombeiros preferem o de coluna, por ser mais visível e reduzir o risco de contaminação da rede.\n\n**As outras:**\n- *a água precisa ser necessariamente potável.*: o hidrante serve para abastecer as viaturas no combate a incêndio; potabilidade não é condição para isso, e o \"necessariamente\" deixa a frase absoluta.\n- *na instalação de hidrante de coluna, o atendimento à acessibilidade é facultativo.*: o hidrante de coluna fica na calçada e não pode virar obstáculo à circulação; a acessibilidade tem de ser atendida.\n- *viaturas do corpo de bombeiros equipadas com mangueiras de sucção…*: a frase se contradiz. Sugar água direto do hidrante com mangote é o que pode colapsar a rede (pressão negativa) e contaminar a água distribuída; por isso essa sucção é vedada.\n- *para populações com mais de 20.000 (vinte mil) habitantes…*: um raio de 2 a 3 km deixaria bairros inteiros sem cobertura; os espaçamentos usados são da ordem de centenas de metros.\n\n**Para memorizar:** hidrante urbano: de coluna ou subterrâneo, sem sucção por mangote e com acesso garantido para a viatura."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "No dimensionamento hidráulico para redes urbanas de esgotamento sanitário, para todos os trechos da rede, devem ser estimadas as vazões inicial e final (Qi e Qf). Inexistindo dados pesquisados e comprovados, com validade estatística, recomenda-se o menor valor de vazão 1,5 L/s em qualquer trecho. Os diâmetros a empregar devem ser os previstos nas normas e especificações brasileiras relativas aos diversos materiais, o menor não sendo inferior a DN 100. A declividade de cada trecho da rede coletora não deve ser inferior à mínima admissível calculada de acordo com o normativo técnico específico. Cada trecho deve ser verificado pelo critério de tensão trativa média de valor mínimo σt, em Pa (Pascal), igual a:",
+   "alternativas": [
+    "1,0.",
+    "0,8.",
+    "0,6.",
+    "0,5.",
+    "0,3."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"1,0.\":** o enunciado reproduz os critérios da **NBR 9649** (projeto de redes coletoras de esgoto sanitário): vazão mínima de 1,5 L/s em qualquer trecho, diâmetro mínimo DN 100 e verificação de cada trecho pela **tensão trativa média mínima de 1,0 Pa**, calculada para a vazão inicial (Qi) com coeficiente de Manning n = 0,013. Essa tensão de arraste garante a autolimpeza: o próprio escoamento carrega os sólidos e evita depósitos no fundo do tubo.\n\n**As outras:**\n- *0,8.*, *0,6.* e *0,5.*: ficam abaixo do mínimo da norma; com essas tensões, a rede tende a acumular sedimentos.\n- *0,3.*: muito abaixo; não arrastaria areia nem matéria orgânica.\n\n**Para memorizar:** esgoto: tensão trativa ≥ 1,0 Pa. É dela que sai a declividade mínima da norma, I = 0,0055 × Qi^(−0,47), com Qi em L/s e I em m/m."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "O estado de compacidade e a consistência dos solos são parâmetros fundamentais na engenharia geotécnica e na arquitetura, pois definem o comportamento mecânico do solo sob cargas, influenciando a escolha de fundações e técnicas de estabilização. Para as argilas e siltes argilosos, o índice de resistência à penetração (N) igual a 12 indica uma designação de solo:",
+   "alternativas": [
+    "Rijo(a).",
+    "Mole.",
+    "Médio(a).",
+    "Dura(o).",
+    "Muito mole."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Rijo…\":** a designação do solo pelo índice de resistência à penetração do SPT (N) está na **NBR 6484** (sondagem de simples reconhecimento). Argilas e siltes argilosos se descrevem pela **consistência**: N ≤ 2, muito mole; 3 a 5, mole; 6 a 10, média; **11 a 19, rija**; 20 a 30, muito rija; acima de 30, dura. Com N = 12, a argila é **rija**.\n\n**As outras:**\n- *Mole.*: corresponde a N de 3 a 5.\n- *Médio…*: corresponde a N de 6 a 10.\n- *Dura(o).*: corresponde a N acima de 30 (na versão de 2001 da norma, acima de 19).\n- *Muito mole.*: corresponde a N até 2.\n\n**Para memorizar:** areias e siltes arenosos se descrevem pela **compacidade** (fofa, pouco compacta, medianamente compacta, compacta, muito compacta); argilas e siltes argilosos, pela **consistência** (muito mole, mole, média, rija, muito rija, dura)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "De acordo com a lei federal nº 10.257/2001, para o estudo de impacto de vizinhança, a lei municipal definirá os empreendimentos e atividades privados ou públicos em área urbana que dependerão de elaboração de estudo prévio de impacto de vizinhança (EIV) para obter as licenças ou autorizações de construção, ampliação ou funcionamento a cargo do Poder Público municipal. O EIV será executado de forma a contemplar os efeitos positivos e negativos do empreendimento ou atividade quanto à qualidade de vida da população residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões:",
+   "alternativas": [
+    "a elaboração do EIV substitui a elaboração e a aprovação de estudo prévio de impacto ambiental (EIA), requeridas nos termos da legislação ambiental.",
+    "dar-se-á publicidade aos documentos integrantes do EIV, que ficarão disponíveis para consulta, no órgão competente do Poder Público municipal, por qualquer interessado integrante da prefeitura municipal.",
+    "o EIV contempla a iluminação e ventilação do empreendimento.",
+    "o EIV não contempla a paisagem urbana e patrimônio natural e cultural.",
+    "os equipamentos urbanos e comunitários não estão dispostos no estudo do EIV."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"o EIV contempla a iluminação e ventilação do empreendimento.\":** o **art. 37 do Estatuto da Cidade** (Lei 10.257/2001) lista o conteúdo mínimo do EIV: I – adensamento populacional; II – equipamentos urbanos e comunitários; III – uso e ocupação do solo; IV – valorização imobiliária; V – geração de tráfego e demanda por transporte público; VI – **ventilação e iluminação**; VII – paisagem urbana e patrimônio natural e cultural.\n\n**As outras:**\n- *a elaboração do EIV substitui a elaboração e a aprovação de estudo prévio de impacto ambiental…*: o art. 38 diz o contrário: o EIV **não substitui** o EIA.\n- *dar-se-á publicidade aos documentos integrantes do EIV…*: o parágrafo único do art. 37 garante a consulta a **qualquer interessado**; a alternativa restringe aos integrantes da prefeitura.\n- *o EIV não contempla a paisagem urbana e patrimônio natural e cultural.*: contempla (inciso VII).\n- *os equipamentos urbanos e comunitários não estão dispostos no estudo do EIV.*: estão (inciso II).\n\n**Para memorizar:** os sete itens do EIV: adensamento, equipamentos, uso do solo, valorização imobiliária, tráfego, ventilação e iluminação, paisagem e patrimônio. E o EIV nunca substitui o EIA."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "A obrigatoriedade de aplicação da marca do Governo Federal para identificar as obras com recurso público federal é uma ação de comunicação prevista na Instrução Normativa SECOM/PR nº 5, de 26 de fevereiro de 2024, que deve ser desenvolvida pelos órgãos e entidades integrantes do Sistema de Comunicação de Governo do Poder Executivo Federal – SICOM. As placas deverão ser confeccionadas de acordo com cores, medidas, proporções e demais orientações contidas em manual específico. Elas deverão ser confeccionadas em chapas planas, metálicas, galvanizadas, ou de madeira compensada impermeabilizada, em material resistente às intempéries. As informações deverão estar em material plástico (poliestireno), para fixação ou adesivação nas placas. Quando isso não for possível, as informações deverão ser pintadas a óleo ou esmalte. Dá-se preferência ao material plástico, pela sua durabilidade e qualidade. As placas deverão ser a fixadas em local visível, preferencialmente no acesso principal do empreendimento ou voltadas para a via que favoreça a melhor visualização. Recomenda-se que as placas sejam mantidas em bom estado de conservação, inclusive quanto à integridade do padrão das cores, durante todo o período de execução das obras. Para o padrão geral das placas, a proporção largura x altura é de:",
+   "alternativas": [
+    "4x X 4x.",
+    "6x X 5x.",
+    "7x X 4x.",
+    "8x X 3x.",
+    "10x X 5x."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"10x X 5x.\":** o manual de uso da marca do Governo Federal em obras, ao qual remete a IN SECOM/PR nº 5/2024, define o padrão geral da placa na proporção **10x por 5x**: a largura é o dobro da altura. O \"x\" é um módulo: a placa pode ter vários tamanhos, desde que mantenha a proporção, e as áreas internas (conceito, nome e informações da obra, assinaturas) também são medidas em múltiplos de x.\n\n**As outras:**\n- *4x X 4x.*: daria uma placa quadrada, que não é o padrão.\n- *6x X 5x.*, *7x X 4x.* e *8x X 3x.*: proporções diferentes de 2:1; nenhuma é a do padrão geral do manual.\n\n**Para memorizar:** placa de obra com recurso federal: retângulo deitado com largura = 2 × altura (10x × 5x), em chapa resistente às intempéries e fixada em local visível, de preferência no acesso principal."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Em projetos arquitetônicos, a representação dos materiais é essencial para comunicar as escolhas estéticas, técnicas e funcionais. Ela aparece em diferentes etapas (estudo preliminar, anteprojeto, projeto executivo) e em variados suportes (desenhos, maquetes, modelos 3D). A representação clara dos materiais evita erros na obra e garante fidelidade ao conceito do projeto. De acordo com a imagem abaixo, a representação do material é o(a):",
+   "imagem": "data/provas/img/idecan-2025-sopce-eng-civil/q43.webp",
+   "alternativas": [
+    "Mastique.",
+    "Talude em vista.",
+    "Terra.",
+    "Isolante termoacústico.",
+    "Laje pré-fabricada."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Isolante termoacústico.\":** na NBR 6492:2021 (documentação técnica para projetos arquitetônicos e urbanísticos), o isolamento térmico ou acústico, como as mantas de lã de vidro e de lã de rocha, é representado em corte por uma faixa entre duas linhas preenchida por um traço contínuo em laços, que lembra o aspecto fofo da manta. É o desenho da figura.\n\n**As outras:**\n- *Mastique.*: massa elástica de vedação de juntas; aparece como preenchimento estreito da junta, não como faixa em laços.\n- *Talude em vista.*: representado por traços curtos e longos alternados a partir da crista do talude.\n- *Terra.*: tem hachura própria de solo, sem as duas linhas paralelas e os laços.\n- *Laje pré-fabricada.*: o corte mostra as vigotas e os elementos de enchimento entre elas.\n\n**Para memorizar:** faixa com laços ou ondas contínuas entre duas linhas = manta isolante (termoacústica)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "O Steel Framing é um sistema construtivo moderno que utiliza perfis de aço galvanizado leve como estrutura principal, substituindo os métodos tradicionais de alvenaria ou concreto. Esse método é amplamente utilizado em edifícios residenciais, comerciais e industriais, oferecendo agilidade, sustentabilidade e precisão na construção. Sistemas construtivos estruturados em perfis leves de aço formados a frio, com fechamentos em chapas delgadas, têm diversos elementos em seus componentes estruturais. De acordo com a figura abaixo, sobre o perfil de aço, normalmente utilizado na horizontal, para contenção lateral dos componentes estruturais, o elemento marcado com a letra “Y” é o(a):",
+   "imagem": "data/provas/img/idecan-2025-sopce-eng-civil/q44.webp",
+   "alternativas": [
+    "Bloqueador.",
+    "Montante de composição.",
+    "Guia de abertura.",
+    "Ombreira.",
+    "Viga de borda."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Bloqueador.\":** no light steel framing (NBR 16970-2), o **bloqueador** é um perfil curto colocado na horizontal entre dois montantes ou duas vigas, preso por cantoneiras, que trava lateralmente esses elementos e reduz a flambagem lateral e a torção. Na figura, Y é justamente o perfil horizontal que liga os dois perfis paralelos, fixado nas pontas pelas cantoneiras.\n\n**As outras:**\n- *Montante de composição.*: perfil vertical associado a outros para formar um montante composto, por exemplo ao lado de aberturas.\n- *Guia de abertura.*: perfil horizontal que fecha a parte de cima ou de baixo de um vão (verga ou peitoril) e recebe os montantes curtos.\n- *Ombreira.*: perfil vertical ao lado de uma abertura, que apoia a verga.\n- *Viga de borda.*: perfil que arremata o perímetro do entrepiso, onde se apoiam as vigas.\n\n**Para memorizar:** no steel frame, o travamento lateral é feito por bloqueadores e fitas de aço; guias são os perfis em U que recebem os montantes ou fecham os vãos."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Para a execução de redes de drenagem urbana, os tubos de concreto devem ser preferencialmente estocados na posição vertical. Quando houver necessidade de estocagem na posição horizontal, os tubos devem ser apoiados sobre pontos isolados nas extremidades, conforme figura abaixo, sendo que a altura de empilhamento, para tubos de 1.500 mm de diâmetro, o número máximo de pilhas, não pode exceder a:",
+   "imagem": "data/provas/img/idecan-2025-sopce-eng-civil/q45.webp",
+   "alternativas": [
+    "5.",
+    "4.",
+    "3.",
+    "1.",
+    "2."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"1.\":** a NBR 15645:2020 (execução de obras com tubos e aduelas pré-moldados de concreto) limita a altura de empilhamento na estocagem horizontal conforme o diâmetro. Quanto maior e mais pesado o tubo, menos camadas, porque o peso das camadas de cima se concentra nos pontos de contato e de apoio dos tubos de baixo e pode fissurá-los. Para tubos de **1.500 mm**, o limite é **uma única camada**: na prática, eles não são empilhados.\n\n**As outras:**\n- *5.*, *4.*, *3.* e *2.*: alturas de pilha que só fazem sentido para tubos menores e mais leves; para 1.500 mm, empilhar sobrecarregaria os tubos de baixo.\n\n**Para memorizar:** prefira estocar tubos de concreto na vertical; na horizontal, apoie sobre calços isolados nas extremidades e reduza as camadas à medida que o diâmetro cresce, até ficar em uma só nos tubos grandes."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "parcelamento-solo",
+   "enunciado": "Em geoprocessamento para as parcelas ou imóveis urbanos, o controle de qualidade para assegurar a acurácia posicional deve ser realizado de forma confiável sobre os vértices materializados, por meio de medições em campo ou de coleta de dados para cálculos e pós-processamento com a mesma finalidade. Quando possível, esse controle deve ser realizado na totalidade dos vértices materializados utilizando uma ou mais das opções descritas a seguir: medir o vértice da parcela ou do imóvel a partir de estações diferentes; medir o vértice da parcela ou do imóvel com dois métodos distintos de levantamento; comparar as distâncias lineares medidas entre dois vértices da parcela ou do imóvel com a distância calculada entre as coordenadas desses mesmos vértices; medir o vértice da parcela ou imóvel com métodos de posicionamento por satélites com intervalo entre as sessões de rastreio de no mínimo 4 horas. As medições são aceitas quando o controle de qualidade apresenta valores dentro da tolerância posicional. O controle de qualidade relativo pode ser realizado a partir da comparação entre a medição da distância entre dois vértices com a distância calculada a partir de suas coordenadas. A tolerância para aceitação entre a diferença das distâncias deve ser calculada pela equação a seguir, sendo o seu valor máximo de 24 cm, onde:\n\nT = 0,006 × √L\n\nEm que “L” representa:",
+   "alternativas": [
+    "a diagonal relativa de um lote, expressa em ares.",
+    "o volume do tetraedro formado pela escavação a ser feita, expressa em m³.",
+    "a tolerância, expressa em metros.",
+    "a altura do relevo a ser medido, de acordo com as curvas de nível, apenas para escarpas, expressa em “ha”.",
+    "o comprimento do lado, expresso em metros."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"o comprimento do lado, expresso em metros.\":** o texto é o da **NBR 17047:2022** (levantamento cadastral territorial para registro público), item 6.5.3. No controle de qualidade relativo, compara-se a distância medida entre dois vértices com a distância calculada pelas coordenadas. A diferença aceita é T = 0,006 × √L, em que **T é a tolerância, em metros, e L é o comprimento do lado, em metros**, com teto de 24 cm.\n\nExemplos: lado de 100 m → T = 0,006 × 10 = 0,06 m (6 cm). Lado de 1.600 m → T = 0,006 × 40 = 0,24 m, o teto da norma.\n\n**As outras:**\n- *a diagonal relativa de um lote, expressa em ares.*: a fórmula usa o lado, em metros; are é unidade de área.\n- *o volume do tetraedro formado pela escavação…*: não há volume na fórmula; ela compara distâncias.\n- *a tolerância, expressa em metros.*: a tolerância é o T, o resultado da fórmula.\n- *a altura do relevo a ser medido…*: hectare é unidade de área, e a fórmula não envolve relevo.\n\n**Para memorizar:** na mesma norma, a precisão posicional do vértice de parcela urbana é de 8 cm, e a tolerância é três vezes isso: 24 cm."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "desempenho-sustentabilidade",
+   "enunciado": "A manutenção de edificações é um conjunto de ações preventivas e corretivas para preservar a funcionalidade, segurança e valor de prédios residenciais, comerciais e industriais. Uma gestão eficiente evita desgastes precoces, gastos excessivos e riscos aos usuários, além de garantir conformidade com normas técnicas. De acordo com os conceitos de manutenção predial, o conjunto de procedimentos organizados para gerenciar os serviços de manutenção é denominado(a):",
+   "alternativas": [
+    "Serviço de manutenção.",
+    "Equipe de manutenção local.",
+    "Sistema de manutenção.",
+    "Edificação.",
+    "Prazo de garantia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Sistema de manutenção.\":** a **NBR 5674** (manutenção de edificações: requisitos para o sistema de gestão de manutenção) define **sistema de manutenção** como o conjunto de procedimentos organizados para gerenciar os serviços de manutenção. É a parte de gestão: programa de manutenção, responsáveis, registros, previsão de recursos e acompanhamento.\n\n**As outras:**\n- *Serviço de manutenção.*: é a intervenção em si, feita para manter ou recuperar o desempenho de uma parte da edificação.\n- *Equipe de manutenção local.*: as pessoas que fazem os serviços na edificação; são executores, não o conjunto de procedimentos.\n- *Edificação.*: é o produto construído, objeto da manutenção.\n- *Prazo de garantia.*: período em que o construtor ou o fornecedor responde por falhas do produto.\n\n**Para memorizar:** sistema de manutenção = a gestão (como organizar); serviço de manutenção = a execução (o que se faz na obra)."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "desempenho-sustentabilidade",
+   "enunciado": "O reuso da água é uma prática essencial para a sustentabilidade, especialmente em regiões com escassez hídrica ou alto consumo industrial/agrícola. Consiste em tratar e reaproveitar água que já foi utilizada, reduzindo o desperdício e a pressão sobre os recursos naturais. O tipo de reuso que ocorre quando a água já usada, uma ou mais vezes para uso doméstico ou industrial, é descarregada nas águas superficiais ou subterrâneas e utilizada novamente a jusante, de forma diluída, é denominado reuso:",
+   "alternativas": [
+    "Direto.",
+    "De reciclagem interna.",
+    "De primeiro grupo.",
+    "Indireto.",
+    "De segundo grupo."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Indireto.\":** na classificação clássica de reuso de água usada nos livros de saneamento, o **reuso indireto** acontece quando a água já usada, uma ou mais vezes, em uso doméstico ou industrial, é lançada em rios, lagos ou aquíferos e captada de novo a jusante, já diluída. Pode ser planejado (com controle da qualidade) ou não planejado, como numa cidade que capta água no rio abaixo do lançamento de esgoto de outra.\n\n**As outras:**\n- *Direto.*: uso planejado do esgoto tratado, levado direto ao novo uso (irrigação, indústria, recarga de aquífero), sem passar por um corpo d’água.\n- *De reciclagem interna.*: reuso dentro da própria instalação, em geral industrial, em circuito fechado, para economizar água e controlar a poluição.\n- *De primeiro grupo.* e *De segundo grupo.*: não são categorias de reuso.\n\n**Para memorizar:** passou pelo rio ou pelo aquífero antes de ser usada de novo = indireto; foi da estação de tratamento direto para o novo uso = direto; voltou ao processo dentro da própria fábrica = reciclagem interna."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "A gestão de resíduos sólidos é um conjunto de ações voltadas para o manejo sustentável de materiais descartados, desde a geração até a disposição final. Seu objetivo é minimizar impactos ambientais, promover a reciclagem e garantir conformidade com leis como a Política Nacional de Resíduos Sólidos. Dentre os diversos conceitos da gestão de resíduos sólidos, as substâncias químicas orgânicas, com propriedades tóxicas resistentes à decomposição, que se bioacumulam, podendo permanecer no ambiente por muito tempo, podem ser chamados(as) de:",
+   "alternativas": [
+    "Resíduo contaminado.",
+    "Sensibilizante.",
+    "Solução aquosa.",
+    "Toxicidade.",
+    "Poluentes orgânicos persistentes."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Poluentes orgânicos persistentes.\":** os **POPs** são substâncias químicas orgânicas tóxicas, resistentes à degradação, que se **bioacumulam** na gordura dos organismos, se concentram ao longo da cadeia alimentar e podem viajar longas distâncias. Exemplos: DDT, aldrin, PCBs (bifenilas policloradas), dioxinas e furanos. São controlados pela **Convenção de Estocolmo** (2001), promulgada no Brasil pelo Decreto 5.472/2005.\n\n**As outras:**\n- *Resíduo contaminado.*: resíduo que entrou em contato com substância perigosa; é uma condição do resíduo, não uma classe de substância.\n- *Sensibilizante.*: substância que provoca reação alérgica depois de exposições repetidas.\n- *Solução aquosa.*: mistura em que o solvente é a água.\n- *Toxicidade.*: propriedade de causar dano a organismos vivos, e não um grupo de substâncias.\n\n**Para memorizar:** POP = orgânico + persistente + bioacumulativo + tóxico."
+  },
+  {
+   "id": "idecan-2025-sopce-eng-civil-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Nas planilhas SINAPI (Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil) da Caixa Econômica Federal (CEF), na apresentação dos preços dos insumos é utilizada a metodologia de Família Homogênea de Insumos, que são agrupamentos de insumos organizados conforme similaridade. Observe tabela abaixo:\n\n![Trecho de tabela do SINAPI com a origem de preço “CR” indicada por uma seta](data/provas/img/idecan-2025-sopce-eng-civil/q50.webp)\n\nDe acordo com a figura mostrada, o “CR” quer dizer:",
+   "alternativas": [
+    "Preço coletado.",
+    "Coeficiente de representatividade.",
+    "Coeficiente do insumo simulado.",
+    "Coleta de registro.",
+    "Caracterização de referência."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Coeficiente de representatividade.\":** no SINAPI, os insumos são reunidos em **famílias homogêneas**. Em cada família, só o **insumo representativo** tem o preço coletado na pesquisa de mercado; os demais têm o preço calculado multiplicando o preço do representativo por um **coeficiente de representatividade**, que expressa a relação de preço entre eles. Por isso, na coluna \"Origem de preço\", aparece \"C\" para preço coletado e **\"CR\"** para preço obtido por coeficiente de representatividade.\n\n**As outras:**\n- *Preço coletado.*: corresponde à sigla \"C\", do insumo pesquisado diretamente.\n- *Coeficiente do insumo simulado.*, *Coleta de registro.* e *Caracterização de referência.*: não são siglas do SINAPI.\n\n**Para memorizar:** C = coletado; CR = calculado por coeficiente de representatividade; AS = atribuído com base no preço de São Paulo, quando a localidade não tem preço próprio."
+  }
+ ]
+}

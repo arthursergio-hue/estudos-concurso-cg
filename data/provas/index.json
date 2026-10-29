@@ -77,6 +77,17 @@
   "duracaoMin": 180
  },
  {
+  "id": "idecan-2025-sopce-eng-civil",
+  "titulo": "Engenheiro Civil — SOP-CE",
+  "banca": "IDECAN",
+  "ano": 2025,
+  "orgao": "Superintendência de Obras Públicas do Ceará",
+  "cargo": "Engenheiro Civil",
+  "arquivo": "data/provas/idecan-2025-sopce-eng-civil.json",
+  "nQuestoes": 50,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",
