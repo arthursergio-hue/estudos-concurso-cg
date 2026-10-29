@@ -1,0 +1,1053 @@
+{
+ "id": "idecan-2021-cg-guarda-municipal",
+ "titulo": "Guarda Municipal — Prefeitura de Campina Grande/PB",
+ "banca": "IDECAN",
+ "ano": 2021,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Guarda Municipal",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2021-prefeitura-de-campina-grande-pb-guarda-municipal",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I (questões 1 a 12) — Paraíba registra queda no volume de vendas do comércio varejista, diz IBGE",
+   "fonte": "(Jornal da Paraíba, 11/11/2021. Disponível em: https://jornaldaparaiba.com.br/economia/2021/11/11/paraiba-registra-queda-no-volume-de-vendas-do-comercio-varejista-diz-ibge)",
+   "numerarLinhas": true,
+   "conteudo": "\tO volume de vendas do comércio varejista\nparaibano apresentou a 3ª menor variação do país no\nacumulado em 12 meses (–0,7%), segundo a Pesquisa\nMensal do Comércio (PMC) referente a setembro,\ndivulgada nesta quinta-feira (11) pelo Instituto Brasileiro\nde Geografia e Estatística (IBGE). O índice estadual\ncontrasta com a média nacional, que aponta para um\nsaldo positivo (3,9%).\n\tNo mesmo período, a receita nominal do setor da\nParaíba, embora tenha tido alta de 9,7%, registrou\ntambém a 3ª menor variação do Brasil, inferior à média do\npaís (15,1%). Em ambos os casos, os indicadores\nparaibanos foram os menores do Nordeste.\n\tJá frente aos resultados de agosto deste ano, o\nvolume de vendas paraibano teve retração de 1,4% em\nsetembro, próxima à observada na média do Brasil (–\n1,3%). Por outro lado, foi verificado um crescimento de\n0,6% na receita do estado, enquanto no cenário nacional\nhouve redução de 0,2%.\n\tEste ano, até o mês pesquisado, o volume\nbrasileiro de vendas do comércio varejista apresentou\nexpansão de 3,8%, no comparativo com o mesmo período\nde 2020, ao passo que o paraibano teve queda de 1,1%.\nContudo, nos dois recortes territoriais, o saldo da receita\nfoi positivo, de 16,3% e 10,4%, respectivamente, embora\no indicador da Paraíba tenha sido o 3º menor do Brasil.\n\tNo comércio varejista ampliado paraibano – que\ninclui as atividades de veículos, motos, partes e peças e\nde material de construção –, foram observadas variações\npositivas no acumulado de 12 meses, tanto no volume de\nvendas (6,1%), como na receita (16,9%). Em ambos os\ncasos, porém, os resultados do estado foram inferiores às\nmédias nacionais, de 7% e 19%, respectivamente.\n\tNa comparação dos resultados de setembro com\nos de agosto, houve redução de 0,2% no volume estadual\ne de 1,1% no nacional. Entretanto, as receitas dos setores\naumentaram 0,8% e 0,3%, respectivamente."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que a palavra indicada tenha sido acentuada seguindo a mesma regra que *Paraíba* (linha 10).",
+   "alternativas": [
+    "índice (linha 6)",
+    "período (linha 9)",
+    "país (linha 12)",
+    "veículos (linha 28)"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O provável motivo é que duas alternativas servem. *Paraíba* (Pa-ra-í-ba) leva acento pela **regra do hiato**: o *i* ou o *u* tônico que vem depois de outra vogal e fica sozinho na sílaba (ou com *s*) recebe acento. *país* (pa-ís) segue exatamente essa regra. Mas *veículos* (ve-í-cu-los) também tem *i* tônico em hiato depois de vogal, além de ser proparoxítona, e por isso também pode ser defendida.\n\nSobre o assunto: *índice* (ín-di-ce) e *período* (pe-rí-o-do) levam acento só por serem **proparoxítonas**, e toda proparoxítona é acentuada. Em *período*, o *í* vem depois de consoante (r), então a regra do hiato não se aplica.\n\n**Para memorizar:** *i* e *u* tônicos em hiato depois de vogal levam acento (saída, baú, país, Paraíba), menos quando formam sílaba com outra letra que não *s* (ju-iz, ca-ir) ou vêm antes de *nh* (ra-i-nha)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em relação à leitura do texto e as inferências que podem ser feitas, analise as afirmativas a seguir:\n\nI. Embora tenha havido uma queda no volume de vendas na Paraíba, no período analisado, o Estado arrecadou mais impostos.\n\nII. Comparando-se os resultados de setembro, em relação ao mês anterior, o desempenho paraibano ficou acima da média nacional, o que fez o estado ter um saldo positivo na receita.\n\nIII. Somente o setor varejista ampliado paraibano teve resultado positivo durante todo o ano, destacando-se como o único comércio que obteve lucros nos últimos doze meses.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas a afirmativa II estiver correta.",
+    "se apenas a afirmativa III estiver correta.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas a afirmativa I estiver correta\":** para a banca, só a I é inferência válida. O texto mostra que o volume de vendas caiu (–0,7% em 12 meses), mas a **receita nominal** do setor subiu 9,7% (linhas 9 e 10); a banca leu esse faturamento maior como mais arrecadação. A II erra porque, de agosto para setembro, o volume paraibano caiu 1,4%, pior que a média do Brasil (–1,3%), e o texto não diz que um resultado causou o outro. A III erra porque o texto não fala em lucro nem em \"único comércio\": receita é faturamento, e o varejo restrito também teve receita positiva.\n\n**As outras:**\n- *se apenas a afirmativa II estiver correta*: a II é falsa; o desempenho não ficou acima da média em tudo, e o \"o que fez\" inventa uma relação de causa.\n- *se apenas a afirmativa III estiver correta*: a III troca receita por lucro e usa \"somente\" e \"único\", que o texto não sustenta.\n- *se todas as afirmativas estiverem corretas*: II e III são falsas.\n\n**Para memorizar:** em questão de inferência, desconfie de \"somente\", \"único\" e de relações de causa que o texto não afirma.\n\nPonto discutível: o texto fala da receita do comércio (faturamento das lojas), não de impostos; a banca tratou receita como arrecadação do Estado."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que, no texto, a palavra desempenhe papel adjetivo.",
+   "alternativas": [
+    "alta (linha 10)",
+    "outro (linha 17)",
+    "indicador (linha 26)",
+    "construção (linha 29)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"outro (linha 17)\":** em \"Por **outro** lado\", *outro* é pronome indefinido que acompanha o substantivo *lado* e o determina. É um **pronome adjetivo**, ou seja, faz papel de adjetivo. Pronome adjetivo vem junto do nome (outro lado, este ano); pronome substantivo ocupa o lugar do nome (\"outros disseram\").\n\n**As outras:**\n- *alta (linha 10)*: em \"tenha tido alta de 9,7%\", *alta* é substantivo (= aumento), núcleo do objeto direto.\n- *indicador (linha 26)*: em \"o indicador da Paraíba\", é substantivo, núcleo do sujeito, precedido de artigo.\n- *construção (linha 29)*: em \"material de construção\", a locução *de construção* tem valor adjetivo, mas a palavra *construção*, sozinha, é substantivo.\n\n**Para memorizar:** teste do artigo: se dá para pôr \"o/a\" antes e a palavra nomeia algo (a alta, o indicador, a construção), é substantivo. Se ela só acompanha e determina outro nome, faz papel de adjetivo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*O volume de vendas do comércio varejista paraibano apresentou a 3ª menor variação do país no acumulado em 12 meses (–0,7%), segundo a Pesquisa Mensal do Comércio (PMC) referente a setembro, divulgada nesta quinta-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O índice estadual contrasta com a média nacional, que aponta para um saldo positivo (3,9%).* (linhas 1 a 8)\n\nEm relação ao período acima e sua composição, analise as afirmativas a seguir:\n\nI. Todos os parênteses introduzem uma informação de mesma natureza em relação ao elemento anterior.\n\nII. Em relação aos percentuais, houve uma preocupação em mantê-los seguindo o mesmo padrão de apresentação da informação.\n\nIII. Em somente uma ocorrência do par de parênteses se apresentou uma informação de caráter textual. Nas demais, a informação tem natureza extratextual.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas a afirmativa II estiver correta.",
+    "se apenas a afirmativa III estiver correta.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas a afirmativa II estiver correta\":** os dois percentuais do trecho, *(–0,7%)* e *(3,9%)*, aparecem do mesmo jeito: entre parênteses, logo depois do dado a que se referem, com vírgula decimal e o símbolo %. Há um padrão de apresentação, e a II está correta.\n\nA I está errada porque os parênteses trazem informações de naturezas diferentes: percentuais (–0,7% e 3,9%), siglas (PMC e IBGE) e o dia do mês (11). A III também está errada: todas essas informações fazem parte do próprio texto da notícia (dados, siglas, data); não existe uma só \"textual\" e as demais \"extratextuais\".\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta*: a I é falsa, porque sigla, número e data não são da mesma natureza.\n- *se apenas a afirmativa III estiver correta*: a III é falsa; a divisão que ela propõe não se sustenta.\n- *se todas as afirmativas estiverem corretas*: I e III são falsas.\n\n**Para memorizar:** parênteses servem para várias coisas: sigla, dado numérico, data, explicação. Veja o que cada par traz antes de generalizar."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "*Por outro lado, foi verificado um crescimento de 0,6% na receita do estado, ++enquanto++ no cenário nacional houve redução de 0,2%.* (linhas 17 a 19)\n\nO elemento sublinhado no período acima apresenta sentido de",
+   "alternativas": [
+    "tempo.",
+    "finalidade.",
+    "concessão.",
+    "oposição."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"oposição\":** no trecho, *enquanto* liga dois fatos que se contrapõem: a receita **cresceu** 0,6% no estado e, no país, **caiu** 0,2%. Aqui a conjunção marca **contraste, oposição** (equivale a \"ao passo que\"). Ela não diz que uma coisa aconteceu durante a outra; compara resultados opostos.\n\n**As outras:**\n- *tempo*: *enquanto* é temporal quando indica simultaneidade, como em \"Ele lia enquanto esperava\" (= durante o tempo em que). Não é o caso.\n- *finalidade*: seria expressa por \"para que\", \"a fim de que\".\n- *concessão*: seria \"embora\", \"ainda que\", \"mesmo que\": um fato que não impede o outro.\n\n**Para memorizar:** troque por \"ao passo que\". Se o sentido se mantém, *enquanto* é de oposição; se cabe \"durante o tempo em que\", é de tempo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o palavra indicada desempenhe, no texto, papel dêitico.",
+   "alternativas": [
+    "índice (linha 6)",
+    "período (linha 9)",
+    "Este (linha 20)",
+    "ambos (linha 31)"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Este (linha 20)\":** dêitico é a palavra que só se entende olhando para a **situação de comunicação** (quem fala, onde e quando). Em \"**Este** ano, até o mês pesquisado\", o ano só fica claro porque a notícia é de 11/11/2021: *este ano* é 2021, o ano em que o texto foi escrito. É uma dêixis de tempo.\n\n**As outras:**\n- *índice (linha 6)*: substantivo comum (\"O índice estadual\"), que não aponta para a situação de fala.\n- *período (linha 9)*: substantivo; em \"No mesmo período\", quem retoma o que veio antes é *mesmo*, e isso é anáfora, não dêixis.\n- *ambos (linha 31)*: retoma algo já dito no próprio texto (o volume de vendas e a receita); é **anafórico**, aponta para dentro do texto.\n\n**Para memorizar:** dêixis aponta para fora do texto (eu, aqui, hoje, este ano); anáfora aponta para trás, dentro do texto (ambos, o mesmo, este último)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em *recortes* (linha 24), ocorre exemplo de linguagem",
+   "alternativas": [
+    "denotativa.",
+    "conotativa.",
+    "hiperbólica.",
+    "antitética."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"denotativa\":** em \"nos dois **recortes** territoriais\", *recorte* tem o sentido de **área delimitada para análise**: o Brasil e a Paraíba, comparados na pesquisa. É um sentido registrado e comum em textos de estatística, geografia e pesquisa, sem figura de linguagem. Texto jornalístico informativo costuma usar linguagem denotativa, objetiva.\n\n**As outras:**\n- *conotativa*: seria um sentido figurado, que ganha valor novo pelo contexto (ex.: \"um mar de gente\"). Não há metáfora aqui.\n- *hiperbólica*: hipérbole é exagero intencional (\"morri de rir\"). Nada é exagerado.\n- *antitética*: antítese é a aproximação de ideias opostas (\"o riso e o choro\"). *Recortes* não opõe ideias.\n\n**Para memorizar:** denotação = sentido de dicionário; conotação = sentido figurado. Notícia e relatório tendem à denotação."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*Na comparação dos resultados de setembro com os de agosto, houve redução de 0,2% no volume estadual e de 1,1% no nacional.* (linhas 34 a 36)\n\nNo período acima, há quantos artigos?",
+   "alternativas": [
+    "Três.",
+    "Quatro.",
+    "Cinco.",
+    "Seis."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Quatro\":** os artigos do período estão contraídos com preposições: **Na** (em + a: \"a comparação\"), **dos** (de + os: \"os resultados\"), **no** (em + o: \"o volume estadual\") e **no** (em + o: \"o [volume] nacional\"). Total: quatro.\n\nO *os* de \"com **os** de agosto\" não é artigo: é **pronome demonstrativo**, equivale a \"aqueles\" (\"com aqueles de agosto\"). Antes de \"de\" ou \"que\", *o, a, os, as* que podem ser trocados por \"aquele(s), aquela(s)\" são demonstrativos.\n\n**As outras:**\n- *Três*: fica abaixo da contagem; as quatro contrações (na, dos, no, no) têm artigo.\n- *Cinco*: conta o *os* de \"os de agosto\" como artigo, mas ele é demonstrativo.\n- *Seis*: não há tantos; \"de 0,2%\" e \"de 1,1%\" não têm artigo.\n\n**Para memorizar:** procure o artigo dentro das contrações (no, na, do, da, pelo, ao). Se o \"o/os\" puder virar \"aquele(s)\", é pronome demonstrativo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "*O índice estadual contrasta com a média nacional...* (linhas 6 e 7)\n\nAssinale a alternativa em que, alterando-se a redação do segmento acima, independentemente da mudança de sentido provocada, tenha-se mantido a correção gramatical.",
+   "alternativas": [
+    "O índice estadual visa a média nacional...",
+    "O índice estadual almeja à média nacional...",
+    "O índice estadual aspira a média nacional...",
+    "O índice estadual alude à média nacional..."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O índice estadual alude à média nacional...\":** *aludir* (fazer referência) é **transitivo indireto** e pede a preposição *a*: alude **a** + **a** média = alude **à** média. A crase está correta.\n\n**As outras:**\n- *O índice estadual visa a média nacional...*: *visar* no sentido de \"ter como objetivo\" é transitivo indireto pela regência tradicional: \"visa **à** média\". Sem crase, fica errado. É direto só nos sentidos de mirar ou pôr visto (\"visou o alvo\", \"visou o cheque\"). Alguns gramáticos, como Celso Luft, aceitam o uso direto também no sentido de objetivar, mas a banca seguiu a regra tradicional.\n- *O índice estadual almeja à média nacional...*: *almejar* (desejar) é **transitivo direto**: \"almeja a média\". A crase sobra.\n- *O índice estadual aspira a média nacional...*: *aspirar* no sentido de \"desejar\" é transitivo indireto: \"aspira **à** média\". Sem crase, o sentido seria \"sorver, inalar\".\n\n**Para memorizar:** visar (objetivar), aspirar (desejar), aludir e assistir (ver) pedem \"a\"; almejar, desejar e pretender não pedem."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*Em ambos os casos, os indicadores paraibanos foram os menores do Nordeste.* (linhas 12 e 13)\n\nNo período acima, a vírgula está corretamente empregada por qual razão?",
+   "alternativas": [
+    "Isola o vocativo do restante do período.",
+    "Marca a divisão de termos de uma enumeração.",
+    "Antecede um termo explicativo.",
+    "Trata-se de elemento adverbial deslocado."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Trata-se de elemento adverbial deslocado.\":** \"Em ambos os casos\" é **adjunto adverbial**: indica a circunstância (em quais casos). Na ordem direta, ele viria no fim: \"Os indicadores paraibanos foram os menores do Nordeste em ambos os casos\". Como foi **anteposto**, deslocado para o início, a vírgula marca esse deslocamento.\n\n**As outras:**\n- *Isola o vocativo do restante do período.*: vocativo é o chamamento de um interlocutor (\"Leitor, atenção\"). Ninguém é chamado aqui.\n- *Marca a divisão de termos de uma enumeração.*: não há lista de termos de mesma função separados por vírgula.\n- *Antecede um termo explicativo.*: seria um aposto (\"os indicadores, isto é, ...\"). O que vem depois da vírgula é a oração principal.\n\n**Para memorizar:** adjunto adverbial no começo da frase: vírgula recomendada (obrigatória se for longo; facultativa se for curto). No fim da frase, sem vírgula."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q11",
+   "numero": 11,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Na linha 31, a palavra *receita* apresenta um sentido definido. Entretanto, em outros contextos pode trazer sentidos diversos. No caso, é correto afirmar que, com as diferentes palavras *receita*, ocorre exemplo de",
+   "alternativas": [
+    "parônimos.",
+    "homônimos homógrafos e homófonos.",
+    "homônimos homógrafos não homófonos.",
+    "homônimos homófonos não homógrafos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"homônimos homógrafos e homófonos\":** na linha 31, *receita* é o dinheiro que entra (faturamento). Em outros contextos, *receita* é a prescrição do médico ou o modo de preparar um prato. São palavras **escritas e pronunciadas do mesmo jeito**, com sentidos diferentes: homônimos homógrafos e homófonos, também chamados de **homônimos perfeitos**.\n\n**As outras:**\n- *parônimos*: palavras parecidas, mas diferentes na escrita e na pronúncia (comprimento/cumprimento, eminente/iminente).\n- *homônimos homógrafos não homófonos*: mesma escrita, pronúncia diferente: *sede* (ê, vontade de beber) e *sede* (é, lugar principal); *jogo* (ô, substantivo) e *jogo* (ó, verbo).\n- *homônimos homófonos não homógrafos*: mesmo som, escrita diferente: *cela/sela*, *conserto/concerto*.\n\n**Para memorizar:** homógrafo = mesma grafia; homófono = mesmo som; perfeito = as duas coisas. Muitos gramáticos tratariam *receita* como uma só palavra com vários sentidos (**polissemia**), mas essa opção não aparece nas alternativas."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q12",
+   "numero": 12,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "*...enquanto no cenário nacional ++houve++ redução de 0,2%.* (linhas 18 e 19)\n\nAssinale a alternativa em que, alterando-se a redação do segmento acima, manteve-se a correção gramatical. Ignore possível alteração de sentido.",
+   "alternativas": [
+    "...enquanto no cenário nacional houveram reduções de percentual.",
+    "...enquanto no cenário nacional deviam haver reduções de percentual.",
+    "...enquanto no cenário nacional há de haver reduções de percentual.",
+    "...enquanto no cenário nacional poderão haver reduções de percentual."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"...enquanto no cenário nacional há de haver reduções de percentual.\":** *haver* no sentido de \"existir\" é **impessoal**: não tem sujeito e fica sempre na 3ª pessoa do singular (\"houve reduções\"). Quando forma locução verbal, o auxiliar também fica no singular. Em \"**há** de haver reduções\", o primeiro *haver* é o auxiliar (\"há de\" = vai, deve) e está no singular: correto.\n\n**As outras:**\n- *...houveram reduções de percentual.*: *reduções* é objeto direto, não sujeito; o certo é \"houve reduções\".\n- *...deviam haver reduções de percentual.*: o auxiliar acompanha o *haver* impessoal: \"devia haver\".\n- *...poderão haver reduções de percentual.*: mesma regra: \"poderá haver\".\n\n**Para memorizar:** se dá para trocar por *existir*, o *haver* é impessoal: \"existiam reduções\", mas \"havia reduções\". E o auxiliar segue o singular: \"deve haver\", \"pode haver\", \"vai haver\"."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Assinale a alternativa correta que representa uma equivalência lógica da proposição composta “Eu não terei dificuldade nesta prova ou não irei ser aprovado com tranquilidade”.",
+   "alternativas": [
+    "Eu não terei dificuldade nesta prova e não irei ser aprovado com tranquilidade.",
+    "Eu terei dificuldade nesta prova ou não irei ser aprovado com tranquilidade.",
+    "Se eu tiver dificuldade nesta prova, então não irei ser aprovado com tranquilidade.",
+    "Eu terei dificuldade nesta prova se, e somente se, for aprovado com tranquilidade."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Se eu tiver dificuldade nesta prova, então não irei…\":** chame *p* = \"terei dificuldade nesta prova\" e *q* = \"irei ser aprovado com tranquilidade\". A frase é **~p ∨ ~q**. Vale a equivalência **~A ∨ B ⇔ A → B**. Com A = p e B = ~q, temos **p → ~q**: \"Se eu tiver dificuldade nesta prova, então não irei ser aprovado com tranquilidade\".\n\n**As outras:**\n- *Eu não terei dificuldade nesta prova e não irei…*: é ~p ∧ ~q; troca o \"ou\" pelo \"e\". Com p falsa e q verdadeira, a frase original é verdadeira e esta é falsa.\n- *Eu terei dificuldade nesta prova ou não irei…*: é p ∨ ~q; mudou o valor da primeira parte sem mudar o conectivo.\n- *Eu terei dificuldade nesta prova se, e somente se…*: é p ↔ q, outro conectivo, com outra tabela-verdade.\n\n**Para memorizar:** para transformar \"ou\" em \"se... então\", **negue a primeira parte e mantenha a segunda**: ~p ∨ ~q = p → ~q = q → ~p."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A partir dos conceitos sobre conectivos, assinale a alternativa que contempla a proposição composta “x” no quadro.\n\n| p | q | x |\n|---|---|---|\n| V | V | F |\n| V | F | V |\n| F | V | V |\n| F | F | F |",
+   "alternativas": [
+    "(p ↔ q) → ~(p v ~q)",
+    "~p v ~q",
+    "~p ∧ q",
+    "~(p ∧ ~q)"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"(p ↔ q) → ~(p v ~q)\":** teste linha a linha, lembrando que a condicional só é falsa quando a primeira parte é V e a segunda é F. Linha V, V: p ↔ q = V; p v ~q = V, negado dá F; V → F = **F**. Linha V, F: p ↔ q = F, e condicional com antecedente F é **V**. Linha F, V: p ↔ q = F, resultado **V**. Linha F, F: p ↔ q = V; p v ~q = F v V = V, negado dá F; V → F = **F**. Sai F, V, V, F: igual à coluna x.\n\n**As outras:**\n- *~p v ~q*: na última linha (F, F) dá V v V = V, mas x é F.\n- *~p ∧ q*: na segunda linha (V, F) dá F ∧ F = F, mas x é V.\n- *~(p ∧ ~q)*: na primeira linha (V, V) dá ~(V ∧ F) = ~F = V, mas x é F.\n\n**Para memorizar:** a coluna x (F, V, V, F) é o \"ou exclusivo\": verdadeira só quando p e q têm valores diferentes. Para eliminar uma opção, basta uma linha que não bate."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sejam dois conjuntos A, B ≠ ∅ e A ⊂ B, então pode-se afirmar, que:",
+   "alternativas": [
+    "A ∩ B = B",
+    "A ∪ B = A",
+    "A’⊂ B’, em que A’, B’ são os respectivos complementos dos conjuntos A e B.",
+    "A ∪ (B – A) = B"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A ∪ (B – A) = B\":** B – A são os elementos de B que não estão em A. Juntando A com eles, recuperamos B inteiro, porque todo elemento de A já está em B (A ⊂ B). Exemplo: A = {1} e B = {1, 2}. Então B – A = {2}, e A ∪ {2} = {1, 2} = B.\n\n**As outras:**\n- *A ∩ B = B*: se A ⊂ B, a interseção é o próprio A (A ∩ B = A). Só daria B se A fosse igual a B.\n- *A ∪ B = A*: a união é B (A ∪ B = B). No exemplo, {1} ∪ {1, 2} = {1, 2}.\n- *A’⊂ B’, em que A’, B’ são os respectivos complementos…*: nos complementos a inclusão se inverte: se A ⊂ B, então B’ ⊂ A’. No exemplo, com universo {1, 2, 3}: A’ = {2, 3} e B’ = {3}.\n\n**Para memorizar:** com A ⊂ B, a interseção é o conjunto menor, A; a união é o maior, B; e o complemento inverte a inclusão."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q16",
+   "numero": 16,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A relação R sobre ℤ definida por ∀ x, y ∈ ℤ; x R y, se e somente se, x ≤ y é uma relação de ordem, pois cumpre as seguintes propriedades:",
+   "alternativas": [
+    "Reflexividade, Simetria e transitividade.",
+    "Reflexividade, Anti-simetria e transitividade.",
+    "Reflexividade, Simetria e Comutatividade",
+    "Associatividade, Anti-simetria e transitividade"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Reflexividade, Anti-simetria e transitividade.\":** uma **relação de ordem** (parcial) é a que tem essas três propriedades. Com ≤ nos inteiros: é **reflexiva**, porque x ≤ x sempre; **antissimétrica**, porque se x ≤ y e y ≤ x, então x = y; e **transitiva**, porque se x ≤ y e y ≤ z, então x ≤ z.\n\n**As outras:**\n- *Reflexividade, Simetria e transitividade.*: essas três definem uma **relação de equivalência**. O ≤ não é simétrico: 2 ≤ 5, mas 5 ≤ 2 é falso.\n- *Reflexividade, Simetria e Comutatividade*: além do erro da simetria, comutatividade é propriedade de operações (a + b = b + a), não de relações.\n- *Associatividade, Anti-simetria e transitividade*: associatividade também é propriedade de operações ((a + b) + c = a + (b + c)).\n\n**Para memorizar:** equivalência = reflexiva, simétrica e transitiva; ordem = reflexiva, antissimétrica e transitiva."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q17",
+   "numero": 17,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quando alguém diz que não é verdade que um jogador de futebol é reconhecido e um jogador de palavras cruzadas é desvalorizado é logicamente equivalente a dizer que é verdade que",
+   "alternativas": [
+    "um jogador de futebol é reconhecido e um jogador de palavras cruzadas não é desvalorizado.",
+    "um jogador de futebol não é reconhecido e um jogador de palavras cruzadas é desvalorizado.",
+    "um jogador de futebol não é reconhecido ou um jogador de palavras cruzadas não é desvalorizado.",
+    "um jogador de futebol é reconhecido ou um jogador de palavras cruzadas é desvalorizado."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"um jogador de futebol não é reconhecido ou um jogador…\":** a frase é a negação de uma conjunção: \"não é verdade que (p **e** q)\", com p = \"um jogador de futebol é reconhecido\" e q = \"um jogador de palavras cruzadas é desvalorizado\". Pela **lei de De Morgan**, ~(p ∧ q) ⇔ **~p ∨ ~q**: nega as duas partes e troca o \"e\" por \"ou\". Fica: \"um jogador de futebol não é reconhecido ou um jogador de palavras cruzadas não é desvalorizado\".\n\n**As outras:**\n- *um jogador de futebol é reconhecido e um jogador de palavras cruzadas não…*: é p ∧ ~q; manteve p e o \"e\".\n- *um jogador de futebol não é reconhecido e um jogador…*: é ~p ∧ q; negou só uma parte e manteve o \"e\".\n- *um jogador de futebol é reconhecido ou um jogador…*: é p ∨ q; trocou o conectivo, mas não negou as partes.\n\n**Para memorizar:** De Morgan: ~(p ∧ q) = ~p ∨ ~q e ~(p ∨ q) = ~p ∧ ~q. Nega tudo e troca o conectivo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q18",
+   "numero": 18,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "emancipacao-cidade",
+   "enunciado": "Em relação à sequência de atos que compõem a formação administrativa de Campina Grande, analise as afirmativas a seguir:\n\nI. Sesmaria criada com a denominação de Campina Grande, por provisão.\n\nII. Elevada à categoria de vila com a denominação de Vila Nova da Rainha, por ordem do governo.\n\nIII. Elevada à condição de cidade e sede do município com a denominação de Campina Grande, por Lei Provincial.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** a questão segue a \"Formação Administrativa\" de Campina Grande publicada pelo IBGE. O primeiro ato foi a criação do **distrito** (a freguesia de Nossa Senhora da Conceição) com o nome de Campina Grande, pela **provisão de 1769**. Não foi uma sesmaria, por isso a I está errada. A II está certa: a povoação virou **vila** com o nome de **Vila Nova da Rainha** por ordem do governo de 25/08/1788, e a vila foi instalada em 20/04/1790. A III também: tornou-se **cidade** e sede do município, de volta ao nome Campina Grande, pela **Lei Provincial nº 127, de 11/10/1864**.\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas*: a I erra o tipo de ato; sesmaria é concessão de terras, não unidade administrativa.\n- *se apenas as afirmativas I e II estiverem corretas*: inclui a I, que é falsa, e deixa de fora a III, verdadeira.\n- *se apenas as afirmativas I e III estiverem corretas*: inclui a I e exclui a II, que é verdadeira.\n\n**Para memorizar:** 1697, aldeamento dos índios ariús por Teodósio de Oliveira Ledo; 1769, freguesia (distrito); 1790, Vila Nova da Rainha instalada; 11/10/1864, cidade de Campina Grande (por isso o aniversário da cidade é em 11 de outubro)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q19",
+   "numero": 19,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "crescimento-politica",
+   "enunciado": "Em 1994, um distrito se desmembra de Campina Grande e é elevado à categoria de município. Trata-se de",
+   "alternativas": [
+    "Boa Vista.",
+    "Catolé.",
+    "Lagoa Seca.",
+    "Massaranduba."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Boa Vista\":** pela **Lei Estadual nº 5.884, de 29/04/1994**, o distrito de Boa Vista foi desmembrado de Campina Grande e elevado a município, segundo a formação administrativa do IBGE. Depois disso, Campina Grande ficou com quatro distritos: a sede, **Catolé, Galante e São José da Mata**.\n\n**As outras:**\n- *Catolé*: continua sendo distrito de Campina Grande. Foi criado em 1949 (Lei Estadual nº 318) e nunca se emancipou.\n- *Lagoa Seca*: também saiu de Campina Grande, mas em **1964** (Lei Estadual nº 3.133, de 04/01/1964).\n- *Massaranduba*: emancipou-se em **1965** (Lei Estadual nº 3.308, de 07/05/1965), também desmembrada de Campina Grande.\n\n**Para memorizar:** emancipações a partir de Campina Grande: Lagoa Seca (1964), Massaranduba (1965) e Boa Vista (1994). Ficaram como distritos Catolé, Galante e São José da Mata."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q20",
+   "numero": 20,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "emancipacao-cidade",
+   "enunciado": "A respeito de um movimento de insurreição que eclodiu no município, em 1874, analise as afirmativas a seguir:\n\nI. Tratava-se do movimento conhecido por “Quebra-quilos”, que era contrário ao novo sistema de pesos e medidas.\n\nII. O movimento se opunha à decretação de impostos.\n\nIII. Tal movimento foi um grito de revolta isolado, tendo ficado restrito ao âmbito de Campina Grande.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e II estiverem corretas\":** o **Quebra-Quilos** estourou em 1874 nas feiras da região de Campina Grande. Os revoltosos quebravam os pesos e medidas do novo **sistema métrico decimal** (o quilo, o metro), adotado pela Lei Imperial nº 1.157, de 1862, e cobrado nas feiras na década de 1870 (I correta). Também se rebelavam contra a **cobrança de impostos**, como o \"imposto do chão\" pago pelos feirantes (II correta). Segundo o IBGE, o movimento foi motivado principalmente por esses dois fatores e se estendeu a várias outras cidades e províncias do Nordeste, como Pernambuco, Alagoas e Rio Grande do Norte; por isso a III está errada.\n\n**As outras:**\n- *se apenas as afirmativas I e III estiverem corretas*: a III é falsa, e a II, verdadeira, ficou de fora.\n- *se apenas as afirmativas II e III estiverem corretas*: exclui a I, que explica o próprio nome do movimento.\n- *se todas as afirmativas estiverem corretas*: a III é falsa; a revolta não ficou restrita a Campina Grande.\n\n**Para memorizar:** Quebra-Quilos (1874) = contra os pesos e medidas novos e contra os impostos; começou na região de Campina Grande e se espalhou pelo Nordeste."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca do Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014), analise as afirmativas abaixo:\n\nI. O Estatuto Geral das Guardas Municipais, por ser lei federal, tem caráter subsidiário, pois compete aos municípios estabelecer as normas gerais para as guardas municipais.\n\nII. O uso progressivo da força e o patrulhamento preventivo são considerados, dentre outros, princípios mínimos de atuação das guardas municipais.\n\nIII. Na atuação das guardas municipais, deve-se buscar a preservação da vida, a redução do sofrimento e a diminuição das perdas.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** o art. 3º da Lei 13.022/2014 lista os **princípios mínimos** de atuação das guardas: proteção dos direitos humanos fundamentais, do exercício da cidadania e das liberdades públicas (I); **preservação da vida, redução do sofrimento e diminuição das perdas** (II); **patrulhamento preventivo** (III); compromisso com a evolução social da comunidade (IV); e **uso progressivo da força** (V). Por isso II e III estão corretas.\n\nA I está errada: o art. 1º diz que a própria lei federal **institui normas gerais** para as guardas municipais, regulamentando o § 8º do art. 144 da Constituição. Normas gerais vêm da lei federal; o município cria e organiza a sua guarda dentro delas.\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta*: a I inverte os papéis da União e do município.\n- *se apenas as afirmativas I e II estiverem corretas*: inclui a I e exclui a III, que é o princípio do art. 3º, II.\n- *se todas as afirmativas estiverem corretas*: a I é falsa.\n\n**Para memorizar:** os cinco princípios do art. 3º: direitos humanos, vida, patrulhamento preventivo, evolução social da comunidade e uso progressivo da força."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Assinale abaixo a afirmativa que **não** apresenta competências específicas das guardas municipais.",
+   "alternativas": [
+    "Estabelecer parcerias com os órgãos estaduais e da União, ou de municípios vizinhos, por meio da celebração de convênios ou consórcios, com vistas ao desenvolvimento de ações preventivas integradas.",
+    "Cooperar com os demais órgãos de defesa civil em suas atividades e auxiliar na segurança de grandes eventos.",
+    "Garantir o atendimento de ocorrências emergenciais ou prestá-lo direta e imediatamente quando deparar-se com elas.",
+    "Zelar e proteger todos os bens, equipamentos e prédios públicos no país."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Zelar e proteger todos os bens, equipamentos e prédios públicos no país.\" é a resposta:** a guarda é **municipal**. O art. 5º, I, da Lei 13.022/2014 manda zelar pelos bens, equipamentos e prédios públicos **do Município**, e o art. 4º fala em bens, serviços, logradouros e instalações do Município. Proteger \"todos os bens públicos no país\" vai muito além da competência da guarda.\n\n**As outras (estão corretas):**\n- *Estabelecer parcerias com os órgãos estaduais e da União…*: é o art. 5º, X: parcerias por convênios ou consórcios para ações preventivas integradas.\n- *Cooperar com os demais órgãos de defesa civil…*: junta o art. 5º, VIII (cooperar com a defesa civil) e o XVII (auxiliar na segurança de grandes eventos e na proteção de autoridades e dignitários).\n- *Garantir o atendimento de ocorrências emergenciais…*: é o art. 5º, XIII.\n\n**Para memorizar:** na Lei 13.022, quase tudo termina em \"do Município\". Se a alternativa amplia para o Estado ou o país, desconfie."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Álvaro e Jairo, guardas municipais, estavam conversando sobre o excesso de trabalho a que estavam sendo submetidos por conta das aposentadorias de seus colegas de trabalho. Nesse momento, Lúcio, também guarda municipal, comentou que nos municípios com até 50.000 (cinquenta mil) habitantes as guardas municipais não poderão ter efetivo inferior a 0,4% (quatro décimos por cento) da população. Com base na legislação em vigor, tal afirmação está",
+   "alternativas": [
+    "totalmente correta, pois assim dispõe o Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014).",
+    "errada, pois as guardas municipais não poderão ter efetivo superior a 0,4% (quatro décimos por cento) da população, em municípios com até 50.000 (cinquenta mil) habitantes.",
+    "parcialmente correta, já que faltou Lúcio esclarecer que se tratava da população economicamente ativa.",
+    "errada, já que nos municípios com até 50.000 (cinquenta mil) habitantes as guardas municipais não poderão ter efetivo inferior a 2% (dois por cento) da população."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"errada, pois as guardas municipais não poderão ter efetivo superior a 0,4%…\":** o art. 7º da Lei 13.022/2014 fixa um **teto**, não um piso: o efetivo **não será superior a** 0,4% da população nos municípios com até 50.000 habitantes (I); 0,3% nos municípios de 50.000 a 500.000 habitantes, desde que não fique abaixo do limite do inciso I (II); e 0,2% acima de 500.000 habitantes, desde que não fique abaixo do limite do inciso II (III). Lúcio trocou \"superior\" por \"inferior\".\n\n**As outras:**\n- *totalmente correta, pois assim dispõe o Estatuto…*: o Estatuto diz o contrário: 0,4% é limite máximo.\n- *parcialmente correta, já que faltou Lúcio esclarecer…*: a lei fala da população do município, não da população economicamente ativa.\n- *errada, já que nos municípios com até 50.000…*: mantém a ideia de piso, e o percentual de 2% não existe na lei.\n\n**Para memorizar:** 0,4% / 0,3% / 0,2%: quanto maior a cidade, menor o percentual, e é sempre teto."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Assinale abaixo a alternativa que contempla um requisito básico para investidura em cargo público na guarda municipal, de acordo com a Lei Federal nº 13.022/2014.",
+   "alternativas": [
+    "Não ter sido condenado por crime doloso ou culposo.",
+    "Inidoneidade moral comprovada por investigação social e certidões expedidas perante o Poder Judiciário estadual, federal e distrital.",
+    "Idade mínima de 21 (vinte e um) anos.",
+    "Aptidão física, mental e psicológica."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Aptidão física, mental e psicológica.\":** é o art. 10, VI, da Lei 13.022/2014. Os requisitos básicos de investidura são: nacionalidade brasileira; gozo dos direitos políticos; quitação com as obrigações militares e eleitorais; nível médio completo; **idade mínima de 18 anos**; aptidão física, mental e psicológica; e **idoneidade moral** comprovada por investigação social e certidões do Judiciário estadual, federal e distrital.\n\n**As outras:**\n- *Não ter sido condenado por crime doloso ou culposo.*: não está na lista do art. 10; a lei exige idoneidade moral, apurada por investigação social e certidões.\n- *Inidoneidade moral comprovada por investigação social…*: pegadinha. A lei exige **idoneidade** (art. 10, VII); \"inidoneidade\" é o contrário.\n- *Idade mínima de 21 (vinte e um) anos.*: a idade mínima é de 18 anos (art. 10, V).\n\n**Para memorizar:** requisitos do art. 10: brasileiro, com direitos políticos, quite com o serviço militar e as eleições, com ensino médio, 18 anos, apto e idôneo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca das medidas de proteção previstas no Estatuto da Criança e do Adolescente, analise as afirmativas abaixo:\n\nI. As medidas de proteção não poderão ser aplicadas cumulativamente, porém poderão ser substituídas a qualquer tempo.\n\nII. Na aplicação das medidas de proteção levar-se-ão em conta as necessidades pedagógicas, preferindo-se aquelas que visem ao fortalecimento dos vínculos familiares e comunitários.\n\nIII. O acolhimento institucional e o acolhimento familiar são medidas provisórias e excepcionais, utilizáveis como forma de transição para reintegração familiar ou, não sendo esta possível, para colocação em família substituta, não implicando privação de liberdade.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** a II reproduz o art. 100 do ECA: na aplicação das medidas, levam-se em conta as necessidades pedagógicas, preferindo-se as que fortalecem os vínculos familiares e comunitários. A III reproduz o art. 101, § 1º: acolhimento institucional e acolhimento familiar são medidas **provisórias e excepcionais**, de transição para a volta à família ou para a família substituta, e **não implicam privação de liberdade**.\n\nA I está errada: pelo art. 99, as medidas de proteção podem ser aplicadas **isolada ou cumulativamente**, e também substituídas a qualquer tempo.\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta*: a I é justamente a falsa.\n- *se apenas as afirmativas I e II estiverem corretas*: inclui a I e deixa de fora a III.\n- *se todas as afirmativas estiverem corretas*: a I contraria o art. 99.\n\n**Para memorizar:** medida de proteção pode somar e pode trocar (art. 99). Acolhimento é casa de passagem, não prisão."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto da Criança e do Adolescente (Lei Federal n° 8.069/90), considera-se ato infracional a conduta descrita como",
+   "alternativas": [
+    "infração administrativa ou contravenção penal.",
+    "crime, apenas.",
+    "contravenção penal, apenas.",
+    "crime ou contravenção penal."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"crime ou contravenção penal.\":** o art. 103 do ECA define que se considera ato infracional a conduta descrita como **crime ou contravenção penal**. Menores de 18 anos são penalmente inimputáveis (art. 104); por isso, quando praticam uma conduta prevista como crime ou contravenção, ela recebe o nome de ato infracional. Ao adolescente cabem medidas socioeducativas (art. 112); à criança, só medidas de proteção (art. 105).\n\n**As outras:**\n- *infração administrativa ou contravenção penal.*: infração administrativa é outra figura do ECA (a partir do art. 245): condutas de adultos e instituições punidas com multa, não ato infracional.\n- *crime, apenas.*: deixa de fora a contravenção penal.\n- *contravenção penal, apenas.*: deixa de fora o crime.\n\n**Para memorizar:** ato infracional = crime **ou** contravenção praticado por menor de 18 anos."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca das medidas socioeducativas aplicáveis às crianças e aos adolescentes, assinale a afirmativa **incorreta**.",
+   "alternativas": [
+    "Em hipótese alguma, e sob pretexto algum, será admitida a prestação de trabalho forçado.",
+    "A medida de internação não pode implicar na privação da liberdade.",
+    "A medida aplicada ao adolescente levará em conta a sua capacidade de cumpri-la, as circunstâncias e a gravidade da infração.",
+    "A advertência consistirá em admoestação verbal, que será reduzida a termo e assinada."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A medida de internação não pode implicar na privação da liberdade.\" é a resposta:** é o contrário do ECA. O art. 121 diz que a **internação constitui medida privativa da liberdade**, sujeita aos princípios de brevidade, excepcionalidade e respeito à condição peculiar de pessoa em desenvolvimento. Quem **não** implica privação de liberdade é o acolhimento institucional ou familiar, que é medida de proteção (art. 101, § 1º).\n\n**As outras (estão corretas):**\n- *Em hipótese alguma, e sob pretexto algum, será admitida…*: art. 112, § 2º, que proíbe o trabalho forçado.\n- *A medida aplicada ao adolescente levará em conta…*: art. 112, § 1º: capacidade de cumprir, circunstâncias e gravidade da infração.\n- *A advertência consistirá em admoestação verbal…*: art. 115.\n\n**Para memorizar:** a rigor, medida socioeducativa é só para **adolescente** (art. 112); à criança que pratica ato infracional cabem medidas de proteção (art. 105). O enunciado misturou os dois."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "À luz do Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014), cabe às mesmas proteger:\n\nI. os hospitais públicos municipais.\n\nII. quaisquer veículos que prestem serviço público.\n\nIII. os bens públicos municipais classificados como de uso comum do povo.\n\nIV. os animais silvestres.\n\nV. as escolas públicas e privadas.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas I, III e V estiverem corretas.",
+    "se apenas as afirmativas I, II e IV estiverem corretas.",
+    "se apenas as afirmativas II e V estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e III estiverem corretas\":** o art. 4º da Lei 13.022/2014 dá à guarda a proteção de **bens, serviços, logradouros públicos municipais e instalações do Município**, e o parágrafo único diz que isso abrange os bens **de uso comum, de uso especial e dominiais**. O hospital público municipal é bem de uso especial do Município (I correta); ruas e praças são bens municipais de uso comum do povo (III correta).\n\n**As outras:**\n- *se apenas as afirmativas I, III e V estiverem corretas*: escola **privada** não é bem público. A lei fala em segurança escolar no entorno das escolas **municipais** (art. 5º, XVIII).\n- *se apenas as afirmativas I, II e IV estiverem corretas*: \"quaisquer veículos que prestem serviço público\" vai além do patrimônio municipal. Quanto aos animais, a lei manda proteger o patrimônio ecológico e ambiental **do Município** (art. 5º, VII), não \"os animais silvestres\" em geral.\n- *se apenas as afirmativas II e V estiverem corretas*: II e V são falsas.\n\n**Para memorizar:** a palavra-chave da guarda é \"municipal\": bens do Município, sejam de uso comum, de uso especial ou dominiais."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sobre o controle e as prerrogativas das guardas municipais, assinale a afirmativa **incorreta**.",
+   "alternativas": [
+    "Os corregedores e ouvidores terão mandato cuja perda será decidida pela maioria absoluta da Câmara Municipal, fundada em razão relevante e específica prevista em lei municipal.",
+    "As guardas municipais não podem ficar sujeitas a regulamentos disciplinares de natureza militar.",
+    "Para ocupação dos cargos nos níveis superiores da carreira da guarda municipal, deverá ser observado percentual igualitário entre os sexos masculino e feminino.",
+    "É assegurado ao guarda municipal o recolhimento à cela, isoladamente dos demais presos, quando sujeito à prisão antes de condenação definitiva."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Para ocupação dos cargos nos níveis superiores da carreira…\" é a resposta:** o art. 15, § 2º, da Lei 13.022/2014 manda observar, para os cargos em **todos os níveis** da carreira, um **percentual mínimo para o sexo feminino**, definido em **lei municipal**. Não há regra de percentual igualitário entre homens e mulheres, nem restrição aos níveis superiores.\n\n**As outras (estão corretas):**\n- *Os corregedores e ouvidores terão mandato…*: art. 13, § 2º: a perda do mandato é decidida pela maioria absoluta da Câmara Municipal, por razão relevante e específica prevista em lei municipal.\n- *As guardas municipais não podem ficar sujeitas a regulamentos disciplinares…*: art. 14, parágrafo único. A guarda é instituição civil (art. 2º).\n- *É assegurado ao guarda municipal o recolhimento à cela…*: art. 18, para a prisão antes da condenação definitiva.\n\n**Para memorizar:** guarda municipal é civil: sem regulamento militar, sem postos e graduações militares, e com cota mínima feminina fixada pelo município."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O Estatuto Geral das Guardas Municipais (Lei Federal nº 13.022/2014) prevê que a Agência Nacional de Telecomunicações (Anatel) destinará linha telefônica aos municípios que possuam guarda municipal. No caso, o número para contato é",
+   "alternativas": [
+    "153.",
+    "189.",
+    "173.",
+    "193."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"153.\":** o art. 17 da Lei 13.022/2014 manda a Anatel destinar a **linha telefônica de número 153** e uma **faixa exclusiva de frequência de rádio** aos municípios que possuem guarda municipal. É o número de emergência da guarda, ao lado dos números das demais forças de segurança e socorro.\n\n**As outras:**\n- *189.*: não é o número previsto na lei para as guardas.\n- *173.*: também não é o número das guardas municipais.\n- *193.*: é o número do Corpo de Bombeiros.\n\n**Para memorizar:** 153 = guarda municipal; 190 = Polícia Militar; 192 = SAMU; 193 = Bombeiros; 199 = Defesa Civil. O mesmo art. 17 garante à guarda uma faixa de rádio exclusiva."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A legislação brasileira proíbe que a estrutura hierárquica das guardas municipais utilize denominação idêntica à das forças militares, como, por exemplo, quanto aos postos e graduações. Já sobre o uniforme dos guardas municipais, é correto afirmar que será",
+   "alternativas": [
+    "obrigatoriamente, na cor azul-marinho.",
+    "preferencialmente, na cor azul-marinho.",
+    "exclusivamente, nas cores branca ou azul-marinho.",
+    "preferencialmente, na cor branca ou azul-marinho."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"preferencialmente, na cor azul-marinho.\":** o art. 21 da Lei 13.022/2014 diz que as guardas usarão uniforme e equipamentos padronizados, **preferencialmente** na cor **azul-marinho**. É preferência, não obrigação. A primeira parte do enunciado vem do art. 19: a estrutura hierárquica não pode usar denominação idêntica à das forças militares quanto a postos, graduações, títulos, uniformes, distintivos e condecorações.\n\n**As outras:**\n- *obrigatoriamente, na cor azul-marinho.*: a lei usa \"preferencialmente\", não \"obrigatoriamente\".\n- *exclusivamente, nas cores branca ou azul-marinho.*: não há exclusividade, e a cor branca não aparece na lei.\n- *preferencialmente, na cor branca ou azul-marinho.*: acerta o \"preferencialmente\", mas inventa a cor branca.\n\n**Para memorizar:** art. 21: uniforme padronizado e, de preferência, azul-marinho. Art. 19: nada de nomes de postos militares."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise as afirmativas abaixo sobre a Lei nº 11.340/2006 (Lei Maria da Penha):\n\nI. A violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos.\n\nII. Entende-se por violência moral contra a mulher toda e qualquer conduta que lhe impute condição de inferioridade em relação ao homem.\n\nIII. Para receber a proteção prevista na Lei Maria da Penha, a violência sexual contra a mulher tem que se enquadrar no crime de estupro ou de atentado violento ao pudor.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas a afirmativa I estiver correta\":** a I reproduz o art. 6º da Lei 11.340/2006: a violência doméstica e familiar contra a mulher **constitui uma das formas de violação dos direitos humanos**.\n\nA II está errada: pelo art. 7º, V, violência **moral** é qualquer conduta que configure **calúnia, difamação ou injúria**. A III também: a violência sexual do art. 7º, III, é ampla. Inclui constranger a presenciar, manter ou participar de relação sexual não desejada, impedir o uso de método contraceptivo e forçar ao casamento, à gravidez, ao aborto ou à prostituição, entre outras condutas. Não precisa ser estupro. Além disso, o \"atentado violento ao pudor\" deixou de ser crime autônomo em 2009, quando foi absorvido pelo estupro (Lei 12.015/2009).\n\n**As outras:**\n- *se apenas as afirmativas I e II estiverem corretas*: a II troca o conceito de violência moral.\n- *se apenas as afirmativas II e III estiverem corretas*: as duas são falsas.\n- *se todas as afirmativas estiverem corretas*: II e III são falsas.\n\n**Para memorizar:** as cinco formas do art. 7º: física, psicológica, sexual, patrimonial e moral (moral = calúnia, difamação ou injúria)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Esta Lei define os crimes de abuso de autoridade, cometidos por ___________________________________, que, no exercício de suas funções ou a pretexto de exercê-las, __________________ que lhe tenha sido atribuído”.\n\nCom base na Lei nº 13.869/2019 (Lei de abuso de autoridade), assinale a alternativa que preenche corretamente as lacunas acima, respectivamente.",
+   "alternativas": [
+    "funcionário público ou privado - abuse do poder",
+    "somente servidores públicos - abuse do poder",
+    "funcionário público ou privado - usurpe o poder",
+    "agente público, servidor ou não - abuse do poder"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"agente público, servidor ou não - abuse do poder\":** é o art. 1º da Lei 13.869/2019: a lei define os crimes de abuso de autoridade cometidos por **agente público, servidor ou não**, que, no exercício das funções ou a pretexto de exercê-las, **abuse do poder** que lhe tenha sido atribuído. O conceito é amplo e alcança quem exerce função pública sem ser servidor de carreira (art. 2º).\n\n**As outras:**\n- *funcionário público ou privado - abuse do poder*: empregado de empresa privada, sem função pública, não comete abuso de autoridade.\n- *somente servidores públicos - abuse do poder*: a lei vai além dos servidores: alcança membros dos Poderes, do Ministério Público, dos tribunais de contas e quem exerce função pública sem vínculo de carreira.\n- *funcionário público ou privado - usurpe o poder*: erra o sujeito e o verbo. Usurpar função pública é outro crime (art. 328 do Código Penal), de quem exerce uma função que não tem.\n\n**Para memorizar:** abuso de autoridade = agente público (servidor ou não) que abusa do poder que **tem**. Usurpação = exercer um poder que **não tem**."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sobre os sujeitos ativos do crime de abuso de autoridade, analise as afirmativas a seguir:\n\nI. Membro do Poder Legislativo pode ser sujeito ativo do referido crime.\n\nII. Membro do Ministério Público, seja promotor ou procurador da República, está impossibilitado de praticar o crime de abuso de autoridade.\n\nIII. Aquele que exerce função pública gratuitamente jamais conseguirá praticar o crime de abuso de autoridade.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas a afirmativa I estiver correta\":** o art. 2º da Lei 13.869/2019 diz que é sujeito ativo **qualquer agente público, servidor ou não**, de qualquer dos Poderes da União, dos Estados, do DF, dos Municípios e dos Territórios. A lista, que não é fechada, inclui: servidores públicos e militares; **membros do Poder Legislativo** (I correta); do Executivo; do Judiciário; **do Ministério Público**; e dos tribunais ou conselhos de contas.\n\nA II está errada: promotores e procuradores, como membros do MP, podem cometer o crime (art. 2º, V). A III também: o parágrafo único considera agente público quem exerce mandato, cargo, emprego ou função, **ainda que transitoriamente ou sem remuneração**.\n\n**As outras:**\n- *se apenas as afirmativas I e II estiverem corretas*: a II contraria o art. 2º, V.\n- *se apenas as afirmativas II e III estiverem corretas*: as duas são falsas.\n- *se todas as afirmativas estiverem corretas*: II e III são falsas.\n\n**Para memorizar:** na Lei de Abuso de Autoridade ninguém do poder público escapa: juiz, promotor, parlamentar, policial e até quem exerce função pública de graça."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na Lei nº 13.869/2019 (Lei de abuso de autoridade) é considerado crime o cumprimento de mandado de busca e apreensão domiciliar",
+   "alternativas": [
+    "após as 18h (dezoito horas).",
+    "entre 18h (dezoito horas) e 6h (seis horas).",
+    "após as 21h (vinte e uma horas) ou antes das 5h (cinco horas).",
+    "entre 20 (vinte horas) e 8h (oito horas)."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"após as 21h (vinte e uma horas) ou antes das 5h (cinco horas).\":** o art. 22, § 1º, III, da Lei 13.869/2019 pune com a mesma pena da invasão de domicílio (detenção de 1 a 4 anos e multa) quem **cumpre mandado de busca e apreensão domiciliar após as 21h ou antes das 5h**. A lei fixou esse horário porque a Constituição só permite entrar na casa por ordem judicial **durante o dia** (art. 5º, XI).\n\n**As outras:**\n- *após as 18h (dezoito horas).*: corresponde ao critério doutrinário antigo de \"dia\" (das 6h às 18h), mas não é o da lei.\n- *entre 18h (dezoito horas) e 6h (seis horas).*: mesmo problema; a lei escolheu 21h e 5h.\n- *entre 20 (vinte horas) e 8h (oito horas).*: horários sem base legal.\n\n**Para memorizar:** mandado de busca domiciliar só se cumpre entre 5h e 21h. Fora disso, é abuso de autoridade."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No caso de ser processado por ter decretado medida de privação da liberdade em manifesta desconformidade com as hipóteses legais, o réu condenado poderá sofrer inabilitação para o exercício de cargo, mandato ou função pública, pelo período de",
+   "alternativas": [
+    "1 (um) a 10 (dez) anos.",
+    "1 (um) a 5 (cinco) anos.",
+    "5 (cinco) a 10 (dez) anos.",
+    "até 30 (trinta) anos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"1 (um) a 5 (cinco) anos.\":** decretar privação da liberdade em manifesta desconformidade com as hipóteses legais é o crime do art. 9º da Lei 13.869/2019 (detenção de 1 a 4 anos e multa). Entre os efeitos da condenação, o art. 4º, II, prevê a **inabilitação para o exercício de cargo, mandato ou função pública por 1 a 5 anos**. Esse efeito e a perda do cargo (art. 4º, III) **não são automáticos**: dependem de **reincidência** em crime de abuso de autoridade e têm de ser declarados de forma motivada na sentença (parágrafo único).\n\n**As outras:**\n- *1 (um) a 10 (dez) anos.*: prazo sem previsão na lei.\n- *5 (cinco) a 10 (dez) anos.*: também sem previsão na lei.\n- *até 30 (trinta) anos.*: não existe esse prazo para a inabilitação.\n\n**Para memorizar:** efeitos do art. 4º: tornar certa a obrigação de indenizar (I), inabilitação de 1 a 5 anos (II) e perda do cargo (III); os dois últimos só com reincidência."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Guarda Municipal possui um veículo exclusivo para o transporte de carga entre as diversas Secretarias, quando necessário. Como tal veículo tem peso bruto total de quatro mil e quinhentos quilogramas, o seu condutor deverá estar habilitado na",
+   "alternativas": [
+    "categoria F.",
+    "categoria D.",
+    "categoria A.",
+    "categoria C."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito definitivo não informa o motivo. Pelo art. 143 do CTB, veículo motorizado de **carga com peso bruto total acima de 3.500 kg** exige a **categoria C**; com 4.500 kg, a resposta esperada seria *categoria C*. Uma explicação provável para a anulação é que as categorias D e E também habilitam a conduzir os veículos da categoria C, o que deixava *categoria D* defensável diante da expressão \"deverá estar habilitado na\".\n\nSobre o assunto: categoria **A**, veículos de duas ou três rodas; **B**, veículos de até 3.500 kg e até 8 lugares além do motorista; **C**, carga acima de 3.500 kg; **D**, passageiros com mais de 8 lugares além do motorista; **E**, combinações de veículos em que a unidade acoplada tem 6.000 kg ou mais, ou mais de 8 lugares. Não existe categoria F.\n\n**Para memorizar:** 3.500 kg é a linha que separa a B da C."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise as afirmativas abaixo sobre o registro e o licenciamento de veículos:\n\nI. O primeiro licenciamento será feito simultaneamente ao registro.\n\nII. Todo veículo automotor, elétrico, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo.\n\nIII. Os veículos novos não estão sujeitos ao licenciamento e terão sua circulação regulada pelo CONTRAN durante o trajeto entre a fábrica e o Município de destino.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas\":** as três afirmativas reproduzem o CTB. A I é o art. 131, § 1º: o primeiro licenciamento é feito junto com o registro. A II é o art. 130: o veículo precisa ser licenciado **anualmente** pelo órgão executivo de trânsito do Estado ou do DF onde está registrado. A III é o art. 132: veículos novos não estão sujeitos ao licenciamento no trajeto **da fábrica até o município de destino**, com circulação regulada pelo CONTRAN (o § 1º estende a regra aos importados, da alfândega até o destino).\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta*: II e III também estão na lei.\n- *se apenas as afirmativas I e II estiverem corretas*: a III é o próprio art. 132.\n- *se apenas as afirmativas II e III estiverem corretas*: a I é o art. 131, § 1º.\n\n**Para memorizar:** registro é a identidade do veículo; licenciamento é a autorização anual para circular. O primeiro licenciamento sai junto com o registro."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Determinada estrada tem limite de velocidade de 80 km/h (oitenta quilômetro por hora). Se o guarda municipal, fora do expediente de trabalho, estiver trafegando com a viatura da Guarda Municipal a 130 km/h (cento e trinta quilômetros por hora), ele será penalizado",
+   "alternativas": [
+    "Diretamente, com suspensão do direito de dirigir.",
+    "com apreensão do veículo, por ter cometido uma infração gravíssima.",
+    "com multa, por ter cometido uma infração grave.",
+    "com multa e suspensão do direito de dirigir."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito definitivo não informa o motivo. Pela conta, 130 km/h numa via de 80 km/h é um excesso de 50 km/h, ou seja, 62,5% acima do limite (50 ÷ 80 = 0,625). Pelo art. 218, III, do CTB, velocidade **mais de 50% acima da máxima** é infração **gravíssima**, com **multa multiplicada por três e suspensão do direito de dirigir**; a resposta esperada seria *com multa e suspensão do direito de dirigir*. Uma hipótese para a anulação é a redação: antes da Lei 14.071/2020 o inciso falava em \"suspensão imediata\", o que deixa *Diretamente, com suspensão…* discutível; o caso da viatura oficial dirigida fora do expediente também gera dúvida sobre quem responde pela multa.\n\nSobre o assunto, o art. 218 tem três faixas: até 20% acima do limite, infração média; de mais de 20% até 50%, grave; mais de 50%, gravíssima, com multa ×3 e suspensão do direito de dirigir.\n\n**Para memorizar:** calcule sempre o excesso em porcentagem do limite, não em km/h."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Cláudia, guarda municipal, estacionou o seu veículo particular sobre a faixa destinada a pedestre. Nesse caso, é possível afirmar que ela cometeu uma infração",
+   "alternativas": [
+    "leve.",
+    "grave.",
+    "média.",
+    "gravíssima."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"grave.\":** estacionar **sobre a faixa destinada a pedestre** está no art. 181, VIII, do CTB, junto com estacionar no passeio, sobre ciclovia ou ciclofaixa, nas ilhas, refúgios, canteiros centrais, gramados ou jardim público. É infração **grave**, com penalidade de multa e medida administrativa de **remoção do veículo**. Ser guarda municipal não muda nada: o carro era particular e a regra vale para qualquer condutor.\n\n**As outras:**\n- *leve.*: não é a gravidade prevista para estacionar na faixa de pedestres.\n- *média.*: também não; a faixa põe em risco quem atravessa, e a lei a trata como grave.\n- *gravíssima.*: é a gravidade de outros casos de estacionamento, como parar em vaga reservada a idoso ou a pessoa com deficiência sem a credencial.\n\n**Para memorizar:** estacionar onde o pedestre ou o ciclista circula (calçada, faixa, ciclovia) = infração grave + remoção do veículo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O guarda municipal Francisco de Assis não sabia fazer uso da buzina quando dirigia a viatura oficial. Muitas vezes, utilizava-a prolongada e sucessivamente a qualquer pretexto. Nesse caso, caso seja flagrado por agente de trânsito utilizando indevidamente a buzina, receberá multa pelo cometimento de infração",
+   "alternativas": [
+    "leve.",
+    "grave.",
+    "média.",
+    "gravíssima."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"leve.\":** o art. 227 do CTB pune o uso da buzina: I, em situação que não seja um simples toque breve como advertência a pedestres ou condutores; **II, prolongada e sucessivamente a qualquer pretexto**; III, entre as 22h e as 6h; IV, em locais e horários proibidos pela sinalização; V, em desacordo com os padrões e frequências do CONTRAN. Em todos os casos a infração é **leve**, com multa.\n\n**As outras:**\n- *grave.*: não é a gravidade prevista no art. 227.\n- *média.*: também não corresponde ao art. 227.\n- *gravíssima.*: fica para condutas de alto risco, como exceder a velocidade em mais de 50%.\n\n**Para memorizar:** buzina usada indevidamente é sempre infração leve (art. 227). Dirigir viatura oficial não dispensa ninguém das regras de trânsito: a livre circulação só vale em serviço de urgência, com sirene e luz vermelha intermitente ligadas (art. 29, VII)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“A casa é __________________ do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de _______________________, ou para prestar socorro, ou, durante o dia, por ______________________________”.\n\nCom base na Constituição Federal, assinale a alternativa que preenche corretamente as lacunas acima, de forma respectiva.",
+   "alternativas": [
+    "propriedade privada - flagrante delito- ordem judicial",
+    "asilo domiciliar - desastre - determinação do juiz",
+    "propriedade - incêndio - ordem do Poder Público",
+    "asilo inviolável - flagrante delito ou desastre - determinação judicial"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"asilo inviolável - flagrante delito ou desastre - determinação judicial\":** é o texto do art. 5º, XI, da Constituição: a casa é **asilo inviolável** do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de **flagrante delito ou desastre**, ou para prestar socorro, ou, durante o dia, por **determinação judicial**. De noite, sem consentimento, só se entra em flagrante, desastre ou para socorrer; de dia, também com ordem do juiz.\n\n**As outras:**\n- *propriedade privada - flagrante delito- ordem judicial*: a Constituição não fala em \"propriedade privada\"; a proteção é da casa, mesmo alugada ou emprestada.\n- *asilo domiciliar - desastre - determinação do juiz*: a expressão é \"asilo inviolável\", e a lacuna das exceções inclui também o flagrante delito.\n- *propriedade - incêndio - ordem do Poder Público*: ordem de autoridade administrativa não basta; precisa ser **judicial**.\n\n**Para memorizar:** de dia ou de noite: flagrante, desastre ou socorro. Só de dia: ordem judicial (cumprida entre 5h e 21h, pela Lei de Abuso de Autoridade)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere os seguintes dispositivos constitucionais:\n\nI. A lei penal não retroagirá, salvo para beneficiar o réu.\n\nII. Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória.\n\nIII. É livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens.\n\nIV. Não haverá juízo ou tribunal de exceção.\n\nV. Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente.\n\nOs princípios constitucionais relativos ao Direito Penal estão contidos nos itens",
+   "alternativas": [
+    "I, II e V, apenas.",
+    "I, II e IV, apenas.",
+    "II, IV e V, apenas.",
+    "I, II e III, apenas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e IV, apenas.\":** os três itens são garantias penais e processuais penais do art. 5º da Constituição. O **I** é a irretroatividade da lei penal, salvo para beneficiar o réu (inciso XL). O **II** é a presunção de inocência, ou de não culpabilidade (LVII). O **IV** é o princípio do juiz natural, que proíbe juízo ou tribunal de exceção (XXXVII).\n\nOs itens III e V são direitos fundamentais, mas não tratam de Direito Penal: o III é a **liberdade de locomoção** (XV) e o V é o **direito de reunião** (XVI).\n\n**As outras:**\n- *I, II e V, apenas.*: inclui o direito de reunião e deixa de fora o juiz natural.\n- *II, IV e V, apenas.*: inclui o direito de reunião e deixa de fora a irretroatividade da lei penal.\n- *I, II e III, apenas.*: inclui a liberdade de locomoção e deixa de fora o juiz natural.\n\n**Para memorizar:** se o inciso fala de crime, réu, culpa, pena ou juiz, é princípio penal ou processual penal."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca dos crimes inafiançáveis e imprescritíveis previstos na Constituição Federal, assinale a alternativa correta.",
+   "alternativas": [
+    "A prática do racismo constitui crime imprescritível, porém é crime afiançável.",
+    "Todo crime hediondo é inafiançável e imprescritível.",
+    "Trata-se de crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+    "A prática da tortura, diferentemente do tráfico ilícito de entorpecentes e drogas afins, constitui crime imprescritível."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Trata-se de crime inafiançável e imprescritível a ação de grupos armados…\":** é o art. 5º, XLIV, da Constituição. Só **dois** crimes são imprescritíveis no texto constitucional: o **racismo** (XLII) e a **ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático** (XLIV). Os dois também são inafiançáveis.\n\n**As outras:**\n- *A prática do racismo constitui crime imprescritível, porém é…*: o racismo é inafiançável **e** imprescritível, sujeito a pena de reclusão (XLII).\n- *Todo crime hediondo é inafiançável e imprescritível.*: tortura, tráfico, terrorismo e hediondos são inafiançáveis e **insuscetíveis de graça ou anistia** (XLIII), mas prescrevem.\n- *A prática da tortura, diferentemente do tráfico ilícito…*: tortura e tráfico estão no mesmo inciso XLIII, com o mesmo tratamento; nenhum dos dois é imprescritível.\n\n**Para memorizar:** imprescritíveis são só dois: racismo e ação de grupos armados. Tortura, tráfico, terrorismo e hediondos (os \"3TH\") ficam sem fiança, graça ou anistia, mas prescrevem."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com a Constituição Federal, será concedido \"habeas-corpus\" se",
+   "alternativas": [
+    "for necessário proteger qualquer direito líquido e certo do cidadão.",
+    "as autoridades públicas praticarem qualquer ilegalidade.",
+    "o Poder Público agir com desvio de poder.",
+    "alguém sofrer coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"alguém sofrer coação em sua liberdade de locomoção…\":** pelo art. 5º, LXVIII, da Constituição, concede-se *habeas corpus* sempre que alguém **sofrer ou se achar ameaçado de sofrer** violência ou coação em sua **liberdade de locomoção** (ir, vir e ficar), por ilegalidade ou abuso de poder. É o remédio da liberdade de ir e vir, e pode ser preventivo.\n\n**As outras:**\n- *for necessário proteger qualquer direito líquido e certo do cidadão.*: é o **mandado de segurança** (LXIX), para direito líquido e certo não amparado por habeas corpus nem habeas data.\n- *as autoridades públicas praticarem qualquer ilegalidade.*: amplo demais; o habeas corpus só protege a liberdade de locomoção.\n- *o Poder Público agir com desvio de poder.*: desvio de poder se combate por outras vias, como o mandado de segurança ou a ação popular; só cabe habeas corpus se atingir a locomoção.\n\n**Para memorizar:** HC = liberdade de locomoção; HD = informações sobre a própria pessoa; MS = direito líquido e certo que sobra; MI = falta de norma regulamentadora."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança e a previdência social são considerados direitos que geram deveres para o Poder Público. Pela sua importância, eles são reconhecidos constitucionalmente como",
+   "alternativas": [
+    "garantias sociais.",
+    "direitos sociais.",
+    "direitos humanos.",
+    "garantias coletivas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"direitos sociais.\":** o art. 6º da Constituição diz que são **direitos sociais** a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados. São direitos de segunda dimensão: exigem prestações do Estado e, por isso, geram deveres para o Poder Público. A alimentação entrou pela EC 64/2010 e o transporte pela EC 90/2015.\n\n**As outras:**\n- *garantias sociais.*: garantia é o instrumento que protege um direito (ex.: habeas corpus); a Constituição chama essa lista de direitos.\n- *direitos humanos.*: é a expressão usada no plano internacional; na Constituição, esse rol está no capítulo \"Dos Direitos Sociais\".\n- *garantias coletivas.*: a Constituição não usa essa expressão para esse rol.\n\n**Para memorizar:** art. 6º = lista dos direitos sociais; art. 7º = direitos dos trabalhadores urbanos e rurais."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A licença à gestante é um direito de toda trabalhadora urbana ou rural, sendo concedida sem prejuízo do emprego e do salário. A duração dessa licença, conforme prevê a Constituição Federal, não pode ser inferior a",
+   "alternativas": [
+    "cento e vinte dias.",
+    "trinta dias.",
+    "sessenta dias.",
+    "noventa dias."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"cento e vinte dias.\":** o art. 7º, XVIII, da Constituição garante licença à gestante, sem prejuízo do emprego e do salário, com a duração de **cento e vinte dias**. É o mínimo constitucional: a Lei 11.770/2008 (Programa Empresa Cidadã) permite prorrogar por mais 60 dias, e muitos entes públicos já concedem 180 dias às servidoras.\n\n**As outras:**\n- *trinta dias.*: fica muito abaixo do mínimo constitucional.\n- *sessenta dias.*: é o acréscimo da prorrogação prevista na Lei 11.770/2008, não o mínimo da Constituição.\n- *noventa dias.*: também fica abaixo dos 120 dias garantidos.\n\n**Para memorizar:** gestante: 120 dias na Constituição, podendo chegar a 180 com a prorrogação. O art. 7º vale para trabalhadoras urbanas e rurais."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Se nascer no Brasil a filha de dois estrangeiros, que estão a serviço de seu país, pode-se afirmar que",
+   "alternativas": [
+    "será considerada brasileira nata.",
+    "será considerada brasileira naturalizada.",
+    "nem será considerada como brasileira nata e nem como naturalizada.",
+    "nem será considerada como estrangeira e nem como brasileira."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"nem será considerada como brasileira nata e nem como naturalizada.\":** o art. 12, I, *a*, da Constituição adota o critério do solo com uma exceção: é brasileiro nato quem nasce no Brasil, **ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país**. Como os dois pais estrangeiros estão a serviço do seu país, a filha **não** é brasileira nata. Também não vira naturalizada só por ter nascido aqui: a naturalização depende de pedido e de requisitos (art. 12, II). Para o Brasil, ela é estrangeira.\n\n**As outras:**\n- *será considerada brasileira nata.*: seria a regra geral do solo, mas a exceção afasta.\n- *será considerada brasileira naturalizada.*: naturalização não decorre automaticamente do nascimento.\n- *nem será considerada como estrangeira e nem como brasileira.*: ela é estrangeira para o Brasil.\n\n**Para memorizar:** nasceu no Brasil é nato, salvo se os pais forem estrangeiros a serviço do seu país (diplomatas, por exemplo)."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise as afirmativas a seguir sobre os direitos políticos:\n\nI. São inelegíveis os inalistáveis e os analfabetos.\n\nII. Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito.\n\nIII. Para se candidatar ao cargo de Vereador, a idade mínima é de dezoito anos.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas\":** as três afirmativas estão no art. 14 da Constituição. A **I** é o § 4º: são inelegíveis os inalistáveis e os analfabetos. A **II** é o § 6º: para concorrer a **outros cargos**, Presidente, Governadores e Prefeitos devem **renunciar até seis meses antes do pleito** (a desincompatibilização). A **III** é o § 3º, VI, *d*: a idade mínima para Vereador é de **dezoito anos**.\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta*: II e III também reproduzem a Constituição.\n- *se apenas as afirmativas I e II estiverem corretas*: a III também está correta.\n- *se apenas as afirmativas II e III estiverem corretas*: a I é o texto do § 4º.\n\n**Para memorizar:** idades mínimas: 35 anos (Presidente, Vice e Senador), 30 (Governador e Vice), 21 (Deputado, Prefeito, Vice-Prefeito e juiz de paz) e 18 (Vereador). Para disputar a reeleição ao mesmo cargo, o chefe do Executivo não precisa renunciar."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Determinado gestor público praticou improbidade administrativa e teve seus direitos políticos cassados pelo juiz do processo. Nesse caso, é possível afirmar que",
+   "alternativas": [
+    "a cassação judicial dos direitos políticos está equivocada, pois ela é vedada pela Constituição Federal.",
+    "está totalmente correto o entendimento do juiz.",
+    "além de ter cassado os direitos políticos, o juiz deveria ter determinado o recolhimento do título de eleitor, impedindo o condenado de votar nas eleições.",
+    "a prática de improbidade administrativa não é fundamento para privar qualquer pessoa dos seus direitos políticos, ainda que temporiamente."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"a cassação judicial dos direitos políticos está equivocada…\":** o art. 15 da Constituição diz que **é vedada a cassação de direitos políticos**; só há **perda ou suspensão** nos casos que ele lista. A improbidade administrativa está no inciso V e gera **suspensão** dos direitos políticos (art. 37, § 4º), por prazo fixado na sentença, não cassação. O juiz poderia suspender, nunca cassar.\n\n**As outras:**\n- *está totalmente correto o entendimento do juiz.*: cassação de direitos políticos é proibida.\n- *além de ter cassado os direitos políticos, o juiz deveria…*: soma ao erro da cassação uma medida que a Constituição não prevê.\n- *a prática de improbidade administrativa não é fundamento…*: é fundamento, sim, de suspensão dos direitos políticos (arts. 15, V, e 37, § 4º).\n\n**Para memorizar:** cassação, nunca. Perda ou suspensão, só nos cinco incisos do art. 15; improbidade gera suspensão."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Se determinado Município tiver até dez mil habitantes, é correto afirmar que o subsídio máximo dos Vereadores corresponderá a",
+   "alternativas": [
+    "trinta por cento do subsídio do Prefeito.",
+    "quarenta e cinco por cento do subsídio do Prefeito.",
+    "vinte por cento do subsídio dos Deputados Estaduais.",
+    "setenta e cinco por cento do subsídio dos Deputados Estaduais."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"vinte por cento do subsídio dos Deputados Estaduais.\":** o art. 29, VI, da Constituição fixa o subsídio **máximo** dos Vereadores como percentual do subsídio dos **Deputados Estaduais**, conforme a população: até 10 mil habitantes, **20%**; de 10.001 a 50 mil, 30%; de 50.001 a 100 mil, 40%; de 100.001 a 300 mil, 50%; de 300.001 a 500 mil, 60%; acima de 500 mil, 75%.\n\n**As outras:**\n- *trinta por cento do subsídio do Prefeito.*: a referência é o Deputado Estadual, não o Prefeito; e 30% é a faixa de 10.001 a 50 mil habitantes.\n- *quarenta e cinco por cento do subsídio do Prefeito.*: referência e percentual errados.\n- *setenta e cinco por cento do subsídio dos Deputados Estaduais.*: é o teto dos municípios com mais de 500 mil habitantes.\n\n**Para memorizar:** 20, 30, 40, 50, 60 e 75%, sempre sobre o subsídio do Deputado Estadual. Campina Grande, com cerca de 420 mil habitantes, fica na faixa de 60%."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A fiscalização do Município feita pelo Poder Legislativo Municipal, através da Câmara Municipal com o auxílio da Corte de Contas, representa modalidade de controle",
+   "alternativas": [
+    "*interna corporis*.",
+    "externo.",
+    "interno.",
+    "misto."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"externo.\":** o art. 31 da Constituição diz que a fiscalização do Município é exercida pelo **Poder Legislativo Municipal, mediante controle externo**, e pelos sistemas de **controle interno** do Poder Executivo. O § 1º completa: o controle externo da Câmara é exercido **com o auxílio dos Tribunais de Contas** dos Estados ou do Município, ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. É externo porque um Poder fiscaliza outro.\n\n**As outras:**\n- *interna corporis.*: são assuntos internos de um órgão, como a aplicação do regimento da Câmara, que em regra nem o Judiciário revisa. Não é tipo de fiscalização do Município.\n- *interno.*: é o controle que o próprio Executivo faz sobre si mesmo.\n- *misto.*: a Constituição não usa essa classificação para a fiscalização municipal.\n\n**Para memorizar:** Câmara com o auxílio do Tribunal de Contas = controle externo; o órgão fiscalizando a si mesmo = controle interno. Na Paraíba, quem auxilia as Câmaras é o TCE-PB."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Constituição Federal estabelece princípios importantes para serem obedecidos não somente dentro da República Federativa do Brasil, mas, também, em suas relações internacionais. É o caso, por exemplo, do princípio da",
+   "alternativas": [
+    "intervenção estatal.",
+    "prevalência dos direitos humanos.",
+    "promoção do desenvolvimento nacional.",
+    "proibição do asilo político."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"prevalência dos direitos humanos.\":** é o art. 4º, II, da Constituição. O art. 4º lista os princípios das relações internacionais do Brasil: independência nacional; **prevalência dos direitos humanos**; autodeterminação dos povos; não intervenção; igualdade entre os Estados; defesa da paz; solução pacífica dos conflitos; repúdio ao terrorismo e ao racismo; cooperação entre os povos para o progresso da humanidade; e concessão de asilo político.\n\n**As outras:**\n- *intervenção estatal.*: o princípio é o oposto: **não intervenção** (art. 4º, IV).\n- *promoção do desenvolvimento nacional.*: garantir o desenvolvimento nacional é **objetivo fundamental** da República (art. 3º, II), não princípio das relações internacionais.\n- *proibição do asilo político.*: o princípio é a **concessão** de asilo político (art. 4º, X).\n\n**Para memorizar:** art. 1º traz os fundamentos; art. 3º, os objetivos (começam com verbos: construir, garantir, erradicar, promover); art. 4º, os princípios das relações internacionais."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em 2019, a Constituição Federal contemplou, no âmbito da segurança pública, a criação das polícias penais, em prol da preservação da ordem pública e da incolumidade das pessoas e do patrimônio. Nesse caso, é correto afirmar que a polícia penal pode ser",
+   "alternativas": [
+    "apenas distrital.",
+    "municipal ou federal.",
+    "apenas estadual.",
+    "federal, estadual ou distrital."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"federal, estadual ou distrital.\":** a EC 104/2019 incluiu no art. 144 da Constituição o inciso VI: **polícias penais federal, estaduais e distrital**. O § 5º-A diz que elas ficam vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem e cuidam da **segurança dos estabelecimentos penais**.\n\n**As outras:**\n- *apenas distrital.*: existe a distrital, mas também a federal e as estaduais.\n- *municipal ou federal.*: não há polícia penal municipal. O município pode ter guarda municipal (art. 144, § 8º), que não é polícia penal.\n- *apenas estadual.*: deixa de fora a federal e a distrital.\n\n**Para memorizar:** órgãos do art. 144: Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, polícias civis, polícias militares e corpos de bombeiros militares, e polícias penais. A guarda municipal aparece no § 8º, fora dessa lista."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca da Segurança Pública, analise as afirmativas a seguir:\n\nI. Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública.\n\nII. Aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.\n\nIII. As polícias civis também são denominadas de polícias judiciárias, podendo ser da União, dos Estados ou do Distrito Federal.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e II estiverem corretas\":** a I e a II reproduzem o art. 144, § 5º, da Constituição: às **polícias militares** cabem a polícia ostensiva e a preservação da ordem pública; aos **corpos de bombeiros militares**, além das atribuições definidas em lei, incumbe a execução de atividades de **defesa civil**.\n\nA III está errada: as polícias civis são dos **Estados e do Distrito Federal** (§ 4º), dirigidas por delegados de carreira, com funções de polícia judiciária e de apuração de infrações penais, ressalvada a competência da União. A polícia judiciária da União é a **Polícia Federal** (§ 1º, IV), não uma \"polícia civil da União\".\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas*: a III é falsa.\n- *se apenas a afirmativa I estiver correta*: a II também está correta.\n- *se apenas as afirmativas II e III estiverem corretas*: inclui a III e exclui a I.\n\n**Para memorizar:** PM = policiamento ostensivo e ordem pública; bombeiro militar = defesa civil; polícia civil (Estados e DF) e Polícia Federal (União) = polícia judiciária."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "No serviço público brasileiro vigora atualmente a regra de que são estáveis, após três anos de efetivo exercício, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público. Entretanto, é possível sim que o servidor público estável perca o respectivo cargo, como, por exemplo, quando",
+   "alternativas": [
+    "assim o determinar uma sentença judicial transitada em julgado.",
+    "houver fraude na avaliação periódica de desempenho de alguns servidores que trabalham na mesma repartição pública.",
+    "tiver orientação política divergente da de seu superior hierárquico.",
+    "aderir à greve da sua categoria laboral."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"assim o determinar uma sentença judicial transitada em julgado.\":** pelo art. 41, § 1º, da Constituição, o servidor estável só perde o cargo: I, em virtude de **sentença judicial transitada em julgado**; II, mediante processo administrativo com ampla defesa; III, mediante **avaliação periódica de desempenho**, na forma de lei complementar, também com ampla defesa. Há ainda a perda por excesso de despesa com pessoal (art. 169, § 4º).\n\n**As outras:**\n- *houver fraude na avaliação periódica de desempenho…*: o que leva à perda é o desempenho insuficiente do próprio servidor, apurado com ampla defesa, não uma fraude na avaliação de colegas.\n- *tiver orientação política divergente…*: seria perseguição; fere a liberdade de convicção política (art. 5º, VIII) e a impessoalidade.\n- *aderir à greve da sua categoria laboral.*: a greve do servidor é direito previsto no art. 37, VII; aderir a ela, por si só, não gera perda do cargo.\n\n**Para memorizar:** estável perde o cargo por sentença, processo administrativo, avaliação de desempenho ou excesso de despesa. Em Campina Grande, o texto publicado do Estatuto (Lei 2.378/92, art. 21) fala em estabilidade após 2 anos, regra anterior à EC 19/1998; hoje vale o prazo constitucional de 3 anos."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "Acerca da responsabilidade dos agentes públicos, analise as afirmativas a seguir:\n\nI. Há casos em que o agente público responde, na esfera criminal, por ter agido culposamente.\n\nII. Atualmente, nenhum agente público pode ser responsabilizado pelo crime de prevaricação.\n\nIII. Se o agente público for absolvido judicialmente na esfera civil ou administrativa, também deverá sê-lo na esfera criminal.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "Se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas a afirmativa I estiver correta\":** a I é verdadeira: alguns crimes contra a administração admitem a forma **culposa**, como o **peculato culposo** (art. 312, § 2º, do Código Penal), em que o funcionário, por descuido, permite que outra pessoa desvie o bem.\n\nA II é falsa: a **prevaricação** (art. 319 do Código Penal: retardar ou deixar de praticar ato de ofício, ou praticá-lo contra a lei, para satisfazer interesse ou sentimento pessoal) continua em vigor. A III também é falsa: as esferas civil, penal e administrativa são **independentes**. O Estatuto dos Servidores de Campina Grande (Lei 2.378/92) diz que as sanções podem se cumular (art. 128) e que só a **absolvição criminal** que negue o fato ou a autoria afasta a responsabilidade administrativa (art. 129).\n\n**As outras:**\n- *se apenas as afirmativas I e II estiverem corretas*: a II é falsa.\n- *Se apenas as afirmativas II e III estiverem corretas*: as duas são falsas.\n- *se todas as afirmativas estiverem corretas*: II e III são falsas.\n\n**Para memorizar:** a absolvição penal por inexistência do fato ou negativa de autoria vincula as outras esferas; o caminho inverso não existe."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "As penalidades disciplinares serão aplicadas pelo Prefeito municipal quando se tratar de demissão do servidor público. Nesse caso, a prescrição da respectiva ação disciplinar ocorre em",
+   "alternativas": [
+    "dois anos.",
+    "um ano.",
+    "dez anos.",
+    "cinco anos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"cinco anos.\":** no Estatuto dos Servidores de Campina Grande (Lei Municipal 2.378/92), o art. 143, I, manda o **Prefeito** aplicar as penas de demissão, de cassação de aposentadoria ou disponibilidade e de suspensão acima de 15 dias. O art. 144 fixa a prescrição da ação disciplinar: **5 anos** para as infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; 2 anos para suspensão; 180 dias para advertência. O prazo corre da data em que o fato se tornou conhecido (§ 1º), e a abertura de sindicância ou de processo disciplinar interrompe a prescrição (§ 3º).\n\n**As outras:**\n- *dois anos.*: é o prazo para a suspensão.\n- *um ano.*: o Estatuto não prevê esse prazo; o menor é de 180 dias, para a advertência.\n- *dez anos.*: também não existe no Estatuto.\n\n**Para memorizar:** 5 anos, 2 anos, 180 dias: demissão, suspensão e advertência. É a mesma regra do art. 142 da Lei 8.112/90, que serviu de modelo."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "principios-limpe",
+   "enunciado": "No dia do seu aniversário, o chefe dos guardas municipais ordenou que toda a repartição cantasse parabéns e fizesse elogios sobre a sua gestão na Guarda Municipal. O objetivo, segundo se descobriu posteriormente, era a gravação de um vídeo para que o referido gestor pudesse divulgar na sua campanha para vereador. Portanto, esse caso demonstra claramente uma ofensa aos princípios administrativos",
+   "alternativas": [
+    "da reserva legal e da publicidade.",
+    "da moralidade e da impessoalidade.",
+    "da eficiência e da razoabilidade.",
+    "da legalidade e da eficiência."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"da moralidade e da impessoalidade.\":** o chefe usou a repartição e os servidores para **promoção pessoal** e campanha eleitoral. Isso fere a **impessoalidade**: a Administração serve ao interesse público, não à pessoa do gestor, e o art. 37, § 1º, da Constituição proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades. Fere também a **moralidade**, porque desvia a máquina pública para interesse próprio, contra a boa-fé e a ética.\n\n**As outras:**\n- *da reserva legal e da publicidade.*: reserva legal não é princípio do caput do art. 37, e o vício aqui não é falta de transparência, e sim o uso pessoal.\n- *da eficiência e da razoabilidade.*: o problema não é o rendimento do serviço nem a proporção de uma medida.\n- *da legalidade e da eficiência.*: pode até haver ilegalidade, mas o que o caso mostra com clareza é o desvio para benefício pessoal.\n\n**Para memorizar:** promoção pessoal com estrutura pública = impessoalidade + moralidade. O Estatuto de Campina Grande (Lei 2.378/92, art. 120, V) também proíbe promover manifestação de apreço ou desapreço no recinto da repartição."
+  },
+  {
+   "id": "idecan-2021-cg-guarda-municipal-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "De acordo com o Estatuto do Servidor (Lei Municipal nº 2.378/92), são deveres do servidor:\n\nI. ser leal às instituições a que servir.\n\nII. cumprir à risca todas as ordens superiores.\n\nIII. zelar pela economia do material e a conservação do patrimônio público.\n\nIV. ser resiliente com o excesso de trabalho.\n\nV. representar contra ilegalidade, omissão ou abuso de poder.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I, II e V estiverem corretas.",
+    "se apenas as afirmativas II, III e IV estiverem corretas.",
+    "se apenas as afirmativas I, III e V estiverem corretas.",
+    "se apenas as afirmativas I, II, III e V estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I, III e V estiverem corretas\":** o art. 119 da Lei Municipal 2.378/92 (Estatuto dos Servidores de Campina Grande) lista os deveres do servidor. Entre eles estão **ser leal às instituições a que servir** (inciso II, item I da questão), **zelar pela economia do material e a conservação do patrimônio público** (inciso VII, item III) e **representar contra ilegalidade, omissão ou abuso de poder** (inciso XII, item V).\n\nO item II erra: o dever é **cumprir as ordens superiores, exceto quando manifestamente ilegais** (art. 119, IV), e não \"à risca todas\". O item IV não existe na lei: ser resiliente com o excesso de trabalho não é dever estatutário.\n\n**As outras:**\n- *se apenas as afirmativas I, II e V estiverem corretas*: inclui o item II e deixa de fora o III.\n- *se apenas as afirmativas II, III e IV estiverem corretas*: inclui dois itens falsos.\n- *se apenas as afirmativas I, II, III e V estiverem corretas*: inclui o item II.\n\n**Para memorizar:** a pegadinha clássica é a ordem superior: obedece-se, salvo se manifestamente ilegal. A lista de Campina Grande segue o art. 116 da Lei 8.112/90."
+  }
+ ]
+}

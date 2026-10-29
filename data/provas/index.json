@@ -108,5 +108,16 @@
   "arquivo": "data/provas/idecan-2021-cg-fiscal-tributos.json",
   "nQuestoes": 60,
   "duracaoMin": 240
+ },
+ {
+  "id": "idecan-2021-cg-guarda-municipal",
+  "titulo": "Guarda Municipal — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Guarda Municipal",
+  "arquivo": "data/provas/idecan-2021-cg-guarda-municipal.json",
+  "nQuestoes": 60,
+  "duracaoMin": 240
  }
 ]
