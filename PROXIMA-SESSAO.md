@@ -42,7 +42,7 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - [ ] Conhecimentos Gerais (sessão B): em 28/10 às 20h30 os arquivos `data/disciplinas|questoes/{portugues,
   informatica,legislacao-etica,historia-cg}.json` ainda não existiam (404 no site).
 - [x] Publicação no GitHub Pages (28/10): https://arthursergio-hue.github.io/estudos-concurso-cg/ (URL no README).
-  `data/provas/` (provas transcritas) ficou fora do primeiro commit: o Arthur ainda decide se vai para o repositório público.
+  As provas digitadas (`data/provas/`) também estão publicadas: ver "Provas interativas" abaixo.
 - [ ] Instalação da tarefa agendada do pop-up.
 - [x] O Arthur confirmou (28/10/2026): questões reais podem entrar no site com crédito completo. Regra atualizada
   no `CLAUDE.md`.
