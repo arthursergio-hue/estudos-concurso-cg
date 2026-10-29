@@ -16,6 +16,9 @@ foreach ($kv in $consulta -split '&') {
     if ($k) { $par[$k] = [uri]::UnescapeDataString([string]$v) }
 }
 $url = [string]$par['u']; $chave = [string]$par['t']
+if ($url -match '/dev([?#]|$)') {
+    throw 'Esse link usa o endereço de teste (/dev) do Apps Script, que só abre logado. Use a URL do app da Web (termina em /exec).'
+}
 if ($url -notmatch '^https://script\.google(usercontent)?\.com/' -or $chave -notmatch '^[\w-]{16,128}$') {
     throw 'Link inválido: falta o endereço do Apps Script ou a chave.'
 }

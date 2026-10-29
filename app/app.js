@@ -1431,8 +1431,14 @@
   function ligarSync(params) {
     const u = params.get('u') || '', t = params.get('t') || '';
     history.replaceState(null, '', `${location.pathname}${location.search}#/sync-confirmar`); // tira a chave da barra de endereço
-    syncPendente = SYNC_URL.test(u) && /^[\w-]{16,128}$/.test(t) ? { url: u, chave: t } : null;
-    if (!syncPendente) { history.replaceState(null, '', `${location.pathname}${location.search}#/`); rota(); toast('Esse link de sincronização não é válido.'); return; }
+    // /dev é o endereço de teste do Apps Script: só abre com o dono logado, então não serve para o celular nem para o pop-up.
+    const dev = /\/dev(?:[?#]|$)/.test(u);
+    syncPendente = !dev && SYNC_URL.test(u) && /^[\w-]{16,128}$/.test(t) ? { url: u, chave: t } : null;
+    if (!syncPendente) {
+      history.replaceState(null, '', `${location.pathname}${location.search}#/`); rota();
+      toast(dev ? 'Esse link usa o endereço de teste (/dev) do Apps Script. Use a URL do app da Web, que termina em /exec.' : 'Esse link de sincronização não é válido.');
+      return;
+    }
     const atual = syncCfg();
     if (atual && atual.url === u && atual.chave === t) {
       syncPendente = null; history.replaceState(null, '', `${location.pathname}${location.search}#/`); rota();
