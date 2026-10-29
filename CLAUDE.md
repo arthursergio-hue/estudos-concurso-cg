@@ -20,6 +20,8 @@ Projeto **pessoal** do Arthur Sérgio: plataforma de estudos para o concurso da 
   - `data/provas.json`: provas reais para a aba Provas. **Não editar à mão:** é gerado por
     `scripts/vincular_provas_drive.py` a partir de `references/provas-catalogo.json`.
   - `data/plano.json`: cronograma e metas diárias.
+  - `data/provas/<id>.json` (+ `index.json` e `img/`): provas reais digitadas (25 em 29/10/2026), **publicadas** na
+    aba Provas como prova interativa (`#/prova/<id>`). Só entra no site e no pop-up a prova listada no `index.json`.
 - **Drive pessoal (G:, conta Google pessoal do Arthur; o endereço fica só na memória local, nunca no repositório, que é público):** pasta do concurso em
   `G:\Meu Drive\00 - Pessoal\Concurso\Campina Grande 2026 - Inspetor Sanitario Arquiteto\` (id
   `1JjwLLRbxDjuBLbYihbHbFQf1jh7X94ad`), com `Provas da IDECAN\`, `Edital\` e `Progresso do app\`. Provas novas:
@@ -44,6 +46,12 @@ Projeto **pessoal** do Arthur Sérgio: plataforma de estudos para o concurso da 
 - Testar o site local: `python -m http.server 8080` na raiz e abrir http://localhost:8080.
 
 ## Divisão entre sessões (combinada em 28/10/2026)
+
+**Coordenação (pedido do Arthur, 29/10/2026):** com várias sessões abertas nesta pasta, uma coordena (a que o Arthur
+indicar; em 29/10 foi a `estudos-0a`). As outras combinam tudo com ela por `SendMessage` e não perguntam nada ao
+Arthur no dia a dia: dúvida, divisão de arquivos e liberação de trabalho passam pela coordenadora. Continuam com o
+Arthur só as exceções do CLAUDE.md global (mensagem ou arquivo em nome dele, ação difícil de desfazer fora do PC) e
+o que o próprio Claude Code bloquear.
 
 Duas sessões trabalharam em paralelo nesta pasta. Se as duas estiverem abertas de novo, respeite os donos:
 - **Específicas e documentação:** `references/`, `CLAUDE.md`, `README.md`, `PROXIMA-SESSAO.md`,
