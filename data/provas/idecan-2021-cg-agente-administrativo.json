@@ -1,0 +1,1052 @@
+{
+ "id": "idecan-2021-cg-agente-administrativo",
+ "titulo": "Agente Administrativo — Prefeitura de Campina Grande/PB",
+ "banca": "IDECAN",
+ "ano": 2021,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Agente Administrativo",
+ "fonte": "https://www.pciconcursos.com.br/provas/download/agente-administrativo-prefeitura-campina-grande-pb-idecan-2021",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I (questões 1 a 10) — Em outros sistemas solares, estrelas semelhantes ao Sol “engolem” planetas que as orbitam",
+   "fonte": "(Luíza Feniar Migliosi. *Aventuras na História*. https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/em-outros-sistemas-solares-estrelas-semelhantes-ao-sol-engolem-planetas-que-as-orbitam.phtml. 31/8/2021)",
+   "numerarLinhas": true,
+   "conteudo": "\tDe acordo com uma pesquisa publicada na revista científica *Nature Astronomy*, nesta segunda-feira, 30, pelo menos um\nquarto das estrelas semelhantes ao Sol canibalizam os planetas que as orbitam, segundo o portal de notícias G1.\n\tA nossa Galáxia tem muitos sistemas planetários e os cientistas já haviam descoberto que muitos deles são diferentes\ndo nosso Sistema Solar. Mas, com essa recente pesquisa, é possível entender a razão: não há tantos sistemas planetários\nvizinhos semelhantes ao nosso, em que os planetas orbitam o Sol em uma ordenação bem estruturada. Na verdade, em pelo\nmenos 25% dos casos, a estrela central pode ter “consumido” alguns planetas que a orbitavam.\n\tO estudo observou a composição química de estrelas de tipo solar em mais de 100 sistemas binários, que são compostos\npor duas estrelas gêmeas com a mesma composição química.\n\tA pesquisa foi elaborada pela Universidade de São Paulo (USP) e centros da Itália, Austrália e Estados Unidos. Foi\nusado o telescópio do Observatório La Silla, administrado pelo Observatório Europeu do Sul (ESO) e localizado no Deserto do\nAtacama, Chile.\n\tAlgumas estrelas irmãs não tinham a mesma composição química, pois uma delas possuía uma quantidade maior de\nlítio e ferro, abundantes nos planetas rochosos.\n\tPara Jorge Meléndez, professor do Departamento de Astronomia da USP e um dos autores da pesquisa, as estrelas\nque apresentavam abundância destes elementos haviam dissolvido, em sua parte mais externa, os planetas do seu próprio\nsistema solar. Sendo assim, foram apelidadas de “estrelas canibais”.\n\tA publicação enfatizou que as estrelas binárias quimicamente não homogêneas são exemplos contraditórios na\nastrofísica estelar e que ainda estudam a causa das diferentes composições.\n\t“Ainda não está claro se as variações de abundância química são o resultado de não homogeneidades nas nuvens de\ngases protoestelares [da formação estrelar] ou são devidas a eventos de engolfamento de planetas (...) O primeiro cenário abala\na crença geral de que a composição química das estrelas fornece as informações fósseis do ambiente em que se formaram,\nenquanto o segundo cenário lança luz sobre os possíveis caminhos evolutivos dos sistemas planetários”, afirma o estudo."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em relação ao que informa o texto e suas possíveis inferências, analise as afirmativas a seguir:\n\nI. Em sistemas binários, em que há estrelas gêmeas, o natural e esperado é que elas tivessem a mesma composição química.\n\nII. Quando se encontra lítio na composição de uma estrela, é a prova de que ela agiu como uma “estrela canibal”.\n\nIII. Embora o estudo tenha apontado para a possibilidade de “canibalismo estelar”, há outra hipótese, em que a variação química já estaria na gênese da própria estrela.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e III estiverem corretas\":** a I está certa: o texto define os sistemas binários como \"compostos por duas estrelas gêmeas com a mesma composição química\" (linhas 7 e 8) e trata como anomalia o fato de \"algumas estrelas irmãs\" não terem a mesma composição (linha 12). A III também: o estudo apresenta dois cenários (linhas 19 a 22), e no primeiro a diferença viria de \"não homogeneidades nas nuvens de gases protoestelares\", ou seja, da própria formação da estrela. A II erra: lítio e ferro em maior quantidade são só um indício, e o próprio estudo diz que \"ainda não está claro\" qual é a causa.\n\n**As outras:**\n- *se apenas as afirmativas I e II…*: inclui a II, que transforma indício em \"prova\".\n- *se apenas as afirmativas II e III…*: deixa de fora a I, que é verdadeira, e inclui a II.\n- *se todas as afirmativas…*: a II é falsa.\n\n**Para memorizar:** em interpretação, desconfie de palavras absolutas como \"prova\", \"sempre\", \"nunca\" e \"único\": texto científico costuma falar em hipótese e indício."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Ao afirmar que as estrelas “engolem” os planetas, ocorre exemplo da figura de linguagem denominada",
+   "alternativas": [
+    "catacrese.",
+    "sinédoque.",
+    "prosopopeia.",
+    "sinestesia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"prosopopeia\":** prosopopeia, ou personificação, é atribuir a seres inanimados ações, sentimentos ou características de seres vivos. Estrelas não \"engolem\" nada: engolir é ação de quem tem boca. Ao dizer que elas \"engolem\" planetas (título) e os \"canibalizam\" (linha 2), o texto dá às estrelas um comportamento de ser vivo; as aspas mostram que o sentido é figurado.\n\n**As outras:**\n- *catacrese*: é a metáfora já gasta, usada por falta de palavra própria: \"pé da mesa\", \"braço da cadeira\", \"embarcar no ônibus\".\n- *sinédoque*: troca a parte pelo todo, o singular pelo plural ou a matéria pelo objeto: \"não tem um teto\", \"o brasileiro é criativo\".\n- *sinestesia*: mistura sensações de sentidos diferentes: \"voz macia\", \"cheiro doce\", \"cor gritante\".\n\n**Para memorizar:** coisa agindo como gente (ou como bicho) = prosopopeia."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "*De acordo com uma pesquisa publicada na revista científica* Nature Astronomy, *nesta segunda-feira, 30, pelo menos* ++*um quarto das estrelas semelhantes ao Sol canibalizam os planetas*++ *que as orbitam, segundo o portal de notícias G1.* (linhas 1 e 2)\n\nAssinale a alternativa em que, alterando-se a redação do segmento sublinhado no período acima, independentemente da mudança de sentido, **NÃO** se tenha observado a norma culta.",
+   "alternativas": [
+    "um quarto das estrelas semelhantes ao Sol canibaliza os planetas",
+    "das estrelas semelhantes ao Sol, 1,98% canibalizam os planetas",
+    "das estrelas semelhantes ao Sol, 1,85 milhão canibaliza os planetas",
+    "três quintos das estrelas semelhantes ao Sol canibalizam os planetas"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"das estrelas semelhantes ao Sol, 1,98% canibalizam os planetas\" é a resposta:** com porcentagem, o verbo pode concordar com o número ou com o termo que o especifica (\"das estrelas\"). Mas, quando esse especificador vem antes, separado por vírgula, o verbo concorda com o número. E número que começa por 1 (1,98) pede singular, assim como se diz \"1,5 milhão\". O certo seria \"1,98% canibaliza\".\n\n**As outras (estão corretas):**\n- *um quarto das estrelas semelhantes ao Sol canibaliza…*: com fração, o verbo concorda com o numerador (\"um\" pede singular); o plural, concordando com \"estrelas\", como no texto original, também é aceito.\n- *das estrelas semelhantes ao Sol, 1,85 milhão canibaliza…*: \"milhão\" fica no singular porque a parte inteira é 1, e o verbo concorda com ele.\n- *três quintos das estrelas semelhantes ao Sol canibalizam…*: numerador \"três\", verbo no plural.\n\n**Para memorizar:** número de 1 até 1,99 pede singular (1,5 milhão, 1,98%); de 2 em diante, plural."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*A nossa Galáxia tem muitos sistemas planetários e os cientistas já haviam descoberto que muitos deles são diferentes do nosso Sistema Solar.* (linhas 3 e 4)\n\nAcerca do período acima analise as afirmativas a seguir:\n\nI. Se se colocar uma vírgula após “planetários”, terá havido inadequação gramatical.\n\nII. A forma “haviam descoberto” poderia ser substituída por “tinham descoberto”, sem prejuízo semântico ou gramatical.\n\nIII. Só há um caso de advérbio no período.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** a I é falsa: a vírgula antes do \"e\" é permitida quando ele liga orações com sujeitos diferentes. \"A nossa Galáxia tem…\" e \"os cientistas já haviam descoberto…\" têm sujeitos distintos, então \"planetários, e os cientistas\" está correto (a vírgula é facultativa, não é erro). A II é verdadeira: \"haviam descoberto\" e \"tinham descoberto\" são o mesmo tempo, o pretérito mais-que-perfeito composto, e ter e haver se equivalem como auxiliares. A III também: o único advérbio é \"já\" (tempo); \"muitos\" é pronome indefinido e \"diferentes\" é adjetivo.\n\n**As outras:**\n- *se todas as afirmativas…*: a I é falsa.\n- *se apenas as afirmativas I e II…*: inclui a I e deixa de fora a III.\n- *se apenas as afirmativas I e III…*: inclui a I e deixa de fora a II.\n\n**Para memorizar:** \"e\" ligando orações de sujeitos diferentes admite vírgula; com o mesmo sujeito, em regra, dispensa. Esta resposta aparece destacada como alterada no gabarito definitivo, depois dos recursos."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que a palavra indicada tenha sido acentuada seguindo regra idêntica à de *química* (linha 8).",
+   "alternativas": [
+    "planetários (linha 4)",
+    "gêmeas (linha 8)",
+    "telescópio (linha10)",
+    "astrofísica (linha 18)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"astrofísica (linha 18)\":** *química* (quí-mi-ca) é **proparoxítona**: a sílaba tônica é a antepenúltima, e toda proparoxítona leva acento. *Astrofísica* (as-tro-fí-si-ca) segue exatamente a mesma regra.\n\n**As outras:**\n- *planetários (linha 4)*: pla-ne-tá-rios, paroxítona terminada em ditongo crescente (-rios).\n- *gêmeas (linha 8)*: gê-meas, paroxítona terminada em ditongo crescente (-eas).\n- *telescópio (linha10)*: te-les-có-pio, também paroxítona terminada em ditongo crescente.\n\n**Para memorizar:** essas três são as chamadas \"proparoxítonas aparentes\" (ou eventuais): separando o ditongo final (gê-me-as), elas viram proparoxítonas. A banca as tratou como paroxítonas terminadas em ditongo, regra diferente da de *química*. Só a proparoxítona \"de verdade\" combina com *química*."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*Ainda não está claro* ++**se**++ *as variações de abundância química* (linha 19)\n\nNo segmento acima, retirado do texto, a palavra grifada se classifica como",
+   "alternativas": [
+    "conjunção integrante.",
+    "conjunção subordinativa condicional.",
+    "pronome oblíquo.",
+    "partícula apassivadora."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"conjunção integrante\":** o \"se\" introduz a oração \"se as variações de abundância química são o resultado…\", que funciona como **sujeito** de \"não está claro\" (o que não está claro? isso). É uma oração subordinada substantiva subjetiva, e o conectivo que abre oração substantiva é a conjunção integrante (\"que\" ou \"se\"). O \"se\" integrante traz ideia de dúvida e pode ser trocado por \"isto\": \"Ainda não está claro isto\".\n\n**As outras:**\n- *conjunção subordinativa condicional*: equivale a \"caso\" (\"Se chover, não vou\"); aqui não há condição.\n- *pronome oblíquo*: o \"se\" pronome acompanha o verbo (\"Ela se feriu\") e não liga orações.\n- *partícula apassivadora*: aparece com verbo transitivo direto na voz passiva sintética (\"Vendem-se casas\"), o que não é o caso.\n\n**Para memorizar:** se o trecho iniciado por \"se\" pode virar \"isso\", o \"se\" é conjunção integrante."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "*Mas, com* ++*essa*++ *recente pesquisa, é possível entender a razão:* (linha 4)\n\nO pronome sublinhado no segmento acima se classifica corretamente como",
+   "alternativas": [
+    "demonstrativo com valor catafórico.",
+    "demonstrativo com valor anafórico.",
+    "indefinido com valor dêitico.",
+    "indefinido com valor exofórico."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"demonstrativo com valor anafórico\":** \"essa\" é pronome demonstrativo e, no texto, retoma algo já dito: \"essa recente pesquisa\" é a pesquisa publicada na *Nature Astronomy*, apresentada no primeiro parágrafo (linhas 1 e 2). Retomar um termo anterior é **anáfora**. Pela norma, \"esse/essa\" retoma o que já foi dito, e \"este/esta\" anuncia o que vem a seguir.\n\n**As outras:**\n- *demonstrativo com valor catafórico*: a catáfora antecipa o que ainda vai ser dito (\"O problema é este: …\"); aqui a pesquisa já tinha aparecido.\n- *indefinido com valor dêitico*: \"essa\" não é indefinido (indefinidos são \"algum\", \"certo\", \"muitos\"); e dêitico aponta para a situação de fala, fora do texto.\n- *indefinido com valor exofórico*: mesma falha na classe; a exófora também remete a algo fora do texto.\n\n**Para memorizar:** esse/essa/isso olham para trás (anáfora); este/esta/isto olham para a frente (catáfora)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Em *protoestelares* (linha 20), a palavra apresenta o elemento “proto”, que significa “primeiro, primário, primitivo”. Daí a explicação entre colchetes, dando a ideia de “formação” da estrela. Com base nessa informação, assinale a alternativa em que a palavra **NÃO** apresente o mesmo sentido para o elemento “proto”.",
+   "alternativas": [
+    "protótipo",
+    "protozoário",
+    "protestar",
+    "protista"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"protestar\" é a resposta:** em *protestar* não existe o elemento grego \"proto-\" (primeiro). A palavra vem do latim *protestari* (declarar publicamente), formada pelo prefixo latino \"pro-\" (diante, em favor de) e o radical de \"testemunhar\". A semelhança é só de letras.\n\n**As outras (têm \"proto-\" no sentido de primeiro):**\n- *protótipo*: \"proto\" + \"tipo\", o primeiro modelo, o original.\n- *protozoário*: \"proto\" + \"zoo\" (animal), organismo visto como um \"animal primitivo\".\n- *protista*: do grego *prótistos*, \"o primeiríssimo\", nome dado aos seres unicelulares considerados primitivos.\n\n**Para memorizar:** antes de buscar o sentido do prefixo, confira se ele é mesmo prefixo. O \"pro-\" latino (protestar, prometer, progredir) é diferente do \"proto-\" grego (protótipo, protagonista, protoestelar)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Dependendo de como se forme a palavra com o elemento “proto”, presente em *protoestelares* (linha 20), é necessário, segundo as regras de ortografia, que se empregue o hífen. No caso, não ocorreu em *protoestelares*, mas teria acontecido em outras palavras.\n\nAssinale a alternativa em que a grafia da palavra esteja seguindo corretamente as regras ortográficas.",
+   "alternativas": [
+    "proto-organismo",
+    "proto-arquiteto",
+    "protoistórico",
+    "proto-religião"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"proto-religião\" (gabarito oficial):** o gabarito definitivo da IDECAN marca esta alternativa. Ela segue a regra antiga do elemento \"proto-\", ainda repetida em alguns dicionários: hífen antes de vogal, \"h\", \"r\" e \"s\" (proto-história, proto-religião). O Acordo Ortográfico de 1990, obrigatório no Brasil desde 2016, mudou isso na Base XVI: prefixo terminado em vogal diante de palavra iniciada por \"r\" ou \"s\" se junta a ela, e a consoante dobra. O próprio Acordo dá o exemplo *antirreligioso*; pela mesma regra, hoje se escreve *protorreligião*.\n\n**As outras:**\n- *proto-organismo*: pelo Acordo, está certa: prefixo terminado na **mesma vogal** com que começa a palavra seguinte pede hífen (como micro-ondas). A banca, porém, não a deu como resposta.\n- *proto-arquiteto*: vogais diferentes (o + a) se juntam sem hífen: *protoarquiteto*, como *protoestelar*.\n- *protoistórico*: diante de \"h\" usa-se hífen e o \"h\" se mantém: *proto-histórico*.\n\n**Para memorizar:** pelo Acordo, vogal igual separa (proto-organismo); vogal diferente junta (protoestelar); \"h\" pede hífen (proto-histórico); \"r\" e \"s\" dobram (protorreligião).\n\nPonto discutível: pelas regras em vigor, a única grafia correta entre as alternativas é *proto-organismo*; o gabarito definitivo manteve *proto-religião*."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que as palavras listadas **NÃO** correspondam a um mesmo universo semântico no texto, por não apresentarem relação de pertinência de significação.",
+   "alternativas": [
+    "engolem (título) – canibalizam (linha 2) – consumido (linha 6)",
+    "binários (linha 7) – gêmeas (linha 8) – irmãs (linha 12)",
+    "estrelas (linha 7) – Solar (linha 4) – estelar (linha 20)",
+    "sistemas (linha 3) – planetas (linha 6) – estrelas (linha 21)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"sistemas (linha 3) – planetas (linha 6) – estrelas (linha 21)\" é a resposta:** a questão pede o trio que **não** forma um mesmo universo de sentido. Sistemas, planetas e estrelas são objetos diferentes no texto: o sistema é o conjunto; planetas e estrelas são corpos distintos, que não se equivalem nem retomam a mesma ideia. Falta entre eles a relação de \"pertinência de significação\" que une os outros grupos.\n\n**As outras (formam um mesmo universo):**\n- *engolem – canibalizam – consumido*: as três palavras falam da mesma ação, a estrela \"devorando\" planetas.\n- *binários – gêmeas – irmãs*: todas expressam a ideia de par de estrelas parecidas.\n- *estrelas – Solar – estelar*: todas remetem a estrela (o Sol é uma estrela, e \"estelar\" é o adjetivo de estrela).\n\n**Para memorizar:** campo semântico reúne palavras que retomam a mesma ideia no texto, mesmo sendo de classes diferentes (verbo, adjetivo, substantivo)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma loja de roupas, lançou no mercado um modelo de blusa sem estampa e com 3 opções de cores: toda branca, toda vermelha ou toda preta. O gerente de vendas fez uma enquete sobre a preferência do público alvo e obteve como resultado o seguinte:\n\n20 pessoas compraram as blusas vermelha, preta e branca\\\n50 pessoas compraram a blusa vermelha\\\n60 pessoas compraram a blusa preta\\\n70 pessoas compraram a blusa branca\\\n30 pessoas compraram as blusas preta e vermelha\\\n35 pessoas compraram as blusas vermelha e branca\\\n40 pessoas compraram as blusas branca e preta\\\n10 pessoas não compraram nenhuma blusa\n\nAssinale a alternativa que indica corretamente a quantidade de pessoas que responderam à enquete.",
+   "alternativas": [
+    "95.",
+    "105.",
+    "150.",
+    "315."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"105.\":** use o princípio da inclusão-exclusão para contar quem comprou alguma blusa: some os que compraram cada cor, tire as interseções de duas cores e devolva a interseção das três.\n\nVermelha ∪ preta ∪ branca = 50 + 60 + 70 − 30 − 35 − 40 + 20 = 180 − 105 + 20 = **95** compradores.\n\nSomando as 10 pessoas que não compraram nenhuma, responderam à enquete 95 + 10 = **105** pessoas.\n\n**As outras:**\n- *95.*: é só quem comprou alguma blusa; esquece as 10 que não compraram nada.\n- *150.*: não corresponde a nenhuma contagem correta do diagrama.\n- *315.*: é a soma de todos os números do quadro (20 + 50 + 60 + 70 + 30 + 35 + 40 + 10), que conta a mesma pessoa várias vezes.\n\n**Para memorizar:** união de três conjuntos = soma dos três − interseções de dois a dois + interseção dos três. Depois some quem ficou fora de todos os conjuntos."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considerando que a afirmativa a seguir é verdadeira, assinale a alternativa correta.\n\n*m* < *n*",
+   "alternativas": [
+    "n − m ∉ ℕ.",
+    "n − m ∈ ℤ⁻.",
+    "n − m ∈ ℤ⁺.",
+    "n − m ∉ ℚ."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O provável motivo é que o enunciado não diz a que conjunto pertencem *m* e *n*. Se forem inteiros, de *m* < *n* conclui-se que *n* − *m* é um inteiro positivo, e a resposta seria \"n − m ∈ ℤ⁺\" (a diferença também estaria em ℕ). Mas, se forem números reais quaisquer, *n* − *m* é só um real positivo, que pode ser irracional (por exemplo, *n* = √2 e *m* = 0), e aí nenhuma alternativa fica garantida. Há ainda divergência entre autores sobre se ℤ⁺ inclui o zero.\n\nSobre o assunto: de *m* < *n* sempre resulta *n* − *m* > 0. Lembre a cadeia ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ: ℕ = {0, 1, 2, …}; ℤ⁺ são os inteiros não negativos (ou positivos, conforme o autor); ℤ⁻ são os inteiros não positivos; ℚ são as frações de inteiros. Para afirmar que a diferença está em ℕ ou em ℤ⁺, é preciso saber que *m* e *n* são inteiros."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considerando que a afirmativa a seguir é verdadeira.\n\n“Se Ana é argentina, então Ana não sabe dançar samba”.\n\nPode-se concluir corretamente que:",
+   "alternativas": [
+    "Ana sabe dançar samba e Ana não é argentina.",
+    "Se Ana não é argentina, então Ana não sabe dançar samba.",
+    "Ana não é argentina ou Ana não sabe dançar samba.",
+    "Como Ana é argentina, então Ana sabe dançar samba."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ana não é argentina ou Ana não sabe dançar samba.\":** chame *p* = \"Ana é argentina\" e *q* = \"Ana sabe dançar samba\". A frase é **p → ~q**. Vale a equivalência **A → B ⇔ ~A ∨ B**: nega-se a primeira parte, mantém-se a segunda e troca-se o \"se… então\" por \"ou\". Resultado: ~p ∨ ~q, \"Ana não é argentina ou Ana não sabe dançar samba\".\n\n**As outras:**\n- *Ana sabe dançar samba e Ana não é argentina.*: é q ∧ ~p, uma conjunção; nada na premissa garante que as duas coisas aconteçam.\n- *Se Ana não é argentina, então Ana não sabe…*: é ~p → ~q, a inversa; negar o antecedente não leva a conclusão nenhuma.\n- *Como Ana é argentina, então Ana sabe dançar samba.*: contradiz a premissa (sendo argentina, ela **não** saberia dançar) e ainda afirma algo que não foi dado.\n\n**Para memorizar:** p → q equivale a ~p ∨ q e à contrapositiva ~q → ~p. Aqui, a contrapositiva seria \"Se Ana sabe dançar samba, então Ana não é argentina\"."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere como verdadeiras as seguintes proposições:\n\nI. João foi ao supermercado e Maria foi ao ginásio\n\nII. p → q\n\nAssinale a alternativa que indica corretamente os conectivos ou operadores lógicos utilizados para conectar as proposições I e II, respectivamente.",
+   "alternativas": [
+    "Conjunção e implicação.",
+    "Disjunção inclusiva e negação.",
+    "Disjunção exclusiva e bicondicional.",
+    "Disjunção inclusiva e Disjunção exclusiva."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Conjunção e implicação.\":** na proposição I, as duas orações estão ligadas por \"e\", o conectivo da **conjunção** (p ∧ q), que só é verdadeira se as duas partes forem. Em II, o símbolo → é o **condicional**, também chamado de implicação (\"se p, então q\"), que só é falso quando p é verdadeira e q é falsa.\n\n**As outras:**\n- *Disjunção inclusiva e negação.*: a disjunção inclusiva é o \"ou\" (∨); e a negação (~) não liga duas proposições, só inverte o valor de uma.\n- *Disjunção exclusiva e bicondicional.*: a exclusiva é o \"ou… ou…\" (⊻), e o bicondicional é o \"se e somente se\" (↔).\n- *Disjunção inclusiva e Disjunção exclusiva.*: nenhuma das duas aparece nas proposições.\n\n**Para memorizar:** e = ∧; ou = ∨; ou… ou = ⊻; se… então = →; se e somente se = ↔; não = ~."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q15",
+   "numero": 15,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "origens-fundacao",
+   "enunciado": "Apesar de controvertido em relação à data, o fato da fundação de Campina Grande se estabelece em determinado ano, mas a notificação ao rei de Portugal somente teria ocorrido em outro ano, diferente do anterior. Assinale a alternativa que indique corretamente esses dois anos.",
+   "alternativas": [
+    "1697 – 1698",
+    "1698 – 1699",
+    "1699 – 1701",
+    "1697 – 1699"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"1697 – 1699\":** a data tida como oficial da fundação de Campina Grande é **1º de dezembro de 1697**, quando o capitão-mor dos sertões Teodósio de Oliveira Lêdo fixou os índios Ariús no sítio da Campina Grande (é o ano que aparece no histórico do IBGE). A notícia desse aldeamento ao rei de Portugal, porém, só teria sido dada por Teodósio em **1699**. Daí a controvérsia; alguns historiadores dizem ainda que o lugar já era povoado antes da chegada dele.\n\n**As outras:**\n- *1697 – 1698*: 1698 é o ano em que começou a catequese dos índios, com o frade franciscano enviado pelo governador da capitania.\n- *1698 – 1699*: põe a fundação no ano da catequese.\n- *1699 – 1701*: põe a fundação no ano da notícia ao rei e acrescenta um ano que não é nenhum dos dois marcos.\n\n**Para memorizar:** 1697, fundação (Ariús com Teodósio); 1698, catequese; 1699, notícia ao rei; 1769, freguesia; 1790, Vila Nova da Rainha; 11/10/1864, cidade."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q16",
+   "numero": 16,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "origens-fundacao",
+   "enunciado": "Quando da chegada de Teodósio Oliveira Lêdo, a região onde viria a se estabelecer o território de Campina Grande era habitada por índios",
+   "alternativas": [
+    "Ariús.",
+    "Cariris.",
+    "Pataxós.",
+    "Tapuias."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Cariris.\":** segundo o histórico do IBGE, Campina Grande \"foi primitivamente uma aldeia de índios **Cariris**\". Em 1697, Teodósio de Oliveira Lêdo fixou ali a tribo dos **Ariús** (ou Ariás), que veio com ele. Ou seja: quando Teodósio chegou, a área já era habitada pelos Cariris; os Ariús foram trazidos e aldeados.\n\n**As outras:**\n- *Ariús.*: é a pegadinha: são os índios que Teodósio trouxe e aldeou no local, não os que já viviam ali.\n- *Pataxós.*: povo do sul da Bahia e do norte de Minas Gerais, sem relação com a formação de Campina Grande.\n- *Tapuias.*: era o nome genérico que os colonizadores davam aos povos não tupis do interior, inclusive aos Cariris; não é o nome de um povo específico, que é o que a questão pede.\n\n**Para memorizar:** os Cariris já estavam; os Ariús chegaram com Teodósio, em 1697."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q17",
+   "numero": 17,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "ferrovia-algodao",
+   "enunciado": "A Cidade de Campina Grande, ao longo de sua história, passou por um momento que foi decisivo para um grande salto de desenvolvimento. Isso se deu em função da cultura de",
+   "alternativas": [
+    "milho.",
+    "mandioca.",
+    "cana-de-açúcar.",
+    "algodão."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"algodão.\":** o grande salto de Campina Grande veio com o **algodão**, o \"ouro branco\". A chegada do ramal ferroviário da Great Western, em 1907, ligou a cidade aos portos do litoral e fez dela o grande entreposto do algodão produzido no interior do Nordeste. No auge, entre as décadas de 1920 e 1940, Campina Grande chegou a ser apontada como um dos maiores mercados de algodão do mundo, muitas vezes lembrada como o segundo, atrás só de Liverpool, na Inglaterra.\n\n**As outras:**\n- *milho.*: era lavoura de subsistência dos primeiros colonos, sem papel de motor econômico.\n- *mandioca.*: também lavoura de subsistência do aldeamento inicial (o IBGE cita \"mandioca, milho e outros cereais\").\n- *cana-de-açúcar.*: foi a base da economia do litoral, a zona da mata, e não do agreste campinense.\n\n**Para memorizar:** Campina Grande = feira de gado e de gêneros + algodão + trem (1907)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q18",
+   "numero": 18,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "João de Deus, assistente administrativo na Procuradoria-Geral do Município de Campina Grande, estava cortando papéis para rascunho quando machucou gravemente seus dedos. Por conta da demora no socorro médico, ele acabou sofrendo a amputação da mão direta. Após alguns meses de recuperação, João de Deus retornou ao trabalho, porém foi investido em outro cargo público com atribuições afins, que era compatível com a limitação física agora existente e também com o nível de escolaridade. Nesse caso, é possível afirmar que a Administração Pública efetivou uma:",
+   "alternativas": [
+    "transferência.",
+    "readaptação.",
+    "reintegração.",
+    "recondução."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"readaptação.\":** no Estatuto dos Servidores de Campina Grande (Lei Municipal 2.378/92), **readaptação** é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica (art. 24). Ela se faz em cargo de **atribuições afins**, respeitada a habilitação exigida (§ 2º), exatamente o caso de João de Deus. Se ele fosse julgado incapaz para o serviço público, seria aposentado (§ 1º).\n\n**As outras:**\n- *transferência.*: era a passagem do servidor estável para cargo de **igual denominação** em outro quadro (art. 23), sem relação com limitação física.\n- *reintegração.*: é a volta do servidor estável ao cargo quando sua demissão é anulada por decisão administrativa ou judicial (art. 28).\n- *recondução.*: é o retorno do servidor estável ao cargo anterior, por inabilitação no estágio probatório de outro cargo ou por reintegração do antigo ocupante (art. 29).\n\n**Para memorizar:** readaptação = limitação de saúde; reversão = volta do aposentado; reintegração = demissão anulada; recondução = volta ao cargo de origem. São as mesmas definições da Lei 8.112/90."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q19",
+   "numero": 19,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Acerca da posse e do exercício em cargo público, assinale a alternativa correta:",
+   "alternativas": [
+    "Só haverá posse nos casos de provimento por nomeação e promoção.",
+    "Não se admite que a posse dê por procuração.",
+    "A posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei.",
+    "A posse ocorrerá no prazo improrrogável de 30 (trinta) dias, contados da publicação do ato de nomeação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A posse dar-se-á pela assinatura do respectivo termo…\":** é a cópia do caput do art. 13 da Lei Municipal 2.378/92: a posse se dá pela assinatura do termo, no qual constam as atribuições, os deveres, as responsabilidades e os direitos do cargo, que não podem ser alterados unilateralmente por nenhuma das partes, ressalvados os atos de ofício previstos em lei.\n\n**As outras:**\n- *Só haverá posse nos casos de provimento por nomeação e promoção.*: o § 4º do art. 13 diz que só há posse no provimento por **nomeação**; a promoção não exige nova posse.\n- *Não se admite que a posse dê por procuração.*: o § 3º admite a posse mediante **procuração específica**, com firma reconhecida.\n- *A posse ocorrerá no prazo improrrogável de 30 (trinta) dias…*: o prazo é de 30 dias da publicação do ato de provimento, **prorrogável por mais 30** a requerimento do interessado (§ 1º).\n\n**Para memorizar:** posse em 30 dias (mais 30, a pedido); exercício em 30 dias contados da posse (art. 15, § 1º); posse só na nomeação; procuração específica vale."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q20",
+   "numero": 20,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto do Servidor (Lei Municipal nº 2.378/92), o servidor em débito com o erário, que for demitido, exonerado, ou que tiver a sua aposentadoria ou disponibilidade cassada, terá que quitar o débito no prazo de:",
+   "alternativas": [
+    "90 dias.",
+    "60 dias.",
+    "20 dias.",
+    "30 dias."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"60 dias.\":** o art. 49 do Estatuto de Campina Grande (Lei 2.378/92) dá ao servidor em débito com o erário que for demitido, exonerado ou tiver a aposentadoria ou a disponibilidade cassada o prazo de **60 (sessenta) dias** para quitar o débito. Se não pagar nesse prazo, o débito é inscrito em **dívida ativa** (parágrafo único). É a mesma regra do art. 47 da Lei federal 8.112/90.\n\n**As outras:**\n- *90 dias.*: prazo que não aparece no art. 49.\n- *20 dias.*: também não existe nessa regra.\n- *30 dias.*: confunde com os prazos de posse e de exercício (30 dias), que estão em outros artigos.\n\n**Para memorizar:** saiu do serviço devendo ao erário: 60 dias para pagar, senão dívida ativa. Enquanto ainda é servidor, a reposição é descontada em parcelas mensais de no máximo um décimo da remuneração (art. 48)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "A operação de microcomputadores e *notebooks* integra diversos dispositivos e periféricos na configuração. Entre eles, um funciona no armazenamento de dados, podendo ser utilizado na entrada, na gravação em um instante do processamento, como também na saída, na leitura e na recuperação dos dados armazenados.\n\nUm exemplo desse dispositivo de armazenamento é",
+   "alternativas": [
+    "plotter.",
+    "scanner.",
+    "pendrive.",
+    "mouse."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"pendrive.\":** o enunciado descreve um dispositivo de **armazenamento** que funciona nos dois sentidos: recebe dados (gravação, entrada) e devolve dados (leitura, saída). O pendrive é uma memória flash ligada à porta USB, que guarda arquivos e permite ler e gravar quantas vezes for preciso; por isso é classificado como periférico de entrada e saída.\n\n**As outras:**\n- *plotter.*: é a impressora de grande formato (plantas, mapas); só de saída, e não armazena dados.\n- *scanner.*: digitaliza papel e imagens; só de entrada.\n- *mouse.*: dispositivo apontador; também só de entrada.\n\n**Para memorizar:** armazenamento (HD, SSD, pendrive, cartão de memória) = entrada e saída; impressora, plotter e monitor comum = saída; teclado, mouse e scanner = entrada."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "Um agente administrativo da Prefeitura Municipal de Campina Grande está trabalhando em um microcomputador com *Windows 10 BR*, que se encontra com três aplicações em execução concorrente em multitarefa preemptiva. Para acessar essas aplicações, esse funcionário deve executar um atalho de teclado que tem por significado alternar o acesso às aplicações em execução e que funciona com base na exibição de uma janela de diálogo na tela do monitor de vídeo, permitindo, a partir dela, escolher a aplicação de interesse. Esse atalho de teclado é",
+   "alternativas": [
+    "Ctrl + F10.",
+    "Ctrl + Tab.",
+    "Alt + F10.",
+    "Alt + Tab."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Alt + Tab.\":** no Windows 10, segurar **Alt** e apertar **Tab** abre uma janela com as miniaturas dos programas abertos; cada toque no Tab avança para o próximo e, ao soltar o Alt, o programa escolhido vem para a frente. É o atalho para alternar entre as aplicações em execução.\n\n**As outras:**\n- *Ctrl + F10.*: não é atalho do Windows para trocar de programa; em alguns aplicativos tem outra função.\n- *Ctrl + Tab.*: alterna entre abas ou documentos dentro de um mesmo programa (abas do navegador, guias de uma caixa de diálogo), não entre aplicações.\n- *Alt + F10.*: também não é o atalho do Windows para alternar aplicações.\n\n**Para memorizar:** Alt + Tab troca de programa; Ctrl + Tab troca de aba; Windows + Tab abre a Visão de Tarefas, com todas as janelas e áreas de trabalho."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "Um funcionário da Prefeitura de Campina Grande digitou um texto no *Word 2013 BR*, com alinhamento à esquerda. Ao final do trabalho, executou três procedimentos, descritos a seguir:\n\nI. selecionou o título do texto e executou o atalho de teclado Ctrl + E;\n\nII. selecionou o restante do texto e executou o atalho de teclado Ctrl + J;\n\nIII. posicionou o cursor do mouse no início do texto e pressionou uma tecla de função, para realizar a verificação e a correção ortográfica.\n\nNessas condições, os tipos de alinhamento aplicados ao título e ao restante do texto e a tecla de função foram, respectivamente,",
+   "alternativas": [
+    "distribuído, justificado e F9.",
+    "centralizado, justificado e F7.",
+    "distribuído, equidistante e F9.",
+    "centralizado, equidistante e F7."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"centralizado, justificado e F7.\":** no Word em português, **Ctrl + E** centraliza o parágrafo, **Ctrl + J** justifica (alinha o texto às duas margens) e a tecla **F7** abre a verificação de ortografia e gramática. Então o título ficou centralizado, o restante do texto justificado, e a revisão foi feita com F7.\n\n**As outras:**\n- *distribuído, justificado e F9.*: o alinhamento distribuído (que espalha os caracteres para ocupar a linha inteira) não é o Ctrl + E; e F9 atualiza campos (como sumário e datas).\n- *distribuído, equidistante e F9.*: \"equidistante\" nem é um tipo de alinhamento do Word; erra também o título e a tecla.\n- *centralizado, equidistante e F7.*: acerta o título e a tecla, mas Ctrl + J é justificado, não \"equidistante\".\n\n**Para memorizar:** no Word em português, Ctrl + Q alinha à esquerda, Ctrl + E centraliza, Ctrl + G alinha à direita e Ctrl + J justifica."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "Um funcionário da Prefeitura de Campina Grande está elaborando uma apresentação de slides no *Powerpoint 2013 BR*, e, no momento, encontra-se com o slide 23 em modo de edição. Nesse software, existem duas possibilidades de se fazer a apresentação de slides, conforme descrito a seguir:\n\nI. A partir do slide em edição – neste caso, o slide 23 –, por meio do acionamento de um atalho de teclado.\n\nII. A partir do começo, do primeiro slide da apresentação, por meio do acionamento de uma tecla de função.\n\nO atalho de teclado em I e a tecla de função em II são, respectivamente,",
+   "alternativas": [
+    "Shift + F5 e F5.",
+    "Ctrl + F5 e F5.",
+    "Shift + F11 e F11.",
+    "Ctrl + F11 e F11."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Shift + F5 e F5.\":** no PowerPoint, **F5** inicia a apresentação **do começo**, pelo primeiro slide, e **Shift + F5** inicia **a partir do slide atual**, o que está em edição (aqui, o slide 23). Na faixa de opções, são os botões \"Do Começo\" e \"Do Slide Atual\", da guia Apresentação de Slides.\n\n**As outras:**\n- *Ctrl + F5 e F5.*: acerta o F5, mas o atalho do slide atual é com Shift, não com Ctrl.\n- *Shift + F11 e F11.*: F11 não inicia a apresentação de slides no PowerPoint.\n- *Ctrl + F11 e F11.*: mesmo erro; a tecla de função da apresentação é a F5.\n\n**Para memorizar:** F5 = do início; Shift + F5 = de onde estou; Esc encerra a apresentação."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "No uso dos recursos do editor de textos *Word 2013 BR*, os atalhos de teclado com os significados de “copiar”, “colar” e “salvar” são, respectivamente,",
+   "alternativas": [
+    "Ctrl + C, Ctrl + V e Ctrl + B.",
+    "Ctrl + C, Ctrl + V e Ctrl + S.",
+    "Alt + C, Alt + V e Ctrl + B.",
+    "Alt + C, Alt + V e Ctrl + S."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Ctrl + C, Ctrl + V e Ctrl + B.\":** no Word em português, **Ctrl + C** copia, **Ctrl + V** cola e **Ctrl + B** salva. O Ctrl + S, que salva na versão em inglês (de *Save*), no Word em português é o atalho do **sublinhado**.\n\n**As outras:**\n- *Ctrl + C, Ctrl + V e Ctrl + S.*: é a pegadinha clássica: no Word BR, Ctrl + S sublinha.\n- *Alt + C, Alt + V e Ctrl + B.*: as combinações com Alt acionam as teclas de acesso da faixa de opções; não copiam nem colam.\n- *Alt + C, Alt + V e Ctrl + S.*: erra o copiar, o colar e o salvar.\n\n**Para memorizar:** Word BR: Ctrl + N negrito, Ctrl + I itálico, Ctrl + S sublinhado, Ctrl + B salvar. Copiar e colar não mudam: Ctrl + C e Ctrl + V."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "A planilha abaixo foi criada no *Excel 2013 BR*. Na célula E5 foi inserida uma expressão que usa a função SE, que mostra a mensagem “REPOR” quando o resultado do teste da condição é verdadeiro se a quantidade existente é menor ou igual à mínima, e mostra “OK”, caso contrário. Para finalizar, a expressão inserida em E5 foi copiada para E6, E7, E8 e E9.\n\n![Planilha do Excel com as colunas # (A), DESCRIÇÃO (B), QUANTIDADE MÍNIMA (C), QUANTIDADE EXISTENTE (D) e SITUAÇÃO (E), linhas 5 a 9](data/provas/img/idecan-2021-cg-agente-administrativo/q26.webp)\n\nNessas condições, as expressões que podem e devem ser inseridas em E5 e em E8 são, respectivamente,",
+   "alternativas": [
+    "=SE(C5>D5;\"REPOR\";\"OK\") e =SE(C8>D8;\"REPOR\";\"OK\").",
+    "=SE(C5>=D5;\"OK\";\"REPOR\") e =SE(D8>C8;\"OK\";\"REPOR\").",
+    "=SE(D5<C5;\"OK\";\"REPOR\") e =SE(C8<=D8;\"OK\";\"REPOR\").",
+    "=SE(D5<=C5;\"REPOR\";\"OK\") e =SE(D8<=C8;\"REPOR\";\"OK\")."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"=SE(D5<=C5;\"REPOR\";\"OK\") e =SE(D8<=C8;\"REPOR\";\"OK\")\":** na planilha, a coluna C é a quantidade **mínima** e a D é a **existente**. A regra é: se a existente for menor ou igual à mínima, mostrar \"REPOR\"; senão, \"OK\". Em E5, isso vira =SE(D5<=C5;\"REPOR\";\"OK\"). Como as referências são relativas, ao copiar para E8 a fórmula passa a =SE(D8<=C8;\"REPOR\";\"OK\"). Conferindo: na linha 6 (7 ≤ 11) e na linha 8 (4 ≤ 4) dá REPOR, como na figura.\n\n**As outras:**\n- *=SE(C5>D5;\"REPOR\";\"OK\")…*: só manda repor se a mínima for **maior** que a existente; no empate (linha 8, 4 e 4) mostraria OK, quando deveria mostrar REPOR.\n- *=SE(C5>=D5;\"OK\";\"REPOR\")…*: inverte a lógica em E5 (na linha 5, com 10 e 13, mostraria REPOR), e a fórmula de E8 nem é a cópia da de E5.\n- *=SE(D5<C5;\"OK\";\"REPOR\")…*: também invertida (estoque abaixo do mínimo daria OK), e a de E8 não corresponde à cópia.\n\n**Para memorizar:** =SE(teste;valor_se_verdadeiro;valor_se_falso). Monte o teste na ordem em que o enunciado fala: \"existente ≤ mínima\" = D ≤ C."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "email-reunioes",
+   "enunciado": "No uso dos recursos da infraestrutura de correio eletrônico conhecida por *WebMail,* duas situações com que usuários se deparam são descritas a seguir:\n\nI. Necessidade de envio de uma mesma mensagem de e-mail a vários destinatários, de tal maneira que eles não conheçam uns aos outros. Neste caso, a lista de destinatários das cópias ocultas é definida em um campo específico, presente no cabeçalho do e-mail.\n\nII. Necessidade de ler os e-mails oriundos da internet, que, por *default*, são armazenados em uma caixa postal padrão.\n\nO campo específico em I e a caixa postal padrão em II são, respectivamente,",
+   "alternativas": [
+    "Cco e Mensagens.",
+    "Para e Mensagens.",
+    "Cco e Entrada.",
+    "Para e Entrada."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Cco e Entrada.\":** para mandar a mesma mensagem a vários destinatários sem que um veja o endereço dos outros, usa-se o campo **Cco** (com cópia oculta; em inglês, Bcc). Quem está em Cco recebe a mensagem, mas seu endereço não aparece para os demais. E as mensagens que chegam da internet ficam, por padrão, na **Caixa de Entrada**.\n\n**As outras:**\n- *Cco e Mensagens.*: acerta o campo, mas \"Mensagens\" não é a caixa postal padrão de recebimento.\n- *Para e Mensagens.*: no campo Para, todos os destinatários veem uns aos outros; e a caixa padrão é a Entrada.\n- *Para e Entrada.*: acerta a caixa, mas o campo Para expõe todos os endereços.\n\n**Para memorizar:** Para = destinatário principal; Cc = cópia visível a todos; Cco = cópia oculta. Pastas padrão: Entrada, Enviados, Rascunhos, Lixeira e Spam."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "A planilha da figura foi criada no *Excel 2019 BR*, tendo sido realizados os procedimentos abaixo:\n\nI. em E6 foi inserida a expressão =SOMA(A4;E4);\n\nII. em E8 foi inserida a expressão =MÉDIA(A4:E4);\n\nIII. em E10 foi inserida uma expressão que usa a função MENOR para determinar o menor número entre todos nas células A4, B4, C4, D4 e E4.\n\n![Planilha do Excel com os valores 17, 28, 26, 11 e 13 nas células A4 a E4 e os rótulos SOMA = (E6), MÉDIA = (E8) e MENOR DE TODOS = 11 (E10)](data/provas/img/idecan-2021-cg-agente-administrativo/q28.webp)\n\nNessas condições, os valores mostrados em E6 e em E8 e a expressão inserida em E10 são, respectivamente,",
+   "alternativas": [
+    "95, 15 e =MENOR(A4:E4;1).",
+    "30, 19 e =MENOR(A4:E4;1).",
+    "95, 19 e =MENOR(A4:E4).",
+    "30, 15 e =MENOR(A4:E4)."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito não informa o motivo. Pelas contas, a resposta esperada seria \"30, 19 e =MENOR(A4:E4;1)\". Na linha 4 estão 17, 28, 26, 11 e 13. Em =SOMA(A4;E4), o ponto e vírgula separa células avulsas, então só A4 e E4 entram: 17 + 13 = 30. Em =MÉDIA(A4:E4), os dois-pontos indicam intervalo: (17 + 28 + 26 + 11 + 13) ÷ 5 = 95 ÷ 5 = 19. E =MENOR(A4:E4;1) devolve o 1º menor valor do intervalo, 11.\n\nSobre o assunto: o 95 das outras alternativas é a soma do intervalo inteiro (A4:E4), a confusão clássica entre \";\" e \":\". A função MENOR exige dois argumentos, o intervalo e a posição k (1 = o menor, 2 = o segundo menor…); sem o k, o Excel não aceita a fórmula. Para achar só o menor de todos, também serve =MÍNIMO(A4:E4)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "Atualmente, para navegar na internet é necessário ter instalado um browser nos microcomputadores e *notebooks*. São características comuns no *Edge*, no *Firefox Mozilla* e no *Google Chrome*:\n\nI. a execução de um atalho de teclado que possibilita verificar o andamento dos *downloads*;\n\nII. a execução de um atalho de teclado que abre uma janela de diálogo que tem por significado “Imprimir”;\n\nIII. o acionamento de uma tecla de função que possibilita navegar na modalidade “Tela Cheia”.\n\nOs atalhos de teclado em I e II e a tecla de função em III são, respectivamente,",
+   "alternativas": [
+    "Ctrl + D, Ctrl + P e F11.",
+    "Ctrl + D, Ctrl + I e F12.",
+    "Ctrl + J, Ctrl + P e F11.",
+    "Ctrl + J, Ctrl + I e F12."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ctrl + J, Ctrl + P e F11.\":** nos três navegadores, no Windows, **Ctrl + J** abre a lista de downloads, **Ctrl + P** abre a janela de impressão (P de *print*) e **F11** liga e desliga a tela cheia.\n\n**As outras:**\n- *Ctrl + D, Ctrl + P e F11.*: Ctrl + D adiciona a página aos favoritos; não mostra os downloads.\n- *Ctrl + D, Ctrl + I e F12.*: erra os três: Ctrl + D é favoritar, Ctrl + I não é imprimir e F12 abre as ferramentas do desenvolvedor.\n- *Ctrl + J, Ctrl + I e F12.*: acerta os downloads, mas imprimir é Ctrl + P, e F12 não é tela cheia.\n\n**Para memorizar:** nos navegadores, Ctrl + J downloads, Ctrl + H histórico, Ctrl + D favoritar, Ctrl + T nova aba, Ctrl + Shift + T reabre a aba fechada, F5 atualiza, F11 tela cheia e F12 ferramentas do desenvolvedor."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "Na criação de apresentação de slides por meio do *Powerpoint 2013 BR*, existe a possibilidade de se utilizar uma grande quantidade de recursos, disponíveis no aplicativo. Por exemplo, ao acessar a guia inserir na Barra de Menus existente na Faixa de Opções, são mostradas diversas categorias de recursos. Uma delas é caracterizada por meio da figura abaixo:\n\n![Galeria do PowerPoint com desenhos agrupados em linhas, retângulos, setas, símbolos de equação, fluxograma, estrelas e faixas](data/provas/img/idecan-2021-cg-agente-administrativo/q30.webp)\n\nA figura acima refere-se à categoria conhecida como",
+   "alternativas": [
+    "![Alternativa A: botão Ícones](data/provas/img/idecan-2021-cg-agente-administrativo/q30-a.webp)",
+    "![Alternativa B: botão Gráfico](data/provas/img/idecan-2021-cg-agente-administrativo/q30-b.webp)",
+    "![Alternativa C: botão SmartArt](data/provas/img/idecan-2021-cg-agente-administrativo/q30-c.webp)",
+    "![Alternativa D: botão Formas](data/provas/img/idecan-2021-cg-agente-administrativo/q30-d.webp)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que o botão \"Formas\":** a figura mostra a galeria do botão **Formas**, da guia Inserir do PowerPoint. Ela vem dividida exatamente nos grupos da imagem: Formas Usadas Recentemente, Linhas, Retângulos, Formas Básicas, Setas Largas, Formas de Equação, Fluxograma e Estrelas e Faixas. São desenhos vetoriais que se inserem, redimensionam e formatam no slide.\n\n**As outras:**\n- *Ícones*: abre uma biblioteca de pictogramas prontos (pessoas, animais, tecnologia), organizada por temas, não por esses grupos.\n- *Gráfico*: insere gráficos de dados (colunas, linhas, pizza), com uma planilha associada.\n- *SmartArt*: insere diagramas prontos de lista, processo, ciclo, hierarquia e relação, já com espaço para texto.\n\n**Para memorizar:** na guia Inserir, Formas = desenhos soltos; SmartArt = diagrama pronto com texto; Gráfico = dados numéricos; Ícones = pictogramas."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Com base no *Manual de Redação da Presidência da República*, documento que norteia a redação dos atos administrativos e normativos em todo o país, analise as afirmativas a seguir:\n\nI. Os atos oficiais, entendidos como atos de caráter normativo, ou estabelecem regras para a conduta dos cidadãos, ou regulam o funcionamento dos órgãos e entidades públicos, o que só é alcançado se, em sua elaboração, for empregada a linguagem adequada. O mesmo se dá com os expedientes oficiais, cuja finalidade precípua é a de informar com clareza e objetividade.\n\nII. A redação oficial não é necessariamente árida e contrária à evolução da língua. É que sua finalidade básica – comunicar com objetividade e máxima clareza – impõe certos parâmetros ao uso que se faz da língua, de maneira diversa daquele da literatura, do texto jornalístico, da correspondência particular etc.\n\nIII. No caso da redação oficial, deve-se considerar a finalidade do documento, mas não a intenção do emissor, em nome da impessoalidade e para que o texto esteja adequado à situação comunicativa.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e II estiverem corretas\":** as duas primeiras copiam o *Manual de Redação da Presidência da República* (3ª edição, 2018). A I está no capítulo \"Panorama da comunicação oficial\", e a II, no item \"O que é redação oficial\", com as mesmas palavras. A III distorce o Manual, que diz o contrário: na redação oficial **deve-se considerar a intenção do emissor e a finalidade do documento**, para que o texto esteja adequado à situação comunicativa. Não existe o \"mas não a intenção do emissor\".\n\n**As outras:**\n- *se apenas as afirmativas I e III…*: inclui a III, que exclui a intenção do emissor.\n- *se apenas as afirmativas II e III…*: inclui a III e deixa de fora a I.\n- *se todas as afirmativas…*: a III é falsa.\n\n**Para memorizar:** a impessoalidade tira as impressões pessoais do texto, mas não apaga a intenção de quem comunica: emissor, assunto, destinatário e finalidade sempre contam."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "enunciado": "Embora os manuais de redação prevejam um emprego rígido dos pronomes de tratamento a autoridades, um decreto presidencial de 2019 altera essa regra. Com base nisso, o uso de “Vossa Excelência” fica proibido para as autoridades listadas nas alternativas a seguir, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "Vice-Presidente",
+    "Deputados Federais",
+    "Ministros de Estado",
+    "Militares das Forças Armadas"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Deputados Federais\" é a resposta:** o Decreto 9.758/2019 fixou \"senhor\" como único pronome de tratamento nas comunicações com **agentes públicos federais** e proibiu formas como \"Vossa Excelência\", \"Vossa Senhoria\", \"doutor\" e \"ilustre\". O próprio decreto inclui nesse grupo o Presidente e o Vice-Presidente da República, os Ministros de Estado e os militares das Forças Armadas. Deputados Federais são do **Poder Legislativo**: o decreto não se aplica às comunicações com outros Poderes que exijam tratamento especial por norma própria, e eles seguem sendo \"Vossa Excelência\".\n\n**As outras (o decreto vale para eles):**\n- *Vice-Presidente*: está expressamente entre os agentes públicos federais abrangidos.\n- *Ministros de Estado*: também citados no decreto.\n- *Militares das Forças Armadas*: idem.\n\n**Para memorizar:** o decreto vale para o Executivo federal. Legislativo, Judiciário, Ministério Público e os outros entes (estados e municípios) seguem suas próprias regras de tratamento."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "**NÃO** é característica desejada para a redação oficial",
+   "alternativas": [
+    "formalidade.",
+    "prolixidade.",
+    "impessoalidade.",
+    "coesão."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"prolixidade.\" é a resposta:** prolixo é o texto que usa palavras demais para dizer pouco, cheio de rodeios e redundâncias. É o oposto da **concisão**, um dos atributos da redação oficial. O *Manual de Redação da Presidência* (item 3) lista: clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; e uso da norma padrão da língua. No item sobre concisão, o próprio Manual mostra um \"período mal construído, prolixo\" como exemplo do que evitar.\n\n**As outras (são características desejadas):**\n- *formalidade.*: a comunicação oficial obedece a regras de forma e a um tratamento civilizado e padronizado.\n- *impessoalidade.*: o texto é feito em nome do serviço público, sem impressões pessoais.\n- *coesão.*: as partes do texto precisam estar bem ligadas (com coerência), para a mensagem ser entendida.\n\n**Para memorizar:** conciso = máximo de informação com o mínimo de palavras; prolixo = o contrário."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Para um texto obter clareza e precisão, é necessário que esteja presente nele o listado nas alternativas a seguir, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "objetividade",
+    "concisão",
+    "norma culta",
+    "jargão profissional"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"jargão profissional\" é a resposta:** jargão é a linguagem própria de um grupo (uma profissão, uma repartição), que quem é de fora não entende. O *Manual de Redação da Presidência* diz que o jargão burocrático, como todo jargão, **deve ser evitado**, porque terá sempre sua compreensão limitada. Isso vai contra a clareza, que exige um texto de compreensão imediata pelo leitor.\n\n**As outras (ajudam a clareza e a precisão):**\n- *objetividade*: ir direto ao ponto, sem rodeios.\n- *concisão*: dizer o máximo com o mínimo de palavras.\n- *norma culta*: o padrão culto está acima das diferenças regionais e dos modismos, e por isso é entendido por todos.\n\n**Para memorizar:** para obter clareza, o Manual sugere palavras simples no sentido comum (termo técnico só em assunto técnico), frases curtas na ordem direta, nada de regionalismos e neologismos, e sigla explicada na primeira vez em que aparece."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em relação à impessoalidade, o tratamento impessoal que deve ser dado aos assuntos que constam das comunicações oficiais decorre:\n\nI. da ausência de impressões individuais de quem comunica;\n\nII. da impessoalidade de quem recebe a comunicação; e\n\nIII. do caráter impessoal do próprio assunto tratado.\n\nAnalise os itens acima e assinale",
+   "alternativas": [
+    "se todos os itens estiverem corretos.",
+    "se apenas os itens I e II estiverem corretos.",
+    "se apenas os itens I e III estiverem corretos.",
+    "se apenas os itens II e III estiverem corretos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se todos os itens estiverem corretos\":** os três itens são as alíneas do item 3.5 (Impessoalidade) do *Manual de Redação da Presidência*. O tratamento impessoal decorre: **a)** da ausência de impressões individuais de quem comunica, porque, mesmo assinado por um chefe, o expediente é feito em nome do serviço público; **b)** da impessoalidade de quem recebe, já que o destinatário (cidadão, empresa ou órgão) é concebido de forma homogênea e impessoal; e **c)** do caráter impessoal do próprio assunto, que é sempre de interesse público.\n\n**As outras:**\n- *se apenas os itens I e II…*: deixa de fora o assunto tratado (item III).\n- *se apenas os itens I e III…*: exclui a impessoalidade do destinatário (item II).\n- *se apenas os itens II e III…*: exclui justamente o emissor (item I).\n\n**Para memorizar:** impessoalidade nos três polos da comunicação: quem fala, quem recebe e o que se fala."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Com base no que ensina o *Manual de Redação da Presidência da República* e que também significa regra geral de qualquer manual de redação em todo o país, analise as afirmativas a seguir:\n\nI. A norma culta da língua é contra a simplificação estilística e a pobreza de expressão.\n\nII. O uso do padrão culto não significa empregar a língua de modo rebuscado ou utilizar figuras de linguagem próprias do estilo literário.\n\nIII. A consulta ao dicionário e à gramática é imperativa na redação de um bom texto.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** o *Manual de Redação da Presidência* (item 3.6) traz três recomendações sobre o padrão culto: a língua culta é contra a **pobreza** de expressão, e **não** contra a sua simplicidade; o uso do padrão culto não significa empregar a língua de modo rebuscado ou utilizar figuras de linguagem próprias do estilo literário; e a consulta ao dicionário e à gramática é imperativa na redação de um bom texto. A II e a III copiam as duas últimas. A I distorce a primeira: a norma culta não é contra a simplicidade, só contra a pobreza.\n\n**As outras:**\n- *se apenas as afirmativas I e II…*: inclui a I, que inverte o Manual.\n- *se apenas as afirmativas I e III…*: mesmo erro, e deixa a II de fora.\n- *se todas as afirmativas…*: a I é falsa.\n\n**Para memorizar:** simples pode; pobre não pode; rebuscado também não."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "Contemporaneamente, tomemos como exemplo fictício o nome de Maria do Carmo Pereira, que trabalha no Poder Judiciário. Aplicando as mesmas regras do Executivo ao Judiciário, ela, ao assinar um documento e ao se identificar, deve fazê-lo com",
+   "alternativas": [
+    "Oficial de Justiça.",
+    "Oficialato de Justiça.",
+    "Oficialidade de Justiça.",
+    "Oficiala de Justiça."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Oficiala de Justiça.\":** o *Manual de Redação da Presidência* (item 4.2.2, \"Signatárias do sexo feminino\") manda flexionar no feminino o cargo ocupado por mulher na identificação do signatário, com exemplos como \"Ministra de Estado\", \"Secretária-Executiva interina\" e \"Técnica Administrativa\". Aplicando a mesma regra ao Judiciário, Maria do Carmo deve se identificar como **Oficiala de Justiça**, a forma feminina dicionarizada de \"oficial\".\n\n**As outras:**\n- *Oficial de Justiça.*: é a forma masculina (ou comum), que o Manual manda flexionar quando quem ocupa o cargo é mulher.\n- *Oficialato de Justiça.*: \"oficialato\" designa a condição ou o posto de oficial, não a pessoa que ocupa o cargo.\n- *Oficialidade de Justiça.*: \"oficialidade\" é o conjunto dos oficiais (de uma tropa, por exemplo).\n\n**Para memorizar:** cargo ocupado por mulher, nome no feminino: a Ministra, a Secretária, a Juíza, a Oficiala."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "enunciado": "Quanto ao uso de pronomes de tratamento no âmbito da comunicação oficial, ao mencionar uma autoridade portuguesa, como o Vice-Presidente, por exemplo, deve-se empregar",
+   "alternativas": [
+    "Sua Excelência.",
+    "Vossa Excelência.",
+    "Vossa Magnificência.",
+    "Sua Magnificência."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Sua Excelência.\":** o verbo da questão é **mencionar**, isto é, falar **sobre** a autoridade, e não falar **com** ela. O *Manual de Redação da Presidência* (item 4.1.1) explica que \"Vossa Excelência\" é usado para se comunicar diretamente com o destinatário, enquanto **\"Sua Excelência\"** serve para fazer referência a uma autoridade indiretamente, como no endereçamento (\"A Sua Excelência o Senhor…\"). O Vice-Presidente tem tratamento de Excelência; ao ser mencionado, é \"Sua Excelência\".\n\n**As outras:**\n- *Vossa Excelência.*: serve para dirigir-se diretamente ao Vice-Presidente, não para mencioná-lo.\n- *Vossa Magnificência.*: é o tratamento dos reitores de universidade, e na forma de quem fala com eles.\n- *Sua Magnificência.*: é a forma de mencionar um reitor; não serve para Vice-Presidente.\n\n**Para memorizar:** \"Vossa\" = falo com a autoridade; \"Sua\" = falo dela. As duas formas levam o verbo para a 3ª pessoa: \"Vossa Excelência **está**\"."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A formação do processo, que é serviço de protocolo administrativo, é chamada de",
+   "alternativas": [
+    "apensamento.",
+    "autuação.",
+    "regimentação.",
+    "anexação."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"autuação.\":** pela Portaria Normativa SLTI/MP nº 5/2002, que padronizou os serviços de protocolo na administração federal, **autuação ou formação de processo** é o termo que caracteriza a abertura do processo. Na rotina, o protocolo prende a capa com os documentos em ordem cronológica, põe o número de protocolo na capa e na primeira folha, numera as folhas e registra o processo no sistema.\n\n**As outras:**\n- *apensamento.*: é a juntada **provisória** de um processo a outro, para estudo conjunto (apensação).\n- *regimentação.*: não é termo técnico de protocolo.\n- *anexação.*: é a juntada **definitiva** de um processo a outro, do mesmo interessado e com o mesmo assunto.\n\n**Para memorizar:** autuar = formar o processo; apensar = juntar por um tempo; anexar = juntar para sempre; desentranhar = tirar uma peça."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A capa de um processo tem um formato, que é o mesmo que devem apresentar as folhas dos documentos nela colocadas. Tal procedimento, além de procedimento protocolar, também é previsto no formato ofício do *Manual de Redação da Presidência da República*. A capa e as folhas de um processo devem estar em formato",
+   "alternativas": [
+    "ofício.",
+    "carta.",
+    "A4.",
+    "tabloide."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A4.\":** o *Manual de Redação da Presidência* (item 5.2, \"Formatação e apresentação\") determina que os documentos do padrão ofício usem papel **A4 (29,7 cm × 21 cm)**. A mesma padronização vale para a capa e as folhas do processo, para que tudo tenha o mesmo tamanho.\n\n**As outras:**\n- *ofício.*: \"padrão ofício\" é o nome do modelo de documento do Manual, não um tamanho de papel; o antigo papel ofício, maior que o A4, não é o adotado.\n- *carta.*: o papel carta é o padrão norte-americano (*letter*), diferente do A4.\n- *tabloide.*: formato grande, típico de jornais e impressos, sem uso em processos.\n\n**Para memorizar:** padrão ofício = papel A4, margem esquerda de no mínimo 3 cm, direita de 1,5 cm, superior e inferior de 2 cm."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca das boas práticas em rotinas administrativas em relação a processos, analise as afirmativas a seguir:\n\nI. As folhas dos processos poderão ser numeradas em ordem crescente ou decrescente, sem rasuras, a depender do que for melhor para o órgão específico.\n\nII. O verso da folha não será numerado e sua identificação, quando for necessária, terá como referência a letra \"v\", da palavra verso. Exemplo: folha 5v.\n\nIII. Para documentos com verso em branco, deverá ser aposto o carimbo “EM BRANCO” no verso, exceto na última folha, que deve ser utilizada para despachos.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** a I erra: pelas normas federais de protocolo (Portaria Normativa SLTI/MP nº 5/2002, item 5.2), as folhas são numeradas **só em ordem crescente**, sem rasuras, com carimbo no canto superior direito, e a primeira folha recebe o número 1. Não há escolha \"a depender do órgão\". A II está na redação que esse item ganhou em 2009: o verso não recebe número e, quando for preciso citá-lo, usa-se a letra \"v\" (folha 5v). A III segue a mesma lógica: o verso que ficou em branco é inutilizado com o carimbo \"EM BRANCO\", para ninguém escrever ali depois, mas a última folha fica livre, porque é nela que entram os próximos despachos.\n\n**As outras:**\n- *se apenas as afirmativas I e II…*: inclui a I, que admite ordem decrescente.\n- *se apenas as afirmativas I e III…*: mesmo erro, e deixa a II de fora.\n- *se todas as afirmativas…*: a I é falsa.\n\n**Para memorizar:** numeração de processo: crescente, sem rasura, no canto superior direito; a capa não tem número; o verso também não (vira \"5v\")."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Para alcançar boas rotinas administrativas, o serviço de protocolo deve atentar-se para as regras que otimizam e dão organicidade ao serviço público prestado aos cidadãos. Nesse cenário, analise as afirmativas a seguir:\n\nI. A capa do processo não será numerada.\n\nII. A numeração das peças do processo é iniciada no Serviço de Protocolo Administrativo, conforme faixa numérica de autuação. As peças subsequentes serão numeradas pelas unidades que as adicionarem.\n\nIII. Nenhum processo poderá ter duas peças com a mesma numeração, não sendo admitido diferenciar pelas letras \"A\" e \"B\", nem rasurar.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas\":** as três frases estão no item 5.2 da Portaria Normativa SLTI/MP nº 5/2002, que padronizou o protocolo na administração federal. Ali se lê que **a capa do processo não será numerada** (I); que a numeração das peças começa no protocolo, **conforme faixa numérica de autuação**, e que as peças seguintes são numeradas **pelas unidades que as adicionarem** (II); e que **nenhum processo poderá ter duas peças com a mesma numeração**, sem diferenciar com as letras \"A\" e \"B\" e sem rasurar (III).\n\n**As outras:**\n- *se apenas as afirmativas I e II…*: deixa de fora a III, que é verdadeira.\n- *se apenas as afirmativas I e III…*: exclui a II.\n- *se apenas as afirmativas II e III…*: exclui a I.\n\n**Para memorizar:** capa sem número; quem junta a peça, numera; número repetido, com letra ou com rasura, nunca. Se a numeração sair errada, inutiliza-se o carimbo com um \"X\" e renumeram-se as folhas seguintes."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Com base nos termos técnicos para uso em arquivo, a retirada de peças de um processo, que poderá ocorrer quando houver interesse do órgão ou a pedido do interessado, chama-se",
+   "alternativas": [
+    "desapensação.",
+    "desentranhamento.",
+    "desmembramento.",
+    "desarquivamento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"desentranhamento.\":** a Portaria Normativa SLTI/MP nº 5/2002 define **desentranhamento de peças** como a retirada de peças de um processo, que poderá ocorrer quando houver interesse da Administração ou a pedido do interessado. É praticamente o texto do enunciado. A retirada fica registrada num termo de desentranhamento.\n\n**As outras:**\n- *desapensação.*: é a separação física de processos que estavam apensados (juntados provisoriamente).\n- *desmembramento.*: é a separação de parte da documentação de um ou mais processos para formar um **novo** processo.\n- *desarquivamento.*: é a retirada do processo do arquivo para que ele volte a tramitar.\n\n**Para memorizar:** desentranhar = tirar peça; desmembrar = tirar peças para formar outro processo; desapensar = separar processos que estavam juntos."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Colocar um protocolo “em espera” enquanto aguarda criação ou “chegada” de um novo processo ou uma nova tomada de decisão que justifique a retomada do assunto tratado. Trata-se de",
+   "alternativas": [
+    "sobrestamento.",
+    "prorrogação.",
+    "postergação.",
+    "adiamento."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"sobrestamento.\":** sobrestar é **suspender temporariamente** o andamento de um processo, que fica parado aguardando um fato externo: outra decisão, outro processo ou uma providência que permita retomar o assunto. É o \"em espera\" do enunciado. Quando o motivo deixa de existir, o processo volta a tramitar normalmente.\n\n**As outras:**\n- *prorrogação.*: é a ampliação de um prazo, não a suspensão do processo.\n- *postergação.*: palavra comum para \"deixar para depois\", sem sentido técnico no protocolo.\n- *adiamento.*: também é termo genérico, não o nome do procedimento.\n\n**Para memorizar:** sobrestado = parado à espera de algo; diligência = devolvido ao órgão para corrigir uma falha; arquivado = encerrado e guardado."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em âmbito da Arquivologia, quando se fala em “suporte”, entende-se que a referência que se faz é",
+   "alternativas": [
+    "ao material em que foi gravado ou registrado o conteúdo do documento.",
+    "à tecnologia necessária para acessar e identificar o conteúdo de um documento.",
+    "aos elementos estruturais, físicos, em que se armazenam os documentos em papel.",
+    "ao apoio de profissional que auxilie o cidadão a encontrar um documento em um arquivo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"ao material em que foi gravado ou registrado o conteúdo do documento.\":** em arquivologia, **suporte** é o material no qual as informações são registradas: papel, filme, fita magnética, disco óptico, HD. É a definição do *Dicionário Brasileiro de Terminologia Arquivística*, do Arquivo Nacional. Documento é a soma de informação e suporte.\n\n**As outras:**\n- *à tecnologia necessária para acessar…*: o equipamento de leitura (computador, projetor) é o meio de acesso, não o suporte.\n- *aos elementos estruturais, físicos, em que se armazenam…*: estantes, arquivos de aço e caixas são **mobiliário e acondicionamento**, não suporte.\n- *ao apoio de profissional que auxilie…*: confunde \"suporte\" com ajuda ou atendimento.\n\n**Para memorizar:** suporte = onde está registrado; forma = estágio do documento (rascunho, minuta, original, cópia); formato = configuração física (livro, mapa, planta, ficha)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A busca de um documento é mais fácil quando se adota o procedimento de arquivamento",
+   "alternativas": [
+    "horizontal.",
+    "vertical.",
+    "encapsulado.",
+    "desmembrado."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"vertical.\":** no arquivamento **vertical**, os documentos ou pastas ficam em pé, um atrás do outro (como nas gavetas de pastas suspensas). Assim, qualquer documento pode ser consultado sem retirar ou mexer nos demais, o que torna a busca mais rápida. É a forma mais usada nos arquivos correntes.\n\n**As outras:**\n- *horizontal.*: os documentos ficam deitados, empilhados; para pegar um do meio, é preciso tirar os de cima. É indicado para plantas, mapas e desenhos de grande formato.\n- *encapsulado.*: encapsulação é técnica de conservação (o documento é protegido entre lâminas de poliéster), não forma de arquivamento.\n- *desmembrado.*: desmembramento é separar parte de um processo para formar outro.\n\n**Para memorizar:** vertical = em pé, fácil de achar; horizontal = deitado, bom para grandes formatos."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quando um cidadão, numa repartição pública, retira um documento, o funcionário público deve empregar um método para assinalar de uma forma muito clara onde está aquele documento, até que ele retorne e possa ser facilmente rearquivado. Trata-se de colocar um formulário no local onde normalmente fica o documento. Essa prática pode ser feita em conjunto com um registro informatizado. Esse método se chama inserção de",
+   "alternativas": [
+    "protocolo de saída.",
+    "primeira via de desarmazenamento.",
+    "guia-fora.",
+    "ficha de empréstimo."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"guia-fora.\":** a **guia-fora** é um formulário (ou cartão resistente) colocado no lugar exato do documento ou da pasta retirada, com o que foi levado, por quem e em que data. Ela marca o local para o rearquivamento e mostra onde o documento está enquanto isso. O controle pode ser também registrado em sistema, como diz o enunciado.\n\n**As outras:**\n- *protocolo de saída.*: termo genérico para o registro de expedição de correspondência, não o marcador posto no lugar do documento.\n- *primeira via de desarmazenamento.*: expressão sem uso técnico em arquivologia.\n- *ficha de empréstimo.*: o controle de empréstimo pode existir, mas fica num fichário ou sistema; o formulário que vai **no lugar** do documento é a guia-fora.\n\n**Para memorizar:** guia-fora = \"estou fora, volto já\", no lugar do documento."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Seguindo o método alfabético, segundo as normas da ABNT, analise os seguintes nomes num processo de arquivamento.\n\n1. Júlio de São Carlos.\n2. Mário dos Santos.\n3. José Carlos Almeida Sobrinho.\n4. Felipe dos Santos.\n\nA ordem correta de arquivamento seguindo o método alfabético é",
+   "alternativas": [
+    "4 – 3 – 1 – 2.",
+    "1 – 2 – 4 – 3.",
+    "3 – 1 – 4 – 2.",
+    "3 – 4 – 2 – 1."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"3 – 4 – 2 – 1.\":** nas regras de alfabetação usadas em arquivos, o nome de pessoa é ordenado pelo **último sobrenome** e depois pelo prenome; partículas como \"de\" e \"dos\" não contam; grau de parentesco (Filho, Neto, **Sobrinho**) acompanha o sobrenome, mas não entra na ordenação; e sobrenomes com Santo, Santa ou **São** formam um bloco só. Fica assim:\n\nALMEIDA Sobrinho, José Carlos (3)\\\nSANTOS, Felipe dos (4)\\\nSANTOS, Mário dos (2)\\\nSÃO CARLOS, Júlio de (1)\n\n\"Santos\" vem antes de \"São Carlos\" porque, na terceira letra, N vem antes de O. Entre os dois Santos, desempata o prenome: Felipe antes de Mário.\n\n**As outras:**\n- *4 – 3 – 1 – 2.*: põe Santos antes de Almeida.\n- *1 – 2 – 4 – 3.*: não segue nem os sobrenomes nem os prenomes.\n- *3 – 1 – 4 – 2.*: põe \"São Carlos\" antes de \"Santos\".\n\n**Para memorizar:** sobrenome primeiro; \"de\", \"da\" e \"dos\" não contam; Filho, Neto e Sobrinho vão junto com o sobrenome; São, Santo e Santa colam no sobrenome (São Carlos, Santa Rita)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O ciclo de vida dos documentos, conforme os estudos de Arquivologia, classifica os arquivos em",
+   "alternativas": [
+    "temporários, definitivos e mortos.",
+    "atuais, transitórios e perenes.",
+    "ativos, inativos e memoriais.",
+    "correntes, intermediários e permanentes."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"correntes, intermediários e permanentes.\":** é a **teoria das três idades**, adotada pela Lei 8.159/1991 (Lei de Arquivos), cujo art. 8º identifica os documentos públicos como correntes, intermediários e permanentes. **Correntes**: em uso, consultados com frequência, ficam perto de quem os produziu. **Intermediários**: pouco consultados, aguardam o fim do prazo de guarda para eliminação ou recolhimento. **Permanentes**: de valor histórico, probatório e informativo, guardados para sempre.\n\n**As outras:**\n- *temporários, definitivos e mortos.*: \"arquivo morto\" é expressão popular, não classificação técnica.\n- *atuais, transitórios e perenes.*: lembram a ideia, mas não são os termos da arquivologia.\n- *ativos, inativos e memoriais.*: também não é a nomenclatura técnica.\n\n**Para memorizar:** 1ª idade = corrente; 2ª = intermediária; 3ª = permanente. Quem diz quando o documento muda de idade é a tabela de temporalidade."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em relação aos registros de documentos, analise as afirmativas a seguir:\n\nI. Os documentos que possuem caráter sigiloso e pessoal não serão registrados.\n\nII. Apenas os documentos ostensivos serão registrados.\n\nIII. Alguns documentos, por caráter de confidencialidade, serão arquivados sem registro.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e II estiverem corretas\":** na rotina clássica de protocolo descrita nos manuais de arquivologia, a correspondência recebida é separada em oficial e particular, e a oficial em ostensiva e sigilosa. A particular (pessoal) e a sigilosa seguem **fechadas, direto ao destinatário**, sem abertura nem registro pelo protocolo; só a ostensiva é aberta, lida e registrada. Por isso a banca considerou certas a I e a II. A III erra: o documento confidencial não é \"arquivado sem registro\" pelo protocolo; ele é encaminhado lacrado a quem tem competência para tratá-lo.\n\n**As outras:**\n- *se apenas as afirmativas I e III…*: inclui a III.\n- *se apenas as afirmativas II e III…*: inclui a III e deixa a I de fora.\n- *se todas as afirmativas…*: a III é falsa.\n\n**Para memorizar:** ostensivo = acesso livre, o protocolo abre e registra; sigiloso ou particular = segue fechado ao destinatário.\n\nPonto discutível: a Portaria Normativa SLTI/MP nº 5/2002 manda autuar documentos classificados como secretos, confidenciais ou reservados \"da mesma forma que os demais\", por servidor com competência para tal, o que inclui o registro."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Uma das rotinas de um agente administrativo na Administração Pública é cuidar de processos administrativos legais. A esse respeito, analise as afirmativas a seguir:\n\nI. São regulados pela Lei 9.784/99.\n\nII. São uma garantia de que a Administração agirá conforme a lei.\n\nIII. A ausência de abertura de processo administrativo é possibilidade discricionária.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e II estiverem corretas\":** a I está certa: a **Lei 9.784/1999** regula o processo administrativo na Administração Pública federal, e o STJ (Súmula 633) admite aplicá-la de forma subsidiária a estados e municípios que não tenham norma própria sobre o tema. A II também: o processo administrativo existe para proteger os direitos dos administrados e assegurar o cumprimento dos fins da Administração (art. 1º), com contraditório e ampla defesa (art. 5º, LV, da Constituição). A III erra: quando a lei exige processo, por exemplo para aplicar uma sanção, abri-lo é **obrigatório**; a Administração não pode dispensá-lo por conveniência.\n\n**As outras:**\n- *se todas as afirmativas…*: inclui a III.\n- *se apenas as afirmativas I e III…*: inclui a III e exclui a II.\n- *se apenas as afirmativas II e III…*: inclui a III e exclui a I.\n\n**Para memorizar:** processo administrativo = garantia do cidadão e limite para a Administração. Ele pode começar de ofício ou a pedido do interessado (art. 5º da Lei 9.784)."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Um dos deveres de um agente administrativo é garantir que o cidadão tenha seus direitos preservados na relação com o Estado. Nas alternativas a seguir, estão listados direitos do administrado perante a Administração, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações",
+    "ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas",
+    "formular alegações e apresentar documentos após a decisão, os quais serão objeto de consideração pelo órgão competente",
+    "fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"formular alegações e apresentar documentos após a decisão…\" é a resposta:** o art. 3º da Lei 9.784/1999 lista os direitos do administrado perante a Administração. O inciso III garante **formular alegações e apresentar documentos antes da decisão**, os quais serão objeto de consideração pelo órgão competente. A alternativa troca \"antes\" por \"após\": depois da decisão, o caminho é o recurso, e não a alegação que deveria influenciar o julgamento.\n\n**As outras (são direitos do art. 3º):**\n- *ser tratado com respeito pelas autoridades e servidores…*: inciso I.\n- *ter ciência da tramitação dos processos administrativos…*: inciso II.\n- *fazer-se assistir, facultativamente, por advogado…*: inciso IV.\n\n**Para memorizar:** respeito, ciência dos autos, alegar **antes** de decidir e advogado facultativo: os quatro direitos do art. 3º."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "principios-limpe",
+   "enunciado": "Uma vez que ao cidadão deve ser garantida a isonomia com os demais cidadãos, além de estabelecer a efetividade da democracia, toda relação legal de um processo administrativo segue princípios. Nesse contexto, alguns princípios do processo administrativo estão listados nas alternativas a seguir, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "contraditório e ampla defesa",
+    "motivação",
+    "legalidade",
+    "onerosidade"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"onerosidade\" é a resposta:** o art. 2º da Lei 9.784/1999 manda a Administração obedecer, entre outros, aos princípios da **legalidade**, finalidade, **motivação**, razoabilidade, proporcionalidade, moralidade, **ampla defesa, contraditório**, segurança jurídica, interesse público e eficiência. Onerosidade não está na lista e contraria a regra do processo: o parágrafo único, XI, proíbe a cobrança de despesas processuais, ressalvadas as previstas em lei. Vale a **gratuidade**.\n\n**As outras (são princípios do processo administrativo):**\n- *contraditório e ampla defesa*: estão no art. 2º da lei e no art. 5º, LV, da Constituição.\n- *motivação*: a decisão tem de indicar os fatos e os fundamentos jurídicos (art. 50).\n- *legalidade*: a Administração atua conforme a lei e o Direito (art. 2º, parágrafo único, I).\n\n**Para memorizar:** no processo administrativo, a regra é a gratuidade; cobrar é exceção, e só quando a lei prevê."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "principios-limpe",
+   "enunciado": "A existência de procedimentos processuais administrativos aponta para o seguinte princípio da Administração:",
+   "alternativas": [
+    "legalidade.",
+    "eficiência.",
+    "publicidade.",
+    "impessoalidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"legalidade.\":** a existência de procedimentos formais é a aplicação direta do princípio da **legalidade** (art. 37 da Constituição): a Administração só pode agir como e quando a lei permite. O processo administrativo é o caminho que a lei traça para cada decisão; ele garante o devido processo legal (ninguém será privado da liberdade ou de seus bens sem ele, art. 5º, LIV) e permite controlar se o agente seguiu a lei.\n\n**As outras:**\n- *eficiência.*: busca o melhor resultado com menos recursos; o procedimento não nasce dela.\n- *publicidade.*: exige a divulgação dos atos; o processo a favorece, mas não é o seu fundamento.\n- *impessoalidade.*: proíbe favorecimentos e promoção pessoal; também é protegida pelo processo, mas a base do procedimento é a lei.\n\n**Para memorizar:** o particular pode fazer tudo o que a lei não proíbe; a Administração só pode fazer o que a lei manda ou autoriza. Procedimento é a legalidade em ação."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quando se trata de processos administrativos no âmbito do fluxo de procedimentos a serem realizados para o alcance da eficácia e da eficiência, é correto afirmar que, na ordem, devem seguir as etapas de",
+   "alternativas": [
+    "inventário, registro, distribuição, entrega.",
+    "planejamento, direção, organização e avaliação.",
+    "planejamento, organização, direção e controle.",
+    "inventário, distribuição, entrega e avaliação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"planejamento, organização, direção e controle.\":** são as quatro **funções administrativas** do processo administrativo, o ciclo **PODC**, consagrado pela teoria neoclássica a partir das ideias de Fayol. Primeiro se **planeja** (definir objetivos e meios), depois se **organiza** (dividir tarefas e recursos), em seguida se **dirige** (liderar e coordenar as pessoas) e por fim se **controla** (comparar o resultado com o planejado e corrigir). O controle realimenta o planejamento e fecha o ciclo.\n\n**As outras:**\n- *inventário, registro, distribuição, entrega.*: lembram etapas de almoxarifado ou de protocolo, não as funções administrativas.\n- *planejamento, direção, organização e avaliação.*: inverte organização e direção e troca controle por avaliação.\n- *inventário, distribuição, entrega e avaliação.*: também não é o ciclo das funções administrativas.\n\n**Para memorizar:** P-O-D-C, nessa ordem. Fayol falava em prever, organizar, comandar, coordenar e controlar."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na construção de um fluxograma, o símbolo abaixo indica",
+   "imagem": "data/provas/img/idecan-2021-cg-agente-administrativo/q56.webp",
+   "alternativas": [
+    "processo.",
+    "decisão.",
+    "operação manual.",
+    "documento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"decisão.\":** no fluxograma, o **losango** representa uma **decisão**: um ponto em que se faz uma pergunta (sim ou não, verdadeiro ou falso) e o fluxo se divide em dois ou mais caminhos conforme a resposta. Por isso dele saem várias setas.\n\n**As outras:**\n- *processo.*: é o **retângulo**, que indica uma atividade ou operação.\n- *operação manual.*: é o **trapézio** com a base maior em cima, para tarefa feita à mão.\n- *documento.*: é o retângulo com a **base ondulada**.\n\n**Para memorizar:** oval (terminador) = início e fim; retângulo = ação; losango = pergunta; paralelogramo = entrada ou saída de dados; seta = sentido do fluxo."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Num fluxograma, o símbolo ![Símbolo de fluxograma em forma de D: lado esquerdo reto e lado direito arredondado](data/provas/img/idecan-2021-cg-agente-administrativo/q57.webp) indica",
+   "alternativas": [
+    "documento.",
+    "processo alternativo.",
+    "espera ou atraso.",
+    "preparação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"espera ou atraso.\":** o símbolo em forma de \"D\", com o lado esquerdo reto e o direito arredondado, é o de **atraso** ou espera (*delay*): indica que o fluxo fica parado por um tempo antes de seguir, como ao aguardar uma assinatura ou o fim de um prazo.\n\n**As outras:**\n- *documento.*: é o retângulo com a base ondulada.\n- *processo alternativo.*: é o retângulo com os cantos arredondados.\n- *preparação.*: é o **hexágono** alongado, para uma etapa de ajuste ou configuração antes do processo.\n\n**Para memorizar:** \"D\" de demora: atraso."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O símbolo ![Símbolo de fluxograma em forma de paralelogramo](data/provas/img/idecan-2021-cg-agente-administrativo/q58.webp) num fluxograma representa",
+   "alternativas": [
+    "o exterminador.",
+    "um processo alternativo.",
+    "uma sub-rotina.",
+    "entrada ou saída de dados."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"entrada ou saída de dados.\":** o **paralelogramo** é o símbolo de **dados**: indica a entrada de informações no processo (digitar, receber um formulário) ou a saída delas (exibir, emitir um resultado).\n\n**As outras:**\n- *o exterminador.*: o nome certo é **terminador**, e o símbolo é o oval (ou retângulo de pontas arredondadas) que marca o início e o fim do fluxo.\n- *um processo alternativo.*: é o retângulo de cantos arredondados.\n- *uma sub-rotina.*: é o processo predefinido, um retângulo com duas linhas verticais nas laterais.\n\n**Para memorizar:** paralelogramo inclinado = dado entrando ou saindo."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quando vários subprocessos se mesclam em um único processo, representa-se esse ato no fluxograma por meio da seguinte forma:",
+   "alternativas": [
+    "![Alternativa A: círculo dividido por uma cruz](data/provas/img/idecan-2021-cg-agente-administrativo/q59-a.webp)",
+    "![Alternativa B: círculo com um X](data/provas/img/idecan-2021-cg-agente-administrativo/q59-b.webp)",
+    "![Alternativa C: várias folhas sobrepostas com a base ondulada](data/provas/img/idecan-2021-cg-agente-administrativo/q59-c.webp)",
+    "![Alternativa D: forma com as laterais curvas, como um cilindro deitado](data/provas/img/idecan-2021-cg-agente-administrativo/q59-d.webp)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que o círculo com um X:** o círculo cortado por um X é a **junção de soma** (*summing junction*): o ponto em que vários fluxos ou subprocessos convergem e se juntam num só, seguindo adiante como um único processo. É o que o enunciado descreve.\n\n**As outras:**\n- *círculo dividido por uma cruz*: é o símbolo **\"Ou\"**: indica que o fluxo segue por um caminho **ou** por outro, não que os caminhos se juntam.\n- *várias folhas sobrepostas com a base ondulada*: é o símbolo de **vários documentos** (multidocumento).\n- *forma com as laterais curvas*: é o símbolo de **dados armazenados**, informação guardada num meio de armazenamento.\n\n**Para memorizar:** círculo com X = junta (soma); círculo com cruz = um ou outro. No Office, os dois ficam no grupo Fluxograma da galeria Formas, com os nomes \"Junção de Soma\" e \"Ou\"."
+  },
+  {
+   "id": "idecan-2021-cg-agente-administrativo-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em relação aos processos administrativos, com base nas teorias organizacionais, aquelas que enfatizam aspectos técnicos, como tarefas, rotinas e estruturas, são chamadas de",
+   "alternativas": [
+    "mecanicistas.",
+    "comportamentais.",
+    "sob enfoque sistêmico.",
+    "funcionais."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"mecanicistas.\":** as teorias **mecanicistas** veem a organização como uma máquina e se concentram nos aspectos técnicos: a **tarefa** (Administração Científica de Taylor), a **estrutura** (Teoria Clássica de Fayol e Burocracia de Weber), as rotinas, as normas e a divisão do trabalho. A eficiência viria de padronizar e especializar.\n\n**As outras:**\n- *comportamentais.*: enfatizam as **pessoas**: motivação, liderança e grupos (Relações Humanas e Teoria Comportamental).\n- *sob enfoque sistêmico.*: tratam a organização como sistema aberto, em troca constante com o ambiente.\n- *funcionais.*: não é o nome de uma corrente das teorias organizacionais nesse sentido.\n\n**Para memorizar:** mecanicista = máquina (tarefa e estrutura); comportamental = gente; sistêmica = ambiente. O oposto do modelo mecanicista é o orgânico, flexível e adaptável."
+  }
+ ]
+}
