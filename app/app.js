@@ -914,6 +914,18 @@
     <div id="feed-grid">${gridFeed()}</div>
     <div class="lb" id="lb" hidden><div class="lb-box"><div class="player" id="lb-player"></div><div class="vinfo" id="lb-info"></div></div></div>`;
   }
+  // Figura de prova em tela cheia: tocar abre; tocar de novo ou Esc fecha (dá para ampliar com os dedos).
+  function abrirFigura(src, alt) {
+    fecharFigura();
+    const d = document.createElement('div');
+    d.id = 'lbimg'; d.className = 'lb lbimg';
+    d.innerHTML = `<img src="${esc(urlSegura(src))}" alt="${esc(alt || 'Figura')}">`;
+    document.body.appendChild(d); document.body.classList.add('travado');
+  }
+  function fecharFigura() {
+    const d = $('#lbimg'); if (!d) return;
+    d.remove(); if (!$('#lb:not([hidden])')) document.body.classList.remove('travado');
+  }
   function fecharLb() {
     const lb = $('#lb'); if (!lb) return;
     $('#lb-player').innerHTML = ''; lb.hidden = true; document.body.classList.remove('travado');
@@ -961,6 +973,7 @@
     let html = naoAchou(), sec = '';
     for (const [re, fn, s] of ROTAS) { const m = h.match(re); if (m) { CTX = null; html = fn(m); sec = s; break; } }
     secAtual = sec;
+    fecharFigura();
     document.body.classList.remove('travado');
     $('#view').innerHTML = html;
     const noMais = ['simulado', 'biblioteca', 'videos', 'provas', 'edital', 'ajustes', 'mais'].includes(sec);
@@ -1290,6 +1303,9 @@
   }
 
   document.addEventListener('click', e => {
+    if (e.target.closest('#lbimg')) { fecharFigura(); return; }
+    const fig = e.target.closest('.qcard img');
+    if (fig && !fig.closest('.alt')) { e.preventDefault(); abrirFigura(fig.getAttribute('src'), fig.getAttribute('alt')); return; }
     if (e.target.id === 'lb') { fecharLb(); return; }
     const b = e.target.closest('[data-act]');
     if (!b || b.disabled) return;
@@ -1312,6 +1328,7 @@
     }
   });
   document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && $('#lbimg')) { fecharFigura(); return; }
     if (e.key === 'Escape' && $('#lb') && !$('#lb').hidden) { fecharLb(); return; }
     if (!QZ || !$('#quiz') || e.ctrlKey || e.metaKey || e.altKey || /INPUT|SELECT|TEXTAREA/.test(document.activeElement?.tagName)) return;
     const k = e.key.toUpperCase();

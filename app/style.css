@@ -31,7 +31,7 @@ input, select {
 }
 input:focus, select:focus { border-color: var(--pri); box-shadow: 0 0 0 3px rgba(124, 92, 255, .25); }
 :focus-visible { outline: 2px solid var(--pri); outline-offset: 2px; }
-code { background: var(--s3); border-radius: 6px; padding: 1px 6px; font-size: .92em; }
+code { background: var(--s3); border-radius: 6px; padding: 1px 6px; font-size: .92em; overflow-wrap: anywhere; }
 kbd { background: var(--s3); border: 1px solid var(--bd2); border-bottom-width: 2px; border-radius: 6px; padding: 0 6px; font-size: 12px; }
 
 .ic { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; vertical-align: -3px; }
@@ -377,6 +377,10 @@ body.travado { overflow: hidden; }
 .md u, .at u, .tl u { text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
 .qfig { display: block; margin: -4px 0 16px; text-align: center; }
 .qfig img, img.mdimg { max-width: 100%; height: auto; border-radius: 10px; background: #fff; padding: 6px; }
+.qcard img { cursor: zoom-in; }
+.qcard .alt img { cursor: pointer; }
+.lbimg { overflow: auto; cursor: zoom-out; }
+.lbimg img { max-width: 100%; max-height: calc(100vh - 40px); height: auto; object-fit: contain; background: #fff; border-radius: 10px; padding: 6px; touch-action: pinch-zoom; }
 .at img.mdimg { max-height: 180px; }
 .tag.anulada { background: rgba(255, 84, 112, .15); color: #ff8da0; }
 .tag.drive { background: rgba(66, 133, 244, .16); color: #8ab4f8; gap: 5px; }
@@ -463,5 +467,10 @@ body.travado { overflow: hidden; }
   .qcard { padding: 18px; }
   #toast { bottom: calc(86px + env(safe-area-inset-bottom)); }
   .kbd { display: none; }
+  /* iPhone amplia a tela ao tocar num campo com letra menor que 16px */
+  input, select, textarea { font-size: 16px; }
+  /* Depois de responder, o botão Próxima fica à mão, logo acima do menu de baixo */
+  .qnav { position: sticky; bottom: calc(64px + env(safe-area-inset-bottom)); z-index: 5; margin: 0 -14px; padding: 18px 14px 10px;
+    background: linear-gradient(rgba(10, 12, 18, 0), var(--bg) 45%); }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
