@@ -54,8 +54,9 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - [x] As 5 provas do PCI com captcha (Fiscal de Obras, Agente Administrativo e Assistente Social de CG 2021, EBSERH
   Arquitetura 2014, UEPB 2014) foram baixadas pelo Arthur no Chrome e estão no Drive: 26 de 28 provas com PDF.
   Os PDFs do PCI levam uma marca escondida ("pcimarkpci" + IP e horário do download em base64): não publicar esse texto.
-- [ ] Sincronização pelo Drive: servidor pronto (`scripts/drive-sync/`). Falta o Arthur configurar (passo a passo) e a
-  sessão B implementar no site e no pop-up (contrato enviado).
+- [ ] Sincronização pelo Drive: servidor (`scripts/drive-sync/`), site e pop-up prontos; o tempo de leitura soma por
+  aparelho (`dias[k].segPor`, 29/10). Falta só o Arthur fazer os 5 passos de `COMO-CONFIGURAR.md`. Sem configurar,
+  "Levar para o celular" (em Progresso) junta o progresso por um link.
 - [ ] Proposta ainda sem resposta do Arthur: folha de respostas digital (resolve no PDF e marca as letras no app, que
   corrige pelo gabarito). Transcrever provas inteiras para o app foi recusado (direito autoral).
 - [x] Explicações completas nas 230 questões de Específicas (estudos-56, commit f58e54b).
@@ -69,8 +70,10 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   público do GitHub (entrou no primeiro commit, 8d462ae). Tirar de lá exige reescrever a história e dar force push, o
   que afeta todas as sessões: só com o OK dele.
 - [ ] Baixar, se o Arthur confirmar: SESAP-RN 2025 (Arquiteto e Auditor Fiscal da Vigilância Sanitária) e SOP-CE 2025 (Arquiteto).
-- [ ] Ideias para depois: questões sobre o Código Sanitário de CG (LC 51/2010) e o Código de Obras quando o texto
-  for obtido; sincronizar progresso PC ↔ celular sem exportar/importar.
+- [x] Código de Obras de CG (Lei 5.410/2013, achado no SAPL da Câmara): aula com resumo e alterações posteriores e
+  12 questões no lote 25 (esp-0231 a esp-0242), em 29/10.
+- [ ] Ideias para depois: questões sobre o Código Sanitário de CG (LC 51/2010), o Código de Posturas (Lei 4.129/2003)
+  e a Lei Orgânica quando o texto for obtido.
 
 ## Decisões já tomadas
 

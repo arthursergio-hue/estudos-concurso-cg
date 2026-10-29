@@ -38,7 +38,7 @@ Tem três partes:
 - Na aba **Provas**, as que estão no Drive abrem direto lá (prova e gabarito). Os links são privados: só abrem logado
   na conta pessoal.
 - **Sincronizar PC, celular e pop-up pelo Drive:** siga [scripts/drive-sync/COMO-CONFIGURAR.md](scripts/drive-sync/COMO-CONFIGURAR.md)
-  (5 minutos, uma vez). A parte do site que usa isso está com a sessão do site.
+  (5 minutos, uma vez). O site e o pop-up já estão prontos para usar.
 
 ## O que mudou
 
@@ -90,14 +90,16 @@ Como acrescentar questões de Específicas: escreva um lote em `references/lotes
 
 ## O que ainda não está
 
-- **Sincronização pelo Drive:** o servidor está pronto, mas falta (1) o Arthur configurar o Apps Script e (2) o site e o
-  pop-up passarem a usá-lo. Até lá, use **Levar para o celular** em Progresso (link pelo WhatsApp, sem configurar).
+- **Sincronização pelo Drive:** o site e o pop-up já usam; falta só o Arthur fazer os 5 passos do Apps Script
+  ([scripts/drive-sync/COMO-CONFIGURAR.md](scripts/drive-sync/COMO-CONFIGURAR.md)). Sem configurar nada, use **Levar
+  para o celular** em Progresso (link pelo WhatsApp).
 - Duas provas só existem com cadastro no QConcursos e ficam como link: UERN 2016 e Maracanaú Urbanismo 2023.
   Baixando o PDF, salve na pasta `Provas da IDECAN` com o nome que está em
   `references/provas-catalogo.json` (campo `arquivo` + ` - prova.pdf`/` - gabarito.pdf`) e rode
   `python -I scripts/vincular_provas_drive.py`.
-- **Código Sanitário de Campina Grande (LC 51/2010)**, Código de Obras e Plano Diretor novo: o texto não estava
-  disponível on-line na pesquisa. Vale pedir na Câmara ou na Prefeitura e criar questões sobre eles.
+- **Código Sanitário de Campina Grande (LC 51/2010)**, Código de Posturas (Lei 4.129/2003) e Plano Diretor novo: o
+  texto não estava disponível on-line na pesquisa. Vale pedir na Câmara ou na Prefeitura e criar questões sobre eles.
+  O **Código de Obras (Lei 5.410/2013)** foi achado no SAPL da Câmara em 29/10 e já tem aula e 12 questões.
 - A Retificação 04 do edital não foi localizada (as 01, 02, 03 e 05 estão em `references/edital/`).
 
 ## Pendências
