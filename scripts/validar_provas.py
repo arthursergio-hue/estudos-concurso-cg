@@ -5,6 +5,7 @@ Sem ids, confere todas. Com --indice, regrava data/provas/index.json com as prov
 Erro (ERRO) quebra o site ou a correção; aviso (aviso) é para olhar, mas não impede.
 Contrato combinado com a sessão do site em 28/10/2026 (ver README, seção "Provas interativas").
 """
+import base64
 import json
 import re
 import sys
@@ -24,7 +25,18 @@ ASSUNTOS_GERAIS = {
     "outras": [],
 }
 IMG = re.compile(r"!\[[^\]]*\]\(([^)\s]+)\)")
+# PDFs do PCI Concursos trazem texto escondido "pcimarkpci" + IP/horário do download em base64: nunca publicar
+MARCA = re.compile(r"pcimark|[A-Za-z0-9+/]{40,}={0,2}", re.I)
 LETRA = re.compile(r"\b(letra|alternativa|op[çc][ãa]o)\s+[\"“]?[A-E]\b|\([A-E]\)", re.I)
+
+
+def decodifica_texto(s):
+    """True se o trecho é base64 de um texto legível (ex.: IP e horário), e não um hash ou id de link."""
+    try:
+        txt = base64.b64decode(s + "=" * (-len(s) % 4), validate=True).decode("ascii")
+    except (ValueError, UnicodeDecodeError):
+        return False
+    return txt.isprintable() and any(c in txt for c in ":.- ")
 
 
 def assuntos():
@@ -40,6 +52,10 @@ def conferir(arq, ids_catalogo, validos):
         return [f"JSON inválido: {e}"], [], None
     if arq.read_bytes()[:3] == b"\xef\xbb\xbf":
         erros.append("arquivo com BOM (salve UTF-8 sem BOM)")
+    for m in MARCA.finditer(arq.read_text(encoding="utf-8")):
+        if m.group().lower().startswith("pcimark") or decodifica_texto(m.group()):
+            erros.append(f"marca escondida do PCI (pcimark ou base64 com texto) no arquivo: {m.group()[:12]}…")
+            break
     pid = arq.stem
     if p.get("id") != pid:
         erros.append(f"id '{p.get('id')}' diferente do nome do arquivo")
