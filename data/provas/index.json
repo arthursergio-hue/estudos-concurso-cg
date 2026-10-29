@@ -1,5 +1,16 @@
 [
  {
+  "id": "idecan-2026-alce-arquitetura",
+  "titulo": "Analista Legislativo – Arquitetura e Urbanismo — AL-CE",
+  "banca": "IDECAN",
+  "ano": 2026,
+  "orgao": "Assembleia Legislativa do Ceará",
+  "cargo": "Analista Legislativo – Arquitetura e Urbanismo",
+  "arquivo": "data/provas/idecan-2026-alce-arquitetura.json",
+  "nQuestoes": 70,
+  "duracaoMin": 300
+ },
+ {
   "id": "idecan-2018-crfsp-arquiteto",
   "titulo": "Arquiteto — CRF-SP (2018)",
   "banca": "IDECAN",
