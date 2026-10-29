@@ -1,0 +1,24 @@
+[
+ {
+  "id": "idecan-2018-crfsp-arquiteto",
+  "titulo": "Arquiteto — CRF-SP (2018)",
+  "banca": "IDECAN",
+  "ano": 2018,
+  "orgao": "Conselho Regional de Farmácia de São Paulo",
+  "cargo": "Arquiteto",
+  "arquivo": "data/provas/idecan-2018-crfsp-arquiteto.json",
+  "nQuestoes": 40,
+  "duracaoMin": 240
+ },
+ {
+  "id": "idecan-2016-ufpb-arquiteto",
+  "titulo": "Arquiteto — UFPB",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Universidade Federal da Paraíba",
+  "cargo": "Arquiteto",
+  "arquivo": "data/provas/idecan-2016-ufpb-arquiteto.json",
+  "nQuestoes": 50,
+  "duracaoMin": 240
+ }
+]

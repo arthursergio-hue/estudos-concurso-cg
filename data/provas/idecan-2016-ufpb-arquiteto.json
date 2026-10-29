@@ -1,0 +1,888 @@
+{
+ "id": "idecan-2016-ufpb-arquiteto",
+ "titulo": "Arquiteto — UFPB",
+ "banca": "IDECAN",
+ "ano": 2016,
+ "orgao": "Universidade Federal da Paraíba",
+ "cargo": "Arquiteto",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-ufpb-arquiteto",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I",
+   "fonte": "(Dario Chaves. Língua Portuguesa, nº 57, ed. Escala. Fragmento.)",
+   "numerarLinhas": false,
+   "conteudo": "**“Quem não se comunica se trumbica”**\n\nEsta frase é do Chacrinha, um dos mais famosos apresentadores da televisão brasileira, falecido em 1988. Só que não! A frase, na verdade, é de Péricles do Amaral, que a “deu” para que Chacrinha a usasse em seus programas na TV. Mas hoje, enquanto Chacrinha se eternizou como personagem integrante da história da TV brasileira, Péricles – uma das maiores referências do rádio carioca e autor de novelas radiofônicas, além de forte atuação como redator de TV em diversos canais – que faleceu em 1975, é pouco conhecido do grande público.\n\nEssa confusão exemplifica a relação que temos hoje com a informação e a comunicação. Vivemos uma era de alta tecnologia da informação. Mas informação e comunicação não significam necessariamente a mesma coisa. Vivemos num mundo com acesso a todo tipo de informação de diversas maneiras. Só que excesso de informação também pode gerar ruído – em comunicação, “ruído” é qualquer elemento que interfere no processo de transmissão de uma mensagem de um emissor para um receptor.\n\nNão basta haver a capacidade de informar se não houver o desejo de se comunicar. Ou o desejo de compreender e ser compreendido pelo interlocutor. Para esse processo de troca de ideias funcionar, saber escrever corretamente é condição necessária, mas não suficiente. O que vemos hoje com alguma frequência (especialmente em redes sociais) são pessoas querendo impor suas ideias, mas sem querer compreender ideias diferentes. Ou mesmo modos diferentes de se expressar. [...]"
+  },
+  {
+   "id": "t2",
+   "titulo": "Texto II",
+   "fonte": "(Mary Rangel. Língua Portuguesa, nº 57, ed. Escala. Fragmento.)",
+   "numerarLinhas": false,
+   "conteudo": "**O respeito à diversidade e suas implicações nos direitos humanos**\n\n*A diversidade é um dos temas mais atuais da sociedade, e ao se pensar na escola, é um tema que ganha extrema relevância. Pois é na escola, onde a criança e o jovem desenvolve grande parte de suas relações sociais, que é necessário se desenvolver e ampliar a cultura do respeito ao que é diferente.*\n\nQuando se trata de inclusão/exclusão, é oportuno compreender mais amplamente esses processos abordando-os de forma dialética.\n\nNa abordagem da dialética inclusão/exclusão, realça-se o entendimento de que, para compreensão desses processos e o enfrentamento da exclusão, é necessário percebê-los de modo mais abrangente, em seu alcance e ocorrências, e não apenas com referência a um único grupo social.\n\nO princípio de que, para enfrentar a exclusão, é preciso compreendê-la como processo que ocorre em várias circunstâncias, é também adotado neste texto, acrescentando-se que a percepção no contexto mais abrangente em que se situam: o da diversidade. O enfrentamento da exclusão necessita do empenho acadêmico, social e político em decisões e movimentos pela inclusão, justiça e autonomia dos sujeitos, respeitando-se suas diferenças socioculturais e identitárias.\n\nContudo, ressalva-se que não se entende ou propõe o acolhimento à diversidade como subalternização do outro, do diferente, como forma de colonização, mas sim garantindo-se seus direitos à vida cidadã e, nesse sentido, a sua efetiva participação nas decisões políticas e a sua afirmação como sujeitos sociais. É nesse sentido que se assume, como premissa e perspectiva deste estudo, a reivindicação do respeito à diversidade, em seus vários contornos. [...]\n\nA qualidade e a dignidade da vida humana são valores inestimáveis, devendo ser princípios e propostas de superação de preconceitos e estigmas baseados em equívocos geradores de comportamentos que destoam de parâmetros essenciais à sociedade plural, em que se privilegiam e mantêm as garantias dos direitos humanos e o princípio constitucional da igualdade."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Na construção textual, estão envolvidas algumas estratégias de referenciação, atuantes no processo de coesão do texto. Sabendo-se que um “objeto” já presente no texto pode ser reativado através da referência feita a ele, leia o trecho do texto destacado a seguir:\n\n*“++Esta frase++ é do Chacrinha, um dos mais famosos apresentadores da televisão brasileira, falecido em 1988. Só que não! ++A frase++, na verdade, é de Péricles do Amaral, que ++a++ “deu” para que Chacrinha ++a++ usasse em seus programas na TV.”* (1º§)\n\nDentre as afirmativas a seguir, assinale a verdadeira em relação aos elementos destacados anteriormente.",
+   "alternativas": [
+    "Sem exceção, os elementos destacados atuam como formas referenciais de um mesmo objeto introduzido anteriormente.",
+    "*“Esta frase”* e *“A frase”* possuem o mesmo referente, as duas ocorrências de *“a”* em destaque indicam a introdução de um novo referente não interferindo na coerência textual.",
+    "A ocorrência do primeiro *“a”* em destaque refere-se a “Esta frase”, já a ocorrência do segundo “a” refere-se à expressão “A frase”, organizando textualmente a ordem das informações.",
+    "A expressão *“A frase”*, diferentemente dos demais elementos destacados, indica uma introdução de uma nova informação no texto, tratando-se de um “objeto” até então não mencionado."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Sem exceção, os elementos destacados atuam…\":** os quatro termos sublinhados retomam o mesmo objeto: a frase “Quem não se comunica se trumbica”, apresentada no título. *Esta frase* retoma o título com um pronome demonstrativo; *A frase* repete o núcleo com artigo definido, marca de informação já conhecida; e os dois pronomes oblíquos *a* (“que a deu”, “Chacrinha a usasse”) substituem “a frase”. É referenciação anafórica: o objeto é reativado, não introduzido.\n\n**As outras:**\n- *“Esta frase” e “A frase” possuem o mesmo referente, as duas ocorrências…*: a primeira parte está certa, mas os dois *a* não introduzem referente novo; são pronomes que retomam “a frase”.\n- *A ocorrência do primeiro “a” em destaque refere-se a “Esta frase”…*: não há dois objetos a separar; os dois pronomes retomam a mesma frase (e o antecedente mais próximo de ambos é “A frase”).\n- *A expressão “A frase”, diferentemente dos demais elementos…*: o artigo definido indica algo já mencionado; “A frase” é retomada, não informação nova.\n\n**Para memorizar:** artigo indefinido costuma introduzir referente novo (“uma frase”); demonstrativo, artigo definido e pronome oblíquo costumam retomar o que já apareceu."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "No primeiro parágrafo do texto, após *“Chacrinha”*, há entre vírgulas:",
+   "alternativas": [
+    "Um comentário avaliativo acerca da referência anterior.",
+    "Antecipação de uma informação introduzida posteriormente.",
+    "Descrição que demonstra, de modo exclusivo, o caráter informativo da linguagem.",
+    "Um detalhamento que tem como referência o conteúdo apresentado no título do texto."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Um comentário avaliativo acerca da referência anterior\":** entre vírgulas, depois de “Chacrinha”, vem o aposto explicativo “um dos mais famosos apresentadores da televisão brasileira, falecido em 1988”. Ele se volta para o termo anterior (Chacrinha) e traz uma avaliação do autor: “um dos mais famosos”. Por isso a banca o chama de comentário avaliativo sobre a referência anterior.\n\n**As outras:**\n- *Antecipação de uma informação introduzida posteriormente*: o aposto olha para trás (Chacrinha); não adianta nada que venha depois.\n- *Descrição que demonstra, de modo exclusivo, o caráter informativo…*: há informação (morreu em 1988), mas também avaliação (“mais famosos”); o “de modo exclusivo” derruba a alternativa.\n- *Um detalhamento que tem como referência o conteúdo apresentado no título*: o aposto se refere a Chacrinha, não à frase do título.\n\n**Para memorizar:** aposto explicativo vem entre vírgulas logo depois do nome que explica. Palavras como “exclusivo”, “sempre” e “somente” costumam tornar a alternativa falsa."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "*“Vivemos num mundo com acesso a todo tipo de informação de diversas maneiras.”* (2º§) Acerca das estruturas linguísticas do trecho destacado, analise e assinale a afirmativa correta.",
+   "alternativas": [
+    "Excluindo-se o trecho *“todo tipo de”* haveria, obrigatoriamente, o acento grave indicador de crase em *“a”*.",
+    "Dentre os elementos que forma a contração *“num”* está a preposição *“em”* exigida pelo termo regente *“mundo”*.",
+    "O segmento *“acesso a todo tipo”* poderia ser substituído por “acesso de todo tipo” mantendo-se a adequação linguística.",
+    "Sabendo-se que o termo *“num”* se trata de uma contração, sua substituição por “a um” estaria correta e adequada de acordo com a norma padrão da língua, possuindo um aspecto erudito da linguagem."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Excluindo-se o trecho “todo tipo de” haveria…\":** “acesso” pede a preposição *a* (acesso a algo). Com “todo tipo de”, o *a* fica antes de “todo”, palavra masculina que não recebe o artigo *a*, então não há crase. Tirando o trecho, sobra “acesso a + a informação”: preposição mais artigo feminino. Resultado: “acesso **à** informação”, com crase obrigatória.\n\n**As outras:**\n- *Dentre os elementos que forma a contração “num”…*: “num” é em + um, mas quem exige o *em* é o verbo “viver” (vivemos em um mundo), não o nome “mundo”.\n- *O segmento “acesso a todo tipo” poderia ser substituído por “acesso de todo tipo”…*: a troca muda o sentido (passa a falar de tipos de acesso) e a regência de “acesso a” (informação).\n- *Sabendo-se que o termo “num” se trata de uma contração…*: “a um” troca a preposição exigida por “viver” (viver em) e fica errado; e “num” não tem nada de erudito, é a contração comum de em + um.\n\n**Para memorizar:** antes de palavra masculina (“todo tipo”) não há crase. Na dúvida, troque o feminino por um masculino: “acesso ao conteúdo” mostra que ali cabe a + a."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "O emprego da expressão de caráter coloquial *“Só que não!”* representa",
+   "alternativas": [
+    "a expressão da identidade de um grupo específico, público-alvo do texto em análise.",
+    "a ocorrência de um grau de formalismo característico de uma linguagem não fragmentária.",
+    "uma exemplificação de parte da argumentação expressa no último parágrafo do texto transcrito.",
+    "uma inadequação linguística proposital do autor do texto cujo objetivo é despertar o interesse do leitor pelo assunto discutido."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"uma exemplificação de parte da argumentação expressa no último parágrafo…\":** no último parágrafo, o autor critica quem quer impor ideias sem aceitar ideias diferentes, “Ou mesmo modos diferentes de se expressar”. O “Só que não!”, bordão coloquial nascido nas redes sociais, é justamente um modo diferente de se expressar, usado pelo próprio autor. Assim, ele exemplifica, na prática, parte do que o último parágrafo defende.\n\n**As outras:**\n- *a expressão da identidade de um grupo específico, público-alvo…*: o texto não se dirige a um grupo específico, e a expressão é de uso geral.\n- *a ocorrência de um grau de formalismo…*: é o contrário: a expressão é informal, e o próprio enunciado a chama de coloquial.\n- *uma inadequação linguística proposital do autor…*: linguagem coloquial não é inadequação; num texto leve como este ela é adequada ao contexto e tem função expressiva.\n\n**Para memorizar:** a IDECAN separa “informal” de “inadequado”: registro coloquial usado com propósito é adequação, não erro."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Quanto às características estruturais do tipo textual apresentado, pode-se afirmar que, no primeiro parágrafo, o autor utiliza",
+   "alternativas": [
+    "uma descrição que exemplifica as ideias apresentadas pelo autor.",
+    "o confronto entre ideias e conceitos diferentes através do exemplo apresentado.",
+    "informações importantes que servirão de subsídios para a reflexão proposta pelo autor no título do texto.",
+    "um recurso argumentativo, relacionado ao tema textual que irá contribuir na defesa de um ponto de vista."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"um recurso argumentativo, relacionado ao tema textual…\":** o primeiro parágrafo conta o caso do bordão atribuído a Chacrinha, mas criado por Péricles do Amaral. Logo em seguida, o segundo parágrafo diz: “Essa confusão exemplifica a relação que temos hoje com a informação e a comunicação”. O episódio é, portanto, um argumento por exemplo, posto ali para sustentar o ponto de vista do autor: ter informação não é o mesmo que se comunicar.\n\n**As outras:**\n- *uma descrição que exemplifica as ideias…*: o parágrafo relata um fato (quem criou a frase); não descreve características de um ser ou lugar.\n- *o confronto entre ideias e conceitos diferentes…*: não há confronto de conceitos no 1º§, só a correção de uma autoria (Chacrinha × Péricles).\n- *informações importantes que servirão de subsídios para a reflexão proposta… no título*: o título é o próprio bordão; a reflexão é feita nos parágrafos seguintes, não no título.\n\n**Para memorizar:** em texto dissertativo-argumentativo, o caso ou anedota do início quase sempre é argumento por exemplo para a tese que vem depois."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t2",
+   "enunciado": "O trecho em destaque “*A diversidade é um dos temas mais atuais da sociedade, e ao se pensar na escola, é um tema que ganha extrema relevância. Pois é na escola, onde a criança e o jovem desenvolve grande parte de suas relações sociais, que é necessário se desenvolver e ampliar a cultura do respeito ao que é diferente.*” possui uma INCORREÇÃO de acordo com a norma padrão indicada em:",
+   "alternativas": [
+    "A forma verbal *“desenvolve”* não estabelece a devida concordância com o sujeito a que se refere.",
+    "A expressão *“é necessário”* deveria apresentar a forma no plural em concordância com os dois núcleos aos quais se refere.",
+    "O segmento *“é um tema que ganha”* deveria ser substituído por “são temas que ganham” em concordância com a expressão anterior *“temas mais atuais”*.",
+    "A expressão *“grande parte de suas relações sociais”* está incorreta, pois, não se pode associar uma expressão no singular – grande parte – a um complemento no plural."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A forma verbal “desenvolve” não estabelece a devida concordância…\":** em “onde a criança e o jovem desenvolve grande parte de suas relações sociais”, o sujeito é composto (a criança **e** o jovem) e vem antes do verbo. Nesse caso, a norma padrão pede o verbo no plural: “a criança e o jovem **desenvolvem**”. Esse é o erro do trecho.\n\n**As outras:**\n- *A expressão “é necessário” deveria apresentar a forma no plural…*: o sujeito de “é necessário” é a oração “se desenvolver e ampliar a cultura…”; sujeito oracional leva o verbo ao singular.\n- *O segmento “é um tema que ganha” deveria ser substituído…*: o sujeito é “A diversidade” (singular); “um dos temas mais atuais” é só o predicativo da primeira oração.\n- *A expressão “grande parte de suas relações sociais” está incorreta…*: expressão partitiva como “grande parte de” aceita complemento no plural sem problema.\n\n**Para memorizar:** sujeito composto antes do verbo → plural. Sujeito em forma de oração (infinitivo) → verbo no singular, mesmo com dois infinitivos ligados por “e”."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t2",
+   "enunciado": "Dentre os termos destacados, identifique o que NÃO possui a mesma classificação sintática dos demais.",
+   "alternativas": [
+    "*“[...] é um tema que ganha ++extrema relevância++.”* (subtítulo)",
+    "*“[...] realça-++se++ o entendimento de que, [...]”* (2º§)",
+    "*“[...] abordando-++os++ de forma dialética. [...]”* (1º§)",
+    "*“[...] é necessário percebê-++los++ de modo mais abrangente, [...]”* (2º§)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"realça-se o entendimento de que\" é a resposta:** em “realça-se o entendimento”, o *se* é partícula apassivadora: a frase equivale a “o entendimento é realçado”, e “o entendimento” é o sujeito paciente. O *se* não funciona como complemento do verbo. Nos outros três casos, o termo destacado é **objeto direto**: ganha o quê? “extrema relevância”; abordando o quê? “os” (os processos); perceber o quê? “los” (os processos).\n\n**As outras (têm a mesma função, objeto direto):**\n- *“[...] é um tema que ganha extrema relevância.”*: “ganhar” é transitivo direto; “extrema relevância” é o objeto direto.\n- *“[...] abordando-os de forma dialética.”*: “os” é pronome oblíquo átono, objeto direto de “abordar”.\n- *“[...] é necessário percebê-los…”*: “los” é o pronome “os” que vira “los” depois de verbo terminado em r (perceber + os = percebê-los); é objeto direto.\n\n**Para memorizar:** verbo transitivo direto + se + substantivo = voz passiva sintética; o substantivo é sujeito, tanto que o verbo concorda com ele (“realçam-se os entendimentos”)."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t2",
+   "enunciado": "Considerando o contexto, e os significados atribuídos no texto aos vocábulos em destaque, identifique a relação estabelecida de forma indevida a seguir.",
+   "alternativas": [
+    "*Implicações* / ligações.",
+    "*Ressalvar* / compensar.",
+    "*Dialética* / argumentativa.",
+    "*Enfrentamento* / oposição."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Ressalvar / compensar\" é a resposta:** em “Contudo, ressalva-se que não se entende ou propõe o acolhimento à diversidade como subalternização do outro”, *ressalvar* é fazer uma ressalva: uma observação que restringe ou esclarece o que foi dito, algo como “adverte-se” ou “faz-se a observação de que”. Não tem o sentido de *compensar* (equilibrar uma perda com um ganho). Por isso essa relação é a indevida.\n\n**As outras (relações adequadas):**\n- *Implicações / ligações*: no título, “suas implicações nos direitos humanos” são as relações, os reflexos da diversidade nos direitos humanos; “ligações” serve.\n- *Dialética / argumentativa*: abordar “de forma dialética” é tratar o tema pelo confronto de ideias opostas (inclusão × exclusão), um modo argumentativo de raciocinar.\n- *Enfrentamento / oposição*: “enfrentamento da exclusão” é o combate, a oposição à exclusão.\n\n**Para memorizar:** “ressalva” = exceção ou observação (“com a ressalva de que…”). Não confunda com “compensar” nem com “ressarcir”."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t2",
+   "enunciado": "Diante das ideias e informações apresentadas no texto, pode-se afirmar que para o autor os processos relacionados a inclusão e exclusão são:",
+   "alternativas": [
+    "Premissas para o amplo enfrentamento da diversidade em todas as áreas relacionadas a tal questão.",
+    "Complementares, não podendo haver o primeiro sem que o segundo tenha se tornado uma realidade.",
+    "De amplo debate, requerendo que, para sua compreensão, haja uma ligação clara ao tema *“diversidade”*.",
+    "Manifestações próprias da *“diversidade”*, devendo haver um acolhimento e enfrentamento de ambos em momentos diferentes."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"De amplo debate, requerendo que, para sua compreensão…\":** o 2º e o 3º§ dizem que inclusão e exclusão precisam ser vistas “de modo mais abrangente”, como processos que ocorrem “em várias circunstâncias”, e que essa percepção se dá “no contexto mais abrangente em que se situam: o da diversidade”. Ou seja: são temas amplos, e entendê-los exige ligá-los à diversidade.\n\n**As outras:**\n- *Premissas para o amplo enfrentamento da diversidade…*: o texto fala em enfrentar a **exclusão**; a diversidade deve ser respeitada e acolhida, não enfrentada.\n- *Complementares, não podendo haver o primeiro sem que o segundo…*: o texto chama a relação de dialética, mas não afirma essa dependência de um em relação ao outro.\n- *Manifestações próprias da “diversidade”, devendo haver um acolhimento e enfrentamento de ambos…*: o acolhimento é da diversidade e o enfrentamento é da exclusão; o texto não fala em “momentos diferentes”.\n\n**Para memorizar:** em interpretação, desconfie da alternativa que troca o objeto de um verbo do texto (enfrentar a exclusão × enfrentar a diversidade)."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t2",
+   "enunciado": "O 4º§ é introduzido pelo termo *“contudo”* que estabelece uma relação tal entre as informações que o antecedem e que o sucedem que poderia ser substituído sem qualquer prejuízo semântico por:",
+   "alternativas": [
+    "Todavia.",
+    "Porquanto.",
+    "Desde que.",
+    "Consoante."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Todavia\":** “contudo” é conjunção **adversativa**. No 4º§ (“Contudo, ressalva-se que não se entende ou propõe o acolhimento à diversidade como subalternização do outro…”), ela marca uma ressalva, um contraste com o que veio antes. “Todavia” pertence ao mesmo grupo (mas, porém, contudo, todavia, entretanto, no entanto) e troca com “contudo” sem mudar o sentido.\n\n**As outras:**\n- *Porquanto*: conjunção causal ou explicativa (= porque, visto que).\n- *Desde que*: indica condição (= contanto que) ou tempo (= a partir do momento em que).\n- *Consoante*: conformativa (= conforme, segundo).\n\n**Para memorizar:** adversativas: mas, porém, contudo, todavia, entretanto, no entanto. “Porquanto” engana por lembrar “portanto”, mas é causal; “portanto” é que é conclusiva."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Se Edivaldo pratica algum esporte radical, então Alberto e Bruno também praticam. Por sua vez, Carlos somente pratica algum esporte radical se Bruno também praticar. Entretanto, Alberto pratica algum esporte radical se, e somente se, Débora, sua esposa, não lhe causar problemas por causa disso. Todavia, ou Débora causa a Alberto problemas por praticar algum esporte radical, ou, então, vai “fazer unha” nos respectivos horários. De toda forma, sabe-se que Edivaldo pratica, sim, algum esporte radical. Logo, considerando verdadeiras as proposições compostas supracitadas, pode-se concluir que, EXCETO:",
+   "alternativas": [
+    "Bruno pratica algum esporte radical.",
+    "Alberto pratica algum esporte radical.",
+    "Débora não causa problemas a Alberto.",
+    "Carlos não pratica algum esporte radical."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Carlos não pratica algum esporte radical\" é a resposta:** comece pelo fato certo: Edivaldo pratica. Pela primeira condicional, Alberto e Bruno praticam. Como Alberto pratica, pela bicondicional, Débora não lhe causa problemas; e pela disjunção exclusiva, ela vai “fazer unha”. Já “Carlos somente pratica se Bruno praticar” equivale a “se Carlos pratica, então Bruno pratica”. Saber que Bruno pratica não diz nada sobre Carlos: ele pode praticar ou não. Logo, não dá para concluir que Carlos não pratica.\n\n**As outras (podem ser concluídas):**\n- *Bruno pratica algum esporte radical*: sai direto de “Edivaldo pratica → Alberto e Bruno praticam”.\n- *Alberto pratica algum esporte radical*: mesma condicional.\n- *Débora não causa problemas a Alberto*: Alberto pratica ↔ Débora não causa problemas; como ele pratica, ela não causa.\n\n**Para memorizar:** “A somente se B” = “se A, então B”. Com B verdadeiro, A fica indeterminado: afirmar o consequente não prova o antecedente."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma pesquisa com 7.000 entrevistados foi realizada em todo o país no intuito de avaliar a preferência nacional dentre três meios de acesso às notícias diárias: jornal televisivo, *internet* e jornal impresso. Da pesquisa, verificou-se que 35% utilizam o jornal televisivo; 55% utilizam *internet*; e, 30% utilizam o jornal impresso. Além disso, a pesquisa evidenciou que nenhum dos entrevistados utiliza somente dois dos meios avaliados: ou utiliza os três meios, ou apenas um deles. Logo, o número de entrevistados que utilizam os três meios de acesso às notícias diárias é:",
+   "alternativas": [
+    "700.",
+    "960.",
+    "1.140.",
+    "1.400."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"700\":** cada pessoa usa um meio só ou os três. Somando as porcentagens: 35% + 55% + 30% = 120%. Quem usa um só meio foi contado uma vez; quem usa os três foi contado três vezes, ou seja, duas vezes a mais. Sendo *x* a fatia que usa os três:\n\n(100% − x) + 3x = 120% → 2x = 20% → x = 10%.\n\nEntão 10% de 7.000 = **700** entrevistados.\n\n**As outras:**\n- *960*: não sai dos dados; não corresponde a nenhuma porcentagem da conta.\n- *1.140*: também não sai da conta correta.\n- *1.400*: é 20% de 7.000, o excesso inteiro (120% − 100%), sem dividir por 2. É o erro de quem esquece que cada pessoa dos três meios foi contada duas vezes a mais, e não uma.\n\n**Para memorizar:** em conjuntos sem interseção dupla, divida o excesso da soma pelo número de vezes a mais que cada pessoa foi contada."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Três números naturais *a*, *b* e *c* formam, nessa ordem, uma progressão aritmética de razão *r*, com *r* ∈ ℝ. Sabe-se que o quádruplo de *a* é igual ao triplo de *b*. Assim, a razão entre *b* e *c* é:",
+   "alternativas": [
+    "1/2.",
+    "3/4.",
+    "4/3.",
+    "4/5."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"4/5\":** de 4a = 3b, temos b = 4a/3. A razão da PA é r = b − a = 4a/3 − a = a/3. Então c = b + r = 4a/3 + a/3 = 5a/3. A razão pedida é b/c = (4a/3) ÷ (5a/3) = **4/5**.\n\nConferindo com números: a = 3, b = 4, c = 5 forma PA de razão 1, e 4 × 3 = 3 × 4 = 12. Aí b/c = 4/5.\n\n**As outras:**\n- *1/2*: não corresponde a nenhuma relação entre os termos.\n- *3/4*: é a/b, não b/c.\n- *4/3*: é b/a, também fora do pedido.\n\n**Para memorizar:** em PA com relação entre termos, ache um exemplo pequeno que cumpra a condição (aqui, 3, 4, 5) e calcule direto. “Razão entre b e c” é b ÷ c, na ordem citada."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Três formigas, das quais duas carregam folhas, andam formando uma fila. Sabe-se que a que carrega folha verde sempre diz a verdade; a que carrega folha amarelada às vezes diz a verdade; e a que não carrega qualquer folha sempre mente. A que está na frente diz “a formiga que carrega folha verde está no meio”. A que está no meio diz “eu carrego a folha amarelada”. A que está atrás diz “a formiga que está no meio não carrega folha alguma”. Logo, pode-se concluir que a formiga que",
+   "alternativas": [
+    "está atrás é a que sempre mente.",
+    "carrega a folha amarelada está no meio.",
+    "carrega folha verde está atrás das outras duas.",
+    "sempre mente está à frente daquela que carrega a folha amarelada."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"carrega folha verde está atrás das outras duas\":** a de folha verde sempre diz a verdade; teste onde ela pode estar.\n- No meio? Ela diria “eu carrego a folha amarelada”, uma mentira. Impossível.\n- Na frente? Ela diria que a verde está no meio, outra mentira. Impossível.\n- Então a verde está **atrás**, e o que ela diz é verdade: a do meio não carrega folha (é a que sempre mente). Sobra a amarelada na frente.\n\nConferindo: a do meio mente ao dizer que carrega a amarelada (ok, ela sempre mente); a da frente diz algo falso, o que é permitido a quem “às vezes” diz a verdade.\n\n**As outras:**\n- *está atrás é a que sempre mente*: atrás está a verde, que sempre diz a verdade.\n- *carrega a folha amarelada está no meio*: a amarelada está na frente.\n- *sempre mente está à frente daquela que carrega a folha amarelada*: a mentirosa está no meio, atrás da amarelada.\n\n**Para memorizar:** comece pelo personagem que sempre diz a verdade e teste suas posições possíveis."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere a equação a seguir:\n\n4 + 7 + 10 + ... + *x* = 424\n\nSabendo-se que os termos do primeiro membro dessa equação formam uma progressão aritmética, então o valor de *x* é:",
+   "alternativas": [
+    "37.",
+    "49.",
+    "57.",
+    "61."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"49\":** é uma PA de primeiro termo 4 e razão 3, então o termo de posição n é aₙ = 4 + 3(n − 1) = 3n + 1. A soma é Sₙ = n(a₁ + aₙ)/2:\n\nn(4 + 3n + 1)/2 = 424 → 3n² + 5n − 848 = 0.\n\nPor Bhaskara: Δ = 25 + 4 × 3 × 848 = 10.201; √Δ = 101; n = (−5 + 101)/6 = 16. Logo x = 3 × 16 + 1 = **49**. Conferindo: 16 × (4 + 49)/2 = 8 × 53 = 424.\n\n**As outras:**\n- *37*: é o 12º termo; a soma até ele dá 12 × 41/2 = 246.\n- *57*: nem é termo da PA (57 − 4 = 53 não é múltiplo de 3).\n- *61*: é o 20º termo; a soma até ele dá 20 × 65/2 = 650.\n\n**Para memorizar:** aₙ = a₁ + (n − 1)r e Sₙ = n(a₁ + aₙ)/2. Para testar alternativas, veja primeiro se o número é termo da PA."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q16",
+   "numero": 16,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere a sequência numérica a seguir:\n\n3, 6, 3, 3, 2, 5/3, 11/9. . .\n\nSabendo-se que essa sequência obedece uma regra de formação a partir do terceiro termo, então o denominador do próximo termo da sequência é:",
+   "alternativas": [
+    "9.",
+    "11.",
+    "26.",
+    "27."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"27\":** a partir do 3º termo, cada termo é a soma dos dois anteriores dividida por 3:\n- (3 + 6)/3 = 3; (6 + 3)/3 = 3; (3 + 3)/3 = 2;\n- (3 + 2)/3 = 5/3; (2 + 5/3)/3 = (11/3)/3 = 11/9.\n\nO próximo: (5/3 + 11/9)/3 = (15/9 + 11/9)/3 = (26/9)/3 = **26/27**. O denominador é 27.\n\n**As outras:**\n- *9*: é o denominador do último termo dado (11/9), não do próximo.\n- *11*: é o numerador de 11/9.\n- *26*: é o numerador do próximo termo; a pegadinha é confundir numerador com denominador.\n\n**Para memorizar:** em sequência com frações, teste somas e médias dos termos anteriores. E releia o que se pede: numerador, denominador ou o termo inteiro."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q17",
+   "numero": 17,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em uma escola, uma comissão é formada por dois professores, dois técnicos administrativos e dois alunos. Candidataram-se quatro professores, cinco técnicos administrativos e sete alunos. Logo, o número de maneiras distintas para a eleição dos membros dessa comissão é:",
+   "alternativas": [
+    "210.",
+    "810.",
+    "1.090.",
+    "1.260."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"1.260\":** numa comissão a ordem não importa, então cada grupo é uma combinação:\n- professores: C(4,2) = (4 × 3)/2 = 6;\n- técnicos: C(5,2) = (5 × 4)/2 = 10;\n- alunos: C(7,2) = (7 × 6)/2 = 21.\n\nAs três escolhas são feitas juntas e são independentes, então multiplica (princípio multiplicativo): 6 × 10 × 21 = **1.260**.\n\n**As outras:**\n- *210*: é só 10 × 21, esquecendo os professores.\n- *810*: não sai de nenhuma combinação correta dos grupos.\n- *1.090*: também não sai da conta correta.\n\n**Para memorizar:** comissão, grupo, equipe = combinação (ordem não importa). Escolhas em grupos diferentes que acontecem juntas = multiplica; escolha de um grupo **ou** de outro = soma."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q18",
+   "numero": 18,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "É comum ouvir nos noticiários a estimativa do número de pessoas presentes em atos públicos, tais como passeatas, comícios e *shows*. Para tal, considera-se, em geral, que, quando lotados, dois metros quadrados são ocupados por nove pessoas. Dessa forma, a estimativa do número de pessoas presentes em um *show* musical ocorrido num parque de 9.500 m² totalmente lotado é:",
+   "alternativas": [
+    "39.250.",
+    "42.750.",
+    "45.500.",
+    "54.750."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"42.750\":** a densidade é de 9 pessoas a cada 2 m², ou seja, 9 ÷ 2 = 4,5 pessoas por m². No parque de 9.500 m²:\n\n9.500 × 4,5 = **42.750** pessoas.\n\nPela regra de três dá o mesmo: 2 m² → 9 pessoas; 9.500 m² → 9.500 × 9 ÷ 2 = 85.500 ÷ 2 = 42.750.\n\n**As outras:**\n- *39.250*: corresponde a cerca de 4,13 pessoas/m²; não é a densidade do enunciado.\n- *45.500*: corresponde a cerca de 4,79 pessoas/m².\n- *54.750*: corresponde a cerca de 5,76 pessoas/m².\n\n**Para memorizar:** transforme a proporção em taxa por unidade (pessoas por m²) e multiplique pela área. Cuidado para não inverter: são 9 pessoas em 2 m², não 2 pessoas em 9 m²."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q19",
+   "numero": 19,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um grupo de alunos é formado por 11 meninos e 14 meninas. Sabe-se que metade das meninas são loiras, ao passo que apenas três meninos são loiros. Dessa forma, ao selecionar-se ao acaso um aluno, a probabilidade de que seja um menino loiro é:",
+   "alternativas": [
+    "0,12.",
+    "0,15.",
+    "0,22.",
+    "0,25."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"0,12\":** o sorteio é entre todos os alunos: 11 + 14 = 25. Os casos favoráveis são os meninos loiros: 3. Probabilidade = favoráveis ÷ possíveis = 3/25 = **0,12** (12%). A informação de que metade das meninas (7) é loira não entra na conta, porque a pergunta é só sobre menino loiro.\n\n**As outras:**\n- *0,15*: seria 3/20; não há 20 alunos no grupo.\n- *0,22*: não sai dos dados do problema.\n- *0,25*: não sai dos dados; a probabilidade de ser menino loiro **entre os meninos** seria 3/11 ≈ 0,27, que também não é o pedido.\n\n**Para memorizar:** “selecionar ao acaso um aluno” → o denominador é o grupo todo (25). Só use os 11 meninos como denominador se o enunciado disser que o sorteado já é menino (probabilidade condicional)."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q20",
+   "numero": 20,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Júlia fez aniversário no dia 07/12/2015. Pablo, seu irmão, faz aniversário exatamente doze semanas e três dias após Júlia. Logo, em qual dia do mês de março de 2016 será o aniversário de Pablo?",
+   "alternativas": [
+    "02.",
+    "03.",
+    "09.",
+    "10."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"03\":** doze semanas e três dias = 12 × 7 + 3 = 87 dias. Contando a partir de 07/12/2015:\n- até 31/12: 24 dias;\n- janeiro: 31 dias (total 55);\n- fevereiro de 2016: **29** dias, porque 2016 é bissexto (total 84).\n\nFaltam 87 − 84 = 3 dias, então o aniversário de Pablo cai em **3 de março de 2016**.\n\n**As outras:**\n- *02*: resulta de contar o próprio dia 07/12 como o primeiro dia (um a menos).\n- *09*: não bate com 87 dias a partir de 07/12.\n- *10*: daria treze semanas e três dias (94 dias), não doze.\n\n**Para memorizar:** 12 semanas exatas depois de 07/12/2015 caem em 29/02/2016, mesmo dia da semana. Ano divisível por 4 (e não terminado em 00, salvo se divisível por 400) é bissexto: fevereiro com 29 dias."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em maio de 2015, a Agência Brasil (EBC) divulgou um levantamento da Organização Não-Governamental (ONG) *Safernet*, que há alguns anos tem um serviço de denúncias *online*, que aponta que, em 2014, foram registrados 224 casos de *sexting* – um aumento de 120% em relação a 2013 – quando foram registrados 101 casos. A instituição tem realizado várias campanhas de alerta com depoimentos de jovens que foram vítimas de *sexting*. Os relatos, em geral, envolvem ameaças, sofrimento e o medo da reação de outras pessoas. Esta prática consiste na",
+   "alternativas": [
+    "utilização de perfis fictícios (*fake*) para denegrir, criticar, atacar ou acusar outra pessoa nas redes sociais.",
+    "quebra do sigilo de outras pessoas nas redes sociais seguida de furto e divulgação de documentos pessoais da vítima.",
+    "promoção da pornografia infantil com o comércio de fotos e vídeos de menores nus, em atos sexuais ou se prostituindo.",
+    "divulgação de mensagens, fotos ou gravações de conteúdo erótico ou sensual por meio eletrônico, principalmente, celulares."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"divulgação de mensagens, fotos ou gravações de conteúdo erótico…\":** *sexting* junta *sex* (sexo) e *texting* (troca de mensagens). É o envio de mensagens, fotos ou vídeos de conteúdo erótico ou sensual por meio eletrônico, principalmente pelo celular. O risco está no vazamento: o material sai do controle de quem o enviou e passa a ser usado para chantagem e exposição, o que explica as ameaças e o medo relatados nas denúncias à Safernet.\n\n**As outras:**\n- *utilização de perfis fictícios (fake)…*: descreve o uso de perfis falsos para atacar alguém, prática ligada ao *cyberbullying*.\n- *quebra do sigilo de outras pessoas…*: descreve invasão de contas e furto de dados, crime informático.\n- *promoção da pornografia infantil…*: é crime previsto no Estatuto da Criança e do Adolescente; não é a definição de sexting, embora o vazamento de imagens de menores possa chegar a esse crime.\n\n**Para memorizar:** sexting = sex + texting. O problema começa no envio voluntário e cresce com o vazamento."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Muito noticiadas nos últimos meses nos veículos de comunicação do Brasil e motivo de grande preocupação das autoridades, principalmente da área de saúde, as doenças dengue, *chikungunya* e *zika* têm em comum:\n\nI. O fato de serem transmitidas pelo mesmo agente (*Aedes aegypti*).\n\nII. A mesma família bacteriológica, da qual as três doenças são integrantes.\n\nIII. A transmissão do vírus ao feto em mulheres grávidas, gerando microcefalia nos recém-nascidos.\n\nIV. O tratamento à base de repouso, ingestão de líquidos e remédios que aliviam os sintomas (desde que não contenham AAS).\n\nÉ correto o que se complementa somente em",
+   "alternativas": [
+    "I, II e III.",
+    "I, apenas.",
+    "I e IV, apenas.",
+    "II e III, apenas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I e IV, apenas\":**\n- **I, certo:** as três são transmitidas pela picada do mosquito *Aedes aegypti*. A rigor, o mosquito é o **vetor** (o agente é o vírus), mas a banca usou “agente” no sentido de transmissor.\n- **II, errado:** são doenças causadas por vírus, não por bactérias. Dengue e zika são do gênero *Flavivirus* (família Flaviviridae); chikungunya é um *Alphavirus* (família Togaviridae).\n- **III, errado:** a microcefalia por transmissão ao feto foi associada ao vírus zika, não às três doenças.\n- **IV, certo:** não há remédio específico; o tratamento é de suporte (repouso, hidratação e sintomáticos), sem AAS, que aumenta o risco de sangramento na dengue.\n\n**As outras:**\n- *I, II e III*: inclui II e III, ambas erradas, e deixa de fora a IV.\n- *I, apenas*: esquece a IV, que está certa.\n- *II e III, apenas*: junta justamente as duas erradas.\n\n**Para memorizar:** *Aedes aegypti* = vetor das três; zika = microcefalia; nenhuma das três é bacteriana."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Dando seguimento à reforma política brasileira, em junho de 2015, a Câmara dos Deputados aprovou o fim da reeleição no Brasil para:",
+   "alternativas": [
+    "Presidente da República, apenas.",
+    "Presidente da República, governadores e prefeitos.",
+    "Todos os cargos públicos que necessitam de pleito popular.",
+    "Representantes dos poderes executivos e legislativos no Brasil."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Presidente da República, governadores e prefeitos\":** em 2015, na votação da proposta de emenda constitucional da reforma política, a Câmara dos Deputados aprovou o fim da reeleição para os cargos do **Poder Executivo**: presidente, governadores e prefeitos. Essa reeleição existe desde a Emenda Constitucional 16/1997. Os cargos do Legislativo (vereadores, deputados e senadores) sempre puderam ser disputados de novo sem limite, e a proposta não mexia neles.\n\n**As outras:**\n- *Presidente da República, apenas*: a proposta alcançava também governadores e prefeitos.\n- *Todos os cargos públicos que necessitam de pleito popular*: não incluía os cargos do Legislativo.\n- *Representantes dos poderes executivos e legislativos*: mesmo erro; o Legislativo ficou de fora.\n\n**Para memorizar:** a aprovação na Câmara não bastava; a proposta não chegou a ser promulgada, e a reeleição para o Executivo continuou valendo nas eleições seguintes."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Foi divulgado no início de 2016, o estudo *Economist Intelligence Unit (EIU)*, sob o título *A Democracia em Tempos de Ansiedade*, que buscou mensurar a “qualidade democrática” de 167 países, levando em conta um grupo de cinco fatores para determinar a classificação dos países: processo eleitoral e pluralismo, liberdades civis, funcionalidade governamental, participação política e cultura política. Com base nos pontos em cada quesito, os países foram classificados como “democracias completas”, “democracias falhas”, “regimes híbridos” e “regimes autoritários”. Levando-se em conta a atual situação política vivenciada pelo Brasil atualmente, é possível constatar que o país foi classificado como:",
+   "alternativas": [
+    "Regime híbrido.",
+    "Democracia falha.",
+    "Regime autoritário.",
+    "Democracia completa."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Democracia falha\":** o Índice de Democracia da *Economist Intelligence Unit* dá notas de 0 a 10 nos cinco quesitos e coloca cada país numa de quatro faixas: democracia plena (completa), democracia falha, regime híbrido e regime autoritário. No relatório de 2015 (“A Democracia em Tempos de Ansiedade”), o Brasil ficou entre as **democracias falhas**: eleições livres e liberdades civis respeitadas, mas notas mais fracas em cultura política, participação e funcionamento do governo.\n\n**As outras:**\n- *Regime híbrido*: faixa abaixo, de países com eleições pouco confiáveis e pressão sobre oposição e imprensa; não era o caso do Brasil.\n- *Regime autoritário*: a pior faixa, de países sem eleições livres nem pluralismo.\n- *Democracia completa*: exige notas altas em todos os quesitos; o Brasil não chegou a essa faixa.\n\n**Para memorizar:** régua da EIU pela nota geral (0 a 10): de 8 a 10 = plena; de 6 a menos de 8 = falha; de 4 a menos de 6 = híbrido; abaixo de 4 = autoritário."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Desde 2003, a Polícia Federal vem intensificando suas operações no Brasil, nomeando-as de forma ilustrativa a seus objetos de investigação ou em referência a fatos que a identifique, gerando diversas prisões e a elucidação de vários casos graves de corrupção no país. Atualmente, em curso, uma das operações mais importantes atende pelo nome de *Zelotes* e tem por objetivo desarticular:",
+   "alternativas": [
+    "Quadrilha especializada em tráfico de armas, drogas e assaltos.",
+    "Facções criminosas responsáveis por desvio de recursos públicos e lavagem de dinheiro em larga escala no Congresso Nacional.",
+    "Organizações criminosas que atuavam junto ao Conselho Administrativo de Recursos Fiscais (CARF), manipulando o trâmite de processos e o resultado de julgamentos.",
+    "Dois grupos criminosos que utilizavam cartões de créditos de terceiros, desviados das correspondências dos Correios, em estabelecimentos comerciais de várias capitais do país."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Organizações criminosas que atuavam junto ao Conselho Administrativo de Recursos Fiscais…\":** a Operação Zelotes, deflagrada pela Polícia Federal em março de 2015, investigou a compra de decisões no **CARF**, órgão do Ministério da Fazenda que julga, na esfera administrativa, os recursos de contribuintes contra autuações da Receita Federal. Conselheiros e intermediários manipulavam processos para anular ou reduzir dívidas tributárias de grandes empresas.\n\n**As outras:**\n- *Quadrilha especializada em tráfico de armas, drogas e assaltos*: não tem relação com a Zelotes.\n- *Facções criminosas responsáveis por desvio de recursos públicos… no Congresso Nacional*: não era o foco; a Zelotes tratava de julgamentos tributários.\n- *Dois grupos criminosos que utilizavam cartões de créditos de terceiros…*: descreve outro tipo de fraude, sem ligação com o CARF.\n\n**Para memorizar:** Zelotes = CARF = julgamentos tributários comprados. Não confunda com a Lava Jato, cujo centro era a Petrobras."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q26",
+   "numero": 26,
+   "secao": "Informática Básica",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "No departamento de informática de determinada Universidade Federal é realizado anualmente o inventário dos equipamentos pertencentes ao departamento. O servidor responsável pela execução do serviço encontrou dois modelos de equipamento que descreveu da seguinte forma:\n\n- *um modelo de gabinete que fica na horizontal. A maioria destes modelos é utilizada para colocar o próprio monitor sobre ele; e,*\n- *um modelo de gabinete que fica na posição vertical.*\n\nÉ correto afirmar que os modelos descritos pelo servidor são, respectivamente:",
+   "alternativas": [
+    "*Desktop* e Torre.",
+    "Compacto e *Desktop*.",
+    "Torre e Baia Horizontal.",
+    "Torre e Caixa Compacta."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Desktop e Torre\":** o gabinete **desktop** fica deitado (na horizontal) sobre a mesa, e era comum apoiar o monitor em cima dele. O gabinete **torre** fica em pé (na vertical), ao lado do monitor ou no chão, com variações como minitorre e torre média. Na ordem pedida (“respectivamente”): horizontal = desktop; vertical = torre.\n\n**As outras:**\n- *Compacto e Desktop*: o modelo vertical não é desktop, e “compacto” não descreve o horizontal com monitor em cima.\n- *Torre e Baia Horizontal*: inverte a ordem; “baia” é o compartimento interno onde se encaixam drives, não um tipo de gabinete.\n- *Torre e Caixa Compacta*: também inverte a ordem; o modelo horizontal descrito é o desktop.\n\n**Para memorizar:** desktop = deitado, monitor em cima; torre = em pé. A palavra “desktop” também nomeia a área de trabalho do sistema, mas aqui é o formato do gabinete."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q27",
+   "numero": 27,
+   "secao": "Informática Básica",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "Analise as afirmativas correlatas.\n\nI. “O *mouse* é um dispositivo típico de entrada.”\n\nPORQUE\n\nII. “Ele permite a inserção e a leitura de dados.”\n\nAssinale a alternativa correta.",
+   "alternativas": [
+    "A afirmativa I é verdadeira e a II, falsa.",
+    "A afirmativa I é falsa e a II, verdadeira.",
+    "As afirmativas I e II são verdadeiras, e a II é uma justificativa correta da I.",
+    "As afirmativas I e II são verdadeiras, mas a II não é uma justificativa correta da I."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A afirmativa I é verdadeira e a II, falsa\":** o mouse é um dispositivo típico de **entrada**: só envia ao computador movimentos e cliques. A afirmativa II diz que ele permite a inserção **e a leitura** de dados; ler dados (exibir ou devolver informação ao usuário, ou guardar e recuperar dados) seria papel de dispositivo de saída ou de armazenamento. Como o mouse não faz isso, a II é falsa, e não há justificativa a avaliar.\n\n**As outras:**\n- *A afirmativa I é falsa e a II, verdadeira*: inverte; a I é que está certa.\n- *As afirmativas I e II são verdadeiras, e a II é uma justificativa correta da I*: a II é falsa.\n- *As afirmativas I e II são verdadeiras, mas a II não é uma justificativa…*: mesmo erro; a II é falsa.\n\n**Para memorizar:** entrada: teclado, mouse, scanner, microfone. Saída: monitor, impressora, caixa de som. Entrada e saída: tela sensível ao toque, impressora multifuncional. Em questão do tipo “I PORQUE II”, avalie cada frase sozinha antes de pensar na justificativa."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q28",
+   "numero": 28,
+   "secao": "Informática Básica",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "Nos Sistemas Operacionais *Windows*, a área reservada para armazenar de forma temporária os dados copiados ou movidos pelo usuário, é conhecida como:",
+   "alternativas": [
+    "Área de colagem.",
+    "Área de transferência.",
+    "Área de memória *swap*.",
+    "Área de troca de arquivos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Área de transferência\":** no Windows, a **Área de transferência** (*clipboard*) guarda temporariamente o que o usuário copia (Ctrl+C) ou recorta (Ctrl+X), até que seja colado (Ctrl+V) em outro lugar. Ela fica na memória: ao copiar algo novo, o conteúdo anterior é substituído. Nas versões mais recentes do Windows, a tecla Windows+V abre o histórico da área de transferência.\n\n**As outras:**\n- *Área de colagem*: não existe com esse nome; colar é a ação, não o local.\n- *Área de memória swap*: *swap* é o espaço em disco usado como extensão da memória RAM (memória virtual; no Windows, o arquivo de paginação). Não guarda o que foi copiado.\n- *Área de troca de arquivos*: nome inventado, que lembra a tradução de swap.\n\n**Para memorizar:** copiar/recortar/colar → área de transferência. Memória virtual → swap ou arquivo de paginação."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q29",
+   "numero": 29,
+   "secao": "Informática Básica",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "“Um usuário utiliza a ferramenta *Microsoft Office Word* 2007 (configuração padrão) para produzir os seus trabalhos acadêmicos. Em um trabalho específico, foi exigido que todas as páginas devessem estar dispostas horizontalmente.” Para atender à especificação do trabalho, o usuário deve clicar na guia",
+   "alternativas": [
+    "Início e no grupo *Design* clicar na opção Paisagem.",
+    "Revisão e no grupo Formato clicar na opção Retrato.",
+    "Exibição e no grupo Opções de Página clicar na opção Horizontal.",
+    "*Layout* da Página e no grupo Orientação clicar na opção Paisagem."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Layout da Página e no grupo Orientação clicar na opção Paisagem\":** no Word 2007, a orientação fica na guia **Layout da Página**, no botão **Orientação**, com as opções Retrato (vertical) e **Paisagem** (horizontal). Paisagem deixa as páginas na horizontal, como o trabalho exige. A rigor, “Orientação” é um botão dentro do grupo Configurar Página, e não um grupo, mas esta é a única alternativa com a guia e a opção certas.\n\n**As outras:**\n- *Início e no grupo Design…*: a guia Início reúne Área de Transferência, Fonte, Parágrafo, Estilo e Edição; não tem grupo Design nem orientação de página.\n- *Revisão e no grupo Formato clicar na opção Retrato*: a guia Revisão cuida de ortografia, comentários e controle de alterações; e Retrato é a orientação vertical.\n- *Exibição e no grupo Opções de Página…*: a guia Exibição muda o modo de ver o documento, não a página; e não existe a opção “Horizontal”.\n\n**Para memorizar:** tudo o que muda a folha (margens, orientação, tamanho, colunas, quebras) está em Layout da Página; nas versões novas do Word a guia se chama só “Layout”."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q30",
+   "numero": 30,
+   "secao": "Informática Básica",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "Na ferramenta *Microsoft Office Excel* 2007 (configuração padrão), a função =MÉDIA(100;20) retorna o valor:",
+   "alternativas": [
+    "5.",
+    "20.",
+    "60.",
+    "100."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"60\":** a função MÉDIA devolve a média aritmética dos argumentos. Em =MÉDIA(100;20), o ponto e vírgula separa dois números, então:\n\n(100 + 20) ÷ 2 = 120 ÷ 2 = **60**.\n\nSe os argumentos fossem células, como =MÉDIA(A1:A10), o Excel faria a média dos números do intervalo, ignorando células vazias e com texto.\n\n**As outras:**\n- *5*: é 100 ÷ 20, uma divisão, não uma média.\n- *20*: é o menor dos valores (o que =MÍNIMO(100;20) daria).\n- *100*: é o maior dos valores (o que =MÁXIMO(100;20) daria).\n\n**Para memorizar:** no Excel em português, “;” separa argumentos e “:” indica intervalo (A1:A10 = de A1 até A10). MÉDIA soma e divide pela quantidade de números."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q31",
+   "numero": 31,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Nos termos do capítulo destinado à Administração Pública na Constituição Federal, é correto afirmar que",
+   "alternativas": [
+    "a lei estabelecerá os casos de contratação por tempo determinado não superior a dois anos.",
+    "é garantido ao servidor público o direito de associação sindical nos termos da autorização governamental.",
+    "as funções de confiança serão preenchidas por servidores de carreira conforme percentual previsto em lei.",
+    "o direito de greve dos servidores públicos será exercido nos termos e nos limites definidos em lei específica."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"o direito de greve dos servidores públicos será exercido nos termos e nos limites…\":** é o texto do art. 37, VII, da Constituição, na redação da Emenda Constitucional 19/1998. Essa lei específica até hoje não foi editada; por isso o STF, nos Mandados de Injunção 670, 708 e 712 (2007), mandou aplicar aos servidores, no que couber, a Lei 7.783/1989, que regula a greve no setor privado.\n\n**As outras:**\n- *a lei estabelecerá os casos de contratação por tempo determinado não superior a dois anos*: o art. 37, IX, prevê contratação por tempo determinado para atender necessidade temporária de excepcional interesse público, sem fixar dois anos.\n- *é garantido ao servidor público o direito de associação sindical nos termos da autorização governamental*: o art. 37, VI, garante a **livre** associação sindical, sem depender de autorização do governo.\n- *as funções de confiança serão preenchidas por servidores de carreira conforme percentual…*: funções de confiança são exercidas **exclusivamente** por ocupantes de cargo efetivo; o percentual mínimo previsto em lei vale para os **cargos em comissão** (art. 37, V).\n\n**Para memorizar:** função de confiança = só servidor efetivo. Cargo em comissão = livre nomeação, com percentual mínimo de servidores de carreira."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q32",
+   "numero": 32,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quanto ao controle da administração pública, a autotutela constitui espécie de controle:",
+   "alternativas": [
+    "Judicial.",
+    "Externo.",
+    "Legislativo.",
+    "Administrativo."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Administrativo\":** autotutela é o poder-dever da própria Administração de rever seus atos: **anular** os ilegais e **revogar** os inconvenientes ou inoportunos, sem precisar ir ao Judiciário (Súmula 473 do STF e art. 53 da Lei 9.784/1999). Como é a Administração controlando a si mesma, é controle **administrativo**, também chamado de controle interno.\n\n**As outras:**\n- *Judicial*: é exercido pelo Poder Judiciário, quando provocado; ele só anula atos ilegais, não revoga por conveniência.\n- *Externo*: é o controle feito por um Poder ou órgão sobre outro, como o Legislativo com o auxílio do Tribunal de Contas.\n- *Legislativo*: é o controle político e financeiro exercido pelo Congresso, Assembleias e Câmaras Municipais, com apoio dos Tribunais de Contas.\n\n**Para memorizar:** autotutela: a Administração anula (ilegal) e revoga (inconveniente). Judiciário: só anula. Revogação respeita direitos adquiridos."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q33",
+   "numero": 33,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "legislacao-etica",
+   "assunto": "principios-limpe",
+   "enunciado": "Nos termos do capítulo destinado à Administração Pública na Constituição Federal, é correto afirmar que o princípio da",
+   "alternativas": [
+    "++publicidade++ é absoluto e, portanto, não comporta exceções.",
+    "++razoabilidade++ encontra-se expresso na Constituição Federal.",
+    "++legalidade++ é hierarquicamente superior ao princípio da moralidade.",
+    "++eficiência++ aplica-se à sociedade de economia mista e à empresa pública."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"eficiência aplica-se à sociedade de economia mista e à empresa pública\":** o art. 37, *caput*, da Constituição manda a administração pública direta **e indireta** de qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios obedecer aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Sociedades de economia mista e empresas públicas fazem parte da administração indireta, então a eficiência, incluída pela EC 19/1998, vale para elas.\n\n**As outras:**\n- *publicidade é absoluto e, portanto, não comporta exceções*: admite exceções, como o sigilo imprescindível à segurança da sociedade e do Estado (art. 5º, XXXIII) e a defesa da intimidade (art. 5º, LX).\n- *razoabilidade encontra-se expresso na Constituição Federal*: é princípio implícito na CF; aparece expresso na Lei 9.784/1999 (art. 2º).\n- *legalidade é hierarquicamente superior ao princípio da moralidade*: não há hierarquia entre princípios; em conflito, faz-se a ponderação no caso concreto.\n\n**Para memorizar:** LIMPE = expressos no art. 37. Razoabilidade, proporcionalidade, supremacia do interesse público e autotutela = implícitos na CF."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q34",
+   "numero": 34,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Nos termos definidos no Art. 37, §6º da Constituição Federal, a teoria da responsabilidade civil do estado alcança:",
+   "alternativas": [
+    "Partidos políticos e sindicatos.",
+    "Qualquer sociedade de economia mista.",
+    "Todas as pessoas jurídicas de direito público.",
+    "Empresa pública que explora atividade econômica."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Todas as pessoas jurídicas de direito público\":** o art. 37, § 6º, da CF diz que as pessoas jurídicas de direito público e as de direito privado **prestadoras de serviços públicos** respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, com direito de regresso contra o agente em caso de dolo ou culpa. É a responsabilidade objetiva (teoria do risco administrativo): a vítima prova o dano e o nexo causal, sem precisar provar culpa. União, estados, DF, municípios, autarquias e fundações de direito público estão todos incluídos.\n\n**As outras:**\n- *Partidos políticos e sindicatos*: são pessoas jurídicas de direito privado e não prestam serviço público.\n- *Qualquer sociedade de economia mista*: só as que prestam serviço público; as que exploram atividade econômica respondem como empresas privadas.\n- *Empresa pública que explora atividade econômica*: fica fora pelo mesmo motivo; segue o regime das empresas privadas (art. 173, § 1º, II).\n\n**Para memorizar:** § 6º = direito público (sempre) + direito privado **prestador de serviço público**."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q35",
+   "numero": 35,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "Quanto às contratações públicas, é considerada característica geral dos “contratos administrativos típicos”:",
+   "alternativas": [
+    "Possibilidade de alteração unilateral da avença.",
+    "Impossibilidade de rescisão unilateral do ajuste.",
+    "Precedência dos interesses privados sobre o público.",
+    "Proibição de revisão do equilíbrio econômico financeiro."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Possibilidade de alteração unilateral da avença\":** contratos administrativos típicos têm **cláusulas exorbitantes**: prerrogativas que a Administração tem e que não existiriam num contrato entre particulares, porque o interesse público prevalece. Uma delas é alterar o contrato unilateralmente para adequá-lo ao interesse público, respeitados os direitos do contratado e o equilíbrio econômico-financeiro. Na época da prova, isso estava no art. 58, I, da Lei 8.666/1993; hoje está no art. 104, I, da Lei 14.133/2021.\n\n**As outras:**\n- *Impossibilidade de rescisão unilateral do ajuste*: é o contrário; a Administração pode rescindir (hoje, “extinguir”) unilateralmente nos casos da lei (Lei 8.666, art. 58, II; Lei 14.133, art. 104, II).\n- *Precedência dos interesses privados sobre o público*: o regime é de supremacia do interesse público.\n- *Proibição de revisão do equilíbrio econômico financeiro*: a lei garante a manutenção do equilíbrio, com revisão quando há alteração unilateral ou fato imprevisível.\n\n**Para memorizar:** cláusulas exorbitantes (art. 104 da Lei 14.133): modificar, extinguir, fiscalizar, aplicar sanções e ocupar provisoriamente bens e pessoal."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q36",
+   "numero": 36,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quanto às noções de bens públicos, os bens dominicais do Estado são também designados de bens",
+   "alternativas": [
+    "patrimoniais ou dominiais.",
+    "de uso especial ou patrimoniais.",
+    "de uso comum ou de uso especial.",
+    "dominiais ou de uso comum do povo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"patrimoniais ou dominiais\":** o Código Civil (art. 99) divide os bens públicos em três grupos: de uso comum do povo (rios, mares, ruas, praças), de uso especial (prédios usados no serviço público, como escolas e repartições) e **dominicais**, que integram o patrimônio das pessoas jurídicas de direito público sem destinação pública específica. Por isso a doutrina também os chama de bens **dominiais** ou **patrimoniais** (disponíveis). São os únicos que podem ser alienados, observadas as exigências da lei (art. 101).\n\n**As outras:**\n- *de uso especial ou patrimoniais*: uso especial é outra categoria (bem afetado a um serviço público).\n- *de uso comum ou de uso especial*: são justamente as duas categorias de bens afetados, diferentes dos dominicais.\n- *dominiais ou de uso comum do povo*: acerta “dominiais”, mas uso comum do povo é outra categoria.\n\n**Para memorizar:** bens afetados (uso comum e uso especial) são inalienáveis enquanto mantiverem essa qualificação (art. 100); dominicais, desafetados, podem ser vendidos na forma da lei."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q37",
+   "numero": 37,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Quanto às noções de serviços públicos, caducidade é a extinção da concessão por",
+   "alternativas": [
+    "mero interesse privado manifestado pelo concessionário.",
+    "mero interesse público manifestado pelo poder concedente.",
+    "descumprimento das regras contratuais por parte do concessionário.",
+    "descumprimento das regras contratuais por parte do poder concedente."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"descumprimento das regras contratuais por parte do concessionário\":** pela Lei 8.987/1995 (art. 38), **caducidade** é a extinção da concessão pelo poder concedente por inexecução total ou parcial do contrato pela concessionária: serviço inadequado, descumprimento de cláusulas, perda das condições para manter o serviço etc. Ela é declarada por decreto, depois de processo administrativo com direito de defesa.\n\n**As outras:**\n- *mero interesse privado manifestado pelo concessionário*: a concessionária não pode largar o serviço por vontade própria; o serviço não pode ser interrompido até decisão judicial.\n- *mero interesse público manifestado pelo poder concedente*: é a **encampação** (art. 37): retomada por interesse público, com lei autorizativa específica e indenização prévia.\n- *descumprimento das regras contratuais por parte do poder concedente*: gera a **rescisão** por iniciativa da concessionária, por ação judicial (art. 39).\n\n**Para memorizar:** Caducidade = Culpa da Concessionária. Encampação = intEresse público. Rescisão = culpa do poder concedente, pedida na Justiça."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q38",
+   "numero": 38,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "especificos",
+   "assunto": "etica-probidade",
+   "enunciado": "Quanto às noções de improbidade administrativa, o servidor federal que dolosamente atentar contra os princípios constitucionais, sem, contudo, causar dano ao erário, fica sujeito a",
+   "alternativas": [
+    "pena de advertência, sendo isento de multa civil.",
+    "suspensão dos direitos políticos de oito a dez anos.",
+    "proibição de contratar com o poder público por cinco anos.",
+    "multa civil de até cem vezes a remuneração do agente público."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"multa civil de até cem vezes a remuneração do agente público\":** na redação da Lei 8.429/1992 vigente em 2016, o art. 12, III, punia os atos que atentam contra os princípios da administração (art. 11) com: ressarcimento integral do dano, se houver; perda da função pública; suspensão dos direitos políticos de **três a cinco** anos; **multa civil de até cem vezes** o valor da remuneração do agente; e proibição de contratar com o poder público ou receber benefícios por **três** anos.\n\n**As outras:**\n- *pena de advertência, sendo isento de multa civil*: advertência não é sanção da lei de improbidade, e o art. 11 tinha multa civil.\n- *suspensão dos direitos políticos de oito a dez anos*: era a faixa do enriquecimento ilícito (art. 9º).\n- *proibição de contratar com o poder público por cinco anos*: era o prazo do dano ao erário (art. 10).\n\n**Para memorizar:** em 2016, a suspensão de direitos políticos era 8–10 / 5–8 / 3–5 anos (arts. 9º, 10 e 11). A Lei 14.230/2021 reescreveu o art. 12: para ofensa a princípios, hoje cabem multa de até 24 vezes a remuneração e proibição de contratar por até 4 anos, sem suspensão de direitos políticos."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q39",
+   "numero": 39,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "Quanto às noções de regime jurídico estatutário federal, a ação disciplinar contra servidor que pratica a infração de ausentar-se do serviço sem autorização da chefia imediata prescreve em:",
+   "alternativas": [
+    "Três anos.",
+    "Cinco anos.",
+    "Cento e vinte dias.",
+    "Cento e oitenta dias."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Cento e oitenta dias\":** ausentar-se do serviço durante o expediente, sem prévia autorização do chefe imediato, é proibição do art. 117, I, da Lei 8.112/1990, punida com **advertência** (art. 129). Pelo art. 142, a ação disciplinar prescreve em 5 anos para demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; em 2 anos para suspensão; e em **180 dias** para advertência. O prazo começa a correr da data em que o fato se tornou conhecido (art. 142, § 1º).\n\n**As outras:**\n- *Três anos*: não é prazo previsto no art. 142.\n- *Cinco anos*: é o prazo das penas mais graves (demissão, cassação, destituição).\n- *Cento e vinte dias*: não é prazo previsto no art. 142.\n\n**Para memorizar:** prescrição na Lei 8.112: 5 anos (demissão e afins) / 2 anos (suspensão) / 180 dias (advertência). Primeiro descubra a pena da infração, depois o prazo."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q40",
+   "numero": 40,
+   "secao": "Noções de Administração Pública",
+   "disciplina": "legislacao-etica",
+   "assunto": "etica-servico-publico",
+   "enunciado": "Quanto ao Decreto Federal nº 1171/94, a sanção aplicável por infração ao código de ética dos servidores federais limita-se a:",
+   "alternativas": [
+    "Multa.",
+    "Censura.",
+    "Suspensão.",
+    "Advertência."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Censura\":** o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto 1.171/1994), no item XXII, diz que a pena aplicável ao servidor pela Comissão de Ética é a de **censura**, com fundamentação em parecer assinado por todos os integrantes da comissão e ciência do faltoso. É sanção de natureza ética, que não se confunde com as penalidades disciplinares da Lei 8.112/1990.\n\n**As outras:**\n- *Multa*: não está prevista no código de ética.\n- *Suspensão*: é penalidade disciplinar da Lei 8.112 (art. 127), aplicada em sindicância ou processo disciplinar, não pela Comissão de Ética.\n- *Advertência*: também é penalidade da Lei 8.112, não do Decreto 1.171.\n\n**Para memorizar:** Comissão de Ética → só censura. Advertência, suspensão, demissão → Lei 8.112. Um mesmo fato pode gerar as duas apurações."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "“Norma que fixa as condições exigíveis para representação gráfica de projetos de arquitetura, visando à sua boa compreensão, mas que não abrange critérios de projeto, que são objeto de outras normas ou de legislação específicas de municípios ou estados.” Trata-se da:",
+   "alternativas": [
+    "NBR 5671/1990.",
+    "NBR 6492/1994.",
+    "NBR 13532/1995.",
+    "NBR 13531/1990."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"NBR 6492/1994\":** a NBR 6492 (Representação de projetos de arquitetura, 1994) fixava as condições para a representação gráfica dos projetos de arquitetura: formatos e escalas, convenções, conteúdo de plantas, cortes, fachadas e detalhes. Como diz o enunciado, ela não tratava de critérios de projeto, deixados para outras normas e para a legislação local. Em 2021 a norma foi revista e passou a se chamar “Documentação técnica para projetos arquitetônicos e urbanísticos — Requisitos”.\n\n**As outras:**\n- *NBR 5671/1990*: trata da participação dos intervenientes (contratante, autor do projeto, construtor, fiscal) em serviços e obras de engenharia e arquitetura.\n- *NBR 13532/1995*: trata da elaboração de projetos de edificações na parte de arquitetura, isto é, das etapas e do conteúdo do projeto, não da representação gráfica.\n- *NBR 13531/1990*: a NBR 13531 é de 1995 e trata das atividades técnicas da elaboração de projetos de edificações.\n\n**Para memorizar:** 6492 = como desenhar e documentar o projeto; 13531 e 13532 = etapas do projeto (depois substituídas pela série NBR 16636, a partir de 2017)."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "De acordo com a ABNT NBR 9050 são considerados “fatores de impedância”:\n\nI. Mobiliário urbano que interfira em fluxo de pedestres.\n\nII. Entradas de edificações junto ao alinhamento.\n\nIII. Vitrines junto ao alinhamento.\n\nIV. Vegetação e postes de sinalização mal localizados.\n\nEstá(ão) correta(s) a(s) alternativa(s)",
+   "alternativas": [
+    "I, II, III e IV.",
+    "IV, apenas.",
+    "I e IV, apenas.",
+    "II e III, apenas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, II, III e IV\":** a NBR 9050 define fatores de impedância como elementos ou condições que podem interferir no fluxo de pedestres e dá como exemplos o mobiliário urbano, as entradas de edificações junto ao alinhamento, as vitrines junto ao alinhamento, a vegetação e os postes de sinalização. Os quatro itens estão nessa lista. Esses fatores entram no dimensionamento da faixa livre pelo fluxo de pedestres (L = F/K + Σi ≥ 1,20 m): cada fator de impedância presente soma uma largura adicional *i*.\n\n**As outras:**\n- *IV, apenas*: deixa de fora mobiliário urbano, entradas e vitrines, que a norma cita expressamente.\n- *I e IV, apenas*: deixa de fora as entradas de edificações e as vitrines junto ao alinhamento.\n- *II e III, apenas*: deixa de fora o mobiliário urbano, a vegetação e os postes.\n\n**Para memorizar:** tudo o que tira largura útil da faixa livre ou faz gente parar (vitrine, entrada de prédio, banca, poste, árvore) é fator de impedância."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "A largura da calçada pode ser dividida em três faixas distintas de uso. Analise-as.\n\nI. ++Faixa de serviço++: serve para acomodar o mobiliário, os canteiros, as árvores e os postes de iluminação ou sinalização. Nas calçadas a serem construídas, recomenda-se reservar uma faixa de serviço com largura mínima de 0,70 m.\n\nII. ++Faixa livre ou passeio++: consiste no espaço de passagem da área pública para o lote. Esta faixa é possível apenas em calçadas com largura superior a 2,00 m. Serve para acomodar a rampa de acesso aos lotes lindeiros sob autorização do município para edificações já construídas.\n\nIII. ++Faixa de acesso++: destina-se exclusivamente à circulação de pedestres, deve ser livre de qualquer obstáculo, ter inclinação transversal até 3 %, ser contínua entre lotes e ter, no mínimo, 1,20 m de largura e 2,10 m de altura livre.\n\nEstá(ão) correta(s) a(s) afirmativa(s)",
+   "alternativas": [
+    "I, II e III.",
+    "I, apenas.",
+    "II, apenas.",
+    "I e III, apenas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I, apenas\":** a NBR 9050 divide a calçada em três faixas, e só o item I está certo: a **faixa de serviço** acomoda mobiliário, canteiros, árvores e postes, com largura mínima recomendada de 0,70 m nas calçadas novas. Os itens II e III trocaram os nomes:\n- o que o II descreve (passagem da área pública para o lote, só em calçadas com mais de 2,00 m, com a rampa de acesso aos lotes) é a **faixa de acesso**;\n- o que o III descreve (só para pedestres, sem obstáculos, inclinação transversal até 3%, mínimo de 1,20 m de largura e 2,10 m de altura livre) é a **faixa livre** ou passeio.\n\n**As outras:**\n- *I, II e III*: II e III estão com os nomes trocados.\n- *II, apenas*: o II está errado e o I, certo.\n- *I e III, apenas*: o III descreve a faixa livre, não a de acesso.\n\n**Para memorizar:** do meio-fio para o lote: serviço (≥ 0,70 m) → livre (≥ 1,20 m) → acesso (só se a calçada passar de 2,00 m)."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "Em paisagismo deve-se procurar trabalhar também com a preocupação voltada à qualidade de vida dos usuários das edificações, espaços públicos e mobiliário urbano. Para ser considerado acessível, é imprescindível que o mobiliário urbano atenda a determinadas condições, EXCETO:",
+   "alternativas": [
+    "Estar localizado junto a uma rota acessível.",
+    "Estar localizado fora da faixa livre para circulação de pedestres.",
+    "Ser projetado de modo a não possuir cantos vivos, arestas ou quaisquer outras saliências cortantes ou perfurantes.",
+    "Ser projetado como obstáculo suspenso, assim como as jardineiras em sacadas, esculturas sobre pedestais e luminárias pendentes."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ser projetado como obstáculo suspenso…\" é a resposta:** pela NBR 9050, o mobiliário urbano acessível deve, entre outras condições, ficar junto a uma rota acessível, fora da faixa livre de circulação, **não** se constituir em obstáculo suspenso e não ter cantos vivos, arestas ou saliências cortantes ou perfurantes. Jardineiras em sacadas, esculturas sobre pedestais e luminárias pendentes são exemplos de obstáculos suspensos: o volume fica no alto e a bengala da pessoa com deficiência visual não os detecta. Por isso a norma manda evitá-los ou sinalizá-los com piso tátil de alerta na projeção.\n\n**As outras (são condições exigidas):**\n- *Estar localizado junto a uma rota acessível*: para que o mobiliário possa ser alcançado e usado por todos.\n- *Estar localizado fora da faixa livre…*: a faixa livre deve ficar desimpedida para a circulação.\n- *Ser projetado de modo a não possuir cantos vivos…*: evita ferimentos em quem esbarra no mobiliário.\n\n**Para memorizar:** obstáculo suspenso é o que a bengala não acha: pouco volume embaixo e muito volume em cima."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "“Elemento construtivo para impedir a incidência direta da radiação solar sobre o interior de um edifício, de forma a evitar o aquecimento excessivo de determinadas áreas e ambientes.” Trata-se de:",
+   "alternativas": [
+    "Brise.",
+    "Cobogó.",
+    "Pergolado.",
+    "Abiombado."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Brise\":** o **brise-soleil** (quebra-sol) é um conjunto de lâminas fixas ou móveis, horizontais ou verticais, posto na fachada para barrar a radiação solar direta antes que ela chegue às aberturas. Assim evita o superaquecimento dos ambientes sem impedir a ventilação e a luz difusa. A posição das lâminas depende da fachada: no hemisfério sul, lâminas horizontais funcionam bem para o sol alto da fachada norte, e verticais (ou móveis) para o sol baixo de leste e oeste.\n\n**As outras:**\n- *Cobogó*: elemento vazado (cerâmica, concreto, vidro) usado em paredes para ventilar e filtrar a luz; sombreia um pouco, mas não é o elemento definido para barrar a radiação direta.\n- *Pergolado*: estrutura de vigas espaçadas sobre áreas externas, que dá sombra parcial e apoio a trepadeiras.\n- *Abiombado*: não é elemento construtivo de proteção solar; o termo remete a biombo (anteparo, divisória).\n\n**Para memorizar:** proteção solar eficiente é por fora do vidro; brise = quebra-sol."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "“É um tipo de cobertura muito explorado na construção civil, pois permite a entrada de luz natural de maneira mais intensa e uniforme que a obtida por janelas laterais, assim, os níveis de iluminação durante o dia podem ficar acima dos 500 lux. Permite também a ventilação natural dos ambientes e, dependendo da sua orientação, pode funcionar como captador de vento ou como extrator do ar quente. Sua forma é fundamental para induzir a pressão negativa na parte posterior, onde está a janela de saída. Essa pressão negativa provoca a extração do ar de dentro do ambiente. Dependendo da forma, pode-se incrementar o fluxo de ar em até 20%. Em alguns edifícios, onde existe o mesmo programa, com demandas similares de conforto térmico, iluminação natural e ventilação, observa-se uma constante evolução no desenho da ‘cobertura’ com o intuito de otimizar seu funcionamento.” Trata-se de cobertura tipo:",
+   "alternativas": [
+    "*Shed*.",
+    "Cúpula.",
+    "Claraboia.",
+    "Torre de vento."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Shed\":** o **shed** é a cobertura em “dente de serra”: uma água inclinada e uma face quase vertical com aberturas. Essas aberturas zenitais laterais distribuem a luz natural de modo mais uniforme que as janelas comuns, e, conforme a orientação, funcionam como captadoras de vento ou como saída do ar quente, aproveitando a pressão negativa do lado oposto ao vento. O enunciado lembra os hospitais da Rede Sarah, de João Filgueiras Lima (Lelé), em que o desenho dos sheds foi aperfeiçoado de uma obra para a outra.\n\n**As outras:**\n- *Cúpula*: cobertura em forma de meia esfera; pode ter abertura no topo, mas não tem o funcionamento de captação e extração descrito.\n- *Claraboia*: abertura envidraçada na cobertura para iluminar; em geral não é desenhada para captar vento.\n- *Torre de vento*: elemento vertical que capta o vento para ventilar (tradição do Oriente Médio); não é cobertura de iluminação.\n\n**Para memorizar:** shed = luz zenital uniforme + ventilação por diferença de pressão. Abertura voltada para o sul, no hemisfério sul, dá luz com pouco sol direto."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Antes de iniciar qualquer construção, os profissionais responsáveis pela obra devem considerar diversos aspectos, principalmente em relação à legislação. Inicialmente, deve-se elaborar um Projeto Básico, que consiste na reunião de especificações do empreendimento, a fim de conseguir a liberação do alvará que permitirá sua construção. O Projeto Básico deve conter:\n\nI. Os documentos da licença ambiental para a construção.\n\nII. Os projetos de arquitetura e engenharia com informações sobre estudos de viabilidade, especificações de serviços e materiais que serão utilizados.\n\nIII. Orçamento detalhado da obra e sua programação.\n\nIV. Citação das leis pertinentes ao uso da nova edificação.\n\nV. Relatório detalhado com as especificações de segurança do trabalho durante a execução da obra.\n\nEstão corretas as afirmativas",
+   "alternativas": [
+    "I, II, III, IV e V.",
+    "II e IV, apenas.",
+    "I, II e III, apenas.",
+    "II, III e V, apenas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e III, apenas\":** o projeto básico reúne os elementos necessários e suficientes para caracterizar a obra: as soluções de arquitetura e engenharia apoiadas em estudos de viabilidade, com especificação de serviços e materiais (II); o adequado tratamento do impacto ambiental, com as licenças cabíveis (I); e o orçamento detalhado do custo da obra, com sua programação (III). É a ideia da definição de projeto básico da Lei 8.666/1993 (art. 6º, IX), vigente na prova, mantida na Lei 14.133/2021 (art. 6º, XXV).\n\n**As outras:**\n- *I, II, III, IV e V*: IV e V não fazem parte do projeto básico. Citar leis não é conteúdo do projeto, e as medidas de segurança do trabalho ficam num programa próprio da obra exigido pela NR-18 (o PCMAT na época; hoje, o PGR).\n- *II e IV, apenas*: deixa de fora a licença ambiental e o orçamento e inclui o IV.\n- *II, III e V, apenas*: deixa de fora a licença ambiental e inclui o V.\n\n**Para memorizar:** projeto básico = solução técnica + especificações + impacto ambiental + orçamento detalhado. É o que permite orçar, licitar e licenciar a obra."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Analise as afirmativas a seguir.\n\nI. ++Cortes++ são movimentações de terra ou rocha cuja execução exige escavação do material que compõe o terreno natural no interior dos limites das seções projetadas.\n\nII. ++Aterros++ são áreas implantadas com o depósito e a compactação de materiais provenientes de cortes ou empréstimos, no interior dos limites das seções de projetos (*off sets*).\n\nIII. ++Corpo do aterro++ é a parte do aterro constituída de material selecionado, situado entre o greide final da terraplenagem e o corpo do aterro.\n\nIV. ++*Off sets*++ são linhas de estacas demarcadoras da área de execução dos serviços.\n\nV. ++Camada final++ é a parte do aterro situado entre o terreno natural até 0.60 m abaixo da cota correspondente ao greide da terraplenagem.\n\nVI. ++Rachão++ é a camada final de terraplenagem executada com pedras provenientes do britador primário, espalhada mecanicamente e comprimida. Sobre essa camada será espalhado pó de pedra ou areia e vibrados até o completo preenchimento dos vazios, alcançando-se o embricamento do material pétreo.\n\nEstão corretas as afirmativas",
+   "alternativas": [
+    "I, II, III, IV, V e VI.",
+    "I e II, apenas.",
+    "II, III e VI, apenas.",
+    "I, II, IV e VI, apenas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"I, II, IV e VI, apenas\":** I, II, IV e VI trazem as definições usuais das especificações de terraplenagem: corte é a escavação do terreno natural dentro das seções projetadas; aterro é o depósito e a compactação de material de cortes ou empréstimos dentro das seções, cujos limites são os *off sets*; *off sets* são as linhas de estacas que demarcam a área de execução; e rachão é a camada de pedras do britador primário, espalhada e comprimida, com os vazios preenchidos por pó de pedra ou areia. Os itens III e V **trocaram** as definições: o **corpo do aterro** vai do terreno natural até 0,60 m abaixo do greide de terraplenagem; a **camada final** é a parte de material selecionado entre o corpo do aterro e o greide final.\n\n**As outras:**\n- *I, II, III, IV, V e VI*: inclui III e V, que estão com as definições trocadas.\n- *I e II, apenas*: deixa de fora IV e VI, que estão corretas.\n- *II, III e VI, apenas*: inclui o III, errado, e deixa de fora I e IV.\n\n**Para memorizar:** de baixo para cima: terreno natural → corpo do aterro → camada final (os últimos 0,60 m, material selecionado) → greide de terraplenagem."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licenciamento-ambiental",
+   "enunciado": "“Além dos projetos de arquitetura e engenharia com suas especificações e detalhes, o licenciamento ambiental é também imprescindível para a construção de um empreendimento. O objetivo do licenciamento é realizado pelo órgão ambiental competente, que pode ser municipal, estadual ou federal e tem como objetivo avaliar o tipo de _______________ que o empreendimento causará na natureza, como a geração de materiais _______________, emissões de _______________, risco de _______________ ou _______________.” Assinale a alternativa que completa correta e sequencialmente a afirmativa anterior.",
+   "alternativas": [
+    "problema / perigosos / gases / acidentes / perigo",
+    "melhoria / ativos / poeiras / incidentes / problemas",
+    "impacto / poluentes / ruídos / incêndios / explosões",
+    "modificação / perniciosos / poluentes / agravos / doenças"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"impacto / poluentes / ruídos / incêndios / explosões\":** o licenciamento ambiental avalia o **impacto** que o empreendimento causará no meio ambiente: geração de materiais **poluentes** (resíduos, efluentes), emissões de **ruídos** (e também de gases e poeira) e riscos de **incêndios** ou **explosões**. É o procedimento pelo qual o órgão ambiental competente, municipal, estadual ou federal, autoriza atividades efetiva ou potencialmente poluidoras (Resolução CONAMA 237/1997; competências na Lei Complementar 140/2011).\n\n**As outras:**\n- *problema / perigosos / gases / acidentes / perigo*: o termo técnico é impacto, não “problema”, e “risco de perigo” é redundante.\n- *melhoria / ativos / poeiras / incidentes / problemas*: o licenciamento mira os impactos adversos, não melhorias; “materiais ativos” não tem sentido aqui.\n- *modificação / perniciosos / poluentes / agravos / doenças*: “emissões de poluentes” até cabe, mas o termo-chave da primeira lacuna é impacto e o resto da sequência não fecha.\n\n**Para memorizar:** o licenciamento ambiental clássico tem três licenças: prévia (LP), de instalação (LI) e de operação (LO), previstas no art. 8º da Resolução CONAMA 237/1997."
+  },
+  {
+   "id": "idecan-2016-ufpb-arquiteto-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "A geração das formas arquitetônicas na organização espacial e sua relação com a tecnologia pode ser classificada em alguns “modos” distintos, EXCETO:",
+   "alternativas": [
+    "Icônica.",
+    "Sintética.",
+    "Canônica.",
+    "Pragmática."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Sintética\" é a resposta:** Geoffrey Broadbent (*Design in Architecture*, 1973) classificou os modos de gerar a forma arquitetônica em quatro: **pragmático** (a forma nasce dos materiais e técnicas disponíveis, por tentativa e erro), **icônico** (repete tipos e modelos consagrados), **analógico** (tira a forma, por analogia, de outra fonte, como a natureza ou uma obra de arte) e **canônico** (gera a forma por regras geométricas, malhas e proporções). “Sintética” não faz parte dessa classificação.\n\n**As outras (são modos de Broadbent):**\n- *Icônica*: repetição de uma forma já consagrada, que a cultura reconhece como “a casa”, “a igreja”.\n- *Canônica*: geração por traçados reguladores, módulos e proporções, como o Modulor de Le Corbusier.\n- *Pragmática*: experimentação direta com materiais e técnicas, como nas construções vernaculares.\n\n**Para memorizar:** os quatro modos de Broadbent formam “PICA”: Pragmático, Icônico, Canônico e Analógico."
+  }
+ ]
+}
