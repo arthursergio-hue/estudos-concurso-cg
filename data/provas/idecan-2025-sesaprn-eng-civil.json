@@ -1,0 +1,1111 @@
+{
+ "id": "idecan-2025-sesaprn-eng-civil",
+ "titulo": "Engenheiro Civil — SESAP-RN",
+ "banca": "IDECAN",
+ "ano": 2025,
+ "orgao": "Secretaria de Saúde Pública do Rio Grande do Norte",
+ "cargo": "Engenheiro Civil",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2025-sesap-rn-engenheiro-civil",
+ "duracaoMin": 300,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto para as questões de 1 a 10 — Lobo Bobo",
+   "fonte": "João Gilberto",
+   "numerarLinhas": false,
+   "conteudo": "Era uma vez um lobo mau\\\nQue resolveu jantar alguém\\\nEstava sem vintém\\\nMas arriscou\\\nE logo se estrepou\n\nUm chapeuzinho de maiô\\\nOuviu buzina e não parou\\\nMas lobo mau insiste\\\nE faz cara de triste\\\nMas chapeuzinho ouviu\\\nOs conselhos da vovó\\\nDizer que não pra lobo\\\nQue com lobo não sai só\n\nLobo canta, pede\\\nPromete tudo, até amor\\\nE diz que fraco de lobo\\\nÉ ver um chapeuzinho de maiô\n\nMas chapeuzinho percebeu\\\nQue o lobo mau se derreteu\\\nPra ver você que lobo\\\nTambém faz papel de bobo\n\nSó posso lhe dizer\\\nChapeuzinho agora traz\\\nO lobo na coleira\\\nQue não janta nunca mais\n\nLobo bobo"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em “Mas chapeuzinho percebeu que o lobo mau se derreteu”, é correto afirmar que a personagem “lobo mau” se",
+   "alternativas": [
+    "liquefez.",
+    "dissipou.",
+    "comoveu.",
+    "consumiu.",
+    "apaixonou."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"apaixonou.\":** \"derreter-se\", em sentido figurado, é amolecer de afeto, render-se a alguém. O contexto da canção mostra que se trata de paixão: o lobo \"canta, pede / Promete tudo, até amor\" e confessa que seu \"fraco\" é \"ver um chapeuzinho de maiô\". No fim, a chapeuzinho \"traz o lobo na coleira\": o conquistador foi conquistado.\n\n**As outras:**\n- *liquefez.*: é o sentido literal de derreter (passar do sólido ao líquido), impossível para a personagem.\n- *dissipou.*: dissipar-se é desaparecer, espalhar-se, como a neblina; o lobo não sumiu, ficou preso à chapeuzinho.\n- *comoveu.*: \"derreter-se\" pode até significar comover-se, mas o texto vai além de uma emoção passageira: há promessa de amor e entrega.\n- *consumiu.*: consumir-se é desgastar-se, acabar aos poucos; nada no texto fala em sofrimento ou ruína.\n\n**Para memorizar:** em questão de sentido figurado, vence o sentido que o contexto confirma. Aqui as pistas são \"promete amor\", \"fraco de lobo\" e \"coleira\"."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "A oração “E logo se estrepou”, presente em “Mas arriscou/E logo se estrepou” tem valor semântico de",
+   "alternativas": [
+    "finalidade.",
+    "adversidade.",
+    "causalidade.",
+    "consequência.",
+    "proporcionalidade."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"consequência.\":** o **e** liga duas ações numa relação de causa e efeito: o lobo arriscou (tentou \"jantar alguém\" mesmo \"sem vintém\") e, como resultado, \"logo se estrepou\", isto é, deu-se mal. O advérbio \"logo\" reforça que o fracasso veio em seguida e por causa da tentativa. Dá para reescrever com valor consecutivo: \"Arriscou e, por isso, logo se estrepou\".\n\n**As outras:**\n- *finalidade.*: indicaria objetivo (\"para que…\"); ninguém arrisca com o fim de se estrepar.\n- *adversidade.*: seria oposição (\"mas\", \"porém\"). A oposição está em \"Mas arriscou\", que contrasta com \"Estava sem vintém\"; o \"e\" seguinte encadeia ação e resultado.\n- *causalidade.*: a causa é \"arriscou\"; a oração \"E logo se estrepou\" traz o efeito.\n- *proporcionalidade.*: exigiria \"à medida que\" ou \"quanto mais… mais\"; não há gradação.\n\n**Para memorizar:** o \"e\" pode somar (\"Cantou e dançou\"), opor (\"Estudou e não passou\") ou indicar consequência (\"Choveu muito e a rua alagou\"). Leia a relação entre as ações."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Na estrofe “Lobo canta, pede /Promete tudo, até amor/ E diz que fraco de lobo /É ver um chapeuzinho de maiô”, o “**++E++**” funciona, semanticamente, do mesmo modo que",
+   "alternativas": [
+    "o E, em “Mas se arriscou/ E logo se estrepou”.",
+    "o E, em “Mas lobo mau insiste/E faz cara de triste”.",
+    "o MAS, em “E faz cara de triste /Mas chapeuzinho ouviu”.",
+    "o E, em “Um chapeuzinho de maiô/Ouviu buzina e não parou”.",
+    "o MAS, em “Mas chapeuzinho percebeu/ Que o lobo mau se derreteu”."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"o E, em “Mas lobo mau insiste/E faz cara de triste”.\":** na estrofe do enunciado, o **e** apenas acrescenta mais uma ação às anteriores: o lobo canta, pede, promete **e** diz. É o valor **aditivo**. O mesmo acontece em \"insiste **e** faz cara de triste\": o lobo insiste e, além disso, faz cara de triste.\n\n**As outras:**\n- *o E, em “Mas se arriscou/ E logo se estrepou”.*: aqui o \"e\" introduz o resultado da ação anterior; tem valor de consequência.\n- *o MAS, em “E faz cara de triste /Mas chapeuzinho ouviu”.*: \"mas\" é adversativo; opõe a insistência do lobo à recusa da chapeuzinho.\n- *o E, em “Um chapeuzinho de maiô/Ouviu buzina e não parou”.*: o \"e\" equivale a \"mas\" (ouviu a buzina, mas não parou); valor adversativo.\n- *o MAS, em “Mas chapeuzinho percebeu/ Que o lobo mau se derreteu”.*: de novo \"mas\" adversativo, marcando a virada da história.\n\n**Para memorizar:** faça o teste da troca. Se o \"e\" vira \"mas\" sem mudar o sentido, é adversativo; se vira \"por isso\", é consecutivo; se só cabe \"e também\", é aditivo."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Escolha a única alternativa na qual as palavras estão acentuadas de acordo com a regra de acentuação de maiô.",
+   "alternativas": [
+    "Você e Até.",
+    "Até e Vintém.",
+    "Alguém e Só.",
+    "Vovó e Vintém.",
+    "Você e Alguém."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Provável motivo: nenhuma leitura do comando leva a uma única resposta. \"Maiô\" é **oxítona** terminada em **o**, e a regra das oxítonas acentua as terminadas em **a(s), e(s), o(s), em, ens**. Pela mesma regra levam acento você, até, vovó, vintém e alguém; assim, as duplas \"Você e Até\", \"Até e Vintém\", \"Vovó e Vintém\" e \"Você e Alguém\" servem. Só \"Alguém e Só\" foge, porque \"só\" é **monossílabo tônico**, que segue regra própria (acentuam-se os terminados em a, e, o: pá, pé, nó). Já se a regra for lida de forma estrita (oxítona terminada em **o**), nenhuma dupla serve inteira.\n\nSobre o assunto: oxítonas acentuadas: sofá, café, cipó, também, parabéns. As paroxítonas seguem a lógica inversa: não se acentuam as terminadas em a, e, o, em (\"casa\", \"item\"), e sim as terminadas em l, n, r, x, ps, ã, ão, i, us, um e ditongo (\"fácil\", \"hífen\", \"açúcar\", \"tórax\", \"órgão\", \"júri\", \"vírus\", \"álbum\")."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Na primeira estrofe do texto, lê-se que “Era uma vez **um lobo** mau”; na quarta estrofe, lê-se “Mas chapeuzinho percebeu/ Que **o lobo** mau se derreteu”. A mudança de artigo – de UM para O – indica que a construção da referência discursiva percorreu um trajeto textual",
+   "alternativas": [
+    "do desprezo ao apreço.",
+    "do hiperônimo ao hipônimo.",
+    "da heteronímia à homonímia.",
+    "do não-confiável ao confiável.",
+    "da genericidade à individuação."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"da genericidade à individuação.\":** o artigo **indefinido** (\"um lobo\") apresenta um referente novo, ainda não identificado: um lobo qualquer. Depois que ele entra no texto, é retomado com o artigo **definido** (\"o lobo\"), que o trata como conhecido, aquele lobo específico da história. Esse caminho do genérico ao particular é a progressão referencial típica: introduzir com \"um\", retomar com \"o\".\n\n**As outras:**\n- *do desprezo ao apreço.*: o artigo não expressa juízo de valor sobre o lobo.\n- *do hiperônimo ao hipônimo.*: seria trocar um termo geral por um específico (animal → lobo); a palavra \"lobo\" se repete, só o artigo muda.\n- *da heteronímia à homonímia.*: heterônimos são formas diferentes para os gêneros (boi/vaca); homônimos têm a mesma forma e sentidos diferentes. Nada disso ocorre.\n- *do não-confiável ao confiável.*: a troca de artigo não fala da confiança no lobo, e sim do grau de definição do referente.\n\n**Para memorizar:** \"um\" introduz, \"o\" retoma: \"Era uma vez **um** rei… **O** rei tinha três filhas.\""
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "A canção LOBO BOBO dialoga com o conto CHAPEUZINHO VERMELHO, na qual a personagem central, Chapeuzinho Vermelho, desobedece aos conselhos de sua avó, optando por seguir um caminho perigoso que a coloca frente a frente com o perigo: o Lobo Mau. Esse diálogo entre os dois textos promove uma",
+   "alternativas": [
+    "subversão do sentido do texto já conhecido, suscitando crítica.",
+    "ressignificação de texto já conhecido, ambientando-o em novo contexto.",
+    "reescrita do assunto do texto já conhecido, produzindo uma nova linguagem.",
+    "reprodução da estrutura do texto já conhecido, gerando uma alusão estrutural.",
+    "referência ao texto já conhecido, anunciando a atualidade do texto a que se alude."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"ressignificação de texto já conhecido, ambientando-o em novo contexto.\":** a canção aproveita personagens e situação do conto (lobo, chapeuzinho, conselhos da vovó, perigo) e os leva para outro cenário: a chapeuzinho está \"de maiô\", ouve \"buzina\", o lobo \"canta\" e promete amor. Vira uma paquera moderna, no clima da Bossa Nova. Nesse novo contexto, o conto ganha outro sentido: no fim, quem é capturado é o lobo. É **intertextualidade** por ressignificação.\n\n**As outras:**\n- *subversão do sentido do texto já conhecido, suscitando crítica.*: há uma inversão bem-humorada, mas a canção não critica o conto nem a sociedade.\n- *reescrita do assunto do texto já conhecido, produzindo uma nova linguagem.*: o enredo não é reescrito (não há ida à casa da vovó), e a linguagem é a coloquial da canção.\n- *reprodução da estrutura do texto já conhecido, gerando uma alusão estrutural.*: tirando o \"Era uma vez\", a canção não segue a estrutura do conto.\n- *referência ao texto já conhecido, anunciando a atualidade do texto a que se alude.*: a canção não diz que o conto continua atual; ela o transforma.\n\n**Para memorizar:** levar personagens conhecidos para um cenário novo, mudando o sentido, é ressignificar. Se a intenção é criticar ou ridicularizar, a banca costuma falar em paródia."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "No texto o lobo é caracterizado de “bobo”; a voz que atribui esse adjetivo ao lobo é masculina ou feminina? E o que significa ser o lobo um bobo? Indique a opção que responda às ponderações enunciadas.",
+   "alternativas": [
+    "A voz é masculina, é do narrador, que avalia negativamente o lobo ter perdido sua liberdade de caça.",
+    "A voz é feminina, é da chapeuzinho, que se vangloria de ter domado o lobo.",
+    "A voz é feminina, é da vovó, que se orgulha em ver o resultado da neta ter ouvido seus conselhos.",
+    "A voz é masculina, é do lobo, que cai em si, reconhecendo agora estar preso a uma única chapeuzinho.",
+    "A voz é masculina, é do intérprete João Gilberto, que satiriza o comportamento de homens que se deixaram aprisionar a um único relacionamento."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A voz é masculina, é do narrador, que avalia negativamente…\":** quem chama o lobo de \"bobo\" é o **narrador**, a voz que conta a história desde o \"Era uma vez\" e conversa com um interlocutor (\"Pra ver você que lobo / Também faz papel de bobo\", \"Só posso lhe dizer\"). Ele olha a história do lado do lobo, como um colega conquistador que lamenta o desfecho: o lobo, que saía para \"jantar alguém\", agora vive \"na coleira\" e \"não janta nunca mais\". Ser bobo é ter perdido a liberdade de caçar, isto é, de conquistar.\n\n**As outras:**\n- *A voz é feminina, é da chapeuzinho…*: a chapeuzinho é personagem; ela não fala na canção.\n- *A voz é feminina, é da vovó…*: a vovó só aparece pelos conselhos que o narrador menciona.\n- *A voz é masculina, é do lobo, que cai em si…*: o lobo é tratado em terceira pessoa (\"O lobo na coleira\"); não é ele quem fala.\n- *A voz é masculina, é do intérprete João Gilberto…*: não se confunde a voz do texto com o cantor. A canção é de Carlos Lyra e Ronaldo Bôscoli; João Gilberto a gravou.\n\n**Para memorizar:** narrador e eu lírico são vozes do texto; autor e intérprete são pessoas reais. \"Quem fala\" se descobre pelas marcas do texto (pessoa do verbo, interlocutor)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "No trecho “Lobo canta, pede/ Promete tudo até amor/ E **++diz++** que fraco de lobo/ É ver um chapeuzinho de maiô”. Indique a opção que destaca a mesma regência do verbo em destaque no trecho da música.",
+   "alternativas": [
+    "O professor **insistiu** com que os alunos estudassem para a prova.",
+    "Paris, que é a capital da França, é **conhecida** por seus cafés encantadores.",
+    "Psicólogo afirma que maioria das pessoas **lida** com sentimentos difíceis.",
+    "Suspensa pela Anac, Empresa é 4ª maior e **perdeu** espaço após acidente.",
+    "Bolsas dos EUA **pioram** após novas tarifas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Suspensa pela Anac, Empresa é 4ª maior e perdeu espaço após acidente.\":** no trecho da música, **dizer** é transitivo direto: o lobo diz **algo**, e esse algo é a oração \"que fraco de lobo é ver um chapeuzinho de maiô\" (oração subordinada substantiva objetiva direta), ligada sem preposição. Em \"perdeu espaço\", **perder** também é transitivo direto: perdeu o quê? \"espaço\", objeto direto sem preposição.\n\n**As outras:**\n- *O professor insistiu com que os alunos estudassem para a prova.*: insistir é transitivo indireto; o complemento vem com preposição (\"insistir em\", \"insistir com\").\n- *Paris, que é a capital da França, é conhecida por seus cafés encantadores.*: \"conhecida\" é particípio com valor de adjetivo, em predicativo; \"por seus cafés\" indica o motivo, não é objeto.\n- *Psicólogo afirma que maioria das pessoas lida com sentimentos difíceis.*: lidar é transitivo indireto: lida **com** algo.\n- *Bolsas dos EUA pioram após novas tarifas.*: piorar, aqui, é intransitivo; \"após novas tarifas\" é adjunto adverbial de tempo.\n\n**Para memorizar:** pergunte ao verbo \"o quê?\". Se o complemento vem sem preposição obrigatória, o verbo é transitivo direto."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa na qual o uso da palavra SÓ apresente o mesmo sentido que em “Que com lobo não sai só”.",
+   "alternativas": [
+    "Só falta um mês para nossa viagem.",
+    "Só sei que a estrada estava muito congestionada.",
+    "Ela permaneceu só ao longo da festa.",
+    "Ela correu bastante, só que outra competidora venceu a prova.",
+    "Só mesmo Maria para aguentar João!"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ela permaneceu só ao longo da festa.\":** em \"Que com lobo não sai só\", **só** é **adjetivo** e significa **sozinha**: o conselho da vovó é não sair sozinha com o lobo. Em \"Ela permaneceu só\", o sentido é o mesmo: permaneceu sozinha. Nos dois casos \"só\" se refere a um ser e pode ir ao plural (\"Elas permaneceram sós\"), prova de que é adjetivo.\n\n**As outras:**\n- *Só falta um mês para nossa viagem.*: \"só\" = apenas, somente; é advérbio (palavra de exclusão ou limitação) e não varia.\n- *Só sei que a estrada estava muito congestionada.*: de novo \"apenas, somente\".\n- *Ela correu bastante, só que outra competidora venceu a prova.*: \"só que\" é locução conjuntiva adversativa, equivalente a \"mas\".\n- *Só mesmo Maria para aguentar João!*: \"só\" = somente, com valor de exclusão e ênfase (\"ninguém além de Maria\").\n\n**Para memorizar:** troque por \"sozinho\" ou \"sozinha\". Se couber, \"só\" é adjetivo e varia (sós); se couber \"somente\", é advérbio e não varia."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "A estrutura sintática de uma frase pode ser representada esquematicamente, pelo uso de colchetes que determinam os níveis hierárquicos dos constituintes - sintagmas. Considerando que a frase “Também faz papel de bobo” apresenta os seguintes constituintes, Sintagma Verbal (SV), Sintagma Nominal (SN), Sintagma Preposicionado (SP) e Sintagma Adverbial (SADV), a representação correta da estrutura dessa frase está presente na alternativa:",
+   "alternativas": [
+    "[SV[SADV][SN][SP[SN]]]",
+    "[SADV[SV[SN[SP]]SN]]]]",
+    "[[SADV]SV[SN[SP[SN]]]]",
+    "[SN[SP[SN]]SV[SADV]]",
+    "[SADV][SV][SN][SP][SN]"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"[[SADV]SV[SN[SP[SN]]]]\":** a frase tem sujeito oculto (o lobo) e se divide no advérbio **\"Também\"** (SADV) e no predicado **\"faz papel de bobo\"** (SV). Dentro do SV, o verbo \"faz\" tem como complemento o SN **\"papel de bobo\"**; dentro desse SN, o núcleo \"papel\" é especificado pelo SP **\"de bobo\"**; e o SP é formado pela preposição \"de\" + o SN **\"bobo\"**. Os colchetes encaixados mostram essa hierarquia: SADV à parte; SV contendo SN, que contém SP, que contém SN.\n\n**As outras:**\n- *[SV[SADV][SN][SP[SN]]]*: põe o SP solto no SV, ao lado do SN; mas \"de bobo\" pertence a \"papel\" (papel de quê?), então fica dentro do SN.\n- *[SADV[SV[SN[SP]]SN]]]]*: coloca o SV dentro do advérbio e deixa um SN fora do SP; os colchetes nem fecham de forma coerente.\n- *[SN[SP[SN]]SV[SADV]]*: começa com um SN sujeito que não aparece na frase (o sujeito é oculto) e põe o advérbio no fim, dentro do SV.\n- *[SADV][SV][SN][SP][SN]*: lista os constituintes lado a lado, sem a hierarquia que o enunciado pede.\n\n**Para memorizar:** na representação por colchetes, o complemento fica dentro do termo que ele completa: \"de bobo\" dentro de \"papel de bobo\", que fica dentro de \"faz papel de bobo\"."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q11",
+   "numero": 11,
+   "secao": "Legislação do SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A construção do Sistema Único de Saúde (SUS) representou um marco na organização do sistema de saúde no Brasil, resultado de um processo histórico iniciado na década de 1980. Considerando a evolução histórica do sistema de saúde brasileiro e os princípios, diretrizes e arcabouço legal que fundamentam o SUS, assinale a alternativa correta.",
+   "alternativas": [
+    "A Reforma Sanitária foi implementada integralmente durante a década de 1970, estabelecendo o SUS como modelo de saúde universal e gratuito.",
+    "A criação do SUS foi fundamentada na Lei Orgânica da Saúde (Leis nº 8.080/1990 e nº 8.142/1990), que regulamentam aspectos como a organização do sistema e a participação social.",
+    "A Constituição Federal de 1988 oficializou o SUS, que se baseia nos princípios de descentralização, universalidade e integralidade, mas não aborda a participação comunitária.",
+    "O SUS é sustentado exclusivamente por recursos federais, sem a necessidade de financiamento estadual ou municipal, pois o modelo é centralizado.",
+    "A universalidade do SUS garante o acesso somente a serviços básicos de saúde, excluindo atendimentos de média e alta complexidade."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A criação do SUS foi fundamentada na Lei Orgânica da Saúde…\":** a **Constituição de 1988** criou o SUS (arts. 196 a 200), e a chamada **Lei Orgânica da Saúde** é formada por duas leis de 1990: a **8.080**, sobre organização e funcionamento dos serviços, e a **8.142**, sobre a participação da comunidade (conselhos e conferências) e as transferências de recursos. A rigor, a CF criou o sistema e as leis o regulamentaram; mesmo assim, é a única alternativa sem erro de conteúdo.\n\n**As outras:**\n- *A Reforma Sanitária foi implementada integralmente durante a década de 1970…*: nos anos 1970 nasceu o **movimento** da Reforma Sanitária; suas propostas foram consolidadas na 8ª Conferência Nacional de Saúde (1986) e levadas à CF de 1988.\n- *A Constituição Federal de 1988 oficializou o SUS… mas não aborda a participação comunitária.*: o art. 198, III, traz a **participação da comunidade** como diretriz.\n- *O SUS é sustentado exclusivamente por recursos federais…*: o art. 198, § 1º, prevê financiamento com recursos do orçamento da seguridade social da União, dos Estados, do DF e dos Municípios.\n- *A universalidade do SUS garante o acesso somente a serviços básicos…*: universalidade é acesso para todos; a **integralidade** cobre todos os níveis de complexidade.\n\n**Para memorizar:** CF/88 cria; Lei 8.080 organiza; Lei 8.142 traz controle social e repasses."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q12",
+   "numero": 12,
+   "secao": "Legislação do SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A Lei Orgânica da Saúde – Lei nº 8.080/1990 – estabelece as bases legais para a organização e o funcionamento do Sistema Único de Saúde (SUS) no Brasil, regulamentando diversos aspectos relacionados à promoção, proteção e recuperação da saúde. Com base em suas disposições, assinale a alternativa correta.",
+   "alternativas": [
+    "A Lei nº 8.080/1990 restringe a atuação do SUS ao atendimento médico-hospitalar, excluindo ações de promoção da saúde, como vigilância epidemiológica e sanitária.",
+    "O financiamento do SUS é exclusivamente de responsabilidade do governo federal, sem a participação de estados e municípios, conforme prevê a Lei nº 8.080/1990.",
+    "A regionalização e a hierarquização dos serviços de saúde são diretrizes fundamentais estabelecidas pela Lei nº 8.080/1990, visando à organização do sistema e à garantia de acesso aos serviços.",
+    "A participação da comunidade na gestão do SUS não é mencionada na Lei nº 8.080/1990, sendo regulamentada exclusivamente pela Lei nº 8.142/1990.",
+    "A Lei nº 8.080/1990 exclui expressamente o setor privado da prestação de serviços de saúde no âmbito do SUS, independentemente de qualquer condição ou contrato."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A regionalização e a hierarquização dos serviços de saúde são diretrizes…\":** a Lei 8.080/1990 manda organizar as ações e serviços do SUS de forma **regionalizada e hierarquizada**, em níveis de complexidade crescente (art. 8º), e inclui entre seus princípios a descentralização político-administrativa com ênfase nos municípios e com **regionalização e hierarquização da rede** (art. 7º, IX). A ideia é garantir acesso organizado: atenção básica perto do cidadão e serviços complexos em polos regionais.\n\n**As outras:**\n- *A Lei nº 8.080/1990 restringe a atuação do SUS ao atendimento médico-hospitalar…*: o art. 6º inclui no campo de atuação do SUS a vigilância sanitária e a epidemiológica.\n- *O financiamento do SUS é exclusivamente de responsabilidade do governo federal…*: os recursos vêm do orçamento da seguridade social e de outras fontes, com participação das três esferas.\n- *A participação da comunidade na gestão do SUS não é mencionada na Lei nº 8.080/1990…*: ela é princípio do art. 7º, VIII; a Lei 8.142 detalha conselhos e conferências.\n- *A Lei nº 8.080/1990 exclui expressamente o setor privado…*: a iniciativa privada participa em caráter **complementar**, por contrato ou convênio (art. 4º, § 2º, e arts. 24 a 26).\n\n**Para memorizar:** regionalizar é distribuir os serviços no território; hierarquizar é escaloná-los por complexidade."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q13",
+   "numero": 13,
+   "secao": "Legislação do SUS",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social. Compete ao poder público, nos termos da lei, organizar a seguridade social, que tem como um de seus objetivos:",
+   "alternativas": [
+    "Gratuidade da cobertura e do atendimento.",
+    "Igualdade na forma de participação no custeio.",
+    "Diversidade da base de financiamento.",
+    "Formas diversas e diferenciação dos benefícios e serviços às populações urbanas e rurais.",
+    "Adequação periódica e real do valor dos benefícios."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Diversidade da base de financiamento.\":** o art. 194, parágrafo único, da CF lista os **objetivos da seguridade social**: universalidade da cobertura e do atendimento; uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais; seletividade e distributividade; irredutibilidade do valor dos benefícios; **equidade** na forma de participação no custeio; **diversidade da base de financiamento**; e caráter democrático e descentralizado da administração. A seguridade é custeada por várias fontes (orçamentos públicos e contribuições sociais), daí a diversidade.\n\n**As outras:**\n- *Gratuidade da cobertura e do atendimento.*: o objetivo é a **universalidade** da cobertura e do atendimento.\n- *Igualdade na forma de participação no custeio.*: a CF fala em **equidade**: cada um contribui conforme sua capacidade.\n- *Formas diversas e diferenciação dos benefícios e serviços…*: é o contrário: **uniformidade e equivalência** entre populações urbanas e rurais.\n- *Adequação periódica e real do valor dos benefícios.*: o objetivo é a **irredutibilidade** do valor dos benefícios.\n\n**Para memorizar:** a banca troca uma palavra: universalidade (não gratuidade), equidade (não igualdade), uniformidade (não diferenciação), irredutibilidade (não adequação)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q14",
+   "numero": 14,
+   "secao": "Legislação do SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A Lei nº 8.142/1990 e o Decreto Presidencial nº 7.508, de 28 de junho de 2011, são marcos importantes na organização e operacionalização do Sistema Único de Saúde (SUS). Juntas, essas normas estabelecem bases para a participação popular, o financiamento e a regionalização dos serviços de saúde. Com base nesses dispositivos legais, analise as afirmativas abaixo e escolha a alternativa correta.",
+   "alternativas": [
+    "A Lei nº 8.142/1990 estabelece a criação dos Conselhos de Saúde como órgãos consultivos, sem participação direta de usuários e trabalhadores na formulação e controle das políticas públicas de saúde.",
+    "O Decreto nº 7.508/2011 prevê a implementação das Redes de Atenção à Saúde como uma alternativa facultativa, sem obrigatoriedade de pactuação pelos gestores das três esferas de governo.",
+    "A Lei nº 8.142/1990 dispõe que os recursos destinados ao financiamento do SUS devem ser distribuídos de forma automática entre União, estados e municípios, sem necessidade de cumprimento de critérios de desempenho ou plano de saúde.",
+    "A Lei nº 8.142/1990 centraliza a gestão do SUS no governo federal, eliminando a autonomia dos estados e municípios na execução de ações e serviços de saúde.",
+    "O Decreto nº 7.508/2011 introduziu conceitos como o Mapa da Saúde e a Região de Saúde, estabelecendo critérios para a organização da assistência de forma integrada e territorializada."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"O Decreto nº 7.508/2011 introduziu conceitos como o Mapa da Saúde…\":** o Decreto 7.508/2011 regulamenta a Lei 8.080 na organização do SUS e, no art. 2º, define, entre outros conceitos, **Região de Saúde**, **Mapa da Saúde** e **Rede de Atenção à Saúde**. A Região de Saúde reúne municípios limítrofes para organizar a assistência de forma integrada; o Mapa da Saúde descreve a oferta de ações e serviços no território.\n\n**As outras:**\n- *A Lei nº 8.142/1990 estabelece a criação dos Conselhos de Saúde como órgãos consultivos…*: o Conselho é **permanente e deliberativo**, e os usuários têm representação **paritária** em relação aos demais segmentos.\n- *O Decreto nº 7.508/2011 prevê a implementação das Redes de Atenção à Saúde como uma alternativa facultativa…*: as RAS se organizam nas Regiões de Saúde conforme diretrizes **pactuadas nas Comissões Intergestores** (art. 7º).\n- *A Lei nº 8.142/1990 dispõe que os recursos… sem necessidade de… plano de saúde.*: o repasse é regular e automático, mas o ente precisa ter Fundo de Saúde, Conselho de Saúde, **plano de saúde**, relatórios de gestão e contrapartida (art. 4º).\n- *A Lei nº 8.142/1990 centraliza a gestão do SUS no governo federal…*: ela reforça a descentralização, com repasses a estados e municípios.\n\n**Para memorizar:** sem Fundo, Conselho e Plano de Saúde, o ente não recebe os repasses da Lei 8.142."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q15",
+   "numero": 15,
+   "secao": "Legislação do SUS",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Portaria nº 2.436, de 21 de setembro de 2017, aprovou a Política Nacional de Atenção Básica (PNAB), revisando as diretrizes para a organização da Atenção Básica no âmbito do Sistema Único de Saúde (SUS). A PNAB busca fortalecer a assistência primária como porta de entrada prioritária para os usuários do SUS, promovendo ações de saúde integradas e organizadas. Com base nas diretrizes estabelecidas pela PNAB, assinale a alternativa correta.",
+   "alternativas": [
+    "A Estratégia Saúde da Família (ESF) foi extinta pela PNAB, sendo substituída por modelos de atendimento exclusivos para demandas espontâneas, sem responsabilização territorial.",
+    "A PNAB estabelece que os Agentes Comunitários de Saúde (ACS) são obrigados a desempenhar funções exclusivamente clínicas, incluindo diagnóstico e prescrição de medicamentos.",
+    "A PNAB prioriza atendimentos especializados em detrimento de ações preventivas e promocionais, como vacinação e educação em saúde.",
+    "A Portaria nº 2.436/2017 reforça a importância das Equipes de Atenção Básica (EAB) e das Equipes de Saúde da Família (ESF), promovendo a responsabilização territorial e a coordenação do cuidado em regiões específicas.",
+    "A PNAB extinguiu a exigência de registro das famílias atendidas pelos profissionais da Estratégia Saúde da Família, eliminando o vínculo entre equipe e população assistida."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A Portaria nº 2.436/2017 reforça a importância das Equipes de Atenção Básica (EAB)…\":** a PNAB de 2017 mantém a **Saúde da Família** como estratégia prioritária para expandir e consolidar a Atenção Básica e passou a reconhecer também as **equipes de Atenção Básica** (eAB). Entre suas diretrizes estão a territorialização, a população adscrita, a longitudinalidade e a **coordenação do cuidado**: cada equipe responde pela população de um território definido.\n\n**As outras:**\n- *A Estratégia Saúde da Família (ESF) foi extinta pela PNAB…*: a ESF continua sendo a estratégia prioritária, com responsabilização territorial.\n- *A PNAB estabelece que os Agentes Comunitários de Saúde (ACS) são obrigados a desempenhar funções exclusivamente clínicas…*: o ACS faz cadastramento, visitas domiciliares e ações de educação e prevenção; diagnóstico e prescrição cabem a outros profissionais.\n- *A PNAB prioriza atendimentos especializados em detrimento de ações preventivas…*: a Atenção Básica é justamente o nível da promoção, da prevenção e do primeiro contato.\n- *A PNAB extinguiu a exigência de registro das famílias…*: o cadastro e a adscrição da população seguem como base do vínculo entre equipe e usuários.\n\n**Para memorizar:** Atenção Básica = porta de entrada preferencial + território + vínculo + coordenação do cuidado."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q16",
+   "numero": 16,
+   "secao": "Legislação do SUS",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Portaria GM/MS nº 1.604, de 18 de outubro de 2023, estabelece diretrizes para a Política Nacional de Atenção Especializada em Saúde (PNAES). Em relação às disposições dessa portaria, marque a alternativa correta.",
+   "alternativas": [
+    "A PNAES tem como objetivo principal a descentralização total dos serviços de saúde especializados, transferindo a responsabilidade exclusivamente para os municípios.",
+    "A portaria prevê a criação de um fundo financeiro exclusivo para a atenção especializada, gerido diretamente pelo Ministério da Saúde, sem participação dos estados e municípios.",
+    "A portaria revoga integralmente todas as normas anteriores relacionadas à atenção especializada no Sistema Único de Saúde (SUS).",
+    "A PNAES determina que os serviços de atenção especializada devem ser oferecidos exclusivamente por instituições privadas contratadas pelo SUS.",
+    "A PNAES estabelece que a organização dos serviços especializados deve ser baseada em redes de atenção à saúde, com planejamento regional integrado e articulação interfederativa."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"A PNAES estabelece que a organização dos serviços especializados deve ser baseada em redes…\":** a Portaria GM/MS 1.604/2023 instituiu a Política Nacional de Atenção Especializada em Saúde. Uma de suas diretrizes é a **regionalização** dos serviços especializados, integrados às **Redes de Atenção à Saúde** conforme as pactuações regionais (art. 4º, II). O primeiro eixo estruturante é o planejamento ascendente de base territorial, organizado pelo **Planejamento Regional Integrado** (art. 9º, I), com gestão compartilhada entre estado e municípios.\n\n**As outras:**\n- *A PNAES tem como objetivo principal a descentralização total…*: a política fala em regionalização e gestão compartilhada, não em transferir tudo aos municípios.\n- *A portaria prevê a criação de um fundo financeiro exclusivo…*: o financiamento é **tripartite**, pactuado entre as três esferas de gestão (art. 45).\n- *A portaria revoga integralmente todas as normas anteriores…*: ela não traz cláusula de revogação; institui a política e entra em vigor na publicação.\n- *A PNAES determina que os serviços… exclusivamente por instituições privadas…*: os serviços podem ser públicos ou privados, com ou sem fins lucrativos, sempre conforme a pactuação com o gestor (art. 12).\n\n**Para memorizar:** a Atenção Primária é a porta de entrada e ordena o cuidado; a especializada a apoia, organizada em rede e por região."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q17",
+   "numero": 17,
+   "secao": "Legislação do SUS",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Resolução CNS nº 553, de 9 de agosto de 2017, estabelece princípios e diretrizes fundamentais para os direitos e deveres da pessoa usuária da saúde no Brasil. Considerando seu conteúdo, assinale a alternativa correta.",
+   "alternativas": [
+    "Entre os direitos assegurados na Carta está o direito à informação, permitindo que a pessoa usuária receba explicações claras sobre seu diagnóstico, tratamento e procedimentos realizados.",
+    "A Resolução assegura que a pessoa usuária da saúde tem o direito de ser atendida apenas por profissionais com, no mínimo, 20 anos de experiência em suas áreas de atuação.",
+    "A Carta dos Direitos e Deveres da Pessoa Usuária da Saúde determina que o acesso aos serviços de saúde no SUS pode ser limitado por critérios econômicos e de renda familiar.",
+    "A Resolução revoga automaticamente qualquer normativa que trate de políticas públicas de saúde anteriores à sua publicação, tornando-as inválidas.",
+    "A Carta estabelece que os deveres da pessoa usuária da saúde incluem a obrigatoriedade de doar sangue e tecidos biológicos para o sistema público de saúde sempre que solicitado."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Entre os direitos assegurados na Carta está o direito à informação…\":** a Resolução CNS 553/2017 traz a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. A segunda diretriz garante atendimento integral e, nele, **informações sobre o estado de saúde** de forma objetiva, respeitosa e compreensível: possíveis diagnósticos, resultados de exames, objetivos, riscos e benefícios dos procedimentos, duração do tratamento.\n\n**As outras:**\n- *A Resolução assegura… profissionais com, no mínimo, 20 anos de experiência…*: não há exigência desse tipo; a Carta fala em equipe multiprofissional capacitada.\n- *A Carta… determina que o acesso… pode ser limitado por critérios econômicos…*: o acesso é universal e a Carta veda discriminação, inclusive por condições econômicas.\n- *A Resolução revoga automaticamente qualquer normativa…*: a Carta atualizou a anterior (Portaria MS 1.820/2009), mas não invalida as políticas de saúde em geral.\n- *A Carta estabelece que os deveres… incluem a obrigatoriedade de doar sangue…*: os deveres são de colaborar com o próprio tratamento e com o serviço (prestar informações, seguir o plano, respeitar normas e pessoas); doação é voluntária.\n\n**Para memorizar:** a Carta tem direitos (acesso, tratamento adequado, atendimento humanizado, respeito, informação, participação) e deveres (colaborar com o cuidado e com o serviço)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q18",
+   "numero": 18,
+   "secao": "Legislação do SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Durante uma análise de gestão pública, um gestor de saúde está discutindo os princípios e diretrizes do Sistema Único de Saúde (SUS). Dada a importância de compreender seu arcabouço legal, indique a alternativa correta.",
+   "alternativas": [
+    "O princípio da equidade no SUS determina que todos os cidadãos devem receber a mesma quantidade de recursos e tratamentos, independentemente de suas condições de saúde.",
+    "O SUS possui como base legal a Constituição Federal de 1988, que o instituiu como um sistema de saúde universal, com princípios como a universalidade, integralidade e equidade.",
+    "A diretriz de descentralização no SUS limita a gestão e operação dos serviços de saúde exclusivamente ao nível municipal, sem articulação com os estados e a União.",
+    "A integralidade no SUS refere-se apenas à oferta de tratamentos curativos, sem considerar ações de promoção ou prevenção à saúde.",
+    "A Lei Orgânica da Saúde (Lei nº 8.080/1990) estabelece que o SUS é opcional para os estados, sendo possível a exclusão de um estado do sistema."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O SUS possui como base legal a Constituição Federal de 1988…\":** a CF/88 declarou a saúde \"direito de todos e dever do Estado\", com **acesso universal e igualitário** (art. 196), e criou um **sistema único**, regionalizado e hierarquizado, com atendimento integral (art. 198). Daí vêm os princípios doutrinários, **universalidade**, **integralidade** e **equidade**, e os organizativos: descentralização, regionalização, hierarquização e participação da comunidade.\n\n**As outras:**\n- *O princípio da equidade no SUS determina que todos os cidadãos devem receber a mesma quantidade…*: isso é igualdade aritmética; equidade é tratar desigualmente os desiguais, dando mais a quem precisa mais.\n- *A diretriz de descentralização… exclusivamente ao nível municipal…*: descentralização é direção única em **cada** esfera de governo, com cooperação entre União, estados e municípios.\n- *A integralidade no SUS refere-se apenas à oferta de tratamentos curativos…*: integralidade junta ações preventivas e curativas em todos os níveis de complexidade (Lei 8.080, art. 7º, II).\n- *A Lei Orgânica da Saúde… estabelece que o SUS é opcional para os estados…*: o sistema é único e nacional; nenhum ente pode se excluir.\n\n**Para memorizar:** princípios doutrinários = universalidade, integralidade, equidade; organizativos = descentralização, regionalização, hierarquização, participação."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q19",
+   "numero": 19,
+   "secao": "Legislação do SUS",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um gestor público precisa implementar políticas baseadas nos artigos 194 a 200 da Constituição Federal de 1988. A partir dos fundamentos e diretrizes apresentados nesse trecho constitucional, assinale a alternativa correta.",
+   "alternativas": [
+    "Entre os objetivos da seguridade social, está a uniformidade e equivalência de benefícios e serviços às populações urbanas e rurais, bem como a universalidade da cobertura e do atendimento.",
+    "A seguridade social é composta exclusivamente pela previdência social, deixando saúde e assistência social como políticas secundárias.",
+    "Os princípios que regem a seguridade social incluem a ausência de universalidade e a segregação da gestão entre União, estados e municípios.",
+    "O financiamento da seguridade social é de responsabilidade exclusiva dos trabalhadores, sendo vedada a contribuição de empregadores e do governo.",
+    "O artigo 200 da Constituição limita a atuação do SUS às unidades hospitalares, sem promover ações de vigilância epidemiológica ou sanitária."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Entre os objetivos da seguridade social, está a uniformidade e equivalência…\":** o art. 194, parágrafo único, da CF põe entre os objetivos da seguridade social a **universalidade da cobertura e do atendimento** (inciso I) e a **uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais** (inciso II). A alternativa repete o texto constitucional.\n\n**As outras:**\n- *A seguridade social é composta exclusivamente pela previdência social…*: a seguridade abrange **saúde, previdência e assistência social** (art. 194, caput).\n- *Os princípios… incluem a ausência de universalidade e a segregação da gestão…*: é o contrário: universalidade e administração democrática e descentralizada, com gestão quadripartite (trabalhadores, empregadores, aposentados e governo).\n- *O financiamento da seguridade social é de responsabilidade exclusiva dos trabalhadores…*: pelo art. 195, toda a sociedade financia: orçamentos públicos e contribuições de empregadores, trabalhadores e outras fontes.\n- *O artigo 200 da Constituição limita a atuação do SUS às unidades hospitalares…*: o art. 200, II, manda o SUS executar as ações de **vigilância sanitária e epidemiológica** e de saúde do trabalhador.\n\n**Para memorizar:** seguridade = saúde + previdência + assistência. Só a previdência exige contribuição; a saúde é universal e a assistência é para quem dela precisar."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q20",
+   "numero": 20,
+   "secao": "Legislação do SUS",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Durante uma auditoria em uma unidade de saúde pública, o auditor está avaliando a aplicação prática dos dispositivos previstos na Lei nº 8.080/1990. Com base nessa norma, assinale a opção correta.",
+   "alternativas": [
+    "A Lei nº 8.080/1990 determina que a iniciativa privada está completamente proibida de participar do Sistema Único de Saúde (SUS), salvo em situações de calamidade pública.",
+    "O artigo 6º da Lei estabelece que as ações e serviços de saúde abrangem exclusivamente atividades de caráter curativo, sem contemplar promoção ou prevenção à saúde.",
+    "O financiamento das ações e serviços de saúde previstos na Lei nº 8.080/1990 é de responsabilidade exclusiva da União, não havendo contribuição de estados, municípios ou da iniciativa privada.",
+    "A Lei nº 8.080/1990 estabelece que a saúde é um direito fundamental do ser humano e que cabe ao Estado prover as condições indispensáveis ao seu pleno exercício.",
+    "Segundo a Lei, as ações de vigilância sanitária estão limitadas ao controle de medicamentos e alimentos, não incluindo ações de fiscalização em estabelecimentos de saúde."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A Lei nº 8.080/1990 estabelece que a saúde é um direito fundamental…\":** é o texto do **art. 2º** da Lei 8.080: a saúde é direito fundamental do ser humano, e o Estado deve prover as condições indispensáveis ao seu pleno exercício. O § 1º explica como: políticas que reduzam o risco de doenças e acesso universal e igualitário às ações e serviços.\n\n**As outras:**\n- *A Lei nº 8.080/1990 determina que a iniciativa privada está completamente proibida…*: a iniciativa privada pode participar do SUS em caráter complementar (art. 4º, § 2º).\n- *O artigo 6º da Lei estabelece que as ações e serviços de saúde abrangem exclusivamente…*: o art. 6º inclui vigilância sanitária, vigilância epidemiológica e saúde do trabalhador, entre outras ações de prevenção.\n- *O financiamento… é de responsabilidade exclusiva da União…*: os recursos vêm do orçamento da seguridade social e de outras fontes, com participação das três esferas.\n- *Segundo a Lei, as ações de vigilância sanitária estão limitadas…*: o art. 6º, § 1º, define vigilância sanitária como ações para eliminar, diminuir ou prevenir riscos à saúde, abrangendo o controle de bens de consumo e da **prestação de serviços** que se relacionam com a saúde; isso inclui fiscalizar estabelecimentos.\n\n**Para memorizar:** para o fiscal sanitário, o art. 6º, § 1º, é a base de tudo: bens e serviços de interesse da saúde."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q21",
+   "numero": 21,
+   "secao": "Regime Jurídico Único do RN",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "A Administração Pública, ao constatar possíveis irregularidades cometidas por um servidor público estadual, deve instaurar um processo disciplinar para apuração dos fatos e aplicação das sanções cabíveis. Considerando as normas previstas na Lei Complementar nº 122/1994 sobre o processo disciplinar, assinale a alternativa correta.",
+   "alternativas": [
+    "A comissão responsável pela condução do processo disciplinar é composta por três servidores públicos, sendo necessário que pelo menos dois deles tenham formação em Direito para garantir a legalidade do procedimento.",
+    "O processo disciplinar possui natureza sigilosa em todas as suas fases, de modo que nem mesmo o servidor indiciado ou seu procurador podem ter acesso aos autos antes da conclusão do relatório final da comissão processante.",
+    "O prazo para a conclusão do processo disciplinar é de 90 dias, contados da data da instauração, sendo vedada qualquer prorrogação, ainda que existam circunstâncias que justifiquem a necessidade de maior tempo para a apuração dos fatos.",
+    "Como medida cautelar, a autoridade instauradora do processo disciplinar pode afastar o servidor do cargo por até 60 dias, sendo mantida a sua remuneração, salvo se o processo envolver alcance ou malversação de dinheiro público sem reposição imediata dos valores.",
+    "Se o servidor indiciado não apresentar defesa no prazo legal, será automaticamente considerada sua confissão quanto aos fatos imputados."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Como medida cautelar, a autoridade instauradora do processo disciplinar pode afastar o servidor…\":** pela LC 122/1994 do RN, para que o servidor não influa na apuração, a autoridade pode afastá-lo do exercício do cargo por **até 60 dias**, **sem prejuízo da remuneração**, prorrogáveis por igual prazo (art. 157). A ressalva é o art. 48, I: suspende-se o pagamento do servidor afastado por **alcance ou malversação de dinheiro público**, salvo reposição imediata e integral.\n\n**As outras:**\n- *A comissão… sendo necessário que pelo menos dois deles tenham formação em Direito…*: a comissão tem **três servidores estáveis** (art. 159); a lei não exige formação jurídica.\n- *O processo disciplinar possui natureza sigilosa em todas as suas fases…*: o sigilo é só o necessário à apuração (art. 160), e o servidor pode acompanhar o processo pessoalmente ou por procurador (art. 166).\n- *O prazo para a conclusão do processo disciplinar é de 90 dias… vedada qualquer prorrogação…*: o prazo é de **60 dias**, prorrogável por igual período quando as circunstâncias exigirem (art. 162).\n- *Se o servidor indiciado não apresentar defesa no prazo legal, será automaticamente considerada sua confissão…*: ele é declarado **revel** e recebe um **defensor dativo** (art. 174).\n\n**Para memorizar:** LC 122/RN: afastamento de 60 + 60 dias; processo de 60 + 60 dias; comissão de 3 servidores estáveis."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q22",
+   "numero": 22,
+   "secao": "Regime Jurídico Único do RN",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "A remuneração dos servidores públicos está sujeita a normas específicas quanto a reposições, indenizações e eventuais restrições legais. Sobre esse tema, considerando a Lei Complementar nº 122/1994, analise as assertivas abaixo e assinale a alternativa correta.",
+   "alternativas": [
+    "O servidor exonerado, demitido ou que tiver sua aposentadoria cassada tem 60 dias para quitar seu débito com o erário, sob pena de inscrição na dívida ativa.",
+    "Caso um servidor tenha valores a restituir ao erário, a Administração pode descontar o montante integralmente de sua última remuneração antes da exoneração.",
+    "A consignação em folha de pagamento a favor de terceiros é inadmissível, mesmo mediante autorização do servidor, uma vez que nenhum desconto deverá incidir sobre a remuneração.",
+    "A remuneração do servidor pode ser penhorada em qualquer situação judicial, independentemente da natureza da dívida, desde que haja decisão definitiva.",
+    "Caso o servidor tenha débitos pendentes com o erário, a exoneração extingue automaticamente a obrigação de pagamento, não podendo a Administração inscrevê-lo na dívida ativa."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"O servidor exonerado, demitido ou que tiver sua aposentadoria cassada tem 60 dias…\":** o art. 51 da LC 122/1994 dá ao servidor em débito com o erário que for exonerado, demitido ou tiver a aposentadoria ou disponibilidade cassada **60 dias** para quitar a dívida. Se não pagar, o débito é **inscrito em dívida ativa** (parágrafo único). A Lei 8.112/1990 traz a mesma regra para os servidores federais (art. 47).\n\n**As outras:**\n- *Caso um servidor tenha valores a restituir ao erário, a Administração pode descontar o montante integralmente…*: as reposições são descontadas em parcelas mensais **não superiores a um décimo** da remuneração (art. 50).\n- *A consignação em folha de pagamento a favor de terceiros é inadmissível…*: com **autorização do servidor**, a consignação é admitida, a critério da administração (art. 49, parágrafo único).\n- *A remuneração do servidor pode ser penhorada em qualquer situação judicial…*: a remuneração não sofre arresto, sequestro ou penhora, salvo para **prestação de alimentos** fixada em decisão judicial (art. 52).\n- *Caso o servidor tenha débitos pendentes com o erário, a exoneração extingue…*: sair do cargo não apaga a dívida; ela vai para a dívida ativa se não for paga em 60 dias.\n\n**Para memorizar:** saiu devendo: 60 dias para pagar, senão dívida ativa. Ainda no cargo: desconto parcelado de no máximo 1/10 da remuneração por mês."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q23",
+   "numero": 23,
+   "secao": "Regime Jurídico Único do RN",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Analto sempre foi um servidor dedicado e exemplar, atuando há mais de dez anos em uma repartição pública estadual. Contudo, sua rotina profissional sofreu uma reviravolta quando sua esposa, aprovada em um concurso público estadual, foi nomeada para atuar em outra cidade. Diante dessa situação, Analto ficou dividido entre continuar no seu local de trabalho ou buscar uma forma de acompanhar sua família. Ao procurar informações sobre seus direitos, ele descobriu que a legislação estadual prevê hipóteses de remoção. Animado, ele decidiu solicitar sua mudança para a nova localidade, mas foi surpreendido por questionamentos da Administração Pública sobre a viabilidade de sua solicitação. Diante desse cenário, com base na Lei Complementar nº 122/1994, assinale a alternativa correta sobre a remoção de servidores públicos estaduais.",
+   "alternativas": [
+    "A remoção de Analto, por motivo de acompanhamento de sua esposa, só será viável caso haja uma vaga disponível na nova localidade.",
+    "A remoção de Analto não poderá ser realizada, pois a legislação exige que a mudança seja feita por motivo de saúde do servidor ou de seu dependente, e não por acompanhamento de cônjuge.",
+    "A remoção de Analto só poderá ser realizada a pedido do servidor, sendo vedada a remoção de ofício, mesmo que o servidor precise acompanhar sua esposa.",
+    "A remoção de Analto poderá ocorrer, mas apenas se a Administração Pública comprovar a necessidade de seu deslocamento para o novo setor de trabalho, o que não é o caso, pois ele apenas deseja acompanhar a esposa.",
+    "A remoção de Analto pode ser solicitada independentemente de vaga disponível na nova localidade, uma vez que ele tem direito de acompanhar sua esposa, conforme previsão legal."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"A remoção de Analto pode ser solicitada independentemente de vaga…\":** a LC 122/1994 define remoção como o deslocamento do servidor, a pedido ou de ofício, para outro setor do mesmo quadro, com ou sem mudança de sede (art. 36). O parágrafo único garante a remoção **a pedido, para outra localidade, independentemente de vaga**, quando necessário para **acompanhar cônjuge ou companheiro**, ou por motivo de saúde do servidor, do cônjuge, do companheiro ou de dependente, comprovado por junta médica oficial. É exatamente o caso de Analto.\n\n**As outras:**\n- *…só será viável caso haja uma vaga disponível na nova localidade.*: a lei dispensa a vaga nessa hipótese.\n- *…a legislação exige que a mudança seja feita por motivo de saúde…*: saúde é uma hipótese; acompanhar o cônjuge é outra, igualmente prevista.\n- *…só poderá ser realizada a pedido do servidor, sendo vedada a remoção de ofício…*: a lei prevê as duas formas; a de ofício exige comprovar a necessidade do serviço.\n- *…mas apenas se a Administração Pública comprovar a necessidade de seu deslocamento…*: essa é a condição da remoção **de ofício**; a remoção a pedido para acompanhar o cônjuge não depende dela.\n\n**Para memorizar:** a regra do RN é mais ampla que a federal. A Lei 8.112 só garante essa remoção quando o cônjuge também é servidor e **foi deslocado no interesse da Administração** (art. 36, III, \"a\")."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q24",
+   "numero": 24,
+   "secao": "Regime Jurídico Único do RN",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Conforme a Lei Complementar nº 122/1994, é correto afirmar que a penalidade de suspensão aplicada ao servidor público estadual do Rio Grande do Norte:",
+   "alternativas": [
+    "Pode ser aplicada pelo prazo máximo de 120 dias e, em casos de conveniência para o serviço, convertida em multa correspondente a 30% do vencimento do servidor.",
+    "Pode ser imposta nos casos de reincidência em falta punida com advertência ou em violação de proibição que não justifique a demissão, não podendo ultrapassar o limite de 90 dias.",
+    "Será registrada permanentemente no histórico funcional do servidor, sem possibilidade de cancelamento, mesmo que ele não cometa novas infrações disciplinares ao longo de sua carreira.",
+    "É obrigatoriamente aplicada sem possibilidade de conversão em multa, salvo nos casos em que o servidor provar a inexistência de dolo na infração cometida.",
+    "Deve ser aplicada diretamente pelo Governador do Estado em qualquer situação, independentemente da gravidade da infração cometida pelo servidor."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Pode ser imposta nos casos de reincidência em falta punida com advertência…\":** pelo art. 141 da LC 122/1994, a **suspensão** se aplica em caso de **reincidência** em falta punida com advertência e de **violação de proibição** que não seja caso de advertência nem tipifique falta sujeita a demissão. O § 1º fixa o limite: a suspensão **não pode exceder 90 dias**.\n\n**As outras:**\n- *Pode ser aplicada pelo prazo máximo de 120 dias e… convertida em multa correspondente a 30%…*: o máximo é 90 dias, e a conversão em multa, por conveniência do serviço, é de **50% por dia de remuneração**, ficando o servidor obrigado a trabalhar (art. 141, § 3º).\n- *Será registrada permanentemente no histórico funcional…*: o registro da suspensão é **cancelado após 5 anos** de efetivo exercício sem nova infração; o da advertência, após 3 (art. 142).\n- *É obrigatoriamente aplicada sem possibilidade de conversão em multa…*: a conversão cabe por conveniência do serviço; a lei não fala em ausência de dolo.\n- *Deve ser aplicada diretamente pelo Governador do Estado em qualquer situação…*: o Governador aplica demissão e cassação; suspensão acima de 30 dias cabe às autoridades imediatamente abaixo dele, e até 30 dias, ao chefe da repartição e equivalentes (art. 152).\n\n**Para memorizar:** suspensão: até 90 dias; multa de 50% por dia; registro cancelado em 5 anos (advertência, 3 anos)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q25",
+   "numero": 25,
+   "secao": "Regime Jurídico Único do RN",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Leonardo, servidor público estadual, foi alvo de um processo administrativo disciplinar após suspeitas de irregularidades em sua atuação funcional. A comissão processante concluiu o relatório e enviou para julgamento. Durante a análise, a autoridade julgadora verificou que havia um vício insanável no processo, além de constatar que a penalidade prevista ultrapassava sua alçada decisória. Diante dessa situação, assinale a alternativa correta de acordo com a Lei Complementar nº 122/1994.",
+   "alternativas": [
+    "O pedido de exoneração de Leonardo antes da conclusão do julgamento encerra automaticamente o processo administrativo disciplinar, pois a penalidade administrativa não pode ser aplicada a quem não mais ocupa o cargo.",
+    "Se a penalidade aplicável ultrapassar a alçada da autoridade instauradora do processo, a decisão final ainda assim cabe a essa autoridade, conforme o princípio da autotutela.",
+    "Ao constatar um vício insanável, a autoridade julgadora deve anular total ou parcialmente o processo e determinar a constituição de uma nova comissão para renová-lo.",
+    "Caso a infração imputada a Leonardo esteja tipificada como crime, a autoridade julgadora não pode tomar providências administrativas e deve suspender o julgamento até a manifestação do Ministério Público.",
+    "O julgamento deve obrigatoriamente seguir as conclusões da comissão processante, não cabendo à autoridade julgadora declarar nulidade do processo, ainda que haja vícios insanáveis."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ao constatar um vício insanável, a autoridade julgadora deve anular total ou parcialmente o processo…\":** o art. 179 da LC 122/1994 manda a autoridade julgadora, ao verificar **vício insanável**, declarar a **nulidade total ou parcial** do processo e ordenar a constituição de **outra comissão** para renová-lo.\n\n**As outras:**\n- *O pedido de exoneração de Leonardo antes da conclusão do julgamento encerra automaticamente o processo…*: quem responde a processo disciplinar só pode ser exonerado a pedido **depois** da conclusão do processo e do cumprimento da penalidade (art. 182).\n- *Se a penalidade aplicável ultrapassar a alçada… a decisão final ainda assim cabe a essa autoridade…*: o processo é encaminhado à autoridade competente, que decide no mesmo prazo (art. 177, § 1º).\n- *Caso a infração… esteja tipificada como crime, a autoridade julgadora não pode tomar providências administrativas…*: o processo é remetido ao Ministério Público para a ação penal, ficando traslado na repartição (art. 181); as instâncias são independentes.\n- *O julgamento deve obrigatoriamente seguir as conclusões da comissão…*: o julgamento não fica preso ao relatório, e sim às provas dos autos (art. 178), e cabe à autoridade declarar a nulidade.\n\n**Para memorizar:** vício insanável: anula e nomeia **nova** comissão. Alçada excedida: o processo sobe para a autoridade competente."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q26",
+   "numero": 26,
+   "secao": "História e Aspectos Geopolíticos do RN",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Durante o período imperial brasileiro, a estrutura política e eleitoral refletia características específicas que influenciavam a participação dos cidadãos nas eleições. Considerando o contexto das eleições e da representação política no Rio Grande do Norte no século XIX, assinale a alternativa correta.",
+   "alternativas": [
+    "O voto era censitário, sendo permitido apenas àqueles que possuíam determinado nível de renda, o que restringia a participação política às elites agrárias e comerciantes.",
+    "As eleições no Rio Grande do Norte eram amplamente democráticas, permitindo a participação de indígenas, ex-escravizados e trabalhadores urbanos sem restrições de renda.",
+    "A legislação eleitoral imperial estabelecia o sufrágio universal masculino, garantindo a ampla participação popular e a representação de diferentes camadas sociais.",
+    "Os pleitos eram organizados pelas Câmaras Municipais, que asseguravam a isonomia entre os candidatos, impedindo o predomínio das oligarquias locais.",
+    "O sistema eleitoral do Império do Brasil foi extinto logo após a independência, sendo substituído por eleições diretas e secretas nos primeiros anos da monarquia."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"O voto era censitário…\":** a Constituição de 1824 adotou eleições **indiretas** e voto **censitário**: para votar nas eleições primárias era preciso renda líquida anual mínima de 100 mil réis, e para ser eleitor (quem escolhia deputados e senadores), 200 mil réis. Mulheres e escravizados não votavam. No Rio Grande do Norte, como no resto do Império, a política ficou nas mãos de proprietários rurais e comerciantes, organizados nos partidos Liberal e Conservador.\n\n**As outras:**\n- *As eleições no Rio Grande do Norte eram amplamente democráticas…*: a exigência de renda e a exclusão de escravizados e mulheres restringiam o eleitorado.\n- *A legislação eleitoral imperial estabelecia o sufrágio universal masculino…*: o voto foi censitário durante todo o Império; a Lei Saraiva (1881) tornou a eleição direta, mas manteve a renda mínima e afastou os analfabetos.\n- *Os pleitos eram organizados pelas Câmaras Municipais, que asseguravam a isonomia…*: as eleições do Império ficaram marcadas por fraude, violência e controle dos chefes locais.\n- *O sistema eleitoral do Império do Brasil foi extinto logo após a independência…*: ele valeu até 1889; o voto secreto só veio com o Código Eleitoral de 1932.\n\n**Para memorizar:** Império = voto censitário e indireto (direto só a partir de 1881). República de 1891 = fim da exigência de renda, mas analfabetos e mulheres continuaram de fora."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q27",
+   "numero": 27,
+   "secao": "História e Aspectos Geopolíticos do RN",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A economia do Rio Grande do Norte combina setores tradicionais e modernos, resultando em uma configuração socioeconômica diversificada. Sobre as atividades produtivas no estado, assinale a alternativa correta.",
+   "alternativas": [
+    "A economia do Rio Grande do Norte é majoritariamente impulsionada pelo setor turístico, enquanto a agropecuária tem um papel secundário, uma vez que a infraestrutura turística já está plenamente consolidada como motor econômico.",
+    "A produção de petróleo e gás é uma atividade fundamental no Rio Grande do Norte, mas sem um impacto expressivo na economia estadual.",
+    "O setor industrial supera as atividades agrícolas e pesqueiras em geração de empregos e volume de exportações, sendo a principal base da economia norte-rio-grandense.",
+    "A fruticultura voltada à exportação é essencial na economia do estado, uma vez que a produção se destina exclusivamente ao mercado externo.",
+    "A carcinicultura, voltada para a criação de camarões em cativeiro, tem impacto econômico significativo, mas enfrenta desafios ambientais relacionados ao desmatamento de manguezais."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"A carcinicultura, voltada para a criação de camarões em cativeiro…\":** o Rio Grande do Norte está entre os maiores produtores de camarão em cativeiro do país, com fazendas nos estuários e no litoral, gerando emprego e exportação. A atividade é criticada por ocupar áreas de **manguezal** (Área de Preservação Permanente), lançar efluentes e salinizar terrenos: é o desafio ambiental citado.\n\n**As outras:**\n- *A economia do Rio Grande do Norte é majoritariamente impulsionada pelo setor turístico…*: o turismo é forte, sobretudo em Natal e no litoral, mas a economia é diversificada (serviços, petróleo, sal, energia eólica, fruticultura), e a agropecuária tem peso.\n- *A produção de petróleo e gás… sem um impacto expressivo…*: a Bacia Potiguar fez do estado, por décadas, um dos maiores produtores de petróleo em terra do país, com peso em royalties e empregos.\n- *O setor industrial supera as atividades agrícolas e pesqueiras… principal base…*: a maior parte da economia estadual está nos serviços, incluindo comércio, administração pública e turismo.\n- *A fruticultura voltada à exportação… se destina exclusivamente ao mercado externo.*: o melão do polo Mossoró-Assu é muito exportado, mas parte da produção abastece o mercado interno; o erro é o \"exclusivamente\".\n\n**Para memorizar:** RN = petróleo e gás, sal marinho, energia eólica, camarão, melão e turismo."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q28",
+   "numero": 28,
+   "secao": "História e Aspectos Geopolíticos do RN",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A resistência da cidade de Mossoró ao bando de Lampião, em 1927, marcou um episódio singular na história do cangaço no Rio Grande do Norte. Acerca dessa resistência, identifique a alternativa correta.",
+   "alternativas": [
+    "A população local, composta majoritariamente por camponeses, organizou uma milícia improvisada para enfrentar os cangaceiros, contando com apoio mínimo das autoridades.",
+    "A invasão de Mossoró por Lampião foi bem-sucedida, resultando na pilhagem da cidade e na consolidação do cangaço como uma força dominante na região.",
+    "A batalha entre os mossoroenses e o bando de Lampião foi mediada por negociações diplomáticas, resultando em um acordo pacífico entre os dois grupos.",
+    "A resistência de Mossoró foi liderada pelo prefeito Rodolfo Fernandes, que organizou um plano estratégico de defesa envolvendo a população e as forças de segurança locais.",
+    "O governo federal enviou reforços militares para proteger Mossoró, o que impediu qualquer confronto direto entre a população local e os cangaceiros."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A resistência de Mossoró foi liderada pelo prefeito Rodolfo Fernandes…\":** em junho de 1927, Lampião mandou recados exigindo dinheiro para não atacar a cidade. O prefeito **Rodolfo Fernandes** recusou e organizou a defesa com moradores armados e policiais, distribuídos em trincheiras e pontos altos da cidade. No dia **13 de junho de 1927**, o bando atacou, foi repelido e fugiu; o cangaceiro Jararaca foi ferido e preso.\n\n**As outras:**\n- *A população local… organizou uma milícia improvisada… contando com apoio mínimo das autoridades.*: a defesa foi organizada justamente pela autoridade local, o prefeito.\n- *A invasão de Mossoró por Lampião foi bem-sucedida…*: foi uma das maiores derrotas do bando, que se retirou do Rio Grande do Norte.\n- *A batalha… foi mediada por negociações diplomáticas…*: houve troca de bilhetes, mas o prefeito recusou o resgate e houve combate.\n- *O governo federal enviou reforços militares…*: o confronto aconteceu, e quem defendeu a cidade foram os moradores e as forças locais.\n\n**Para memorizar:** Mossoró, 13 de junho de 1927, prefeito Rodolfo Fernandes: a cidade que resistiu a Lampião."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q29",
+   "numero": 29,
+   "secao": "História e Aspectos Geopolíticos do RN",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No período colonial, o sistema de sesmarias foi um dos principais mecanismos de organização territorial e de distribuição de terras na América Portuguesa, incluindo a Capitania do Rio Grande. A respeito do papel das sesmarias no processo de expansão territorial, assinale a alternativa correta.",
+   "alternativas": [
+    "As sesmarias foram utilizadas para conceder terras a pequenos agricultores e indígenas, com o objetivo de promover um desenvolvimento agrícola equilibrado.",
+    "A distribuição de sesmarias contribuiu para a concentração fundiária, pois grandes extensões de terra foram concedidas a poucos indivíduos ligados à administração colonial.",
+    "O sistema de sesmarias garantiu a manutenção da estrutura comunal de uso da terra, respeitando as tradições dos povos indígenas e quilombolas.",
+    "A concessão de sesmarias era feita sem critérios definidos, permitindo a ocupação espontânea das terras pelos colonos portugueses sem interferência da Coroa.",
+    "A política de sesmarias foi essencial para a urbanização rápida da Capitania do Rio Grande, pois previa a construção obrigatória de vilas e cidades em cada nova concessão."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A distribuição de sesmarias contribuiu para a concentração fundiária…\":** a sesmaria era uma doação de terra feita pela Coroa a quem se comprometesse a ocupá-la e cultivá-la. Na Capitania do Rio Grande, conquistada no fim do século XVI, as doações foram sobretudo para a **criação de gado** no interior: extensões enormes nas mãos de poucos colonos ligados à administração e às guerras contra os indígenas. Daí nasce o **latifúndio** que marca a estrutura agrária do Nordeste.\n\n**As outras:**\n- *As sesmarias foram utilizadas para conceder terras a pequenos agricultores e indígenas…*: beneficiavam quem tinha recursos e prestígio; os indígenas foram expulsos das terras doadas.\n- *O sistema de sesmarias garantiu a manutenção da estrutura comunal…*: a sesmaria criava posse privada concedida pela Coroa e ignorava o uso coletivo indígena e quilombola.\n- *A concessão de sesmarias era feita sem critérios definidos…*: dependia de pedido e carta de doação, com obrigação de cultivar e de confirmar a concessão.\n- *A política de sesmarias foi essencial para a urbanização rápida…*: a sesmaria era terra rural; não obrigava a fundar vilas.\n\n**Para memorizar:** sesmaria → latifúndio. O regime foi suspenso em 1822, e a Lei de Terras (1850) passou a exigir compra para obter terras públicas."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q30",
+   "numero": 30,
+   "secao": "História e Aspectos Geopolíticos do RN",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Durante o período colonial, a arrecadação de tributos foi um dos pilares da administração da Capitania do Rio Grande, refletindo a estrutura fiscal imposta pela Coroa Portuguesa às suas colônias. Sobre os mecanismos de tributação nesse período, marque a opção correta.",
+   "alternativas": [
+    "O imposto mais significativo era a “dízima”, um tributo pago diretamente pelos grandes comerciantes de escravos e gado à administração local.",
+    "A arrecadação de tributos era feita exclusivamente pelas Câmaras Municipais, que possuíam autonomia financeira e não prestavam contas à Coroa.",
+    "A cobrança de tributos, como o quinto e a derrama, refletia a necessidade de financiar a defesa da capitania e de garantir o monopólio econômico português.",
+    "A política fiscal colonial isentava os proprietários de engenhos do pagamento de impostos diretos, para estimular a produção de açúcar na capitania.",
+    "A arrecadação tributária na Capitania do Rio Grande foi gradualmente substituída por um sistema de trocas comerciais livres, sem imposição estatal."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A cobrança de tributos, como o quinto e a derrama, refletia a necessidade…\":** a política fiscal da Coroa sustentava a administração e a defesa da colônia e garantia o **exclusivo metropolitano** (o monopólio comercial português). Os exemplos são da mineração: o **quinto** era a quinta parte do ouro extraído, e a **derrama**, a cobrança forçada dos quintos atrasados em Minas Gerais. No Rio Grande, de economia pecuária e açucareira, pesavam mais os **dízimos** sobre a produção.\n\n**As outras:**\n- *O imposto mais significativo era a “dízima”, um tributo pago diretamente pelos grandes comerciantes…*: o dízimo incidia sobre a produção agrícola e pecuária de todos os produtores, cobrado em geral por contratadores para a Fazenda Real.\n- *A arrecadação de tributos era feita exclusivamente pelas Câmaras Municipais…*: os principais tributos eram da Fazenda Real, que respondia à Coroa.\n- *A política fiscal colonial isentava os proprietários de engenhos…*: houve isenções temporárias para engenhos novos, mas o açúcar pagava dízimo.\n- *A arrecadação tributária… substituída por um sistema de trocas comerciais livres…*: até a abertura dos portos (1808) vigorou o monopólio.\n\n**Para memorizar:** dízimo = 10% da produção; quinto = 20% do ouro. Ponto discutível: quinto e derrama são da mineração, pouco ligados ao Rio Grande; a banca aceitou a ideia geral de fiscalismo e monopólio."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "Em relação à Demolição de edificações, assinale o item correto.",
+   "alternativas": [
+    "Deve ser elaborado um Plano de Demolição, sob responsabilidade de profissional legalmente capacitado, contemplando os riscos químicos, físicos, biológicos e de acidentes potencialmente existentes em todas as etapas da demolição e as medidas de prevenção a serem adotadas para preservar a segurança e a saúde dos trabalhadores.",
+    "Para o serviço de escavação, fundação e desmonte de rochas não é obrigatória a execução de projeto de demolição, mas se deve levar em conta a característica do solo, as cargas atuantes, os riscos a que estão expostos os trabalhadores e as medidas de prevenção.",
+    "As escavações do canteiro de obras próximas de edificações devem ser monitoradas, sendo opcional a documentação do resultado com objetivo de liminar o risco de acidentes durante a execução da escavação.",
+    "O Plano de Demolição deve considerar as linhas de fornecimento de energia elétrica, água, inflamáveis líquidos e gasosos liquefeitos, substâncias tóxicas, canalizações de esgoto e de escoamento de água e outros.",
+    "Os escoramentos utilizados como medida de prevenção devem ser inspecionados semanalmente e quando for necessário o trânsito de pessoas sobre as escavações, devem ser fornecidos equipamentos de proteção coletiva – EPCs."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O Plano de Demolição deve considerar as linhas de fornecimento…\":** é o item 18.7.1.2 da **NR-18**: o Plano de Demolição deve considerar as linhas de energia elétrica, água, inflamáveis líquidos e gasosos liquefeitos, substâncias tóxicas, esgoto e escoamento de água, além das construções vizinhas, da remoção de entulho, das aberturas no piso e das áreas de circulação de emergência, entre outros pontos.\n\n**As outras:**\n- *Deve ser elaborado um Plano de Demolição, sob responsabilidade de profissional legalmente capacitado…*: a NR-18 (18.7.1.1) exige profissional legalmente **habilitado** e fala em riscos **ocupacionais**; a banca alterou o texto.\n- *Para o serviço de escavação, fundação e desmonte de rochas não é obrigatória a execução de projeto…*: esses serviços seguem **projeto** de profissional legalmente habilitado (18.7.2.1).\n- *As escavações do canteiro de obras próximas de edificações devem ser monitoradas, sendo opcional a documentação…*: o resultado do monitoramento deve ser **documentado** (18.7.2.9).\n- *Os escoramentos… devem ser inspecionados semanalmente…*: a inspeção é **diária** (18.7.2.11), e para o trânsito de pessoas sobre escavações exigem-se **passarelas** (18.7.2.12).\n\n**Para memorizar:** nas NRs, \"capacitado\" é quem recebeu treinamento; \"habilitado\" é o profissional com registro no conselho de classe. Demolição e escavação pedem o habilitado."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "desempenho-sustentabilidade",
+   "enunciado": "Os estados-limites de uma estrutura estabelecem as condições a partir das quais a estrutura apresenta desempenho inadequado às finalidades da construção. Sobre desempenho estrutural, assinale o item correto.",
+   "alternativas": [
+    "O comportamento em serviço da edificação habitacional ou do sistema deve ser previsto em projeto, de forma que os estados-limites de serviço (ELS), por sua ocorrência, repetição ou duração, não causem efeitos estruturais que impeçam o uso normal da construção ou que levem ao comprometimento da durabilidade da estrutura.",
+    "Estados-limites de serviço (ELS) determinam a paralisação, no todo ou em parte, do uso da construção, por sua simples ocorrência objetivando evitar a ruína da estrutura que é projetada, construída e montada de forma a atender aos requisitos estabelecidos em projeto estrutural.",
+    "Devem ser considerados obrigatoriamente em projeto os estados-limites últimos caracterizados por perda de equilíbrio, global ou parcial, admitida a estrutura como um corpo rígido, ruptura ou deformação plástica excessiva dos materiais, sendo informações opcionais a transformação da estrutura (no todo ou em parte) em sistema hipostático.",
+    "Informações relativas às sobrecargas limitantes no uso das edificações são oriundas de projetos estruturais, não sendo obrigatoriedade sua inserção no manual do proprietário ou documento similar de um comprador.",
+    "Considerações sobre as condições de agressividade do solo, do ar e da água na época do projeto, bem como as proteções aos sistemas estruturais e suas partes não são informações primordiais a serem consideradas na análise de desempenho estrutural."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"O comportamento em serviço da edificação habitacional ou do sistema deve ser previsto em projeto…\":** é um requisito da **NBR 15575-2** (sistemas estruturais). Os **estados-limites de serviço** (ELS), definidos na NBR 8681, são situações que, por ocorrência, repetição ou duração, causam efeitos (flechas, fissuras, vibrações) incompatíveis com o uso normal ou que indicam perda de durabilidade. O projeto deve evitá-los.\n\n**As outras:**\n- *Estados-limites de serviço (ELS) determinam a paralisação…*: essa é a definição de estado-limite **último** (ELU).\n- *Devem ser considerados obrigatoriamente… sistema hipostático.*: a transformação em sistema hipostático também é ELU e **deve** ser verificada, junto com a perda de equilíbrio e a ruptura.\n- *Informações relativas às sobrecargas limitantes… não sendo obrigatoriedade sua inserção no manual…*: a norma de desempenho exige informar ao usuário as limitações de uso, como as cargas admissíveis, no manual de uso, operação e manutenção.\n- *Considerações sobre as condições de agressividade do solo, do ar e da água… não são informações primordiais…*: a agressividade do meio é dado essencial para a durabilidade (cobrimento, qualidade do concreto, proteções).\n\n**Para memorizar:** ELU = segurança (ruína, colapso); ELS = uso e conforto (flecha, fissura, vibração)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "Acessibilidade é a possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida. Assim, consideram-se barreiras urbanísticas:",
+   "alternativas": [
+    "as existentes nos edifícios públicos e privados que impeçam a acessibilidade.",
+    "as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo.",
+    "as existentes nos sistemas e meios de transportes públicos e privados que impeçam a acessibilidade.",
+    "qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação.",
+    "qualquer componente de obras de urbanização, tais como os referentes à pavimentação e ao saneamento, que materializam as indicações do planejamento urbanístico que impeçam a acessibilidade."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo.\":** a Lei Brasileira de Inclusão (Lei 13.146/2015) classifica as barreiras no art. 3º, IV. **Barreiras urbanísticas** são as existentes nas **vias e nos espaços públicos e privados abertos ao público ou de uso coletivo**: calçada sem rampa, piso irregular, poste no meio do passeio. O enunciado reproduz a definição de acessibilidade do art. 3º, I.\n\n**As outras:**\n- *as existentes nos edifícios públicos e privados que impeçam a acessibilidade.*: são as barreiras **arquitetônicas** (alínea \"b\").\n- *as existentes nos sistemas e meios de transportes públicos e privados…*: são as barreiras **nos transportes** (alínea \"c\").\n- *qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão…*: são as barreiras **nas comunicações e na informação** (alínea \"d\").\n- *qualquer componente de obras de urbanização, tais como os referentes à pavimentação…*: é quase a definição de **elemento de urbanização** (art. 3º, VII), que não é barreira.\n\n**Para memorizar:** a LBI tem seis barreiras: urbanísticas (rua), arquitetônicas (edifício), nos transportes, nas comunicações e na informação, atitudinais e tecnológicas."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Pavimento é uma estrutura construída sobre a superfície obtida pelos serviços de terraplanagem com a função principal de fornecer ao usuário segurança e conforto, que devem ser conseguidos sob o ponto de vista da engenharia, sendo o Pavimento Flexível:",
+   "alternativas": [
+    "Aquele em que o revestimento tem uma elevada rigidez em relação às camadas inferiores e, portanto, absorve praticamente todas as tensões provenientes do carregamento aplicado.",
+    "Caracterizado por uma base cimentada por algum aglutinante com propriedades cimentícias, por exemplo, por uma camada de solo de cimento revestida por uma camada asfáltica",
+    "Caracterizado pela camada de espessura constante transversalmente e variável longitudinalmente, de acordo com o dimensionamento, fazendo parte integrante do sistema que, por circunstâncias técnico econômicas, é executado sobre o subleito regularizado.",
+    "Caracterizado por estar apoiado na fundação inicial e deve ser considerado e estudado até as profundidades em que atuam significativamente as cargas impostas pelo tráfego.",
+    "Aquele em que todas as camadas sofrem deformação elástica significativa sob o carregamento aplicado e, portanto, a carga se distribui em parcelas aproximadamente equivalentes entre as camadas."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Aquele em que todas as camadas sofrem deformação elástica significativa…\":** é a definição do Manual de Pavimentação do DNIT para **pavimento flexível**: todas as camadas se deformam elasticamente sob a carga, que se distribui em parcelas aproximadamente iguais entre elas. Exemplo típico: base de brita graduada ou de solo pedregulhoso com revestimento asfáltico.\n\n**As outras:**\n- *Aquele em que o revestimento tem uma elevada rigidez…*: é o pavimento **rígido** (placas de concreto), que absorve quase todas as tensões.\n- *Caracterizado por uma base cimentada por algum aglutinante…*: é o pavimento **semirrígido**, com base de solo-cimento e revestimento asfáltico.\n- *Caracterizado pela camada de espessura constante transversalmente e variável longitudinalmente…*: é o **reforço do subleito**, camada executada sobre o subleito regularizado.\n- *Caracterizado por estar apoiado na fundação inicial…*: descreve o **subleito**, o terreno de fundação do pavimento, estudado até a profundidade em que as cargas do tráfego atuam.\n\n**Para memorizar:** rígido = concreto trabalhando como placa; flexível = asfalto sobre camadas granulares, todas se deformando; semirrígido = asfalto sobre base cimentada."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "No tocante à licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, assinale a alternativa correta correspondente às obras e serviços de arquitetura e engenharia.",
+   "alternativas": [
+    "No caso de contratação de obras e serviços de engenharia para aquisição de bens ou contratação de serviços em geral, ao item cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte, não é necessário processo licitatório.",
+    "O sistema de registro de preços é o conjunto de procedimentos para realização, mediante contratação direta ou licitação nas modalidades pregão ou concorrência, de registro formal de preços relativos à prestação de serviços, às obras e à aquisição e locação de bens para contratações futura.",
+    "Catálogo eletrônico de padronização de compras, serviços e obras é o contrato cujo objeto é a prestação de serviços, que pode incluir a realização de obras e o fornecimento de bens, com o objetivo de proporcionar economia ao contratante, na forma de redução de despesas correntes, remunerado o contratado com base em percentual da economia gerada.",
+    "No caso de obras e serviços de arquitetura e engenharia, no processo licitatório, o diálogo competitivo é o processo administrativo de chamamento público em que a Administração Pública convoca interessados em prestar serviços ou fornecer bens, para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados",
+    "Para o processo licitatório, contratação semi-integrada é o regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto licitatório."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O sistema de registro de preços é o conjunto de procedimentos…\":** é a definição do art. 6º, XLV, da Lei 14.133/2021: registro formal de preços, por **contratação direta** ou licitação nas modalidades **pregão** ou **concorrência**, para **contratações futuras**. A lei admite o registro de preços também para obras e serviços de engenharia (art. 85).\n\n**As outras:**\n- *No caso de contratação de obras e serviços de engenharia… não é necessário processo licitatório.*: o art. 4º, § 1º, só afasta os **benefícios de ME/EPP** acima desse valor; não dispensa licitação.\n- *Catálogo eletrônico de padronização… é o contrato cujo objeto é a prestação de serviços…*: o texto é a definição de **contrato de eficiência** (art. 6º, LIII); o catálogo é um sistema informatizado de padronização de itens (art. 6º, LI).\n- *No caso de obras… o diálogo competitivo é o processo administrativo de chamamento público…*: isso é o **credenciamento** (art. 6º, XLIII); diálogo competitivo é a modalidade com diálogos entre a Administração e licitantes pré-selecionados (XLII).\n- *…contratação semi-integrada… projetos básico e executivo…*: isso é a **contratação integrada** (XXXII); na **semi-integrada** (XXXIII), o contratado elabora só o projeto **executivo**, pois o básico é da Administração.\n\n**Para memorizar:** integrada = projeto básico + executivo + obra; semi-integrada = executivo + obra."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Instalações hidrossanitárias são um conjunto de sistemas e equipamentos que distribuem água e esgoto em uma edificação, onde a tubulação de aviso de extravasão pode ser descrita como:",
+   "alternativas": [
+    "tubulação destinada ao esvaziamento do reservatório para permitir sua limpeza e manutenção.",
+    "tubulação que conduz a água quente de volta ao reservatório ou ao aquecedor.",
+    "tubulação destinada a conduzir parte do excesso de água para um local visível, servindo de alerta de falha no sistema de reserva do edifício.",
+    "tubulação disposta em espaço projetado para tal e que permite o acesso mediante remoção do cobrimento.",
+    "tubulação de vazão de referência para o dimensionamento do sistema de instalações hidrossanitárias."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"tubulação destinada a conduzir parte do excesso de água para um local visível…\":** a **tubulação de aviso** sai do reservatório acima do nível máximo de operação e despeja a água num lugar bem visível. Se a torneira de boia falhar e o nível subir, a água escorrendo alerta o usuário do defeito. É um dispositivo previsto nas instalações de água fria (NBR 5626), ao lado do extravasor.\n\n**As outras:**\n- *tubulação destinada ao esvaziamento do reservatório para permitir sua limpeza e manutenção.*: é a tubulação de **limpeza** (dreno), no fundo do reservatório.\n- *tubulação que conduz a água quente de volta ao reservatório ou ao aquecedor.*: é a tubulação de **retorno** do sistema de água quente com recirculação.\n- *tubulação disposta em espaço projetado para tal e que permite o acesso mediante remoção do cobrimento.*: descreve uma tubulação instalada em espaço próprio (shaft, forro, canaleta) e acessível pela remoção de tampa, um critério de instalação para facilitar a manutenção.\n- *tubulação de vazão de referência…*: não existe esse tipo de tubulação; a vazão de projeto dos pontos de utilização é um dado para dimensionar a rede.\n\n**Para memorizar:** limpeza fica no fundo do reservatório; aviso e extravasor ficam no alto. O aviso descarrega onde todos veem."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Benefícios ou Bonificações e Despesas Indiretas (BDI) é um termo usado na construção civil para calcular os custos adicionais de um projeto que:",
+   "alternativas": [
+    "corresponde ao custo mensal ou anual da sede dividido pelo Custo total e é inversamente proporcional ao faturamento da empresa para o lucro do custo total do empreendimento.",
+    "é uma porcentagem aplicada sobre o custo direto total e que tem a finalidade de contabilizar os custos indiretos do projeto além de estabelecer o lucro do empreendedor.",
+    "é o somatório de uma análise das condicionantes tais como o planejamento da proposta; o levantamento de quantidades para o preço do custo direto e indireto, e Cálculo do Orçamento visando o estabelecimento do lucro do empreendedor.",
+    "corresponde ao consumo de itens facilmente mensuráveis na sua unidade de medição e remuneração, tais como mobilização e desmobilização da obra, instalações provisórias, administração local e todos os serviços que se consiga quantificar a partir dos projetos.",
+    "é uma porcentagem aplicada sobre os serviços que não se consegue quantificar, tais como, custos financeiros, administração central, seguros, garantias, margem de incerteza, tributos (municipais, estaduais e federais) para estabelecer o lucro bruto do empreendedor."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"é uma porcentagem aplicada sobre o custo direto total…\":** o **BDI** é a taxa aplicada sobre o **custo direto** para chegar ao **preço de venda**: Preço = Custo direto × (1 + BDI). Ele cobre o que não se apropria diretamente aos serviços da planilha (administração central, seguros, garantias, riscos, despesas financeiras e tributos sobre o faturamento) e inclui o **lucro**.\n\n**As outras:**\n- *corresponde ao custo mensal ou anual da sede dividido pelo Custo total…*: descreve, de forma confusa, só o rateio da **administração central**, que é uma das parcelas do BDI.\n- *é o somatório de uma análise das condicionantes tais como o planejamento da proposta…*: mistura etapas do orçamento (estudo das condicionantes, quantitativos, cálculo); não define o BDI.\n- *corresponde ao consumo de itens facilmente mensuráveis… mobilização… administração local…*: são itens **quantificáveis**, que entram como **custo direto** na planilha, como orienta o TCU para obras públicas.\n- *é uma porcentagem aplicada sobre os serviços que não se consegue quantificar…*: o BDI incide sobre o custo direto, isto é, sobre os serviços quantificados da planilha; os itens citados são o que ele cobre, não a base de cálculo.\n\n**Para memorizar:** custo direto = o que se mede na planilha (inclusive canteiro e administração local); BDI = o que não se mede + lucro."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Fundações são elementos estruturais que transferem as cargas da construção para o terreno e todo projeto de fundações contempla as cargas aplicadas pela obra e a resposta do solo a estas solicitações. Marque a assertiva que descreve informações técnicas sobre a Estaca Strauss.",
+   "alternativas": [
+    "Elemento estrutural produzido industrialmente, podendo ser constituído por perfis laminados ou soldados, simples ou múltiplos, tubos de chapa dobrada ou calandrada, tubos (com ou sem costura) e trilhos.",
+    "Pode ser executada em concreto armado ou protendido, vibrado ou centrifugado, com qualquer forma geométrica da seção transversal, devendo apresentar resistência compatível com os esforços de projeto e decorrentes do transporte, manuseio, cravação e eventuais solos agressivos.",
+    "É uma estaca de concreto moldada in loco, executada através da escavação, mediante emprego de uma sonda (também denominada piteira), com a simultânea introdução de revestimento metálico, com guincho mecânico, em segmentos rosqueados, até que se atinja a profundidade projetada.",
+    "Pode ser escavada com uso de fluido estabilizante, que pode ser lama bentonítica para perfuração ou polímeros sintéticos, naturais ou naturais modificados para sustentação das paredes da escavação.",
+    "É uma estaca de concreto moldada in loco, executada mediante a introdução no terreno, por rotação, de um trado helicoidal contínuo de diâmetro constante."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"É uma estaca de concreto moldada in loco, executada através da escavação, mediante emprego de uma sonda…\":** a **estaca Strauss** é escavada com uma **sonda (piteira)** movida por guincho, enquanto se crava um **revestimento metálico** em segmentos rosqueados até a profundidade prevista. Em seguida o concreto é lançado e apiloado, e o revestimento é retirado aos poucos. Usa equipamento leve e vibra pouco, o que a torna boa para terrenos pequenos e vizinhança próxima; em geral não é indicada abaixo do nível d'água em areias e argilas moles.\n\n**As outras:**\n- *Elemento estrutural produzido industrialmente… perfis laminados ou soldados…*: é a estaca **metálica** (de aço).\n- *Pode ser executada em concreto armado ou protendido, vibrado ou centrifugado…*: é a estaca **pré-moldada de concreto**, cravada.\n- *Pode ser escavada com uso de fluido estabilizante…*: é a estaca **escavada com fluido estabilizante** (estacão ou barrete), com lama bentonítica ou polímero.\n- *É uma estaca de concreto moldada in loco… por rotação, de um trado helicoidal contínuo…*: é a estaca **hélice contínua** monitorada.\n\n**Para memorizar:** Strauss = piteira + camisa metálica recuperada na concretagem; hélice contínua = trado contínuo, com concreto injetado pela haste."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "Toda organização deve adotar medidas de prevenção contra incêndios em conformidade com a legislação estadual e, quando aplicável, de forma complementar, com as normas técnicas oficiais. Identifique a alternativa que designa informações corretas sobre prevenção contra incêndio.",
+   "alternativas": [
+    "Toda organização deve adotar medidas de prevenção contra incêndios em conformidade com a legislação federal e obrigatoriamente aplicar, de forma complementar, com as normas técnicas oficiais.",
+    "As aberturas e saídas principais das organizações devem ser identificadas e sinalizadas de acordo com a legislação federal e aplicar de forma complementar, com a legislação estadual e municipal.",
+    "A organização deve providenciar para todos os trabalhadores informações sobre procedimentos de resposta aos cenários de emergências e para evacuação dos locais de trabalho com segurança e dispositivos de alarme existentes.",
+    "As aberturas principais das organizações devem ser mantidas desobstruídas e as vias de passagem e os locais de acesso às escadas e elevadores devem ser obrigatoriamente sinalizados.",
+    "As entradas e as vias de passagem das organizações devem ser equipadas com dispositivos de travamento que permitam fácil abertura do interior do estabelecimento."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A organização deve providenciar para todos os trabalhadores informações…\":** é o item 23.3.2 da **NR-23** (redação de 2022): a organização deve informar a todos os trabalhadores sobre o uso dos equipamentos de combate a incêndio, os **procedimentos de resposta a emergências e de evacuação** e os **dispositivos de alarme** existentes.\n\n**As outras:**\n- *…em conformidade com a legislação federal e obrigatoriamente aplicar…*: a NR-23 remete à **legislação estadual** (Corpo de Bombeiros) e, **quando aplicável**, às normas técnicas oficiais (23.3.1).\n- *As aberturas e saídas principais… de acordo com a legislação federal…*: aberturas, saídas e vias **de emergência** são sinalizadas conforme a **legislação estadual** e, quando aplicável, as normas técnicas (23.3.4).\n- *…locais de acesso às escadas e elevadores devem ser obrigatoriamente sinalizados.*: a norma manda manter desobstruídas aberturas, saídas e vias de passagem (23.3.4.1); escadas e elevadores não aparecem nela.\n- *As entradas e as vias de passagem… dispositivos de travamento…*: são as **saídas de emergência** que **podem** ter travamento de fácil abertura pelo lado de dentro (23.3.5.1); nenhuma pode ser trancada à chave durante a jornada.\n\n**Para memorizar:** NR-23 atual: lei estadual, informar os trabalhadores, sinalizar e desobstruir as saídas, nunca trancar saída de emergência."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "A alvenaria estrutural é um sistema construtivo em que a estrutura convencional de concreto, formada por pilares e vigas, é substituída por blocos de maior resistência, onde a parede é quem resiste aos esforços estruturais. Para o entendimento mais amplo do sistema, é necessário o conhecimento de alguns elementos, sendo o coxim:",
+   "alternativas": [
+    "elemento estrutural não contínuo, apoiado na parede, para distribuir cargas concentradas.",
+    "elemento estrutural armado apoiado continuamente na parede, ligado ou não às lajes, vergas ou contravergas.",
+    "elemento vinculado a uma parede estrutural, com a finalidade de produzir um enrijecimento na direção perpendicular ao seu plano.",
+    "elemento linear que resiste predominantemente à flexão e cujo vão seja maior ou igual a três vezes a altura da seção transversal.",
+    "elemento considerando as suas dimensões externas e desprezando-se a existência dos furos e vazados."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"elemento estrutural não contínuo, apoiado na parede, para distribuir cargas concentradas.\":** em alvenaria estrutural, o **coxim** é uma peça localizada (de concreto ou de blocos grauteados) colocada sob o apoio de uma viga ou de outra carga concentrada para espalhar essa carga na parede e evitar o esmagamento localizado dos blocos. A definição está na norma de alvenaria estrutural (NBR 16868-1).\n\n**As outras:**\n- *elemento estrutural armado apoiado continuamente na parede…*: é a **cinta**, que corre ao longo da parede e amarra o conjunto.\n- *elemento vinculado a uma parede estrutural… enrijecimento na direção perpendicular…*: é o **enrijecedor**.\n- *elemento linear que resiste predominantemente à flexão… três vezes a altura da seção transversal.*: é a **viga**.\n- *elemento considerando as suas dimensões externas e desprezando-se a existência dos furos e vazados.*: é o conceito de **área bruta** de um bloco ou elemento, não um elemento estrutural.\n\n**Para memorizar:** coxim = carga pontual; cinta = contínua ao longo da parede; verga e contraverga = sobre e sob as aberturas."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Tintas imobiliárias são utilizadas no revestimento de edificações para uso residencial, comercial, escolar, hospitalar, dentre outros. Assinale a alternativa que descreve a Tinta do tipo Látex.",
+   "alternativas": [
+    "Tinta tanto para uso interior quando para uso interior/exterior e muito utilizada na preparação de superfícies que irão receber novas pinturas que nivela, uniformiza e corrige pequenas imperfeições de pinturas anteriores alvenaria.",
+    "Tinta com função decorativa e que visa proteger a alvenaria de manifestações patológicas, à base de resina de acetato de polivinila, pigmentos e solventes e sobre reboco rende 10 a 12m² por litro e sobre massa corrida 12 a 15m² por litro, por demão.",
+    "É uma tinta à base de dispersão polimérica em meio aquoso, podendo ser constituída de polímeros acrílicos, vinílicos, entre outros e além da função decorativa, as tintas facilitam a limpeza do ambiente e protegem o substrato de agentes nocivos, aumentando a vida útil da edificação.",
+    "Tinta à base de solvente com secagem oxidativa, utilizada em interiores e exteriores para proteção e decoração de alvenarias de vedação ou alvenarias estruturais com função de proteger e dar acabamento.",
+    "É uma tinta à base de resina acrílica estirenada, pigmentos, aditivos e solventes, indicada para pinturas em alvenarias com reboco, sob blocos de concreto, massa acrílica, massa corrida e repinturas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"É uma tinta à base de dispersão polimérica em meio aquoso…\":** na **tinta látex**, o veículo é a **água**, em que fica dispersa a resina (acrílica, vinílica/PVA ou estireno-acrílica). Quando a água evapora, as partículas de polímero se unem e formam a película. Além de decorar, a tinta facilita a limpeza e protege o substrato, aumentando a vida útil do revestimento. As látex acrílicas são mais resistentes e laváveis, boas para exteriores; as PVA são mais usadas em interiores.\n\n**As outras:**\n- *Tinta tanto para uso interior quando para uso interior/exterior… que nivela, uniformiza e corrige pequenas imperfeições…*: descreve a **massa** niveladora (massa corrida ou acrílica), que prepara a superfície.\n- *Tinta com função decorativa… à base de resina de acetato de polivinila, pigmentos e solventes…*: o PVA é um látex, mas diluído em **água**, não em solventes.\n- *Tinta à base de solvente com secagem oxidativa…*: é o **esmalte sintético** (alquídico), que seca por oxidação.\n- *É uma tinta à base de resina acrílica estirenada, pigmentos, aditivos e solventes…*: a látex estireno-acrílica também é à base de **água**; \"solventes\" torna a descrição errada.\n\n**Para memorizar:** látex (PVA, acrílica) = dilui em água; esmalte sintético e verniz = diluem em solvente (aguarrás)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "A composição de custos na indústria da construção civil é importante porque permite controlar os gastos, planejar o uso de recursos e tomar decisões mais embasadas. Tendo por base o exposto, marque o item que informa a assertiva correta.",
+   "alternativas": [
+    "A composição de custo total compreende preços, mão-de-obra, materiais, equipamentos, subempreiteiros e transportes sem o cálculo do BDI (despesas indiretas e lucro previsto), com inclusão de preços destes insumos.",
+    "A definição dos recursos diretos consiste na elaboração (ou seleção) de uma composição de custo unitário para cada serviço constante da planilha de quantidades.",
+    "A composição de custo unitária apresenta os itens referentes ao custo unitário dos equipamentos e insumos sem a mão-de-obra, pois estas são adotados por hora de trabalho da equipe, portanto, não se referem a uma unidade de serviço, e sim a um múltiplo deste, função da produtividade estimada.",
+    "Custos unitários da mesma forma que, para a composição por produção, correspondem à soma de todos os custos unitários dos componentes intervenientes na composição unitária.",
+    "Custo unitário direto é o cálculo dos valores do coeficiente pelo preço do componente, e representam os custos unitários diretos dos diferentes componentes necessários à execução do serviço e deverá ser calculado antes da compilação de todos os dados de custo do orçamento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A definição dos recursos diretos consiste na elaboração (ou seleção) de uma composição de custo unitário…\":** no orçamento analítico, cada serviço da planilha de quantidades recebe uma **composição de custo unitário** (CPU), elaborada pela empresa ou tirada de uma base como o SINAPI. A CPU lista os insumos (mão de obra, materiais e equipamentos) com unidade, coeficiente de consumo ou produtividade e preço; somando o custo de cada insumo, chega-se ao custo unitário do serviço.\n\n**As outras:**\n- *A composição de custo total compreende preços… sem o cálculo do BDI… com inclusão de preços destes insumos.*: a frase se contradiz e não define nada; custo direto mais custo indireto dão o custo total, e o BDI forma o preço de venda.\n- *A composição de custo unitária apresenta os itens… sem a mão-de-obra…*: a mão de obra faz parte da CPU, com coeficiente em horas por unidade de serviço, função da produtividade.\n- *Custos unitários da mesma forma que, para a composição por produção…*: texto truncado, sem definição.\n- *Custo unitário direto é o cálculo dos valores do coeficiente pelo preço do componente…*: coeficiente × preço dá o custo de **cada insumo**; o custo unitário é a soma deles e só pode ser calculado **depois** da cotação dos preços.\n\n**Para memorizar:** custo unitário = Σ (coeficiente × preço de cada insumo); custo do serviço = quantidade × custo unitário."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Concreto armado é um sistema estrutural utilizado na fabricação de pontes, edifícios, bases para equipamentos, muros, pavimentos, túneis e uma infinidade de outras estruturas. Diante deste conceito, é possível afirmar que:",
+   "alternativas": [
+    "o efeito Rush é uma elevação da resistência do concreto antes da atuação de cargas de longa duração.",
+    "com a pré-tensão ou a pós-tensão, as armaduras são tracionadas e o concreto é comprimido, e essa é a condição inicial da estrutura para receber os carregamentos posteriormente.",
+    "no concreto protendido, dizemos que as armaduras são passivas, porque elas são solicitadas antes de a estrutura ser carregada.",
+    "no caso do concreto armado, a armadura que integra um elemento estrutural é ativa, ou seja, ela irá trabalhar e se deformar somente após a aplicação dos carregamentos que a estrutura estará sujeita.",
+    "as categorias do aço estrutural são CA-25 e CA-50 para fios e CA60 para as barras."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"com a pré-tensão ou a pós-tensão, as armaduras são tracionadas e o concreto é comprimido…\":** no **concreto protendido**, a armadura ativa é esticada antes de a estrutura receber as cargas: antes da concretagem (pré-tração, em pistas de protensão) ou depois que o concreto endurece (pós-tração, com cabos em bainhas). Ancorada ou liberada, ela comprime o concreto, que passa a resistir melhor às trações provocadas pelas cargas e fissura menos.\n\n**As outras:**\n- *o efeito Rush é uma elevação da resistência do concreto…*: o **efeito Rüsch** é a **queda** de resistência do concreto sob cargas de longa duração; por isso se usa o fator 0,85 no dimensionamento.\n- *no concreto protendido, dizemos que as armaduras são passivas…*: no protendido a armadura de protensão é **ativa**, justamente porque é solicitada antes do carregamento.\n- *no caso do concreto armado, a armadura… é ativa…*: no concreto armado ela é **passiva**: só trabalha quando a estrutura se deforma sob as cargas.\n- *as categorias do aço estrutural são CA-25 e CA-50 para fios e CA60 para as barras.*: é o inverso: CA-25 e CA-50 são **barras**; CA-60 é **fio** (NBR 7480).\n\n**Para memorizar:** armadura ativa = tensionada antes da carga; passiva = espera a carga. Barra CA-50, fio CA-60."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O concreto usinado é aquele produzido em central dosadora, com grande aplicação na construção civil. Inerente a esta afirmação, pressupõe-se que:",
+   "alternativas": [
+    "o concreto fluido pode ser aplicado como lastro, contrapeso, barreira à radiação (câmaras de raios-X ou gama, paredes de reatores atômicos) e lajes de subpressão.",
+    "o concreto colorido dosado em central também pode ser aplicado em estruturas convencionais ou protendidas, pré-fabricados.",
+    "o concreto resfriado permite sua aplicação em peças de elevado volume como bases ou blocos de fundações com a vantagem de permitir o controle da fissuração.",
+    "o concreto de Alto Desempenho (CAD) é recomendado em elementos de vedação (paredes, painéis, rebaixos de lajes, isolante termo acústico e nivelamento de pisos).",
+    "o Grout produzido em usinas pode ser aplicado em obras de Plataformas marítimas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"o concreto resfriado permite sua aplicação em peças de elevado volume…\":** em peças volumosas, como blocos de fundação, o calor de hidratação do cimento aquece o núcleo, e a diferença de temperatura para a superfície pode causar **fissuras térmicas**. O concreto **resfriado** (gelo em escamas ou água gelada no lugar de parte da água de amassamento) começa mais frio e reduz o pico de temperatura, o que **controla a fissuração**.\n\n**As outras:**\n- *o concreto fluido pode ser aplicado como lastro…*: são usos do concreto **pesado**, com agregados de alta densidade (barita, hematita).\n- *o concreto colorido… estruturas convencionais ou protendidas, pré-fabricados.*: a banca tratou como aplicação trocada; o colorido é escolhido pela estética (pisos, fachadas, peças aparentes).\n- *o concreto de Alto Desempenho (CAD)… vedação…*: vedação, isolamento termoacústico e enchimento de pisos são usos do concreto **leve**.\n- *o Grout produzido em usinas pode ser aplicado em obras de Plataformas marítimas.*: o graute é argamassa fluida para preencher vazios, fixar equipamentos e fazer reparos; a banca também tratou a frase como aplicação trocada.\n\n**Para memorizar:** peça volumosa + calor de hidratação = concreto resfriado. Ponto discutível: colorido e graute também têm esses usos na prática (pigmento não impede uso estrutural; há graute para estruturas offshore)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Estruturas de contenção são obras estruturais que possuem o objetivo de conter maciços de solo, água ou até mesmo rejeitos. Assim, as cortinas são:",
+   "alternativas": [
+    "contenções ancoradas ou apoiadas em outras estruturas, caracterizadas pela pequena deslocabilidade.",
+    "elementos de contensão destinado a contrapor-se a empuxos ou tensões geradas em maciço cuja condição de equilíbrio foi alterada por algum tipo de escavação ou aterro.",
+    "estruturas contínuas de contenção, constituídas de parede vertical ou quase vertical apoiada numa fundação rasa ou profunda.",
+    "estruturas de contensões provisórias executadas para possibilitar a construção de outras obras.",
+    "construções de contensões em que um ou mais elementos são introduzidos no solo com a finalidade de aumentar sua resistência para que possa suportar as tensões geradas por um desnível abrupto."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"contenções ancoradas ou apoiadas em outras estruturas, caracterizadas pela pequena deslocabilidade.\":** é a definição de **cortina** da norma de estabilidade de encostas (NBR 11682): uma parede de contenção que se sustenta por **ancoragens** (tirantes) ou apoiada em outras estruturas (lajes, estroncas) e, por isso, se desloca pouco. É o caso das cortinas atirantadas em subsolos e encostas urbanas.\n\n**As outras:**\n- *elementos de contensão destinado a contrapor-se a empuxos ou tensões…*: é a definição genérica de **estrutura de contenção**, que vale para todos os tipos.\n- *estruturas contínuas de contenção, constituídas de parede vertical ou quase vertical apoiada numa fundação…*: é o **muro**, que resiste ao empuxo pelo próprio peso ou por flexão, apoiado na fundação.\n- *estruturas de contensões provisórias executadas para possibilitar a construção de outras obras.*: é o **escoramento**.\n- *construções de contensões em que um ou mais elementos são introduzidos no solo…*: descreve o **reforço do maciço** (solo grampeado, solo reforçado), que aumenta a resistência do próprio terreno.\n\n**Para memorizar:** muro = peso ou flexão sobre fundação; cortina = ancorada ou apoiada, desloca pouco; escoramento = provisório."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O vidro é um material muito utilizado na construção civil, sendo usado em fachadas, janelas, portas, divisórias e coberturas. Destarte, complementamos estas informações considerando que o vidro insulado:",
+   "alternativas": [
+    "é um vidro obtido por fundição e laminação contínua que possui uma malha de arame de aço dentro da sua massa.",
+    "é um vidro plano translúcido, incolor ou colorido, que apresenta em uma de suas faces um desenho impresso.",
+    "é constituído por duas ou mais chapas de vidro separadas por um perfil espaçador, que forma uma câmara interna preenchida com ar ou algum tipo de gás, o argônio, por exemplo.",
+    "é composto de duas ou mais chapas de vidro fortemente interligadas por uma ou mais camadas intermediárias.",
+    "é transparente, incolor ou colorido em sua massa e possui faces paralelas e planas e é a matéria-prima que dá origem a outros tipos de vidro, como o curvo, temperado, laminado, de controle solar, insulado e espelho, entre outros."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"é constituído por duas ou mais chapas de vidro separadas por um perfil espaçador…\":** o **vidro insulado** (vidro duplo) une duas ou mais chapas com um espaçador na borda, selado, formando uma **câmara** com ar desidratado ou gás, como o argônio. A câmara reduz a troca de calor e melhora o isolamento acústico; por isso o insulado é usado em fachadas climatizadas, em climas frios e perto de fontes de ruído.\n\n**As outras:**\n- *é um vidro obtido por fundição e laminação contínua que possui uma malha de arame…*: é o vidro **aramado**.\n- *é um vidro plano translúcido… que apresenta em uma de suas faces um desenho impresso.*: é o vidro **impresso** (fantasia).\n- *é composto de duas ou mais chapas de vidro fortemente interligadas por uma ou mais camadas intermediárias.*: é o vidro **laminado** (com película de PVB, por exemplo), um vidro de segurança.\n- *é transparente, incolor ou colorido em sua massa… matéria-prima que dá origem a outros tipos…*: é o vidro **float** (comum), base do temperado, do laminado e do próprio insulado.\n\n**Para memorizar:** insulado = câmara de ar (conforto térmico e acústico); laminado = película (segura os cacos); temperado = tratamento térmico (mais resistente, quebra em pedaços pequenos)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "As grandezas que caracterizam o escoamento superficial em uma bacia hidrográfica são fundamentais para o planejamento, logo, o coeficiente de escoamento superficial pode ser descrito como:",
+   "alternativas": [
+    "o volume de água que atravessa uma seção transversal qualquer (tubulações, canais, calhas de cursos d’água, etc.) considerada em uma unidade de tempo.",
+    "o registro em um determinado período de tempo de escoamento superficial que representa um importante parâmetro para o planejamento do sistema de drenagem das águas superficiais e de obras necessárias para controle da erosão e cheias.",
+    "o tempo gasto para que as águas de chuva se desloquem do ponto mais alto de uma bacia até a sua foz.",
+    "o período de tempo médio em que um determinado evento de chuva é igualado ou superado pelo menos uma vez.",
+    "a representação da relação entre o volume que escoa sobre a superfície do terreno e o volume total precipitado."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"a representação da relação entre o volume que escoa sobre a superfície do terreno e o volume total precipitado.\":** o **coeficiente de escoamento superficial** (coeficiente de deflúvio, ou C) é a razão entre o volume que escoa e o volume que choveu. Vai de 0 a 1: superfícies impermeáveis, como telhados e asfalto, têm C alto, perto de 1; gramados e matas, baixo. É o C do **método racional**, Q = C · i · A, usado para dimensionar a drenagem.\n\n**As outras:**\n- *o volume de água que atravessa uma seção transversal… em uma unidade de tempo.*: é a **vazão**.\n- *o registro em um determinado período de tempo de escoamento superficial…*: descreve o registro das vazões ao longo do tempo (série histórica, hidrograma), não um coeficiente.\n- *o tempo gasto para que as águas de chuva se desloquem do ponto mais alto de uma bacia até a sua foz.*: é o **tempo de concentração**.\n- *o período de tempo médio em que um determinado evento de chuva é igualado ou superado…*: é o **período de retorno** (tempo de recorrência).\n\n**Para memorizar:** C = volume escoado ÷ volume precipitado. Quanto mais impermeável o terreno, maior o C e maior a vazão de pico."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Um projeto arquitetônico é um conjunto de desenhos, plantas e descrições que representam uma obra de arquitetura. Sobre representação de projetos de arquitetura, podemos afirmar que:",
+   "alternativas": [
+    "planta de edificação compreende o projeto como um todo, contendo, além do projeto de arquitetura, as informações necessárias dos projetos complementares.",
+    "elevações são representação gráfica de planos internos ou de elementos da edificação.",
+    "em representação gráfica de arquitetura, as linhas internas contínuas, quando se tratar de projeções importantes, devem ter o mesmo valor que as linhas de contorno.",
+    "projeto como construído é a definição do partido arquitetônico e dos elementos construtivos, considerando os projetos complementares (estrutura, instalações, etc.)",
+    "os cortes transversais e longitudinais não podem ser marcados nas fachadas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"elevações são representação gráfica de planos internos ou de elementos da edificação.\":** a NBR 6492 (na versão de 1994, em que a questão se baseia) separa **fachada**, a representação dos planos **externos** da edificação, de **elevação**, a representação de planos **internos** ou de elementos (a parede de um banheiro com revestimentos, uma bancada, uma esquadria).\n\n**As outras:**\n- *planta de edificação compreende o projeto como um todo…*: planta é a vista superior de um plano de corte horizontal a cerca de 1,50 m do piso; a alternativa descreve o projeto completo, com arquitetura e complementares.\n- *em representação gráfica de arquitetura, as linhas internas contínuas… devem ter o mesmo valor que as linhas de contorno.*: as linhas internas são firmes, mas de **menor valor** que as de contorno; quem tem o mesmo valor do contorno são as **linhas de projeção** (traço e dois pontos) de elementos importantes, como balanços e marquises.\n- *projeto como construído é a definição do partido arquitetônico…*: essa é a ideia de **anteprojeto**; o projeto como construído (*as built*) registra a obra como foi executada.\n- *os cortes transversais e longitudinais não podem ser marcados nas fachadas.*: a norma admite marcá-los nas fachadas.\n\n**Para memorizar:** fachada = planos de fora; elevação = planos de dentro. Linha de contorno (elemento cortado) é a mais grossa do desenho."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "A Terraplanagem compreende o conjunto de operações de escavação, carga, transporte, descarga e espalhamento. Nesse aspecto, pode-se afirmar que:",
+   "alternativas": [
+    "os valores obtidos no cálculo de corte permitem estimar as distâncias de transporte do material de terraplanagem ao longo do trecho da rodovia, medidas como a extensão horizontal ao longo da qual o volume individual é transportado, desde a origem até o destino.",
+    "Bota-Fora são os chamados empréstimos concentrados ou jazidas e são utilizados quando não existem materiais adequados nas laterais da rodovia para a execução do serviço de nivelamento no processo de terraplanagem ou quando o volume das faixas laterais de exploração não é suficiente.",
+    "para um projeto de terraplanagem de rodovias, o estudo de drenagem profunda é importante, pois em taludes de cortes a meia encosta existe a possibilidade, quando não estudados com atenção, da ocorrência de deslizamentos.",
+    "o projeto de seções transversais de corte, aterro ou mistas, consiste da determinação da largura da plataforma de terraplanagem, da Inclinação da plataforma e Inclinação dos taludes de corte e aterro.",
+    "para um projeto de terraplanagem de rodovias, o cálculo do maciço é definido a partir da transformação de toda a carga distribuída no centro de massa identificando seu volume e ao longo do centro de massa proveniente de seu volume, para uma única carga pontual (ou concentrada)."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"o projeto de seções transversais de corte, aterro ou mistas…\":** no projeto de terraplenagem, as **seções transversais** definem a **largura da plataforma**, a **inclinação transversal** da plataforma e a **inclinação dos taludes** de corte e de aterro. Desenhadas em cada estaca, permitem calcular as áreas e, daí, os volumes de corte e aterro.\n\n**As outras:**\n- *os valores obtidos no cálculo de corte permitem estimar as distâncias de transporte…*: as distâncias de transporte saem do **diagrama de massas** (Brückner), que combina cortes e aterros ao longo do trecho.\n- *Bota-Fora são os chamados empréstimos concentrados ou jazidas…*: é o contrário: **empréstimo** fornece material quando falta; **bota-fora** recebe o que sobra ou não presta.\n- *…o estudo de drenagem profunda é importante, pois em taludes de cortes a meia encosta…*: o estudo que previne escorregamentos em cortes a meia encosta é o **geotécnico**, de estabilidade de taludes.\n- *…o cálculo do maciço é definido a partir da transformação de toda a carga…*: frase sem sentido técnico; usam-se os **centros de gravidade** dos volumes de corte e aterro para medir a distância média de transporte.\n\n**Para memorizar:** empréstimo fornece; bota-fora recebe. Ponto discutível: drenagem profunda também ajuda a estabilizar taludes, então essa frase não é absurda."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O uso da madeira na construção civil é bastante comum e amplo, e sobre suas características, admite-se que:",
+   "alternativas": [
+    "a madeira serrada é o produto de madeira com o menor grau de processamento, em geral, aplicada após o descascamento da tora, pode ser utilizada para sistemas estruturais, como as chamadas *log homes*, para a execução de estruturas compostas, como o sistema pilar-viga, assim como postes de distribuição de energia elétrica.",
+    "madeira roliça ou, *sawn wood*, é a madeira que resulta diretamente do desdobro de toras ou toretes, constituída de peças cortadas longitudinalmente por meio de serra, independentemente de suas dimensões, com seção retangular ou quadrada.",
+    "a madeira tipo compensado é denominada internacionalmente de *glued laminated timber* (GLT ou Glulam) e é um produto de madeira engenheirada com seções transversaislineares concebidas a partir da colagem de duas ou mais lamelas de madeira roliça.",
+    "produtos de madeira maciça são incluídas à madeira roliça e à madeira serrada. Para a sua produção, comparando aos produtos de madeira engenheirada, é realizado um processo de beneficiamento mais simples, em geral resumido em corte, secagem, tratamento preservativo e usinagem.",
+    "a madeira à base de lâminas é feita pela justaposição de peças de madeira serrada, ou seja, lamelas em pé, mantendo suas fibras alinhadas, unidas por meio de pregos ou parafusos e compõe um elemento estrutural sólido utilizado como vigas ou painéis de parede, piso ou laje, podendo conformar uma estrutura reta ou curvilínea, plana ou irregular."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"produtos de madeira maciça são incluídas à madeira roliça e à madeira serrada…\":** os produtos de **madeira maciça** são a madeira **roliça** (tora descascada) e a madeira **serrada** (peças cortadas da tora). Comparados aos produtos **engenheirados** (compensado, MLC, LVL, CLT), passam por um beneficiamento simples: corte, secagem, tratamento preservativo e usinagem.\n\n**As outras:**\n- *a madeira serrada é o produto de madeira com o menor grau de processamento…*: a descrição (tora descascada, casas de troncos, postes) é da madeira **roliça**; os nomes foram trocados.\n- *madeira roliça ou, sawn wood, é a madeira que resulta diretamente do desdobro…*: essa é a madeira **serrada** (*sawn wood*).\n- *a madeira tipo compensado é denominada internacionalmente de glued laminated timber…*: *glulam* é a **madeira laminada colada (MLC)**, feita de lamelas de madeira **serrada**; o compensado (*plywood*) é feito de lâminas finas coladas com as fibras cruzadas.\n- *a madeira à base de lâminas é feita pela justaposição de peças de madeira serrada… pregos ou parafusos…*: o que se descreve é a madeira **lamelada pregada**; os produtos à base de lâminas (compensado, LVL) usam lâminas finas **coladas**.\n\n**Para memorizar:** maciça = roliça e serrada; engenheirada = colada (compensado, MLC/glulam, LVL, CLT)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Pisos protegem a estrutura do edifício, evita o desgaste causado por eventos externos, evita gastos com futuras reformas e serve como base para o estilo decorativo escolhido para cada espaço. Identifique a correta caracterização do Piso tipo Laminado.",
+   "alternativas": [
+    "Tecnicamente, refere-se ao piso composto de camadas de uma ou mais folhas finas de material ligno-celulósico, impregnado de resinas aminoplásticas termofixadas (geralmente resina melamínica), sobre e sob um substrato.",
+    "É composto por minerais e aditivos, que podem vir em mantas, placas ou réguas e além de ser muito resistente, colabora com o isolamento térmico e, por isso, mantém as temperaturas agradáveis nos ambientes.",
+    "É um revestimento nobre, que pode ser instalado em piso, revestimento de parede e até bancada, sendo um material altamente resistente e durável, que permite o uso de rejuntes menos espessos criando um visual incrível e dando uma sensação de amplitude no ambiente.",
+    "São produzidos com argila e são opções para quem busca um material durável e bonito, sendo versáteis, disponíveis em diversas cores, formatos, estampas e texturas, podem ser usados em qualquer ambiente da casa.",
+    "É um piso monolítico, feito à base de epóxi, que é um composto utilizado em resinas e adesivos e altamente brilhante, bem semelhante ao porcelanato tradicional, então pode criar um efeito mais elegante no ambiente."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Tecnicamente, refere-se ao piso composto de camadas de uma ou mais folhas finas…\":** o **piso laminado** tem um núcleo (substrato) de fibra de madeira de alta densidade (HDF) revestido, em cima e embaixo, por folhas de papel impregnadas de **resina melamínica** termofixa. A folha de cima traz a imagem decorativa (madeira, pedra) e uma camada resistente à abrasão. É a definição técnica da norma de pisos laminados (NBR 14833).\n\n**As outras:**\n- *É composto por minerais e aditivos, que podem vir em mantas, placas ou réguas…*: lembra o piso **vinílico** (PVC com cargas minerais e aditivos), vendido em mantas, placas ou réguas.\n- *É um revestimento nobre… que permite o uso de rejuntes menos espessos…*: é o **porcelanato**, sobretudo o retificado.\n- *São produzidos com argila…*: são os pisos **cerâmicos**.\n- *É um piso monolítico, feito à base de epóxi…*: é o piso de **resina epóxi** (autonivelante), sem juntas.\n\n**Para memorizar:** laminado = HDF + papel melamínico; vinílico = PVC; porcelanato = cerâmica de baixíssima absorção de água."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "O orçamento define o quanto será gasto na execução de uma edificação, considerando todos os componentes envolvidos no processo, nesse sentido podemos afirmar que:",
+   "alternativas": [
+    "orçamento analítico é um pouco menos detalhado que o orçamento preliminar, pois neste grau de orçamento, são realizados o levantamento de algumas quantidades e a atribuição do custo de alguns serviços, sendo seu grau de certeza é mais baixo.",
+    "o orçamento preliminar é o maior grau de detalhamento da orçamentação viso que é efetuado a partir de composições de custos e cuidadosa pesquisa de preços dos insumos objetivando se chegar a um valor bem próximo do custo real.",
+    "a etapa de produção do Custo Unitário Básico (CUB) que o levantamento de quantidades preliminares faz necessário mediante a composição de custos unitários para cada serviço da obra, leva em consideração quanto de mão de obra, material e equipamento é gasto em sua execução.",
+    "o orçamento executivo é elaborado com base em todos os projetos e respectivos memoriais descritivos de acabamentos completos, e se diferencia por se preocupar com os detalhes de como a obra será executada, modelando custos de acordo com o tempo.",
+    "as estimativas de custos normalmente são utilizadas durante a execução de empreendimento, sendo as mesmas elaboradas com base no projeto arquitetônico final, onde a margem de erro deste orçamento é consideravelmente baixa."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"o orçamento executivo é elaborado com base em todos os projetos…\":** o orçamento **executivo** (ou operacional) parte do projeto completo, com memoriais e especificações, e acrescenta o **planejamento da execução**: métodos construtivos, sequência, equipes e cronograma. Por isso distribui os custos **no tempo**, servindo de base para o cronograma físico-financeiro e o controle da obra.\n\n**As outras:**\n- *orçamento analítico é um pouco menos detalhado que o orçamento preliminar…*: o **analítico** (detalhado) é o mais preciso, feito com composições de custos e pesquisa de preços.\n- *o orçamento preliminar é o maior grau de detalhamento…*: essa descrição é a do orçamento **analítico**; o preliminar usa algumas quantidades e os preços dos principais serviços.\n- *a etapa de produção do Custo Unitário Básico (CUB)…*: o CUB é um custo por **metro quadrado** de projetos-padrão, divulgado pelos Sinduscons conforme a NBR 12721, e serve para estimativas, sem composições por serviço.\n- *as estimativas de custos normalmente são utilizadas durante a execução…*: a estimativa é feita no **início**, para estudar a viabilidade, com dados por área e margem de erro grande.\n\n**Para memorizar:** do menos ao mais preciso: estimativa (CUB, R$/m²) → preliminar → analítico. Executivo = analítico + planejamento da obra no tempo."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Os materiais cerâmicos são formados por meio de ligações químicas e podem ser cristalinos, amorfos ou parcialmente cristalinos. Nesse sentido, identifique os materiais classificados como cerâmicos.",
+   "alternativas": [
+    "Cerâmicas avançadas, cerâmicas tradicionais, polímeros.",
+    "Cerâmicas tradicionais, pvc, vidros.",
+    "Cerâmicas avançadas, fibras naturais, cerâmicas tradicionais.",
+    "Cerâmicas avançadas, cerâmicas tradicionais, látex.",
+    "Vidros, abrasivos, cimentos."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Vidros, abrasivos, cimentos.\":** cerâmicas são materiais **inorgânicos e não metálicos**, com ligações iônicas ou covalentes, cristalinos ou amorfos. Na classificação usual da ciência dos materiais (Callister), o grupo inclui **vidros**, produtos à base de argila (tijolos, telhas, louças), refratários, **abrasivos**, **cimentos** e cerâmicas avançadas.\n\n**As outras:**\n- *Cerâmicas avançadas, cerâmicas tradicionais, polímeros.*: polímeros são outra classe de materiais, de cadeias orgânicas.\n- *Cerâmicas tradicionais, pvc, vidros.*: o PVC é um polímero.\n- *Cerâmicas avançadas, fibras naturais, cerâmicas tradicionais.*: fibras naturais (sisal, coco, juta) são materiais orgânicos.\n- *Cerâmicas avançadas, cerâmicas tradicionais, látex.*: o látex é um polímero, natural ou sintético.\n\n**Para memorizar:** as três grandes classes são metais, cerâmicos e polímeros (mais os compósitos, que as combinam). Vidro e cimento são cerâmicos."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Os encargos sociais de obras são despesas relacionadas à folha de pagamento da mão de obra, e que incluem direitos trabalhistas e previdenciários, onde se tem que:",
+   "alternativas": [
+    "os Encargos Sociais compreendem os componentes de preço que podem ser devidamente identificados, quantificados e mensurados na planilha orçamentária da obra, sendo apropriados dos custos diretos, dos custos indiretos e da administração local da obra referente às despesas relacionadas aos recursos humanos do empreendimento.",
+    "o valor percentual que incide sobre o custo global de referência para realização da obra ou serviço de engenharia que incide sobre a mão de obra, deve haver em sua composição o custo relacionado à administração central; percentuais de tributos incidentes sobre o preço do serviço prestado por cada colaborador, excluídos aqueles de natureza direta e personalística que oneram o contratado, tais como taxa de risco, seguros de vida e exames médicos.",
+    "cada composição de custo unitário define o valor financeiro a ser despendido na execução do respectivo serviço e é elaborada com base em coeficientes de produtividade, de consumo e aproveitamento de insumos e seus preços coletados no mercado, devendo conter, no mínimo discriminação de cada insumo, unidade de medida, sua incidência na realização do serviço, custo unitário e custo parcial; custo unitário total do serviço, representado pela soma dos custos parciais de cada insumo onde Encargos Sociais e Complementares utilizados não são inseridos esta etapa.",
+    "os Encargos Complementares são custos associados à mão de obra-alimentação, transporte, equipamentos de proteção individual, ferramentas, exames médicos obrigatórios e seguros de vida, cuja obrigação de pagamento decorre das Convenções Coletivas de Trabalho e de Normas que regulamentam a prática profissional na construção civil e não variam proporcionalmente aos salários.",
+    "os encargos sociais são calculados de acordo com a legislação vigente e não são aplicados em forma percentual sobre a remuneração da mão de obra variando de acordo com a região e as especificidades de cada contrato de trabalho."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"os Encargos Complementares são custos associados à mão de obra…\":** na metodologia do **SINAPI**, os encargos complementares reúnem alimentação, transporte, EPI, ferramentas, exames médicos obrigatórios e seguro de vida, que vêm das convenções coletivas e das normas de segurança. Como **não variam na proporção do salário**, ficam fora do percentual de encargos sociais e entram como itens próprios nas composições.\n\n**As outras:**\n- *os Encargos Sociais compreendem os componentes de preço que podem ser devidamente identificados…*: essa é a definição de **custo direto**; encargos sociais são um percentual sobre a mão de obra.\n- *o valor percentual que incide sobre o custo global de referência…*: mistura a definição de **BDI** (administração central e tributos, excluídos os de natureza direta e personalística) com itens de mão de obra.\n- *cada composição de custo unitário define o valor financeiro…*: o início está certo, mas a mão de obra entra na composição já com os **encargos sociais**, e os complementares entram como insumos.\n- *os encargos sociais… não são aplicados em forma percentual…*: eles são justamente um **percentual sobre a remuneração** (INSS, FGTS, férias, 13º etc.), diferente para horistas e mensalistas.\n\n**Para memorizar:** encargos sociais = % sobre o salário; encargos complementares = valor por hora ou por mês, fora do percentual."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "As Esquadrias são elementos usados na construção para o fechamento de vãos e são de vários tipos, estando a Janela Projetante descrita em:",
+   "alternativas": [
+    "janela destinada ao uso externo ou interno à edificação, formada por uma ou mais folhas (envidraçadas ou destinadas ao sombreamento – venezianas) que podem ser movimentadas mediante rotação em torno de eixos verticais fixos, coincidentes com as laterais da folha.",
+    "janela destinada ao uso externo ou interno à edificação, cuja folha não possui movimento.",
+    "janela destinada exclusivamente ao uso interno à edificação, formada por uma ou várias folhas que podem ser movimentadas com eixo de rotação horizontal, central ou excêntrico, não coincidente com as extremidades superior ou inferior da janela.",
+    "janela destinada ao uso externo ou interno à edificação sendo do tipo projetante quando o eixo fixo de rotação se localiza na extremidade superior.",
+    "janela destinada ao uso externo ou interno à edificação, formada por uma ou mais folhas que podem ser movimentadas por deslizamento vertical, no plano da esquadria."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"janela destinada ao uso externo ou interno à edificação sendo do tipo projetante…\":** na janela **projetante**, a folha gira em torno de um **eixo horizontal fixo na parte de cima**, e a parte de baixo se projeta para fora; mesmo aberta, protege da chuva. A **maxim-ar** é a projetante-deslizante: o eixo superior também desliza, abrindo mais o vão. Os tipos estão definidos na norma de janelas (NBR 10821-1).\n\n**As outras:**\n- *janela… rotação em torno de eixos verticais fixos, coincidentes com as laterais da folha.*: é a janela **de abrir** (de giro), com dobradiças nas laterais.\n- *janela destinada ao uso externo ou interno à edificação, cuja folha não possui movimento.*: é a janela **fixa**.\n- *janela destinada exclusivamente ao uso interno… eixo de rotação horizontal, central ou excêntrico…*: descreve a **basculante**, com o erro de restringi-la ao uso interno; basculantes são comuns em fachadas de banheiros e áreas de serviço.\n- *janela… movimentadas por deslizamento vertical, no plano da esquadria.*: é a janela **guilhotina**.\n\n**Para memorizar:** projetante = eixo horizontal em cima; basculante = eixo horizontal no meio da folha; de abrir = eixo vertical na lateral; guilhotina = desliza na vertical."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Os revestimentos são executados para proporcionar maior resistência ao choque ou abrasão (resistência mecânica), impermeabilizar, tornar as superfícies mais higiênicas (laváveis) ou ainda aumentar as qualidades de isolamento térmico e acústico. Assinale a alternativa que apresenta a correta caracterização da Argamassa de Regularização.",
+   "alternativas": [
+    "É utilizada para a regularização dos diversos substratos e normalmente também é utilizado como base para o reboco, massa corrida, gesso, etc., devendo promover a boa ancoragem e possuir uniformidade de absorção para que haja boa aderência entre as camadas.",
+    "É constituída por faixas de argamassa, em toda a altura da parede (ou largura do teto) e são executadas na superfície ao longo de cada fila de taliscas já umedecidas.",
+    "Para aplicação da argamassa de regularização, é preciso preparar o piso, nivelando e apiloado, ficando claro que o apiloamento não tem a finalidade de aumentar a resistência, mas sim uniformizá-lo.",
+    "A sua execução é iniciada somente após a colocação de peitoris, tubulações de elétrica etc., e antes da colocação das guarnições e rodapés.",
+    "Nos pavimentos superiores (sobre as lajes), quando as mesmas não forem executadas com nível zero, devemos realizar uma argamassa de regularização, que em certos casos poderá ser a própria argamassa de assentamento."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Nos pavimentos superiores (sobre as lajes)…\":** a **argamassa de regularização** de piso (o contrapiso) corrige nível, caimento e planicidade da base para receber o revestimento. Sobre lajes que não foram executadas no \"nível zero\" (já niveladas na concretagem), é preciso fazer essa camada; às vezes, a própria argamassa de assentamento, mais espessa, cumpre a função.\n\n**As outras:**\n- *É utilizada para a regularização dos diversos substratos… base para o reboco…*: descreve o **emboço**, camada de parede que regulariza a base e recebe o reboco ou o acabamento.\n- *É constituída por faixas de argamassa, em toda a altura da parede…*: são as **mestras**, guias feitas entre as taliscas para sarrafear o revestimento.\n- *…preparar o piso, nivelando e apiloado…*: descreve o preparo do **terreno** no térreo (nivelar e compactar com soquete) antes do lastro de concreto.\n- *A sua execução é iniciada somente após a colocação de peitoris…*: é a sequência do **revestimento de paredes** (emboço e reboco), depois de peitoris e tubulações e antes de guarnições e rodapés.\n\n**Para memorizar:** parede: chapisco → emboço → reboco (ou massa única). Piso: lastro (no térreo) → contrapiso → revestimento. Ponto discutível: o emboço também é uma camada de regularização; a banca pensou no contrapiso."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "As instalações de esgoto são sistemas de tubulações que recolhem e transportam a água de descargas sanitárias para a rede de tratamento ou para fossas sépticas, sendo o Desconector:",
+   "alternativas": [
+    "tubo ventilador secundário ligado a um ramal de esgoto e servindo a um grupo de aparelhos sem ventilação individual.",
+    "tubo ventilador ligando o tubo de queda ou ramal de esgoto ou de descarga à coluna de ventilação.",
+    "dispositivo que não tem acesso aos gases provenientes do coletor público ou dos dispositivos de tratamento.",
+    "tubo da rede coletora que recebe contribuição de esgoto dos coletores prediais em qualquer ponto ao longo do seu comprimento.",
+    "dispositivo provido de fecho hídrico, destinado a vedar a passagem de gases no sentido oposto ao deslocamento do esgoto."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"dispositivo provido de fecho hídrico, destinado a vedar a passagem de gases…\":** **desconector** é o dispositivo com **fecho hídrico** (selo de água) que impede que os gases do esgoto voltem para o ambiente, no sentido contrário ao do escoamento. Exemplos: sifão de pia e de lavatório, caixa sifonada e o sifão do próprio vaso sanitário. A NBR 8160 exige que os aparelhos sanitários sejam protegidos por desconectores.\n\n**As outras:**\n- *tubo ventilador secundário ligado a um ramal de esgoto e servindo a um grupo de aparelhos sem ventilação individual.*: é o **tubo ventilador de circuito**.\n- *tubo ventilador ligando o tubo de queda ou ramal de esgoto ou de descarga à coluna de ventilação.*: é o **tubo ventilador de alívio**.\n- *dispositivo que não tem acesso aos gases provenientes do coletor público…*: lembra a definição de **instalação secundária de esgoto**, a parte da rede, antes do desconector, onde os gases do coletor não chegam.\n- *tubo da rede coletora que recebe contribuição de esgoto dos coletores prediais…*: é o **coletor público**.\n\n**Para memorizar:** desconector = fecho hídrico. A ventilação existe para que esse fecho não seja rompido por sifonagem ou por pressão."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "O conceito de segurança de uma estrutura é a capacidade que ela apresenta de suportar as diversas ações que vierem a solicitá-la durante a sua vida útil, continuando a satisfazer as condições funcionais a que se destinava por ocasião de sua construção. Sobre o uso de madeiras em estruturas, assinale a alternativa correta.",
+   "alternativas": [
+    "Entre as características físicas da madeira, para seu uso em estruturas, destacam-se umidade; densidade; retratibilidade; resistência ao fogo; durabilidade natural e resistência química.",
+    "Sendo a madeira um material ortotrópico, suas propriedades para fins estruturais não variam de acordo com os eixos perpendiculares longitudinal, radial e tangencial.",
+    "Para fins de aplicação estrutural da madeira e para classificação de espécies, a norma brasileira específica a umidade de 6% como referência para a realização de ensaios e valores de resistência nos cálculos.",
+    "No caso de uso em sistemas estruturais, é importante destacar que a umidade da madeira não apresenta grande influência na sua densidade.",
+    "A durabilidade da madeira para fins estruturais de edificações, com relação à biodeterioração, independe da espécie e das características anatômicas, mas sim do fator presença de umidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Entre as características físicas da madeira, para seu uso em estruturas, destacam-se umidade…\":** no projeto de estruturas de madeira, as propriedades físicas que importam são **umidade**, **densidade**, **retratibilidade** (variação de dimensões com a umidade), **resistência ao fogo**, **durabilidade natural** e **resistência química**. Elas afetam resistência, estabilidade dimensional e vida útil das peças.\n\n**As outras:**\n- *Sendo a madeira um material ortotrópico, suas propriedades… não variam…*: **ortotrópico** quer dizer que as propriedades **variam** conforme a direção (longitudinal, radial e tangencial); a madeira resiste mais na direção das fibras.\n- *…a norma brasileira específica a umidade de 6% como referência…*: a NBR 7190 adota **12%** como umidade de referência para ensaios e valores de cálculo.\n- *…a umidade da madeira não apresenta grande influência na sua densidade.*: a umidade muda massa e volume; por isso a norma define a densidade aparente a 12% e a básica com massa seca e volume saturado.\n- *A durabilidade da madeira… independe da espécie e das características anatômicas…*: a durabilidade natural **depende da espécie** e da parte da tora (o cerne é mais durável que o alburno), além da umidade do ambiente.\n\n**Para memorizar:** madeira estrutural: umidade de referência de 12%; resistência maior paralela às fibras; cerne mais durável que alburno."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "A hidrologia é aplicada em projetos de engenharia ambiental, como a operação de sistemas de alerta hidrológicos, o mapeamento de manchas de inundação e a regionalização de vazões de bacias hidrográficas. No tocante à hidrologia, podemos observar que:",
+   "alternativas": [
+    "método das Isoietas é um método simplificado, normalmente utilizado para o preenchimento de séries mensais ou anuais de precipitações, visando a homogeneização do período de informações e à análise estatística das precipitações.",
+    "pluviógrafo possui uma superfície de capacitação horizontal delimitada por um anel metálico e de um reservatório que acumula a água recolhida.",
+    "a altura pluviométrica é caracterizada por meio de três grandezas: altura, duração e intensidade.",
+    "a variação de latitude média de uma bacia hidrográfica é um importante fator relacionado com a temperatura e precipitação.",
+    "o Balanço Hídrico é a contabilidade das entradas e saídas de água de um sistema. Várias escalas espaciais podem ser consideradas para se contabilizar o balanço hídrico, como a macro, a intermediária e a local."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"o Balanço Hídrico é a contabilidade das entradas e saídas de água de um sistema…\":** o **balanço hídrico** compara o que entra (precipitação) com o que sai (evapotranspiração, escoamento, infiltração profunda) e com a variação do armazenamento. Pode ser feito em várias escalas: macro (grande bacia, continente), intermediária (bacia hidrográfica) e local (um lote, uma parcela de solo).\n\n**As outras:**\n- *método das Isoietas é um método simplificado…*: isoietas são linhas de igual precipitação, usadas para calcular a **chuva média numa bacia**; é o método mais preciso. A frase descreve a **ponderação regional**, usada para preencher falhas.\n- *pluviógrafo possui uma superfície de capacitação horizontal…*: isso é o **pluviômetro**, que acumula a chuva; o **pluviógrafo** a registra continuamente, o que permite calcular intensidades.\n- *a altura pluviométrica é caracterizada por meio de três grandezas…*: quem se caracteriza por altura, duração e intensidade é a **precipitação**; a altura pluviométrica (lâmina em mm) é uma dessas grandezas.\n- *a variação de latitude média de uma bacia hidrográfica…*: o fator ligado à temperatura e à precipitação é a **altitude** (elevação média e variação de altitude).\n\n**Para memorizar:** pluviômetro acumula; pluviógrafo registra no tempo. Chuva média na bacia: média aritmética, Thiessen ou isoietas (a mais precisa)."
+  },
+  {
+   "id": "idecan-2025-sesaprn-eng-civil-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "Coberturas são estruturas que se definem pela forma, observando as características de função e estilo arquitetônico das edificações e seus elementos são os componentes estruturais que a compõem, sendo o oitão:",
+   "alternativas": [
+    "a elevação externa em alvenaria de vedação acima da linha de forro (pé-direito), que ocorrem com a eliminação das tacaniças (planos de cobertura de forma triangular, limitado pela linha lateral da cobertura e dois espigões).",
+    "a elevação de alvenarias acima da linha de forro, na mesma projeção das paredes, com objetivo funcional de proteção das coberturas.",
+    "caracterizado pela projeção das estruturas de apoio de cobertura além da linha de paredes externas, com a execução de forros.",
+    "um prolongamento das lajes de forro em balanço estrutural, além da linha de paredes externas.",
+    "caracterizado pela definição de somente uma superfície plana, com declividade, cobrindo uma pequena área edificada ou estendendo-se para proteger entradas (alpendre)."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"a elevação externa em alvenaria de vedação acima da linha de forro (pé-direito)…\":** **oitão** (ou empena) é a parede externa que sobe acima do forro e acompanha o caimento do telhado, formando um triângulo na lateral da edificação. Aparece no telhado de duas águas: sem as **tacaniças** (as águas triangulares do telhado de quatro águas), é a parede que fecha a ponta do telhado.\n\n**As outras:**\n- *a elevação de alvenarias acima da linha de forro, na mesma projeção das paredes…*: é a **platibanda**, mureta que esconde e protege o telhado.\n- *caracterizado pela projeção das estruturas de apoio de cobertura além da linha de paredes externas…*: é o **beiral**.\n- *um prolongamento das lajes de forro em balanço estrutural…*: é o beiral em **laje**, uma aba de concreto em balanço.\n- *caracterizado pela definição de somente uma superfície plana, com declividade…*: é o telhado de **uma água** (meia-água), comum em alpendres e puxados.\n\n**Para memorizar:** oitão = parede triangular sob as duas águas; platibanda = mureta que esconde o telhado; beiral = telhado que avança além da parede."
+  }
+ ]
+}

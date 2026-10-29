@@ -143,6 +143,17 @@
   "duracaoMin": 180
  },
  {
+  "id": "idecan-2025-sesaprn-eng-civil",
+  "titulo": "Engenheiro Civil — SESAP-RN",
+  "banca": "IDECAN",
+  "ano": 2025,
+  "orgao": "Secretaria de Saúde Pública do Rio Grande do Norte",
+  "cargo": "Engenheiro Civil",
+  "arquivo": "data/provas/idecan-2025-sesaprn-eng-civil.json",
+  "nQuestoes": 60,
+  "duracaoMin": 300
+ },
+ {
   "id": "idecan-2025-sopce-eng-civil",
   "titulo": "Engenheiro Civil — SOP-CE",
   "banca": "IDECAN",
