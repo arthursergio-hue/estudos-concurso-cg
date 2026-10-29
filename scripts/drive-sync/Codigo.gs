@@ -101,7 +101,20 @@ function mesclar_(S, o) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(k)) return;
     const v = o.dias[k] || {}, c = dia(k);
     c.seg = Math.max(c.seg || 0, num(v.seg, 0, 86400) || 0);
-    c.videos = Math.max(c.videos || 0, num(v.videos, 0, 1000) || 0);
+    // tempo de leitura por aparelho: { "<id do aparelho>": segundos }; vence o maior de cada aparelho e o dia soma todos
+    if (v.segPor && typeof v.segPor === 'object') {
+      if (!c.segPor || typeof c.segPor !== 'object') c.segPor = {};
+      Object.keys(v.segPor).forEach(function (ap) {
+        if (!/^[\w-]{1,20}$/.test(ap) || ap === '__proto__' || ap === 'constructor') return;
+        const n = num(v.segPor[ap], 0, 86400);
+        if (n !== null && n > (Number(c.segPor[ap]) || 0)) c.segPor[ap] = Math.round(n);
+      });
+    }
+    if (c.segPor && typeof c.segPor === 'object') {
+      const soma = Object.keys(c.segPor).reduce(function (t, ap) { return t + (Number(c.segPor[ap]) || 0); }, 0);
+      c.seg = Math.max(c.seg || 0, Math.min(soma, 86400));
+    }
+    c.videos = Math.max(c.videos || 0, num(v.videos, 0, 1000) || 0);  // só compatibilidade: o site conta vídeos por S.videos
   });
   const sims = {};
   S.simulados.concat(Array.isArray(o.simulados) ? o.simulados : []).forEach(function (s) {
