@@ -437,10 +437,11 @@
   "cargo": "Fiscal de Obras",
   "disciplinas": [
    "especificos",
-   "historia-cg"
+   "portugues",
+   "legislacao-etica"
   ],
   "relevancia": "media",
-  "nota": "Outra banca, mesma prefeitura: legislação municipal de obras e posturas.",
+  "nota": "Outra banca, mesma prefeitura: Código de Obras e de Posturas de Campina Grande, Lei Orgânica e NR-18 (também tem Português e Raciocínio Lógico).",
   "url": "https://drive.google.com/file/d/1zbRVKi4WYJ8YOleo8z_bPFvE4Nf4r0nL/view",
   "local": "drive",
   "gabarito": "https://drive.google.com/file/d/1-4FJgReZSX0DlMw6-ASd46FfiaO0yKV3/view",
