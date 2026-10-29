@@ -45,7 +45,8 @@ Tem três partes:
 - **29/10/2026 — Gerais no ar, gabarito conferido e progresso no celular.** As 5 disciplinas de Conhecimentos Gerais
   estão no site (sessão estudos-0a), e o plano liga cada aula a uma semana. A conferência de gabarito das 230 questões
   de Específicas não achou gabarito errado; foram atualizadas a NBR 9077:2025 (saídas de emergência), a NBR 6122:2019
-  (radier) e a prescrição na improbidade (STF, ADIs 7156 e 7236). Provas digitadas: 21. Novo em Progresso: **Levar
+  (radier) e a prescrição na improbidade (STF, ADIs 7156 e 7236). **Provas interativas: 25 provas reais digitadas** em `data/provas/` (1.340 questões,
+  gabarito oficial e explicação; validar: `python -I scripts/validar_provas.py`). Novo em Progresso: **Levar
   para o celular**, um link com o progresso do aparelho para mandar no WhatsApp, abrir no outro aparelho e juntar
   depois de confirmar, sem configuração.
 - **28/10/2026 — explicações completas.** As 230 questões de Específicas agora têm comentário com "Por que", "As outras" e "Para memorizar" (feito pela estudos-56). Correções: enunciados de esp-0032, 0036 e 0143; RDC 189/2003 trocada por RDC 51/2011 (revogada pelo art. 32 da RDC 51) em esp-0146; aulas de licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024) e EAS (RDC 51/2011) atualizadas.

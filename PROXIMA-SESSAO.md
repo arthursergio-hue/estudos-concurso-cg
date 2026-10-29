@@ -81,18 +81,19 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - Questões das Específicas: autorais no estilo IDECAN; provas reais só por link.
 - Pop-up detecta reunião pelo microfone/câmera em uso, tela cheia, "não perturbe" e PC parado; não usa a agenda.
 
-## Provas interativas (sessão estudos-90, 28/10/2026, noite)
+## Provas interativas (estudos-90 em 28/10; estudos-73 concluiu em 29/10)
 
-- [x] 17 provas reais da IDECAN digitadas e publicadas em `data/provas/` (questões, gabarito definitivo, anuladas,
-  figuras e explicação completa em todas). Validar: `python -I scripts/validar_provas.py`.
-- [ ] Faltam 3, paradas no meio porque o PC foi desligado: DER-ES 2023 (Edificações), SESAP-RN 2025 (Eng. Civil;
-  JSON parcial) e TJ-PI 2022 (Eng. Civil; figuras parciais). Os parciais foram tirados do site e guardados em
-  `C:\dev\pessoal\_scratch\estudos-provas-interativas\parciais\`. Ferramentas e briefing dos agentes em
-  `C:\dev\pessoal\_scratch\estudos-provas-interativas\` (ler `tools\INSTRUCOES.md`; publicar com
-  `tools\publicar.py` passando TODAS as provas prontas de `tools\prontas.txt` mais as novas).
+- [x] **25 provas reais digitadas e publicadas** em `data/provas/`: 1.340 questões, 46 anuladas, 127 figuras, gabarito
+  oficial e explicação completa em todas. Validar: `python -I scripts/validar_provas.py` (dá erro se aparecer a marca
+  escondida do PCI). As 3 que tinham parado (DER-ES 2023, SESAP-RN 2025 Eng. Civil e TJ-PI 2022 Eng. Civil) e as 5
+  provas novas do catálogo saíram em 29/10. Os parciais em `C:\dev\pessoal\_scratch\estudos-provas-interativas\parciais\`
+  podem ser ignorados. Ferramentas e briefing dos agentes: `C:\dev\pessoal\_scratch\estudos-provas-interativas\`
+  (`tools\INSTRUCOES.md`).
 - [ ] Gabarito só preliminar: SOP-CE 2025 e UFPB 2016 (definitivo não achado on-line).
-- [ ] Baixar e digitar as provas de Arquiteto e Auditor Fiscal da Vigilância Sanitária da SESAP-RN 2025 e a de
-  Arquiteto da SOP-CE 2025 (estão nos gabaritos que já temos; muito próximas do cargo).
+- [ ] Falta o caderno (decisão/download do Arthur): **Arquiteto da IDECAN Campina Grande 2021** (o gabarito definitivo,
+  "ARQUITETO - TIPO A (Retificado)", já está no PDF de gabarito de CG 2021 no Drive; o caderno não está no PCI e o
+  QConcursos bloqueia acesso automático), Arquiteto e Auditor Fiscal da Vigilância Sanitária da SESAP-RN 2025 e
+  Arquiteto da SOP-CE 2025.
 
 ## Onde parou em 28/10/2026 (noite)
 
