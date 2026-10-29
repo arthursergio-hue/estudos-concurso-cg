@@ -58,42 +58,70 @@ function doPost(e) {
 
 // Mesma regra do mesclar() do site: respostas somam pelo horário (ts); marcações e meta ficam com a mudança mais
 // recente; aceita estado parcial (só o que mudou), como o que o site manda ao fechar a aba.
+// Defesa em profundidade: o site já valida tudo; aqui cada campo é conferido de novo antes de entrar no arquivo.
 function mesclar_(S, o) {
   ['resp', 'videos', 'leituras', 'concluidos', 'dias', 'tarefas'].forEach(function (k) {
     if (!S[k] || typeof S[k] !== 'object') S[k] = {};
   });
   if (!Array.isArray(S.simulados)) S.simulados = [];
+  const agora = Date.now();
+  const tsOk = function (t) { return typeof t === 'number' && isFinite(t) && Math.abs(t) <= agora + 864e5; };
+  const num = function (v, min, max) { const n = Number(v); return isFinite(n) && n >= min && n <= max ? n : null; };
   const dia = function (k) { return (S.dias[k] = S.dias[k] || { questoes: 0, acertos: 0, seg: 0, videos: 0 }); };
   let novas = 0;
   Object.keys(o.resp || {}).forEach(function (id) {
+    if (typeof id !== 'string' || id.length > 64) return;
     const h = o.resp[id];
     if (!Array.isArray(h)) return;
-    const cur = S.resp[id] || [];
+    const cur = Array.isArray(S.resp[id]) ? S.resp[id] : [];
+    // com 20 respostas guardadas, só conta o que é mais novo que a mais antiga guardada (senão volta a contar)
+    const corte = cur.length >= 20 ? cur[0].ts : 0;
     const vistos = {};
     cur.forEach(function (x) { vistos[x.ts] = true; });
-    const add = h.filter(function (x) { return x && typeof x.ts === 'number' && !vistos[x.ts]; });
+    const add = h.filter(function (x) {
+      return x && tsOk(x.ts) && typeof x.ok === 'boolean' && x.ts > corte && !vistos[x.ts];
+    }).map(function (x) {
+      return { ts: x.ts, e: (typeof x.e === 'number' && x.e % 1 === 0 && x.e >= -1 && x.e <= 4) ? x.e : -1, ok: x.ok };
+    });
     add.forEach(function (x) { const d = dia(ymd_(x.ts)); d.questoes++; if (x.ok) d.acertos++; });
     novas += add.length;
     S.resp[id] = cur.concat(add).sort(function (a, b) { return a.ts - b.ts; }).slice(-20);
   });
-  // ts positivo = marcado, negativo = desmarcado; vence a mudança mais recente (|ts| maior).
+  // marcações: ts positivo = marcado, negativo = desmarcado; vence |ts| maior
   ['videos', 'leituras', 'concluidos', 'tarefas'].forEach(function (k) {
     const m = o[k] || {};
     Object.keys(m).forEach(function (id) {
-      const v = Number(m[id]) || 0;
+      if (typeof id !== 'string' || id.length > 200) return;
+      const v = Number(m[id]);
+      if (!tsOk(v) || v === 0) return;
       if (Math.abs(v) > Math.abs(Number(S[k][id]) || 0)) S[k][id] = v;
     });
   });
   Object.keys(o.dias || {}).forEach(function (k) {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(k)) return;
     const v = o.dias[k] || {}, c = dia(k);
-    c.seg = Math.max(c.seg || 0, v.seg || 0);
-    c.videos = Math.max(c.videos || 0, v.videos || 0);
+    c.seg = Math.max(c.seg || 0, num(v.seg, 0, 86400) || 0);
+    c.videos = Math.max(c.videos || 0, num(v.videos, 0, 1000) || 0);
   });
   const sims = {};
-  S.simulados.concat(o.simulados || []).forEach(function (s) { if (s && s.ts) sims[s.ts] = s; });
+  S.simulados.concat(Array.isArray(o.simulados) ? o.simulados : []).forEach(function (s) {
+    if (!s || !tsOk(s.ts)) return;
+    const lim = { ts: s.ts, pts: num(s.pts, 0, 1000), max: num(s.max, 0, 1000), n: num(s.n, 0, 1000), ok: num(s.ok, 0, 1000) };
+    if ([lim.pts, lim.max, lim.n, lim.ok].some(function (x) { return x === null; })) return;
+    sims[lim.ts] = lim;
+  });
   S.simulados = Object.keys(sims).map(function (k) { return sims[k]; }).sort(function (a, b) { return a.ts - b.ts; });
-  // meta = { questoes, minutosLeitura, videos, ts } ou { padrao: true, ts }; vence a mais recente.
-  if (o.meta && (!S.meta || (o.meta.ts || 0) > (S.meta.ts || 0))) S.meta = o.meta;
+  // meta: valores dentro de faixas; o ts mais novo vence
+  const m = o.meta;
+  if (m && typeof m === 'object' && tsOk(m.ts)) {
+    let cand = null;
+    if (m.padrao === true) cand = { padrao: true, ts: m.ts };
+    else {
+      const q = num(m.questoes, 1, 300), ml = num(m.minutosLeitura, 0, 600), v = num(m.videos, 0, 20);
+      if (q !== null && ml !== null && v !== null) cand = { questoes: q, minutosLeitura: ml, videos: v, ts: m.ts };
+    }
+    if (cand && (!S.meta || cand.ts > (S.meta.ts || 0))) S.meta = cand;
+  }
   return novas;
 }
 
