@@ -1,0 +1,759 @@
+{
+ "id": "uepb-2014-cg-fiscal-obras",
+ "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB (UEPB)",
+ "banca": "UEPB (CPCON)",
+ "ano": 2014,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Fiscal de Obras",
+ "fonte": "https://www.pciconcursos.com.br/provas/download/fiscal-de-obras-prefeitura-campina-grande-pb-uepb-2014",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Não discuto",
+   "fonte": "(Melhores Poemas de Paulo Leminski, Fred Góes (Org.), Editora Global, 1996)",
+   "numerarLinhas": false,
+   "conteudo": "não discuto\\\ncom o destino\\\no que pintar\\\neu assino"
+  },
+  {
+   "id": "t2",
+   "titulo": "Propaganda do Banco do Brasil",
+   "fonte": "(www.clicrbs.com.br)",
+   "numerarLinhas": false,
+   "conteudo": "![Propaganda do Banco do Brasil: foto de um bebê deitado na mão de um adulto, com o texto \"Toma que o BB é seu\" e a logomarca do banco](data/provas/img/uepb-2014-cg-fiscal-obras/t2.webp)"
+  },
+  {
+   "id": "t3",
+   "titulo": "Excesso de Companhia",
+   "fonte": "Carlos Drummond de Andrade. In Contos Plausíveis. José Olympio, 1985.",
+   "numerarLinhas": false,
+   "conteudo": "Os anjos cercavam Marilda, um de cada lado, porque Marilda ao nascer ganhou dois anjos da guarda.\n\n++**Em vez** de++ ajudar, atrapalhou. Um **++anjo++** queria levar Marilda a festas, o outro à natureza. Brigavam entre si, e a moça não sabia a qual deles obedecer. Queria agradar aos dois, e acabava se indispondo com **++ambos++**.\n\nTocou-os de casa. Ficou sozinha, sem apoio espiritual mas também sem confusão. Os dois vieram procurá-la, arrependidos, pedindo desculpas.\n\n— Só aceito um de cada vez. Passa uns tempos comigo, depois mando embora, e o **++outro++** fica no lugar. Dois anjos ao mesmo tempo é demais.\n\nAgora Marilda é o anjo da guarda dos seus anjos, um de cada vez."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q01",
+   "numero": 1,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Marque a alternativa correta. Sobre os usos da linguagem, pode-se afirmar, a partir do poema dado, que:",
+   "alternativas": [
+    "Somente o verbo pintar está sendo usado no sentido conotativo",
+    "Discutir, pintar e assinar são verbos usados no sentido denotativo",
+    "Somente o verbo discutir está sendo usado no sentido conotativo",
+    "Discutir, pintar e assinar são verbos usados no sentido conotativo",
+    "Somente o verbo assinar está sendo usado no sentido denotativo"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Discutir, pintar e assinar são verbos usados no sentido conotativo\":** sentido **denotativo** é o literal, de dicionário; **conotativo** é o figurado, que depende do contexto. No poema, ninguém discute de verdade com o destino, que não é pessoa: \"não discuto\" quer dizer \"aceito, não resisto\". \"O que pintar\" é gíria para \"o que aparecer, o que acontecer\", e não passar tinta. \"Eu assino\" significa \"concordo, endosso\", sem caneta nem papel. Os três verbos saem do sentido literal.\n\n**As outras:**\n- *Somente o verbo pintar está sendo usado no sentido conotativo*: \"pintar\" é figurado, mas não é o único; discutir e assinar também são.\n- *Discutir, pintar e assinar são verbos usados no sentido denotativo*: é o oposto; nenhum deles está no sentido literal.\n- *Somente o verbo discutir está sendo usado no sentido conotativo*: ignora pintar e assinar, também figurados.\n- *Somente o verbo assinar está sendo usado no sentido denotativo*: no poema, assinar é \"aceitar\"; não há documento.\n\n**Para memorizar:** Denotação = Dicionário (as duas com D). Conotação = Contexto, sentido figurado."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q02",
+   "numero": 2,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t2",
+   "enunciado": "Sobre a propaganda do Banco do Brasil, pode-se afirmar:\n\nI. No enunciado verbal (em destaque) da propaganda, há duas orações (“Toma” e “que o BB é seu”) cujos sujeitos são, respectivamente, “você” (sujeito de Toma) e “o BB” (sujeito de É).\n\nII. No enunciado verbal (em destaque) da propaganda, tem-se um período composto por subordinação: oração principal (Toma) e oração subordinada substantiva subjetiva (que o BB é seu).\n\nIII. No enunciado verbal (em destaque) da propaganda, tem-se um período composto por coordenação: as orações “Toma” e “o BB é seu” estão ilusoriamente ligadas pelo pronome relativo “que”, cuja função é apenas unir uma oração à outra sem que isso implique em processo de subordinação.\n\nEstá(ão) correta(s) apenas:",
+   "alternativas": [
+    "I e II",
+    "I e III",
+    "III",
+    "I",
+    "II e III"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I e II\":** o item I está certo: \"Toma\" está no imperativo e tem sujeito oculto (você, o leitor), e em \"que o BB é seu\" o sujeito de \"é\" é \"o BB\". A banca também deu como certo o item II, lendo \"que o BB é seu\" como oração subordinada substantiva ligada a \"Toma\". O item III está errado porque o \"que\" não é pronome relativo: não retoma nenhum termo anterior, e pronome relativo sempre tem antecedente (dá para trocá-lo por \"o qual\").\n\n**As outras:**\n- *I e III*: o III erra ao chamar o \"que\" de pronome relativo.\n- *III*: além do erro do pronome, deixa de fora o item I, que está certo.\n- *I*: para a banca, faltou o II.\n- *II e III*: deixa de fora o I e inclui o III.\n\n**Para memorizar:** pronome relativo tem antecedente e pode virar \"o qual/a qual\". Se não dá para trocar, o \"que\" é conjunção.\n\nPonto discutível: pela gramática tradicional, em \"Toma, que o BB é seu\" o \"que\" equivale a \"pois\": é conjunção coordenativa **explicativa**. A oração também não poderia ser subjetiva, porque \"Toma\" já tem sujeito (você). Por esse raciocínio, só o item I estaria certo."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q03",
+   "numero": 3,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t2",
+   "enunciado": "Quanto ao aspecto interpretativo da propaganda em foco, pode-se afirmar que:\n\nI. A sigla BB (Banco do Brasil) só pode ser entendida como elemento linguístico a fazer sentido no contexto em que se encontra devido a, sobretudo, seu aspecto fônico que, ambiguamente, faz alusão direta tanto ao banco (a logomarca no texto original está nas cores amarela e azul) quanto ao termo “BB”, daí a inclusão da imagem de um bebê para surtir o efeito de sentido desejado.\n\nII. A sigla BB (Banco do Brasil) só pode ser entendida como elemento linguístico a fazer sentido no contexto em que se encontra devido a, sobretudo, seu aspecto cromático que faz alusão direta ao banco (a logomarca no texto original tem as cores amarela e azul).\n\nIII. A imagem apelativa de um bebê concorre para demonstrar, no enunciado como um todo, que é preciso cuidar das relações estabelecidas entre texto e discurso, porque relações entre banco e criança podem estar sujeitas à violação dos direitos da criança, conforme prevê o ECA (Estatuto da Criança e do Adolescente).\n\nConcluímos que está(ão) correta(s):",
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "I, II e III",
+    "Apenas I e III"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas I\":** o anúncio brinca com o **som** da sigla. Lido em voz alta, \"BB\" soa como \"bebê\", e a foto do bebê confirma o duplo sentido: \"Toma que o BB é seu\" lembra a expressão popular \"toma que o filho é teu\" e, ao mesmo tempo, diz ao cliente que o Banco do Brasil é dele. É a ambiguidade sonora (aspecto fônico) que faz o texto funcionar, como diz o item I.\n\n**As outras:**\n- *Apenas II*: a cor da logomarca ajuda a reconhecer o banco, mas não é o que cria o jogo de sentido; o que cria é o som \"bebê\".\n- *Apenas III*: o anúncio não discute direitos da criança nem o ECA; o bebê é o recurso visual do trocadilho.\n- *I, II e III*: II e III estão errados.\n- *Apenas I e III*: o III está errado.\n\n**Para memorizar:** em propaganda com trocadilho, pergunte \"o que soa igual?\". A ambiguidade quase sempre está no som ou no duplo sentido da palavra."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q04",
+   "numero": 4,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "enunciado": "Leia os enunciados a seguir e analise-os quanto à regência verbal e nominal:\n\nI. Somente a ++confiança em++ candidatos a cargos eletivos pode não ser uma saída inteligente ao eleitor exigente.\n\nII. O processo ++referente ao++ mensalão durou meses para ser concluído.\n\nIII. As propostas de vários candidatos não ++agradam aos++ estudantes.\n\nDeduzimos que:",
+   "alternativas": [
+    "Os itens sublinhados são exemplos de: regência verbal, regência nominal, regência verbal, respectivamente.",
+    "Os itens sublinhados são exemplos de: regência nominal, regência nominal, regência nominal.",
+    "Os itens sublinhados são exemplos de: regência verbal, regência verbal, regência verbal.",
+    "Os itens sublinhados são exemplos de: regência nominal, regência verbal, regência nominal, respectivamente.",
+    "Os itens sublinhados são exemplos de: regência nominal, regência nominal, regência verbal, respectivamente."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"…regência nominal, regência nominal, regência verbal, respectivamente\":** a regência é **nominal** quando quem exige a preposição é um nome (substantivo, adjetivo ou advérbio) e **verbal** quando é um verbo. Em I, \"confiança\" é substantivo e pede \"em\" (confiança em alguém). Em II, \"referente\" é adjetivo e pede \"a\" (referente ao mensalão). Em III, \"agradar\", no sentido de \"satisfazer\", é verbo transitivo indireto e pede \"a\" (agradam aos estudantes): regência verbal.\n\n**As outras:**\n- *…regência verbal, regência nominal, regência verbal…*: \"confiança\" não é verbo; o verbo seria \"confiar\".\n- *…regência nominal, regência nominal, regência nominal.*: \"agradam\" é verbo, então o III é regência verbal.\n- *…regência verbal, regência verbal, regência verbal.*: \"confiança\" e \"referente\" são nomes.\n- *…regência nominal, regência verbal, regência nominal…*: inverte II e III; \"referente\" é adjetivo e \"agradam\" é verbo.\n\n**Para memorizar:** olhe a palavra que vem antes da preposição. Se ela se conjuga (eu agrado, tu agradas), é regência verbal; se não, é nominal."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q05",
+   "numero": 5,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "enunciado": "“______tardinha, quando soa a sirene da fábrica, os trabalhadores dirigem-se ______suas casas, retornando ______atividades do trabalho apenas no dia seguinte, ______ sete horas da amanhã.”\n\nMarque a única alternativa cujos espaços do trecho dado são corretamente preenchidos quanto ao uso adequado da crase:",
+   "alternativas": [
+    "A – às – às – as",
+    "A – as – às – às",
+    "À – às – às – às",
+    "À – as – às – as",
+    "À – às – as – às"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"À – às – às – às\":** 1) \"À tardinha\" é locução adverbial de tempo com palavra feminina: leva acento grave, como \"à noite\" e \"à tarde\". 2) \"Dirigir-se a\" + \"as suas casas\": diante de pronome possessivo feminino a crase é facultativa, então \"às suas casas\" está correto. 3) \"Retornar a\" + \"as atividades\" = \"às atividades\": crase obrigatória. 4) Hora determinada: \"às sete horas\" sempre leva crase.\n\n**As outras:**\n- *A – às – às – as*: falta crase em \"À tardinha\" e em \"às sete horas\".\n- *A – as – às – às*: falta a crase da locução \"À tardinha\".\n- *À – as – às – as*: \"as sete horas\" sem crase está errado; hora exata pede \"às\".\n- *À – às – as – às*: \"retornando as atividades\" ignora a preposição exigida por \"retornar a\".\n\n**Para memorizar:** hora marcada sempre tem crase (\"às 7h\", \"das 8h às 12h\"). Diante de possessivo feminino a crase é opcional, por isso o segundo espaço, sozinho, não decide a questão."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q06",
+   "numero": 6,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "enunciado": "Julgue os enunciados I, II e III, abaixo, nos aspectos de concordância verbal e nominal.\n\nI. Veículos lentos: conservem-se sempre à direita.\n\nII. Vende-se frangos assados na brasa, cobra-se *cover* artístico e servimos refeição.\n\nIII. Todos dias é possível estabelecerem normas com as quais possamos nos habituar a respeitar os outros.\n\nObedecendo às exigências da norma culta, podemos considerar correto(s) o(s) enuciado(s):",
+   "alternativas": [
+    "Apenas III",
+    "Apenas II",
+    "Apenas I",
+    "Apenas I, III",
+    "I, II, III"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas I\":** em I, o verbo \"conservem-se\" está no plural, concordando com \"veículos lentos\", a quem a placa se dirige: está correto. Em II, \"vende-se frangos\" é voz passiva sintética; o sujeito é \"frangos\", no plural, então o certo é **vendem-se** frangos (\"cobra-se cover\" está certo porque \"cover\" é singular). Em III, há dois erros: \"Todos dias\" (o certo é \"todos os dias\") e \"estabelecerem normas\", que deveria ser \"estabelecer normas\" ou \"estabelecerem-se normas\".\n\n**As outras:**\n- *Apenas III*: o III tem \"todos dias\" e a concordância de \"estabelecerem\".\n- *Apenas II*: \"vende-se frangos\" é o erro clássico de concordância com o \"se\" apassivador.\n- *Apenas I, III*: o III está errado.\n- *I, II, III*: II e III estão errados.\n\n**Para memorizar:** com o \"se\" apassivador, passe para a voz passiva analítica: \"frangos são vendidos\" → \"vendem-se frangos\". Se o termo vira sujeito, o verbo concorda com ele."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q07",
+   "numero": 7,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "Em “Se não sabe escutar, não sabe falar”, proposição atribuída ao filósofo Heráclito, a sequência morfológica correta das palavras é:",
+   "alternativas": [
+    "conjunção – advérbio – verbo (locução verbal) – advérbio – verbo (locução verbal)",
+    "preposição – advérbio – verbo composto – advérbio – verbo composto",
+    "conjunção – adjetivo – verbo – verbo – adjetivo – verbo – verbo",
+    "preposição – advérbio – verbo composto – adjetivo – verbo",
+    "pronome reflexivo – negação – verbo (locução verbal) – negação – verbo (locução verbal)"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"conjunção – advérbio – verbo (locução verbal) – advérbio – verbo (locução verbal)\":** \"Se\" introduz uma condição: é **conjunção** subordinativa condicional (= caso). \"Não\" é **advérbio** de negação. \"Sabe escutar\" e \"sabe falar\" foram tratados como **locução verbal**: verbo auxiliar conjugado (\"sabe\") + verbo principal no infinitivo. O segundo \"não\" é de novo advérbio.\n\n**As outras:**\n- *preposição – advérbio – verbo composto – advérbio – verbo composto*: \"se\" nunca é preposição, e \"verbo composto\" não é classificação usada (tempo composto é outra coisa, com ter/haver + particípio).\n- *conjunção – adjetivo – verbo – verbo…*: analisar os verbos um a um até seria aceitável, mas \"não\" não é adjetivo.\n- *preposição – advérbio – verbo composto – adjetivo – verbo*: erra o \"se\" e trata o segundo \"não\" como adjetivo.\n- *pronome reflexivo – negação…*: \"se\" aqui não é pronome (não há ação que volta para o sujeito), e \"negação\" não é classe de palavra; a classe é advérbio.\n\n**Para memorizar:** \"se\" que dá para trocar por \"caso\" é conjunção condicional; \"se\" que dá para trocar por \"a si mesmo\" é pronome reflexivo."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q08",
+   "numero": 8,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "Marque a alternativa cuja sequência representa corretamente as classes de palavras do enunciado: “Faça do livro o seu melhor amigo” (José Pedrosa).",
+   "alternativas": [
+    "verbo – preposição – substantivo – numeral – adjetivo – substantivo – adjetivo",
+    "verbo – conjunção – substantivo – artigo – conjunção – advérbio – substantivo",
+    "imperativo – conjunção – substantivo – artigo – pronome – substantivo – adjetivo",
+    "verbo – contração da preposição com artigo – substantivo – artigo – pronome – adjetivo – substantivo",
+    "verbo – contração de preposição com artigo – sujeito – artigo – pronome – substantivo – substantivo"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"verbo – contração da preposição com artigo – substantivo – artigo – pronome – adjetivo – substantivo\":** \"Faça\" é **verbo** (fazer, no imperativo). \"Do\" é a junção da preposição \"de\" com o artigo \"o\". \"Livro\" é substantivo. \"O\" é artigo definido, que acompanha \"amigo\". \"Seu\" é pronome possessivo. \"Melhor\" é adjetivo (comparativo de superioridade de \"bom\") que caracteriza \"amigo\", o substantivo.\n\n**As outras:**\n- *verbo – preposição – substantivo – numeral…*: \"do\" não é só preposição, e \"o\" não é numeral.\n- *verbo – conjunção – substantivo – artigo – conjunção…*: \"do\" não é conjunção, e \"melhor\" não é advérbio aqui, porque modifica um substantivo.\n- *imperativo – conjunção…*: imperativo é modo verbal, não classe de palavra; a classe é verbo.\n- *…sujeito – artigo – pronome – substantivo – substantivo*: \"sujeito\" é função sintática, não classe; e \"melhor\" é adjetivo.\n\n**Para memorizar:** a pergunta é sobre **classe** (morfologia). Sujeito, objeto e predicado são **funções** (sintaxe), e imperativo é modo do verbo. Nenhum dos dois responde \"classe de palavra\"."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q09",
+   "numero": 9,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "No enunciado “Grande parte da população de Campina Grande **infelizmente** **desconhece** procedimentos básicos de **primeiros-socorros**, sobretudo, os motoristas. Nesse sentido, é necessária uma **reeducação** por esses condutores.”, os termos em negrito, quanto ao processo de formação de palavras, são formados por, respectivamente:",
+   "alternativas": [
+    "derivação prefixal e sufixal – derivação prefixal – composição por justaposição – derivação prefixal",
+    "derivação prefixal e sufixal – derivação prefixal – composição por justaposição – derivação parassintética",
+    "derivação prefixal – derivação prefixal – composição por aglutinação – derivação prefixal",
+    "derivação prefixal – derivação prefixal – composição por aglutinação – derivação prefixal e sufixal",
+    "derivação prefixal e sufixal – derivação prefixal – composição por justaposição – derivação prefixal e sufixal"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"…composição por justaposição – derivação parassintética\":** \"Infelizmente\" = in- + feliz + -mente; existem \"infeliz\" e \"felizmente\", então é derivação **prefixal e sufixal**. \"Desconhece\" = des- + conhecer: derivação **prefixal**. \"Primeiros-socorros\" junta duas palavras sem perder som nenhum, com hífen: composição por **justaposição**. Para \"reeducação\", a banca deu **derivação parassintética** (prefixo re- e sufixo -ção).\n\n**As outras:**\n- *…justaposição – derivação prefixal*: diverge só no último termo.\n- *derivação prefixal – derivação prefixal – composição por aglutinação – derivação prefixal*: \"infelizmente\" também tem sufixo, e \"primeiros-socorros\" não perdeu sons; aglutinação é como em \"planalto\" (plano + alto).\n- *derivação prefixal – derivação prefixal – composição por aglutinação – derivação prefixal e sufixal*: mesmos erros nos três primeiros termos.\n- *…justaposição – derivação prefixal e sufixal*: também diverge só no último termo.\n\n**Para memorizar:** parassíntese verdadeira exige prefixo e sufixo **ao mesmo tempo**, sem que exista a palavra só com um deles: \"entardecer\" (não existe \"entarde\" nem \"tardecer\").\n\nPonto discutível: \"reeducar\" e \"educação\" existem sozinhas, então, pela regra acima, \"reeducação\" não seria parassintética, e sim prefixal (re- + educação) ou prefixal e sufixal. A banca manteve a resposta."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q10",
+   "numero": 10,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "enunciado": "Leia com atenção o *cartoon* abaixo.\n\n![Cartum: diante de uma menina com celular, uma mulher diz que tem um dispositivo menor, que dá acesso sem fio a milhares de livros e filmes: a carteira da biblioteca](data/provas/img/uepb-2014-cg-fiscal-obras/q10.webp)\n\nhttps://www.google.com.br/\n\nI. O texto faz uma crítica ao uso intenso das novas tecnologias digitais em detrimento do uso da biblioteca.\n\nII. O texto faz uma crítica aos jovens que não dispõem de celulares com acesso à internet.\n\nIII. O texto destaca a importância de se usar a internet sem fio na biblioteca da escola.\n\nApós analisar as proposições, podemos considerar que está(ão) correta(s) apenas:",
+   "alternativas": [
+    "II",
+    "I",
+    "III",
+    "I e III",
+    "II e III"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I\":** o humor está na comparação. A menina está presa ao celular; a mulher responde que tem um \"dispositivo\" ainda menor, \"sem fio\", que dá acesso a milhares de livros e filmes: a **carteira da biblioteca**. Ela usa o vocabulário da tecnologia para valorizar a biblioteca e critica, com ironia, a troca do livro e da biblioteca pela tela. É o que diz o item I.\n\n**As outras:**\n- *II*: a menina **tem** celular; a crítica não é a quem não tem.\n- *III*: o \"sem fio\" é ironia; a carteira da biblioteca não tem nada a ver com internet.\n- *I e III*: o III está errado.\n- *II e III*: os dois estão errados.\n\n**Para memorizar:** em charge, procure a ironia: a personagem usa a linguagem do \"outro lado\" (aqui, a da tecnologia) para defender a própria ideia."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q11",
+   "numero": 11,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t3",
+   "enunciado": "A partir da leitura do texto “Excesso de Companhia”, é correto classificar as palavras grifadas como:",
+   "alternativas": [
+    "Em vez de = advérbio, anjo = substantivo, ambos = pronome indefinido, outro = pronome indefinido.",
+    "Em vez de = substantivo, anjo = adjetivo, ambos = pronome indefinido, outro = pronome indefinido.",
+    "Em vez de = locução prepositiva, anjo = adjetivo, ambos = pronome indefinido, outro = substantivo.",
+    "Em vez de = locução prepositiva, anjo = substantivo, ambos = pronome indefinido, outro = substantivo.",
+    "Em vez de = locução prepositiva, anjo = substantivo, ambos = numeral, outro = pronome indefinido."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Em vez de = locução prepositiva, anjo = substantivo, ambos = numeral, outro = pronome indefinido.\":** \"Em vez de\" é um grupo de palavras que funciona como uma preposição (= no lugar de) e termina em preposição: **locução prepositiva**. \"Anjo\" nomeia um ser: **substantivo**. \"Ambos\" significa \"os dois\", quantidade exata; muitas gramáticas o classificam como **numeral** (numeral dual), e foi essa a linha da banca. \"Outro\" se refere a um ser de forma vaga: **pronome indefinido** (em \"o outro fica no lugar\", substitui \"o outro anjo\").\n\n**As outras:**\n- *Em vez de = advérbio…*: a expressão termina em preposição e liga termos; não é advérbio.\n- *Em vez de = substantivo, anjo = adjetivo…*: erra as duas primeiras; \"anjo\" não caracteriza nada.\n- *…anjo = adjetivo, ambos = pronome indefinido, outro = substantivo.*: \"anjo\" é substantivo e \"outro\" é pronome.\n- *…anjo = substantivo, ambos = pronome indefinido, outro = substantivo.*: \"outro\" não vira substantivo por vir com artigo; continua pronome indefinido. É esse ponto que separa esta opção da certa.\n\n**Para memorizar:** \"em vez de\" = \"no lugar de\" (substituição); \"ao invés de\" = \"ao contrário de\" (oposição). As duas são locuções prepositivas."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q12",
+   "numero": 12,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "enunciado": "Com base na norma culta da língua portuguesa, marque a alternativa cuja palavra está escrita de forma correta:",
+   "alternativas": [
+    "ilário",
+    "espectador",
+    "comíssio",
+    "cafageste",
+    "passiência"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"espectador\":** \"espectador\" (quem assiste a um espetáculo) se escreve com **s**, da mesma família de \"espetáculo\" e \"espectro\". Não confunda com \"expectador\", com x, que é quem está na expectativa, quem espera algo. As duas palavras existem; a da opção está escrita corretamente.\n\n**As outras:**\n- *ilário*: o certo é **hilário**, com h inicial (da família de \"hilariante\").\n- *comíssio*: o certo é **comício**, com c.\n- *cafageste*: o certo é **cafajeste**, com j.\n- *passiência*: o certo é **paciência**, com c (da família de \"paciente\").\n\n**Para memorizar:** palavras da mesma família mantêm a letra: paciente → paciência; hilariante → hilário; espetáculo → espectador."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q13",
+   "numero": 13,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "enunciado": "Analise as sentenças no que diz respeito ao emprego do acento indicativo de crase:\n\nI. É chegada a primavera e todos desejam ir às praças para admirar a beleza dessa estação.\n\nII. Nas férias do ano passado, todos os familiares viajaram à Itália, à Roma e à Paris.\n\nIII. Tudo o que se refere àquilo que nos representa será preservado.\n\nIV. Os comerciantes estavam felizes, pois conseguiram comprar as mercadorias iguais às que tinham perdido no caminho.\n\nV. O pobre homem vivia à caçar preás na roça para saciar àquela fome maldita.\n\nEstá(ão) INCORRETA(S) apenas:",
+   "alternativas": [
+    "II",
+    "I",
+    "I, III e IV",
+    "IV",
+    "II e V"
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"II e V\":** I está certa: \"ir a\" + \"as praças\" = \"às praças\". III está certa: \"se refere a\" + \"aquilo\" = \"àquilo\". IV está certa: \"iguais a\" + \"as [mercadorias] que\" = \"às que\". II está **errada**: \"Itália\" aceita artigo (volto **da** Itália), então \"à Itália\" está certo, mas Roma e Paris não aceitam artigo (volto **de** Roma, **de** Paris), logo \"a Roma\" e \"a Paris\", sem crase. V está **errada** duas vezes: não há crase antes de verbo (\"vivia a caçar\"), e \"saciar\" é transitivo direto (saciar a fome), então \"saciar aquela fome\", sem acento.\n\n**As outras:**\n- *II*: está errada, mas a V também.\n- *I*: a I está correta.\n- *I, III e IV*: as três estão corretas.\n- *IV*: \"às que\" está correto (preposição \"a\" + pronome \"as\").\n\n**Para memorizar:** se \"volto da\", crase há; se \"volto de\", crase pra quê? Cidade só leva crase quando vem especificada (\"à Roma antiga\")."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q14",
+   "numero": 14,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "Leia os enunciados a seguir:\n\nI. Se a morte é um descanso prefiro viver cansado.\n\nII. Quem dá aos pobres empresta a Deus.\n\nIII. Em boca fechada não entra mosca.\n\nIV. O que os olhos não veem o coração não sente.\n\nV. Mais vale um pássaro na mão do que dois voando.\n\nAnalise as proposições e marque a alternativa CORRETA, escolhendo (**V**) para a(s) verdadeira(s) e (**F**) para a(s) falsa(s).\n\n( ) Na sentença I, o temor à morte instaura o tom humorístico ao provérbio.\n\n( ) Na sentença II, o termo “quem” é o sujeito da primeira oração.\n\n( ) Na sentença III, o termo “fechada” é o particípio presente do verbo fechar.\n\n( ) Na sentença IV, o termo “sente” é um verbo e se encontra no infinito.\n\n( ) Na sentença V, o termo “mais” é um adjetivo.",
+   "alternativas": [
+    "V - V - F - F - F",
+    "F - F - F - V - V",
+    "V - V - V - F - F",
+    "F - V - F - V - V",
+    "F - V - F - F - V"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"V - V - F - F - F\":** 1ª (V): o humor da frase I nasce do medo de morrer: se morrer é \"descansar\", a pessoa prefere continuar \"cansada\", isto é, viva. 2ª (V): em \"Quem dá aos pobres\", o pronome \"quem\" é o sujeito de \"dá\". 3ª (F): \"fechada\" é **particípio** (passado) de \"fechar\", usado como adjetivo; a gramática só conta o particípio passado entre as formas nominais do verbo (as antigas formas em -nte, como \"estudante\", viraram substantivos e adjetivos). 4ª (F): \"sente\" está no **presente do indicativo**; o infinitivo é \"sentir\". 5ª (F): \"mais\" é **advérbio** de intensidade, ligado ao verbo \"vale\".\n\n**As outras:**\n- *F - F - F - V - V*: erra as duas primeiras e as duas últimas.\n- *V - V - V - F - F*: aceita o \"particípio presente\".\n- *F - V - F - V - V*: erra a primeira, a quarta e a quinta.\n- *F - V - F - F - V*: erra a primeira e chama \"mais\" de adjetivo.\n\n**Para memorizar:** infinitivo sempre termina em -r (sentir, fechar, ver). Se a forma não termina em -r, não é infinitivo."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q15",
+   "numero": 15,
+   "secao": "Português",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "enunciado": "As frases abaixo exemplificam os vários usos da palavra “porque”. Marque aquela que está escrita de forma INADEQUADA, segundo a norma padrão.",
+   "alternativas": [
+    "Eu sempre me pergunto por que não acredito em horóscopos.",
+    "Não entendo o porquê de sua decisão.",
+    "Se todos fossem sinceros não haveria dúvida em saber o porque da escolha.",
+    "Pedro não está estudando o suficiente para as provas, por quê?",
+    "Ele não responde aos meus questionamentos, porque, de fato, não tem razão."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Se todos fossem sinceros não haveria dúvida em saber o porque da escolha.\" é a resposta:** antecedida de artigo (\"o porque\"), a palavra vira **substantivo** (= o motivo) e deve ser escrita junta e **com acento**: \"o porquê da escolha\".\n\n**As outras (estão corretas):**\n- *Eu sempre me pergunto por que não acredito em horóscopos.*: pergunta indireta; \"por que\" separado e sem acento (= por qual razão).\n- *Não entendo o porquê de sua decisão.*: substantivo com artigo, junto e com acento.\n- *Pedro não está estudando o suficiente para as provas, por quê?*: no fim da frase, antes da pontuação, \"por quê\" separado leva acento.\n- *Ele não responde aos meus questionamentos, porque, de fato, não tem razão.*: explicação ou causa (= pois), junto e sem acento.\n\n**Para memorizar:** pergunta = separado (por que); fim de frase = separado com acento (por quê); resposta = junto (porque); com artigo = junto com acento (o porquê)."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q16",
+   "numero": 16,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A sequência de conectivos ~ , ∨ , ∧ , → , ↔ , representa a alternativa:",
+   "alternativas": [
+    "Negação, disjunção, conjunção, condicional, bicondicional.",
+    "Negação, conjunção, disjunção, condicional, bicondicional.",
+    "Negação, disjunção, conjunção, bicondicional, condicional.",
+    "Negação, disjunção, condicional, bicondicional, conjunção.",
+    "Disjunção, conjunção, condicional, bicondicional, negação."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Negação, disjunção, conjunção, condicional, bicondicional.\":** cada símbolo tem um nome fixo. **~** é a negação (\"não p\"). **∨** é a disjunção (\"p ou q\"). **∧** é a conjunção (\"p e q\"). **→** é o condicional (\"se p, então q\"). **↔** é o bicondicional (\"p se e somente se q\"). Na ordem do enunciado, a sequência é exatamente a da resposta.\n\n**As outras:**\n- *Negação, conjunção, disjunção, condicional, bicondicional.*: troca ∨ com ∧.\n- *Negação, disjunção, conjunção, bicondicional, condicional.*: troca a seta simples com a dupla.\n- *Negação, disjunção, condicional, bicondicional, conjunção.*: põe a conjunção no fim, fora de ordem.\n- *Disjunção, conjunção, condicional, bicondicional, negação.*: começa pela disjunção, mas o primeiro símbolo (~) é a negação.\n\n**Para memorizar:** ∨ lembra a letra \"v\" do latim *vel* (= ou): disjunção. ∧ é o \"v\" de cabeça para baixo: conjunção (\"e\")."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q17",
+   "numero": 17,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere o seguinte argumento “**Eu não quero ir dormir, papai. O filme ainda não acabou**”, e identifique a premissa e a sua conclusão.",
+   "alternativas": [
+    "Premissa: O filme acabou. Conclusão: Eu não quero ir dormir.",
+    "Premissa: O filme ainda não acabou. Conclusão: Eu quero ir dormir.",
+    "Premissa: O filme ainda não acabou. Conclusão: Eu não quero ir dormir.",
+    "Premissa: O filme acabou. Conclusão: Eu quero ir dormir.",
+    "Premissa: Eu não quero ir dormir. Conclusão: O filme ainda não acabou."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Premissa: O filme ainda não acabou. Conclusão: Eu não quero ir dormir.\":** num argumento, a **premissa** é a razão apresentada e a **conclusão** é o que se quer defender a partir dela. A criança defende que não quer dormir **porque** o filme ainda não acabou. Teste: \"O filme ainda não acabou; **logo**, eu não quero ir dormir\" faz sentido. A ordem das frases no texto não importa: a conclusão pode vir antes da premissa.\n\n**As outras:**\n- *Premissa: O filme acabou. Conclusão: Eu não quero ir dormir.*: muda a frase; o texto diz que o filme **não** acabou.\n- *Premissa: O filme ainda não acabou. Conclusão: Eu quero ir dormir.*: inverte a conclusão.\n- *Premissa: O filme acabou. Conclusão: Eu quero ir dormir.*: troca as duas frases pelo contrário.\n- *Premissa: Eu não quero ir dormir. Conclusão: O filme ainda não acabou.*: inverte os papéis; o filme não deixa de acabar porque a criança não quer dormir.\n\n**Para memorizar:** encaixe \"porque\" antes da premissa ou \"logo\" antes da conclusão. A versão que faz sentido mostra quem é quem."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q18",
+   "numero": 18,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Determinar o menor dos animais cujos nomes estão ocultos nos anagramas das palavras seguintes:",
+   "alternativas": [
+    "Lacoav",
+    "Fragai",
+    "Neletefa",
+    "Menujot",
+    "Rochacro"
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Rochacro\":** anagrama é uma palavra formada pelas mesmas letras de outra, em outra ordem. Desembaralhando: Lacoav = **cavalo**; Fragai = **girafa**; Neletefa = **elefante**; Menujot = **jumento**; Rochacro = **cachorro**. Entre cavalo, girafa, elefante, jumento e cachorro, o menor é o cachorro.\n\n**As outras:**\n- *Lacoav*: cavalo, bem maior que o cachorro.\n- *Fragai*: girafa, o animal mais alto da lista.\n- *Neletefa*: elefante, o maior de todos.\n- *Menujot*: jumento, do porte de um cavalo pequeno.\n\n**Para memorizar:** em anagrama, conte as letras: a palavra escondida tem exatamente as mesmas letras, nem uma a mais, nem uma a menos."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q19",
+   "numero": 19,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Indique a conclusão correta, admitindo como verdadeiras as premissas de que:\n\nI. O professor não erra\n\nII. Daniel é distraído\n\nIII. Quem é distraído erra",
+   "alternativas": [
+    "Daniel é professor.",
+    "Às vezes um professor é Daniel.",
+    "Nenhum professor é distraído.",
+    "Algum professor não erra.",
+    "Nenhum professor erra."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Nenhum professor é distraído.\":** junte as premissas III e I. Pela III, todo distraído erra. Pela I, professor não erra. Se algum professor fosse distraído, ele teria de errar (III) e, ao mesmo tempo, não errar (I): contradição. Logo, **nenhum professor é distraído**. Em diagrama: o conjunto dos distraídos fica dentro do conjunto dos que erram, e o dos professores fica todo fora dele.\n\n**As outras:**\n- *Daniel é professor.*: é o contrário: Daniel é distraído, logo erra, logo **não** é professor.\n- *Às vezes um professor é Daniel.*: pelo mesmo motivo, Daniel não pode ser professor.\n- *Algum professor não erra.*: é só um pedaço da premissa I, e \"algum\" supõe que exista professor, o que as premissas não garantem.\n- *Nenhum professor erra.*: apenas repete a premissa I; não é conclusão tirada do conjunto.\n\n**Para memorizar:** conclusão boa usa as premissas juntas e diz algo que nenhuma delas dizia sozinha."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q20",
+   "numero": 20,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Dizer qual a proposição que satisfaz a tabela-verdade seguinte:\n\n| p | q | ? |\n|---|---|---|\n| V | V | V |\n| V | F | V |\n| F | V | V |\n| F | F | F |",
+   "alternativas": [
+    "q → p",
+    "p ∨ q",
+    "p ∧ q",
+    "p → q",
+    "p ↔ q"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"p ∨ q\":** a coluna \"?\" só é falsa na última linha, quando p e q são falsas ao mesmo tempo. Essa é a marca da **disjunção** (\"p ou q\"): basta uma das duas ser verdadeira para o todo ser verdadeiro.\n\n**As outras:**\n- *q → p*: o condicional \"se q, então p\" é falso quando q é V e p é F (terceira linha), mas a tabela dá V nessa linha.\n- *p ∧ q*: a conjunção só é verdadeira na primeira linha (V e V); a tabela tem três V.\n- *p → q*: é falso quando p é V e q é F (segunda linha), e a tabela dá V ali.\n- *p ↔ q*: o bicondicional é verdadeiro quando p e q são iguais; a coluna seria V, F, F, V.\n\n**Para memorizar:** \"ou\" só é falso se tudo for falso; \"e\" só é verdadeiro se tudo for verdadeiro; \"se…então\" só é falso no caso V → F."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q21",
+   "numero": 21,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Qual das afirmativas de acordo com a Lógica denomina-se **Contradição**?",
+   "alternativas": [
+    "Proposição simples que é sempre verdadeira ou falsa.",
+    "Proposição composta que é sempre verdadeira.",
+    "Proposição simples que é sempre verdadeira.",
+    "Proposição simples que é sempre falsa.",
+    "Proposição composta que é sempre falsa."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Proposição composta que é sempre falsa.\":** **contradição** é a proposição composta cuja tabela-verdade dá **F em todas as linhas**, seja qual for o valor das proposições simples. Exemplo clássico: \"p ∧ ~p\" (chove e não chove). O oposto é a **tautologia**, sempre verdadeira, como \"p ∨ ~p\". Quando a tabela mistura V e F, é **contingência**.\n\n**As outras:**\n- *Proposição simples que é sempre verdadeira ou falsa.*: isso é só o princípio de que toda proposição tem um valor lógico; não define contradição.\n- *Proposição composta que é sempre verdadeira.*: é a definição de tautologia.\n- *Proposição simples que é sempre verdadeira.*: tautologia e contradição se definem para proposições compostas, analisadas pela tabela-verdade.\n- *Proposição simples que é sempre falsa.*: chega perto, mas o conceito é de proposição composta.\n\n**Para memorizar:** Tautologia = Tudo V; Contradição = Coluna toda F; Contingência = mistura."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q22",
+   "numero": 22,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Qual das proposições seguintes é declarativa?",
+   "alternativas": [
+    "O número 17 é primo.",
+    "Tiradentes morreu afogado!",
+    "Sen²30 + Sen²60 = 2.",
+    "Há muitos japoneses no Brasil?",
+    "Quanta alegria!"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Provável motivo: há mais de uma resposta. Proposição **declarativa** é a frase que afirma algo e pode ser julgada verdadeira ou falsa. \"O número 17 é primo.\" é declarativa e verdadeira. \"Sen²30 + Sen²60 = 2.\" também é declarativa, só que **falsa**: sen²30° + sen²60° = (1/2)² + (√3/2)² = 1/4 + 3/4 = 1. Ser falsa não tira a condição de proposição. Até \"Tiradentes morreu afogado!\" afirma um fato (falso, pois ele foi enforcado), apesar do ponto de exclamação.\n\nJá \"Há muitos japoneses no Brasil?\" é interrogativa e \"Quanta alegria!\" é exclamativa de emoção: não podem ser julgadas V ou F, então não são proposições.\n\n**Para memorizar:** pergunta, ordem e exclamação de emoção não são proposições. Afirmação falsa **é** proposição."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q23",
+   "numero": 23,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O diagrama a seguir:\n\n![Diagrama: um círculo com outro círculo menor dentro e, ao lado, um terceiro círculo separado](data/provas/img/uepb-2014-cg-fiscal-obras/q23.webp)\n\nCorresponde a qual questão?",
+   "alternativas": [
+    "Padres, mulheres, doentes mentais.",
+    "Louros, morenos, ateus.",
+    "Dentistas, dançarinos, angolanos.",
+    "Recipientes, panelas, comidas.",
+    "Artistas, atores, paraibanos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Recipientes, panelas, comidas.\":** o diagrama mostra um conjunto **dentro** de outro e um terceiro conjunto **separado**, sem nada em comum com os dois. Toda panela é um recipiente (panelas dentro de recipientes), e nenhuma comida é recipiente nem panela (comidas fora). É o único trio com essa relação.\n\n**As outras:**\n- *Padres, mulheres, doentes mentais.*: padres e mulheres não têm um dentro do outro (são separados), e pode haver doentes mentais entre padres e entre mulheres.\n- *Louros, morenos, ateus.*: louros e morenos são separados, mas há ateus louros e ateus morenos.\n- *Dentistas, dançarinos, angolanos.*: os três podem se cruzar (um dentista angolano que dança).\n- *Artistas, atores, paraibanos.*: atores ficam dentro de artistas, mas há atores paraibanos, então o terceiro círculo cortaria os outros.\n\n**Para memorizar:** círculo dentro de círculo = \"todo A é B\"; círculos separados = \"nenhum A é B\"; círculos que se cortam = \"algum A é B\"."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q24",
+   "numero": 24,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Que palavra completa de maneira adequada a sequência dos quadros abaixo?\n\n![Quadros em sequência: Jeca, Beca, um quadro vazio, Cota, Nota](data/provas/img/uepb-2014-cg-fiscal-obras/q24.webp)",
+   "alternativas": [
+    "Pino",
+    "Lota",
+    "Seta",
+    "Bota",
+    "Jota"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Provável motivo: a sequência não tem uma regra única que leve a uma só resposta. De Jeca para Beca muda só a primeira letra; de Cota para Nota, também. Mas nada liga \"Beca\" a \"Cota\" de forma clara: \"Bota\", \"Jota\" e \"Lota\" rimam com Cota e Nota e chegam a \"Cota\" trocando só a primeira letra, e a sequência não dá pista para escolher entre elas.\n\nEm questões de sequência de palavras, procure o que muda de um quadro para o outro (primeira letra, vogal, sílaba, número de letras) e confira se a mesma regra vale para **todos** os pares. Se duas palavras obedecem à regra, a questão fica sem gabarito único, como aconteceu aqui."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q25",
+   "numero": 25,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Qual das operações proposicionais representa a operação **disjunção**?",
+   "alternativas": [
+    "p → q",
+    "q → p",
+    "p ∧ q",
+    "p ∨ q",
+    "p ↔ q"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"p ∨ q\":** **disjunção** é a operação \"ou\", representada pelo símbolo **∨**: \"p ∨ q\" se lê \"p ou q\". Ela só é falsa quando p e q são falsas ao mesmo tempo.\n\n**As outras:**\n- *p → q*: é o condicional, \"se p, então q\".\n- *q → p*: também é condicional, com as proposições invertidas (\"se q, então p\"); é a recíproca do anterior.\n- *p ∧ q*: é a conjunção, \"p e q\", verdadeira só quando as duas são verdadeiras.\n- *p ↔ q*: é o bicondicional, \"p se e somente se q\", verdadeiro quando as duas têm o mesmo valor.\n\n**Para memorizar:** dis-junção separa as opções (uma OU outra); con-junção junta (uma E outra). O símbolo ∨ vem do latim *vel* (ou)."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Segundo o código de obras do município, uma obra poderá ser embargada após o Fiscal de Obras constatar, através de uma vistoria, uma infração cometida. Após embargada a obra e lavrado o auto de infração, o responsável terá um período de dias úteis para apresentar sua defesa. Assinale a alternativa correta.",
+   "alternativas": [
+    "A penalidade de embargo da obra só poderá ocorrer durante a etapa de construção. O período para defesa é de 15 dias úteis.",
+    "Em qualquer etapa da realização da obra de construção, reconstrução ou reforma, poderá ser aplicada a penalidade de embargo da obra. O período para defesa é de 30 dias úteis.",
+    "Em qualquer etapa da realização da obra de construção, reconstrução ou reforma, poderá ser aplicada a penalidade de embargo da obra. O período para defesa é de 15 dias úteis.",
+    "A penalidade de embargo da obra só poderá ocorrer após 15 dias da notificação do Fiscal de Obras perante os órgãos competentes. O período para defesa é de 15 dias úteis.",
+    "Obras públicas não poderão ser embargadas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Em qualquer etapa… O período para defesa é de 15 dias úteis.\":** é o texto do Código de Obras de Campina Grande (Lei nº 5.410/2013), art. 445: o embargo pode ser aplicado **em qualquer etapa** da obra de construção, reconstrução ou reforma. O § 1º diz que a obra é embargada depois que a fiscalização constata a infração por **vistoria**; o § 2º dá ao responsável **15 dias úteis**, contados do embargo e da lavratura do Auto de Infração, para apresentar defesa. Sem defesa nesse prazo, o embargo vai para a Procuradoria Geral do Município (§ 3º).\n\n**As outras:**\n- *A penalidade de embargo da obra só poderá ocorrer durante a etapa de construção…*: o código não limita o embargo à construção; vale para reconstrução e reforma, em qualquer etapa.\n- *Em qualquer etapa… O período para defesa é de 30 dias úteis.*: o prazo é de 15 dias úteis.\n- *A penalidade de embargo da obra só poderá ocorrer após 15 dias da notificação…*: o embargo vem logo após a vistoria que constata a infração; não há espera.\n- *Obras públicas não poderão ser embargadas.*: o código não traz essa exceção.\n\n**Para memorizar:** no Código de Obras de CG quase tudo é \"15\": 15 dias úteis de defesa no embargo, 15 dias de defesa do Auto de Infração (art. 439) e 15 dias para pagar a multa com 30% de desconto (art. 443)."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Sobre interdição de obras, analise as afirmativas a seguir:\n\nI. Uma obra ou edificação poderá ser interditada em qualquer tempo com o impedimento de sua ocupação.\n\nII. Em qualquer tempo, o Município poderá determinar a vistoria em edificações destinadas ao público como casas de diversão, locais de reunião e outros similares, para averiguar as suas condições relativas à estabilidade, segurança e/ou salubridade.\n\nIII. As obras que não apresentarem o licenciamento serão consideradas clandestinas e serão interditadas pelo órgão competente do Município.\n\nConcluímos que:",
+   "alternativas": [
+    "Apenas as afirmativas I e III estão corretas",
+    "Apenas as afirmativas I e II estão corretas",
+    "Todas as afirmativas estão corretas",
+    "Apenas as afirmativas II e III estão corretas",
+    "Todas as afirmativas estão erradas"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Todas as afirmativas estão corretas\":** as três reproduzem a subseção \"Da Interdição\" do Código de Obras de Campina Grande (Lei nº 5.410/2013). I: art. 446, a obra ou edificação pode ser interditada **em qualquer tempo**, com impedimento da ocupação, quando infringir os itens do Anexo XXXII. II: art. 447, o Município pode, a qualquer tempo, vistoriar edificações destinadas ao público (casas de diversão, locais de reunião e similares) para verificar estabilidade, segurança e salubridade; se o proprietário não corrigir as irregularidades, o prédio é interditado. III: art. 448, obra sem licenciamento é **clandestina** e é interditada; a interdição pode ser suspensa com a documentação regularizada e as multas pagas.\n\n**As outras:**\n- *Apenas as afirmativas I e III estão corretas*: deixa de fora a II, que é o art. 447.\n- *Apenas as afirmativas I e II estão corretas*: deixa de fora a III, que é o art. 448.\n- *Apenas as afirmativas II e III estão corretas*: deixa de fora a I, que é o art. 446.\n- *Todas as afirmativas estão erradas*: as três estão no código.\n\n**Para memorizar:** pelo glossário do código, **embargo** impede a continuidade da obra; **interdição** impede a entrada de pessoas não autorizadas na obra ou o uso da edificação."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Em uma obra que possua licença para sua construção poderá ocorrer a sua demolição? Assinale a alternativa correta:",
+   "alternativas": [
+    "Não é possível a sua demolição. Só será possível mediante autorização do poder judiciário e da secretaria do meio ambiente.",
+    "É possível sim a sua demolição, desde que a obra já esteja plenamente concluída.",
+    "Não é possível a sua a demolição.",
+    "É possível sim a sua demolição, que ficará a critério do prefeito do município.",
+    "É possível sim a sua demolição, dependendo da anulação ou da revogação do licenciamento pelo órgão competente do município."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"É possível sim a sua demolição, dependendo da anulação ou da revogação do licenciamento…\":** é o art. 450 do Código de Obras de Campina Grande (Lei nº 5.410/2013). A licença protege a obra, então primeiro é preciso **desfazer a licença**: anulá-la (se foi dada com ilegalidade) ou revogá-la (por conveniência e interesse público). O parágrafo único exige notificação prévia do responsável, com **15 dias** para defesa, e só depois se julga a demolição.\n\n**As outras:**\n- *Não é possível a sua demolição. Só será possível mediante autorização do poder judiciário…*: a lei não exige ordem judicial nem a secretaria do meio ambiente; o caminho é administrativo.\n- *É possível sim a sua demolição, desde que a obra já esteja plenamente concluída.*: a conclusão da obra não é requisito.\n- *Não é possível a sua a demolição.*: é possível, desde que a licença seja anulada ou revogada.\n- *É possível sim a sua demolição, que ficará a critério do prefeito do município.*: não é escolha livre do prefeito; depende do ato do órgão competente e do direito de defesa.\n\n**Para memorizar:** obra **sem** licença é clandestina (interdição e até demolição por ordem sumária, arts. 448 e 451); obra **com** licença só pode ser demolida depois de anulada ou revogada a licença (art. 450)."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Em relação à Fiscalização, Infrações, Recursos e Penalidades, analise as afirmações abaixo:\n\nI. Qualquer ação ou omissão que contrarie as disposições deste Código ou outras leis municipais é considerada infração.\n\nII. O Auto de Infração é justificado, quando houver violação das normas do Código que chegue ao conhecimento da autoridade Municipal, através de denúncias feitas pela fiscalização, por terceiros ou ação fiscal.\n\nIII. A Prefeitura fiscalizará a execução das obras de qualquer natureza, realizando as vistorias julgadas necessárias e aplicando as penalidades cabíveis, objetivando o cumprimento das exigências previstas nesta Lei e das Normas regulamentares dela decorrentes.\n\nIV. A Fiscalização será exercida por agentes credenciados pela Prefeitura, ficando assegurado o seu acesso ao local da obra, mediante apresentação da identidade funcional.\n\nV. Todos os projetos arquitetônicos de obras no Município serão analisados pelo Conselho Regional de Engenharia e Agronomia – CREA.\n\nPodemos considerar que estã(ão) INCORRETAS apenas:",
+   "alternativas": [
+    "I e II",
+    "V",
+    "I e III",
+    "IV",
+    "I e V"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito oficial não diz o motivo. Pelo Código de Obras de Campina Grande (Lei nº 5.410/2013), só o item V está errado, o que levaria à opção \"V\"; a anulação pode ter vindo do enunciado mal redigido (\"estã(ão) INCORRETAS\", no plural, para um item só).\n\nOs itens I a IV copiam a lei. I e II: art. 434 e § 1º; infração é qualquer ação ou omissão contra o código ou outras leis municipais, e o Auto de Infração se justifica quando a violação chega à autoridade por denúncia da fiscalização, de terceiros ou por ação fiscal. III: art. 431, a Prefeitura fiscaliza obras de qualquer natureza, com vistorias e penalidades. IV: art. 432, fiscalização por agentes credenciados, com acesso à obra mediante identidade funcional (e o fiscal deve se identificar antes de agir). V está errado: pelo art. 433, os projetos são analisados por **servidores** aptos à função, não pelo CREA, que fiscaliza o exercício da profissão e não aprova projeto.\n\n**Para memorizar:** quem aprova projeto e fiscaliza obra é a **Prefeitura**; CREA e CAU registram a responsabilidade técnica (ART e RRT)."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Serão permitidas as projeções de marquises e de beirais sobre os afastamentos, desde que se enquadrem nas condições dos logradouros no que se refere à sinalização, posteamento, trânsito, arborização, sombreamento e redes de infraestrutura, excetuando-se os casos em que seja necessário entendimento prévio com o órgão competente do Município. Diante disso, assinale a alternativa que indique as dimensões máximas de uma marquise.",
+   "alternativas": [
+    "As marquises poderão ter, no máximo, 3,0m (três metros) de profundidade, obedecendo à proporção máxima de 1/3 da largura do passeio, sendo que a sua distância da face extrema ao meio fio deverá ser de, no mínimo, 0,60m (sessenta centímetros) e sua altura mínima de 3,0m (três metros).",
+    "As marquises poderão ter, no máximo, 3,0m (três metros) de profundidade, obedecendo à proporção máxima de 2/3 da largura do passeio, sendo que a sua distância da face extrema ao meio fio deverá ser de, no mínimo, 0,60m (sessenta centímetros) e sua altura mínima de 3,0m (três metros).",
+    "As marquises poderão ter, no máximo, 3,0m (três metros) de profundidade, obedecendo à proporção máxima de 2/3 da largura do passeio, sendo que a sua distância da face extrema ao meio fio deverá ser de, no mínimo, 1,60m (um metro e sessenta centímetros) e sua altura mínima de 3,0m (três metros).",
+    "As marquises poderão ter, no máximo, 3,0m (três metros) de profundidade, obedecendo à proporção máxima de 2/3 da largura do passeio, sendo que a sua distância da face extrema ao meio fio deverá ser de, no mínimo, 1,60m (um metro e sessenta centímetros) e sua altura mínima de 2,0m (dois metros).",
+    "As marquises poderão ter, no máximo, 2,0m (dois metros) de profundidade, obedecendo à proporção máxima de 2/3 da largura do passeio, sendo que a sua distância da face extrema ao meio fio deverá ser de, no mínimo, 1,60m (um metro e sessenta centímetros) e sua altura mínima de 3,0m (três metros)."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"…3,0m… 2/3 da largura do passeio… 0,60m… altura mínima de 3,0m\":** é o § 1º do art. 268 do Código de Obras de Campina Grande (Lei nº 5.410/2013): a marquise pode ter no máximo **3,0 m** de profundidade, sem passar de **2/3 da largura do passeio**; sua face extrema deve ficar a pelo menos **0,60 m** do meio-fio; e a altura mínima é **3,0 m**. O mesmo artigo pede marquise impermeabilizada, de concreto armado ou outro material durável e incombustível, com a água da chuva levada por calhas e dutos ao sistema de drenagem.\n\n**As outras:**\n- *…proporção máxima de 1/3 da largura do passeio…*: a proporção é 2/3.\n- *…2/3… no mínimo, 1,60m… e sua altura mínima de 3,0m*: a folga até o meio-fio é 0,60 m.\n- *…1,60m… e sua altura mínima de 2,0m*: erra a folga e a altura; com 2,0 m a marquise ficaria ao alcance de quem passa.\n- *As marquises poderão ter, no máximo, 2,0m (dois metros) de profundidade…*: o máximo é 3,0 m (e a folga é 0,60 m).\n\n**Para memorizar:** marquise de CG = \"3 – 2/3 – 0,60 – 3\": até 3 m de balanço, até 2/3 da calçada, 60 cm livres até o meio-fio e 3 m de altura livre."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Será permitida a construção de jiraus e mezaninos, quando os mesmos não interferirem na iluminação, na ventilação e na segurança das dependências da construção onde forem instalados e dos espaços criados pelos mesmos. Em lojas com pé direito mínimo de 5,50m (cinco metros e cinquenta centímetros) serão permitidas sobrelojas parciais não consideradas pavimento desde que:",
+   "alternativas": [
+    "Não cubram mais de 30% (cinquenta por cento) da área da loja.",
+    "Não cubram mais de 60% (cinquenta por cento) da área da loja.",
+    "Não cubram mais de 40% (cinquenta por cento) da área da loja.",
+    "Não cubram mais de 50% (cinquenta por cento) da área da loja.",
+    "Não cubram mais de 70% (cinquenta por cento) da área da loja."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Não cubram mais de 50% (cinquenta por cento) da área da loja.\":** é o parágrafo único do art. 274 do Código de Obras de Campina Grande (Lei nº 5.410/2013). Em loja com pé-direito mínimo de 5,50 m, a sobreloja parcial não conta como pavimento se: cobrir no máximo **50%** da área da loja; tiver altura entre **2,50 m e 3,00 m**, deixando a mesma altura livre embaixo; comunicar-se com a loja por escada interna; e tiver escada fixa de acesso e parapeito. Repare que a prova escreveu \"(cinquenta por cento)\" em todas as opções; só a de 50% bate com o número.\n\n**As outras:**\n- *Não cubram mais de 30%…*: o limite é 50%.\n- *Não cubram mais de 60%…*: passa do limite de 50%.\n- *Não cubram mais de 40%…*: o limite é 50%.\n- *Não cubram mais de 70%…*: passa do limite de 50%.\n\n**Para memorizar:** a conta fecha com o pé-direito: 5,50 m ≈ 2,50 m livres embaixo + laje + 2,50 a 3,00 m em cima. E a sobreloja só deixa de ser pavimento se cobrir até metade da loja."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Assinale a alternativa que indica os diferentes tipos de lixo classificados pelo Código de Postura do município.",
+   "alternativas": [
+    "Lixo especial, lixo hospitalar, lixo público, lixo radioativo, lixo ordinário domiciliar, lixo ordinário domiciliar em excesso.",
+    "Lixo especial, lixo hospitalar, lixo privado, lixo radioativo, lixo ordinário domiciliar, lixo ordinário domiciliar em excesso.",
+    "Lixo especial, lixo hospitalar, lixo público, lixo privado, lixo ordinário domiciliar, lixo ordinário domiciliar em excesso.",
+    "Lixo especial, lixo hospitalar, lixo público, lixo privado, lixo ordinário domiciliar, lixo secundário domiciliar em excesso.",
+    "O Código de Postura não possui nenhuma classificação para o lixo."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Lixo especial, lixo hospitalar, lixo público, lixo radioativo, lixo ordinário domiciliar, lixo ordinário domiciliar em excesso.\":** segundo o gabarito oficial, é a classificação do Código de Posturas de Campina Grande (Lei nº 4.129/2003). A lógica é separar o lixo pela **origem e pelo risco**, porque cada tipo tem uma regra de coleta: o **ordinário domiciliar** é o das casas, recolhido pela coleta regular; o **em excesso** é o mesmo tipo de lixo acima do volume que a coleta comum recolhe; o **público** vem da limpeza de ruas, praças e logradouros; o **hospitalar** vem dos serviços de saúde; o **radioativo** exige controle próprio; e o **especial** é o que pede remoção fora da coleta comum.\n\n**As outras:**\n- *…lixo hospitalar, lixo privado, lixo radioativo…*: \"lixo privado\" não é categoria do código; ocupa o lugar do \"público\".\n- *…lixo público, lixo privado, lixo ordinário domiciliar, lixo ordinário domiciliar em excesso.*: inclui \"privado\" e tira o \"radioativo\".\n- *…lixo secundário domiciliar em excesso.*: \"secundário\" não existe na lista; o certo é \"ordinário domiciliar em excesso\".\n- *O Código de Postura não possui nenhuma classificação para o lixo.*: possui, e é dela que a questão foi tirada.\n\n**Para memorizar:** seis tipos, nenhum \"privado\" nem \"secundário\": especial, hospitalar, público, radioativo, ordinário e ordinário em excesso."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Todos os estabelecimentos devem manter perfeitas condições, instalações e áreas adjacentes, descobertas ou não, atendendo a várias exigências. Diante disso, assinale a alternativa que indica os locais onde não é permitido manter acesos ou fumar cigarros e congêneres.",
+   "alternativas": [
+    "Parques, estacionamentos cobertos, áreas ao redor de piscinas e vias públicas.",
+    "Postos de abastecimento, áreas em volta de piscinas, calçadas em vias públicas.",
+    "Transporte coletivo, postos de abastecimento, hospitais e congêneres e vias públicas.",
+    "Vias públicas, parques, igrejas e estacionamentos cobertos.",
+    "Supermercados, estabelecimentos comerciais, elevadores e circos e congêneres."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Supermercados, estabelecimentos comerciais, elevadores e circos e congêneres.\":** segundo o gabarito oficial, é a lista do Código de Posturas de Campina Grande (Lei nº 4.129/2003): a proibição de fumar ou manter aceso cigarro e congêneres vale para **locais fechados de uso coletivo**, como supermercados, lojas, elevadores e circos. A ideia é proteger quem divide o mesmo ar e reduzir o risco de incêndio onde há muita gente. A lei federal antifumo segue a mesma linha: a Lei nº 9.294/1996, com a redação da Lei nº 12.546/2011, proíbe fumar em recinto coletivo fechado, público ou privado.\n\n**As outras:**\n- *Parques, estacionamentos cobertos, áreas ao redor de piscinas e vias públicas.*: parques, áreas de piscina e vias públicas são espaços abertos.\n- *Postos de abastecimento, áreas em volta de piscinas, calçadas em vias públicas.*: calçada e área de piscina são espaços abertos.\n- *Transporte coletivo, postos de abastecimento, hospitais e congêneres e vias públicas.*: mistura locais que fazem sentido com \"vias públicas\", onde fumar não é proibido.\n- *Vias públicas, parques, igrejas e estacionamentos cobertos.*: começa pela via pública e pelo parque, espaços abertos.\n\n**Para memorizar:** a pista da questão é a presença de espaço aberto (via pública, calçada, parque): toda opção que tem um deles está fora. Só a última lista apenas lugares fechados."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "No que se refere aos cemitérios, os mesmos devem ser regidos por normas internas sob apreciação do órgão municipal competente. Diante disso o município deve manter um percentual de sepulturas para indigentes. Assinale a afirmativa correta.",
+   "alternativas": [
+    "Deverá ser reservado um percentual de 10% (dez por cento) do total das sepulturas para sepultamento de indigentes.",
+    "Deverá ser reservado um percentual de 05% (cinco por cento) do total das sepulturas para sepultamento de indigentes, para cemitérios que possuam acima de duzentas sepulturas.",
+    "Deverá ser reservado um percentual de 20% (vinte por cento) do total das sepulturas para sepultamento de indigentes, para cemitérios que possuam acima de duzentas sepulturas.",
+    "Deverá ser reservado um percentual de 15% (quinze por cento) do total das sepulturas para sepultamento de indigentes, para cemitérios que possuam acima de duzentas sepulturas.",
+    "Não devem ser reservadas vagas para indigentes. Os cemitérios devem estar preparados para receber qualquer número de indigentes."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito oficial não traz o motivo. O mais provável é que nenhuma opção reproduzisse com exatidão a regra do Código de Posturas (Lei nº 4.129/2003) sobre a reserva de sepulturas para indigentes, ou que mais de uma pudesse ser defendida.\n\nO assunto: o Município deve garantir sepultamento a quem não tem família nem recursos, e por isso as normas de cemitério reservam uma parte das sepulturas, ou da área, para **indigentes**. No Código de Obras de Campina Grande (Lei nº 5.410/2013, art. 181), nos **cemitérios-parque** a reserva é de **10% do terreno** para cemitérios de até 30 ha, com acréscimo de 5% sobre a área que passar de 30 ha; se a regra não for cumprida, a licença do projeto é cassada. O mesmo código proíbe cemitério-parque com menos de 20 ha (art. 180).\n\n**Para memorizar:** a opção que nega qualquer reserva (\"Não devem ser reservadas vagas para indigentes…\") estaria errada em qualquer cenário: a reserva existe na legislação de CG."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Em relação aos Autos de Infração, leia as seguintes afirmações:\n\nI. Descrição da ocorrência que constitui as infrações.\n\nII. Especificação do dispositivo legal que estabelece a citada multa.\n\nIII. Citação do termo de intimação referente à lavratura do auto, quando for o caso.\n\nIV. Prazo estabelecido para defesa de até 05 (cinco) dias úteis.\n\nV. Descrição de qualquer ocorrência necessária ao processo.\n\nO Auto de Infração é o instrumento através do qual o órgão competente do Município constata a violação das disposições estabelecidas no Código de Postura. As afirmativas acima apresentam o conteúdo que os Autos de Infrações devem apresentar, menos uma. Identifique qual é a afirmativa INCORRETA.",
+   "alternativas": [
+    "IV",
+    "III",
+    "II",
+    "I",
+    "V"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"IV\" é a resposta:** segundo o gabarito oficial, o Auto de Infração do Código de Posturas de Campina Grande (Lei nº 4.129/2003) deve **descrever a ocorrência** que constitui a infração, **indicar o dispositivo legal** que prevê a multa, **citar o termo de intimação** quando houver e registrar outras ocorrências necessárias ao processo. O item IV é o que não corresponde ao código: ele fixa um prazo de defesa \"de até 05 (cinco) dias úteis\", e não é esse o conteúdo que o código manda constar no auto.\n\n**As outras (estão corretas):**\n- *III*: citação do termo de intimação, quando houver; mostra que o infrator já tinha sido intimado antes da autuação.\n- *II*: o dispositivo legal da multa; sem ele o autuado não sabe do que se defender.\n- *I*: a descrição da ocorrência; é o núcleo do auto.\n- *V*: qualquer outra ocorrência útil ao processo.\n\n**Para memorizar:** auto de infração bem feito responde a \"o quê\" (ocorrência), \"com base em quê\" (dispositivo legal) e \"o que veio antes\" (intimação). Para comparar: no Código de Obras de CG (Lei nº 5.410/2013, art. 439), o autuado tem 15 dias para a defesa, e não 5."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "lei-organica-cg",
+   "enunciado": "É função do Município prestar serviço público eficiente, com servidores remunerados, na forma da lei. A realização de obras públicas municipais deverá adequar-se às diretrizes do plano diretor, ao Plano Plurianual, às diretrizes orçamentárias e serão precedidas de projeto elaborado segundo normas técnicas pertinentes a cada caso. Ressalvados os casos especificados na legislação, assinale a alternativa correta.",
+   "alternativas": [
+    "As obras, serviços, compras e alienações, serão contratados mediante processo de licitação pública, desde que seja necessário, e que assegure igualdade de condições de competição a todos os interessados e a escolha da melhor proposta, nos termos previstos pelo art. 37, inciso XXI, da Constituição Estadual.",
+    "As obras, serviços, compras e alienações, serão sempre contratados mediante processo de licitação pública, que assegure igualdade de condições de competição a todos os interessados e a escolha da melhor proposta, nos termos previstos pelo art. 37, inciso XXI, da Constituição Estadual.",
+    "As obras, serviços, compras e alienações, serão sempre contratados mediante processo de licitação pública, que assegure igualdade de condições de competição a todos os interessados e a escolha da melhor proposta, nos termos previstos pelo art. 37, inciso XXI, da Constituição Federal.",
+    "As obras, serviços, compras e alienações, serão contratados mediante processo de licitação pública, desde que seja necessário, e que assegure igualdade de condições de competição a todos os interessados e a escolha da melhor proposta, nos termos previstos pelo art. 37, inciso XXI, da Constituição Municipal.",
+    "As obras, serviços, compras e alienações, serão sempre contratados mediante processo de tomada de preço, que assegure igualdade de condições de competição a todos os interessados e a escolha da melhor proposta, nos termos previstos pelo art. 37, inciso XXI, da Constituição Federal."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"…serão sempre contratados mediante processo de licitação pública… da Constituição Federal.\":** o trecho é da Lei Orgânica de Campina Grande, que segue o **art. 37, XXI, da Constituição Federal**: \"ressalvados os casos especificados na legislação\", obras, serviços, compras e alienações são contratados mediante **licitação pública** que assegure igualdade de condições a todos os concorrentes. A licitação é a regra; as exceções (dispensa e inexigibilidade) são só as previstas em lei, e não dependem de o administrador achar a licitação \"necessária\".\n\n**As outras:**\n- *…desde que seja necessário… da Constituição Estadual.*: a licitação não é opcional, e o art. 37, XXI, é da Constituição Federal.\n- *…serão sempre contratados… da Constituição Estadual.*: a regra está certa, mas a fonte é a Constituição Federal.\n- *…desde que seja necessário… da Constituição Municipal.*: licitação não é facultativa, e não existe \"Constituição Municipal\"; a lei maior do município é a Lei Orgânica.\n- *…mediante processo de tomada de preço…*: tomada de preços era só uma das modalidades (Lei nº 8.666/1993); a regra geral é a licitação pública.\n\n**Para memorizar:** art. 37, XXI, da CF = licitação é a regra. Depois da prova, a Lei nº 14.133/2021 substituiu a 8.666/1993 e acabou com a tomada de preços e o convite."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "lei-organica-cg",
+   "enunciado": "O Município, no âmbito de sua competência, contribuirá para a criação de programas e instrumentos legais que visem à proteção dos direitos da mulher. Assinale a alternativa incorreta.",
+   "alternativas": [
+    "Orientação jurídica dos seus direitos através do Conselho Municipal de Defesa dos Direitos da Mulher.",
+    "Assistência parcial à saúde em todas as fases de sua vida.",
+    "Apoio a programas educacionais, institucionais ou não que visem à completa integração social da mulher à sociedade.",
+    "Estímulo à criação de instituições de apoio à menina de rua, particularmente voltadas à saúde, educação e alimentação.",
+    "Garantia à vida."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Assistência parcial à saúde em todas as fases de sua vida.\" é a resposta:** o erro está na palavra \"parcial\". A proteção à saúde da mulher, na Lei Orgânica de Campina Grande como na Constituição, é de assistência **integral**, em todas as fases da vida. \"Parcial\" contradiz a própria ideia de proteção e o princípio da **integralidade** do SUS (CF, art. 198, II; Lei nº 8.080/1990, art. 7º, II).\n\n**As outras (estão corretas):**\n- *Orientação jurídica dos seus direitos através do Conselho Municipal de Defesa dos Direitos da Mulher.*: o conselho é o órgão municipal de defesa e orientação.\n- *Apoio a programas educacionais, institucionais ou não…*: busca a integração social completa da mulher.\n- *Estímulo à criação de instituições de apoio à menina de rua…*: proteção desde a infância, com saúde, educação e alimentação.\n- *Garantia à vida.*: direito básico que abre a lista de proteção.\n\n**Para memorizar:** em lista de direitos de lei orgânica, desconfie de palavras que **limitam** (\"parcial\", \"somente\", \"quando possível\"). Saúde, na linguagem da Constituição e do SUS, é sempre \"integral\"."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "O responsável por qualquer escavação a ser realizada no município deverá:",
+   "alternativas": [
+    "As escavações devem ser realizadas por pessoal qualificado, que orientará os operários, quando se aproximarem das tubulações até a distância mínima de 0,50m (cinquenta centímetros).",
+    "Os escoramentos devem ser inspecionados semanalmente.",
+    "Quando for necessário rebaixar o lençol d'água (freático), os serviços devem ser executados pela secretaria do meio ambiente.",
+    "Cargas e sobrecargas ocasionais, bem como possíveis vibrações, devem ser eliminados.",
+    "Procurar se informar a respeito da existência de galerias, canalizações e cabos, na área onde serão realizados os trabalhos, bem como estudar o risco de impregnação do subsolo por emanações ou produtos nocivos."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Procurar se informar a respeito da existência de galerias, canalizações e cabos…\":** antes de escavar, o responsável precisa saber o que está **enterrado** no local (redes de água, esgoto, drenagem, gás, energia, telefonia) e avaliar se o subsolo pode ter gases ou produtos nocivos. Romper um cabo de energia ou uma tubulação de gás é causa clássica de acidente grave. Por isso a NR-18 da época (item 18.6) só permitia começar a escavação perto de cabo subterrâneo de energia com o cabo desligado e mandava seguir a norma de segurança de escavação a céu aberto (NBR 9061).\n\n**As outras:**\n- *As escavações devem ser realizadas por pessoal qualificado… 0,50m…*: supervisão perto de redes faz sentido, mas a banca não aceitou a regra como foi escrita; o dever cobrado é o levantamento prévio.\n- *Os escoramentos devem ser inspecionados semanalmente.*: escoramento se confere com muito mais frequência, em geral todo dia e depois de chuva forte.\n- *Quando for necessário rebaixar o lençol d'água (freático)…*: é serviço técnico de pessoal ou empresa especializada, não da secretaria do meio ambiente.\n- *Cargas e sobrecargas ocasionais… devem ser eliminados.*: não dá para eliminá-las; elas entram no **cálculo** do escoramento e dos taludes.\n\n**Para memorizar:** escavação segura = investigar antes, escorar bem, inspecionar sempre."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "Sobre os equipamentos de proteção individual – EPI, analise as afirmativas a seguir:\n\nI. A empresa é obrigada a fornecer aos trabalhadores, gratuitamente, EPI adequado ao risco e em perfeito estado de conservação e funcionamento, consoante as disposições contidas na NR 6 - Equipamento de Proteção Individual – EPI.\n\nII. O cinto de segurança tipo abdominal somente deve ser utilizado em serviços de eletricidade e em situações em que funcione como limitador de movimentação.\n\nIII. O cinto de segurança tipo paraquedista deve ser utilizado em atividades a mais de 2,00m (dois metros) de altura do piso, nas quais haja risco de queda do trabalhador.\n\nIV. O cinto de segurança deve ser dotado de dispositivo trava-quedas e estar ligado a cabo de segurança independente da estrutura do andaime.\n\nV. Os cintos de segurança tipo abdominal e tipo paraquedista devem possuir argolas e mosquetões de aço forjado, ilhoses de material não-ferroso e fivela de aço forjado ou material de resistência e durabilidade equivalentes.\n\nEst(ão) correta(s)",
+   "alternativas": [
+    "II e III",
+    "I",
+    "I e II",
+    "Todas",
+    "III e V"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Todas\":** os cinco itens reproduzem o item 18.23 da NR-18 na redação vigente em 2014. I: a empresa fornece EPI **gratuitamente**, adequado ao risco e em perfeito estado, conforme a NR-6. II: o cinto **abdominal** só serve para eletricidade e como limitador de movimentação, porque não segura uma queda com segurança (o impacto se concentra na cintura). III: acima de **2,00 m** do piso, com risco de queda, usa-se o cinto **tipo paraquedista**. IV: o cinto deve ter trava-quedas e ficar preso a cabo de segurança **independente** da estrutura do andaime, para não cair junto se o andaime ceder. V: argolas, mosquetões e fivela de aço forjado (ou equivalente) e ilhoses não ferrosos.\n\n**As outras:**\n- *II e III*: deixa de fora I, IV e V, também corretos.\n- *I*: deixa de fora quatro itens corretos.\n- *I e II*: deixa de fora III, IV e V.\n- *III e V*: deixa de fora I, II e IV.\n\n**Para memorizar:** 2 m é a altura que define \"trabalho em altura\" (também na NR-35, de 2012). A NR-18 foi reescrita em 2020 (Portaria SEPRT nº 3.733/2020) e hoje remete à NR-35 para a proteção contra quedas, mas a lógica continua: acima de 2 m, cinto paraquedista ancorado em ponto independente."
+  },
+  {
+   "id": "uepb-2014-cg-fiscal-obras-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "O Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção – PCMAT é obrigatório quando:",
+   "alternativas": [
+    "A elaboração e o cumprimento do PCMAT nos estabelecimentos com 40 (quarenta) trabalhadores ou mais, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança.",
+    "A elaboração e o cumprimento do PCMAT nos estabelecimentos com 10 (dez) trabalhadores ou mais, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança.",
+    "A elaboração e o cumprimento do PCMAT nos estabelecimentos com 30 (trinta) trabalhadores ou mais, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança.",
+    "A elaboração e o cumprimento do PCMAT nos estabelecimentos com 20 (vinte) trabalhadores ou mais, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança.",
+    "A elaboração e o cumprimento do PCMAT nos estabelecimentos com 50 (cinquenta) trabalhadores ou mais, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"…com 20 (vinte) trabalhadores ou mais…\":** pela NR-18 vigente em 2014 (item 18.3.1), eram obrigatórios a elaboração e o cumprimento do **PCMAT** nos estabelecimentos com **20 trabalhadores ou mais**, contemplando os aspectos da NR-18 e outros dispositivos complementares de segurança. O PCMAT devia ser elaborado por profissional legalmente habilitado em segurança do trabalho, contemplar as exigências da NR-9 (PPRA) e ficar no estabelecimento à disposição da fiscalização.\n\n**As outras:**\n- *…com 40 (quarenta) trabalhadores ou mais…*: o número é 20.\n- *…com 10 (dez) trabalhadores ou mais…*: o número é 20.\n- *…com 30 (trinta) trabalhadores ou mais…*: o número é 20.\n- *…com 50 (cinquenta) trabalhadores ou mais…*: o número é 20.\n\n**Para memorizar:** \"PCMAT = 20\". Isso mudou depois da prova: a nova NR-18 (Portaria SEPRT nº 3.733/2020) acabou com o PCMAT e passou a exigir o **PGR** (Programa de Gerenciamento de Riscos) em todo canteiro de obras, sem número mínimo de trabalhadores."
+  }
+ ]
+}

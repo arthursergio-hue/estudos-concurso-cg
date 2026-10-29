@@ -218,5 +218,16 @@
   "arquivo": "data/provas/idecan-2014-ebserh-arquitetura.json",
   "nQuestoes": 50,
   "duracaoMin": 240
+ },
+ {
+  "id": "uepb-2014-cg-fiscal-obras",
+  "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB (UEPB)",
+  "banca": "UEPB (CPCON)",
+  "ano": 2014,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Fiscal de Obras",
+  "arquivo": "data/provas/uepb-2014-cg-fiscal-obras.json",
+  "nQuestoes": 40,
+  "duracaoMin": 240
  }
 ]
