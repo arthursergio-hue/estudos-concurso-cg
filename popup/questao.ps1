@@ -276,7 +276,7 @@ $xaml = @'
         <Button x:Name="BtnP1" DockPanel.Dock="Left" Style="{StaticResource Link}" Content="Pausar 1h"/>
         <Button x:Name="BtnPH" DockPanel.Dock="Left" Style="{StaticResource Link}" Content="Chega por hoje"/>
         <Button x:Name="BtnFechar" DockPanel.Dock="Right" Style="{StaticResource Btn}" Content="Fechar"/>
-        <Button x:Name="BtnOutra" DockPanel.Dock="Right" Style="{StaticResource Btn}" Content="Outra questão" Visibility="Collapsed"/>
+        <Button x:Name="BtnOutra" DockPanel.Dock="Right" Style="{StaticResource Btn}" Content="Outra" ToolTip="Outra questão" Visibility="Collapsed"/>
         <Button x:Name="BtnSite" DockPanel.Dock="Right" Style="{StaticResource Btn}" Content="Ver a aula" ToolTip="Abre este assunto na plataforma" Visibility="Collapsed"/>
       </DockPanel>
       <TextBlock x:Name="Rodape" Grid.Row="5" Foreground="#6B7491" FontSize="11" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,-14" Visibility="Collapsed"/>

@@ -1,8 +1,8 @@
 """Confere todos os dados do site antes de publicar (rode na raiz: python scripts/validar_dados.py).
 
 Erros (o site mostra errado ou quebra): JSON inválido, id repetido, "correta" fora das alternativas, assunto ou
-texto de apoio que não existe, figura que não existe. Avisos (vale olhar): comentário curto demais, figura pesada,
-questão sem assunto, link sem https.
+texto de apoio que não existe, figura que não existe. Avisos (vale olhar): comentário com menos de 400 caracteres ou
+sem as partes **Por que** e **As outras**, figura pesada, questão sem assunto, link sem https.
 Sai com código 1 se houver erro.
 """
 import json
@@ -71,8 +71,11 @@ def questao(onde, q, discs, assuntos, ids, textos=None):
         avisos.append(f"{onde} {qid}: sem assunto (fica fora das trilhas)")
     if "origem" in q and q["origem"] not in ORIGENS:
         erros.append(f"{onde} {qid}: origem inválida: {q['origem']!r}")
-    if len(str(q.get("comentario") or "")) < 80 and not anulada:
-        avisos.append(f"{onde} {qid}: comentário curto (o Arthur pediu explicação completa)")
+    com = str(q.get("comentario") or "")
+    if not anulada and len(com) < 400:
+        avisos.append(f"{onde} {qid}: comentário curto ({len(com)} caracteres; o Arthur pediu explicação completa)")
+    elif not anulada and ("**Por que" not in com or "**As outras" not in com):
+        avisos.append(f"{onde} {qid}: comentário fora do padrão (falta **Por que** ou **As outras**)")
     if not str(q.get("enunciado") or "").strip():
         erros.append(f"{onde} {qid}: sem enunciado")
     if textos is not None:

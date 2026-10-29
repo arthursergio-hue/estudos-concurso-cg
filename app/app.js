@@ -1204,7 +1204,7 @@
     for (const el of $$('.js-sync-status')) { el.textContent = statusSync(cfg); el.classList.toggle('warn', erro); }
     for (const el of $$('.js-sync-mini')) {
       el.hidden = !cfg; el.classList.toggle('erro', erro);
-      el.innerHTML = cfg ? `${ic('nuvem', 'sm')} ${erro ? 'Drive: sem conexão' : cfg.ok ? `Drive: sincronizado ${hhmm(cfg.ok)}` : 'Drive: ligado'}` : '';
+      el.innerHTML = cfg ? `${ic('nuvem', 'sm')} ${erro ? 'Drive: não sincronizou' : cfg.ok ? `Drive: sincronizado ${hhmm(cfg.ok)}` : 'Drive: ligado'}` : '';
     }
   }
   function ligarSync(params) {
