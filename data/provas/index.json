@@ -77,6 +77,28 @@
   "duracaoMin": 180
  },
  {
+  "id": "idecan-2016-conquista-coord-visa",
+  "titulo": "Coordenador de Vigilância Sanitária — Prefeitura de Conquista/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Conquista/MG",
+  "cargo": "Coordenador de Vigilância Sanitária",
+  "arquivo": "data/provas/idecan-2016-conquista-coord-visa.json",
+  "nQuestoes": 40,
+  "duracaoMin": 180
+ },
+ {
+  "id": "idecan-2016-conquista-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Conquista/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Conquista/MG",
+  "cargo": "Fiscal Sanitário",
+  "arquivo": "data/provas/idecan-2016-conquista-fiscal-sanitario.json",
+  "nQuestoes": 40,
+  "duracaoMin": 180
+ },
+ {
   "id": "idecan-2016-leopoldina-fiscal-sanitario",
   "titulo": "Fiscal Sanitário — Prefeitura de Leopoldina/MG",
   "banca": "IDECAN",

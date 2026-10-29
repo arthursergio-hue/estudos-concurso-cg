@@ -1,0 +1,740 @@
+{
+ "id": "idecan-2016-conquista-coord-visa",
+ "titulo": "Coordenador de Vigilância Sanitária — Prefeitura de Conquista/MG",
+ "banca": "IDECAN",
+ "ano": 2016,
+ "orgao": "Prefeitura de Conquista/MG",
+ "cargo": "Coordenador de Vigilância Sanitária",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-prefeitura-de-conquista-mg-coordenador-de-vigilancia-sanitaria",
+ "duracaoMin": 180,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto para as questões de 01 a 10 — Paciência de Jó",
+   "fonte": "(Alberto Villas. Carta Capital, 24 de abril de 2016.)",
+   "numerarLinhas": false,
+   "conteudo": "*Nesses tempos modernos, andamos muito impacientes.*\n\nDurante os anos que passei fora do Brasil, comunicava-me por cartas. Toda noite, sentava na minha escrivaninha e colocava a correspondência em dia. Ia até altas horas respondendo uma a uma, aquelas cartas que chegavam em envelopes verde-amarelos.\n\nDepois de colocada no correio, uma carta levava de sete a dez dias pra chegar ao Brasil. Se a pessoa respondesse na hora, eram mais sete a dez dias pra chegar até Paris. E eu esperava, pacientemente.\n\nTodo dia, acordava de madrugada para ir trabalhar. Meu trabalho era preparar o café da manhã para um batalhão de estudantes num restaurante universitário. Quando voltava pra casa, a primeira coisa que fazia era bater os olhos na caixa de cartas que ficava na portaria do meu prédio. Ela tinha quatro furos na parte inferior e, de longe, já dava pra enxergar se haviam chegado envelopes verde-amarelos.\n\nEra um tempo em que não havia *internet*, não havia *Skype*, não havia *WhatsApp*, *e-mail* e um telefonema DDD custava os olhos da cara.\n\nLembro-me bem que quando o meu primeiro filho nasceu, poucas horas depois dei a primeira clicada no seu rostinho com uma *Pentax Trip* 33. Levei o filme pra revelar numa loja que ficava na *Rue Soufflot* e esperei cinco dias úteis para que as fotos ficassem prontas.\n\nFotografias na mão, coloquei dentro de um envelope pardo e despachei, pelo correio, pros meus pais, em Belo Horizonte. Quando eles abriram e viram o Julião pela primeira vez, o menino já tinha mais de vinte dias. Eles esperaram pacientemente a hora de ver a carinha do neto francês, uma grande novidade na família.\n\nO meu pai vivia dizendo que, para levar a vida, era preciso ter uma paciência de Jó. Um dia, fui lá na Bíblia da minha mãe saber quem era o tal Jó.\n\nFiquei sabendo que, além de ser o mais paciente da turma, Jó tinha sete mil ovelhas, três mil camelos, quinhentas juntas de boi e quinhentas jumentas. Imagine que só pra contar essa bicharada, é preciso mesmo ter uma paciência de Jó.\n\nNinguém tem mais paciência pra nada nesses tempos modernos. Se nos anos 70 eu esperava vinte dias a resposta de uma carta, hoje, se alguém não me responde um *e-mail* em segundos, já começo a perder a paciência.\n\nAqui em casa, a nossa empregada coloca qualquer coisa 30 segundos no micro-ondas, e fica lá com a mão na porta, impaciente, contando nos dedos a hora de apitar.\n\nNo elevador do meu prédio, os moradores apertam o botão, a luzinha acende mas, mesmo assim, eles voltam lá umas três vezes e apertam de novo, impacientes.\n\nSem contar o carro de trás que sempre buzina assim que o sinal fica verde, o motorista que começa a acelerar quando percebe que já passaram os minutos e que o sinal já vai sair do vermelho e aquele que passa na sua frente e enfia o carro na vaga do *shopping* porque não tem paciência de ficar procurando um lugar pra estacionar.\n\nIsso, sem contar que, no restaurante, quando alguém pede uma coca ao garçom e ele demora mais de um minuto, a gente sempre ouve um... “acho que ele esqueceu!”\n\nSinto que muitas pessoas não têm mais paciência pra ler um texto com mais de cinco linhas. Se você chegou até aqui, considero uma vitória!\n\nJá percebeu que ninguém tem mais paciência de sentar-se na poltrona para ouvir música, pra procurar as três Marias no céu, pra plantar um grão de feijão no algodão e esperar ele crescer. Ninguém tem saco nem mesmo pra jogar paciência.\n\nJá se foi o tempo em que tínhamos paciência até para decorar latim. Quem não se lembra do famoso *Quo usque tandem abutere*, Catilina, *patientia* mostra? Que, em bom português, quer dizer Até quando abusarás, Catilina, da nossa paciência?"
+  },
+  {
+   "id": "t2",
+   "titulo": "Leia a afirmativa para responder às questões 18 e 19.",
+   "fonte": "",
+   "numerarLinhas": false,
+   "conteudo": "“Um consenso da secretaria municipal de saúde de sua cidade é de que tem aumentado o número de casos das doenças __________________ e __________________. Ambas são previníveis por vacinas que devem ser dadas nas crianças ‘ao nascer’.”"
+  },
+  {
+   "id": "t3",
+   "titulo": "Instrução para as questões 33, 34 e 35",
+   "fonte": "",
+   "numerarLinhas": false,
+   "conteudo": "De acordo com a RDC nº 14, de 28 de fevereiro de 2007 da ANVISA, que aprova o Regulamento Técnico para Produtos Saneantes com Ação Antimicrobiana, responda às questões 33, 34 e 35."
+  },
+  {
+   "id": "t4",
+   "titulo": "Instrução para as questões 38, 39 e 40",
+   "fonte": "",
+   "numerarLinhas": false,
+   "conteudo": "De acordo com a RDC nº 24, de 08 de junho de 2015 da ANVISA, que dispõe sobre o recolhimento de alimentos e sua comunicação à ANVISA e aos consumidores, responda às questões 38, 39 e 40."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2016-conquista-coord-visa-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Dentre os recursos coesivos utilizados no texto está a retomada de elementos já mencionados, nas alternativas a seguir apresentam-se elementos destacados que são exemplos de tal estratégia, com EXCEÇÃO de:",
+   "alternativas": [
+    "*“[...] ++eles++ voltam lá umas três vezes e apertam de novo, impacientes.”* (11º§)",
+    "*“Sem contar o carro de trás ++que++ sempre buzina assim que o sinal fica verde, [...]”* (12º§)",
+    "*“Imagine que só pra contar ++essa bicharada++, é preciso mesmo ter uma paciência de Jó.”* (8º§)",
+    "*“[...] ++quando++ percebe que já passaram os minutos e que o sinal já vai sair do vermelho [...]”* (12º§)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"[...] quando percebe que já passaram os minutos…\" é a resposta:** o termo destacado é *quando*, conjunção subordinativa temporal. Ela liga orações e indica tempo (\"no momento em que percebe\"), mas não retoma nenhum termo já citado. É coesão **sequencial** (conexão entre ideias), e não coesão por **retomada** (referencial).\n\n**As outras (estão corretas):**\n- *[...] eles voltam lá umas três vezes…*: o pronome pessoal *eles* retoma \"os moradores\", citados antes na mesma frase.\n- *Sem contar o carro de trás que sempre buzina…*: *que* é pronome relativo e retoma \"o carro de trás\" (o carro de trás sempre buzina).\n- *Imagine que só pra contar essa bicharada…*: *essa bicharada* é uma expressão resumidora: retoma, numa palavra só, a lista \"sete mil ovelhas, três mil camelos, quinhentas juntas de boi e quinhentas jumentas\".\n\n**Para memorizar:** pronomes (pessoais, relativos, demonstrativos) e expressões resumidoras retomam o que já foi dito. Conjunções (quando, mas, porque) ligam ideias, não retomam termos."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "De acordo com as ideias e informações trazidas ao texto, pode-se afirmar que o autor, principalmente:",
+   "alternativas": [
+    "Apresenta fatos do cotidiano a partir de um ponto de vista particular com a intenção de propiciar ao leitor reflexão acerca da questão apresentada.",
+    "Define uma posição contrária em relação aos costumes adquiridos pela sociedade no século XXI, especialmente em relação ao uso de novas tecnologias.",
+    "Defende que a tecnologia atual é a responsável pela preocupação com questões que envolvem o aceleramento exagerado que vive a sociedade do século XXI e suas consequências.",
+    "Descreve o seu trabalho em Paris, demonstrando com particularidades seu posicionamento social e posteriores transformações objetivando demonstrar um processo dinâmico no qual estaria inserido."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Apresenta fatos do cotidiano a partir de um ponto de vista particular…\":** o texto é uma **crônica**. O autor parte de lembranças pessoais (as cartas de Paris, as fotos do filho) e de cenas do dia a dia (o micro-ondas, o elevador, a buzina, o garçom) para levar o leitor a pensar sobre a impaciência dos tempos modernos. É a visão pessoal dele, em primeira pessoa, com a intenção de provocar reflexão.\n\n**As outras:**\n- *Define uma posição contrária em relação aos costumes…*: o autor constata e lamenta a impaciência, mas não condena as novas tecnologias nem assume uma posição contra elas.\n- *Defende que a tecnologia atual é a responsável…*: o texto não culpa a tecnologia pelo \"aceleramento\"; apenas compara o tempo das cartas com o do *e-mail*.\n- *Descreve o seu trabalho em Paris…*: o trabalho no restaurante universitário aparece só como lembrança, num parágrafo; não é o foco do texto.\n\n**Para memorizar:** em crônica, a pergunta \"o que o autor faz principalmente\" costuma ter como resposta \"parte do cotidiano, com olhar pessoal, para provocar reflexão\"."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Considerando o predomínio do uso da norma padrão da língua no texto, considere os comentários referentes ao 1º§ do texto *“Durante os anos que passei fora do Brasil, comunicava-me por cartas. Toda noite, sentava na minha escrivaninha e colocava a correspondência em dia. Ia até altas horas respondendo uma a uma, aquelas cartas que chegavam em envelopes verde-amarelos.”* e assinale o verdadeiro.",
+   "alternativas": [
+    "A forma verbal *“chegavam”* poderá ser substituída por “chegava” caso a ênfase seja dada à expressão *“uma a uma”*.",
+    "O adjetivo composto *“verde-amarelo”* faz o plural com a mesma variação vista em “castanho-escuro” e “amarelo-esverdeado”.",
+    "A forma verbal *“passei”* estabelece concordância com o pronome relativo *“que”*, elemento de coesão textual que retoma o elemento anterior.",
+    "Para que não haja prejuízo quanto à coerência textual, a forma verbal *“passei”* deve ser substituída por “passava”, de acordo com as formas empregadas *“comunicava”*, *“sentava”* e *“colocava”*."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O adjetivo composto verde-amarelo faz o plural…\":** no adjetivo composto formado por dois adjetivos, só o **último elemento** varia (concorda com o substantivo); o primeiro fica invariável. Assim: envelopes verde-amarelos, olhos castanho-escuros, tecidos amarelo-esverdeados. A variação é a mesma nos três casos.\n\n**As outras:**\n- *A forma verbal chegavam poderá ser substituída por chegava…*: o sujeito de *chegavam* é o relativo *que*, que retoma \"aquelas cartas\" (plural). \"Uma a uma\" é adjunto de modo e não muda a concordância.\n- *A forma verbal passei estabelece concordância com o pronome relativo que…*: *passei* concorda com o sujeito oculto *eu*. O *que* retoma \"os anos\" e completa o verbo (passei os anos fora do Brasil); não é sujeito.\n- *Para que não haja prejuízo quanto à coerência textual…*: o pretérito perfeito *passei* marca um período já encerrado; o imperfeito de *comunicava*, *sentava* e *colocava* marca hábitos dentro desse período. Os dois tempos convivem sem incoerência.\n\n**Para memorizar:** adjetivo + adjetivo: só o último varia (verde-amarelos, luso-brasileiros). Exceções clássicas: azul-marinho e azul-celeste são invariáveis; surdo-mudo flexiona os dois (surdos-mudos)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "O significado atribuído às palavras pode ser diferente tendo em vista o contexto no qual estiverem inseridas. A partir de tal pressuposto, sem que haja prejuízo da coerência e sentido textuais apresentados, assinale a proposta adequada de substituição para a palavra ou expressão destacada a seguir.",
+   "alternativas": [
+    "*“[...] um telefonema DDD custava ++os olhos da cara++.”* (4º§) / um valor peculiar",
+    "*“[...] um ++batalhão++ de estudantes num restaurante universitário.”* (3º§) / aglomeração",
+    "*“Fotografias na mão, coloquei dentro de um envelope pardo e ++despachei++,[...]”* (6º§) /deliberei",
+    "*“[...] eles voltam lá umas três vezes e apertam de novo, ++impacientes++.”* (11º§) / irrepreensíveis"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"[...] um batalhão de estudantes… / aglomeração\":** em sentido próprio, batalhão é uma unidade militar. No texto, a palavra tem sentido **figurado**: indica grande quantidade de pessoas, os muitos estudantes que tomavam café no restaurante universitário. \"Aglomeração\" (ajuntamento de muita gente) mantém essa ideia de multidão.\n\n**As outras:**\n- *[...] um telefonema DDD custava os olhos da cara… / um valor peculiar*: \"custar os olhos da cara\" é expressão idiomática que significa custar muito caro. \"Peculiar\" quer dizer particular, próprio de algo, e não caro.\n- *Fotografias na mão, coloquei dentro de um envelope pardo… / deliberei*: *despachei* significa enviei, remeti pelo correio. \"Deliberar\" é decidir depois de pensar.\n- *[...] eles voltam lá umas três vezes… / irrepreensíveis*: *impacientes* são os que não sabem esperar; \"irrepreensível\" é quem não merece censura, sem defeito. O sentido mudaria por completo.\n\n**Para memorizar:** em questão de substituição, releia a frase inteira com a palavra nova. \"Um valor peculiar\" ou \"deliberei pelo correio\" soam estranhos na hora."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "reescrita",
+   "texto": "t1",
+   "enunciado": "Em *“No elevador do meu prédio, os moradores apertam o botão, a luzinha acende mas, mesmo assim, eles voltam lá umas três vezes e apertam de novo, impacientes.”* (11º§) não haveria prejuízo das informações apresentadas caso fosse feita a seguinte paráfrase:",
+   "alternativas": [
+    "No elevador do meu prédio, os moradores apertam o botão, a luzinha acende, enquanto eles voltam lá umas três vezes e apertam de novo, impacientes.",
+    "Os moradores apertam o botão no elevador do meu prédio, a luzinha acende mesmo eles voltando lá umas três vezes e apertando de novo, impacientes.",
+    "Os moradores apertam o botão no elevador do meu prédio, a luzinha acende fazendo com que eles voltem lá umas três vezes e apertem de novo, impacientes.",
+    "No elevador do meu prédio, os moradores apertam o botão, a luzinha acende e mesmo assim, eles voltam lá umas três vezes e apertam de novo, impacientes."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"No elevador do meu prédio, os moradores apertam o botão, a luzinha acende e mesmo assim…\":** no original, *mas, mesmo assim* marca contraste: a luz acende (o chamado foi registrado) e, apesar disso, os moradores apertam de novo. Na paráfrase, *e mesmo assim* tem o mesmo valor (\"e, apesar disso\"). A ordem dos fatos e as informações continuam iguais; só a pontuação mudou.\n\n**As outras:**\n- *[...] a luzinha acende, enquanto eles voltam lá…*: *enquanto* indica simultaneidade. Some a ideia de contraste, e parece que eles voltam ao mesmo tempo em que a luz acende.\n- *Os moradores apertam o botão…, a luzinha acende mesmo eles voltando…*: inverte a relação: a luz acenderia \"apesar de\" eles voltarem, o que não é o que o texto diz.\n- *Os moradores apertam o botão…, a luzinha acende fazendo com que eles voltem…*: cria relação de causa, como se a luz acesa provocasse a volta dos moradores. No texto, eles voltam apesar da luz.\n\n**Para memorizar:** \"mas, mesmo assim\" = \"e, ainda assim\" = \"porém, apesar disso\". Em paráfrase, confira se a relação lógica (contraste, causa, tempo) continua a mesma."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "Em *“Se a pessoa respondesse na hora, eram mais sete a dez dias pra chegar até Paris.”* (2º§), caso fosse acrescentado *“a”* após *“até”*, não haveria acento indicador de crase. O que, por ser facultativo o seu uso, poderia ser empregado em",
+   "alternativas": [
+    "a obediência às leis é necessária.",
+    "disse tudo o que pensava à seu respeito.",
+    "comparecer àquela reunião foi de extrema importância.",
+    "ele disse que iria até à festa para prestar-lhe homenagem."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"ele disse que iria até à festa para prestar-lhe homenagem\":** depois da preposição *até*, diante de palavra feminina que aceita artigo, a crase é **facultativa**: \"até a festa\" (só a preposição *até* + artigo) ou \"até à festa\" (até + preposição *a* + artigo *a*). Com Paris não haveria crase porque o nome dessa cidade não admite artigo (vou a Paris, volto de Paris).\n\n**As outras:**\n- *a obediência às leis é necessária*: o primeiro *a* é só artigo e não leva acento. Em \"às leis\" a crase é **obrigatória** (obediência a + as leis); não é caso facultativo.\n- *disse tudo o que pensava à seu respeito*: crase errada: não há crase antes de palavra masculina nem de possessivo masculino (\"a seu respeito\").\n- *comparecer àquela reunião foi de extrema importância*: crase obrigatória: comparecer **a** + **aquela** = àquela.\n\n**Para memorizar:** crase facultativa em três casos: antes de possessivo feminino singular (à/a minha casa), antes de nome próprio feminino de pessoa (à/a Maria) e depois de *até* (até à/até a praia)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "O vocábulo “que” pode apresentar classificações e funções diversas na construção de frases. Dentre as ocorrências do “que”, assinale aquela cuja função sintática pode ser identificada como sujeito da oração.",
+   "alternativas": [
+    "*“[...] a primeira coisa ++que++ fazia era bater os olhos na caixa [...]”* (3º§)",
+    "*“Era um tempo em ++que++ não havia internet, não havia Skype [...]”* (4º§)",
+    "*“[...] aquelas cartas ++que++ chegavam em envelopes verde-amarelos.”* (1º§)",
+    "*“Durante os anos ++que++ passei fora do Brasil, comunicava-me por cartas.”* (1º§)"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"[...] aquelas cartas que chegavam em envelopes verde-amarelos.\":** o *que* é pronome relativo e retoma \"aquelas cartas\". Troque-o pelo antecedente: \"as cartas chegavam em envelopes verde-amarelos\". Quem chegava? As cartas, ou seja, o *que*. Ele é o **sujeito** de *chegavam*, e o verbo no plural confirma a concordância com o antecedente.\n\n**As outras:**\n- *[...] a primeira coisa que fazia era bater os olhos…*: \"eu fazia a primeira coisa\": o *que* (= a primeira coisa) é **objeto direto** de *fazia*; o sujeito é *eu*, oculto.\n- *Era um tempo em que não havia internet…*: \"em que\" = no qual; o relativo com preposição é **adjunto adverbial de tempo** (naquele tempo não havia internet). Além disso, *haver* no sentido de existir não tem sujeito.\n- *Durante os anos que passei fora do Brasil…*: \"passei os anos fora do Brasil\": o *que* (= os anos) completa o verbo *passei*; o sujeito é *eu*, indicado pela desinência.\n\n**Para memorizar:** para achar a função do *que* relativo, troque-o pelo antecedente e monte a frase: \"as cartas chegavam\" (sujeito), \"fazia a coisa\" (objeto direto), \"naquele tempo não havia\" (adjunto adverbial)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Diante das sequências argumentativas textuais e de acordo com o exposto é possível concluir em relação ao termo *“paciência”* que",
+   "alternativas": [
+    "suas características foram agregadas de uma nova forma, em um novo modelo, à atual necessidade do sistema social.",
+    "algumas consequências de sua ausência total ou parcial podem ser vistas diariamente despertando um sentimento de pesar.",
+    "tal capacidade é inibida por tendências modernas desvencilhando-as de algum tipo de processo que envolva algum tipo de norma ou regras determinadas.",
+    "não há possibilidade de retroceder ao estado inicial apresentado, em que a sociedade mantinha um ritmo diário de atividades diferente do atual, tornando este melhor que aquele."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"algumas consequências de sua ausência total ou parcial podem ser vistas diariamente…\":** o autor enumera cenas do dia a dia que mostram a falta de paciência: a empregada contando os segundos do micro-ondas, os moradores apertando o botão do elevador várias vezes, o motorista que buzina, o cliente que acha que o garçom esqueceu o pedido. São consequências vistas todos os dias, narradas com tom de lamento e nostalgia (\"Ninguém tem mais paciência pra nada\"), o que desperta pesar.\n\n**As outras:**\n- *suas características foram agregadas de uma nova forma…*: o texto não fala em paciência adaptada a um novo modelo social; fala em paciência que se perdeu.\n- *tal capacidade é inibida por tendências modernas desvencilhando-as…*: não há no texto relação entre paciência e normas ou regras; a alternativa junta termos sem apoio no texto.\n- *não há possibilidade de retroceder ao estado inicial…*: o autor não diz que é impossível voltar e, pelo tom nostálgico, não acha o ritmo atual melhor que o antigo; é o contrário.\n\n**Para memorizar:** desconfie de alternativas com conclusões que o texto não autoriza (\"não há possibilidade\", \"tornando este melhor\") e de frases rebuscadas sem ligação com os exemplos do texto."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "Em *“Até quando abusarás, Catilina, da nossa paciência?”* (16º§), a correção gramatical do segmento seria preservada caso",
+   "alternativas": [
+    "apenas a primeira vírgula fosse mantida.",
+    "apenas a segunda vírgula fosse mantida.",
+    "a última palavra da frase fosse *“Catilina”*, removendo-se ambas as vírgulas.",
+    "a frase fosse iniciada por *“Catilina”*, mantendo-se apenas a segunda vírgula."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"a frase fosse iniciada por Catilina, mantendo-se apenas a segunda vírgula\":** *Catilina* é **vocativo** (o nome de quem é chamado), e o vocativo vem sempre isolado por vírgula. No meio da frase, fica entre duas vírgulas; no início, basta a vírgula depois dele: \"Catilina, até quando abusarás da nossa paciência?\". A vírgula que sobra é justamente a que vinha depois de *Catilina*, a segunda.\n\n**As outras:**\n- *apenas a primeira vírgula fosse mantida*: \"Até quando abusarás, Catilina da nossa paciência?\" deixa o vocativo sem a vírgula de fechamento.\n- *apenas a segunda vírgula fosse mantida*: \"Até quando abusarás Catilina, da nossa paciência?\" deixa o vocativo sem a vírgula de abertura e parece que *Catilina* é complemento do verbo.\n- *a última palavra da frase fosse Catilina, removendo-se ambas…*: no fim da frase o vocativo também precisa de vírgula antes: \"…da nossa paciência, Catilina?\".\n\n**Para memorizar:** vocativo sempre separado por vírgula, em qualquer posição: no início (vírgula depois), no meio (entre vírgulas) e no fim (vírgula antes)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em geral, textos com a estrutura e finalidade do texto apresentado apresentam uma linguagem em que há",
+   "alternativas": [
+    "certo nível de informalidade através do modo de expressão empregado.",
+    "marcas linguísticas que demonstram valorização de determinada fala regionalista.",
+    "determinado grau de tecnicidade demonstrado através do domínio do assunto pelo autor.",
+    "um nível de formalidade elevado demonstrando tratar-se de uma situação formal de comunicação."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"certo nível de informalidade através do modo de expressão empregado\":** o texto é uma **crônica** publicada em revista: relato pessoal, em primeira pessoa, sobre fatos do cotidiano, com linguagem próxima da fala. As marcas de informalidade são muitas: \"pra\", \"pros\", \"custava os olhos da cara\", \"bater os olhos\", \"bicharada\", \"Ninguém tem saco\".\n\n**As outras:**\n- *marcas linguísticas que demonstram valorização de determinada fala regionalista*: a linguagem é coloquial, mas não regional; não há expressões típicas de uma região.\n- *determinado grau de tecnicidade demonstrado através do domínio do assunto…*: não há termos técnicos; o autor fala de experiências pessoais.\n- *um nível de formalidade elevado demonstrando tratar-se de uma situação formal…*: é o contrário do que o texto mostra.\n\n**Para memorizar:** crônica = fato do dia a dia + olhar pessoal + linguagem leve, muitas vezes coloquial."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q11",
+   "numero": 11,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um dos grandes desafios do Sistema Único de Saúde (SUS) ainda é a busca de um processo de humanização completa. O(s) problema(s) associado(s) à humanização é(são):\n\nI. Sistema ainda burocratizado e verticalizado.\n\nII. Fragmentação do trabalho e das relações por parte dos profissionais.\n\nIII. Baixo investimento na qualificação profissional.\n\nEstá(ão) correta(s) a(s) alternativa(s)",
+   "alternativas": [
+    "I, II e III.",
+    "III, apenas.",
+    "I e II, apenas.",
+    "II e III, apenas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e III.\":** os três problemas aparecem no diagnóstico da **Política Nacional de Humanização (PNH, ou HumanizaSUS)**, lançada pelo Ministério da Saúde em 2003. I: a gestão do sistema ainda é burocratizada e verticalizada, com pouca participação de trabalhadores e usuários. II: há fragmentação do processo de trabalho e das relações entre os profissionais, o que atrapalha o trabalho em equipe e o vínculo com o usuário. III: há baixo investimento na qualificação dos trabalhadores, sobretudo em gestão participativa. As três estão corretas.\n\n**As outras:**\n- *III, apenas.*: deixa de fora dois problemas que a PNH aponta expressamente.\n- *I e II, apenas.*: ignora a falta de qualificação profissional, também citada.\n- *II e III, apenas.*: ignora o modelo burocratizado e verticalizado, que é justamente o que a PNH quer mudar com a cogestão.\n\n**Para memorizar:** humanização no SUS = acolhimento, vínculo, cogestão e valorização do trabalhador. Os \"vilões\" são burocracia, verticalização e trabalho fragmentado."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q12",
+   "numero": 12,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Trata-se da Estratégia de Saúde da Família (ESF) um modelo de atenção à saúde que mais vigora, baseado nas políticas sanitárias da atualidade. Resumidamente, a ESF se caracteriza por:\n\nI. Enfoque multiprofissional.\n\nII. Presença de agentes comunitários.\n\nIII. Territórios de abrangência.\n\nIV. Predominância da atenção terciária.\n\nEstão corretas as alternativas",
+   "alternativas": [
+    "I, II, III e IV.",
+    "I e II, apenas.",
+    "I, II e III, apenas.",
+    "I, II e IV, apenas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e III, apenas.\":** a Estratégia Saúde da Família é a forma prioritária de organizar a **atenção básica (primária)** no SUS. Funciona com equipe **multiprofissional** (médico, enfermeiro, técnico de enfermagem e agentes comunitários de saúde), responsável pela população de um **território definido**. Os agentes comunitários fazem a ponte entre a equipe e as famílias. Por isso I, II e III estão certos. O item IV está errado: a ESF atua na atenção **primária**; a terciária é a de alta complexidade (hospitais especializados, UTI, transplantes).\n\n**As outras:**\n- *I, II, III e IV.*: inclui a atenção terciária, que não é o campo da ESF.\n- *I e II, apenas.*: deixa de fora o território de abrangência, base do trabalho da equipe.\n- *I, II e IV, apenas.*: troca o território pela atenção terciária.\n\n**Para memorizar:** ESF = porta de entrada do sistema + território + família + agente comunitário + equipe multiprofissional."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q13",
+   "numero": 13,
+   "secao": "Saúde Pública",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "A ideia que todos os cidadãos são iguais perante o SUS e devem ser atendidos conforme suas necessidades sem nenhum tipo de privilégio infere ao que denomina-se de:",
+   "alternativas": [
+    "Equidade.",
+    "Regionalização.",
+    "Resolubilidade.",
+    "Descentralização."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Equidade\":** equidade é tratar cada pessoa conforme a sua necessidade, dando mais a quem precisa mais, para reduzir desigualdades. A ideia de que todos são iguais perante o SUS e devem ser atendidos **conforme suas necessidades**, sem privilégios, é exatamente esse princípio doutrinário. Na Lei 8.080/1990 ele se apoia no art. 7º, IV: igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie.\n\n**As outras:**\n- *Regionalização*: princípio organizativo: os serviços se organizam em redes por região de saúde, com população e território definidos.\n- *Resolubilidade*: capacidade de o serviço resolver o problema do usuário no nível de complexidade adequado (o art. 7º, XII, fala em capacidade de resolução dos serviços).\n- *Descentralização*: redistribuição de poder e responsabilidades entre União, estados e municípios, com direção única em cada esfera de governo (art. 7º, IX).\n\n**Para memorizar:** princípios doutrinários do SUS: universalidade, integralidade e equidade. Organizativos: regionalização, hierarquização, descentralização e participação da comunidade."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q14",
+   "numero": 14,
+   "secao": "Saúde Pública",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Os campos de abrangência da Vigilância Sanitária (VS) são amplos. De acordo com essa informação, assinale a alternativa que NÃO compete às ações da VS.",
+   "alternativas": [
+    "Notificação de casos de doença e investigação sobre etiologia e agentes desencadeantes.",
+    "Tecnologias de beleza, limpeza e higiene relativas aos métodos e processos de produção de cosméticos, perfumes.",
+    "Tecnologias de alimentos referentes aos métodos e processos de produção de alimentos necessários ao sustento e nutrição do ser humano.",
+    "Subsistema de produção de bens de consumo e serviços de saúde, que interferem direta ou indiretamente na saúde do consumidor ou comunidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Notificação de casos de doença e investigação sobre etiologia…\" é a resposta:** notificar casos e investigar a causa (etiologia) de doenças é tarefa da **vigilância epidemiológica**. Pela Lei 8.080/1990, art. 6º, § 2º, ela reúne ações para conhecer, detectar e prevenir mudanças nos fatores que condicionam a saúde e recomendar medidas de controle de doenças e agravos. A vigilância sanitária (art. 6º, § 1º) atua sobre os **riscos** ligados a produtos, serviços e meio ambiente.\n\n**As outras (estão corretas):**\n- *Tecnologias de beleza, limpeza e higiene…*: cosméticos, perfumes e produtos de limpeza são produtos sujeitos à vigilância sanitária (registro, fabricação, rotulagem).\n- *Tecnologias de alimentos…*: o controle dos alimentos, da produção ao consumo, é campo clássico da VISA.\n- *Subsistema de produção de bens de consumo e serviços de saúde…*: corresponde ao texto da Lei 8.080: controle de bens de consumo e da prestação de serviços que se relacionam, direta ou indiretamente, com a saúde.\n\n**Para memorizar:** VISA controla **produtos, serviços e ambientes**; vigilância epidemiológica acompanha **doenças e agravos** (notificação, investigação, controle)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q15",
+   "numero": 15,
+   "secao": "Saúde Pública",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "“O serviço de vigilância em saúde notifica um descarte inadequado de resíduos químicos sem classificação provenientes de um laboratório de análises clínicas.” Esse tipo de resíduo deve estar adequadamente identificado como resíduo tipo:",
+   "alternativas": [
+    "A.",
+    "B.",
+    "D.",
+    "E."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"B.\":** os resíduos de serviços de saúde são classificados em cinco grupos. O **Grupo B** reúne os resíduos **químicos**: os que contêm substâncias que podem oferecer risco à saúde pública ou ao meio ambiente por inflamabilidade, corrosividade, reatividade ou toxicidade (reagentes de laboratório, saneantes, certos medicamentos). Resíduo químico de laboratório de análises clínicas é, portanto, Grupo B. Na época da prova a norma era a RDC ANVISA 306/2004; hoje é a RDC 222/2018, que manteve os mesmos grupos.\n\n**As outras:**\n- *A.*: o Grupo A é o dos resíduos com possível presença de agentes **biológicos** (culturas, bolsas de sangue, peças anatômicas).\n- *D.*: o Grupo D é o dos resíduos **comuns**, sem risco especial, equiparados aos domiciliares (papel, restos de alimento).\n- *E.*: o Grupo E é o dos **perfurocortantes** (agulhas, lâminas, ampolas de vidro).\n\n**Para memorizar:** A = biológico, B = químico, C = radioativo, D = comum, E = perfurocortante."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q16",
+   "numero": 16,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O controle do vetor *Aedes* se refere à forma mais eficaz de minimizar os casos de dengue, *zika* vírus e outras arboviroses transmitidas por esse inseto. De acordo com a afirmativa anterior, a outra possível doença transmitida por esse vetor é:",
+   "alternativas": [
+    "Doença de Chagas.",
+    "*Leishmaniose* visceral.",
+    "Febre amarela urbana.",
+    "*Leishmaniose* cutânea."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Febre amarela urbana\":** o *Aedes aegypti* transmite dengue, zika, chikungunya e também a **febre amarela no ciclo urbano** (pessoa doente, mosquito, pessoa sadia). No Brasil, a febre amarela urbana não é registrada desde 1942; os casos atuais são do ciclo silvestre, transmitido por mosquitos *Haemagogus* e *Sabethes*. Combater o *Aedes* também evita que a forma urbana volte.\n\n**As outras:**\n- *Doença de Chagas*: transmitida pelo barbeiro (triatomíneo), que elimina o *Trypanosoma cruzi* nas fezes, e também por via oral (alimentos contaminados, como açaí e caldo de cana).\n- *Leishmaniose visceral*: transmitida pelo mosquito-palha (flebotomíneo); o cão é o principal reservatório na cidade.\n- *Leishmaniose cutânea*: também transmitida por flebotomíneos, não pelo *Aedes*.\n\n**Para memorizar:** *Aedes* = dengue, zika, chikungunya e febre amarela urbana. Flebotomíneo = leishmanioses. Barbeiro = Chagas."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q17",
+   "numero": 17,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O cálculo da taxa de mortalidade infantil pela metodologia “indireta” se dá quando",
+   "alternativas": [
+    "sabemos o número de nascidos vivos.",
+    "a cobertura do SINASC for inferior a 90%.",
+    "sabemos o número total de óbitos de menores de 1 ano.",
+    "sabemos o número de óbitos de crianças entre 0 e 5 anos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"a cobertura do SINASC for inferior a 90%\":** pelo método **direto**, a taxa de mortalidade infantil é: óbitos de menores de 1 ano ÷ nascidos vivos × 1.000. A conta só é confiável se os sistemas registram bem os nascimentos e os óbitos. Pelos critérios da RIPSA (Rede Interagencial de Informações para a Saúde), o cálculo direto vale quando a cobertura do SINASC é de pelo menos 90% e o índice de cobertura e regularidade do SIM chega a 80%. Abaixo disso, a taxa é **estimada por técnicas demográficas**: é o método indireto.\n\n**As outras:**\n- *sabemos o número de nascidos vivos*: é o denominador do cálculo direto; tê-lo não obriga ao método indireto.\n- *sabemos o número total de óbitos de menores de 1 ano*: é o numerador do cálculo direto.\n- *sabemos o número de óbitos de crianças entre 0 e 5 anos*: óbitos de menores de 5 anos servem a outro indicador, a mortalidade na infância.\n\n**Para memorizar:** registro bom (SINASC ≥ 90% e SIM ≥ 80%) = cálculo direto. Registro falho = estimativa indireta."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q18",
+   "numero": 18,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "texto": "t2",
+   "enunciado": "Assinale a afirmativa que completa correta e sequencialmente a afirmativa anterior.",
+   "alternativas": [
+    "sarampo / rubéola",
+    "caxumba / rotavírus",
+    "poliomielite / rotavírus",
+    "tuberculose / hepatite B"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"tuberculose / hepatite B\":** as vacinas aplicadas **ao nascer**, no calendário do Programa Nacional de Imunizações, são a **BCG**, que protege contra as formas graves da **tuberculose** (meníngea e miliar), e a primeira dose da vacina contra a **hepatite B**, de preferência logo nas primeiras horas de vida, para evitar a transmissão da mãe para o bebê.\n\n**As outras:**\n- *sarampo / rubéola*: protegidos pela vacina tríplice viral (sarampo, caxumba e rubéola), dada aos 12 meses.\n- *caxumba / rotavírus*: a caxumba também está na tríplice viral (12 meses); a vacina oral contra o rotavírus é dada aos 2 e 4 meses.\n- *poliomielite / rotavírus*: a vacina inativada contra a pólio (VIP) começa aos 2 meses, junto com a do rotavírus.\n\n**Para memorizar:** ao nascer: BCG + hepatite B. Aos 2 meses começa a sequência (pentavalente, pólio, rotavírus, pneumocócica)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q19",
+   "numero": 19,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "texto": "t2",
+   "enunciado": "De acordo com as doenças que preenchem as lacunas da afirmativa em destaque, as vacinas que devem ser aplicadas nos recém-nascidos",
+   "alternativas": [
+    "só estão disponíveis na rede privada de saúde.",
+    "são as que estão dentro do calendário vacinal brasileiro preconizado pelo SUS.",
+    "existem, mas não estão disponíveis na rede pública por serem de origem estrangeira.",
+    "ainda não fazem parte das vacinas aplicadas no calendário vacinal preconizado pelo SUS."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"são as que estão dentro do calendário vacinal brasileiro preconizado pelo SUS\":** a BCG e a vacina contra hepatite B fazem parte do Calendário Nacional de Vacinação do Programa Nacional de Imunizações (PNI) e são aplicadas de graça na rede pública, na maternidade ou na primeira ida à unidade de saúde. A BCG é dose única; a hepatite B ao nascer é a primeira dose do esquema, que continua com a vacina pentavalente (que inclui a hepatite B).\n\n**As outras:**\n- *só estão disponíveis na rede privada de saúde*: falso; o SUS oferece as duas gratuitamente.\n- *existem, mas não estão disponíveis na rede pública…*: falso; as duas estão no calendário público, e a origem do fabricante não impede a oferta.\n- *ainda não fazem parte das vacinas aplicadas no calendário…*: falso; as duas estão no calendário nacional há muitos anos.\n\n**Para memorizar:** o PNI, criado em 1973, oferece de graça todas as vacinas do calendário nacional. Ao nascer: BCG + hepatite B."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q20",
+   "numero": 20,
+   "secao": "Saúde Pública",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma doença que ultrapassa em incidência o limiar endêmico estabelecido por um diagrama de controle está provavelmente em um estado de:",
+   "alternativas": [
+    "Endemia.",
+    "Epidemia.",
+    "Pandemia.",
+    "Endemia progressiva."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Epidemia\":** o diagrama de controle mostra, semana a semana, a incidência esperada de uma doença (média histórica) e a faixa de variação normal. A linha de cima é o **limiar endêmico** (limite superior). Enquanto os casos ficam dentro da faixa, a doença está em nível endêmico; quando a incidência **ultrapassa** esse limite, há excesso de casos em relação ao esperado: é uma **epidemia**.\n\n**As outras:**\n- *Endemia*: é a ocorrência habitual, dentro da faixa esperada, ou seja, abaixo do limiar.\n- *Pandemia*: é uma epidemia de grande extensão, que atinge vários países ou continentes; o diagrama de uma localidade não mostra isso.\n- *Endemia progressiva*: não é a categoria usada para esse caso; o que passa do limiar endêmico já é epidemia.\n\n**Para memorizar:** dentro da faixa = endemia; acima do limiar = epidemia; epidemia em vários continentes = pandemia."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "**Texto I**\n\n“Atentados deixaram dezenas de mortos e feridos no Aeroporto Internacional de Zaventem e na estação de metrô *Maelbeek* em Bruxelas, na Bélgica, na manhã desta terça-feira (22/03/16). O número de vítimas ainda não é oficial. A imprensa fala em 34 mortos e mais de 200 feridos. As explosões levaram o país a entrar em alerta máximo para atentados terroristas.”\n\n*(Disponível em: http://g1.globo.com/mundo/noticia/2016/03/aeroporto-de-bruxela-na-belgica-registra-explosoes.html.)*\n\n**Texto II**\n\n**Um ano após massacre do Charlie Hebdo, França se mostra dividida**\n\n“O ataque à sede do jornal ‘*Charlie Hebdo*’, em Paris, completa um ano nesta quinta-feira (7/01/16). Passadas as grandes manifestações de união e solidariedade por causa do atentado, o clima na França atualmente é bastante diferente: outros atentados expuseram ainda mais a divisão do país e, entre os efeitos, podem ser observados um aumento da intolerância religiosa e o fortalecimento da extrema direita.”\n\n*(Disponível em: http://g1.globo.com/mundo/noticia/2016/01/um-ano-apos-massacre-do-charlie-hebdo-franca-se-mostra-dividida.html.)*\n\nOs dois episódios em destaque nos textos têm em comum:",
+   "alternativas": [
+    "A motivação que os gerou, ou seja, um protesto contra a liberdade de imprensa e a xenofobia reinante na Europa.",
+    "A intensa briga, de longa data, entre os católicos e protestantes (*Huguenotes*), gerando ondas de violência extrema.",
+    "O fato de terem como contexto principal a ação de um ou mais grupos extremistas que reivindicam a responsabilidade pelos ataques.",
+    "O início de uma campanha pioneira, a nível mundial, contra o terrorismo fundamentalista com o apoio das forças armadas e de toda sociedade civil."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O fato de terem como contexto principal a ação de um ou mais grupos extremistas…\":** os atentados de Bruxelas (aeroporto de Zaventem e metrô Maelbeek, 22/03/2016) foram reivindicados pelo **Estado Islâmico**. O ataque à redação do *Charlie Hebdo* (Paris, 07/01/2015) foi reivindicado pela **Al-Qaeda na Península Arábica**. Nos dois casos, grupos extremistas assumiram a autoria.\n\n**As outras:**\n- *A motivação que os gerou, ou seja, um protesto contra a liberdade…*: não foram protestos, e sim atentados terroristas; a xenofobia não foi a motivação dos autores.\n- *A intensa briga, de longa data, entre os católicos e protestantes…*: os huguenotes foram os protestantes franceses perseguidos nos séculos XVI e XVII; nada têm a ver com esses ataques.\n- *O início de uma campanha pioneira, a nível mundial…*: o combate internacional ao terrorismo já existia antes (por exemplo, depois do 11 de setembro de 2001); não começou com esses episódios.\n\n**Para memorizar:** Charlie Hebdo (jan/2015, Paris), Bataclan (nov/2015, Paris) e Bruxelas (mar/2016) formam a onda de atentados jihadistas na Europa daquele período."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "![Fotos de Hillary Clinton e Donald Trump, candidatos à presidência dos Estados Unidos em 2016](data/provas/img/idecan-2016-conquista-coord-visa/q22.webp)\n\n*(Disponível em: http://www.emtempo.com.br/tags/donald-trump/.)*\n\n“Após dois mandatos, *Barack Obama* não poderá concorrer a mais uma prolongação de sua estadia na Casa Branca em 2016. Acontecendo tradicionalmente na primeira terça-feira de novembro, as eleições presidenciais americanas têm sido, desde 1856, dominadas por dois grandes partidos. Segundo o *think-thank* apartidário PEW *Research* Center, a população americana vive uma onda crescente de partidarização. O mesmo pode ser dito nas outras esferas federais da política: tanto a Câmara do Senado quanto a dos Representantes, que compõem o Congresso americano, vivem um momento de polarização como não visto desde o final do século XIX.”\n\n*(Disponível em: https://revistapoleiro.com.br/para-entender-as-elei%C3%A7%C3%B5es-norte-americanas-89b4d55e6b7e#.lfzlcua04_.)*\n\nOs partidos a que se refere o trecho anterior e que dominam o cenário eleitoral norte-americano são, respectivamente:",
+   "alternativas": [
+    "O Liberal e o Conservador.",
+    "O Confederado e o Ianque.",
+    "O Republicano e o Democrata.",
+    "O Regressista e o Progressista."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O Republicano e o Democrata\":** a política dos Estados Unidos é dominada desde meados do século XIX por dois partidos: o **Republicano** (de Donald Trump, na foto à direita) e o **Democrata** (de Hillary Clinton, à esquerda, e do então presidente Barack Obama). O Partido Republicano disputou sua primeira eleição presidencial em 1856, data citada no texto. Na eleição de 2016, Trump venceu Hillary.\n\n**As outras:**\n- *O Liberal e o Conservador*: são partidos de outros países (como Canadá e Reino Unido) e do Brasil Império, não dos Estados Unidos.\n- *O Confederado e o Ianque*: são os lados da Guerra de Secessão (1861–1865): o Sul confederado e o Norte, apelidado de ianque.\n- *O Regressista e o Progressista*: foram grupos políticos do Brasil no período regencial.\n\n**Para memorizar:** Estados Unidos: Republicanos (símbolo do elefante, conservadores) × Democratas (símbolo do burro, mais progressistas)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Os antibióticos são usados no tratamento e no combate às bactérias, mas algumas bactérias patogênicas já se tornaram resistentes a praticamente todos eles. Elas estão sendo chamadas de superbactérias. O uso indiscriminado de antibióticos provocou uma ‘seleção natural’ dessas bactérias patogênicas; e para combatê-las é necessário o uso de antibióticos superpoderosos que podem afetar, por exemplo, ossos ou fígado da pessoa doente.”\n\n*(Disponível em: http://vestibular.brasilescola.uol.com.br/atualidades/as-superbacterias-em-questoes-vestibular.htm.)*\n\nSobre a questão das superbactérias e dos antibióticos, analise as afirmativas a seguir.\n\nI. Pessoas que fazem uso de antibióticos sem prescrição médica, ou que interrompem o tratamento prescrito, tornam-se verdadeiros criadouros de superbactérias.\n\nII. O saneamento básico também está relacionado com as superbactérias, já que algumas doenças são transmitidas por bactérias em razão da falta de saneamento básico.\n\nIII. As bactérias, diferente dos outros seres vivos, não passam pelo processo de seleção natural para se tornarem superbactérias.\n\nIV. Os alimentos orgânicos são as maiores fontes de superbactérias, devido ao uso exagerado de agrotóxicos em sua produção.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "III e IV.",
+    "I, II e III.",
+    "II, III e IV."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I e II.\":** I está certa: usar antibiótico sem prescrição ou parar o tratamento antes da hora expõe as bactérias a doses insuficientes; as mais resistentes sobrevivem e se multiplicam. II está certa: sem saneamento há mais infecções bacterianas, mais uso de antibióticos e mais circulação de bactérias resistentes no esgoto e na água. III está errada: as superbactérias surgem justamente por **seleção natural** (o antibiótico elimina as sensíveis e sobram as resistentes), como diz o próprio texto. IV está errada: alimento orgânico é produzido **sem** agrotóxicos, e agrotóxico não é antibiótico.\n\n**As outras:**\n- *III e IV.*: as duas afirmativas são falsas.\n- *I, II e III.*: inclui a III, que contradiz o texto (\"seleção natural\").\n- *II, III e IV.*: deixa de fora a I, que está correta, e inclui duas falsas.\n\n**Para memorizar:** resistência bacteriana = uso indiscriminado de antibiótico + seleção natural das bactérias resistentes."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“O documentário ‘Cinema Novo’, sobre o movimento cinematográfico nascido no Brasil que revolucionou a criação artística nos anos 1960 e 1970, ganhou neste sábado (21/05/16) o ‘Olho de Ouro’ do Festival de *Cannes*, anunciaram os organizadores. ‘Cinema Novo é um filme-manifesto sobre a vigência de um movimento cinematográfico quase esquecido dos anos 1960’, indicou o júri do prêmio, disputado pelos documentários apresentados em *Cannes*. O filme brasileiro premiado, de 90 minutos, é um ensaio poético sobre o movimento cinematográfico, e inclui trechos de filmes da época e depoimentos de seus principais expoentes.”\n\n*(Disponível em: http://g1.globo.com/pop-arte/cinema/noticia/2016/05/filme-brasileiro-cinema-novo-ganha-premio-em-cannes.html.)*\n\nO Cinema Novo, movimento artístico de fundamental importância para o cinema nacional, tinha entre seus expoentes:",
+   "alternativas": [
+    "Daniel Filho.",
+    "Glauber Rocha.",
+    "Jaime Monjardim.",
+    "Benedito Ruy Barbosa."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Glauber Rocha\":** o Cinema Novo (anos 1960 e 1970) propunha filmes de baixo orçamento, com \"uma câmera na mão e uma ideia na cabeça\", sobre a realidade social do Brasil: o sertão, a fome, a desigualdade. Seu nome mais conhecido é **Glauber Rocha**, diretor de *Deus e o Diabo na Terra do Sol* (1964) e *Terra em Transe* (1967). Outros expoentes: Nelson Pereira dos Santos (*Vidas Secas*), Cacá Diegues e Leon Hirszman.\n\n**As outras:**\n- *Daniel Filho*: ator, diretor e produtor ligado sobretudo à televisão e ao cinema comercial.\n- *Jaime Monjardim*: diretor de novelas e minisséries de TV, como *Pantanal* (1990).\n- *Benedito Ruy Barbosa*: autor de novelas, como *Pantanal* e *O Rei do Gado*.\n\n**Para memorizar:** Cinema Novo = Glauber Rocha + \"uma câmera na mão e uma ideia na cabeça\"."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "![Vinicius e Tom, mascotes dos Jogos Rio 2016, ao lado do logotipo Rio 2016](data/provas/img/idecan-2016-conquista-coord-visa/q25.webp)\n\n*(Disponível em: http://www.suapesquisa.com/olimpiadas/mascotes.htm.)*\n\nÉ a primeira vez que os jogos olímpicos serão sediados na América do Sul. O Brasil está ansioso para receber todas as atenções, principalmente para o Rio de Janeiro. A cada edição das Olimpíadas ou Copas do Mundo de Futebol, por exemplo, são criados mascotes das competições. Em relação aos mascotes deste ano, é correto afirmar que:",
+   "alternativas": [
+    "Vinícius, é uma mistura de todos os animais brasileiros e Tom, o melhor amigo de Vinícius, é uma mistura de todas as plantas da floresta brasileira.",
+    "É a primeira vez numa Olimpíada que os mascotes representam animais ou plantas. Normalmente eles simbolizam personagens históricos de cada país.",
+    "Os nomes e as formas dos mascotes foram selecionados e escolhidos apenas pelos desportistas e associações ligadas ao esporte paraolímpico credenciados.",
+    "Os mascotes foram definidos pelas ONGs e entidades ecológicas do Brasil, numa tentativa de alertar para o desmatamento e a extinção indiscriminada."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Vinícius, é uma mistura de todos os animais brasileiros…\":** os mascotes da Rio 2016 foram apresentados em 2014. **Vinicius**, o mascote olímpico, reúne características de animais da fauna brasileira (a agilidade dos felinos, o balanço dos macacos, a leveza das aves). **Tom**, o mascote paralímpico, reúne plantas da flora brasileira. Os nomes homenageiam Vinicius de Moraes e Tom Jobim, autores de \"Garota de Ipanema\".\n\n**As outras:**\n- *É a primeira vez numa Olimpíada que os mascotes representam animais…*: animais são comuns em mascotes olímpicos, como o urso Misha (Moscou 1980) e a águia Sam (Los Angeles 1984).\n- *Os nomes e as formas dos mascotes foram selecionados…*: os nomes foram escolhidos por **votação popular** pela internet, entre três opções de pares de nomes.\n- *Os mascotes foram definidos pelas ONGs e entidades ecológicas…*: foram criados por um estúdio de animação para o Comitê Rio 2016, não por ONGs.\n\n**Para memorizar:** Vinicius = fauna (Jogos Olímpicos); Tom = flora (Jogos Paralímpicos)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "**A energia nuclear após o acidente de Chernobyl**\n\n“O pior acidente nuclear da história completa 30 anos nesse ano de 2016. No dia 26 de abril de 1986, a explosão de um reator da usina de *Chernobyl*, na Ucrânia, lançou grandes quantidades de partículas radioativas na atmosfera. Em poucos dias, a nuvem tóxica atingiu extensas áreas da Europa Oriental. O acidente fez 31 vítimas, entre as pessoas que trabalharam para conter o incêndio na usina e ficaram expostos diretamente à radiação. Mas estimativas do *Greenpeace* apontam que até 100 mil pessoas possam ter morrido devido ao contato com a radiação de *Chernobyl*, principalmente de câncer.”\n\n*(Disponível em: http://guiadoestudante.abril.com.br/blogs/atualidades-vestibular/a-energia-nuclear-apos-o-acidente-de-chernobyl/.)*\n\nApós esse acidente, um dos mais graves desse gênero:",
+   "alternativas": [
+    "A produção de energia a partir da fissão de átomos de elementos radioativos, como urânio e plutônio, continuou em expansão na maioria dos países em que já funcionavam, inclusive no Brasil.",
+    "No Brasil, operavam as usinas de Angra 1 e Angra 2, na cidade de Angra dos Reis e uma terceira usina, a Angra 3, estava em construção. Todas foram desativadas e o uso da energia nuclear proibida no país.",
+    "Estados Unidos, a nação que mais produzia energia nuclear, seguido pela França, comandou os países europeus e proibiu o uso das usinas atômicas que antes respondiam por grande parte de toda a eletricidade gerada no país.",
+    "Países como o Japão que não possuem recursos naturais suficientes para atender suas necessidades energéticas a partir de petróleo, suspenderam seu programa atômico e o funcionamento das usinas, que ainda permanecem inativas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A produção de energia a partir da fissão de átomos…\":** mesmo depois de Chernobyl (1986), a energia nuclear continuou crescendo na maior parte dos países que já a usavam, como França, Estados Unidos, Japão e Coreia do Sul. No Brasil, Angra 1 já operava desde 1985, **Angra 2** entrou em operação em 2000 e Angra 3 segue em obras. Alguns países recuaram (a Itália, por exemplo), mas não a maioria.\n\n**As outras:**\n- *No Brasil, operavam as usinas de Angra 1 e Angra 2…*: em 1986 só Angra 1 funcionava, e nenhuma usina foi desativada; a energia nuclear nunca foi proibida no Brasil.\n- *Estados Unidos, a nação que mais produzia energia nuclear…*: os Estados Unidos continuaram (e continuam) sendo o maior produtor de energia nuclear; não proibiram as usinas.\n- *Países como o Japão que não possuem recursos naturais…*: o Japão ampliou seu programa nuclear depois de 1986. Só desligou os reatores após o acidente de Fukushima, em 2011, e depois religou parte deles.\n\n**Para memorizar:** Chernobyl (1986, Ucrânia, então União Soviética) e Fukushima (2011, Japão) são os dois acidentes de nível 7, o máximo da escala internacional de eventos nucleares."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "**Facebook argumenta que marcação não representa a coleta de informações biométricas**\n\n“Um juiz americano recusou o pedido do *Facebook* para cancelar um processo em que a rede social é acusada de violar a privacidade dos usuários por meio do reconhecimento facial da ferramenta de marcação em fotos. A ação judicial, movida por três cidadãos do estado de Illinois, afirma que a empresa ‘acumulou secretamente o maior banco de dados privado com informações biométricas dos usuários’. Uma lei do estado proíbe a coleta de informações como reconhecimento facial e impressão digital sem o consentimento do usuário. De acordo com o *The Verge*, a rede social apresenta informações sobre a marcação na política de dados e os usuários podem escolher não ser marcados, mas não está claro se as medidas estão de acordo com a definição legal de consentimento.”\n\nApesar de alguns processos (muitos) e problemas, o *Facebook* segue como uma das redes sociais de maior repercussão e expansão no mundo. Um dos seus criadores foi:",
+   "alternativas": [
+    "*Bill Gates*.",
+    "*Steve Jobs*.",
+    "*Martin Cooper*.",
+    "*Mark Zuckerberg*."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Mark Zuckerberg\":** o Facebook foi criado em 2004 por **Mark Zuckerberg** e colegas da Universidade Harvard, entre eles o brasileiro Eduardo Saverin, Dustin Moskovitz e Chris Hughes. Zuckerberg segue à frente da empresa, que em 2021 passou a se chamar Meta.\n\n**As outras:**\n- *Bill Gates*: cofundador da Microsoft (1975), empresa do Windows e do Office.\n- *Steve Jobs*: cofundador da Apple (1976), ligado ao Macintosh, ao iPod e ao iPhone.\n- *Martin Cooper*: engenheiro da Motorola que fez, em 1973, a primeira ligação de um telefone celular portátil.\n\n**Para memorizar:** Facebook = Zuckerberg (Harvard, 2004); o brasileiro da fundação é Eduardo Saverin."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“As principais operadoras de *internet* fixa – Vivo, NET e Oi – passaram a oferecer apenas planos com limite de dados. No novo modelo, o consumidor tem direito a um limite de uso da rede durante o mês, também conhecido como franquia. Se esse limite for ultrapassado, a operadora poderá reduzir a velocidade ou mesmo cancelar a conexão até o final do mês. Um plano de *internet* fixa intermediário disponível no mercado gira em torno de 15 Mbps (*megabits* por segundo). Nesse cenário, o usuário teria direito a uma franquia mensal entre 80 GB e 100 GB, a depender do contrato. A olho nu, as quantidades podem parecer mais do que suficientes, mas em muitas situações, podem causar preocupação ao usuário.”\n\n*(Disponível em: http://tecnologia.ig.com.br/2016-05-06/facebook-enfrenta-processo-nos-eua-por-ferramenta-de-marcacao-em-fotos.html.)*\n\nSobre as novas regras para uso da *internet*, analise as afirmativas a seguir.\n\nI. Os planos de *internet* fixa ficam parecidos com os de *internet* móvel, nos quais o consumidor precisa estar sempre atento ao consumo da franquia.\n\nII. O uso de franquias de dados é previsto pela regulamentação da Agência Nacional de Telecomunicações (Anatel) se praticado sob determinadas regras.\n\nIII. A mudança nos planos pode ser feita independente de qualquer regulamentação, já que a proposta de lei ainda não está em tramitação.\n\nIV. As franquias de dados podem ser comparadas ao modelo de *internet* discada, que obrigava o consumidor a se preocupar com a quantidade de pulsos consumidos pela rede e precisava utilizar a *internet* na madrugada.\n\nEstão corretas as afirmativas",
+   "alternativas": [
+    "I, II, III e IV.",
+    "I, II e III, apenas",
+    "I, II e IV, apenas.",
+    "II, III e IV, apenas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e IV, apenas.\":** I está certa: com franquia, a banda larga fixa passa a funcionar como o plano de celular, e o consumidor precisa vigiar o consumo. II está certa: a regulamentação da Anatel admitia planos com franquia, desde que o consumidor fosse informado e pudesse acompanhar o uso. IV está certa: lembra a internet discada, cobrada por pulsos telefônicos, em que se esperava a madrugada (pulso mais barato) para navegar. III está errada: a mudança **depende** da regulamentação; tanto que, em abril de 2016, a Anatel proibiu as operadoras de reduzir a velocidade ou cortar a banda larga fixa ao fim da franquia, e o tema era discutido em projetos de lei.\n\n**As outras:**\n- *I, II, III e IV.*: inclui a III, que é falsa.\n- *I, II e III, apenas*: inclui a III e deixa de fora a IV, que está correta.\n- *II, III e IV, apenas.*: deixa de fora a I e inclui a III.\n\n**Para memorizar:** o Marco Civil da Internet (Lei 12.965/2014, art. 7º, IV) só admite suspender a conexão por débito decorrente da própria utilização."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "**Refugiados chegam à Alemanha e são recebidos com faixas de boas-vindas**\n\n*País abriu fronteiras para receber imigrantes de países em crise. Entre sábado e domingo, foram mais de 13 mil pessoas transportadas.*\n\n![Foto: grupo de refugiados é recebido com faixas de boas-vindas em estação ferroviária da Alemanha](data/provas/img/idecan-2016-conquista-coord-visa/q29.webp)\n\n“Um grupo de refugiados foi recebido com faixas de boas-vindas ao chegar à estação ferroviária de *Dortmund*, na Alemanha, neste domingo (6/09/15). Em dois dias, o número de refugiados acolhidos por países europeus já passa de 13 mil.”\n\n*(Disponível em: http://g1.globo.com/mundo/noticia/2015/09/refugiados-chegam-alemanha-e-sao-recebidos-com-faixas-de-boas-vindas.html.)*\n\nSobre os migrantes e refugiados, principalmente originários da Síria, que se dirigem em massa à Europa, é correto afirmar que:",
+   "alternativas": [
+    "Com exceção da Itália e da Bélgica, a Alemanha é o único país a permitir a adequação do país à onda migratória Síria.",
+    "A Alemanha foi o último dos países da Europa a, finalmente, aceitar a integração de refugiados ao cotidiano do país.",
+    "Por determinação expressa da ONU, todos os países europeus veem-se agora obrigados a receber incondicionalmente imigrantes e refugiados.",
+    "Apesar das tentativas de acordo e intervenções de organismos como a ONU e a União Europeia, a crise dos refugiados na Europa ainda encontra-se sem solução."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Apesar das tentativas de acordo e intervenções de organismos…\":** em 2015 cerca de um milhão de pessoas, sobretudo da Síria (em guerra civil desde 2011), do Afeganistão e do Iraque, chegaram à Europa. Houve acordos (como o da União Europeia com a Turquia, em março de 2016) e atuação da ONU, por meio do ACNUR, mas a crise continuou sem solução, com divergência entre os países sobre quem acolheria os refugiados.\n\n**As outras:**\n- *Com exceção da Itália e da Bélgica, a Alemanha é o único país…*: Suécia, Áustria e outros países também receberam muitos refugiados.\n- *A Alemanha foi o último dos países da Europa a, finalmente, aceitar…*: foi o contrário: a Alemanha de Angela Merkel abriu as fronteiras em setembro de 2015 e foi a que mais recebeu refugiados, como mostra a notícia.\n- *Por determinação expressa da ONU, todos os países europeus…*: a ONU não obriga a receber \"incondicionalmente\". A Convenção de 1951 garante o direito de pedir refúgio e proíbe devolver a pessoa a um lugar onde corra perigo.\n\n**Para memorizar:** refugiado é quem foge de perseguição ou de guerra; a Convenção de 1951 traz o princípio da não devolução (*non-refoulement*)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Organização Mundial da Saúde (OMS) decreta fim de emergência internacional para Ebola. A Organização Mundial da Saúde (OMS) anunciou nesta terça (29/03/16) que a epidemia Ebola na África Ocidental deixou de ser uma situação de emergência de saúde pública internacional. A epidemia, que surgiu em 2013 como a mais mortal de todas, foi declarada emergência internacional em agosto de 2014 e fez, até finais de 2015, mais de 11.300 mortos, a maioria na *Guiné-Conacri*, na Libéria e na Costa do Marfim, em cerca de 28.000 casos registrados. Segundo a diretora da OMS, *Margaret Chan*, esses três países continuam vulneráveis a um ressurgimento da doença como é o caso registrado na *Guiné-Conacri*, onde há vários casos em observação e cinco pessoas morreram.”\n\n*(Disponível em: http://agenciabrasil.ebc.com.br/internacional/noticia/2016-03/oms-decreta-fim-de-emergencia-internacional-para-ebola.)*\n\nA infecção Ebola causa uma febre hemorrágica, uma das doenças virais mais perigosas, frequentemente fatal, com índice de mortalidade de 50 a 90% dos casos. A Febre Hemorrágica Ebola – FHE, é uma doença infecciosa grave, porém muito rara. É uma infecção provocada por:",
+   "alternativas": [
+    "Vírus.",
+    "Fungos.",
+    "Bactérias.",
+    "Parasitas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Vírus\":** a doença pelo vírus Ebola é causada por vírus do gênero *Ebolavirus*, da família *Filoviridae*. A transmissão é pelo contato direto com sangue, secreções e outros fluidos de pessoas ou animais infectados, vivos ou mortos, e o quadro é de febre hemorrágica grave. A epidemia na África Ocidental, iniciada no fim de 2013, foi a maior já registrada. O próprio enunciado já entrega a pista: \"uma das doenças virais mais perigosas\".\n\n**As outras:**\n- *Fungos*: causam micoses, como candidíase e histoplasmose; não causam febre hemorrágica.\n- *Bactérias*: causam, por exemplo, tuberculose, cólera e leptospirose, tratadas com antibióticos, que não agem sobre vírus.\n- *Parasitas*: protozoários e vermes causam malária, doença de Chagas e esquistossomose, por exemplo.\n\n**Para memorizar:** febres hemorrágicas virais: Ebola, dengue grave, febre amarela, hantavirose."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Segundo as Diretrizes para o Gerenciamento do Risco em Farmacovigilância da ANVISA, são definições corretas, EXCETO:",
+   "alternativas": [
+    "++Desvio da Qualidade de Medicamentos (DQ)++: é o afastamento dos parâmetros de qualidade estabelecidos para um produto ou processo.",
+    "++Gerenciamento de risco++: é a tomada de decisões relativas aos riscos ou à ação para a redução das consequências ou probabilidade de ocorrência.",
+    "++Avaliação da causalidade++: Compreende a avaliação da probabilidade de que um evento adverso seja consequência do uso do medicamento, quando se refere a um caso individual.",
+    "++Evento adverso/experiência adversa++: qualquer ocorrência médica desfavorável, que pode ocorrer durante o tratamento com um medicamento, e que possui, necessariamente, relação causal com esse tratamento."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Evento adverso/experiência adversa: qualquer ocorrência médica desfavorável…\" é a resposta:** nas Diretrizes para o Gerenciamento do Risco em Farmacovigilância da ANVISA (2008), que seguem a OMS, evento adverso é qualquer ocorrência médica desfavorável durante o tratamento com um medicamento, **mas que não possui, necessariamente, relação causal** com esse tratamento. A alternativa trocou o \"não necessariamente\" por \"necessariamente\". Para ser evento adverso basta a relação de tempo; a causa é investigada depois, na avaliação de causalidade.\n\n**As outras (estão corretas):**\n- *Desvio da Qualidade de Medicamentos (DQ)…*: é a definição do documento: afastamento dos parâmetros de qualidade estabelecidos para um produto ou processo.\n- *Gerenciamento de risco…*: definição da OMS adotada pela ANVISA: tomada de decisões relativas aos riscos ou ação para reduzir as consequências ou a probabilidade de ocorrência.\n- *Avaliação da causalidade…*: estima a probabilidade de o evento ser consequência do medicamento num caso individual (categorias da OMS: definida, provável, possível etc.).\n\n**Para memorizar:** evento adverso = aconteceu durante o uso (relação temporal). Reação adversa = há suspeita de que o medicamento causou (relação causal)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em estudos epimiológicos, as hipóteses provisórias são elaboradas com base nas informações obtidas anteriormente (análise da distribuição segundo características de pessoa, tempo e lugar), e na análise da curva epidêmica, já que esta representa um fato biológico a partir do qual pode-se extrair as seguintes conclusões, EXCETO:",
+   "alternativas": [
+    "Período de incubação.",
+    "Prováveis resultados laboratoriais.",
+    "O provável período de tempo de exposição dos casos às fontes de infecção.",
+    "Se a disseminação da epidemia se deu por veículo comum por transmissão pessoa a pessoa ou por ambas as formas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Prováveis resultados laboratoriais\" é a resposta:** a curva epidêmica é o gráfico do número de casos pela data de início dos sintomas. Pelo formato dela, o investigador deduz o **período de incubação**, o **período provável de exposição** à fonte e o **modo de disseminação** (fonte comum, pessoa a pessoa ou os dois). Resultado de exame laboratorial não sai da curva: depende da coleta e da análise de amostras.\n\n**As outras (estão corretas):**\n- *Período de incubação*: o intervalo entre a exposição e o pico de casos, e a dispersão dos casos no tempo, indicam o período de incubação provável.\n- *O provável período de tempo de exposição…*: contando para trás, a partir do pico, o período médio de incubação da doença, chega-se à data provável da exposição.\n- *Se a disseminação da epidemia se deu por veículo comum…*: subida rápida com queda logo depois sugere fonte comum; picos sucessivos, espaçados por um período de incubação, sugerem transmissão pessoa a pessoa.\n\n**Para memorizar:** a curva epidêmica responde \"quando\", \"desde quando\" e \"como se espalhou\"; ela sugere hipóteses, e o laboratório confirma o agente."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t3",
+   "enunciado": "Assinale, a seguir, a definição INCORRETA.",
+   "alternativas": [
+    "++Germicida++: é um produto de ação letal sobre os micro-organismos, especialmente os patogênicos (germes).",
+    "++Sanitizante++: é um agente/produto que reduz o número de bactérias a níveis seguros de acordo com as normas de saúde.",
+    "++Desodorizante++: produto que tem em sua composição substância com atividade antimicrobiana capaz de controlar odores desagradáveis.",
+    "++Desinfetante++: é um produto que mata todos os micro-organismos patogênicos inclusive as formas microbianas esporuladas em objetos e superfícies inanimadas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Desinfetante: é um produto que mata todos os micro-organismos…\" é a resposta:** pela RDC 14/2007 (item 3.1 do regulamento anexo), desinfetante mata todos os micro-organismos patogênicos, **mas não necessariamente todas as formas microbianas esporuladas** em objetos e superfícies inanimadas. Destruir também os esporos é o que caracteriza a **esterilização**. A alternativa disse \"inclusive as formas esporuladas\", invertendo a regra.\n\n**As outras (estão corretas):**\n- *Germicida…*: item 3.5: produto de ação letal sobre os micro-organismos, especialmente os patogênicos (germes).\n- *Sanitizante…*: item 3.2: reduz o número de bactérias a níveis seguros, segundo as normas de saúde.\n- *Desodorizante…*: item 3.3: tem substância antimicrobiana capaz de controlar odores desagradáveis.\n\n**Para memorizar:** sanitizante **reduz**; desinfetante **mata os patogênicos** (esporos, não necessariamente); esterilizante **mata tudo**, inclusive esporos. Sufixo \"-cida\" = mata; \"-stático\" = só inibe."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t3",
+   "enunciado": "Assinale, a seguir, a definição INCORRETA.",
+   "alternativas": [
+    "++Uso específico++: produtos destinados a serem utilizados com fim específico, segundo as indicações de rótulo.",
+    "++Uso geral++: produtos para uso domiciliar, em ambientes públicos, estabelecimentos veterinários e odontológicos.",
+    "++Uso hospitalar++: produtos para uso exclusivo em hospitais e estabelecimentos relacionados com atendimento à saúde.",
+    "++Uso em indústria alimentícia e afins++: produtos destinados a serem utilizados em locais dedicados à produção/elaboração, fracionamento ou manipulação de alimentos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Uso geral: produtos para uso domiciliar, em ambientes públicos, estabelecimentos…\" é a resposta:** na RDC 14/2007 (item 4.1 do regulamento), uso geral abrange apenas produtos para uso **domiciliar e em ambientes públicos**. A alternativa acrescentou estabelecimentos veterinários e odontológicos, que não constam da definição; consultório odontológico, por exemplo, é estabelecimento de atendimento à saúde, campo dos produtos de uso hospitalar.\n\n**As outras (estão corretas):**\n- *Uso específico…*: item 4.4: produtos para fim específico, segundo as indicações do rótulo.\n- *Uso hospitalar…*: item 4.2: uso exclusivo em hospitais e estabelecimentos relacionados com o atendimento à saúde.\n- *Uso em indústria alimentícia e afins…*: item 4.3: produtos para locais de produção, elaboração, fracionamento ou manipulação de alimentos.\n\n**Para memorizar:** são quatro âmbitos de aplicação: geral (casa e ambientes públicos), hospitalar, indústria alimentícia e específico."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t3",
+   "enunciado": "São frases obrigatórias nos rótulos de produtos com ação antimicrobiana, EXCETO:",
+   "alternativas": [
+    "“Não ingerir.”",
+    "“Manter o produto em sua embalagem original.”",
+    "“Não misturar, em nenhuma hipótese, com outros produtos.”",
+    "“Conservar fora do alcance de crianças e animais domésticos.” (em destaque)"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Não misturar, em nenhuma hipótese, com outros produtos.\" é a resposta:** o Anexo IV da RDC 14/2007 exige a frase \"Não misturar com outros produtos\", **exceto se o próprio fabricante indicar a mistura no rótulo**. A expressão \"em nenhuma hipótese\" não está na norma e contraria essa ressalva.\n\n**As outras (estão corretas):**\n- *Não ingerir.*: frase obrigatória em todos os rótulos de produtos com ação antimicrobiana.\n- *Manter o produto em sua embalagem original.*: também obrigatória, para evitar troca de embalagem e acidentes.\n- *Conservar fora do alcance de crianças e animais domésticos. (em destaque)*: obrigatória e, pela norma, em destaque.\n\n**Para memorizar:** no mesmo anexo estão ainda \"Não reutilizar as embalagens\" e, para aerossóis, \"Não perfurar a embalagem\". No painel principal, todo rótulo traz \"ANTES DE USAR LEIA AS INSTRUÇÕES DO RÓTULO\" (Anexo III)."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "As siglas, a seguir, são de sistemas de informação em saúde implantados pelo Ministério da Saúde. Assinale o significado da sigla INCORRETO.",
+   "alternativas": [
+    "SIM – Sistema de Informação sobre Mortalidade.",
+    "SINASC – Sistema de Informações sobre Crianças.",
+    "SINAN – Sistema Nacional de Agravos de Notificação.",
+    "SI-PNI – Sistema de Informações do Programa Nacional de Imunizações."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"SINASC – Sistema de Informações sobre Crianças.\" é a resposta:** SINASC é o **Sistema de Informações sobre Nascidos Vivos**, implantado pelo Ministério da Saúde em 1990. Ele é alimentado pela Declaração de Nascido Vivo (DNV), preenchida em todo parto com nascido vivo, e fornece o denominador de indicadores como a taxa de mortalidade infantil.\n\n**As outras (a banca as considerou corretas):**\n- *SIM – Sistema de Informação sobre Mortalidade.*: criado em 1975, é alimentado pela Declaração de Óbito.\n- *SINAN – Sistema Nacional de Agravos de Notificação.*: recebe as notificações das doenças e agravos de notificação compulsória.\n- *SI-PNI – Sistema de Informações do Programa Nacional de Imunizações.*: registra as doses aplicadas e a cobertura vacinal.\n\n**Para memorizar:** SIM = óbito (DO); SINASC = nascido vivo (DNV); SINAN = notificação compulsória.\n\nPonto discutível: o nome oficial do SINAN é Sistema de **Informação** de Agravos de Notificação, e não \"Sistema Nacional\"; mas o erro evidente, e o que a banca quis cobrar, é o do SINASC."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No processo de redução de doenças por vacinas, evidencia-se a ocorrência de eventos adversos pós-vacinais. Entende-se por evento adverso toda reação ocorrida em tempo variável após utilização de produtos imunobiológicos. De um modo geral, podem ser locais ou sistêmicos, leves, moderados ou graves, e estão também categorizados em, EXCETO:",
+   "alternativas": [
+    "Relacionados ao ambiente (conservação e manipulação adequada).",
+    "Relacionados à administração (técnica de aplicação, via de administração).",
+    "Relacionados às vacinas (tipos de cepas, substâncias estabilizadoras e/ou conservadoras).",
+    "Relacionados aos indivíduos vacinados (fatores predisponentes e/ou imunologicamente idiossincráticos)."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Relacionados ao ambiente (conservação e manipulação adequada).\" é a resposta:** o Manual de Vigilância Epidemiológica de Eventos Adversos Pós-Vacinação, do Ministério da Saúde, agrupa os fatores ligados aos eventos adversos em três categorias: os relacionados às **vacinas** (cepa, adjuvantes, estabilizadores, conservantes, lote), à **administração** (técnica, via, agulha e seringa) e aos **vacinados** (idade, doenças, predisposição, reações imunológicas próprias). \"Ambiente\" não é uma delas, e conservação e manipulação **adequadas** não causam evento adverso; falhas nessas etapas são tratadas como erro de imunização.\n\n**As outras (estão corretas):**\n- *Relacionados à administração…*: erro de técnica ou de via (por exemplo, aplicar fundo demais uma vacina intradérmica) pode causar abscesso e outras reações locais.\n- *Relacionados às vacinas…*: a composição da vacina (cepa, conservantes, estabilizadores) pode provocar reações.\n- *Relacionados aos indivíduos vacinados…*: condições do próprio vacinado, como alergias e imunodeficiências, aumentam o risco.\n\n**Para memorizar:** evento adverso pós-vacinação: vacina, administração e vacinado. Para notificar, basta a relação de tempo com a vacina; a causa se investiga depois."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t4",
+   "enunciado": "Assinale, a seguir, a definição INCORRETA.",
+   "alternativas": [
+    "++Agravo à saúde++: mal ou prejuízo à saúde de um ou mais indivíduos de uma coletividade ou população.",
+    "++Lote de produto++: conjunto de produtos de um mesmo tipo, processados pelo mesmo fabricante ou fracionador, em um espaço de tempo determinado, sob condições iguais ou parecidas.",
+    "++Recolhimento++: ação a ser adotada pela empresa interessada e demais empresas da cadeia produtiva, que visa à imediata e eficiente retirada de lote(s) de produto(s) do mercado de consumo.",
+    "++Rastreabilidade++: conjunto de procedimentos que permitem detectar a origem e acompanhar a movimentação de um produto ao longo das etapas da cadeia produtiva, mediante dados e registros de informações."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Lote de produto: conjunto de produtos de um mesmo tipo, processados…\" é a resposta:** pela RDC 24/2015 (art. 3º, IX), lote é o conjunto de produtos de um mesmo tipo, processados pelo mesmo fabricante ou fracionador, em espaço de tempo determinado, **sob condições essencialmente iguais**. A alternativa diz \"iguais ou parecidas\". Condições só parecidas quebram a uniformidade, e o lote perde sua função de identificar exatamente o que deve ser recolhido.\n\n**As outras (estão corretas):**\n- *Agravo à saúde…*: art. 3º, I: mal ou prejuízo à saúde de um ou mais indivíduos, de uma coletividade ou população.\n- *Recolhimento…*: art. 3º, XIII: ação da empresa interessada e das demais empresas da cadeia produtiva para a imediata e eficiente retirada do lote do mercado de consumo.\n- *Rastreabilidade…*: art. 3º, XII: procedimentos que permitem detectar a origem e acompanhar a movimentação do produto ao longo da cadeia produtiva.\n\n**Para memorizar:** a RDC 24/2015 foi substituída em 2022 pela RDC 655/2022, que manteve a mesma lógica: plano de recolhimento, rastreabilidade (registro da empresa imediatamente anterior e da posterior na cadeia) e comunicação à Anvisa e aos consumidores."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t4",
+   "enunciado": "As informações seguintes devem ser especificadas no plano de recolhimento de produtos, EXCETO:",
+   "alternativas": [
+    "A forma de segregação dos produtos recolhidos e sua destinação final.",
+    "Os procedimentos a serem seguidos para o rápido e efetivo recolhimento do produto.",
+    "Os procedimentos para comunicação do recolhimento de produtos à cadeia produtiva.",
+    "Os procedimentos para comunicação do recolhimento de produtos à Delegacia do Consumidor."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Os procedimentos para comunicação do recolhimento de produtos à Delegacia do Consumidor.\" é a resposta:** o art. 4º, § 2º, da RDC 24/2015 lista o conteúdo mínimo do Plano de Recolhimento: as situações em que será adotado; os procedimentos para o recolhimento rápido e efetivo; a forma de segregação e a destinação final; a comunicação à **cadeia produtiva**, às importadoras (produto exportado), à **Anvisa** e aos **consumidores**; o modelo da mensagem de alerta; e os responsáveis. Delegacia do Consumidor não está na lista.\n\n**As outras (estão corretas):**\n- *A forma de segregação dos produtos recolhidos…*: art. 4º, § 2º, III.\n- *Os procedimentos a serem seguidos para o rápido e efetivo…*: art. 4º, § 2º, II.\n- *Os procedimentos para comunicação do recolhimento de produtos à cadeia produtiva.*: art. 4º, § 2º, IV.\n\n**Para memorizar:** o plano é documentado na forma de POPs (procedimentos operacionais padronizados), assinados pelo responsável técnico, pelo responsável pelo recolhimento ou pelo responsável legal (art. 4º, § 1º). A comunicação vai para cadeia produtiva, Anvisa e consumidores."
+  },
+  {
+   "id": "idecan-2016-conquista-coord-visa-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "texto": "t4",
+   "enunciado": "O Artigo 37 da referida lei prevê que “os registros de execução dos Procedimentos Operacionais Padrão (POPs), da comunicação de recolhimento às empresas imediatamente posteriores na cadeia produtiva, da destinação final das unidades recolhidas, da rastreabilidade e outros relativos ao processo produtivo e de controle de qualidade devem ser mantidos pelos seguintes períodos”, EXCETO:",
+   "alternativas": [
+    "Cinco anos para os demais casos.",
+    "Um ano após a data de recebimento ou distribuição para produtos perecíveis que não dispõem de prazo de validade.",
+    "Seis meses após o vencimento do prazo de validade, para produtos que dispõem de prazo de validade na rotulagem.",
+    "Seis meses após a data de recebimento ou distribuição para produtos perecíveis que não dispõem de prazo de validade."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Um ano após a data de recebimento ou distribuição para produtos perecíveis…\" é a resposta:** o art. 37 da RDC 24/2015 fixa os prazos de guarda dos registros: **6 meses** após a data de recebimento ou distribuição, para perecíveis **sem** prazo de validade (inciso I); **6 meses** após o vencimento, para produtos **com** prazo de validade na rotulagem (inciso II); e **5 anos** nos demais casos (inciso III). A alternativa trocou os 6 meses do inciso I por \"um ano\".\n\n**As outras (estão corretas):**\n- *Cinco anos para os demais casos.*: art. 37, III.\n- *Seis meses após o vencimento do prazo de validade…*: art. 37, II.\n- *Seis meses após a data de recebimento ou distribuição…*: art. 37, I; é justamente a regra que a alternativa errada adulterou.\n\n**Para memorizar:** 6 meses quando há uma data de referência (validade ou recebimento); 5 anos para o resto. O enunciado chama a norma de \"lei\", mas é uma resolução da Anvisa (RDC)."
+  }
+ ]
+}
