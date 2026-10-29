@@ -176,6 +176,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2022-tjpi-eng-civil",
+  "titulo": "Engenheiro Civil — TJ-PI",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Tribunal de Justiça do Piauí",
+  "cargo": "Engenheiro Civil",
+  "arquivo": "data/provas/idecan-2022-tjpi-eng-civil.json",
+  "nQuestoes": 100,
+  "duracaoMin": 270
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",
