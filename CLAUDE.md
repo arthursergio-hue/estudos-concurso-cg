@@ -31,6 +31,12 @@ Projeto **pessoal** do Arthur Sérgio: plataforma de estudos para o concurso da 
   Arthur (28/10/2026): questões reais da IDECAN e de outras bancas podem entrar no site com crédito completo (`banca`,
   `ano`, `orgao`, `cargo`, `fonte`) e `"origem": "banca"` ou `"semelhante"`, sempre com gabarito oficial conferido.
   Texto de NBR continua sem copiar: só citar o item. Provas inteiras ficam como link em `data/provas.json`.
+- **Explicação em toda questão** (pedido do Arthur, 28/10/2026): o `comentario` ensina a resposta e aparece no acerto
+  e no erro. Formato: `**Por que "<texto da certa>":**` (regra, artigo/item e raciocínio), linha em branco,
+  `**As outras:**` com uma linha `- *<texto da errada>*: por quê` para cada errada (cite pelo texto, nunca pela
+  letra: o site embaralha as alternativas) e, se ajudar, `**Para memorizar:**`. De 450 a 1.400 caracteres. Questão
+  anulada começa com `**Questão anulada pela banca.**`. Antes de escrever, confira se a lei ou norma não mudou.
+  `scripts/validar_dados.py` avisa o que fugir disso.
 - **Vídeos:** só `youtubeId` conferido (oEmbed do YouTube responde 200). Nunca inventar id.
 - **Pop-up do Windows** (`popup/`): tarefa agendada que mostra uma questão de tempos em tempos e não abre se o
   microfone/câmera estiver em uso, se houver tela cheia/apresentação ou se o PC estiver ocioso. Arquivo `.ps1` com

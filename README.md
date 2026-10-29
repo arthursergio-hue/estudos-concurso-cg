@@ -42,6 +42,7 @@ Tem três partes:
 
 ## O que mudou
 
+- **28/10/2026 — explicações completas.** As 230 questões de Específicas agora têm comentário com "Por que", "As outras" e "Para memorizar" (feito pela estudos-56). Correções: enunciados de esp-0032, 0036 e 0143; RDC 189/2003 trocada por RDC 51/2011 (revogada pelo art. 32 da RDC 51) em esp-0146; aulas de licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024) e EAS (RDC 51/2011) atualizadas.
 - **28/10/2026 — versão 1.1.** 21 provas reais da IDECAN baixadas no Drive pessoal e ligadas ao app; servidor de
   sincronização pelo Drive (Apps Script) pronto para configurar.
 - **28/10/2026 — versão 1.0.** Pesquisa do edital e das retificações, site, pop-up, aulas, questões, plano e provas.

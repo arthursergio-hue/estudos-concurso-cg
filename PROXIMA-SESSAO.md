@@ -56,6 +56,14 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   sessão B implementar no site e no pop-up (contrato enviado).
 - [ ] Proposta ainda sem resposta do Arthur: folha de respostas digital (resolve no PDF e marca as letras no app, que
   corrige pelo gabarito). Transcrever provas inteiras para o app foi recusado (direito autoral).
+- [x] Explicações completas nas 230 questões de Específicas (estudos-56, commit f58e54b).
+- [x] Normas atualizadas nas aulas: licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024), EAS (RDC 51/2011, no lugar da RDC 189/2003).
+- [x] CRF-SP 2017 removida do catálogo: é o mesmo concurso da de 2018. PDF de 2017 ainda no Drive, para o Arthur apagar se quiser.
+- [x] Padrão de explicação registrado no `CLAUDE.md` (29/10, estudos-f8), porque o próprio Arthur pediu explicação
+  completa em todas as questões em 28/10.
+- [ ] Pendente de decisão do Arthur: regra do `CLAUDE.md` sobre provas reais (o texto ainda diz "provas inteiras ficam
+  como link", mas 17 provas já estão digitadas em `data/provas/`). Não alterado sem aprovação.
+- [ ] Baixar, se o Arthur confirmar: SESAP-RN 2025 (Arquiteto e Auditor Fiscal da Vigilância Sanitária) e SOP-CE 2025 (Arquiteto).
 - [ ] Ideias para depois: questões sobre o Código Sanitário de CG (LC 51/2010) e o Código de Obras quando o texto
   for obtido; sincronizar progresso PC ↔ celular sem exportar/importar.
 
@@ -67,3 +75,21 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - Requisito do cargo inclui pós lato sensu em Vigilância Sanitária/Saúde (Ret. 01): avisar o Arthur.
 - Questões das Específicas: autorais no estilo IDECAN; provas reais só por link.
 - Pop-up detecta reunião pelo microfone/câmera em uso, tela cheia, "não perturbe" e PC parado; não usa a agenda.
+
+## Provas interativas (sessão estudos-90, 28/10/2026, noite)
+
+- [x] 17 provas reais da IDECAN digitadas e publicadas em `data/provas/` (questões, gabarito definitivo, anuladas,
+  figuras e explicação completa em todas). Validar: `python -I scripts/validar_provas.py`.
+- [ ] Faltam 3, paradas no meio porque o PC foi desligado: DER-ES 2023 (Edificações), SESAP-RN 2025 (Eng. Civil;
+  JSON parcial) e TJ-PI 2022 (Eng. Civil; figuras parciais). Os parciais foram tirados do site e guardados em
+  `C:\dev\pessoal\_scratch\estudos-provas-interativas\parciais\`. Ferramentas e briefing dos agentes em
+  `C:\dev\pessoal\_scratch\estudos-provas-interativas\` (ler `tools\INSTRUCOES.md`; publicar com
+  `tools\publicar.py` passando TODAS as provas prontas de `tools\prontas.txt` mais as novas).
+- [ ] Gabarito só preliminar: SOP-CE 2025 e UFPB 2016 (definitivo não achado on-line).
+- [ ] Baixar e digitar as provas de Arquiteto e Auditor Fiscal da Vigilância Sanitária da SESAP-RN 2025 e a de
+  Arquiteto da SOP-CE 2025 (estão nos gabaritos que já temos; muito próximas do cargo).
+
+## Onde parou em 28/10/2026 (noite)
+
+- Nada gravado pela metade. Último arquivo mexido: `scripts/drive-sync/Codigo.gs` (endurecimento do `mesclar_` e campo `e` numérico). Sintaxe conferida; ainda não testado no Google de verdade.
+- Para amanhã, na ordem: (1) Arthur configura o Apps Script (`scripts/drive-sync/COMO-CONFIGURAR.md`) e manda o link de volta se der erro; (2) conferir o gabarito das 230 de Específicas com a lista da estudos-29, se ela enviar; (3) decidir a regra de provas no `CLAUDE.md` (pendente de aprovação do Arthur); (4) apagar, se ele quiser, o PDF duplicado do CRF-SP 2017 no Drive.
