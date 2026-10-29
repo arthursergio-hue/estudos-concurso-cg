@@ -32,7 +32,7 @@ Tem três partes:
 ## Provas e progresso no Google Drive pessoal
 
 - Pasta: `G:\Meu Drive\00 - Pessoal\Concurso\Campina Grande 2026 - Inspetor Sanitario Arquiteto\`
-  (conta arthursgsantos@gmail.com), com `Provas da IDECAN\` (26 provas com gabarito, de 2014 a 2026, inclusive as 3
+  (conta Google pessoal do Arthur), com `Provas da IDECAN\` (26 provas com gabarito, de 2014 a 2026, inclusive as 3
   de Campina Grande 2021 do edital 001 e a de Fiscal de Obras da UEPB 2014), `Edital\` e,
   depois de ligar a sincronização, `Progresso do app\`.
 - Na aba **Provas**, as que estão no Drive abrem direto lá (prova e gabarito). Os links são privados: só abrem logado

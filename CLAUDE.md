@@ -20,7 +20,7 @@ Projeto **pessoal** do Arthur Sérgio: plataforma de estudos para o concurso da 
   - `data/provas.json`: provas reais para a aba Provas. **Não editar à mão:** é gerado por
     `scripts/vincular_provas_drive.py` a partir de `references/provas-catalogo.json`.
   - `data/plano.json`: cronograma e metas diárias.
-- **Drive pessoal (G:, arthursgsantos@gmail.com):** pasta do concurso em
+- **Drive pessoal (G:, conta Google pessoal do Arthur; o endereço fica só na memória local, nunca no repositório, que é público):** pasta do concurso em
   `G:\Meu Drive\00 - Pessoal\Concurso\Campina Grande 2026 - Inspetor Sanitario Arquiteto\` (id
   `1JjwLLRbxDjuBLbYihbHbFQf1jh7X94ad`), com `Provas da IDECAN\`, `Edital\` e `Progresso do app\`. Provas novas:
   `scripts/baixar_provas.py` (só fontes com link direto, nunca contornar captcha) e depois

@@ -13,7 +13,7 @@ import tempfile
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-CONTA_PESSOAL = "116679934396416192356"  # arthursgsantos@gmail.com (G:)
+CONTA_PESSOAL = "116679934396416192356"  # conta Google pessoal do Arthur (G:)
 
 
 def ids_do_drive():

@@ -6,7 +6,7 @@ O site guarda o progresso no navegador de cada aparelho. Com isto, PC, celular e
 tudo num arquivo do seu Drive pessoal:
 `00 - Pessoal/Concurso/Campina Grande 2026 - Inspetor Sanitario Arquiteto/Progresso do app/progresso.json`.
 
-Faça logado como **arthursgsantos@gmail.com** (não na conta da Seazone).
+Faça logado na **sua conta Google pessoal** (a do Drive G:, não na conta da Seazone).
 
 1. Abra https://script.google.com → **Novo projeto**. Dê o nome "Estudos CG - sincronizar".
 2. Apague o código de exemplo e cole todo o conteúdo de `scripts/drive-sync/Codigo.gs`. Salve (Ctrl+S).

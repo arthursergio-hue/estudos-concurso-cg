@@ -1,7 +1,7 @@
 /**
  * Sincroniza o progresso do site de estudos (PC, celular e pop-up do Windows) por um arquivo no Google Drive.
  *
- * Roda na conta pessoal do Arthur (arthursgsantos@gmail.com) como App da Web:
+ * Roda na conta Google pessoal do Arthur como App da Web:
  *   Executar como: Eu · Quem pode acessar: Qualquer pessoa.
  * Toda chamada precisa da chave gerada por configurar(). O progresso fica em
  * "00 - Pessoal/Concurso/Campina Grande 2026 - Inspetor Sanitario Arquiteto/Progresso do app/progresso.json".
