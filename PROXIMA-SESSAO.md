@@ -56,8 +56,8 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   Os PDFs do PCI levam uma marca escondida ("pcimarkpci" + IP e horário do download em base64): não publicar esse texto.
 - [x] Sincronização pelo Drive **ligada em 29/10** pela estudos-0a, a pedido do Arthur: projeto "Estudos CG -
   sincronizar" na conta pessoal, criado e implantado por clasp como App da Web (Executar como: eu; Qualquer pessoa);
-  pop-up com `popup/sync.json`; site do PC e celular ligados no mesmo dia. O tempo de leitura soma por aparelho
-  (`dias[k].segPor`). O `configurar()` agora monta o link só com a URL `/exec` (propriedade do script `URL_EXEC`):
+  pop-up com `popup/sync.json`; no site do PC e do celular, falta o Arthur tocar em "Ligar". O tempo de leitura
+  soma por aparelho (`dias[k].segPor`). O `configurar()` agora monta o link só com a URL `/exec` (propriedade do script `URL_EXEC`):
   pelo editor, o Google devolve o endereço `/dev`, que só abre logado. Mudança no `doGet`/`doPost` exige nova versão
   da implantação (`clasp redeploy`). Sem sincronização, "Levar para o celular" (em Progresso) junta por um link.
 - [x] Folha de respostas digital: superada pelas provas interativas (`data/provas/`), em que o Arthur responde no app
@@ -106,8 +106,9 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 
 - Nada gravado pela metade. Sincronização pelo Drive no ar; gabarito das Específicas conferido; regra de provas do
   `CLAUDE.md` decidida; Código de Obras com aula e 12 questões.
-- Ainda com o Arthur: (1) tirar ou não o e-mail pessoal do histórico do git (force push); (2) os 4 cadernos que
-  faltam (Arquiteto CG 2021, SESAP-RN 2025 Arquiteto e Auditor Fiscal da VISA, SOP-CE 2025); (3) instalar a tarefa
-  agendada do pop-up; (4) apagar, se quiser, o PDF duplicado do CRF-SP 2017 no Drive.
+- Ainda com o Arthur: (1) tocar em "Ligar" no site do PC e do celular (confirmação da sincronização); (2) tirar ou
+  não o e-mail pessoal do histórico do git (force push); (3) os 4 cadernos que faltam (Arquiteto CG 2021, SESAP-RN
+  2025 Arquiteto e Auditor Fiscal da VISA, SOP-CE 2025); (4) instalar a tarefa agendada do pop-up; (5) apagar, se
+  quiser, o PDF duplicado do CRF-SP 2017 no Drive.
 - Próximo conteúdo: questões do Código Sanitário de CG (LC 51/2010), do Código de Posturas (Lei 4.129/2003) e da Lei
   Orgânica, quando houver o texto.
