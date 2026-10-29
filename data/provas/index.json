@@ -55,6 +55,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2023-deres-edificacoes",
+  "titulo": "Técnico Superior – Obras e Serviços de Edificações — DER-ES",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "DER do Espírito Santo",
+  "cargo": "Técnico Superior Operacional – Edificações",
+  "arquivo": "data/provas/idecan-2023-deres-edificacoes.json",
+  "nQuestoes": 60,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2023-maracanau-fiscal-sanitario",
   "titulo": "Fiscal Sanitário — Prefeitura de Maracanaú/CE",
   "banca": "IDECAN",
