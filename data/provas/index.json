@@ -66,6 +66,28 @@
   "duracaoMin": 180
  },
  {
+  "id": "idecan-2017-manhumirim-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Manhumirim/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de Manhumirim/MG",
+  "cargo": "Fiscal Sanitário",
+  "arquivo": "data/provas/idecan-2017-manhumirim-fiscal-sanitario.json",
+  "nQuestoes": 40,
+  "duracaoMin": 180
+ },
+ {
+  "id": "idecan-2017-manhumirim-fiscal-obras",
+  "titulo": "Fiscal de Obras e Posturas — Prefeitura de Manhumirim/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de Manhumirim/MG",
+  "cargo": "Fiscal de Obras e Posturas",
+  "arquivo": "data/provas/idecan-2017-manhumirim-fiscal-obras.json",
+  "nQuestoes": 40,
+  "duracaoMin": 180
+ },
+ {
   "id": "idecan-2017-tenenteananias-vigilancia",
   "titulo": "Agente de Vigilância Sanitária — Prefeitura de Tenente Ananias/RN",
   "banca": "IDECAN",

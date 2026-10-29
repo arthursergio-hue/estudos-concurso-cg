@@ -1,0 +1,711 @@
+{
+ "id": "idecan-2017-manhumirim-fiscal-obras",
+ "titulo": "Fiscal de Obras e Posturas — Prefeitura de Manhumirim/MG",
+ "banca": "IDECAN",
+ "ano": 2017,
+ "orgao": "Prefeitura de Manhumirim/MG",
+ "cargo": "Fiscal de Obras e Posturas",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-manhumirim-mg-fiscal-de-obras-e-posturas",
+ "duracaoMin": 180,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Os sons e o cérebro",
+   "fonte": "(Disponível em: http://revistaescola.abril.com.br/arte/pratica-pedagogica/sons-cerebro-514711.shtml.)",
+   "numerarLinhas": false,
+   "conteudo": "Antes mesmo de nascer, o bebê já é capaz de escutar. A partir do quinto mês de gestação, ele ouve as batidas do coração da mãe (além de todos os outros barulhos do organismo) e reconhece a voz dela. E reage a esses estímulos, virando a cabeça, chutando ou mexendo os braços, além de ficar com o coração batendo mais rápido. O bebê nasce, cresce, torna-se adulto e os sons continuam a provocar essas e outras reações mais sofisticadas: eles evocam memórias e pensamentos, comunicam, provocam sensações, emocionam e movimentam.\n\nDesde os tempos mais remotos, o homem percebeu todo esse potencial. Usando os materiais que tinha à disposição (pedras, ossos, madeiras, o próprio corpo e a voz), ele foi combinando sons e silêncios das mais diversas maneiras. Assim surgiu a música. Em sua origem, ela era usada para venerar a natureza e os deuses e para conectar o ser humano com forças maiores, envolvendo realidade, magia e crenças. Até hoje ela é responsável pela criação dos mais diferentes sentidos e significados.\n\nMas por que a música mexe tanto com o ser humano? O som é uma vibração que se propaga no ar, formando ondas sonoras que são captadas por nosso sistema auditivo. Depois de transformadas em impulsos elétricos, elas viajam pelos neurônios até o cérebro, onde são interpretadas. Lá, elas chegam primeiro a uma região onde são processadas as emoções e os sentimentos, antes de serem percebidas pelos centros envolvidos com a razão. E, quando isso acontece, ocorre a liberação de neurotransmissores responsáveis por deixar os circuitos cerebrais mais rápidos.\n\nPor isso, o pesquisador americano *Howard Gardner*, autor da teoria das inteligências múltiplas, afirma que a habilidade musical é tão importante quanto a logicomatemática e a linguística por auxiliar outros tipos de raciocínio. Pesquisas na área de neurociências comprovam que a memória, a imaginação e a comunicação verbal e corporal ficam mais aguçadas nas pessoas que escutam, estudam e praticam música.\n\nA música é uma das linguagens que o aluno precisa conhecer, mas não somente por essas características. A maior razão é ele poder aprender a sentir, a expressar e a pensar as manifestações sonoras, tão presentes no cotidiano e sempre em constante transformação. As imagens de instrumentos e os diversos ritmos e notações musicais podem ser relacionados com outras manifestações culturais, como a dança e o teatro, e permitem uma análise global da evolução do pensamento humano e suas manifestações."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Analise as afirmativas a seguir e, de acordo com o texto, assinale a INCORRETA.",
+   "alternativas": [
+    "A música trabalha a sensibilidade e a percepção.",
+    "A música é um tipo de linguagem que faz parte do universo infantil.",
+    "A criança passa a ter contato com o universo sonoro somente quando inicia sua vida escolar.",
+    "Através da música, a criança expressa suas emoções e sentimentos que, muitas vezes, é difícil de se fazer através da linguagem oral."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A criança passa a ter contato com o universo sonoro somente quando…\" é a resposta:** o texto começa dizendo o contrário: \"Antes mesmo de nascer, o bebê já é capaz de escutar. A partir do quinto mês de gestação, ele ouve as batidas do coração da mãe [...] e reconhece a voz dela.\" O contato com os sons começa na gestação, muito antes da escola. O \"somente\" torna a afirmativa falsa.\n\n**As outras (estão de acordo com o texto):**\n- *A música trabalha a sensibilidade e a percepção.*: o 5º§ diz que o aluno deve \"aprender a sentir, a expressar e a pensar as manifestações sonoras\", e o 4º§ fala em memória e imaginação mais aguçadas.\n- *A música é um tipo de linguagem que faz parte do universo infantil.*: \"A música é uma das linguagens que o aluno precisa conhecer\" (5º§), e os sons acompanham a criança desde o útero (1º§).\n- *Através da música, a criança expressa suas emoções…*: os sons \"evocam memórias e pensamentos, comunicam, provocam sensações, emocionam\" (1º§), e pela música o aluno aprende a \"expressar\" (5º§).\n\n**Para memorizar:** palavras absolutas como \"somente\", \"sempre\" e \"nunca\" costumam denunciar a alternativa incorreta em interpretação."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o significado da palavra está corretamente empregado.",
+   "alternativas": [
+    "*“... ela era usada para ++venerar++ a natureza...”* (2º§) – odiar",
+    "*“O som é uma vibração que se ++propaga++ no ar,...”* (3º§) – revela",
+    "*“... mas não somente por essas ++características++.”* (5º§) – particularidades",
+    "*“... a comunicação verbal e corporal ficam mais ++aguçadas++...”* (4º§) – adelgaçadas"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"características (5º§) – particularidades\":** característica é o traço próprio que distingue alguma coisa; \"particularidade\" tem o mesmo sentido. No 5º§, \"essas características\" retoma as qualidades da música apresentadas antes (evocar memórias, aguçar o raciocínio), e \"essas particularidades\" manteria o sentido.\n\n**As outras:**\n- *ela era usada para venerar a natureza… – odiar*: venerar é **reverenciar, adorar**; odiar é o contrário (antônimo).\n- *O som é uma vibração que se propaga no ar… – revela*: propagar é **espalhar, difundir, transmitir**; o som se espalha pelo ar, não \"se revela\".\n- *a comunicação verbal e corporal ficam mais aguçadas… – adelgaçadas*: no contexto, aguçado é **apurado, estimulado, mais perspicaz**. Adelgaçar é tornar delgado, fino; só lembra \"aguçar\" no sentido literal de afinar uma ponta.\n\n**Para memorizar:** em questão de sinônimo, ponha a palavra proposta no lugar da original e releia o trecho; se o sentido muda ou fica estranho, a alternativa está errada."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Em se tratando da transitividade verbal, assinale a alternativa correta quanto ao termo sublinhado.",
+   "alternativas": [
+    "*“Assim ++surgiu++ a música.”* (2º§) – verbo transitivo indireto.",
+    "*“... ele ++ouve++ as batidas do coração da mãe...”* (1º§) – verbo intransitivo.",
+    "*“... o homem ++percebeu++ todo esse potencial.”* (2º§) – verbo transitivo direto.",
+    "*“A música ++é++ uma das linguagens que o aluno...”* (5º§) – verbo transitivo direto."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"o homem percebeu todo esse potencial (2º§) – verbo transitivo direto\":** quem percebe, percebe **alguma coisa**. \"Percebeu o quê?\" → \"todo esse potencial\", complemento ligado ao verbo sem preposição. É, portanto, **verbo transitivo direto**, e \"todo esse potencial\" é o objeto direto.\n\n**As outras:**\n- *Assim surgiu a música. – verbo transitivo indireto*: \"surgir\" não pede complemento; \"a música\" é o **sujeito** posposto (a música surgiu). É verbo intransitivo.\n- *ele ouve as batidas do coração da mãe… – verbo intransitivo*: \"ouve o quê?\" → \"as batidas do coração da mãe\", objeto direto. É transitivo direto.\n- *A música é uma das linguagens… – verbo transitivo direto*: \"ser\", aqui, é **verbo de ligação**: liga o sujeito \"A música\" ao predicativo \"uma das linguagens\".\n\n**Para memorizar:** faça a pergunta ao verbo. O quê? sem preposição = VTD; de quê? a quem? com preposição = VTI; sem complemento = intransitivo; liga o sujeito a uma característica = verbo de ligação."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Em *“++Desde os tempos mais remotos++, o homem percebeu todo esse potencial.”* (2º§) O trecho em destaque expressa a ideia de:",
+   "alternativas": [
+    "Finalidade.",
+    "Concessão.",
+    "Referência.",
+    "Temporalidade."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Temporalidade.\":** \"Desde os tempos mais remotos\" indica o **ponto de partida no tempo** de uma situação: o homem percebe o potencial dos sons desde a Antiguidade. É **adjunto adverbial de tempo**, introduzido pela preposição \"desde\", que marca o início de um período. Responde à pergunta \"desde quando?\".\n\n**As outras:**\n- *Finalidade.*: indicaria objetivo, com \"para\", \"a fim de\" (\"para conectar o ser humano com forças maiores\").\n- *Concessão.*: indicaria um fato contrário que não impede o outro, com \"embora\", \"apesar de\", \"ainda que\".\n- *Referência.*: indicaria o assunto a que algo se refere, com \"quanto a\", \"em relação a\", \"sobre\".\n\n**Para memorizar:** \"desde\", \"até\", \"há\", \"durante\" e \"quando\" costumam introduzir ideia de tempo."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o uso da(s) vírgula(s) se justifica por ter valor explicativo.",
+   "alternativas": [
+    "*“... envolvendo realidade, magia e crenças.”* (2º§)",
+    "*“Antes mesmo de nascer, o bebê já é capaz de escutar.”* (1º§)",
+    "*“O bebê nasce, cresce, torna-se adulto e os sons continuam a provocar essas e outras reações...”* (1º§)",
+    "*“... Howard Gardner, autor da teoria das inteligências múltiplas, afirma que a habilidade musical é tão importante quanto a logicomatemática e a linguística...”* (4º§)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"… Howard Gardner, autor da teoria das inteligências múltiplas, afirma…\":** as vírgulas isolam \"autor da teoria das inteligências múltiplas\", que explica quem é Howard Gardner. É um **aposto explicativo**, que vem sempre entre vírgulas (ou entre travessões ou parênteses). Se for retirado, a frase continua completa: \"Howard Gardner afirma que...\".\n\n**As outras:**\n- *… envolvendo realidade, magia e crenças.*: a vírgula separa itens de uma **enumeração**.\n- *Antes mesmo de nascer, o bebê já é capaz de escutar.*: a vírgula marca a **oração adverbial** (reduzida de infinitivo, com ideia de tempo) deslocada para o início do período.\n- *O bebê nasce, cresce, torna-se adulto…*: as vírgulas separam **orações coordenadas assindéticas** em sequência.\n\n**Para memorizar:** termo que explica o anterior e pode sair sem prejuízo = aposto explicativo, entre vírgulas. Exemplo: \"Campina Grande, a Rainha da Borborema, fica na Paraíba.\""
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*“O bebê nasce, cresce, torna-se adulto e os sons continuam a provocar essas e outras reações mais sofisticadas: eles evocam memórias e pensamentos, comunicam, provocam sensações, emocionam e movimentam.”* (1º§) O uso de dois pontos no trecho anterior justifica-se por anunciar:",
+   "alternativas": [
+    "Uma citação.",
+    "Um esclarecimento.",
+    "Uma enumeração explicativa.",
+    "Uma síntese ou uma consequência do que foi enunciado."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Uma enumeração explicativa.\":** antes dos dois-pontos o autor fala em \"outras reações mais sofisticadas\"; depois deles, lista quais são: \"eles evocam memórias e pensamentos, comunicam, provocam sensações, emocionam e movimentam\". Os dois-pontos anunciam uma **enumeração** que detalha e explica a expressão geral que veio antes.\n\n**As outras:**\n- *Uma citação.*: os dois-pontos anunciam citação quando vem a fala ou as palavras de alguém, em geral entre aspas; não é o caso.\n- *Um esclarecimento.*: os dois-pontos podem anunciar um esclarecimento, mas aqui o que vem é uma lista de reações, item por item: a classificação mais precisa é enumeração.\n- *Uma síntese ou uma consequência do que foi enunciado.*: o trecho depois dos dois-pontos não resume nem mostra efeito; ele detalha as reações.\n\n**Para memorizar:** dois-pontos servem para citação (fala), enumeração, esclarecimento e síntese ou consequência. Lista de itens depois de uma expressão geral = enumeração explicativa."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Analise as orações sublinhadas.\n\nI. *“O som é uma vibração ++que se propaga no ar++,...”* (3º§)\n\nII. *“A música é uma das linguagens ++que o aluno precisa conhecer++...”* (5º§)\n\nIII. *“... afirma ++que a habilidade musical++ é tão importante quanto a logicomatemática e a linguística...”* (4º§)\n\nAssinale a alternativa em que as orações sublinhadas exercem a mesma função.",
+   "alternativas": [
+    "I, II e III.",
+    "I e II, apenas.",
+    "I e III, apenas.",
+    "II e III, apenas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I e II, apenas.\":** as orações I e II são **subordinadas adjetivas restritivas**: começam pelo pronome relativo \"que\" e caracterizam um substantivo anterior. Em I, \"que se propaga no ar\" restringe \"vibração\"; em II, \"que o aluno precisa conhecer\" restringe \"linguagens\" (o \"que\" equivale a \"as quais\"). Em III, o \"que\" é **conjunção integrante**: \"afirma que a habilidade musical é tão importante...\" responde a \"afirma o quê?\", e a oração é **substantiva objetiva direta**.\n\n**As outras:**\n- *I, II e III.*: a III não tem a mesma função; é objeto direto de \"afirma\", não adjunto de um nome.\n- *I e III, apenas.*: junta uma oração adjetiva com uma substantiva.\n- *II e III, apenas.*: o mesmo erro, com a II no lugar da I.\n\n**Para memorizar:** se der para trocar o \"que\" por \"o qual\", \"a qual\" ou \"os quais\", é pronome relativo (oração adjetiva). Se der para trocar a oração inteira por \"isso\" (\"afirma isso\"), é conjunção integrante (oração substantiva)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*“Pesquisas na área de neurociências comprovam ++que a memória, a imaginação e a comunicação verbal e corporal++ ficam mais aguçadas...”* (4º§) O fragmento sublinhado exerce a função de oração subordinada",
+   "alternativas": [
+    "adjetiva restritiva.",
+    "adjetiva explicativa.",
+    "substantiva objetiva direta.",
+    "substantiva objetiva indireta."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"substantiva objetiva direta.\":** o verbo \"comprovar\" é transitivo direto: quem comprova, comprova algo. \"Comprovam o quê?\" → \"que a memória, a imaginação e a comunicação verbal e corporal ficam mais aguçadas\". Essa oração, introduzida pela conjunção integrante \"que\", funciona como **objeto direto** de \"comprovam\": é subordinada substantiva objetiva direta. Teste: \"Pesquisas comprovam **isso**.\"\n\n**As outras:**\n- *adjetiva restritiva.*: oração adjetiva começa por pronome relativo e restringe um substantivo anterior; aqui o \"que\" não retoma nenhum nome.\n- *adjetiva explicativa.*: também seria introduzida por pronome relativo, e viria entre vírgulas.\n- *substantiva objetiva indireta.*: exigiria verbo com preposição (\"precisam **de** que...\"); \"comprovar\" não pede preposição.\n\n**Para memorizar:** oração que completa verbo transitivo direto = objetiva direta; oração que completa verbo com preposição = objetiva indireta."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o pronome retoma o substantivo referente.",
+   "alternativas": [
+    "*“... ++ele++ foi combinando sons e silêncios das mais diversas maneiras.”* (2º§) Potencial.",
+    "*“... ++elas++ viajam pelos neurônios até o cérebro, onde são interpretadas.”* (3º§) Músicas.",
+    "*“A maior razão é ++ele++ poder aprender a sentir, a expressar e a pensar as manifestações sonoras...”* (5º§) Homem.",
+    "*“... ++eles++ evocam memórias e pensamentos, comunicam, provocam sensações, emocionam e movimentam.”* (1º§) Sons."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"eles evocam memórias e pensamentos… (1º§) Sons\":** no 1º§, \"os sons continuam a provocar essas e outras reações mais sofisticadas: **eles** evocam memórias...\". O pronome \"eles\" (masculino, plural) retoma **os sons**: são os sons que evocam memórias, comunicam e emocionam.\n\n**As outras:**\n- *… ele foi combinando sons e silêncios… Potencial.*: \"ele\" retoma **o homem** (\"o homem percebeu todo esse potencial. Usando os materiais [...], ele foi combinando sons\"). Quem combina sons é o homem.\n- *… elas viajam pelos neurônios… Músicas.*: \"elas\" retoma **as ondas sonoras** (\"ondas sonoras que são captadas por nosso sistema auditivo. Depois de transformadas em impulsos elétricos, elas viajam\").\n- *A maior razão é ele poder aprender… Homem.*: \"ele\" retoma **o aluno** (\"A música é uma das linguagens que o aluno precisa conhecer\").\n\n**Para memorizar:** para achar o referente, troque o pronome pelo candidato e releia; o certo concorda em gênero e número e mantém o sentido."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "*“Usando os materiais que tinha ++à++ disposição (pedras, ossos, madeiras, o próprio corpo e a voz), ele foi combinando sons e silêncios das mais diversas maneiras.”* (2º§) O acento indicador de crase presente no trecho anterior, justifica-se em:",
+   "alternativas": [
+    "Para dar ênfase à palavra *“disposição”*.",
+    "O uso da crase é facultativo diante do verbo *“ter”*.",
+    "O verbo “ter” exige o uso do acento grave no artigo *“a”*.",
+    "Ocorre a fusão da preposição *“a”* com o artigo *“a”* mediante uma palavra feminina."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ocorre a fusão da preposição “a” com o artigo “a”…\":** crase é a **fusão de dois \"a\"**: a preposição \"a\" e o artigo feminino \"a\". Em \"tinha à disposição\", a expressão \"à disposição\" é uma locução feminina: a preposição se junta ao artigo diante do substantivo feminino \"disposição\", e o acento grave marca essa fusão. Teste com uma expressão masculina equivalente: \"tinha ao seu dispor\".\n\n**As outras:**\n- *Para dar ênfase à palavra \"disposição\".*: o acento grave não serve para enfatizar; só indica a fusão de \"a + a\".\n- *O uso da crase é facultativo diante do verbo \"ter\".*: diante de verbo **nunca** há crase, porque verbo não aceita artigo. E a crase aqui está diante de \"disposição\", não de verbo.\n- *O verbo \"ter\" exige o uso do acento grave no artigo \"a\".*: \"ter\" é transitivo direto (\"tinha os materiais\") e não pede preposição; a preposição vem da locução \"à disposição\".\n\n**Para memorizar:** crase = preposição a + artigo a. Locuções femininas (às vezes, à disposição, à medida que, às pressas) levam acento grave."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No depósito de uma loja de informática encontram-se vários modelos de computadores. Dentre eles (2x + 8) apresentam disco rígido de 500 gb, outros (3x – 10) apresentam placa de vídeo. O número de computadores com os dois componentes é x, e o total de computadores é 74. O número de computadores que apresentam apenas placa de vídeo é",
+   "alternativas": [
+    "22.",
+    "27.",
+    "28.",
+    "29."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"28\":** use a fórmula da união de dois conjuntos: total = (com disco) + (com placa) − (com os dois).\n\n74 = (2x + 8) + (3x − 10) − x → 74 = 4x − 2 → **x = 19**.\n\nCom placa de vídeo: 3 × 19 − 10 = 47. Só placa de vídeo = 47 − 19 = **28**. Conferindo: só disco = (2 × 19 + 8) − 19 = 46 − 19 = 27; total = 27 + 28 + 19 = 74.\n\n**As outras:**\n- *27*: é o número de computadores só com disco rígido.\n- *22*: não sai das contas; nenhuma região do diagrama tem 22.\n- *29*: também não sai das contas; quem esquece de descontar a interseção na união chega a valores que nem dão x inteiro.\n\n**Para memorizar:** com H = disco rígido e V = placa de vídeo: n(H ∪ V) = n(H) + n(V) − n(H ∩ V), e \"apenas V\" = n(V) − n(H ∩ V)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na figura a seguir temos um retângulo sobre um triângulo.\n\n![Triângulo ABC com ângulos de 75° em A, 50° em B e 55° em C; o retângulo EFCB tem a base BC e o lado EF corta os lados AB e AC; o ângulo X fica no cruzamento de AC com EF, abaixo de EF e à esquerda de AC](data/provas/img/idecan-2017-manhumirim-fiscal-obras/q12.webp)\n\nA medida do ângulo X é",
+   "alternativas": [
+    "115°.",
+    "125°.",
+    "135°.",
+    "145°."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"125°\":** o lado EF do retângulo é **paralelo** à base BC, e o lado AC do triângulo corta as duas retas (é uma transversal). O ângulo X, no cruzamento de AC com EF, e o ângulo C do triângulo (55°) ficam do mesmo lado da transversal e entre as paralelas: são **colaterais internos**, e colaterais internos somam 180°.\n\nX + 55° = 180° → **X = 125°**.\n\nConferindo: X também é igual ao ângulo externo em C, que vale a soma dos internos não adjacentes: 75° + 50° = 125°.\n\n**As outras:**\n- *115°*: não sai de nenhuma relação da figura; os suplementos dos ângulos dados são 105°, 130° e 125°.\n- *135°*: também não corresponde a nenhum suplemento nem a soma de dois ângulos do triângulo.\n- *145°*: idem; seria o suplemento de 35°, ângulo que não aparece.\n\n**Para memorizar:** paralelas cortadas por uma transversal: alternos internos são iguais; colaterais internos somam 180°."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Parte da água contida em um reservatório foi utilizada durante 5 dias conforme indicado na tabela a seguir.\n\n| Dia da semana | Consumo em litros |\n|---|---|\n| Segunda-feira | Um quinto do total |\n| Terça-feira | Um quarto do restante |\n| Quarta-feira | 1.200 |\n| Quinta-feira | Metade do restante |\n| Sexta-feira | Três quintos do restante |\n\nSe ainda sobraram 480 litros de água no reservatório, então a diferença entre o volume consumido na segunda e na sexta-feira foi de",
+   "alternativas": [
+    "440 litros.",
+    "480 litros.",
+    "520 litros.",
+    "560 litros."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"480 litros\":** resolva de trás para frente, sempre sobre o **restante**.\n\n- Sexta: usou 3/5 do que havia e sobraram 2/5 = 480 L → antes da sexta havia 480 ÷ 2/5 = **1.200 L**. Consumo da sexta: 3/5 × 1.200 = **720 L**.\n- Quinta: usou metade → antes havia 2 × 1.200 = 2.400 L.\n- Quarta: usou 1.200 → antes havia 3.600 L.\n- Terça: usou 1/4 do restante, sobraram 3/4 → antes havia 3.600 ÷ 3/4 = 4.800 L.\n- Segunda: usou 1/5 do total, sobraram 4/5 → total = 4.800 ÷ 4/5 = 6.000 L. Consumo da segunda: **1.200 L**.\n\nDiferença: 1.200 − 720 = **480 L**.\n\n**As outras:**\n- *440 litros*: não sai da conta; aparece quando se aplica alguma fração sobre o total em vez do restante.\n- *520 litros*: também não corresponde a nenhuma diferença entre os consumos.\n- *560 litros*: idem.\n\n**Para memorizar:** \"do restante\" = aplique a fração sobre o que sobrou no dia anterior. Problemas assim se resolvem bem de trás para frente."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Observe a sequência numérica a seguir:\n\n0, 2, 6, 12, 20, 30, ?, 56, 72, 90, ?, 132, 156, ?, 210\n\nA soma dos valores numéricos que substituem corretamente as três interrogações é",
+   "alternativas": [
+    "306.",
+    "328.",
+    "334.",
+    "366."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"334\":** cada termo é o produto de dois números consecutivos, n × (n + 1), começando em n = 0. As diferenças entre vizinhos confirmam: 2, 4, 6, 8, 10... (pares em sequência).\n\n0×1 = 0; 1×2 = 2; 2×3 = 6; 3×4 = 12; 4×5 = 20; 5×6 = 30; **6×7 = 42**; 7×8 = 56; 8×9 = 72; 9×10 = 90; **10×11 = 110**; 11×12 = 132; 12×13 = 156; **13×14 = 182**; 14×15 = 210.\n\nSoma: 42 + 110 + 182 = **334**.\n\n**As outras:**\n- *306*: exigiria um termo errado, por exemplo 154 no lugar de 182.\n- *328*: exigiria 176 no lugar de 182.\n- *366*: exigiria 214 no lugar de 182, maior até que o último termo, 210.\n\n**Para memorizar:** diferenças que crescem de 2 em 2 indicam sequência de segundo grau; teste n² ou n(n + 1)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sejam os conjuntos A, B e C representados a seguir.\n\n![Diagrama de Venn: só A tem 1, 15 e 14; só A e B, 8; A, B e C, 12; só A e C, 3; só B tem 10, 2 e x; só B e C, 4; só C tem 5, 9 e 13](data/provas/img/idecan-2017-manhumirim-fiscal-obras/q15.webp)\n\nSe a soma de todos os elementos que pertencem ao conjunto (A∪B) – (A∩C) é igual a 73, então o valor de x é",
+   "alternativas": [
+    "16.",
+    "17.",
+    "18.",
+    "19."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"19\":** leia as regiões do diagrama. A ∪ B junta tudo o que está em A ou em B: 1, 15, 14, 8, 12, 3, 10, 2, x e 4. A ∩ C é a parte comum de A e C: 3 e 12. Tirando A ∩ C de A ∪ B, sobram 1, 15, 14, 8, 10, 2, 4 e x.\n\n1 + 15 + 14 + 8 + 10 + 2 + 4 + x = 54 + x = 73 → **x = 19**.\n\n**As outras:**\n- *16*: é o que sai de quem esquece de tirar o 3 (região só de A e C): 57 + x = 73.\n- *17*: não sai de nenhuma leitura correta das regiões.\n- *18*: também não; o 4 (só B e C) fica, porque pertence a B e não a A.\n\n**Para memorizar:** A ∩ C inclui a região central (dos três conjuntos). Na diferença, tire todas as regiões comuns a A e C, e só elas."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q16",
+   "numero": 16,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "Considere a planilha produzida com a ferramenta *Microsoft Office Excel* 2007 (configuração padrão).\n\n![Planilha \"VENDAS CENTRO DISTRIBUIÇÃO\" em A1; na linha 2, Ano, Ameixa, Banana, Caqui e Maçã; linhas 3 a 8 de janeiro a junho; linha 9 com os totais](data/provas/img/idecan-2017-manhumirim-fiscal-obras/q16.webp)\n\nAnalise as afirmativas a seguir.\n\nI. A célula A1 está mesclada e centralizada.\n\nII. Para calcular o percentual total de venda de “ameixa” em relação à quantidade de todas as frutas vendidas no mês de “abril”, pode-se utilizar na célula A10 a fórmula =(B9/SOMA(B9:E9))*100.\n\nIII. Para calcular a média de venda de “banana” nos meses de “fevereiro” e “junho”, pode-se utilizar na célula B10 a fórmula =MÉDIA(C4;C8).\n\nIV. Se na célula C10 for inserida a fórmula =SE(CONT.NÚM(C4:C7)>(B3/D7);MÁXIMO(E3;E8);B8), o resultado será 4000.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "I e III.",
+    "II e III.",
+    "III e IV."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I e III.\":**\n\n- **I, certa**: a caixa de nome mostra A1 com o texto \"VENDAS CENTRO DISTRIBUIÇÃO\", que ocupa de A1 a E1, centralizado: as células foram mescladas e centralizadas.\n- **II, errada**: B9 é o **total do semestre** de ameixa (14.700), e SOMA(B9:E9) é o total de todas as frutas no semestre. A fórmula dá o percentual de ameixa no semestre, não em abril. Para abril, seria =(B6/SOMA(B6:E6))*100.\n- **III, certa**: banana está na coluna C; fevereiro na linha 4 e junho na linha 8. =MÉDIA(C4;C8) = (4.000 + 390) ÷ 2 = 2.195. O ponto e vírgula pega só as duas células.\n- **IV, errada**: CONT.NÚM(C4:C7) = 4 e B3/D7 = 3.000/1.000 = 3. Como 4 > 3, o SE devolve MÁXIMO(E3;E8), o maior entre 500 e 1.300: **1.300**, e não 4.000. O 4.000 só sairia com o intervalo E3:E8.\n\n**As outras:**\n- *I e II.*: a II calcula o percentual do semestre, não de abril.\n- *II e III.*: inclui a II, errada, e deixa de fora a I, certa.\n- *III e IV.*: a IV daria 1.300.\n\n**Para memorizar:** no Excel, ponto e vírgula separa argumentos (células avulsas); dois-pontos indicam intervalo. MÁXIMO(E3;E8) não é MÁXIMO(E3:E8)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q17",
+   "numero": 17,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "Sobre os componentes de uma janela no Sistema Operacional *Microsoft Windows* 7, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) O painel de navegação é utilizado para exibir as informações de *status* dos arquivos existentes na pasta.\n\n( ) Os botões Voltar e Avançar são utilizados para navegar para outras pastas ou bibliotecas que já foram abertas, sem fechar, na janela atual.\n\n( ) A barra de endereços é utilizada para navegar para uma pasta ou biblioteca diferente ou voltar à anterior.\n\n( ) O painel de visualização é utilizado para digitar uma palavra ou frase a ser pesquisada na pasta atual.\n\nA sequência está correta em",
+   "alternativas": [
+    "V, V, F, F.",
+    "V, F, F, V.",
+    "F, V, V, F.",
+    "F, F, V, V."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"F, V, V, F.\":** são os componentes da janela de pasta do Windows 7.\n\n- 1ª **F**: o **painel de navegação**, à esquerda, serve para acessar bibliotecas, pastas, pesquisas salvas e unidades. As propriedades dos arquivos aparecem no **painel de detalhes**, na parte de baixo da janela.\n- 2ª **V**: os botões **Voltar e Avançar** levam a pastas ou bibliotecas já abertas, sem fechar a janela atual.\n- 3ª **V**: a **barra de endereços** permite ir para outra pasta ou biblioteca, ou voltar a uma anterior, clicando nas partes do caminho.\n- 4ª **F**: o **painel de visualização** mostra uma prévia do conteúdo do arquivo selecionado. Para digitar o termo da pesquisa existe a **caixa de pesquisa**, no alto, à direita.\n\n**As outras:**\n- *V, V, F, F.*: considera certa a 1ª e errada a 3ª.\n- *V, F, F, V.*: inverte todas.\n- *F, F, V, V.*: erra a 2ª e a 4ª.\n\n**Para memorizar:** navegação = para onde ir; detalhes = propriedades do arquivo; visualização = prévia do conteúdo; caixa de pesquisa = buscar."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q18",
+   "numero": 18,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "Considere as afirmativas sobre *hardwares*.\n\nI. Marca, modelo, memória *cache*, *clock* (frequência) e quantidade de núcleos de execução são aspectos relevantes a serem considerados ao adquirir uma placa de memória RAM.\n\nII. O *chipset* é um conjunto de circuitos integrados que fica localizado na placa-mãe do computador e é composto por três *chips* principais denominados: Ponte Norte, Ponte Sul e Circuito Central.\n\nIII. A memória RAM é considerada uma memória volátil pela sua característica de perder os dados quando o computador é desligado.\n\nEstá(ão) correta(s) apenas a(s) afirmativa(s)",
+   "alternativas": [
+    "I.",
+    "II.",
+    "III.",
+    "I e II."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"III.\":**\n\n- **I, errada**: memória cache, clock e número de núcleos são critérios para escolher o **processador**. Para a memória RAM, olha-se capacidade, tipo (DDR3, DDR4...), frequência e compatibilidade com a placa-mãe.\n- **II, errada**: o chipset clássico tem **dois** chips principais: a **Ponte Norte** (ligada ao processador, à memória e ao vídeo) e a **Ponte Sul** (entrada e saída, discos, USB). Não existe \"Circuito Central\".\n- **III, certa**: a RAM é **volátil**: perde o conteúdo quando a energia é cortada. Por isso é preciso salvar o trabalho no disco.\n\n**As outras:**\n- *I.*: a I descreve a compra de um processador, não de memória.\n- *II.*: a II inventa um terceiro chip.\n- *I e II.*: as duas estão erradas.\n\n**Para memorizar:** RAM é volátil; ROM não é. Chipset = Ponte Norte + Ponte Sul."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q19",
+   "numero": 19,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "email-reunioes",
+   "enunciado": "Na ferramenta *Microsoft Office Outlook* 2007 (Configuração Padrão – Idioma Português Brasil), ao pressionar as teclas de atalho Ctrl+F o *e-mail* é",
+   "alternativas": [
+    "excluído.",
+    "sinalizado.",
+    "respondido.",
+    "encaminhado."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"encaminhado.\":** no Outlook, **Ctrl+F** encaminha a mensagem selecionada (do inglês *Forward*): abre uma nova mensagem com o conteúdo e os anexos do e-mail original, para você escolher o novo destinatário.\n\n**As outras:**\n- *excluído.*: a exclusão é feita com a tecla Delete ou com Ctrl+D.\n- *sinalizado.*: sinalizar para acompanhamento usa Ctrl+Shift+G.\n- *respondido.*: responder ao remetente é **Ctrl+R** (*Reply*); responder a todos, Ctrl+Shift+R.\n\n**Para memorizar:** no Outlook, os atalhos seguem o inglês: Ctrl+R responder (Reply), Ctrl+Shift+R responder a todos, Ctrl+F encaminhar (Forward), Ctrl+N nova mensagem (New)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q20",
+   "numero": 20,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "seguranca",
+   "enunciado": "“Um usuário utiliza o Sistema Operacional *Microsoft Windows* 7 (configuração padrão) para realizar as suas atividades diárias. Sabe-se que o computador é novo e ele tem muitas dúvidas de como fazer para proteger o sistema de anúncios *pop-up*, desempenho lento e ameaças à segurança causadas por programas indesejados.” Um *software* disponibilizado junto com o sistema operacional em questão e que tem como finalidade ajudar a evitar os problemas elencados pelo usuário é:",
+   "alternativas": [
+    "*Windows Block*.",
+    "*Kaspersky Check*.",
+    "*Windows Defender*.",
+    "*Windows Update Security*."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Windows Defender.\":** o Windows Defender vem com o Windows 7 e é o **antispyware** do sistema: ajuda a proteger o computador contra pop-ups, desempenho lento e ameaças de segurança causadas por spyware e outros programas indesejados, exatamente o que o enunciado descreve. Faz proteção em tempo real e verificações agendadas. No Windows 10 e no 11 ele virou o antivírus completo do sistema (Microsoft Defender).\n\n**As outras:**\n- *Windows Block.*: não existe programa com esse nome no Windows.\n- *Kaspersky Check.*: Kaspersky é uma empresa de antivírus; seus produtos não vêm com o Windows.\n- *Windows Update Security.*: o Windows Update instala atualizações (inclusive de segurança), mas não é o programa que combate spyware.\n\n**Para memorizar:** no Windows 7, Defender = antispyware; Firewall do Windows = bloqueia conexões; Windows Update = atualizações. O antivírus gratuito da Microsoft para o Windows 7 era o Security Essentials, baixado à parte."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O desmatamento ocorre em várias regiões do país, sendo que em algumas regiões ele ocorre de maneira mais intensa devido a situações como o avanço da fronteira agrícola no Centro-Oeste ou a formação de pastagens na região Norte do País. São exemplos de consequências do desmatamento, EXCETO:",
+   "alternativas": [
+    "Aumento das chuvas.",
+    "Perda da biodiversidade.",
+    "Empobrecimento do solo.",
+    "Aumento da temperatura."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Aumento das chuvas.\" é a resposta:** o desmatamento **reduz** as chuvas. A floresta devolve à atmosfera, pela transpiração das árvores (evapotranspiração), grande parte da umidade que forma as nuvens; na Amazônia, essa umidade viaja pelos chamados **rios voadores** e ajuda a levar chuva ao Centro-Oeste e ao Sudeste. Sem a floresta, o ar fica mais seco e chove menos.\n\n**As outras (são consequências do desmatamento):**\n- *Perda da biodiversidade.*: a destruição do hábitat elimina espécies de plantas e animais.\n- *Empobrecimento do solo.*: sem a cobertura vegetal, o solo sofre erosão, perde matéria orgânica e nutrientes e fica exposto ao sol e à chuva.\n- *Aumento da temperatura.*: menos sombra e menos evapotranspiração deixam o ambiente mais quente, e a derrubada e as queimadas liberam gás carbônico, que intensifica o efeito estufa.\n\n**Para memorizar:** floresta = umidade e chuva. Desmatar = menos chuva, mais calor, solo pobre e menos espécies."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Terremotos, também chamados de abalos sísmicos, são tremores passageiros que ocorrem na superfície terrestre. Esse fenômeno natural pode ser desencadeado por fatores como atividade vulcânica, falhas geológicas e, principalmente, pelo encontro de diferentes placas tectônicas. A magnitude é a quantidade de energia liberada no foco do terremoto, sendo medida a partir da Escala",
+   "alternativas": [
+    "*Kelvin*.",
+    "*Celsius*.",
+    "*Richter*.",
+    "*Mercalli.*"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Richter.\":** a escala **Richter**, criada por Charles Richter em 1935, mede a **magnitude** do terremoto, isto é, a energia liberada no foco. É logarítmica: cada ponto a mais corresponde a uma amplitude de onda 10 vezes maior e a cerca de 32 vezes mais energia. Hoje os sismólogos usam sobretudo a escala de magnitude de momento, mas a Richter continua sendo a referência popular.\n\n**As outras:**\n- *Kelvin.*: é escala de **temperatura** absoluta (0 K = −273,15 °C).\n- *Celsius.*: também é escala de temperatura (0 °C e 100 °C são o congelamento e a fervura da água ao nível do mar).\n- *Mercalli.*: mede a **intensidade**, ou seja, os efeitos observados do tremor em pessoas e construções num lugar; não mede a energia liberada no foco.\n\n**Para memorizar:** Richter = magnitude (energia no foco); Mercalli = intensidade (estragos na superfície)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O período pré-colonial foi a fase transcorrida entre a chegada da esquadra de Pedro Álvares Cabral e o primeiro projeto nitidamente colonizador empreendido por Martim Afonso de Souza, em 1531. Durante esse período, a região conhecida como América Portuguesa teve um papel secundário na economia de Portugal, no momento em que o comércio com as Índias Orientais monopolizava os interesses mercantins do Império. Apesar da importância secundária, era inegável a preocupação estatal com o reconhecimento e a proteção desse território. Diversas expedições foram para procurar no Brasil riquezas que pudessem ser exploradas, e ao mesmo tempo, combater invasores estrangeiros. Qual foi o primeiro recurso explorado pelos portugueses no território brasileiro?",
+   "alternativas": [
+    "A prata.",
+    "O marfim.",
+    "A borracha.",
+    "O pau-brasil."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O pau-brasil.\":** no período pré-colonial (1500–1530), a Coroa portuguesa explorou o **pau-brasil**, árvore da Mata Atlântica da qual se extraía uma tinta vermelha muito valorizada na Europa para tingir tecidos. A extração era monopólio da Coroa, feita por concessão a comerciantes e com mão de obra indígena paga por **escambo** (troca por objetos), em feitorias no litoral. A árvore deu nome ao país.\n\n**As outras:**\n- *A prata.*: foi a grande riqueza da América espanhola (Potosí, na atual Bolívia); no Brasil, o metal explorado mais tarde foi o ouro, no século XVIII.\n- *O marfim.*: vinha da África e da Ásia, não do Brasil.\n- *A borracha.*: o ciclo da borracha, na Amazônia, é do fim do século XIX e do começo do XX.\n\n**Para memorizar:** sequência econômica clássica: pau-brasil (século XVI), açúcar (séculos XVI e XVII), ouro (século XVIII), café (século XIX) e borracha (virada para o século XX)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“É o maior bioma brasileiro e também abriga a maior biodiversidade mundial; boa parte do seu território localiza-se no Brasil mas também se estende a países vizinhos. O clima quente e úmido apresenta chuvas torrenciais e a vegetação varia conforme a área. Perto dos rios, as matas de várzeas ficam inundadas nas cheias. Já as matas de igapó ficam constantemente inundadas. Além disso a vegetação caracteriza-se pela presença de grandes árvores.” Trata-se de qual bioma?",
+   "alternativas": [
+    "Caatinga.",
+    "Pantanal.",
+    "Amazônia.",
+    "Mata Atlântica."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Amazônia.\":** todas as pistas descrevem a Amazônia: é o **maior bioma brasileiro** (cerca de 49% do território), tem a maior biodiversidade do planeta, estende-se a países vizinhos (Peru, Colômbia, Bolívia, Venezuela e outros), tem clima quente e úmido, com chuvas abundantes, e floresta de grandes árvores. As **matas de várzea**, perto dos rios, alagam nas cheias; as **matas de igapó** ficam permanentemente alagadas; e a **mata de terra firme** não alaga.\n\n**As outras:**\n- *Caatinga.*: é o bioma do semiárido nordestino, exclusivamente brasileiro, com chuvas escassas e irregulares.\n- *Pantanal.*: é uma grande planície alagável, mas é o menor bioma brasileiro em área, com campos e matas, não uma floresta de grandes árvores.\n- *Mata Atlântica.*: é floresta tropical úmida, mas da faixa litorânea, e hoje reduzida a uma pequena parte da cobertura original; não é o maior bioma.\n\n**Para memorizar:** várzea alaga nas cheias; igapó fica sempre alagado; terra firme não alaga."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A dinâmica do crescimento populacional no mundo está sendo alterada nas últimas décadas, principalmente pelos avanços da medicina e pelo aumento do acesso à educação e ao saneamento básico. Os principais impactos desses fatores são a redução do número de filhos por mulher, a queda da mortalidade infantil e o aumento da longevidade humana – com forte variação de país para país. A grande consequência dessas mudanças são a desaceleração do crescimento populacional e o aumento da expectativa de vida. De acordo com as estimativas da Organização das Nações Unidas (ONU), a Terra terá pouco mais de 9 milhões de habitantes em 2050. O país mais populoso do mundo é a China, seguida pelo(a):",
+   "alternativas": [
+    "Índia.",
+    "Brasil.",
+    "Japão.",
+    "França."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Índia.\":** em 2017, data da prova, a China era o país mais populoso do mundo, com cerca de 1,4 bilhão de habitantes, e a **Índia** vinha logo atrás, com cerca de 1,3 bilhão. Em 2023, pelas estimativas da ONU, a Índia ultrapassou a China e passou ao primeiro lugar. Atenção: o enunciado fala em \"9 milhões de habitantes em 2050\", mas o certo é **9 bilhões** (a projeção da ONU para 2050 é de cerca de 9,7 bilhões).\n\n**As outras:**\n- *Brasil.*: com pouco mais de 200 milhões de habitantes, fica por volta do 7º lugar.\n- *Japão.*: tem cerca de 125 milhões de habitantes, e a população está diminuindo.\n- *França.*: tem menos de 70 milhões de habitantes.\n\n**Para memorizar:** os mais populosos hoje: Índia, China, Estados Unidos, Indonésia e Paquistão; o Brasil está entre os dez primeiros."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“O aumento das temperaturas médias do planeta ao longo dos últimos tempos em tese é causado pelas práticas humanas – embora existam discordâncias quanto a isso no campo científico. A principal causa desse problema climático que afeta todo o planeta é a intensificação do efeito estufa, fenômeno natural responsável pela manutenção do calor na Terra e que vem apresentando uma maior intensidade em razão da poluição do ar resultante das práticas humanas.” Trata-se do seguinte problema climático:",
+   "alternativas": [
+    "Chuva ácida.",
+    "Ilha de calor.",
+    "Inversão térmica.",
+    "Aquecimento global."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Aquecimento global.\":** o enunciado descreve o aumento das **temperaturas médias do planeta** causado pela intensificação do **efeito estufa**: a queima de combustíveis fósseis e o desmatamento lançam gás carbônico, metano e outros gases que retêm mais calor na atmosfera. O efeito estufa em si é natural e mantém a Terra habitável; o problema é a sua intensificação, que provoca o aquecimento global, um fenômeno de **escala planetária**.\n\n**As outras:**\n- *Chuva ácida.*: é a chuva com ácidos formados a partir de óxidos de enxofre e de nitrogênio lançados por indústrias e veículos; não muda a temperatura média do planeta.\n- *Ilha de calor.*: é o aquecimento **local** das áreas urbanas (asfalto, concreto, pouca vegetação) em relação ao entorno.\n- *Inversão térmica.*: é uma camada de ar quente que prende o ar frio e poluído junto ao solo, comum no inverno nas cidades; é local e passageira.\n\n**Para memorizar:** planeta inteiro = aquecimento global; cidade mais quente que o campo = ilha de calor; poluição presa no inverno = inversão térmica; óxidos de enxofre e nitrogênio = chuva ácida."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "*Dolly* foi o primeiro mamífero clonado por transferência nuclear de células somáticas. O Professor *Ian Wilnut*, do Instituto Roslin, da Escócia, foi o pesquisador responsável por este experimento. O estudo foi publicado em 1997, mas foi realizado ao longo de 1995 e 1996. O primeiro mamífero clonado foi um(a)",
+   "alternativas": [
+    "vaca.",
+    "baleia.",
+    "porco.",
+    "ovelha."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"ovelha.\":** **Dolly**, uma ovelha, nasceu em julho de 1996 no Instituto Roslin, na Escócia. Foi o primeiro mamífero clonado a partir de uma célula adulta (somática): o núcleo de uma célula da glândula mamária de uma ovelha foi colocado num óvulo sem núcleo. O anúncio saiu em fevereiro de 1997. O cientista responsável foi **Ian Wilmut** (o enunciado grafa \"Wilnut\"). Dolly viveu até 2003.\n\n**As outras:**\n- *vaca.*: bovinos foram clonados por essa técnica só depois de Dolly.\n- *baleia.*: nunca houve clonagem de baleia.\n- *porco.*: os primeiros porcos clonados nasceram em 2000.\n\n**Para memorizar:** Dolly, ovelha, 1996, Escócia: primeiro mamífero clonado a partir de célula adulta."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O envelhecimento populacional é um fenômeno que ocorre em escala global, em especial, nos países desenvolvidos. Esse processo caracteriza-se pelo constante aumento da expectativa de vida e a queda de fecundidade. Fatores estes que, juntos, resultam numa grande quantidade de idosos e uma significativa redução de crianças e jovens. Proporciona uma transição demográfica, modificando a forma da pirâmide etária – a base, composta por jovens, fica estreita e o topo, representado por idosos, aumenta. O continente que possui o maior número de idosos em relação à população total é a:",
+   "alternativas": [
+    "Ásia.",
+    "África.",
+    "Europa.",
+    "Oceania."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Europa.\":** a Europa é o continente com a população **mais envelhecida**: tem a maior proporção de pessoas com 65 anos ou mais (cerca de um quinto da população) e fecundidade abaixo do nível de reposição (2,1 filhos por mulher) há décadas. Países como Itália, Alemanha e Portugal têm pirâmides etárias de base estreita e topo largo, como descreve o enunciado.\n\n**As outras:**\n- *Ásia.*: tem o maior **número absoluto** de idosos, pela enorme população, e o Japão é o país mais envelhecido do mundo; mas a proporção do continente como um todo é menor que a da Europa.\n- *África.*: é o continente mais **jovem**, com fecundidade alta e pirâmide de base larga.\n- *Oceania.*: tem proporção de idosos intermediária, puxada pela Austrália e pela Nova Zelândia.\n\n**Para memorizar:** em proporção de idosos, a Europa lidera e a África fica por último. Em número absoluto, a Ásia lidera."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A energia solar é uma boa opção na busca por alternativas menos agressivas ao meio ambiente, pois consiste numa fonte energética renovável e limpa (não emite poluente). Apesar de todos os aspectos positivos da energia solar (abundante, renovável, limpa etc.), ela é pouco utilizada no Brasil devido à(ao)",
+   "alternativas": [
+    "alto custo econômico.",
+    "pequena incidência solar.",
+    "existência de muito barulho produzido.",
+    "causa de erosão de solos que pode ter impacto na vegetação do local."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"alto custo econômico.\":** em 2017, o principal obstáculo à energia solar no Brasil era o **custo** dos painéis fotovoltaicos e dos equipamentos, alto em relação a outras fontes e com retorno lento do investimento. Desde então o preço dos painéis caiu muito, e a geração solar, sobretudo em telhados (geração distribuída), virou uma das fontes que mais crescem no país.\n\n**As outras:**\n- *pequena incidência solar.*: é o contrário: o Brasil tem **alta irradiação solar** o ano todo, maior que a de países europeus que usam muito essa fonte, como a Alemanha.\n- *existência de muito barulho produzido.*: painéis fotovoltaicos são silenciosos; o ruído é crítica comum às turbinas eólicas.\n- *causa de erosão de solos…*: a energia solar não provoca erosão; alagamento de vegetação é impacto típico das grandes hidrelétricas.\n\n**Para memorizar:** energia solar no Brasil: sol de sobra; o freio era o custo."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“O romance de Graciliano Ramos, publicado em 1938, retrata fielmente a realidade brasileira não só da época em que o livro foi escrito, mas como nos dias de hoje tais como injustiça social, miséria, fome, desigualdade, seca, o que nos remete à ideia de que o homem se animalizou sob condições sub-humanas de sobrevivência.” Trata-se de:",
+   "alternativas": [
+    "Iracema.",
+    "Vidas Secas.",
+    "O Alquimista.",
+    "Capitães de Areia."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Vidas Secas.\":** *Vidas Secas* (1938), de **Graciliano Ramos**, conta a retirada de Fabiano, sinha Vitória, os dois meninos e a cachorra Baleia, fugindo da seca no sertão nordestino. O livro mostra a miséria, a fome, a injustiça social e a **animalização** das pessoas pelas condições de vida (Fabiano chega a se ver como \"um bicho\"), enquanto a cachorra é humanizada. É obra da segunda fase do Modernismo, o romance regionalista de 30.\n\n**As outras:**\n- *Iracema.*: romance indianista de José de Alencar (1865), do Romantismo.\n- *O Alquimista.*: romance de Paulo Coelho (1988).\n- *Capitães de Areia.*: o título certo é *Capitães da Areia*, de Jorge Amado (1937), sobre meninos de rua em Salvador.\n\n**Para memorizar:** Graciliano Ramos: *Caetés*, *São Bernardo*, *Angústia*, *Vidas Secas* e *Memórias do Cárcere*."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "De acordo com os objetivos da Norma de Elaboração de Projetos de Edificações, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) Fixa as condições exigíveis para a elaboração de projetos de arquitetura para a construção de edificações.\n\n( ) É aplicável a todas as classes (ou categorias) tipológicas funcionais das edificações (ou de quaisquer ambientes construídos ou artificiais). Exemplos: habitacional, educacional, cultural, religiosa, comercial, industrial, administrativa, esportiva, de saúde, de lazer, de comunicação, de transporte, de abastecimento e de segurança.\n\n( ) É aplicável aos serviços técnicos de obras, conforme as classes (ou categorias) de intervenções correntes (edificações novas e edificações existentes).\n\n( ) É aplicável a todas as classes (ou categorias) tipológicas formais das edificações (ou de quaisquer ambientes construídos ou artificiais), exceto edificações isoladas e/ou geminadas.\n\nA sequência está correta em",
+   "alternativas": [
+    "V, V, V, V.",
+    "V, F, F, V.",
+    "F, V, V, F.",
+    "V, V, V, F."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"V, V, V, F.\":** a questão cobra o objetivo da NBR 13532:1995 (Elaboração de projetos de edificações – Arquitetura). A norma fixa as condições exigíveis para elaborar **projetos de arquitetura** para a construção de edificações e se aplica a **todas** as edificações, sob três recortes: as classes **funcionais** (habitacional, educacional, de saúde, comercial etc.), as classes **formais** e as classes de **intervenção** (edificações novas e existentes). As três primeiras afirmativas estão certas. A quarta erra ao criar uma exceção: a norma vale para **todas** as classes formais, e edificações isoladas ou geminadas não ficam de fora.\n\n**As outras:**\n- *V, V, V, V.*: não percebe o \"exceto\" inventado na 4ª.\n- *V, F, F, V.*: nega a abrangência funcional e a de intervenções, que estão na norma, e aceita a exceção falsa.\n- *F, V, V, F.*: nega o próprio objetivo da norma, que está correto.\n\n**Para memorizar:** a norma vale para qualquer função, qualquer forma, obra nova ou existente; em questão de objetivo ou aplicação de norma, desconfie de \"exceto\". Em 2017 a ABNT publicou a série NBR 16636, que também trata da elaboração de projetos arquitetônicos."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licenciamento-ambiental",
+   "enunciado": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, a melhoria e a recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendendo aos seguintes princípios, EXCETO:",
+   "alternativas": [
+    "A recuperação de áreas degradadas.",
+    "O acompanhamento do estado da qualidade ambiental.",
+    "A racionalização do uso do solo, do subsolo, da água e do ar.",
+    "A educação ambiental apenas nos níveis fundamental e médio de ensino, inclusive a educação da comunidade, objetivando capacitá-la para a participação ativa na defesa do meio ambiente."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A educação ambiental apenas nos níveis fundamental e médio…\" é a resposta:** o art. 2º, X, da Lei 6.938/1981 prevê a educação ambiental **a todos os níveis de ensino**, inclusive a educação da comunidade, para capacitá-la a participar ativamente da defesa do meio ambiente. O \"apenas nos níveis fundamental e médio\" restringe o que a lei estende a todos os níveis, da educação infantil ao ensino superior. A Lei 9.795/1999 (Política Nacional de Educação Ambiental) reforça: a educação ambiental deve estar presente em todos os níveis e modalidades do processo educativo.\n\n**As outras (estão corretas):**\n- *A recuperação de áreas degradadas.*: princípio do art. 2º, VIII.\n- *O acompanhamento do estado da qualidade ambiental.*: art. 2º, VII.\n- *A racionalização do uso do solo, do subsolo, da água e do ar.*: art. 2º, II.\n\n**Para memorizar:** na Lei 6.938, os princípios estão no art. 2º, os objetivos no art. 4º e os instrumentos (zoneamento, avaliação de impactos, licenciamento) no art. 9º."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Em estruturas de aço, a velocidade de corrosão (redução da espessura com o tempo) depende da agressividade do ambiente. O processo é mais acelerado, EXCETO:",
+   "alternativas": [
+    "Em locais com alta umidade relativa do ar.",
+    "Na orla marítima, em razão da presença de cloreto de sódio.",
+    "Junto a piscinas por conta dos respingos causados pelos usuários.",
+    "Em ambientes poluídos como os do centro das grandes cidades e os industriais especialmente quando sujeitos a vapores ácidos."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Junto a piscinas por conta dos respingos causados pelos usuários.\" é a resposta:** a questão segue a lista clássica dos manuais de estruturas metálicas: a corrosão do aço é mais rápida onde há **umidade alta** (a água é o eletrólito da reação), **cloretos** (orla marítima, névoa salina) e **poluentes** (gases de enxofre de centros urbanos e industriais, vapores ácidos). Respingos ocasionais de usuários de piscina não estão entre esses fatores, e por isso a banca os tratou como exceção.\n\n**As outras (aceleram a corrosão):**\n- *Em locais com alta umidade relativa do ar.*: com umidade alta forma-se uma película de água na superfície, e a corrosão eletroquímica avança.\n- *Na orla marítima, em razão da presença de cloreto de sódio.*: os cloretos tornam a película de água mais condutora e atacam o aço; é um dos ambientes mais agressivos.\n- *Em ambientes poluídos como os do centro das grandes cidades…*: o dióxido de enxofre e os vapores ácidos acidificam a umidade e aceleram o ataque.\n\n**Para memorizar:** água + oxigênio + sais ou ácidos = corrosão mais rápida. Proteja com pintura, galvanização e detalhes que não acumulem água. Ponto discutível: piscina coberta, com cloro e umidade alta, é ambiente reconhecidamente agressivo ao aço; a banca considerou só os \"respingos\" e manteve o gabarito depois dos recursos."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Nas instalações prediais elétricas tem-se os pontos de tomada de uso específico. Sobre esses pontos, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "Devem ser instalados no máximo a 1,5 m do local previsto para o equipamento a ser alimentado.",
+    "Aos pontos de uso específico deverá ser atribuída uma potência igual à potência nominal do equipamento a ser alimentado.",
+    "Quando não for conhecida a potência do equipamento a ser alimentado, deverá ser atribuída ao ponto de tomada uma potência igual à média das potências da residência.",
+    "Quando não for conhecida a potência do equipamento a ser alimentado, a potência deverá ser determinada a partir da corrente nominal da tomada e da tensão do respectivo circuito."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Quando não for conhecida a potência… média das potências da residência.\" é a resposta:** a NBR 5410 manda atribuir a cada ponto de tomada de uso específico (TUE) a **potência nominal** do equipamento que ele vai alimentar. Quando essa potência não é conhecida, a norma dá dois caminhos: usar a potência do equipamento mais potente que o ponto pode vir a alimentar, ou calculá-la a partir da **corrente** e da **tensão** do circuito. Não existe regra de \"média das potências da residência\", que nada tem a ver com o equipamento daquele ponto.\n\n**As outras (estão corretas):**\n- *Devem ser instalados no máximo a 1,5 m do local previsto…*: a TUE fica perto do equipamento para evitar extensões e emendas.\n- *Aos pontos de uso específico deverá ser atribuída uma potência igual…*: regra geral da TUE (chuveiro, forno elétrico, ar-condicionado).\n- *Quando não for conhecida… a partir da corrente nominal da tomada e da tensão…*: é o segundo critério da norma: P = U × I.\n\n**Para memorizar:** TUE = um equipamento, a potência dele, a até 1,5 m dele. A tomada de uso geral (TUG) é que segue potências mínimas por cômodo (100 VA, ou 600 VA nos primeiros pontos de cozinhas, banheiros e áreas de serviço)."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "De acordo com a NBR nº 13.532/95 (Norma de Elaboração de Projetos de Edificações), temos a aceitação e a rejeição dos projetos, quais devem observar os seguintes aspectos, EXCETO:",
+   "alternativas": [
+    "O contratante deve formalizar a aceitação dos documentos técnicos (desenhos e textos) correspondentes a cada etapa do projeto de arquitetura.",
+    "A aceitação dos documentos técnicos (desenhos e textos) produzidos para o projeto de arquitetura deve depender da avaliação das demais atividades técnicas específicas.",
+    "Os documentos técnicos (desenhos e textos) que forem rejeitados parcial ou totalmente devem ser revistos ou alterados apenas pelo seu autor e submetidos a nova avaliação.",
+    "As avaliações do contratante devem ser feitas em conformidade com as condições exigíveis estabelecidas previamente em contrato específico, na legislação pertinente, nas normas técnicas brasileiras e nos documentos técnicos aceitos nas etapas anteriores ao projeto."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A aceitação dos documentos técnicos… deve depender da avaliação das demais atividades…\" é a resposta:** a norma diz o contrário: a aceitação dos documentos do projeto de arquitetura **independe** da avaliação das demais atividades técnicas (estrutura, instalações etc.). Cada atividade é avaliada e aceita por si, para que a arquitetura não fique travada à espera dos outros projetos. A alternativa trocou \"independer\" por \"depender\".\n\n**As outras (estão corretas):**\n- *O contratante deve formalizar a aceitação…*: a aceitação é formal, etapa por etapa (levantamento, programa de necessidades, estudo preliminar, anteprojeto, projeto legal, projeto para execução).\n- *Os documentos técnicos… que forem rejeitados… apenas pelo seu autor…*: respeita a autoria do projeto. A Lei 12.378/2010 (art. 16) também exige o consentimento do autor para alterar trabalho de arquiteto e urbanista.\n- *As avaliações do contratante devem ser feitas em conformidade…*: a avaliação se baseia no contrato, na legislação, nas normas técnicas e nos documentos já aceitos.\n\n**Para memorizar:** aceitação formal e por etapa; o que é rejeitado volta para o autor; cada disciplina é aceita de forma independente."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "A Lei nº 8.666/93 regulamenta o Art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências e estabelece normas",
+   "alternativas": [
+    "gerais sobre licitações pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.",
+    "parciais sobre licitações pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.",
+    "gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.",
+    "parciais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"gerais sobre licitações e contratos administrativos…\":** é a letra do art. 1º da Lei 8.666/1993: a lei estabelece **normas gerais** sobre **licitações e contratos administrativos** pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios. São normas **gerais** porque a Constituição dá à União competência privativa para legislar sobre normas gerais de licitação e contratação (art. 22, XXVII); estados e municípios podem complementar.\n\n**As outras:**\n- *gerais sobre licitações pertinentes a obras…*: omite os **contratos administrativos**, que a lei também disciplina.\n- *parciais sobre licitações pertinentes a obras…*: \"parciais\" está errado, e também faltam os contratos.\n- *parciais sobre licitações e contratos administrativos…*: cita os contratos, mas as normas são gerais, não parciais.\n\n**Para memorizar:** a Lei 8.666 foi substituída pela Lei 14.133/2021 (revogada de vez em 30/12/2023), cujo art. 1º também fala em normas gerais de licitação e contratação. A lógica de normas gerais da União continua."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "Sejam duas obras públicas A e B do mesmo objeto a serem construídas no mesmo ano corrente, sendo ambas no valor de R$1.450.000,00 cada e sem aditivos. Quais são as modalidades de licitação a serem realizadas para as obras A e B, respectivamente?",
+   "alternativas": [
+    "Carta convite e tomada de preços.",
+    "Tomada de preços e tomada de preços.",
+    "Concorrência pública e tomada de preços.",
+    "Tomada de preços e concorrência pública."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Tomada de preços e concorrência pública.\":** pela Lei 8.666/1993 (art. 23, I, com os valores de 2017), em obras e serviços de engenharia: convite até R$ 150 mil, tomada de preços até **R$ 1,5 milhão** e concorrência acima disso. Cada obra custa R$ 1,45 milhão, faixa de tomada de preços. Mas as duas têm o mesmo objeto e são do mesmo ano, e a lei proíbe fracionar para fugir da modalidade mais rigorosa (art. 23, § 5º): conta o **somatório**, R$ 2,9 milhões. A banca raciocinou assim: a obra A, licitada primeiro, cabe em tomada de preços; ao licitar a B, o total acumulado passa de R$ 1,5 milhão e exige concorrência.\n\n**As outras:**\n- *Carta convite e tomada de preços.*: convite para obras ia só até R$ 150 mil.\n- *Tomada de preços e tomada de preços.*: é o fracionamento proibido; a soma passa do limite da tomada de preços.\n- *Concorrência pública e tomada de preços.*: inverte a ordem; a primeira, isolada, ainda cabe em tomada de preços.\n\n**Para memorizar:** some as parcelas da mesma obra ou de obras da mesma natureza no período. Ponto discutível: pelo § 5º, as duas iriam para concorrência, opção que não aparece; a banca manteve o gabarito. A Lei 14.133/2021 extinguiu tomada de preços e convite."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Quanto aos ramais de instalações prediais no que diz respeito aos ramais de esgoto, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    "Poderão ser ligados também a um sifão de barro vidrado no andar térreo.",
+    "Poderão ser ligados também a um sifão de chumbo nos andares superiores.",
+    "Aqueles provenientes das bacias sanitárias ou pias de despejo serão sempre canalizações secundárias.",
+    "Aqueles provenientes dos mictórios só poderão ser ligados a ralos ou caixas sifonadas com tampa cega e devem ser de chumbo ou outro material não atacável pela urina."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Aqueles provenientes das bacias sanitárias ou pias de despejo serão sempre canalizações secundárias.\" é a resposta:** esses ramais são sempre **primários**. Esgoto primário é a parte da instalação que tem acesso aos gases do coletor público, ou seja, que fica **depois** do fecho hídrico (sifão); secundário é a parte **antes** do fecho hídrico, sem contato com esses gases. A bacia sanitária tem o sifão incorporado à louça, e o tubo que sai dela já recebe os gases do esgoto: é primário.\n\n**As outras (estão corretas, pela regra de onde a questão foi tirada):**\n- *Poderão ser ligados também a um sifão de barro vidrado no andar térreo.*: o barro vidrado (manilha cerâmica) era o material usual nas tubulações enterradas.\n- *Poderão ser ligados também a um sifão de chumbo nos andares superiores.*: chumbo era o material dos sifões e ramais aéreos antigos; hoje usa-se PVC.\n- *Aqueles provenientes dos mictórios só poderão ser ligados a ralos…*: a urina é agressiva aos materiais, e a caixa com tampa cega evita mau cheiro.\n\n**Para memorizar:** antes do sifão = secundário; depois do sifão (com gases) = primário. Vaso sanitário sempre vai para o primário. A norma atual é a NBR 8160."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Analise a planilha *Excel* apresentada.\n\n![Planilha orçamentária com Boletim de Medição nº 02. Item 1.1, placa de obra: 2,20 m² a R$ 170,61, total R$ 375,34, medida 100% no período anterior. Item 1.2, preparo manual de terreno: 226,80 m² a R$ 4,41, total R$ 1.000,19; período anterior 22,68 m², R$ 100,02, 10%; período medido X1, X2, 20%; acumulado X3, X4, 30%](data/provas/img/idecan-2017-manhumirim-fiscal-obras/q39.webp)\n\nQual é o valor da célula que está marcada com “X4”?",
+   "alternativas": [
+    "300,02.",
+    "300,06.",
+    "300,10.",
+    "300,12."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"300,06\":** no boletim de medição, o **acumulado** é a soma do que já foi medido com o que se mede agora. No item 1.2 (226,80 m² a R$ 4,41/m²):\n\n- Período anterior: 10% → 22,68 m² → R$ 100,02.\n- Período medido: 20% → X1 = 0,20 × 226,80 = 45,36 m² → X2 = 45,36 × 4,41 = R$ 200,04.\n- Acumulado: 30% → X3 = 22,68 + 45,36 = 68,04 m² → **X4** = 68,04 × 4,41 = **R$ 300,06** (ou 100,02 + 200,04).\n\nConferindo: 30% de R$ 1.000,19 = R$ 300,06.\n\n**As outras:**\n- *300,02*: fica abaixo até da soma 100,02 + 200,04; não sai da planilha.\n- *300,10*: não corresponde a 68,04 m² × R$ 4,41.\n- *300,12*: também não; é distrator próximo para quem arredonda no meio da conta.\n\n**Para memorizar:** acumulado = anterior + período. Quantidade × preço unitário dá o valor, e o percentual é sempre sobre a quantidade orçada."
+  },
+  {
+   "id": "idecan-2017-manhumirim-fiscal-obras-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "Dentre os diversos tipos de navegadores de *internet* há o *Mozilla Firefox*, o *Internet Explorer*, o *Google Chrome*, o *Opera*, dentre outros. Também tem-se outros navegadores de *internet* alternativos; analise-os.\n\nI. Citrio.\n\nII. *Vivaldi*.\n\nIII. *Aurora*.\n\nIV. *Pale Moon*.\n\nEstão corretas as alternativas",
+   "alternativas": [
+    "I, II, III e IV.",
+    "I e IV, apenas.",
+    "II e III, apenas.",
+    "II, III e IV, apenas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, II, III e IV.\":** os quatro são navegadores de internet:\n\n- **Citrio**: navegador baseado no Chromium, o projeto de código aberto por trás do Chrome.\n- **Vivaldi**: lançado em 2016 por um dos fundadores do Opera, também baseado no Chromium e voltado à personalização.\n- **Aurora**: era o canal de pré-lançamento (versão de testes) do Firefox, mantido pela Mozilla até 2017.\n- **Pale Moon**: navegador de código aberto derivado do Firefox, focado em leveza e na interface clássica.\n\n**As outras:**\n- *I e IV, apenas.*: deixa de fora o Vivaldi e o Aurora, que também são navegadores.\n- *II e III, apenas.*: deixa de fora o Citrio e o Pale Moon.\n- *II, III e IV, apenas.*: deixa de fora o Citrio.\n\n**Para memorizar:** muitos navegadores alternativos são derivados de dois projetos: o Chromium (Chrome, Edge, Opera, Vivaldi) e o Firefox (Pale Moon, Waterfox)."
+  }
+ ]
+}
