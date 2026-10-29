@@ -99,6 +99,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2024-caern-eng-civil",
+  "titulo": "Engenheiro Civil — CAERN",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Companhia de Águas e Esgotos do RN",
+  "cargo": "Engenheiro Civil",
+  "arquivo": "data/provas/idecan-2024-caern-eng-civil.json",
+  "nQuestoes": 50,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",

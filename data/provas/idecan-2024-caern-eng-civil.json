@@ -1,0 +1,891 @@
+{
+ "id": "idecan-2024-caern-eng-civil",
+ "titulo": "Engenheiro Civil — CAERN",
+ "banca": "IDECAN",
+ "ano": 2024,
+ "orgao": "Companhia de Águas e Esgotos do RN",
+ "cargo": "Engenheiro Civil",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2024-caern-engenheiro-civil",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto para as questões de 1 a 10 — Memória muscular: saiba quanto tempo o corpo leva para esquecer o treino",
+   "fonte": "Disponível em: https://www.cnnbrasil.com.br/saude/memoria-muscular-saiba-quanto-tempo-o-corpo-leva-para-esquecer-o-treino/",
+   "numerarLinhas": true,
+   "conteudo": "\tEntenda o motivo que faz a volta ao treino demorar mais do que você gostaria para conseguir levantar os mesmos\npesos.\n\tQuando nunca treinamos, é difícil começar; mas, quando retornamos à academia após um tempo parado, a sensação\né de que o corpo responde melhor e mais rápido, fazendo com que o recomeço não seja tão difícil ou frustrante. Poderia ser\na chamada “memória muscular” – mas os músculos, na verdade, não têm memória. O que chamamos disso é uma junção de\nfatores musculares e neurais, registrados pelo sistema nervoso, que tendem a facilitar a retomada do exercício, mesmo após\nalgum tempo sem treinar.\n\tUma vez que o seu corpo já experimentou um movimento e já esteve na condição de melhor forma física, o organismo\nconhece o caminho neural de produção de substâncias necessárias e até de conhecimento de treino, conta doutora em\nneurociências e comportamento pelo Instituto de Psicologia (IP), da Universidade de São Paulo (USP), Andrea Peterson\nZomignani.\n\tDe acordo com a pesquisa publicada na revista Cell Physiology neste ano, existem evidências de que o tecido muscular\npode ser “preparado” por experiências anteriores positivas com o treinamento de força. Essa preparação pode aumentar\nas capacidades adaptativas a um estímulo posterior, mesmo após longos períodos longe da academia, explica João Paulo\nManechini, coordenador do curso de Educação Física do Centro Universitário Estácio de Ribeirão Preto, no interior de São\nPaulo.\n\t“Essa experiência positiva auxilia no processo hipertrófico e no ganho de força, mas muito mais relacionado a um\naspecto coordenativo (neuromuscular) do que exclusivo do músculo em si”, afirma Manechini.\n\tAs adaptações positivas do corpo levam algumas semanas para que a memória muscular seja “gravada”. Ou seja, não\nadianta treinar uma semana e esperar que o cérebro mande informações declaradas para os músculos crescerem, sendo que\nvocê treinou por apenas pouco tempo e fez poucas repetições.\n\tUm estudo da Universidade de Brown, nos Estados Unidos, publicado na Frontiers in Physiology, mostrou que essas\nadaptações neuromusculares positivas acontecem em um período médio de quatro semanas.\n\tE também não vale ficar meses sem ir à academia e querer que o cérebro mande rapidamente as instruções para os\nmúsculos crescerem. O efeito do “destreinamento” é muito mais rápido do que o treinamento.\n\tO mesmo estudo de Brown apontou que a partir de 2 semanas de inatividade, perdas neuromusculares (massa e força\nmuscular) começam a ocorrer, e tornam-se mais acentuadas à medida que o sedentarismo se prolonga, podendo influenciar,\ninclusive, os aspectos coordenativos e de aprendizado. “Em doze semanas já é possível, sem nenhum tipo de treinamento, o\ncorpo já voltar a um estado próximo ao pré-treino, a nível de memória”, conta Andrea. Assim como a gente não esquece como\nandar de bicicleta, não é como se voltássemos para a academia sem saber ligar a esteira, mas a resposta do corpo já é menor.\n\tOs especialistas ainda destacam que experiências negativas atrapalham o retorno ao treino, pois nosso corpo possui\nmecanismos que fazem com que ele “queira evitar” experiências que levaram a um trauma anterior.\n\tMovimentos ou exercícios que geram dor, desconforto ou te causaram algum tipo de lesão mais severa, podem ser\nregistrados como “lembranças ruins” e, portanto, responder mal aos estímulos."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2024-caern-eng-civil-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Acerca da composição do texto, é correto afirmar que:",
+   "alternativas": [
+    "Segundo um estudo da Universidade de Brown, as adaptações neuromusculares positivas acontecem somente após um mês de exercício constante.",
+    "Os estudiosos afirmam que, caso o corpo tenha sofrido alguma lesão, trauma, ou injúria durante os treinos, a retomada de exercícios não será possível.",
+    "Segundo os estudos apresentados no texto, o corpo, mesmo após longos períodos de sedentarismo, será capaz de retomar rapidamente a performance de antes.",
+    "O cérebro envia informações para hipertrofia somente após um tempo razoável de treino fazendo uma quantidade adequada de repetições."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O cérebro envia informações para hipertrofia somente após um tempo razoável…\":** as linhas 19 a 21 dizem que as adaptações levam algumas semanas para a memória muscular ser \"gravada\" e que não adianta treinar uma semana e esperar que o cérebro mande informações para os músculos crescerem, tendo treinado pouco tempo e feito poucas repetições. Ou seja: o comando para a hipertrofia depende de tempo de treino e de volume adequado. A alternativa é uma paráfrase fiel desse trecho.\n\n**As outras:**\n- *Segundo um estudo da Universidade de Brown…somente após um mês…*: o texto fala em \"período médio de quatro semanas\" (linha 23). Média não é \"somente após\"; a alternativa transforma uma média em condição mínima.\n- *Os estudiosos afirmam que, caso o corpo tenha sofrido alguma lesão…*: o texto diz só que experiências negativas \"atrapalham\" o retorno e fazem o corpo responder mal (linhas 31 a 34), não que a retomada seja impossível.\n- *Segundo os estudos apresentados no texto, o corpo, mesmo após longos períodos de sedentarismo…*: é o contrário. O \"destreinamento\" é mais rápido que o treinamento e, em doze semanas parado, o corpo volta para perto do estado pré-treino (linhas 24 a 30).\n\n**Para memorizar:** a IDECAN gosta de trocar \"em média\" por \"somente\" e \"atrapalha\" por \"impede\". Palavra absoluta costuma denunciar a alternativa errada."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "Partindo do conceito de regência verbal como sendo a relação que define um verbo e seus complementos, marque o item correto em relação aos períodos que se seguem:",
+   "alternativas": [
+    "Devemos nos informar a respeito de como nosso corpo funciona para obtermos bons resultados.",
+    "O melhor é fazer exercícios constantemente, visando sempre um novo estilo de vida.",
+    "É preciso que nós lembremos sempre do motivo pelo qual fazemos exercícios.",
+    "Quando nós nos exercitamos, também nos confraternizamos com pessoas de interesses afins."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Devemos nos informar a respeito de como nosso corpo funciona…\":** o verbo **informar-se** (pronominal) pede complemento com preposição: informar-se **de**, **sobre** ou **a respeito de** algo. A frase usa o pronome \"nos\" e a locução \"a respeito de\", exatamente como a norma-padrão pede.\n\n**As outras:**\n- *O melhor é fazer exercícios constantemente, visando sempre um novo estilo de vida.*: no sentido de \"ter como objetivo\", a gramática tradicional exige **visar a**: \"visando a um novo estilo de vida\". Sem a preposição, \"visar\" significa mirar ou pôr o visto.\n- *É preciso que nós lembremos sempre do motivo…*: **lembrar** sem pronome é transitivo direto (\"lembremos o motivo\"); com a preposição \"de\", o verbo vira pronominal (\"nos lembremos do motivo\"). A frase mistura as duas construções.\n- *Quando nós nos exercitamos, também nos confraternizamos…*: pela norma tradicional, **confraternizar** não é pronominal: \"confraternizamos com pessoas\". O \"nos\" sobra.\n\n**Para memorizar:** lembrar e esquecer: ou \"lembrar algo\", ou \"lembrar-se de algo\"; nunca \"lembrar de\" sem o pronome. Visar, no sentido de objetivo, pede \"a\"."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "No âmbito da concordância verbal, assinale a opção correta.",
+   "alternativas": [
+    "Constância e assiduidade na atividade física faz a diferença no ganho de força.",
+    "Faz muitos dias que não vou à academia, mas voltarei à minha rotina logo, logo.",
+    "Houveram muitos contratempos, no entanto, já estou indo à academia todos os dias.",
+    "Existe muitas formas de se manter indo constantemente à academia, sem faltar um dia sequer."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Faz muitos dias que não vou à academia…\":** o verbo **fazer** indicando tempo decorrido é **impessoal**: não tem sujeito e fica sempre na 3ª pessoa do singular (\"faz dias\", \"fazia anos\"). Por isso \"Faz muitos dias\" está correto, mesmo com \"dias\" no plural. Se houver locução, o auxiliar também fica no singular: \"Vai fazer dois anos\".\n\n**As outras:**\n- *Constância e assiduidade na atividade física faz a diferença…*: o sujeito é composto e vem antes do verbo, então o verbo vai para o plural: \"fazem a diferença\".\n- *Houveram muitos contratempos…*: **haver** no sentido de existir também é impessoal e fica no singular: \"Houve muitos contratempos\".\n- *Existe muitas formas de se manter…*: **existir** é pessoal e concorda com o sujeito \"muitas formas\": \"Existem muitas formas\".\n\n**Para memorizar:** haver (existir ou tempo) e fazer (tempo ou clima) não vão para o plural. Existir, ocorrer e acontecer vão, porque concordam com o sujeito."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa que contém a correta relação entre a expressão referencial e o seu referente.",
+   "alternativas": [
+    "“Entenda o motivo que faz a volta ao treino demorar mais” – “que” faz referência a “volta”.",
+    "“Ele “queira evitar” experiências que levaram a um trauma anterior” – “que” faz referência a “ele”.",
+    "“Uma junção de fatores musculares e neurais (...) que tendem a facilitar” – “que” faz referência a “fatores”.",
+    "“Exercícios que geram dor (...) podem ser registrados como ‘lembranças ruins’” – “que” faz referência a “lembranças ruins”."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"“Uma junção de fatores musculares e neurais (...) que tendem a facilitar” – “que” faz referência a “fatores”\":** o pronome relativo **que** retoma o termo anterior que serve de sujeito do verbo seguinte. Quem \"tende a facilitar a retomada\" são os fatores musculares e neurais; a prova é a concordância: \"tendem\", no plural (se o referente fosse \"junção\", seria \"tende\").\n\n**As outras:**\n- *“Entenda o motivo que faz a volta…” – “que” faz referência a “volta”*: o que \"faz a volta demorar\" é **o motivo**; \"volta\" é o complemento de \"faz\".\n- *“Ele “queira evitar” experiências que levaram…” – “que” faz referência a “ele”*: o que \"levaram a um trauma\" foram as **experiências** (verbo no plural).\n- *“Exercícios que geram dor (...)…” – “que” faz referência a “lembranças ruins”*: quem gera dor são os **exercícios**; o \"que\" vem logo depois de \"Exercícios\".\n\n**Para memorizar:** para achar o referente do \"que\", troque-o por \"o qual / os quais / a qual\" e veja com qual palavra o verbo concorda."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "Utilizando corretamente pronomes oblíquos átonos nas orações abaixo, tem-se:\n\n“Mas os músculos, na verdade, não têm memória”;\\\n“Experiências negativas atrapalham o retorno ao treino”;\\\n“E, portanto, responder mal aos estímulos”.",
+   "alternativas": [
+    "“Mas os músculos, na verdade, não as têm”; “Experiências negativas atrapalham-no”; “E, portanto, responder-lhes mal”.",
+    "“Mas os músculos, na verdade, não têm-nas”; “Experiências negativas atrapalham-no”; “E, portanto, responder-lhes mal”.",
+    "“Mas os músculos, na verdade, não as têm”; “Experiências negativas atrapalham-lo”; “E, portanto, respondê-los mal”.",
+    "“Mas os músculos, na verdade, não têm-nas”; “Experiências negativas atrapalham-lo”; “E, portanto, respondê-los mal”."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"“…não as têm”; “…atrapalham-no”; “…responder-lhes mal”\":** são três regras. 1) A palavra negativa **\"não\"** atrai o pronome para antes do verbo (**próclise**): \"não as têm\". 2) Verbo terminado em som nasal (**-m**, -ão, -õe) + pronome o/a vira **-no/-na**: \"atrapalham o retorno\" → \"atrapalham-**no**\". A forma \"-lo\" só aparece depois de verbo terminado em r, s ou z, que caem: \"atrapalhar\" → \"atrapalhá-lo\". 3) \"Responder **aos** estímulos\" tem objeto **indireto** (responder a algo), que se troca por **lhes**: \"responder-lhes\".\n\n**As outras:**\n- *“…não têm-nas”; “…atrapalham-no”; “…responder-lhes mal”*: com \"não\" antes do verbo, a ênclise é erro; a próclise é obrigatória.\n- *“…não as têm”; “…atrapalham-lo”; “…respondê-los mal”*: \"atrapalham-lo\" não existe (depois de -m é \"-no\"), e \"respondê-los\" trata \"aos estímulos\" como objeto direto.\n- *“…não têm-nas”; “…atrapalham-lo”; “…respondê-los mal”*: junta os três erros.\n\nPonto discutível: \"memória\" está no singular, então o rigor pediria \"não **a** têm\"; como todas as alternativas usam o plural, a banca avaliou só a colocação e a forma dos pronomes."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "“Ele ‘queira evitar’ experiências que levaram a um trauma anterior”.\n\n“Que tendem a facilitar a retomada do exercício”.\\\nSobre o possível emprego do acento grave nos excerto acima, é correto afirmar que:",
+   "alternativas": [
+    "Substituir “trauma” por “lesão” ocasionará crase obrigatoriamente; substituir “facilitar” por “fácil” ocasionará crase.",
+    "Substituir “trauma” por “lesão” não ocasionará crase; substituir “facilitar” por “fácil” ocasionará crase obrigatoriamente.",
+    "Substituir “trauma” por “lesão” não ocasionará crase; substituir “facilitar” por “fácil” não ocasionará crase obrigatoriamente.",
+    "Substituir “trauma” por “lesão” ocasionará crase obrigatoriamente; substituir “facilitar” por “fácil” não ocasionará crase obrigatoriamente."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Substituir “trauma” por “lesão” não ocasionará crase; substituir “facilitar” por “fácil” ocasionará crase obrigatoriamente.\":** crase é a fusão da preposição **a** com o artigo **a**. 1) \"levaram a um trauma\" → \"levaram a uma lesão\": antes de \"uma\" (artigo indefinido) não entra artigo definido, então **não há crase**. 2) \"tendem a facilitar a retomada\" → \"tendem **à** fácil retomada\": o verbo \"tender\" pede a preposição \"a\", e \"fácil retomada\" é um substantivo feminino precedido do artigo \"a\"; a fusão gera crase obrigatória. Antes de verbo (\"a facilitar\") nunca há crase.\n\n**As outras:**\n- *…“lesão” ocasionará crase obrigatoriamente; …“fácil” ocasionará crase.*: erra a primeira parte: \"a uma lesão\" não leva acento grave.\n- *…“lesão” não ocasionará crase; …“fácil” não ocasionará crase obrigatoriamente.*: acerta a primeira, mas na segunda a crase é obrigatória.\n- *…“lesão” ocasionará crase obrigatoriamente; …“fácil” não ocasionará…*: erra as duas.\n\n**Para memorizar:** nunca há crase antes de verbo nem antes de \"uma\". Troque por uma palavra masculina: \"tendem ao fácil retorno\"; se aparece \"ao\", há crase."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "“De acordo com a pesquisa publicada na revista Cell Physiology neste ano, existem evidências de que o tecido muscular pode ser “preparado” por experiências anteriores positivas com o treinamento de força. Essa preparação pode aumentar as capacidades adaptativas a um estímulo posterior, mesmo após longos períodos longe da academia, explica João Paulo Manechini, coordenador do curso de Educação Física do Centro Universitário Estácio de Ribeirão Preto, no interior de São Paulo”. Assinale a alternativa que resume o parágrafo anterior.",
+   "alternativas": [
+    "A revista Cell Physiology afirmou que treinar força prepara os músculos para passar longos períodos longe da academia, porque o corpo se adapta a permanecer musculoso.",
+    "Segundo João Paulo Manechini, experiências positivas treinando força são capazes de aumentar a massa muscular e fazer com que o corpo mantenha-se em forma por mais tempo.",
+    "Experiências positivas envolvendo força podem “preparar” os músculos, uma vez que elas ampliam as capacidades adaptativas no caso de retorno à academia após ausência prolongada.",
+    "Os músculos podem ser “preparados”, através de experiências positivas com treino de força durante períodos longe da academia, a aumentar suas capacidades adaptativas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Experiências positivas envolvendo força podem “preparar” os músculos…\":** o parágrafo diz duas coisas: experiências anteriores positivas com treino de força podem \"preparar\" o tecido muscular, e essa preparação **aumenta as capacidades adaptativas** a um estímulo posterior, mesmo depois de muito tempo longe da academia. A alternativa mantém as duas ideias e a relação entre elas, sem acrescentar informação.\n\n**As outras:**\n- *A revista Cell Physiology afirmou que treinar força prepara os músculos para passar longos períodos…*: inverte o sentido. O preparo não serve para ficar longe da academia, e sim para responder melhor na volta; e o texto não diz que o corpo \"permanece musculoso\".\n- *Segundo João Paulo Manechini, experiências positivas treinando força são capazes de aumentar a massa muscular…*: fala em manter o corpo em forma por mais tempo, ideia que o parágrafo não traz.\n- *Os músculos podem ser “preparados”, através de experiências positivas com treino de força durante períodos longe…*: põe o treino \"durante\" o afastamento, o que é contraditório; as experiências positivas são anteriores ao afastamento.\n\n**Para memorizar:** em questão de resumo, desconfie da alternativa que acrescenta consequência (manter a forma, ficar musculoso) ou muda a ordem dos fatos."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "“Poderia ser a chamada ‘memória muscular’ – mas os músculos, na verdade, não têm memória”.\n\nAssinale a alternativa correta sobre o emprego da pontuação do período acima.",
+   "alternativas": [
+    "As vírgulas isolam expressões retificativas, enquanto o travessão destaca oração adversativa, substituindo vírgula.",
+    "As vírgulas isolam locução adverbial deslocada, enquanto o travessão indica a mudança de interlocutor na oração.",
+    "As vírgulas marca a elipse de um verbo, enquanto o travessão destaca breve interrupção de pensamento.",
+    "As vírgulas isolam aposto explicativo, enquanto o travessão destaca oração adversativa, substituindo vírgula."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"As vírgulas isolam expressões retificativas, enquanto o travessão destaca oração adversativa, substituindo vírgula.\":** \"na verdade\" é expressão **retificativa**: corrige o que acabou de ser dito (chama-se memória, mas na verdade não é). Expressões desse tipo (isto é, aliás, ou melhor, na verdade) ficam entre vírgulas. O travessão vem antes de \"mas os músculos... não têm memória\", oração coordenada **adversativa**, no lugar em que normalmente estaria uma vírgula.\n\n**As outras:**\n- *As vírgulas isolam locução adverbial deslocada, enquanto o travessão indica a mudança de interlocutor…*: travessão de mudança de interlocutor só aparece em diálogo, e não há diálogo no período.\n- *As vírgulas marca a elipse de um verbo…*: não há verbo omitido; \"não têm\" está expresso.\n- *As vírgulas isolam aposto explicativo…*: aposto explica um substantivo (\"Natal, capital do RN\"); \"na verdade\" não explica nenhum termo, corrige a ideia anterior.\n\n**Para memorizar:** isto é, ou seja, aliás, ou melhor, na verdade: expressões explicativas e retificativas vão sempre entre vírgulas."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "“Quando nunca treinamos, é difícil começar; mas, quando retornamos à academia após um tempo parado, a sensação é de que o corpo responde melhor e mais rápido (...)”.\n\nAssinale a alternativa que contém a correta classificação das orações presentes no período acima:",
+   "alternativas": [
+    "Subordinada adverbial condicional; coordenada assindética; subordinada adverbial temporal; coordenada assindética; subordinada substantiva completiva nominal.",
+    "Subordinada adverbial condicional; coordenada assindética; subordinada adverbial temporal; coordenada sindética adversativa; subordinada substantiva predicativa.",
+    "Subordinada adverbial temporal; coordenada assindética; subordinada adverbial temporal; coordenada assindética; subordinada substantiva predicativa.",
+    "Subordinada adverbial temporal; coordenada assindética; subordinada adverbial temporal; coordenada sindética adversativa; subordinada substantiva completiva nominal."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Subordinada adverbial temporal; coordenada assindética; …temporal; coordenada sindética adversativa; …completiva nominal.\":** o período tem duas partes ligadas por \"mas\". 1) \"Quando nunca treinamos\": **adverbial temporal** (\"quando\" marca tempo). 2) \"é difícil começar\": coordenada **assindética**, sem conjunção. 3) \"quando retornamos à academia...\": de novo **temporal**. 4) \"mas... a sensação é\": coordenada **sindética adversativa**, aberta por \"mas\". 5) \"de que o corpo responde melhor\": para a banca, completa o nome \"sensação\" com a preposição \"de\", logo **completiva nominal**.\n\n**As outras:**\n- *Subordinada adverbial condicional; coordenada assindética; …; coordenada assindética; …completiva nominal.*: \"quando\" aqui é tempo, não condição; e a oração com \"mas\" é sindética.\n- *Subordinada adverbial condicional; …; coordenada sindética adversativa; subordinada substantiva predicativa.*: também chama a primeira oração de condicional.\n- *Subordinada adverbial temporal; coordenada assindética; …; coordenada assindética; subordinada substantiva predicativa.*: ignora o \"mas\", que torna a oração sindética.\n\nPonto discutível: muitos gramáticos classificariam \"de que o corpo responde\" como **predicativa**, porque vem depois do verbo \"ser\" (\"a sensação é de que...\"). Ainda assim, só esta alternativa acerta \"temporal\" e \"sindética adversativa\" ao mesmo tempo."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa que contém locução conjuntiva:",
+   "alternativas": [
+    "Quando retornamos à academia após um tempo parado, a sensação é de que o corpo responde melhor e mais rápido.",
+    "As adaptações positivas do corpo levam algumas semanas para que a memória muscular seja “gravada”.",
+    "Uma vez que o seu corpo já experimentou um movimento e já esteve na condição de melhor forma física, o organismo conhece o caminho.",
+    "Um estudo da Universidade de Brown (...) mostrou que essas adaptações neuromusculares positivas acontecem em um período médio de quatro semanas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Uma vez que o seu corpo já experimentou um movimento…\":** **locução conjuntiva** é um grupo de palavras que funciona como uma só conjunção. \"**Uma vez que**\" equivale a \"como\" ou \"já que\" e introduz uma oração **causal**: o organismo conhece o caminho porque o corpo já experimentou o movimento. É o exemplo clássico de locução conjuntiva.\n\n**As outras:**\n- *Quando retornamos à academia após um tempo parado…*: \"quando\" é conjunção de uma palavra só (temporal); \"de que\" é preposição + conjunção integrante.\n- *As adaptações positivas do corpo levam algumas semanas para que…*: não foi a resposta da banca, mas \"**para que**\" também é locução conjuntiva (final).\n- *Um estudo da Universidade de Brown (...) mostrou que…*: \"que\" é conjunção integrante simples.\n\nPonto discutível: \"para que\" é locução conjuntiva final em qualquer gramática, então a frase das adaptações também atende ao enunciado; o gabarito definitivo manteve só \"uma vez que\".\n\n**Para memorizar:** locuções conjuntivas comuns: uma vez que, já que, visto que (causa); para que, a fim de que (finalidade); ainda que, mesmo que (concessão); à medida que (proporção)."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q11",
+   "numero": 11,
+   "secao": "Raciocinio Lógico e Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A soma das idades de Paula e Joana atualmente resulta em 89 anos. Se 4 anos atrás Paula tinha o dobro da idade de Joana. A idade atual de Paula e Joana são, respectivamente:",
+   "alternativas": [
+    "61 e 28",
+    "60 e 29",
+    "59 e 30",
+    "58 e 31"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"58 e 31\":** chame a idade atual de Paula de P e a de Joana de J. Soma: P + J = 89. Há 4 anos: P − 4 = 2 × (J − 4), ou seja, P = 2J − 4. Substituindo na soma: 2J − 4 + J = 89 → 3J = 93 → **J = 31** e **P = 58**. Conferindo: há 4 anos elas tinham 54 e 27, e 54 = 2 × 27.\n\n**As outras:**\n- *61 e 28*: a soma dá 89, mas há 4 anos seriam 57 e 24, e 57 não é o dobro de 24.\n- *60 e 29*: há 4 anos, 56 e 25; 56 não é o dobro de 25.\n- *59 e 30*: há 4 anos, 55 e 26; 55 não é o dobro de 26.\n\n**Para memorizar:** em problema de idades, todos envelhecem igual: tire (ou some) o mesmo número de anos de cada pessoa antes de montar a relação. Com as alternativas na mão, testar cada uma é rápido."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q12",
+   "numero": 12,
+   "secao": "Raciocinio Lógico e Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Eduardo estava copiando uma questão de matemática sobre matrizes, quando o professor apagou um dos números da questão que estava no quadro. Ficando da seguinte forma:\n\n![Produto de uma matriz 3×2 por uma matriz 2×3 com um número apagado, igual a uma matriz 3×3](data/provas/img/idecan-2024-caern-eng-civil/q12.webp)\n\nO número que está faltando é:",
+   "alternativas": [
+    "0",
+    "1",
+    "2",
+    "-1"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"0\":** no produto de matrizes, cada elemento do resultado é a linha da primeira matriz vezes a coluna da segunda. O número apagado (x) está na 2ª linha e 2ª coluna da segunda matriz, então aparece na 2ª coluna do resultado. Linha 1 × coluna 2: 2 × 3 + 3 × x = 6 → 6 + 3x = 6 → **x = 0**. Conferindo com as outras linhas: 4 × 3 + 5 × 0 = 12 e 6 × 3 + (−1) × 0 = 18, que batem com o resultado.\n\n**As outras:**\n- *1*: daria 2 × 3 + 3 × 1 = 9 na primeira linha, e não 6.\n- *2*: daria 6 + 6 = 12, e não 6.\n- *-1*: daria 6 − 3 = 3, e não 6.\n\n**Para memorizar:** matriz m×n vezes n×p dá m×p; o elemento (i, j) do produto usa a linha i da primeira e a coluna j da segunda."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q13",
+   "numero": 13,
+   "secao": "Raciocinio Lógico e Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um retângulo tem perímetro igual a 90 cm e área medindo 500 cm². A medida do maior lado desse retângulo é igual a:",
+   "alternativas": [
+    "24 cm",
+    "25 cm",
+    "26 cm",
+    "27 cm"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"25 cm\":** com lados a e b: perímetro 2(a + b) = 90 → a + b = 45; área a × b = 500. Procuram-se dois números de soma 45 e produto 500: **20 e 25** (20 + 25 = 45 e 20 × 25 = 500). Pela equação: x² − 45x + 500 = 0, Δ = 2.025 − 2.000 = 25, x = (45 ± 5)/2 → 25 ou 20. O maior lado mede **25 cm**.\n\n**As outras:**\n- *24 cm*: o outro lado seria 21 cm, e 24 × 21 = 504 cm², não 500.\n- *26 cm*: o outro lado seria 19 cm; 26 × 19 = 494 cm².\n- *27 cm*: o outro lado seria 18 cm; 27 × 18 = 486 cm².\n\n**Para memorizar:** perímetro e área juntos viram soma (S) e produto (P) dos lados: monte x² − Sx + P = 0."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q14",
+   "numero": 14,
+   "secao": "Raciocinio Lógico e Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um caminhão de carga levou três dias para chegar ao seu destino, percorrendo 1200 km e gastou R$ 2995,20 de combustível. A média em km/L que o caminhão fez, considerando que o valor por litro do combustível é R$ 6,24, foi de:",
+   "alternativas": [
+    "2,494 km/L",
+    "2,496 km/L",
+    "2,500 km/L",
+    "2,322 km/L"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"2,500 km/L\":** primeiro, os litros comprados: R$ 2.995,20 ÷ R$ 6,24 por litro = **480 L** (confira: 6,24 × 480 = 2.995,20). Depois, o consumo médio: 1.200 km ÷ 480 L = **2,5 km/L**. Os \"três dias\" de viagem não entram na conta.\n\n**As outras:**\n- *2,494 km/L*: valor próximo, que não sai de nenhuma conta correta com esses dados.\n- *2,496 km/L*: também é só distrator numérico, perto do resultado.\n- *2,322 km/L*: corresponderia a cerca de 517 L, quantidade que não bate com o gasto informado.\n\n**Para memorizar:** km/L = distância ÷ litros; quando o problema dá o gasto em reais, divida pelo preço do litro para achar os litros. Dado que não entra na fórmula (os três dias) é só distração."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q15",
+   "numero": 15,
+   "secao": "Raciocinio Lógico e Matemático",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Foi observado o crescimento de uma planta. No primeiro dia ela estava com 10 cm, no segundo dia 13,8 cm, no terceiro dia 17,6 cm e assim sucessivamente. Após observá-la por 30 dias, o tamanho dessa planta no trigésimo foi de:",
+   "alternativas": [
+    "116,4 cm",
+    "120,2 cm",
+    "124 cm",
+    "127,8 cm"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O motivo provável é a ambiguidade do enunciado: \"no trigésimo\" (sem dizer \"dia\") e \"após observá-la por 30 dias\" podem indicar o 30º dia ou o dia seguinte aos 30 dias de observação, o que leva a duas respostas presentes nas alternativas.\n\nO assunto é **progressão aritmética (PA)**: a planta cresce sempre 3,8 cm por dia (13,8 − 10 = 3,8 e 17,6 − 13,8 = 3,8). O termo geral é aₙ = a₁ + (n − 1) × r. No 30º dia: a₃₀ = 10 + 29 × 3,8 = 10 + 110,2 = **120,2 cm**. Lendo como o 31º dia: 10 + 30 × 3,8 = **124 cm**. As duas aparecem entre as alternativas.\n\n**Para memorizar:** na PA, do 1º ao n-ésimo termo há (n − 1) razões, não n."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q16",
+   "numero": 16,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "No uso dos recursos do Windows 10 BR (x64), a execução do atalho de teclado Win + E possibilita abrir a janela de diálogo de um programa acessório em sua configuração padrão, que permite consultar a quantidade de espaço disponível no SSD ou disco rígido do computador, por meio do parâmetro Propriedades.\n\nEsse programa acessório é conhecido por:",
+   "alternativas": [
+    "Bloco de Notas",
+    "Painel de Controle",
+    "Explorador de Arquivos",
+    "Gerenciador de Dispositivos"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Explorador de Arquivos\":** o atalho **Windows + E** abre o Explorador de Arquivos. Nele, clicando com o botão direito sobre a unidade (C:, SSD ou HD) e escolhendo **Propriedades**, aparecem o espaço usado, o espaço livre e a capacidade total, com o gráfico de pizza.\n\n**As outras:**\n- *Bloco de Notas*: editor de texto simples (.txt); não abre com Win + E nem mostra espaço em disco.\n- *Painel de Controle*: reúne configurações do sistema; não é o programa aberto por Win + E.\n- *Gerenciador de Dispositivos*: lista o hardware e os drivers (abre, por exemplo, pelo menu de Win + X); não mostra espaço livre.\n\n**Para memorizar:** Win + E = Explorador (E de \"explorer\"); Win + R = Executar; Win + D = mostrar a área de trabalho; Win + L = bloquear a sessão."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q17",
+   "numero": 17,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "No que se refere aos recursos do editor de textos Word 2019 BR, o acionamento de um ícone da Faixa de Opções nas opções que correspondem à guia “Página Inicial” da Barra de Menu, possibilita a criação de uma lista de marcadores simbólicos, mostrados na figura abaixo.\n\n![Menu do Word com marcadores usados recentemente, biblioteca de marcadores e marcadores de documento](data/provas/img/idecan-2024-caern-eng-civil/q17.webp)\n\nO ícone é:",
+   "alternativas": [
+    "![Alternativa A](data/provas/img/idecan-2024-caern-eng-civil/q17-a.webp)",
+    "![Alternativa B](data/provas/img/idecan-2024-caern-eng-civil/q17-b.webp)",
+    "![Alternativa C](data/provas/img/idecan-2024-caern-eng-civil/q17-c.webp)",
+    "![Alternativa D](data/provas/img/idecan-2024-caern-eng-civil/q17-d.webp)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que o ícone com pontos ao lado das linhas:** na guia **Página Inicial**, grupo **Parágrafo**, o botão **Marcadores** mostra pequenos pontos alinhados com traços. A setinha ao lado dele abre exatamente o menu da figura: \"Marcadores Usados Recentemente\", \"Biblioteca de Marcadores\", \"Marcadores de Documento\" e \"Definir Novo Marcador...\". Marcador é um símbolo (ponto, quadrado, seta, visto) que não indica ordem.\n\n**As outras:**\n- *ícone com 1, 2, 3 ao lado das linhas*: é **Numeração**, que cria lista ordenada (1, 2, 3 ou a, b, c).\n- *ícone de quadriculado pontilhado com a borda de baixo marcada*: é **Bordas**, que põe linhas em volta do parágrafo, da célula ou da página.\n- *ícone com 1, a, i em degraus*: é **Lista de Vários Níveis**, para listas hierárquicas (1., 1.1, a)...).\n\n**Para memorizar:** pontos = marcadores; números = numeração; números recuados em degraus = vários níveis."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q18",
+   "numero": 18,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "A planilha da figura foi criada no Excel 2019 BR (x64), tendo sido inserida em C4 a fórmula =SE(CONT.SE(A2:A6;”<=25”)=2;”SP”;”DF”). Em C6 foi inserida a fórmula =MED(A2:A6).\n\n|  | A | B | C |\n|---|---|---|---|\n| **1** |  |  |  |\n| **2** | 23 |  |  |\n| **3** | 51 |  |  |\n| **4** | 19 |  | ? |\n| **5** | 25 |  |  |\n| **6** | 47 |  | ? |\n\nNesse contexto, os conteúdos mostrados em C4 e em C6 são, respectivamente:",
+   "alternativas": [
+    "33 e SP",
+    "33 E DF",
+    "25 e SP",
+    "25 e DF"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"25 e DF\":** em C4, CONT.SE(A2:A6;\"<=25\") conta os valores menores ou iguais a 25: 23, 19 e 25, ou seja, **3**. Como 3 é diferente de 2, o SE devolve o valor do caso falso: **\"DF\"**. Em C6, MED(A2:A6) calcula a **mediana**: ordenando 19, 23, 25, 47, 51, o valor do meio é **25**. Logo, C4 mostra DF e C6 mostra 25.\n\n**As outras:**\n- *33 e SP*: 33 é a média (165 ÷ 5), não a mediana; e \"SP\" só sairia se a contagem fosse 2.\n- *33 E DF*: de novo confunde MED (mediana) com MÉDIA.\n- *25 e SP*: a mediana está certa, mas a contagem é 3, porque o 25 entra (a condição é \"menor ou igual\").\n\nPonto discutível: o enunciado pede \"C4 e C6, respectivamente\", o que daria \"DF e 25\"; a alternativa do gabarito traz os mesmos valores na ordem inversa, e a banca manteve a questão.\n\n**Para memorizar:** no Excel em português, MED = mediana, MÉDIA = média aritmética, MODO = moda. O critério \"<=\" inclui o próprio valor."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q19",
+   "numero": 19,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "email-reunioes",
+   "enunciado": "No uso dos recursos do Thunderbird Mozilla 115.5.0 (64 bits) na manipulação de mensagens de correio eletrônico, um usuário está criando um novo e-mail por meio de uma janela de diálogo disponibilizada por este software. Nessa atividade e precisando anexar um arquivo em formato PDF a esse e-mail, ele deve executar um atalho de teclado, que abrirá uma outra janela, para continuidade do processo..\n\nEsse atalho de teclado corresponde a pressionar as teclas Ctrl, Shift e:",
+   "alternativas": [
+    "A",
+    "N",
+    "E",
+    "M"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"A\":** no Thunderbird, com a janela de nova mensagem aberta, **Ctrl + Shift + A** aciona o comando **Anexar arquivo(s)** e abre a janela para escolher o arquivo no computador (o PDF, no caso). É o mesmo comando do botão **Anexar** da barra da janela de redação.\n\n**As outras:**\n- *N*: Ctrl + Shift + N não é o atalho de anexar arquivo.\n- *E*: Ctrl + Shift + E não abre a janela de anexos.\n- *M*: Ctrl + Shift + M também não anexa arquivo.\n\nSe o atalho não vier à cabeça na hora, o caminho pelo mouse é o botão **Anexar** (clipe de papel) da janela de redação, que abre a mesma janela de escolha de arquivo.\n\n**Para memorizar:** A de **anexar** (e de \"attach\", em inglês): Ctrl + Shift + A. No Mac, a mesma combinação usa Cmd no lugar de Ctrl. Em provas de e-mail, a banca costuma trocar só a letra final do atalho; associe a letra à ação."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q20",
+   "numero": 20,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "No que diz respeito aos conceitos na internet, uma sigla é utilizada para descrever o endereço de um site na Internet, como https://www.google.com.br, por exemplo, constituindo uma sequência de caracteres que especifica a localização de uma recurso na web, como uma página, uma imagem, um arquivo de áudio ou um vídeo.\n\nEssa sigla é conhecida por:",
+   "alternativas": [
+    "SSH",
+    "DNS",
+    "URL",
+    "FAT"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"URL\":** **URL** (Uniform Resource Locator, localizador uniforme de recursos) é o endereço que identifica onde está um recurso na web: o protocolo (https), o domínio (www.google.com.br) e, se houver, o caminho até a página, a imagem, o áudio ou o vídeo.\n\n**As outras:**\n- *SSH*: Secure Shell, protocolo para acesso remoto seguro a outro computador, por linha de comando.\n- *DNS*: Domain Name System, serviço que traduz o nome do domínio (google.com.br) no endereço IP do servidor. Ele trabalha junto com a URL, mas não é o endereço.\n- *FAT*: File Allocation Table, sistema de arquivos de discos e pen drives (FAT32), sem relação com endereços da internet.\n\n**Para memorizar:** URL é o endereço; DNS é a \"agenda\" que converte o nome em IP; HTTP/HTTPS é o protocolo que aparece no começo da URL."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q21",
+   "numero": 21,
+   "secao": "Legislação de Saneamento Público e na Administração Pública inerente ao emprego",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "Em redação incluída pela Lei 14.026/2020, o artigo 3-B, parágrafo único, da Lei 11.445/2007, afirma que nas Zonas Especiais de Interesse Social (Zeis) ou outras áreas do perímetro urbano ocupadas predominantemente por população de baixa renda, o serviço público de esgotamento sanitário, realizado diretamente pelo titular ou por concessionário, inclui:",
+   "alternativas": [
+    "Abastecimento de água e soluções sanitárias adequadas aos tipos de residências do local, além do tratamento de efluentes e resíduos sólidos, de acordo com a política nacional para tal e resguardada a compatibilidade com as políticas municipais e estaduais de regularização fundiária.",
+    "A utilização de recursos hídricos na prestação de serviços públicos de saneamento básico, inclusive para disposição ou diluição de esgotos e outros resíduos líquidos, sujeita a outorga de direito de uso, nos termos da Lei nº 9.433, de 8 de janeiro de 1997, de seus regulamentos e das legislações estaduais.",
+    "A utilização de serviços de recursos hídricos, sanitários e de abastecimento, quando inexistentes, assegurada e resguarda a compatibilidade com as diretrizes da política municipal de regularização fundiária e da legislação sanitária nacional.",
+    "Conjuntos sanitários para as residências e solução para a destinação de efluentes, quando inexistentes, assegurada compatibilidade com as diretrizes da política municipal de regularização fundiária."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Conjuntos sanitários para as residências e solução para a destinação de efluentes…\":** é o texto do **parágrafo único do art. 3º-B da Lei 11.445/2007**, incluído pela Lei 14.026/2020 (novo marco do saneamento). Em Zeis e em áreas urbanas ocupadas predominantemente por população de baixa renda, o serviço de esgotamento sanitário passa a incluir os **conjuntos sanitários** das casas e a solução para destinar os efluentes, quando não existirem, sempre compatível com a política **municipal** de regularização fundiária. A ideia é não deixar a casa sem banheiro só porque a rede passa na rua.\n\n**As outras:**\n- *Abastecimento de água e soluções sanitárias adequadas…*: mistura abastecimento de água e resíduos sólidos, que são outros componentes do saneamento, e cita políticas estaduais que o dispositivo não menciona.\n- *A utilização de recursos hídricos na prestação de serviços públicos…sujeita a outorga…*: é o parágrafo único do **art. 4º** da mesma lei (outorga de uso da água), e não do art. 3º-B.\n- *A utilização de serviços de recursos hídricos, sanitários e de abastecimento…*: texto inventado; troca \"conjuntos sanitários\" por \"serviços\" e acrescenta a legislação sanitária nacional.\n\n**Para memorizar:** art. 3º-B, parágrafo único: Zeis e baixa renda → conjunto sanitário + destino do efluente + política municipal de regularização fundiária."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q22",
+   "numero": 22,
+   "secao": "Legislação de Saneamento Público e na Administração Pública inerente ao emprego",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "Os recursos necessários ao apoio técnico e financeiro da União, à alocação de recursos públicos e aos financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União de que trata o Decreto nº 11.599/2023, dentre outras fontes, serão oriundos:",
+   "alternativas": [
+    "De acordos de empréstimo com organismos financeiros internacionais.",
+    "De fundos de natureza privada, mantidos, especificamente, por empresas ligadas ao setor de abastecimento e saneamento básico.",
+    "Da criação de imposto próprio referente a serviços de saneamento básico, na esfera da União.",
+    "Da criação de dotação específica no orçamento da União, com recursos advindos do PAC (Programa de Aceleração do Crescimento)."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"De acordos de empréstimo com organismos financeiros internacionais.\":** o **art. 12 do Decreto 11.599/2023** (prestação regionalizada e apoio da União ao saneamento) lista de onde vêm esses recursos: Orçamento Geral da União; fundos de natureza pública; fundos de natureza privada; doações de entidades nacionais e internacionais; **acordos de empréstimo com organismos financeiros internacionais**; fontes próprias de entidades financeiras nacionais; e outras fontes que vierem a ser constituídas. A alternativa repete um desses incisos.\n\n**As outras:**\n- *De fundos de natureza privada, mantidos, especificamente, por empresas ligadas ao setor…*: o decreto fala só em \"fundos de natureza privada\"; a restrição a fundos mantidos por empresas do setor foi inventada.\n- *Da criação de imposto próprio referente a serviços de saneamento básico…*: essa fonte não está na lista, e decreto não cria tributo (imposto só por lei).\n- *Da criação de dotação específica no orçamento da União, com recursos advindos do PAC…*: o decreto cita o Orçamento Geral da União de forma genérica, sem criar dotação nova nem vincular ao PAC.\n\n**Para memorizar:** fontes do art. 12: OGU, fundos públicos e privados, doações, empréstimos internacionais, entidades financeiras nacionais e outras fontes."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q23",
+   "numero": 23,
+   "secao": "Legislação de Saneamento Público e na Administração Pública inerente ao emprego",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "A Lei Complementar 682/2021 tem por objeto a instituição das Microrregiões de Águas e Esgotos do Central-Oeste e do Litoral-Seridó e suas respectivas estruturas de governança, no âmbito do Estado do Rio Grande do Norte. Sobre a citada Lei Complementar, assinale a alternativa correta.",
+   "alternativas": [
+    "Cada Microrregião de Águas e Esgotos possui natureza jurídica de autarquia intergovernamental de regime especial, com caráter eminentemente deliberativo, e personalidade jurídica mista, de Direito Público e Privado.",
+    "São funções públicas de interesse comum das Microrregiões de Águas e Esgotos o planejamento, a regulação, a fiscalização e a prestação, direta ou contratada, dos serviços públicos de abastecimento de água e de esgotamento sanitário.",
+    "Integram a estrutura de governança de cada autarquia microrregional: o Colegiado Microrregional; o Comitê Gestor; o Conselho Consultivo; e o Secretário-Geral.",
+    "O Secretário-Geral será eleito pelo Colegiado Microrregional dentre os membros do Conselho Consultivo, sendo exonerável ad nutum, a juízo de dois terços de votos do Colegiado."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"São funções públicas de interesse comum das Microrregiões…\":** é a cópia do **art. 3º da LC estadual 682/2021 (RN)**: o planejamento, a regulação, a fiscalização e a prestação, direta ou contratada, dos serviços de abastecimento de água e de esgotamento sanitário são funções públicas de interesse comum. Por isso são decididas em conjunto pelo Estado e pelos municípios da microrregião, e não por cada município sozinho.\n\n**As outras:**\n- *Cada Microrregião…personalidade jurídica mista…*: o art. 2º, parágrafo único, diz autarquia intergovernamental de regime especial, com caráter **deliberativo e normativo** e personalidade jurídica de **Direito Público**. Autarquia não tem personalidade \"mista\".\n- *Integram a estrutura de governança…o Comitê Gestor; o Conselho Consultivo…*: os órgãos do art. 5º são o Colegiado Microrregional, o **Comitê Técnico**, o **Conselho Participativo** e o Secretário-Geral.\n- *O Secretário-Geral será eleito…dentre os membros do Conselho Consultivo…*: pelo art. 7º, § 2º, ele é eleito dentre os membros do **Comitê Técnico** e é exonerável ad nutum pela **maioria** dos votos do Colegiado, não por dois terços.\n\n**Para memorizar:** Colegiado (prefeitos e governador, que o preside), Comitê Técnico, Conselho Participativo (sociedade civil) e Secretário-Geral (escolhido no Comitê Técnico)."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q24",
+   "numero": 24,
+   "secao": "Legislação de Saneamento Público e na Administração Pública inerente ao emprego",
+   "disciplina": "especificos",
+   "assunto": "desempenho-sustentabilidade",
+   "enunciado": "Tendo como referência a Lei 11.332/2022, do Estado do Rio Grande do Norte, leia o enunciado abaixo e responda:\n\nUso de efluentes tratados provenientes das estações administradas por prestadores de serviços de saneamento básico ou terceiros, cujas características permitam sua utilização.\n\nO enunciado, define:",
+   "alternativas": [
+    "Reuso indireto planejado de água.",
+    "Reciclagem de água.",
+    "Reúso externo.",
+    "Reúso direto de água."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Reúso externo.\":** a **Lei estadual 11.332/2022 (RN)**, que trata da política de reúso de água não potável, define no art. 3º o **reúso externo** como o uso de efluentes tratados que vêm de estações administradas por prestadores de serviços de saneamento ou por terceiros, quando as características permitem o uso. A palavra-chave é a origem: a água vem de **fora** de quem a usa (da estação de tratamento). O par oposto é o **reúso interno**, que aproveita a água gerada dentro do próprio empreendimento.\n\n**As outras:**\n- *Reuso indireto planejado de água.*: o efluente tratado é lançado de forma planejada num rio ou aquífero e captado de novo depois de diluído; o enunciado não fala em passar por corpo d'água.\n- *Reciclagem de água.*: é o reaproveitamento da água dentro do mesmo processo ou instalação, antes do descarte.\n- *Reúso direto de água.*: o efluente tratado vai direto ao local de uso, sem passar por corpo hídrico; essa classificação olha o caminho da água, não a origem na estação de um prestador.\n\n**Para memorizar:** interno × externo = de onde vem a água; direto × indireto = se passa ou não por rio ou aquífero antes do uso."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q25",
+   "numero": 25,
+   "secao": "Legislação de Saneamento Público e na Administração Pública inerente ao emprego",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "A Lei 6.880/2019 estabelece a Política Municipal de Saneamento Básico do Município de Natal. Sobre o que se afirma na Lei citada, é correto afirmar:",
+   "alternativas": [
+    "Constitui serviço público a ação de saneamento executada por meio de soluções individuais, desde que o usuário não dependa de terceiros para operar os serviços, bem como as ações e serviços de saneamento básico de responsabilidade privada, incluindo o manejo de resíduos de responsabilidade do gerador.",
+    "O Plano Municipal de Saneamento Básico será executado em um horizonte de 15 (quinze) anos a partir da publicação desta lei.",
+    "A delegação de serviço de saneamento básico dispensa o cumprimento pelo prestador do respectivo Plano Municipal de Saneamento Básico em vigor à época da delegação, devendo apenas, haver uma compatibilização dos instrumentos administrativos e de gestão, visando atender as metas estabelecidas.",
+    "Minimizar os impactos ambientais relacionados à implantação e desenvolvimento das ações, obras e serviços de saneamento básico e assegurar que sejam executadas de acordo com as normas relativas à proteção do meio ambiente, ao uso e ocupação do solo e à saúde; é um dos objetivos da Política Municipal de Saneamento Básico do Município de Natal."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Minimizar os impactos ambientais relacionados à implantação…\":** a lei de Natal segue a estrutura da Lei federal 11.445/2007, e esse objetivo repete um dos objetivos da Política Federal de Saneamento Básico (art. 49 da Lei 11.445): reduzir o impacto ambiental das obras e serviços de saneamento e garantir que respeitem as normas de meio ambiente, de uso e ocupação do solo e de saúde.\n\n**As outras:**\n- *Constitui serviço público a ação de saneamento executada por meio de soluções individuais…*: é o contrário do art. 5º da Lei 11.445: a solução individual em que o usuário não depende de terceiros e as ações de responsabilidade privada **não constituem** serviço público.\n- *O Plano Municipal de Saneamento Básico será executado em um horizonte de 15 (quinze) anos…*: o prazo não é esse; pela Lei 11.445 (art. 19, § 4º), os planos devem ser revistos em prazo **não superior a 10 anos**, e os planos municipais costumam ser feitos para horizonte de 20 anos.\n- *A delegação de serviço de saneamento básico dispensa o cumprimento…*: o art. 19, § 6º, da Lei 11.445 diz que a delegação **não dispensa** o prestador de cumprir o plano em vigor na época da delegação.\n\n**Para memorizar:** solução individual não é serviço público; delegar não livra do plano; plano revisto a cada 10 anos, no máximo."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Os tipos de águas que compõem uma partícula de solo, conforme apresentado na figura, são",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q26.webp",
+   "alternativas": [
+    "I: Higroscópica; II: Adsorvida; III: Capilar; IV: Livre; V: Capilar; VI: Adesiva.",
+    "I: Adsorvida; II: Higroscópica; III: Capilar; IV: Adesiva; V: Capilar; VI: Livre.",
+    "I: Higroscópica; II: Capilar; III: Adsorvida; IV: Livre; V: Adsorvida; VI: Adesiva.",
+    "I: Livre; II: Adsorvida; III: Capilar; IV: Higroscópica; V: Capilar; VI: Adesiva."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I: Higroscópica; II: Adsorvida; III: Capilar; IV: Livre; V: Capilar; VI: Adesiva.\":** comece pelo desenho da esquerda, que é o mais seguro. **IV** está abaixo do nível d'água, preenchendo os vazios: é a **água livre** (gravitacional, que escoa). **V** está acima do nível d'água, subindo pelos vazios como num tubo fino: é a **água capilar**. **VI** forma uma película fina em volta dos grãos: é a **água adesiva**. Só esta alternativa traz IV livre, V capilar e VI adesiva. No desenho da direita (Caputo), a camada colada à partícula de argila (II) é a **água adsorvida**, presa por forças elétricas, e I é a **higroscópica**, a que o solo ainda retém quando seco ao ar.\n\n**As outras:**\n- *I: Adsorvida; II: Higroscópica; …IV: Adesiva; V: Capilar; VI: Livre.*: chama de livre a película em volta dos grãos e de adesiva a água abaixo do nível d'água.\n- *I: Higroscópica; II: Capilar; III: Adsorvida; IV: Livre; V: Adsorvida…*: a água que sobe acima do nível d'água (V) é capilar, não adsorvida.\n- *I: Livre; II: Adsorvida; III: Capilar; IV: Higroscópica…*: a água abaixo do nível d'água é livre, não higroscópica.\n\n**Para memorizar:** abaixo do NA, água livre; acima do NA, subindo pelos vazios, capilar; película presa ao grão, adesiva ou adsorvida; a que sobra no solo seco ao ar, higroscópica; a que faz parte do mineral, de constituição."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Antes da execução das fundações é importante que se realizem ensaios para avaliar a capacidade de suporte do solo. Determine a alternativa que indica o tipo de ensaio e a informação técnica que fornece.",
+   "alternativas": [
+    "Ensaio de do cone: Obter principalmente a resistência do solo.",
+    "Ensaio dilatométrico: O ensaio pode ser usado para determinação da estratigrafia.",
+    "Ensaio de piezocone (CPTU): Obter a resistência ao cisalhamento, drenada, de solos moles e tensão de ponta.",
+    "Ensaio Vane test: Obter a resistência a compreensão e adensamento do solo."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Ensaio dilatométrico: O ensaio pode ser usado para determinação da estratigrafia.\":** no **dilatômetro de Marchetti (DMT)**, uma lâmina cravada no solo infla uma membrana de aço e mede as pressões necessárias. Delas saem índices como o **índice do material (ID)**, que indica o tipo de solo (argila, silte ou areia) ao longo da profundidade. Por isso o DMT serve para definir a **estratigrafia**, além de estimar parâmetros de deformabilidade e o estado de tensão horizontal.\n\n**As outras:**\n- *Ensaio de do cone: Obter principalmente a resistência do solo.*: o CPT mede **resistência de ponta e atrito lateral** e é muito usado justamente para classificar o perfil; \"resistência do solo\", assim genérico, é vago, e a frase ainda tem erro de redação.\n- *Ensaio de piezocone (CPTU)…resistência ao cisalhamento, drenada, de solos moles…*: em argilas moles o CPTU estima a resistência **não drenada** (Su), e mede também a poropressão gerada na cravação.\n- *Ensaio Vane test…resistência a compreensão e adensamento do solo.*: o ensaio de palheta (vane) mede a resistência ao cisalhamento **não drenada** de argilas moles e a sensibilidade; compressibilidade e adensamento se obtêm no ensaio oedométrico, em laboratório.\n\n**Para memorizar:** argila mole + resistência não drenada = vane ou CPTU; SPT dá o N; CPT dá ponta e atrito; DMT dá o tipo de solo (ID) e a rigidez."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Com vistas a garantir a dutilidade dos pilares, recomenda-se que os espaçamentos máximos entre os estribos sejam reduzidos em determinada porcentagem para concretos de classe C55 a C90, com inclinação dos ganchos de pelo menos 135°. Determine a alternativa que apresenta este fator de minoração, com base nos requisitos normativos.",
+   "alternativas": [
+    "20%",
+    "40%",
+    "50%",
+    "60%"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"50%\":** nas disposições sobre armadura transversal de pilares, a **NBR 6118** recomenda, para garantir a **ductilidade** de pilares com concreto de classe **C55 a C90**, reduzir em **50%** os espaçamentos máximos dos estribos, com ganchos dobrados a pelo menos 135°. Concreto de alta resistência rompe de forma mais frágil; estribos mais próximos confinam melhor o núcleo e seguram as barras longitudinais contra a flambagem.\n\nPara referência, o espaçamento máximo normal dos estribos de pilar é o menor entre 200 mm, a menor dimensão da seção e 12φ da barra longitudinal para CA-50 (24φ para CA-25).\n\n**As outras:**\n- *20%*: redução pequena demais; não é o valor da norma.\n- *40%*: também não é o valor normativo.\n- *60%*: exagera a redução; o recomendado é a metade.\n\n**Para memorizar:** pilar de C55 a C90: estribos com metade do espaçamento máximo e ganchos de 135°."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Com relação às fundações, em muitos casos, cada tipo de estaca deverá possuir concretos com características específicas. Com base nos requisitos normativos, que indica as características do concreto que é utilizado em estacas do tipo hélice de deslocamento monitorada, podemos afirmar que:",
+   "alternativas": [
+    "Nos concreto com classificação C30, o consumo mínimo de cimento de 350 kg/m3 e fator a/c ≤ 0,6.",
+    "Nos concreto com classificação C40, o consumo mínimo de cimento de 400 kg/m3 e fator a/c ≤ 0,40.",
+    "Para o C30, o abatimento ficará entre 180 mm e 220 mm (S 220), diâmetro de agregado de 4,75 mm a 12,5 mm e teor de exsudação inferior a 6 %.",
+    "Para o C40, o abatimento ficara entre 220 mm e 260 mm (S 220), diâmetro de agregado de 4,75 mm a 12,5 mm e teor de exsudação inferior a 4 %."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Para o C40, o abatimento ficara entre 220 mm e 260 mm (S 220)…\":** o anexo da **NBR 6122:2019** dedicado à estaca **hélice de deslocamento monitorada** pede, tanto para o C30 quanto para o C40, abatimento entre **220 e 260 mm** (classe S220), agregado de **4,75 a 12,5 mm** e exsudação **inferior a 4%**. É um concreto muito fluido e de agregado miúdo porque é bombeado pelo trado e a armadura é introduzida depois da concretagem. Pela Tabela 4 da norma, o C30 atende às classes de agressividade I e II, e o C40 às classes III e IV.\n\n**As outras:**\n- *Nos concreto com classificação C30, o consumo mínimo de cimento de 350 kg/m3…*: para a banca, está errada (ver o ponto discutível abaixo).\n- *Nos concreto com classificação C40, o consumo mínimo de cimento de 400 kg/m3 e fator a/c ≤ 0,40.*: na recomendação de dosagem da norma, o C40 tem consumo mínimo de 350 kg/m³ e a/c ≤ 0,45.\n- *Para o C30, o abatimento ficará entre 180 mm e 220 mm (S 220)…6 %.*: a faixa de 180 a 220 mm nem pertence à classe S220; o certo é 220 a 260 mm e exsudação abaixo de 4%.\n\nPonto discutível: na versão corrigida da NBR 6122 em circulação, a recomendação de dosagem para o C30 é justamente consumo mínimo de 350 kg/m³ e a/c ≤ 0,60, o que tornaria a primeira alternativa também correta; a banca manteve só a do C40."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "O valor do rumo, na referência I (AB), conforme apresentado na figura é:",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q30.webp",
+   "alternativas": [
+    "SE: 40°",
+    "SE: 50°",
+    "NS: 140°",
+    "NS: 220°"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"SE: 40°\":** **rumo** é o menor ângulo entre a direção e a linha **Norte-Sul**, de 0° a 90°, acompanhado do quadrante (NE, SE, SW ou NW). Na figura, o ângulo de 40° está em B, entre o Norte de B e a linha BA: a direção BA aponta para **NW 40°**. A direção AB é a oposta (a ré): de A para B o caminho desce e vai para a direita, no quadrante **SE**, com o mesmo ângulo. Rumo de AB = **SE 40°**, o que equivale a um azimute de 140°.\n\n**As outras:**\n- *SE: 50°*: 50° é o complemento de 40°, medido a partir da linha Leste-Oeste; o rumo se mede a partir do Norte ou do Sul.\n- *NS: 140°*: 140° é o **azimute** de AB (medido a partir do Norte, no sentido horário), não o rumo; e \"NS\" não é quadrante.\n- *NS: 220°*: 220° seria o azimute de uma direção no quadrante SW; também não é rumo.\n\n**Para memorizar:** rumo vai de 0° a 90° com quadrante (SE 40°); azimute vai de 0° a 360° a partir do Norte (140°). No quadrante SE, azimute = 180° − rumo."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Assinale a alternativa que indica os tipos de tubos, conforme apresentado na figura abaixo, do sistema de separação atmosférica de prevenção contra refluxo utilizado em reservatórios superiores.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q31.webp",
+   "alternativas": [
+    "I: Extravasor; II: Recalque.",
+    "I: Recalque; II: Extravasor.",
+    "I: Extravasor: II: Ventilador.",
+    "I: Ventilador; II: Extravasor."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I: Recalque; II: Extravasor.\":** na figura (da NBR 5626), o tubo **I** entra no reservatório pelo alto e despeja a água de cima: é a tubulação que **alimenta** o reservatório superior, aqui chamada de recalque porque vem da bomba. O tubo **II** está na altura do nível máximo da água: é o **extravasor** (ladrão), que leva embora o excesso e define o nível de transbordamento. A **separação atmosférica** é a distância vertical (S) entre a saída da alimentação e esse nível: um espaço de ar que impede a água do reservatório de voltar para a tubulação (refluxo) quando falta pressão na rede.\n\n**As outras:**\n- *I: Extravasor; II: Recalque.*: inverte os tubos; o extravasor fica no nível máximo da água, e a entrada fica acima dele.\n- *I: Extravasor: II: Ventilador.*: o tubo I é a entrada de água, e o tubo II, na altura do nível máximo, retira o excesso; nenhum dos dois é ventilação.\n- *I: Ventilador; II: Extravasor.*: acerta o extravasor, mas o tubo I é a alimentação.\n\n**Para memorizar:** a boca de entrada de água fica sempre acima do nível de transbordamento (definido pelo extravasor); essa folga de ar é a separação atmosférica."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Medindo-se uma figura retangular sobre uma planta em escala 1:200, obtiveram-se lados de 12 e 7,5 cm. Identifique a alternativa que apresenta a superfície do terreno que o retângulo representa.",
+   "alternativas": [
+    "180 m²",
+    "240 m²",
+    "360 m²",
+    "480 m²"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"360 m²\":** na escala 1:200, cada 1 cm do desenho vale 200 cm = 2 m no terreno. Lados reais: 12 cm × 2 = **24 m** e 7,5 cm × 2 = **15 m**. Área: 24 × 15 = **360 m²**. Outro caminho: a área no papel é 12 × 7,5 = 90 cm²; como a área varia com o **quadrado** da escala, 90 × 200² = 3.600.000 cm² = 360 m².\n\n**As outras:**\n- *180 m²*: é o que sai convertendo só um dos lados (24 m × 7,5 m), erro comum.\n- *240 m²*: não corresponde a nenhuma conversão correta.\n- *480 m²*: também não sai da escala 1:200.\n\n**Para memorizar:** escala linear 1:E → áreas multiplicadas por E². Em 1:200, 1 cm² no papel = 4 m² no terreno (90 cm² × 4 = 360 m²)."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licenciamento-ambiental",
+   "enunciado": "Durante o processo executivo de uma obra há necessidade de dispor das licenças ambientais para que alguns empreendimentos sejam executados de acordo com as leis ambientais. A respeito do tipo de licença e seus prazos, com base na legislação atual é correto afirmar que:",
+   "alternativas": [
+    "Licença de Instalação: Antes do início da execução da obra, a qual terá prazo de validade, no mínimo, o estabelecido pelo cronograma de instalação do empreendimento ou atividade, não podendo ser superior a 6 anos.",
+    "Licença Prévia: Concedida na fase preliminar do planejamento do empreendimento ou atividade aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação, com prazo de validade mínimo de 6 anos.",
+    "Licença de Operação: Após o início do funcionamento do empreendimento, a qual deverá considerar os planos de controle ambiental e será de, no mínimo, 4 anos e, no máximo, 12 anos.",
+    "Na renovação da Licença de Operação de uma atividade ou empreendimento, o órgão ambiental competente poderá, mediante decisão motivada, aumentar ou diminuir o seu prazo de validade, após avaliação do desempenho ambiental da atividade ou empreendimento no período de vigência anterior, respeitados o limite de 10 anos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Licença de Instalação: Antes do início da execução da obra…\":** pela **Resolução CONAMA 237/1997, art. 18**, regra em vigor na data da prova, a **LI** vale, no mínimo, o prazo do cronograma de instalação do empreendimento, **sem passar de 6 anos**. A LI é a licença que autoriza o início da obra, por isso é obtida antes da execução.\n\n**As outras:**\n- *Licença Prévia…com prazo de validade mínimo de 6 anos.*: a descrição da LP está certa, mas o prazo não: era, no mínimo, o do cronograma de elaboração dos planos e projetos, com **máximo de 5 anos**.\n- *Licença de Operação…no mínimo, 4 anos e, no máximo, 12 anos.*: o máximo era **10 anos**; e a LO é obtida antes de começar a operar, não depois.\n- *Na renovação da Licença de Operação…respeitados o limite de 10 anos.*: o § 3º do art. 18 manda respeitar os limites do inciso III, ou seja, **4 a 10 anos**; a alternativa cita só o teto.\n\nPonto discutível: a frase da renovação quase repete o § 3º e só omite o mínimo de 4 anos; a banca a tratou como errada por estar incompleta.\n\nDepois da prova, a **Lei 15.190/2025** (Lei Geral do Licenciamento Ambiental) mudou os prazos: LP e LI passaram a valer de 3 a 6 anos, e a LO de 5 a 10 anos.\n\n**Para memorizar (CONAMA 237):** LP até 5 anos, LI até 6, LO de 4 a 10."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "A partir da aplicação geral das linhas, indicadas na figura abaixo, em desenhos técnicos de acordo com as instruções normativas e técnicas, podemos afirmar que:",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q34.webp",
+   "alternativas": [
+    "J: Planos de corte; K: Linhas de centro.",
+    "J: Linhas de centro; K: Linhas de simetrias.",
+    "J: Contorno de peças adjacentes; K: Arestas não visíveis.",
+    "J: Superfícies com indicação especial; K: Contorno de peças adjacentes."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"J: Superfícies com indicação especial; K: Contorno de peças adjacentes.\":** na **NBR 8403**, cada tipo de linha tem uma letra. **J** é a linha **traço e ponto larga**, usada para indicar linhas ou superfícies com indicação especial (por exemplo, uma área que recebe tratamento). **K** é a linha **traço e dois pontos estreita**, usada para contornos de peças adjacentes, posição-limite de peças móveis, linhas de centro de gravidade e detalhes situados antes do plano de corte. A figura mostra exatamente essas duas: J grossa com um ponto, K fina com dois pontos.\n\n**As outras:**\n- *J: Planos de corte; K: Linhas de centro.*: plano de corte é a linha **H** (traço e ponto estreita, larga nas extremidades e nas mudanças de direção); linha de centro é a **G** (traço e ponto estreita).\n- *J: Linhas de centro; K: Linhas de simetrias.*: centro e simetria são ambas da linha **G**, fina com um ponto.\n- *J: Contorno de peças adjacentes; K: Arestas não visíveis.*: contorno de peça adjacente é a K; aresta não visível se desenha **tracejada** (E ou F).\n\n**Para memorizar:** um ponto e fina = centro ou simetria; um ponto e grossa = indicação especial; dois pontos = peça vizinha ou posição-limite; tracejado = o que não se vê."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Determine a alternativa que apresenta os dois compostos do cimento que reagem, primeiramente, durante o processo de pega do concreto.",
+   "alternativas": [
+    "C₂S e C₃A",
+    "C₃Ae C₃S",
+    "C₂S e C₃S",
+    "C₄AF e C₃S"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"C₃Ae C₃S\":** quando o cimento recebe água, o **aluminato tricálcico (C₃A)** é o primeiro a reagir, de forma muito rápida e liberando bastante calor; sem o gesso adicionado na moagem, ele causaria a \"pega instantânea\". Logo em seguida reage o **silicato tricálcico (C₃S)**, que comanda o fim da pega e o ganho de resistência nas primeiras idades. Esses dois são os compostos que \"puxam\" a pega.\n\n**As outras:**\n- *C₂S e C₃A*: o C₃A está certo, mas o **silicato dicálcico (C₂S)** reage devagar e responde pela resistência em idades avançadas (semanas e meses).\n- *C₂S e C₃S*: inclui o C₂S, que é o mais lento.\n- *C₄AF e C₃S*: o **ferroaluminato tetracálcico (C₄AF)** contribui pouco para a pega e para a resistência; é ele que dá a cor cinza ao cimento.\n\n**Para memorizar:** C₃A = pega (controlada pelo gesso); C₃S = resistência inicial; C₂S = resistência final; C₄AF = cor e pouca resistência."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Os requisitos para execução de alvenarias estruturais, conforme as normas técnicas específicas são:",
+   "alternativas": [
+    "A produção do graute deve ser feita de modo a assegurar o valor característico especificado no projeto e de acordo com os ensaios de controle de obra. São considerados estruturais e aplicáveis à alvenaria estrutural grautes com resistência a partir de 20 MPa.",
+    "Caso seja utilizado cal, o teor não pode ser superior a 15% em volume em relação ao cimento; os agregados devem ter dimensão inferior a ¼ da menor dimensão dos blocos vazados a serem preenchidos.",
+    "É considerado lote para efeito do controle de qualidade da argamassa e do graute a condição mais restritiva dos seguintes limites: 600 m² de área construída em planta; dois pavimentos para construções com blocos ou tijolos de fbk menor ou igual a 6 MPa.",
+    "O graute deve ser utilizado dentro de 2 h 30 min, contadas a partir da adição do aditivo e da água, a não ser que seja utilizado um aditivo retardador de pega."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"É considerado lote para efeito do controle de qualidade da argamassa e do graute…\":** a norma de execução e controle de alvenaria estrutural (**NBR 16868-2**) divide a obra em **lotes** para o controle da argamassa e do graute. Cada lote é limitado pela condição **mais restritiva** entre uma área construída em planta e um número de pavimentos, para que cada série de ensaios represente uma parte pequena da obra. A alternativa reproduz esse critério, segundo o gabarito oficial.\n\n**As outras:**\n- *A produção do graute deve ser feita de modo a assegurar o valor característico…a partir de 20 MPa.*: a primeira frase está correta; para a banca, o erro está no piso de resistência indicado para o graute ser considerado estrutural.\n- *Caso seja utilizado cal, o teor não pode ser superior a 15%…¼ da menor dimensão…*: os limites de cal e de tamanho do agregado foram alterados. A ideia da regra é que o agregado seja pequeno o bastante para o graute preencher todo o furo do bloco sem travar.\n- *O graute deve ser utilizado dentro de 2 h 30 min, contadas a partir da adição do aditivo e da água…*: para a banca, a regra do prazo de uso foi distorcida na forma de contar e na exceção.\n\n**Para memorizar:** em alvenaria estrutural, o controle é feito por lote (área ou pavimentos, o que for mais restritivo), e o graute é um concreto fluido de agregado miúdo que solidariza bloco e armadura."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "As chaves elétricas de alimentação das bombas de incêndio devem ser sinalizadas com inscrições específicas, para dar maior atenção as pessoas e/ou usuários que acessam as áreas que as mesmas estiverem instaladas. Diante deste contexto, identifique a alternativa que apresenta a inscrição, conforme requisitos normativos, que deverá estar indicada nas chaves elétricas de alimentação das bombas de incêndio.",
+   "alternativas": [
+    "“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO - NÃO DESLIGUE”.",
+    "“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO - CUIDADO”.",
+    "“ALIMENTAÇÃO DE EQUIPAMENTOS - NÃO DESLIGUE”.",
+    "“ALIMENTAÇÃO DE EQUIPAMENTOS - CUIDADO”."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO - NÃO DESLIGUE”.\":** a **NBR 13714** (sistemas de hidrantes e de mangotinhos para combate a incêndio) exige que as chaves elétricas de alimentação das bombas de incêndio tragam essa inscrição. A alimentação da bomba também deve ser independente do consumo geral do prédio, para que o desligamento geral da energia (feito, por exemplo, pelos bombeiros no combate) não deixe os hidrantes sem pressão. A placa existe para ninguém desligar por engano a única chave que precisa continuar ligada.\n\n**As outras:**\n- *“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO - CUIDADO”.*: identifica a bomba, mas \"cuidado\" não diz o essencial: a chave não pode ser desligada.\n- *“ALIMENTAÇÃO DE EQUIPAMENTOS - NÃO DESLIGUE”.*: genérica; quem vê a chave não sabe que ela alimenta a bomba de incêndio.\n- *“ALIMENTAÇÃO DE EQUIPAMENTOS - CUIDADO”.*: erra nas duas partes.\n\n**Para memorizar:** a placa diz o quê (bomba de incêndio) e o que fazer (não desligue)."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Durante a elaboração de projetos hidráulicos de estações de tratamento de esgoto é possível optar por diferentes processos de dimensionamento, entre os quais, o processo biológico com biomassa suspensa – Lodo ativado. Com base nos requisitos técnicos e normativos para elaboração de projetos de tratamento de esgoto, assinale a alternativa correta.",
+   "alternativas": [
+    "A remoção adicional de fósforo pode ser obtida com a aplicação de produtos químicos adequados, por exemplo, após a clarificação do efluente em decantadores secundários em sistemas de operação contínua.",
+    "Em ETE com vazão superior a 100 L/s, recomenda-se mais de uma linha de reatores biológicos operando em série.",
+    "O tempo de detenção hidráulica pode ser utilizados como parâmetro determinante no dimensionamento dos reatores biológicos.",
+    "O tratamento por processos de lodo ativado deve ser precedido pelo menos por remoção de sólidos grosseiros e areia."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O tratamento por processos de lodo ativado deve ser precedido pelo menos por remoção de sólidos grosseiros e areia.\":** a **NBR 12209** (projeto hidráulico-sanitário de estações de tratamento de esgoto) exige que o lodo ativado tenha antes, no mínimo, o **tratamento preliminar**: gradeamento (sólidos grosseiros) e desarenação (areia). Sem isso, trapos e areia entopem bombas, desgastam aeradores e se acumulam no tanque de aeração.\n\n**As outras:**\n- *A remoção adicional de fósforo pode ser obtida…após a clarificação do efluente em decantadores secundários…*: para a banca, o ponto de aplicação foi alterado. O fosfato precipitado com sais de ferro ou alumínio precisa ser separado; dosar depois do decantador secundário exigiria outra unidade de separação.\n- *Em ETE com vazão superior a 100 L/s, recomenda-se mais de uma linha de reatores biológicos operando em série.*: a lógica da norma é dividir em linhas que operam em **paralelo**, para poder parar uma em manutenção sem parar a estação.\n- *O tempo de detenção hidráulica pode ser utilizados como parâmetro determinante…*: no lodo ativado o volume do reator é definido pela **idade do lodo** e pela relação alimento/microrganismo; o tempo de detenção é consequência, não parâmetro determinante.\n\n**Para memorizar:** lodo ativado: grade e caixa de areia antes; idade do lodo manda no dimensionamento; linhas em paralelo."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "seguranca-trabalho",
+   "enunciado": "Assinale a alternativa que apresenta os requisitos que deverão ser atendido na montagem de canteiros de obras, segundo a NR 18.",
+   "alternativas": [
+    "Antes da utilização de contêiner de transporte de cargas em espaços para áreas de vivência, os mesmos deverão ser limpos e revestidos com materiais apropriados como, por exemplo, madeira, considerando ainda: A instalação sanitária deve ser constituída de lavatório, bacia sanitária sifonada, na proporção de 1 conjunto para cada grupo de 20 trabalhadores.",
+    "É obrigatório o fornecimento de água potável, filtrada e fresca para os trabalhadores, no canteiro de obras, nas frentes de trabalho e nos alojamentos, por meio de bebedouro ou outro dispositivo equivalente, na proporção de 1 unidade para cada grupo de 25 trabalhadores ou fração, sendo vedado o uso de copos coletivos. Além disso, no fornecimento da água potável, o deslocamento máximo permitido para os trabalhadores será de 100 m.",
+    "Os canteiros de obras devem estar protegidos por Sistema de Proteção contra Descargas Atmosféricas - SPDA, projetado, construído e mantido conforme normas técnicas nacionais vigentes e as áreas de transformadores e salas de controle e comando devem ser separadas por barreiras físicas, sinalizadas e protegidas contra o acesso de pessoas autorizadas.",
+    "Cabe ao empregador prover instalação sanitária contendo vaso sanitário e lavatório, a uma distância máxima de 50 m do posto de trabalho do operador do equipamento, por exemplo, gruas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Cabe ao empregador prover instalação sanitária contendo vaso sanitário e lavatório, a uma distância máxima de 50 m…\":** é o item **18.10.1.41 da NR-18**, na parte de gruas e equipamentos de guindar: o operador passa o turno na cabine, então o empregador deve garantir vaso sanitário e lavatório a no máximo **50 m** do posto dele; se for impossível, deve dar ao menos 4 intervalos por turno (18.10.1.41.1).\n\n**As outras:**\n- *Antes da utilização de contêiner de transporte de cargas em espaços para áreas de vivência…*: a NR-18 **proíbe** reutilizar em área de vivência contêiner de transporte de cargas (18.17.2); e o conjunto sanitário do 18.5.3 inclui **mictório** (1 para cada 20 trabalhadores ou fração).\n- *É obrigatório o fornecimento de água potável…deslocamento máximo…100 m.*: a primeira parte repete o 18.5.6, mas o 18.5.6.1 limita o deslocamento até o bebedouro a 100 m **no plano horizontal e 15 m no plano vertical**; a alternativa ficou incompleta.\n- *Os canteiros de obras devem estar protegidos por Sistema…pessoas autorizadas.*: o 18.6.16 diz pessoas **não autorizadas**; tiraram o \"não\".\n\nPonto discutível: a alternativa da água só omite o limite vertical; a banca a tratou como errada por estar incompleta.\n\n**Para memorizar:** NR-18: sanitário até 150 m do posto; bebedouro até 100 m na horizontal e 15 m na vertical; sanitário do operador de grua até 50 m."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fundacoes",
+   "enunciado": "Marque a alternativa que apresenta o coeficiente de uniformidade, para a curva A e o diâmetro efetivo, para a curva B, conforme apresentado na figura.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q40.webp",
+   "alternativas": [
+    "Diâmetro efetivo A: ~ 0,015 mm; Coeficiente de uniformidade de B: ~ 55.",
+    "Diâmetro efetivo A: ~ 0,025 mm; Coeficiente de uniformidade de B: ~ 65.",
+    "Diâmetro efetivo A: ~ 0,035 mm; Coeficiente de uniformidade de B: ~ 75.",
+    "Diâmetro efetivo A: ~ 0,045 mm; Coeficiente de uniformidade de B: ~ 85."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O motivo provável é a incoerência entre enunciado e alternativas: o enunciado pede o coeficiente de uniformidade da curva A e o diâmetro efetivo da curva B, mas todas as alternativas trazem o contrário (diâmetro efetivo de A e coeficiente de B). Além disso, ler valores tão próximos (0,015 a 0,045 mm) numa escala logarítmica impressa é impreciso.\n\nO assunto: o **diâmetro efetivo (D10)** é o diâmetro correspondente a 10% passante na curva granulométrica. O **coeficiente de uniformidade** é **Cu = D60/D10**. Quanto maior o Cu, mais desuniforme (bem graduado) é o solo; na classificação usada por Caputo, Cu menor que 5 indica solo muito uniforme, entre 5 e 15 uniformidade média e acima de 15 solo desuniforme. Na figura, a curva C, quase vertical, é de um solo muito uniforme; A e B, mais deitadas, são bem graduadas.\n\n**Para memorizar:** D10 = diâmetro efetivo; Cu = D60/D10; curva em pé = solo uniforme; curva deitada = solo bem graduado."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "orcamento-obras",
+   "enunciado": "Durante o desenvolvimento de orçamentos e cronogramas de obras é possível utilizar algumas técnicas a fim de obter com mais rapidez e precisão as informações necessárias para o desenvolvimento de um planejamento físico-financeiro, com base em algumas técnicas específicas que ajudam na determinação dos prazos. Considerando os métodos de estimativa, assinale a alternativa correta.",
+   "alternativas": [
+    "Estimativa Análoga é uma técnica de estimativa de duração ou custo de uma atividade ou de um projeto que usa dados históricos de uma atividade ou projeto semelhante, produzindo resultados mais exatos.",
+    "Estimativa Paramétrica é uma técnica de estimativa em que um algoritmo e usado para calcular o custo ou a duração com base em dados históricos e informações de projeto sendo considerada uma técnica menos dispendiosa.",
+    "Estimativa de 3 pontos (tE) é uma técnica a qual a exatidão das estimativas de duração de ponto único pode ser melhorada, considerando-se o risco e a incerteza da estimativa. Usar estimativas de três pontos ajuda a definir uma faixa aproximada para a duração de uma atividade: Mais provável (tM), Pessimista (tP) e Otimista (tO), através da seguinte expressão: tE = (tM+3.M+tP)/3 (distribuição triangula.",
+    "Estimativa por Tomada de Decisão é uma técnica com uma variação do método de votação que e frequentemente usada em projetos ágeis e chamada de “punho de cinco”."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Estimativa por Tomada de Decisão é uma técnica com uma variação do método de votação…\":** no **Guia PMBOK** (6ª edição), entre as ferramentas de estimativa de duração está a **tomada de decisão**, por exemplo por votação. Uma variação da votação muito usada em projetos ágeis é o **punho de cinco** (fist of five): cada pessoa mostra de zero a cinco dedos para indicar o quanto apoia a estimativa, e quem mostra poucos dedos explica suas objeções antes de nova rodada.\n\n**As outras:**\n- *Estimativa Análoga…produzindo resultados mais exatos.*: a análoga usa dados de projeto semelhante e é rápida e barata, mas costuma ser **menos exata**.\n- *Estimativa Paramétrica…sendo considerada uma técnica menos dispendiosa.*: a paramétrica usa uma relação estatística (algoritmo) entre dados históricos e variáveis, como m² × produtividade, e pode ser bem **exata**; \"menos dispendiosa\" é a marca da análoga.\n- *Estimativa de 3 pontos…tE = (tM+3.M+tP)/3…*: a fórmula está errada. Na distribuição triangular, **tE = (tO + tM + tP)/3**; na distribuição beta (PERT), tE = (tO + 4tM + tP)/6.\n\n**Para memorizar:** análoga = rápida e imprecisa; paramétrica = algoritmo e exata; três pontos: triangular divide por 3, beta pesa 4 no mais provável e divide por 6."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Conforme apresentado na figura abaixo, determine a alternativa que indica os esforços presentes na viga que geraram os tipos de fissuras apresentados e que tipo de armadura ajudaria na eliminação destas fissuras.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q42.webp",
+   "alternativas": [
+    "Flexão e compreensão, a armadura positiva ajuda na redução das fissuras por tração.",
+    "Flexão e esforço cortante, os estribos ajudam na redução das fissuras a 45°.",
+    "Flexão e torção, a armadura superior (armação) ajuda a evitar as fissuras longitudinais.",
+    "Flexão e tração, a armadura superior e inferior longitudinal ajuda a evitar fissuras por tração."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Não há justificativa publicada junto ao gabarito. Pela figura (de Souza e Ripper), a viga tem fissuras em leque na face inferior, no meio do vão, típicas de **flexão** (tração na fibra de baixo), e fissuras horizontais na face superior, que indicam **esmagamento do concreto comprimido**. A alternativa que mais se aproxima (\"flexão e compressão\") vem com erro de redação e as demais não descrevem esse quadro; o provável motivo é a falta de uma resposta correta bem formulada.\n\nO assunto: na flexão, a face tracionada fissura na vertical no meio do vão, e quem combate é a **armadura longitudinal de tração** (a positiva, embaixo, em viga biapoiada). O **esforço cortante** gera fissuras inclinadas a cerca de 45° perto dos apoios, combatidas pelos **estribos**. A **torção** gera fissuras em hélice em volta da peça, combatidas por estribos fechados e barras longitudinais distribuídas no contorno. Fissuras horizontais na face comprimida mostram concreto perto de romper por compressão (peça superarmada ou sobrecarregada).\n\n**Para memorizar:** vertical no meio do vão = flexão; 45° perto do apoio = cortante; espiral = torção; horizontal na face comprimida = esmagamento."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Considerando as características e operação dos Sistemas de Posicionamento Global (GPS), indique a alternativa correta.",
+   "alternativas": [
+    "Cada satélite GPS transmite duas ondas portadoras: C e D. Elas são geradas a partir da frequência fundamental de 10,23 MHz, a qual é multiplicada por 154 e 120, respectivamente.",
+    "O segmento espacial consiste de pelo menos 24 satélites distribuídos em quatro planos orbitais igualmente espaçados, com seis satélites em cada plano, numa altitude aproximada de 20200 km.",
+    "Os planos orbitais são inclinados 55º em relação ao equador e o período orbital é de aproximadamente 12 horas siderais. Essa configuração garante que, no mínimo, quatro satélites GPS sejam visíveis em qualquer local da superfície terrestre, a qualquer hora.",
+    "O código P (Precise or Protected) tem sido reservado para uso comercial e usuários autorizados. Ele é transmitido com frequência fo de 100,23 MHz, resultando num comprimento de onda da ordem."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Os planos orbitais são inclinados 55º em relação ao equador…\":** a constelação GPS foi projetada com órbitas inclinadas **55°** em relação ao equador, a cerca de **20.200 km** de altitude, com período de aproximadamente **12 horas siderais** (cada satélite dá duas voltas por dia sideral). Com essa geometria há sempre pelo menos **quatro satélites** visíveis em qualquer ponto da Terra, a qualquer hora: o mínimo para calcular a posição (x, y, z) e o erro do relógio do receptor.\n\n**As outras:**\n- *Cada satélite GPS transmite duas ondas portadoras: C e D…*: as portadoras originais se chamam **L1 e L2**. Os multiplicadores estão certos: 154 × 10,23 MHz = 1.575,42 MHz (L1) e 120 × 10,23 MHz = 1.227,60 MHz (L2).\n- *O segmento espacial consiste de pelo menos 24 satélites distribuídos em quatro planos…*: são **seis planos** orbitais com **quatro** satélites em cada um; a alternativa inverteu os números.\n- *O código P (Precise or Protected) tem sido reservado para uso comercial…*: o código P é reservado a uso **militar** e a usuários autorizados, e é transmitido em **10,23 MHz** (comprimento de onda de cerca de 30 m), não 100,23 MHz. O código de uso civil é o C/A.\n\n**Para memorizar:** GPS: 24 satélites, 6 planos × 4, inclinação de 55°, cerca de 20.200 km e 12 h; L1 = 154 × f₀ e L2 = 120 × f₀, com f₀ = 10,23 MHz."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Marque a alternativa que apresenta os tipos de alturas de recalque em sistemas de bombeamento de água fria e suas características, conforme apresentado na figura.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q44.webp",
+   "alternativas": [
+    "I: Altura estática de recalque (Hr); III: Altura geométrica (Hg); II: Altura estática de sucção (Hs); será considerada sucção positiva quando Hr = Hg-Hs.",
+    "I: Altura estática de recalque (Hr); III: Altura geométrica (Hg); II: Altura estática de sucção (Hs); será considerada sucção positiva quando Hr = Hg+Hs.",
+    "III: Altura estática de recalque (Hr); I: Altura geométrica (Hg); II: Altura estática de sucção (Hs); será considerada sucção positiva quando Hg = Hr-Hs.",
+    "III: Altura estática de recalque (Hr); I: Altura geométrica (Hg); II: Altura estática de sucção (Hs); será considerada sucção positiva quando Hg = Hr+Hs."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"III: Altura estática de recalque (Hr); I: Altura geométrica (Hg)…Hg = Hr-Hs.\":** na figura, **I** vai do nível da água de onde a bomba puxa até o nível do reservatório: é a **altura geométrica (Hg)**, o desnível total a vencer. **III** vai do eixo da bomba até o reservatório: **altura estática de recalque (Hr)**. **II** fica entre o eixo da bomba e o nível da água de captação: **altura estática de sucção (Hs)**. Com a bomba acima da água (sucção negativa, como no desenho), Hg = Hr + Hs. Com a água acima do eixo da bomba (bomba **afogada**, sucção positiva), parte do desnível já está vencida pela água de captação, e **Hg = Hr − Hs**.\n\n**As outras:**\n- *I: Altura estática de recalque (Hr); III: Altura geométrica (Hg)…Hr = Hg-Hs.*: troca I e III; o desnível total é a cota maior (I).\n- *I: Altura estática de recalque (Hr); III: Altura geométrica (Hg)…Hr = Hg+Hs.*: mesma troca.\n- *III: Altura estática de recalque (Hr); I: Altura geométrica (Hg)…Hg = Hr+Hs.*: a identificação está certa, mas essa soma vale para sucção **negativa** (bomba acima do nível d'água).\n\n**Para memorizar:** bomba acima da água: Hg = Hr + Hs; bomba afogada: Hg = Hr − Hs."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Assinale a alternativa que apresenta o diagrama de tensão com base nas informações apresentadas na figura abaixo.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q45.webp",
+   "alternativas": [
+    "![Alternativa A](data/provas/img/idecan-2024-caern-eng-civil/q45-a.webp)",
+    "![Alternativa B](data/provas/img/idecan-2024-caern-eng-civil/q45-b.webp)",
+    "![Alternativa C](data/provas/img/idecan-2024-caern-eng-civil/q45-c.webp)",
+    "![Alternativa D](data/provas/img/idecan-2024-caern-eng-civil/q45-d.webp)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que o diagrama com a tensão no aço máxima nas fissuras:** na barra de aço embutida no concreto e tracionada, na seção de cada **fissura** o concreto não resiste a nada, então **toda a força T passa pelo aço**: a tensão no aço é **máxima** ali e a tensão no concreto é **zero**. Entre duas fissuras, a **aderência** transfere parte da força do aço para o concreto: a tensão no aço cai e a do concreto sobe até um patamar no meio do trecho. A tensão de aderência só existe onde há essa troca: é nula no meio do trecho e muda de sentido de um lado para o outro de cada fissura, formando uma curva em onda. É o conjunto que mostra aço com picos nas fissuras, concreto em patamar entre elas e aderência ondulada.\n\n**As outras:**\n- *diagrama com o aço em patamar e o concreto em onda*: dá ao aço o comportamento do concreto (zerando nas fissuras), o que é impossível, porque o aço é o único material que atravessa a fissura.\n- *diagrama com o aço com picos, o concreto em onda e a aderência em patamar*: o aço está certo, mas troca os diagramas do concreto e da aderência.\n- *diagrama com o aço em onda*: a tensão no aço não muda de sinal; a barra inteira está tracionada.\n\n**Para memorizar:** na fissura, aço no máximo e concreto zero; entre fissuras, a aderência devolve tensão ao concreto."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "O diagrama correto, quanto ao modo de flambagem do banzo superior no sentido horizontal no ponto de análise indicado da figura da estrutura de cobertura em madeira é:",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q46.webp",
+   "alternativas": [
+    "![Alternativa A](data/provas/img/idecan-2024-caern-eng-civil/q46-a.webp)",
+    "![Alternativa B](data/provas/img/idecan-2024-caern-eng-civil/q46-b.webp)",
+    "![Alternativa C](data/provas/img/idecan-2024-caern-eng-civil/q46-c.webp)",
+    "![Alternativa D](data/provas/img/idecan-2024-caern-eng-civil/q46-d.webp)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que o diagrama com uma única meia-onda curvada para baixo:** o banzo superior da treliça é **comprimido** e, no plano horizontal (o plano do telhado), só fica impedido de se deslocar nos pontos ligados ao **contraventamento**: as terças amarradas ao contraventamento no plano do telhado e os apoios contraventados entre pilares. Entre dois pontos travados, a barra comprimida flamba como peça biarticulada, em **uma única meia-onda** (curva sem ponto de inflexão), e o comprimento de flambagem é a distância entre esses pontos. A banca escolheu a meia-onda desenhada para baixo.\n\n**As outras:**\n- *meia-onda curvada para cima*: é o mesmo modo de flambagem, espelhado (ver o ponto discutível).\n- *diagrama com várias ondas curtas*: seria o modo de um banzo travado em muitos pontos intermediários, como se cada terça fosse um apoio fixo.\n- *diagrama com uma onda completa (em S)*: corresponde a um travamento no meio do trecho, que divide a barra em duas meias-ondas de sentidos opostos.\n\nPonto discutível: as duas figuras de meia-onda mostram a mesma forma espelhada, e uma barra comprimida pode flambar para qualquer um dos lados; a escolha entre elas não tem base técnica clara.\n\n**Para memorizar:** comprimento de flambagem lateral do banzo comprimido = distância entre pontos efetivamente contraventados."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Determine a alternativa que apresenta os requisitos técnicos para elaboração de projetos de rede de esgoto segundo as referências normativas.",
+   "alternativas": [
+    "A tubulação de esgoto deverá ficar enterrada no mínimo a uma profundidade de 1,00 m na região da via de tráfego e no mínimo a uma profundidade de 0,65 m na região do passeio.",
+    "A rede coletora deve ser aprofundada para atendimento de economia da cota de soleira do nível da rua, caso nesta rua trafeguem veículos com grande capacidade de carga.",
+    "Em ruas com grande declividade é possível executar a instalação da tubulação, desde que se tenha uma velocidade máxima no coletor de 3 m/s, caso a velocidade seja superior ao valor indicado, deverá ser feita a redução da lâmina admissível para 65 % do diâmetro do coletor.",
+    "A tubulação de esgoto deverá ficar enterrada no mínimo a uma profundidade de 0,65 m na região do passeio e as lâminas d’água devem ser sempre calculadas admitindo o escoamento em regime uniforme permanente com valor máximo da vazão final igual o inferior a 75% do diâmetro do coletor."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A tubulação de esgoto deverá ficar enterrada no mínimo a uma profundidade de 0,65 m na região do passeio…\":** a **NBR 9649** (projeto de redes coletoras de esgoto sanitário) fixa recobrimento mínimo de **0,65 m** no passeio e de **0,90 m** no leito de via de tráfego. Também manda calcular as lâminas d'água em **regime uniforme e permanente**, com lâmina máxima de **75% do diâmetro** para a vazão final, o que deixa espaço para ventilação do coletor e para picos de vazão.\n\n**As outras:**\n- *…1,00 m na região da via de tráfego…*: na via, o recobrimento mínimo é 0,90 m.\n- *A rede coletora deve ser aprofundada para atendimento de economia da cota de soleira…*: é o contrário: a rede **não deve** ser aprofundada para atender imóvel com soleira abaixo do nível da rua; esses casos têm solução própria, como bombeamento no lote.\n- *Em ruas com grande declividade…velocidade máxima no coletor de 3 m/s…65 %…*: a velocidade máxima é **5 m/s**; e, quando a velocidade final passa da velocidade crítica, a lâmina máxima cai para **50%** do diâmetro.\n\n**Para memorizar:** NBR 9649: recobrimento de 0,90 m na rua e 0,65 m no passeio; lâmina até 75% (ou 50% acima da velocidade crítica); velocidade até 5 m/s."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Considerando o rendimento da bomba, indicada no gráfico de rendimento da figura abaixo, indique a alternativa que apresenta os valores aproximados da potência da bomba, diâmetro do impelidor, rendimento e a potência absorvida (BHP), considerando uma altura de 25 m e uma vazão de 300 l/min.",
+   "imagem": "data/provas/img/idecan-2024-caern-eng-civil/q48.webp",
+   "alternativas": [
+    "3 HP; 4.3/4’’; 63%; ~2,64 cv",
+    "3 HP; 5.3/8’’; 60%; ~2,25 cv",
+    "7,5 HP; 6.1/16’’; 52%; ~6,15 cv",
+    "10 HP; 6.1/4’’; 55%; ~9,75 cv"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"3 HP; 4.3/4’’; 63%; ~2,64 cv\":** no gráfico, marque a vazão de 300 L/min (logo antes da marca de 303 L/min) e suba até a altura de 25 m (cerca de 82 pés). O ponto cai sobre a curva do rotor de **4 ¾\"** (curva 2), na faixa de rendimento de cerca de **63%**, e abaixo da linha de potência de **3 HP**. Para conferir a potência absorvida: P = γ·Q·H / (75·η). Com Q = 300 L/min = 5 L/s = 0,005 m³/s: P = 1.000 × 0,005 × 25 / (75 × 0,63) = 125 / 47,25 ≈ **2,65 cv**, que bate com os ~2,64 cv. Como fica abaixo de 3 HP, o motor de 3 HP atende.\n\n**As outras:**\n- *3 HP; 5.3/8’’; 60%; ~2,25 cv*: o rotor de 5 ⅜\" (curva 3) dá altura bem maior que 25 m nessa vazão; e, com 60%, a conta daria cerca de 2,8 cv, não 2,25.\n- *7,5 HP; 6.1/16’’; 52%; ~6,15 cv*: motor e rotor muito maiores que o necessário para 25 m e 300 L/min.\n- *10 HP; 6.1/4’’; 55%; ~9,75 cv*: corresponde à faixa de cima do gráfico, com alturas perto de 45 a 49 m.\n\n**Para memorizar:** potência em cv = γ·Q·H / (75·η), com γ em kgf/m³, Q em m³/s e H em m. Rendimento entra dividindo: quanto menor, maior a potência absorvida."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Durante a execução de um aterro de 1,5 m de altura, um engenheiro percebeu que neste aterro poderiam ser realizados ensaios para verificar a qualidade dos serviços executados. Considerando tal situação, marque a alternativa que apresenta os ensaios que este engenheiro deverá realizar com base nos requisitos normativos.",
+   "alternativas": [
+    "Cinco ensaios de compactação para cada 1000 m³ de um mesmo material; para volumes maiores que 9000 m³ deve ser acrescido um ensaio.",
+    "Durante a execução do aterro são necessários pelo menos dois ensaios de determinação da massa especifica aparente seca por dia.",
+    "Ensaio de limite de liquidez e de limite de plasticidade para cada grupo de seis amostras submetidas ao ensaio de determinação de massa especifica aparente seca *in situ*; para volumes maiores que 9000 m³ deve ser acrescido um ensaio.",
+    "Ensaio de granulometria por peneiramento e por sedimentação para cada grupo de quatro amostras submetidas ao ensaio de liquidez e plasticidade; para volumes maiores que 9000 m³ deve ser acrescido um ensaio."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Durante a execução do aterro são necessários pelo menos dois ensaios de determinação da massa especifica aparente seca por dia.\":** a **NBR 5681** (controle tecnológico da execução de aterros em obras de edificações) se aplica, entre outros casos, a aterros com mais de 1 m de altura, como este de 1,5 m. O controle de cada camada compara a **massa específica aparente seca in situ** (medida, por exemplo, pelo frasco de areia) com a máxima obtida no **ensaio de compactação** (Proctor) do mesmo material, o que dá o **grau de compactação**. A norma fixa uma frequência mínima desses ensaios de campo, e a alternativa traz o mínimo diário cobrado pela banca.\n\n**As outras:**\n- *Cinco ensaios de compactação para cada 1000 m³…*: o ensaio de compactação serve de referência para cada tipo de material; a quantidade e o acréscimo por volume da alternativa não são os da norma.\n- *Ensaio de limite de liquidez e de limite de plasticidade para cada grupo de seis amostras…*: os ensaios de caracterização (LL e LP) fazem parte do controle, mas a proporção e o acréscimo citados foram alterados.\n- *Ensaio de granulometria por peneiramento e por sedimentação…*: também troca a proporção entre os ensaios e repete o acréscimo por volume.\n\n**Para memorizar:** controle de aterro = grau de compactação (densidade seca de campo ÷ densidade seca máxima do Proctor), conferido camada por camada."
+  },
+  {
+   "id": "idecan-2024-caern-eng-civil-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Determine a alternativa que apresenta o tipo de parafuso, usado na ligação de estruturas metálicas, o qual é possível identificar sua resistência e tipo, através de três linhas radiais espaçadas de 120° em sua cabeça.",
+   "alternativas": [
+    "A-307",
+    "A-325",
+    "A-390",
+    "A-490"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A-325\":** o **ASTM A325** é o parafuso estrutural de **alta resistência** de aço-carbono temperado, o mais usado em ligações de estruturas metálicas. Além da inscrição \"A325\", ele pode ser identificado por **três traços radiais a 120°** na cabeça, marcação tradicional desse grau. Desde 2016 a ASTM reuniu A325 e A490 na norma F3125, mantendo esses nomes como graus.\n\n**As outras:**\n- *A-307*: parafuso **comum**, de aço de baixo carbono e baixa resistência, usado em ligações secundárias; não tem essa marcação.\n- *A-390*: não é especificação de parafuso estrutural.\n- *A-490*: parafuso de alta resistência de aço-liga temperado, mais resistente que o A325; é identificado pela inscrição \"A490\" na cabeça.\n\n**Para memorizar:** A307 = comum; A325 = alta resistência (aço-carbono); A490 = resistência ainda maior (aço-liga). Em ligação por atrito, só os de alta resistência servem."
+  }
+ ]
+}
