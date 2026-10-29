@@ -42,6 +42,12 @@ Tem três partes:
 
 ## O que mudou
 
+- **29/10/2026 — Gerais no ar, gabarito conferido e progresso no celular.** As 5 disciplinas de Conhecimentos Gerais
+  estão no site (sessão estudos-0a), e o plano liga cada aula a uma semana. A conferência de gabarito das 230 questões
+  de Específicas não achou gabarito errado; foram atualizadas a NBR 9077:2025 (saídas de emergência), a NBR 6122:2019
+  (radier) e a prescrição na improbidade (STF, ADIs 7156 e 7236). Provas digitadas: 21. Novo em Progresso: **Levar
+  para o celular**, um link com o progresso do aparelho para mandar no WhatsApp, abrir no outro aparelho e juntar
+  depois de confirmar, sem configuração.
 - **28/10/2026 — explicações completas.** As 230 questões de Específicas agora têm comentário com "Por que", "As outras" e "Para memorizar" (feito pela estudos-56). Correções: enunciados de esp-0032, 0036 e 0143; RDC 189/2003 trocada por RDC 51/2011 (revogada pelo art. 32 da RDC 51) em esp-0146; aulas de licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024) e EAS (RDC 51/2011) atualizadas.
 - **28/10/2026 — versão 1.1.** 21 provas reais da IDECAN baixadas no Drive pessoal e ligadas ao app; servidor de
   sincronização pelo Drive (Apps Script) pronto para configurar.
@@ -84,7 +90,7 @@ Como acrescentar questões de Específicas: escreva um lote em `references/lotes
 ## O que ainda não está
 
 - **Sincronização pelo Drive:** o servidor está pronto, mas falta (1) o Arthur configurar o Apps Script e (2) o site e o
-  pop-up passarem a usá-lo. Até lá, use Exportar/Importar em Progresso.
+  pop-up passarem a usá-lo. Até lá, use **Levar para o celular** em Progresso (link pelo WhatsApp, sem configurar).
 - Duas provas só existem com cadastro no QConcursos e ficam como link: UERN 2016 e Maracanaú Urbanismo 2023.
   Baixando o PDF, salve na pasta `Provas da IDECAN` com o nome que está em
   `references/provas-catalogo.json` (campo `arquivo` + ` - prova.pdf`/` - gabarito.pdf`) e rode
