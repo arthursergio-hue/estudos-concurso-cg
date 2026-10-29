@@ -1,0 +1,548 @@
+{
+ "id": "portugues",
+ "nome": "Língua Portuguesa",
+ "questoesNaProva": 10,
+ "peso": 1,
+ "nota": "10 questões de peso 1 (10 dos 60 pontos). É preciso fazer pelo menos 1 ponto para não ser eliminado, e Português é o 2º critério de desempate, logo depois das Específicas.",
+ "assuntos": [
+  {
+   "id": "interpretacao",
+   "nome": "Leitura e interpretação de textos",
+   "edital": "Leitura e interpretação: compreensão de textos; estruturação do texto e dos parágrafos.",
+   "resumo": "**Como a IDECAN cobra:** quase toda prova abre com um texto jornalístico ou de divulgação (Folha, CNN, portais) e de 2 a 4 questões de compreensão.\n- **Afirmativas I, II e III**: confira cada uma com um trecho do texto. Se a afirmativa acrescenta causa, motivo, número ou opinião que o texto não traz, é falsa.\n- **Palavras absolutas** (somente, sempre, nunca, \"não será possível\") costumam denunciar a alternativa errada quando o texto fala em médias e tendências.\n- **Resumo correto** = mesmas ideias centrais, sem acrescentar nem trocar o momento ou o autor da fala.\n- **Tipologia:** argumentativo (tese + argumentos), expositivo (só informa), narrativo (fatos em sequência), descritivo (características), injuntivo (instruções).\n- **Intertextualidade:** paródia subverte, paráfrase mantém o sentido, alusão só menciona; ressignificação leva o texto conhecido a novo contexto.\n\n**Pegadinha:** a alternativa \"parece verdade\" pelo conhecimento de mundo, mas não está no texto. Responda só com o texto.",
+   "leituras": [
+    {
+     "titulo": "Tipologia textual",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/redacao/tipologia-textual.htm",
+     "gratuito": true,
+     "nota": "Diferença entre tipos (narrativo, descritivo, expositivo, argumentativo, injuntivo) e gêneros."
+    },
+    {
+     "titulo": "Intertextualidade",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/intertextualidade/",
+     "gratuito": true,
+     "nota": "Paródia, paráfrase, alusão, citação e epígrafe, com exemplos."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS - com EXERCÍCIOS - Profa. Pamba",
+     "canal": "Professora Pamba",
+     "youtubeId": "W3XrpIRTgzA",
+     "duracao": "27:31"
+    },
+    {
+     "titulo": "INTERPRETAÇÃO de TEXTOS para CONCURSO - Nunca mais erre!",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "22iA3PPjr7c",
+     "duracao": "45:34"
+    },
+    {
+     "titulo": "GABARITANDO A IDECAN_ASSUNTOS MAIS COBRADOS_PROF. VOLNEY RIBEIRO",
+     "canal": "EM DIA COM O PORTUGUÊS",
+     "youtubeId": "TWLFzdcAU5I",
+     "duracao": "57:34"
+    }
+   ]
+  },
+  {
+   "id": "coesao",
+   "nome": "Coesão: referenciação e conectivos",
+   "edital": "Articulação do texto: pronomes e expressões referenciais, nexos e operadores sequenciais.",
+   "resumo": "**O que mais cai:** a quem um pronome se refere e qual o sentido de um conectivo no contexto.\n- **Anáfora** retoma o que já foi dito (esse, essa, isso, o qual); **catáfora** anuncia o que vem (este, isto, o seguinte, dois-pontos); **dêixis** aponta para a situação de fala (eu, aqui, agora, \"este ano\", \"este colunista\").\n- **Pronome relativo \"que\"**: troque por o qual/a qual/os quais e veja com quem o verbo concorda.\n- **Artigo indefinido → definido** (\"um lobo\" → \"o lobo\"): da genericidade à individuação.\n- **Valor dos conectivos:** mas, porém, contudo = oposição; embora, ainda que = concessão; porque, pois, já que = causa; tão... que = consequência; se, caso = condição; à medida que = proporção; enquanto = tempo ou contraste.\n- **Sequenciais:** primeiro, em seguida, depois, finalmente.\n\n**Pegadinha:** o \"e\" nem sempre soma; pode ser adversativo (\"estudou e não passou\") ou consecutivo (\"arriscou e se estrepou\").",
+   "leituras": [
+    {
+     "titulo": "Coesão e coerência",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/coesao-e-coerencia/",
+     "gratuito": true,
+     "nota": "Mecanismos de coesão (referencial e sequencial), com exemplos."
+    },
+    {
+     "titulo": "Conjunção: funções e classificações",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/conjuncao.htm",
+     "gratuito": true,
+     "nota": "Tabela das coordenativas e subordinativas e o valor semântico de cada uma."
+    },
+    {
+     "titulo": "Conectivos: lista e tipos",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/conectivos/",
+     "gratuito": true,
+     "nota": "Lista de conectivos por sentido (adição, oposição, causa, conclusão)."
+    },
+    {
+     "titulo": "À medida que / na medida em que (Manual de Comunicação do Senado)",
+     "tipo": "site",
+     "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/a-medida-que-na-medida-em-que",
+     "gratuito": true,
+     "nota": "Diferença entre proporção e causa, com o uso correto de cada locução."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "COESÃO E COERÊNCIA - Anáfora, catáfora e muito mais!",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "f1vCAm294i8",
+     "duracao": "1:07:40"
+    },
+    {
+     "titulo": "Anáfora x Catáfora [Prof. Noslen]",
+     "canal": "Professor Noslen",
+     "youtubeId": "iIQU2sb8GZU",
+     "duracao": "7:46"
+    },
+    {
+     "titulo": "🟣 CONJUNÇÕES | Aula de Português para concursos, vestibulares, provas, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "2Pk3W74Mh2o",
+     "duracao": "15:10"
+    }
+   ]
+  },
+  {
+   "id": "reescrita",
+   "nome": "Significação contextual, figuras de linguagem e reescrita",
+   "edital": "Significação contextual de palavras e expressões; equivalência e transformação de estruturas.",
+   "resumo": "**O que mais cai:** sentido de palavra no contexto, troca por sinônimo, figura de linguagem e reescrita \"mantendo o sentido e a correção\".\n- **Denotação** = sentido literal; **conotação** = figurado (\"laboratório\", \"derreteu-se\", \"subsolo cerebral\"). Termo técnico usado no sentido da área é denotativo.\n- **Figuras que a IDECAN repete:** metonímia (França = franceses), prosopopeia (estrelas \"engolem\"), zeugma (omissão de termo já dito), metáfora, hipérbole, antítese, catacrese.\n- **Parônimos:** iminente (prestes) × eminente (ilustre); descriminar × discriminar; ratificar × retificar. **Homônimos perfeitos:** mesma escrita e som (receita, manga).\n- **Expressões retificativas** (ou melhor, aliás) corrigem; explicativas (isto é, ou seja) esclarecem.\n- **Reescrita:** a alternativa certa mantém sentido E norma; desconfie de troca de conectivo que muda a relação (causa ↔ concessão).",
+   "leituras": [
+    {
+     "titulo": "Figuras de linguagem",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/figuras-de-linguagem/",
+     "gratuito": true,
+     "nota": "Figuras de palavra, de pensamento e de construção, com exemplos."
+    },
+    {
+     "titulo": "Homônimos e parônimos",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/homonimos-e-paronimos/",
+     "gratuito": true,
+     "nota": "Lista dos pares mais cobrados (eminente/iminente, comprimento/cumprimento etc.)."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "REESCRITURA TEXTUAL PARA PROVAS - Aula 18 - Profa. Pamba - Texto",
+     "canal": "Professora Pamba",
+     "youtubeId": "o7RTwzdAdbc",
+     "duracao": "19:17"
+    },
+    {
+     "titulo": "FIGURAS DE LINGUAGEM - As que mais caem em concurso",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "yiNBsB6hfPo",
+     "duracao": "48:01"
+    },
+    {
+     "titulo": "Homônimos e Parônimos [Prof Noslen]",
+     "canal": "Professor Noslen",
+     "youtubeId": "m2aeZ_3M4T4",
+     "duracao": "15:17"
+    }
+   ]
+  },
+  {
+   "id": "sintaxe",
+   "nome": "Período composto: coordenação e subordinação",
+   "edital": "Sintaxe: coordenação e subordinação.",
+   "resumo": "**O que mais cai:** classificar a oração destacada e identificar o valor da conjunção.\n- **Coordenadas** (independentes): aditivas (e, nem, mas também), adversativas (mas, porém, e sim), alternativas (ou), conclusivas (logo, portanto), explicativas (pois, porque).\n- **Substantivas** funcionam como sujeito ou complemento; introduzidas por **conjunção integrante** \"que\" ou \"se\" (dá para trocar por \"isso\").\n- **Adjetivas** (pronome relativo): **explicativa** entre vírgulas; **restritiva** sem vírgulas.\n- **Adverbiais:** causal, consecutiva (tão... que), concessiva (embora), condicional (se, caso), temporal (quando), final (para que), proporcional (à medida que), conformativa (conforme).\n- **Reduzidas** (infinitivo, gerúndio, particípio) sem conectivo; a de gerúndio costuma ser adverbial (modo, meio, tempo).\n- **Aposto** explica um termo e vem isolado por vírgulas.",
+   "leituras": [
+    {
+     "titulo": "Orações coordenadas",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/oracoes-coordenadas/",
+     "gratuito": true,
+     "nota": "Sindéticas e assindéticas, com as conjunções de cada tipo."
+    },
+    {
+     "titulo": "Orações subordinadas",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/oracoes-subordinadas/",
+     "gratuito": true,
+     "nota": "Substantivas, adjetivas e adverbiais, com exemplos."
+    },
+    {
+     "titulo": "Orações subordinadas adverbiais",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/oracoes-subordinadas-adverbiais.htm",
+     "gratuito": true,
+     "nota": "As nove adverbiais e as conjunções que as introduzem."
+    },
+    {
+     "titulo": "Aposto",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/aposto/",
+     "gratuito": true,
+     "nota": "Tipos de aposto e a pontuação que o isola."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "COORDENAÇÃO e SUBORDINAÇÃO: Aula COMPLETA de PERÍODO COMPOSTO #português #concurso",
+     "canal": "Professor Noslen",
+     "youtubeId": "QYP0G1sBOz8",
+     "duracao": "17:17"
+    },
+    {
+     "titulo": "🟣 ORAÇÕES SUBORDINADAS ADVERBIAIS | Aula de Português para concursos, vestibulares, provas, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "ho4wV5ZbJBM",
+     "duracao": "14:05"
+    },
+    {
+     "titulo": "Orações COORDENADAS e SUBORDINADAS - Resumão para CONCURSO",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "zRYeauBptu4",
+     "duracao": "1:19:44"
+    }
+   ]
+  },
+  {
+   "id": "verbos",
+   "nome": "Verbos: tempos, modos e vozes",
+   "edital": "Tempos e modos verbais; flexão verbal.",
+   "resumo": "**O que mais cai:** correlação entre tempos, conjugação de irregulares e voz passiva.\n- **Correlação:** se + imperfeito do subjuntivo (se chegasse) → futuro do pretérito (seria); se + futuro do subjuntivo (se chegar) → futuro do presente (será).\n- **Mais-que-perfeito:** \"acabara\" = \"tinha/havia acabado\" (não é imperfeito, que seria \"acabava\").\n- **Irregulares:** ver → se eu vir; vir → se eu vier; pôr e derivados → se eu puser, propuser; intervir segue vir (interveio, intervindo).\n- **Voz passiva analítica** = ser (no tempo original) + particípio + agente: \"analisou\" → \"foram analisados\".\n- **Voz passiva sintética** = verbo transitivo direto + se (\"Vendem-se casas\"), verbo concorda com o sujeito.\n- **Depois de preposição**, infinitivo (\"na eventualidade de chegar\").",
+   "leituras": [
+    {
+     "titulo": "Tempos verbais",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/tempos-verbais/",
+     "gratuito": true,
+     "nota": "Indicativo, subjuntivo e imperativo, com a conjugação de cada tempo."
+    },
+    {
+     "titulo": "Vozes verbais",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/vozes-verbais/",
+     "gratuito": true,
+     "nota": "Voz ativa, passiva analítica, passiva sintética e reflexiva."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🚨 TEMPOS e MODOS VERBAIS 🚨⚠️ ALERTA de TABELINHA! ⚠️",
+     "canal": "Português com Letícia",
+     "youtubeId": "WK6WqY3iRU8",
+     "duracao": "14:49"
+    },
+    {
+     "titulo": "Correlação de TEMPOS e MODOS verbais - APRENDA DE UMA VEZ!",
+     "canal": "Pablo Jamilk",
+     "youtubeId": "vJZI9v0ds-g",
+     "duracao": "13:30"
+    },
+    {
+     "titulo": "VERBOS - Tudo sobre verbos para concurso",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "_G8y60xyXpU",
+     "duracao": "1:50:55"
+    }
+   ]
+  },
+  {
+   "id": "pontuacao",
+   "nome": "Pontuação",
+   "edital": "Sintaxe: pontuação.",
+   "resumo": "**O que mais cai:** justificar uma vírgula e escolher a reescrita com pontuação \"igualmente correta\".\n- **Não se separa com vírgula** sujeito de verbo nem verbo de complemento (ordem direta).\n- **Vírgula obrigatória:** aposto explicativo, vocativo, adjunto adverbial deslocado longo, oração adjetiva explicativa, expressões explicativas/retificativas (isto é, ou melhor, na verdade), conjunções intercaladas (porém, portanto).\n- **Antes do \"e\":** pode quando os sujeitos são diferentes, quando o \"e\" é adversativo ou repetido.\n- **Ponto e vírgula:** separa itens de enumeração que já têm vírgula interna e orações longas coordenadas.\n- **Dois-pontos:** citação, enumeração, esclarecimento, especificação (podem virar \"isto é\", \"em outros termos\").\n- **Travessões e parênteses** intercalam; sempre em par (abre e fecha).",
+   "leituras": [
+    {
+     "titulo": "Sinais de pontuação",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/sinais-de-pontuacao/",
+     "gratuito": true,
+     "nota": "Uso de cada sinal, com exemplos."
+    },
+    {
+     "titulo": "Ponto e vírgula: quando usar",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/ponto-e-virgula/",
+     "gratuito": true,
+     "nota": "Enumerações com vírgula interna e orações coordenadas longas."
+    },
+    {
+     "titulo": "Vírgula",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/V%C3%ADrgula",
+     "gratuito": true,
+     "nota": "Verbete sobre a vírgula, com usos e exemplos."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🟣 Aprenda a usar a VÍRGULA! | AULA COMPLETA de Português para concursos, vestibulares, provas, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "0Q6tIli7oJg",
+     "duracao": "19:43"
+    },
+    {
+     "titulo": "Uso da Vírgula - Regras mais cobradas em concurso (Nunca mais erre!)",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "mwesr5YGr9o",
+     "duracao": "40:20"
+    },
+    {
+     "titulo": "Uso da Vírgula! Com Prof. Noslen!",
+     "canal": "Professor Noslen",
+     "youtubeId": "-uUtlvKifiY",
+     "duracao": "24:29"
+    }
+   ]
+  },
+  {
+   "id": "concordancia",
+   "nome": "Concordância verbal e nominal",
+   "edital": "Sintaxe: concordância nominal e verbal.",
+   "resumo": "**O que mais cai:** haver e fazer impessoais, porcentagem e fração, adjetivo composto e palavras \"variáveis\".\n- **Haver = existir/ocorrer** e **fazer = tempo** ficam no singular e levam o auxiliar junto: \"devia haver\", \"vai fazer dez anos\".\n- **Existir, ocorrer, acontecer** concordam com o sujeito: \"Existem muitas formas\".\n- **Sujeito composto anteposto** → plural (\"Constância e assiduidade fazem\").\n- **Porcentagem:** 1,98% canibaliza (parte inteira 1 = singular); **fração:** concorda com o numerador.\n- **Adjetivo composto:** só o último varia (obsessivo-compulsivas, político-econômicas).\n- **Variam:** anexo, incluso, mesmo, obrigado, bastante (adjetivo). **Não variam:** meio (= um pouco), menos, alerta.\n- **É proibido / é necessário:** sem artigo, invariável (\"É proibido entrada\"); com artigo, concorda (\"É proibida a entrada\").",
+   "leituras": [
+    {
+     "titulo": "Concordância verbal (Manual de Comunicação do Senado)",
+     "tipo": "site",
+     "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/concordancia-verbal",
+     "gratuito": true,
+     "nota": "Casos práticos e dúvidas frequentes de concordância verbal."
+    },
+    {
+     "titulo": "Concordância verbal: sujeito simples e composto",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/concordancia-verbal.htm",
+     "gratuito": true,
+     "nota": "Regras gerais e casos especiais (haver, fazer, porcentagem)."
+    },
+    {
+     "titulo": "Concordância nominal",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/concordancia-nominal/",
+     "gratuito": true,
+     "nota": "Anexo, meio, mesmo, é proibido, adjetivo composto."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🟣 CONCORDÂNCIA VERBAL || Aula de Português para concursos, vestibulares, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "s2T9Ap2J7u0",
+     "duracao": "28:46"
+    },
+    {
+     "titulo": "🟣 CONCORDÂNCIA NOMINAL || Aula de Português para concursos, vestibulares, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "Ssb7v6KIYt8",
+     "duracao": "19:56"
+    },
+    {
+     "titulo": "🔴 CONCORDÂNCIA VERBAL - Teoria e Questões para Concurso",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "jdqhnVUvqOc",
+     "duracao": "49:36"
+    }
+   ]
+  },
+  {
+   "id": "regencia-crase",
+   "nome": "Regência verbal e nominal e crase",
+   "edital": "Sintaxe: regência nominal e verbal (inclui o acento indicativo de crase).",
+   "resumo": "**Regência que a IDECAN repete:**\n- **Pedem \"a\":** assistir (= ver), aspirar (= desejar), visar (= objetivo), obedecer, aludir, proceder (= dar início).\n- **Não pedem preposição:** almejar, desejar, pretender; **preferir** = uma coisa **a** outra (sem \"mais\" e sem \"do que\").\n- **Lembrar algo / lembrar-se de algo**; esquecer, idem. **Confraternizar** não é pronominal.\n\n**Crase = preposição a + artigo a:**\n- Troque por masculino: virou \"ao\"? Tem crase (\"às 14 horas\" → \"aos 14 minutos\").\n- **Nunca:** antes de verbo, de palavra masculina, de \"uma\", de pronomes de tratamento (Vossa Excelência) e entre palavras repetidas (cara a cara).\n- **Sempre:** horas exatas, locuções femininas (à medida que, às vezes), \"à moda de\".",
+   "leituras": [
+    {
+     "titulo": "Crase (Manual de Comunicação do Senado)",
+     "tipo": "site",
+     "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/crase",
+     "gratuito": true,
+     "nota": "Casos obrigatórios, proibidos e facultativos."
+    },
+    {
+     "titulo": "Crase: usos e casos facultativos",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/crase.htm",
+     "gratuito": true,
+     "nota": "Regras com macetes e exemplos."
+    },
+    {
+     "titulo": "Regência verbal",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/regencia-verbal.htm",
+     "gratuito": true,
+     "nota": "Verbos com mais de uma regência (assistir, aspirar, visar, preferir)."
+    },
+    {
+     "titulo": "Regência nominal",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/regencia-nominal/",
+     "gratuito": true,
+     "nota": "Nomes e as preposições que pedem."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "CRASE - As 6 regras mais cobradas em CONCURSO (Teoria + Questões)",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "5uMooAjtVis",
+     "duracao": "35:59"
+    },
+    {
+     "titulo": "🟣 REGÊNCIA VERBAL || Aula de Português COMPLETA para concursos, vestibulares, provas, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "oziOOkwah2E",
+     "duracao": "25:26"
+    },
+    {
+     "titulo": "REGÊNCIA VERBAL E NOMINAL - Muitos exemplos e questões",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "1IRO-p95oo0",
+     "duracao": "43:55"
+    }
+   ]
+  },
+  {
+   "id": "pronomes",
+   "nome": "Pronomes: emprego, tratamento e colocação",
+   "edital": "Sintaxe: pronomes (emprego, formas de tratamento e colocação).",
+   "resumo": "**O que mais cai:** colocação pronominal, pronome de tratamento e classificação (demonstrativo, relativo, indefinido).\n- **Próclise obrigatória** com palavra atrativa: negativas (não, nunca), advérbios sem vírgula, pronomes relativos, indefinidos e demonstrativos, conjunções subordinativas (se, que, quando).\n- **Ênclise:** verbo no início da frase e depois de vírgula; verbo terminado em som nasal pede **-no/-na** (atrapalham-no); depois de r, s, z, **-lo/-la** (respondê-lo).\n- **Mesóclise:** futuro do presente e do pretérito sem palavra atrativa (dir-se-ia).\n- **Lhe** substitui objeto indireto (responder-lhes); o/a, objeto direto.\n- **Tratamento:** Vossa Excelência para prefeitos, governadores, juízes; Vossa Senhoria para as demais autoridades. **Vossa** = falo com; **Sua** = falo dela. Verbo e possessivo na 3ª pessoa.\n- **\"o que\" = aquilo que** (demonstrativo + relativo).",
+   "leituras": [
+    {
+     "titulo": "Pronomes de tratamento",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/pronomes-de-tratamento/",
+     "gratuito": true,
+     "nota": "Tabela com abreviaturas, vocativos e a quem se aplica cada pronome."
+    },
+    {
+     "titulo": "Colocação pronominal",
+     "tipo": "site",
+     "url": "https://brasilescola.uol.com.br/gramatica/colocacao-pronominal.htm",
+     "gratuito": true,
+     "nota": "Próclise, mesóclise e ênclise e as palavras atrativas."
+    },
+    {
+     "titulo": "Pronomes relativos",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/pronomes-relativos/",
+     "gratuito": true,
+     "nota": "Que, o qual, cujo, onde: emprego e concordância."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🟣 COLOCAÇÃO PRONOMINAL: PRÓCLISE, MESÓCLISE E ÊNCLISE || Português do Zero",
+     "canal": "Português com Letícia",
+     "youtubeId": "baP8RkBYRNw",
+     "duracao": "24:20"
+    },
+    {
+     "titulo": "PRONOMES DE TRATAMENTO - Profa. Pamba",
+     "canal": "Professora Pamba",
+     "youtubeId": "6AJ-IMm_fvY",
+     "duracao": "9:24"
+    },
+    {
+     "titulo": "🟣 PRONOMES | Aula de Português para concursos, vestibulares, provas, ENEM",
+     "canal": "Português com Letícia",
+     "youtubeId": "4LVbsP4v13c",
+     "duracao": "16:27"
+    }
+   ]
+  },
+  {
+   "id": "morfologia",
+   "nome": "Classes e formação de palavras",
+   "edital": "Morfologia: estrutura e formação de palavras; classes de palavras; flexão nominal.",
+   "resumo": "**O que mais cai:** classificar a palavra no contexto e contar artigos ou preposições.\n- **Pronome adjetivo** acompanha o substantivo (essas questões, outro lado); **pronome substantivo** o substitui.\n- **Artigo × preposição × pronome:** \"a\" antes de verbo = preposição; \"o/a/os\" antes de \"de\" ou \"que\" = pronome demonstrativo (os de agosto = aqueles); contrações (no, da, às) escondem artigos.\n- **Particípio** junto de substantivo sem auxiliar = adjetivo (estrela destruída).\n- **\"Só\"** = sozinho (adjetivo, varia) × somente (advérbio); **\"várias vezes\"** (pronome) × \"vezes várias\" (adjetivo, variadas).\n- **Formação:** prefixação (proto-, anti-), sufixação, parassíntese (entristecer), composição por justaposição (girassol) e aglutinação (planalto). Veja se o \"prefixo\" é mesmo prefixo: protestar não tem proto-.",
+   "leituras": [
+    {
+     "titulo": "As 10 classes de palavras",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/classes-de-palavras/",
+     "gratuito": true,
+     "nota": "Definição e exemplos de cada classe gramatical."
+    },
+    {
+     "titulo": "Formação de palavras",
+     "tipo": "site",
+     "url": "https://www.todamateria.com.br/formacao-de-palavras/",
+     "gratuito": true,
+     "nota": "Derivação (prefixal, sufixal, parassintética, regressiva, imprópria) e composição."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "MORFOLOGIA: CLASSES DE PALAVRAS (Para Concurso)",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "ltrzPijgKi4",
+     "duracao": "1:03:04"
+    },
+    {
+     "titulo": "🟣 ESTRUTURA e FORMAÇÃO de PALAVRAS (composição e derivação) || Português do Zero",
+     "canal": "Português com Letícia",
+     "youtubeId": "Gjv44CgF68Y",
+     "duracao": "22:46"
+    },
+    {
+     "titulo": "CLASSES DE PALAVRAS + EXERCÍCIOS RESOLVIDOS",
+     "canal": "Professor Noslen",
+     "youtubeId": "2tMS1O3xn24",
+     "duracao": "15:14"
+    }
+   ]
+  },
+  {
+   "id": "ortografia-acentuacao",
+   "nome": "Ortografia e acentuação",
+   "edital": "Norma-padrão: ortografia oficial; acentuação gráfica.",
+   "resumo": "**Acentuação:**\n- **Proparoxítonas:** todas (química, astrofísica).\n- **Paroxítonas:** terminadas em ditongo crescente (história, distância, família), l, n, r, x, ps, ã(s), ão(s), i(s), us, um/uns.\n- **Oxítonas:** terminadas em a(s), e(s), o(s), em/ens (maré, você, também).\n- **Hiato** com i ou u tônicos (destruída, saúde). Pós-Acordo, sem acento: ideia, heroico, voo, leem, feiura.\n- O til não é acento gráfico (são, mãe).\n\n**Hífen (Acordo de 1990):** vogal igual separa (micro-ondas, anti-inflamatório); vogal diferente junta (autoescola); r ou s depois de vogal dobra (contrarregra, ultrassom); antes de h, hífen (anti-higiênico); co- junta (coautor).\n\n**Porquês:** por que (por qual motivo), por quê (fim de frase), porque (pois), o porquê (o motivo).",
+   "leituras": [
+    {
+     "titulo": "Decreto nº 6.583/2008 (Acordo Ortográfico)",
+     "tipo": "lei",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm",
+     "gratuito": true,
+     "nota": "Bases XV a XVII (hífen) e VIII a XIII (acentuação) do anexo do Acordo."
+    },
+    {
+     "titulo": "Vocabulário Ortográfico da Língua Portuguesa (VOLP)",
+     "tipo": "site",
+     "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+     "gratuito": true,
+     "nota": "Consulte a grafia oficial de qualquer palavra na dúvida."
+    },
+    {
+     "titulo": "Hífen (Manual de Comunicação do Senado)",
+     "tipo": "site",
+     "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/hifen",
+     "gratuito": true,
+     "nota": "Quadro prático do hífen com prefixos."
+    },
+    {
+     "titulo": "Acentuação (Manual de Comunicação do Senado)",
+     "tipo": "site",
+     "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao",
+     "gratuito": true,
+     "nota": "Regras de acentuação após o Acordo Ortográfico."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "ACENTUAÇÃO para CONCURSO: Oxítona, Paroxítona, Proparoxítona, etc",
+     "canal": "Prof. Álvaro Ferreira",
+     "youtubeId": "nWQVPQmxWTk",
+     "duracao": "40:18"
+    },
+    {
+     "titulo": "🟣 NOVO ACORDO ORTOGRÁFICO: as principais mudanças! || Português do Zero",
+     "canal": "Português com Letícia",
+     "youtubeId": "qgR5kOpyIQc",
+     "duracao": "23:08"
+    },
+    {
+     "titulo": "🟣 HÍFEN – Como usar? Saiba as regras! || Português do Zero",
+     "canal": "Português com Letícia",
+     "youtubeId": "UaYz46MpI3M",
+     "duracao": "15:32"
+    }
+   ]
+  }
+ ]
+}

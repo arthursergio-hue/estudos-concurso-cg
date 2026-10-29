@@ -1,0 +1,387 @@
+{
+ "id": "informatica",
+ "nome": "Noções de Informática",
+ "questoesNaProva": 4,
+ "peso": 1,
+ "nota": "4 questões de peso 1 (4 dos 60 pontos). Basta 1 acerto para não ser eliminado; é o 4º critério de desempate. A IDECAN cobra muito atalho de teclado e planilha com fórmula.",
+ "assuntos": [
+  {
+   "id": "hardware",
+   "nome": "Hardware: memórias, armazenamento e periféricos",
+   "edital": "Hardware: armazenamento, memórias, periféricos e extensões.",
+   "resumo": "**O que mais cai:** tipos de memória, HD × SSD e classificação de periféricos.\n- **RAM:** memória principal, **volátil** (perde tudo sem energia). **ROM:** não volátil; família ROM → PROM → **EPROM** (apaga com luz ultravioleta) → EEPROM/flash. **Cache:** pequena e muito rápida, junto do processador.\n- **HD:** magnético, com discos girando e cabeça de leitura em braço móvel. **SSD:** memória flash, sem partes móveis, mais rápido e resistente, mais caro por GB.\n- **Entrada:** teclado, mouse, scanner, microfone, webcam. **Saída:** monitor, impressora, **plotter** (grande formato), caixa de som. **Entrada e saída:** HD, SSD, pendrive, modem, roteador, tela touch, multifuncional.\n- **Barramentos e conexões:** USB, PCI Express, SATA (substituiu o IDE), HDMI.\n\n**Pegadinha:** SSH (protocolo) e SSD (disco) são siglas parecidas.",
+   "leituras": [
+    {
+     "titulo": "Hardware",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/Hardware",
+     "gratuito": true,
+     "nota": "Visão geral dos componentes e periféricos."
+    },
+    {
+     "titulo": "Memória de acesso aleatório (RAM)",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/Mem%C3%B3ria_de_acesso_aleat%C3%B3rio",
+     "gratuito": true,
+     "nota": "Volatilidade e tipos de RAM (DDR)."
+    },
+    {
+     "titulo": "Unidade de estado sólido (SSD)",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/Unidade_de_estado_s%C3%B3lido",
+     "gratuito": true,
+     "nota": "Comparação com o disco rígido: velocidade, durabilidade e custo."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "🔥 HARDWARE - Conceitos Iniciais - BIOS, Memória ROM, Hardware e Software",
+     "canal": "Professor Sylvio Rodrigues - Informática Concursos",
+     "youtubeId": "M3Ypqy-MIEc",
+     "duracao": "29:16"
+    },
+    {
+     "titulo": "DIRETO AO PONTO - HARDWARE - INFORMÁTICA PARA CONCURSOS - PROF DANILO VILANOVA [RESUMO]",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "_p_YtjUGFkw",
+     "duracao": "46:07"
+    },
+    {
+     "titulo": "Informática Básica - Memórias RAM/ROM/CACHE",
+     "canal": "Silvio Bononi",
+     "youtubeId": "71WrW_ymTpk",
+     "duracao": "6:59"
+    }
+   ]
+  },
+  {
+   "id": "sistemas-operacionais",
+   "nome": "Windows e Linux: arquivos e atalhos",
+   "edital": "Windows/Linux: pastas, arquivos, atalhos e área de transferência.",
+   "resumo": "**Atalhos do Windows (os mais cobrados):**\n- Win + E (Explorador de Arquivos), Win + D (mostrar a área de trabalho), Win + L (bloquear), Win + I (Configurações), Win + R (Executar).\n- Win + T (percorrer a barra de tarefas), Win + Tab (Visão de Tarefas), Alt + Tab (alternar entre programas), Ctrl + Shift + Esc (Gerenciador de Tarefas).\n- Ctrl + C, Ctrl + X e Ctrl + V usam a **área de transferência**; Win + V mostra o histórico dela.\n- F2 renomeia; Delete manda para a Lixeira; Shift + Delete exclui direto, sem passar pela Lixeira.\n- **BIOS/UEFI** = firmware que inicia o hardware; **kernel** = núcleo do sistema; **swap** = memória virtual em disco.\n- **Linux:** distribuições (Ubuntu, Debian, Fedora, Mint); ambientes gráficos KDE (gerenciador **Dolphin**) e GNOME (**Nautilus**); comandos ls, cd, cp, mv, rm, mkdir, chmod, find.\n- **Calculadora do Windows:** modo Programador para hexadecimal, octal e binário.",
+   "leituras": [
+    {
+     "titulo": "Atalhos de teclado no Windows (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/windows/atalhos-de-teclado-no-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+     "gratuito": true,
+     "nota": "Seções \"Atalhos de teclado da tecla do logotipo do Windows\" e \"Atalhos do Explorador de Arquivos\"."
+    },
+    {
+     "titulo": "Explorador de Arquivos no Windows (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/windows/localizar-e-abrir-o-explorador-de-arquivos-ef370130-1cca-9dc5-e0df-2f7416fe1cb1",
+     "gratuito": true,
+     "nota": "Como abrir e usar o Explorador de Arquivos."
+    },
+    {
+     "titulo": "Guia Foca GNU/Linux",
+     "tipo": "apostila",
+     "url": "https://www.guiafoca.org/",
+     "gratuito": true,
+     "nota": "Nível Iniciante: comandos básicos, arquivos e diretórios."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "AULA - SISTEMA OPERACIONAL WINDOWS | INFORMÁTICA PARA CONCURSOS",
+     "canal": "Prof. Marcelo Narciso",
+     "youtubeId": "SdgTMUWRuO0",
+     "duracao": "46:41"
+    },
+    {
+     "titulo": "Resumo DIRETO AO PONTO - Sistema Operacional Windows - Informática Concursos (Prof Danilo Vilanova)",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "MkVvtFSxpNg",
+     "duracao": "1:13:41"
+    },
+    {
+     "titulo": "Informática para Concursos - Linux - AlfaCon",
+     "canal": "AlfaCon",
+     "youtubeId": "fkf_YZ4LoaA",
+     "duracao": "10:22"
+    }
+   ]
+  },
+  {
+   "id": "editor-texto",
+   "nome": "Editor de textos: Word e Writer",
+   "edital": "Editor de textos: formatação, cabeçalhos, colunas, tabelas, quebras, numeração, legendas e índices.",
+   "resumo": "**Atalhos que mudam entre os programas (em português):**\n- **Word:** Ctrl + N negrito, Ctrl + I itálico, Ctrl + S sublinhado, Ctrl + B salvar, Ctrl + D fonte, Ctrl + L localizar, Ctrl + U substituir.\n- **Writer:** Ctrl + B negrito, Ctrl + I itálico, Ctrl + U sublinhado, Ctrl + N novo, F5 Navegador.\n- **Nos dois:** Ctrl + E centralizar, Ctrl + J justificar, F7 ortografia, Shift + F3 alterna maiúsculas e minúsculas.\n\n**Recursos:**\n- **Quebra de seção:** numeração, cabeçalho, orientação ou colunas diferentes em partes do documento.\n- Cabeçalho com \"Primeira página diferente\" e \"Páginas pares e ímpares diferentes\".\n- **Sumário automático** depende dos estilos de Título (o estilo padrão do texto é o Normal).\n- Arte de texto: **WordArt** (Word) = **Fontwork** (Writer). **Capitular** = primeira letra grande do parágrafo.",
+   "leituras": [
+    {
+     "titulo": "Inserir uma quebra de seção (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/inserir-uma-quebra-de-se%C3%A7%C3%A3o-eef20fd8-e38c-4ba6-a027-e503bdf8375c",
+     "gratuito": true,
+     "nota": "Tipos de quebra de seção e para que servem."
+    },
+    {
+     "titulo": "Inserir um sumário (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/inserir-um-sum%C3%A1rio-882e8564-0edb-435e-84b5-1d8552ccf0c0",
+     "gratuito": true,
+     "nota": "Sumário automático a partir dos estilos de Título."
+    },
+    {
+     "titulo": "Atalhos de teclado do Word (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/atalhos-de-teclado-no-word-95ef89dd-7142-4b50-afb2-f762f663ceb2",
+     "gratuito": true,
+     "nota": "Atalhos de formatação e de edição mais usados."
+    },
+    {
+     "titulo": "Teclas de atalho do LibreOffice Writer",
+     "tipo": "site",
+     "url": "https://help.libreoffice.org/latest/pt-BR/text/swriter/04/01020000.html",
+     "gratuito": true,
+     "nota": "Tabela das teclas de função e combinações com Ctrl."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Direto ao Ponto - MS WORD - Informática para Concursos - Danilo Vilanova",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "d3nX0vRmD1A",
+     "duracao": "1:40:15"
+    },
+    {
+     "titulo": "Aula de Writer   Informática   Danilo Vilanova",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "Xdd01Cw-Oho",
+     "duracao": "1:02:51"
+    },
+    {
+     "titulo": "Imersão LibreOffice - Informática para concursos",
+     "canal": "Rani Passos",
+     "youtubeId": "bKSoTsPlOJo",
+     "duracao": "1:31:59"
+    }
+   ]
+  },
+  {
+   "id": "planilhas",
+   "nome": "Planilhas: Excel e Calc",
+   "edital": "Planilhas: células, fórmulas, funções, macros, gráficos e classificação de dados.",
+   "resumo": "**A IDECAN adora \"qual o valor mostrado na célula\".** Faça a conta no papel.\n- **\";\" = e** (células avulsas: SOMA(A7;A11)); **\":\" = até** (intervalo: SOMA(A7:A11)).\n- **Copiar fórmula:** referências relativas andam junto (1 coluna e 2 linhas a mais = A7 vira B9); **$** trava ($D$7 não muda; $A1 trava só a coluna).\n- **Funções:** SE(teste;se verdadeiro;se falso), CONT.SE(intervalo;critério), SOMASE, MÉDIA, **MED** (mediana), **MODO** (moda), MAIOR/MENOR(intervalo;k), MOD (resto da divisão), PROCV(valor;tabela;coluna;0 ou FALSO), CONT.NÚM, CONT.VALORES, ARRED.\n- **Outra planilha:** Calc = Planilha.Célula (=PL1.D4); Excel = Planilha!Célula (=PL1!D4).\n- **Classificar** ordena; **Filtro** esconde linhas que não atendem ao critério; **formatação condicional** muda só a aparência.\n- **Macro** = sequência de comandos gravada para repetir tarefas (VBA no Excel; Basic no Calc).",
+   "leituras": [
+    {
+     "titulo": "Função SE (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/fun%C3%A7%C3%A3o-se-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2",
+     "gratuito": true,
+     "nota": "Sintaxe e exemplos, inclusive SE aninhado."
+    },
+    {
+     "titulo": "Alternar entre referências relativas, absolutas e mistas (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/alternar-entre-refer%C3%AAncias-relativas-absolutas-e-mistas-dfec08cd-ae65-4f56-839e-5f0d8d0baca9",
+     "gratuito": true,
+     "nota": "O que acontece com $ ao copiar fórmulas."
+    },
+    {
+     "titulo": "Classificar dados em um intervalo ou tabela (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/classificar-dados-em-um-intervalo-ou-tabela-62d0b95d-2a90-4610-a6ae-2e545c4a4654",
+     "gratuito": true,
+     "nota": "Classificação simples e por vários níveis."
+    },
+    {
+     "titulo": "Funções por categoria do LibreOffice Calc",
+     "tipo": "site",
+     "url": "https://help.libreoffice.org/latest/pt-BR/text/scalc/01/04060100.html",
+     "gratuito": true,
+     "nota": "Nomes das funções em português no Calc (MODO, MED, MAIOR, PROCV)."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "QUESTÕES DE EXCEL PARA CONCURSOS",
+     "canal": "Prof. Marcelo Narciso",
+     "youtubeId": "Yhvh7dRGBbI",
+     "duracao": "39:07"
+    },
+    {
+     "titulo": "LIBREOFFICE - CALC | INFORMÁTICA PARA CONCURSOS | BANCA IDECAN - PROF. VIMERSON DANTAS",
+     "canal": "Everest Concursos",
+     "youtubeId": "LMGUU41w7-k",
+     "duracao": "40:24"
+    },
+    {
+     "titulo": "LibreOffice Calc para concursos | Aula 1",
+     "canal": "Veon Aprova Logo",
+     "youtubeId": "S5dhg3BF1xQ",
+     "duracao": "1:10:46"
+    }
+   ]
+  },
+  {
+   "id": "email-reunioes",
+   "nome": "Correio eletrônico e reuniões on-line",
+   "edital": "Correio eletrônico; reuniões on-line (Teams, Meet, Zoom, Skype, Hangout).",
+   "resumo": "**E-mail:**\n- **Para** (destinatário principal), **Cc** (cópia visível), **Cco** (cópia oculta: ninguém vê os outros endereços).\n- **Responder** (só ao remetente) × **Responder a todos** × **Encaminhar** (envia a terceiros, com os anexos).\n- **Pastas:** Entrada (recebidas), Enviados, Rascunhos, Lixeira, Spam/Lixo eletrônico.\n- **Protocolos:** SMTP envia; POP3 baixa para o computador; IMAP mantém sincronizado no servidor.\n- **Thunderbird:** Ctrl + Shift + A anexa arquivo; Ctrl + N/Ctrl + M nova mensagem.\n- **Download** = baixar da internet; **upload** = enviar para a internet.\n\n**Reuniões on-line:** Teams (Compartilhar conteúdo, salas de grupo, levantar a mão, gravação), Google Meet (grátis: até 100 pessoas e 1 hora em grupo; \"Apresentar agora\"), Zoom (grátis: 40 minutos; \"Compartilhar tela\"), Skype (Microsoft, substituído pelo Teams).",
+   "leituras": [
+    {
+     "titulo": "E-mail",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/E-mail",
+     "gratuito": true,
+     "nota": "Funcionamento, campos do cabeçalho e protocolos (SMTP, POP, IMAP)."
+    },
+    {
+     "titulo": "Enviar anexos no Gmail (Google)",
+     "tipo": "site",
+     "url": "https://support.google.com/mail/answer/6584?hl=pt-BR",
+     "gratuito": true,
+     "nota": "Limites de tamanho e envio de anexos."
+    },
+    {
+     "titulo": "Ingressar em uma reunião no Microsoft Teams (Microsoft)",
+     "tipo": "site",
+     "url": "https://support.microsoft.com/pt-br/office/ingressar-em-uma-reuni%C3%A3o-no-microsoft-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9",
+     "gratuito": true,
+     "nota": "Como entrar em reuniões e os controles principais."
+    },
+    {
+     "titulo": "Participar de uma reunião do Google Meet (Google)",
+     "tipo": "site",
+     "url": "https://support.google.com/meet/answer/9303069?hl=pt-BR",
+     "gratuito": true,
+     "nota": "Formas de entrar numa reunião do Meet."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "O Segredo para Não Errar Correio Eletrônico na Prova | Professor Danilo Vilanova #opior",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "3Kr3GLDpYwY",
+     "duracao": "55:19"
+    },
+    {
+     "titulo": "Informática para concursos - Microsoft Teams - Aula completa",
+     "canal": "Estude Info",
+     "youtubeId": "72H-liLG1tw",
+     "duracao": "20:30"
+    },
+    {
+     "titulo": "Videoconferência para Concursos | Aula 1 com Rodrigo Schaeffer",
+     "canal": "Informática Concursos",
+     "youtubeId": "hV7EvZKXxFU",
+     "duracao": "4:30"
+    }
+   ]
+  },
+  {
+   "id": "internet-nuvem",
+   "nome": "Internet, navegadores e nuvem",
+   "edital": "Internet, intranet, extranet, protocolos, URL, navegadores (Firefox, Chrome), nuvem e redes sociais.",
+   "resumo": "**Conceitos:**\n- **Internet** (pública); **intranet** (rede privada com tecnologia da internet, só usuários internos); **extranet** (parte da intranet aberta a parceiros autorizados); **VPN** (túnel criptografado para acessar a rede privada de fora).\n- **URL** = endereço (protocolo://domínio/caminho); **DNS** traduz nome em IP; **HTTP/HTTPS** (páginas; o S indica conexão criptografada); **FTP** (arquivos); **SSH** (acesso remoto seguro).\n- **Nuvem:** SaaS (programa pronto: Gmail, Office 365), PaaS (plataforma para desenvolver), IaaS (máquinas virtuais). OneDrive e Google Drive são armazenamento em nuvem.\n\n**Atalhos de navegador (Chrome e Firefox):** Ctrl + T nova aba, Ctrl + W fecha, Ctrl + Shift + T reabre, Ctrl + L barra de endereços, Ctrl + D favoritos, Ctrl + J downloads, Ctrl + H histórico, Ctrl + F localizar, Ctrl + P imprimir, F11 tela cheia, F5 recarregar, navegação anônima Ctrl + Shift + N (Chrome) e Ctrl + Shift + P (Firefox).",
+   "leituras": [
+    {
+     "titulo": "Intranet",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/Intranet",
+     "gratuito": true,
+     "nota": "Conceito de intranet e diferença para extranet."
+    },
+    {
+     "titulo": "O que é computação em nuvem? (Microsoft Azure)",
+     "tipo": "site",
+     "url": "https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-computing",
+     "gratuito": true,
+     "nota": "Modelos de serviço (IaaS, PaaS, SaaS) e tipos de nuvem (pública, privada, híbrida)."
+    },
+    {
+     "titulo": "Atalhos de teclado do Chrome (Google)",
+     "tipo": "site",
+     "url": "https://support.google.com/chrome/answer/157179?hl=pt-BR",
+     "gratuito": true,
+     "nota": "Seções de guias, janelas e recursos do Chrome."
+    },
+    {
+     "titulo": "Fascículo Redes Sociais (Cartilha de Segurança CERT.br)",
+     "tipo": "apostila",
+     "url": "https://cartilha.cert.br/fasciculos/redes-sociais/fasciculo-redes-sociais.pdf",
+     "gratuito": true,
+     "nota": "Riscos e cuidados no uso de redes sociais."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "A diferença entre Internet, Intranet e Extranet - Dica 02 - Projeto 100 dicas TSE Unificado",
+     "canal": "Estratégia Concursos",
+     "youtubeId": "VApJtcvSrKI",
+     "duracao": "6:53"
+    },
+    {
+     "titulo": "Resumo DIRETO AO PONTO - NAVEGADORES(BROWSERS) - Informática Concursos Prof Danilo Vilanova #opior",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "k7vK0JTfTEA",
+     "duracao": "34:47"
+    },
+    {
+     "titulo": "Computação em Nuvem (Cloud Computing)",
+     "canal": "Léo Matos",
+     "youtubeId": "e3rQ373LnC0",
+     "duracao": "50:42"
+    }
+   ]
+  },
+  {
+   "id": "seguranca",
+   "nome": "Segurança da informação",
+   "edital": "Segurança: confidencialidade, assinatura digital, backup, antivírus, firewall, malwares e ataques.",
+   "resumo": "**Princípios (CID + A):** **confidencialidade** (sigilo), **integridade** (não foi alterado), **disponibilidade** (acessível quando preciso), **autenticidade** (autoria comprovada); e o **não repúdio**.\n- **Assinatura digital:** chave **privada** assina, chave **pública** confere; garante autenticidade, integridade e não repúdio (não garante sigilo). **Certificado digital** ICP-Brasil é emitido por autoridade certificadora.\n- **Criptografia** garante o sigilo.\n- **Backup:** cópia de segurança, de preferência fora do equipamento (outro disco, nuvem). **Firewall:** filtra o tráfego de rede. **Antivírus:** detecta e remove malware.\n- **Malwares:** vírus (precisa de hospedeiro e de execução), **worm** (se espalha sozinho pela rede), **trojan** (parece útil, traz o malware), **ransomware** (sequestra dados e pede resgate), **spyware** (espiona), keylogger (captura teclas), adware (propaganda), bot (controle remoto).\n- **Ataques:** **phishing** (mensagem falsa para roubar dados), engenharia social, DoS/DDoS (derrubar serviço).",
+   "leituras": [
+    {
+     "titulo": "Fascículo Códigos Maliciosos (Cartilha de Segurança CERT.br)",
+     "tipo": "apostila",
+     "url": "https://cartilha.cert.br/fasciculos/codigos-maliciosos/fasciculo-codigos-maliciosos.pdf",
+     "gratuito": true,
+     "nota": "Tipos de malware e como se proteger."
+    },
+    {
+     "titulo": "Fascículo Backup (Cartilha de Segurança CERT.br)",
+     "tipo": "apostila",
+     "url": "https://cartilha.cert.br/fasciculos/backup/fasciculo-backup.pdf",
+     "gratuito": true,
+     "nota": "Tipos de backup e boas práticas."
+    },
+    {
+     "titulo": "Certificado Digital (ITI)",
+     "tipo": "site",
+     "url": "https://www.gov.br/iti/pt-br/assuntos/certificado-digital",
+     "gratuito": true,
+     "nota": "O que é o certificado ICP-Brasil e para que serve."
+    },
+    {
+     "titulo": "Assinatura digital",
+     "tipo": "site",
+     "url": "https://pt.wikipedia.org/wiki/Assinatura_digital",
+     "gratuito": true,
+     "nota": "Funcionamento com chave privada, chave pública e hash."
+    }
+   ],
+   "videos": [
+    {
+     "titulo": "Resumo DIRETO AO PONTO - Segurança da informação - Informática Concursos | Danilo Vilanova #opior",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "X2wgk02Bqt0",
+     "duracao": "29:06"
+    },
+    {
+     "titulo": "Resumo DIRETO AO PONTO - Malwares(VírusXWorms) - Informática Concursos (Professor Danilo Vilanova)",
+     "canal": "Professor Danilo Vilanova | Informática Concursos",
+     "youtubeId": "2hRyJ7mM5Ps",
+     "duracao": "34:58"
+    },
+    {
+     "titulo": "Informática para o concurseiro iniciante: Assinatura e Certificado Digital com Fabrício Melo",
+     "canal": "Gran Cursos Online",
+     "youtubeId": "lCyBlFIU7DE",
+     "duracao": "59:39"
+    }
+   ]
+  }
+ ]
+}

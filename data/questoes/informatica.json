@@ -1,0 +1,817 @@
+[
+ {
+  "id": "inf-0001",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)",
+  "cargo": "Contador (técnico-administrativo, nível superior; prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/156246/idecan-2022-unilab-contador-prova.pdf",
+  "enunciado": "\"Tanto a gravação quanto a leitura dos dados são possíveis graças às cabeças de leitura eletromagnéticas. Presas a um braço móvel de alumínio, elas conseguem acessar toda a superfície do equipamento e, a uma alta velocidade, se encarregam tanto de ler os dados já gravados quanto de gravar as novas informações.\"\n\nO texto acima se refere a qual dos dispositivos de armazenamento listados abaixo?",
+  "alternativas": [
+   "Módulo de memória RAM",
+   "Disco rígido",
+   "Pendrives",
+   "SSD"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"Disco rígido\":** **Disco rígido (HD)** é o armazenamento magnético e mecânico: discos (pratos) giram e **cabeças de leitura/gravação eletromagnéticas**, presas a um braço móvel, leem e gravam os dados na superfície. É memória secundária, não volátil.\n\n**As outras:**\n- *Módulo de memória RAM*: a memória RAM é volátil e de trabalho; não tem cabeças nem braço móvel.\n- *Pendrives*: pendrives usam memória flash, eletrônica, sem nenhuma peça móvel.\n- *SSD*: o SSD também usa memória flash, sem partes móveis; por isso é mais rápido e resistente a impactos que o HD.\n\n**Para memorizar:** HD = magnético e mecânico (gira); SSD e pendrive = flash (sem peças móveis)."
+ },
+ {
+  "id": "inf-0002",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)",
+  "cargo": "Contador (técnico-administrativo, nível superior; prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/156246/idecan-2022-unilab-contador-prova.pdf",
+  "enunciado": "\"Essa memória é programada por um dispositivo eletrônico que dá vantagens maiores do que os usados normalmente em circuitos elétricos. Uma vez programada, essa memória pode ser apagada apenas por exposição a uma forte luz ultravioleta. Essas memórias são facilmente reconhecíveis pela janela transparente no topo do pacote, pela qual o chip de silício pode ser visto, e que admite luz ultravioleta durante o apagamento.\"\n\nO texto acima se refere a qual das memórias listadas abaixo?",
+  "alternativas": [
+   "USB",
+   "RAM",
+   "ROM",
+   "EPROM"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"EPROM\":** **EPROM** (Erasable Programmable ROM) é uma ROM que pode ser **apagada com luz ultravioleta**, pela janelinha transparente no chip, e depois regravada por um programador. É memória não volátil.\n\n**As outras:**\n- *USB*: USB é um padrão de conexão (barramento), e não um tipo de memória.\n- *RAM*: RAM é volátil (perde tudo sem energia) e não é apagada com luz ultravioleta.\n- *ROM*: ROM \"pura\" é gravada de fábrica e não pode ser apagada.\n\n**Para memorizar:** ROM (fábrica) → PROM (grava uma vez) → EPROM (apaga com UV) → EEPROM/flash (apaga com eletricidade)."
+ },
+ {
+  "id": "inf-0003",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)",
+  "cargo": "Contador (técnico-administrativo, nível superior; prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/156246/idecan-2022-unilab-contador-prova.pdf",
+  "enunciado": "João precisa numerar as páginas de um documento de texto editado no Word utilizando números romanos em algumas páginas e arábicos em outras. Por exemplo: da primeira à décima páginas, números romanos; da décima primeira até a última, arábicos. Para que isso seja possível, João tem que preparar o documento utilizando-se de:",
+  "alternativas": [
+   "Seções",
+   "Colunas",
+   "Orientação paisagem",
+   "Exibição de páginas lado a lado."
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"Seções\":** Para usar numeração, cabeçalho, orientação ou colunas diferentes em partes do mesmo documento, divide-se o texto em **seções** (Layout > Quebras > Quebra de seção > Próxima página). Depois desmarca-se \"Vincular ao Anterior\" no rodapé da nova seção e, em Formatar Números de Página, escolhe-se i, ii, iii para a primeira e 1, 2, 3 para a segunda.\n\n**As outras:**\n- *Colunas*: colunas dividem o texto da página em colunas de jornal; não mudam a numeração.\n- *Orientação paisagem*: orientação paisagem só gira a página; não muda o formato dos números.\n- *Exibição de páginas lado a lado*: exibir páginas lado a lado é só modo de visualização na tela.\n\n**Para memorizar:** \"diferente em partes do documento\" (numeração, cabeçalho, orientação) = quebra de seção."
+ },
+ {
+  "id": "inf-0004",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)",
+  "cargo": "Contador (técnico-administrativo, nível superior; prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/156246/idecan-2022-unilab-contador-prova.pdf",
+  "enunciado": "No editor de textos Word é possível aplicar diferentes formatações e textos ao cabeçalho e rodapé de um documento. Sobre as características de cabeçalhos e rodapés no Word, analise as afirmativas apresentadas a seguir:\n\nI. Uma vez aplicado, um cabeçalho será sempre o mesmo em todas as páginas pares de um documento.\nII. Podemos aplicar um cabeçalho específico apenas na primeira página de um documento.\nIII. Os números de páginas são sempre aplicados nos rodapés das páginas de um documento.\nIV. Páginas pares e ímpares podem ter cabeçalhos diferentes em um mesmo documento.\n\nAssinale",
+  "alternativas": [
+   "se somente os itens I e II estiverem corretos.",
+   "se somente os itens II e III estiverem corretos.",
+   "se somente os itens II e IV estiverem corretos.",
+   "se somente os itens I, II e III estiverem corretos."
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"se somente os itens II e IV estiverem corretos\":** A II e a IV estão corretas. Nas opções de cabeçalho e rodapé do Word existem \"**Primeira Página Diferente**\" (cabeçalho só na primeira página, ou nenhum nela) e \"**Páginas Pares e Ímpares Diferentes**\".\n\n**As outras:**\n- *se somente os itens I e II estiverem corretos*: inclui a I, que é falsa: com seções e com \"Vincular ao Anterior\" desligado, páginas pares podem ter cabeçalhos diferentes ao longo do documento.\n- *se somente os itens II e III estiverem corretos*: inclui a III, que é falsa: o número de página pode ir no cabeçalho, no rodapé ou nas margens da página.\n- *se somente os itens I, II e III estiverem corretos*: inclui a I e a III, as duas falsas.\n\n**Para memorizar:** Word: Inserir > Cabeçalho > Editar > marque \"Primeira Página Diferente\" ou \"Páginas Pares e Ímpares Diferentes\"."
+ },
+ {
+  "id": "inf-0005",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)",
+  "cargo": "Contador (técnico-administrativo, nível superior; prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/156246/idecan-2022-unilab-contador-prova.pdf",
+  "enunciado": "Assinale a alternativa que contém o estilo de formatação padrão para os novos documentos que são abertos no Word.",
+  "alternativas": [
+   "Normal",
+   "Título 1",
+   "Título 2",
+   "Texto"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"Normal\":** Todo documento novo do Word nasce do modelo Normal.dotm, e o texto digitado recebe o estilo **Normal**. Os estilos de título (Título 1, Título 2...) são aplicados pelo usuário e servem também para montar o **sumário automático** (Referências > Sumário).\n\n**As outras:**\n- *Título 1*: \"Título 1\" é o estilo do título de primeiro nível, aplicado só quando o usuário escolhe.\n- *Título 2*: \"Título 2\" é o estilo do subtítulo (segundo nível).\n- *Texto*: não existe no Word um estilo padrão chamado apenas \"Texto\"; o padrão é Normal.\n\n**Para memorizar:** Word: estilo padrão = Normal; Writer: \"Estilo de parágrafo padrão\". Sumário automático depende dos estilos de Título."
+ },
+ {
+  "id": "inf-0006",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "No que diz respeito ao hardware dos computadores, existe um dispositivo de saída de dados que representa uma categoria de periférico que oferece a forma mais rápida de impressão em grande formato, para produzir com eficiência desenhos muito grandes ou ilustrações coloridas baseadas em vetor de alta resolução. Essa impressora de grande formato também é adequada para produzir cortes de alta precisão numa ampla variedade de tamanhos, possibilitando a impressão de pôsteres, plantas, anúncios, embalagens e fotos.\n\nEsse dispositivo é conhecido por:",
+  "alternativas": [
+   "scanner",
+   "isostick",
+   "laserjet",
+   "plotter"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"plotter\":** **Plotter** é o periférico de **saída** para impressão em **grande formato** (A0, A1, banners), muito usado em arquitetura e engenharia para plotar plantas e pranchas. Alguns modelos também fazem corte (plotter de recorte).\n\n**As outras:**\n- *scanner*: scanner é dispositivo de **entrada**: digitaliza documentos e imagens.\n- *isostick*: \"isostick\" não é periférico de impressão; o termo foi inventado para confundir.\n- *laserjet*: LaserJet é uma linha de impressoras a laser (HP) de formato comum, como A4, e não de grande formato.\n\n**Para memorizar:** plotter = planta de arquitetura em A0/A1 (saída)."
+ },
+ {
+  "id": "inf-0007",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "Um texto foi digitado no editor Writer da suíte LibreOffice 7.3 (x64) em português, tendo sido realizados os procedimentos descritos a seguir.\n\nI. O título foi criado a partir do uso de uma ferramenta que permite customizar uma caixa de texto com opções específicas e que disponibiliza modelos padrões de texto artístico para inserir em um documento, com possibilidade de que sejam editados pelo usuário.\nII. No início do primeiro parágrafo, a letra \"E\" foi destacada em tamanho grande, ocupando a altura de várias linhas do texto.\n\nA ferramenta em I e o recurso em II são conhecidos, respectivamente, como:",
+  "alternativas": [
+   "Smartwork e capitular",
+   "Fontwork e capitular",
+   "Smartwork e tachar",
+   "Fontwork e tachar"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"Fontwork e capitular\":** No Writer, o **Fontwork** cria textos artísticos a partir de uma galeria de modelos editáveis (é o equivalente ao WordArt do Word). A **capitular** destaca a primeira letra do parágrafo em tamanho grande, ocupando várias linhas (Formatar > Parágrafo > Capitulares; no Word, Inserir > Capitular).\n\n**As outras:**\n- *Smartwork e capitular*: \"Smartwork\" não existe no LibreOffice (não confundir com o SmartArt do Office).\n- *Smartwork e tachar*: \"Smartwork\" não existe, e tachar é riscar o texto com uma linha no meio, não aumentar a primeira letra.\n- *Fontwork e tachar*: Fontwork está certo, mas tachar é o efeito de texto riscado (~~assim~~), não a letra grande do início.\n\n**Para memorizar:** Writer: Fontwork = WordArt; capitular = letra grande do início do parágrafo."
+ },
+ {
+  "id": "inf-0008",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "No que se refere aos sistemas operacionais Windows e Linux, dois componentes são caracterizados a seguir.\n\nI. Há um programa que é o firmware responsável pela execução de tarefas imprescindíveis, como o reconhecimento dos hardwares instalados, a verificação das horas no relógio interno e a inicialização do sistema operacional.\nII. Há um componente que representa o núcleo entre o hardware de um computador e seus processos, estabelecendo a comunicação e gerenciando recursos com a maior eficiência possível.\n\nOs componentes em I e II são denominados, respectivamente:",
+  "alternativas": [
+   "bios e kernel",
+   "kernel e swap",
+   "swap e setup",
+   "setup e bios"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"bios e kernel\":** A **BIOS** (ou UEFI, nas placas mais novas) é o **firmware** gravado na placa-mãe: faz o teste inicial do hardware (POST), mantém o relógio e dá a partida no sistema operacional. O **kernel** é o **núcleo** do sistema operacional, que faz a ponte entre o hardware e os programas e gerencia memória, processos e dispositivos.\n\n**As outras:**\n- *kernel e swap*: o kernel é o núcleo, não o firmware; e swap é a área de troca (memória virtual no disco).\n- *swap e setup*: swap é memória virtual no disco, não firmware; e o setup é só a tela de configuração da BIOS.\n- *setup e bios*: o setup é a tela de configuração da BIOS, e a BIOS não é o núcleo do sistema.\n\n**Para memorizar:** BIOS = liga e reconhece o hardware; kernel = coração do sistema operacional; swap = memória virtual."
+ },
+ {
+  "id": "inf-0009",
+  "disciplina": "informatica",
+  "assunto": "planilhas",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "A planilha abaixo foi criada no Calc da suíte LibreOffice 7.3 (x64) em português:\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| 2 | 18 | 19 | 22 | 15 |\n\nI. Em A4 foi inserida a expressão =MOD(MAIOR(A2:D2;3);5).\nII. Em D4 foi inserida a expressão =SE(A4<=2;\"NORDESTE\";\"SUDESTE\").\n\nNessas condições, os conteúdos mostrados em A4 e D4 são, respectivamente:",
+  "alternativas": [
+   "3 e NORDESTE",
+   "2 e NORDESTE",
+   "3 e SUDESTE",
+   "2 e SUDESTE"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"3 e SUDESTE\":** MAIOR(A2:D2;3) devolve o **3º maior** valor: em ordem decrescente, 22, 19, **18**, 15. MOD(18;5) é o **resto** da divisão de 18 por 5 = **3** (A4). Como 3 não é menor ou igual a 2, o SE devolve **SUDESTE** (D4).\n\n**As outras:**\n- *3 e NORDESTE*: o resto está certo (3), mas 3 <= 2 é falso, então o SE devolve SUDESTE, e não NORDESTE.\n- *2 e NORDESTE*: 2 seria o resto de 22 por 5 (o 1º maior), e não do 3º maior; e o SE também estaria errado.\n- *2 e SUDESTE*: SUDESTE está certo, mas o resto de 18 por 5 é 3, e não 2.\n\n**Para memorizar:** MAIOR(intervalo;k) = k-ésimo maior; MENOR(intervalo;k) = k-ésimo menor; MOD = resto da divisão."
+ },
+ {
+  "id": "inf-0010",
+  "disciplina": "informatica",
+  "assunto": "email-reunioes",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "Google Meet é um aplicativo desenvolvido pelo Google com foco na realização de videoconferências, possibilitando reuniões a distância. Na versão gratuita, oferece ferramenta de chat, compartilhamento de tela, reuniões em grupo com duração de até **x** horas e acesso de até **n** pessoas, entre outras facilidades.\n\nNessa situação, os valores de x e n são, respectivamente:",
+  "alternativas": [
+   "1 e 100",
+   "1 e 500",
+   "2 e 100",
+   "2 e 500"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"1 e 100\":** Na conta gratuita do Google Meet, reuniões com três ou mais participantes duram até **60 minutos (1 hora)** e aceitam até **100 participantes**. Chamadas entre duas pessoas podem durar mais. Planos pagos do Google Workspace ampliam os limites (mais participantes, gravação, tempo maior).\n\n**As outras:**\n- *1 e 500*: 500 participantes só existe em planos pagos do Google Workspace.\n- *2 e 100*: o limite gratuito para reuniões em grupo é de 1 hora, e não de 2.\n- *2 e 500*: 2 horas e 500 pessoas são limites de planos pagos.\n\n**Para memorizar:** Meet grátis: 100 pessoas, 1 hora em grupo. Zoom grátis: reuniões de 40 minutos."
+ },
+ {
+  "id": "inf-0011",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "Ao usar os recursos de um browser como o Google Chrome ou o Firefox Mozilla, em ambos é possível realizar três procedimentos:\n\nI. navegar em sites na modalidade tela cheia, a partir do acionamento de uma tecla de função;\nII. verificar o andamento dos downloads em execução ou já concluídos, por meio de um atalho de teclado;\nIII. procurar uma palavra ou frase na página exibida naquele momento, por meio de uma barra de localização aberta por um atalho de teclado.\n\nA tecla de função em I e os atalhos de teclado em II e em III são, respectivamente:",
+  "alternativas": [
+   "F10, Ctrl + J e Ctrl + P",
+   "F11, Ctrl + J e Ctrl + F",
+   "F10, Ctrl + D e Ctrl + F",
+   "F11, Ctrl + D e Ctrl + P"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"F11, Ctrl + J e Ctrl + F\":** **F11** liga e desliga a tela cheia. **Ctrl + J** abre a página/painel de **downloads** no Chrome e no Firefox (no Windows). **Ctrl + F** abre a busca de texto na página (*find*).\n\n**As outras:**\n- *F10, Ctrl + J e Ctrl + P*: F10 ativa a barra de menus (não é tela cheia), e Ctrl + P abre a impressão, não a busca.\n- *F10, Ctrl + D e Ctrl + F*: F10 não é tela cheia, e Ctrl + D adiciona a página aos favoritos.\n- *F11, Ctrl + D e Ctrl + P*: F11 está certo, mas Ctrl + D é favoritar e Ctrl + P é imprimir.\n\n**Para memorizar:** F11 = Full screen; Ctrl+J = downloads; Ctrl+F = Find; Ctrl+D = favorito; Ctrl+P = Print."
+ },
+ {
+  "id": "inf-0012",
+  "disciplina": "informatica",
+  "assunto": "seguranca",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Fortaleza/CE (SESEC/SEPOG)",
+  "cargo": "Guarda Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/95032/idecan-2023-prefeitura-de-fortaleza-ce-guarda-municipal-prova.pdf",
+  "enunciado": "Segurança da informação é a proteção de dados de propriedade das organizações contra perigos e ameaças diversas. Entre os princípios da segurança da informação, um tem por principal objetivo preservar o sigilo dos dados, significando que certas informações não devem ser acessadas por pessoas que não sejam credenciadas, nem divulgadas por essas pessoas com fins obscuros.\n\nEsse princípio é conhecido por:",
+  "alternativas": [
+   "integridade",
+   "autenticidade",
+   "confidencialidade",
+   "vulnerabilidade"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"confidencialidade\":** **Confidencialidade** garante o **sigilo**: só pessoas autorizadas acessam a informação. É protegida com controle de acesso, senhas e **criptografia**. Com integridade e disponibilidade, forma a tríade básica da segurança (CID).\n\n**As outras:**\n- *integridade*: integridade garante que a informação não foi **alterada** sem autorização (exatidão e completude).\n- *autenticidade*: autenticidade garante a **identidade** do autor ou da origem da informação (quem enviou é quem diz ser).\n- *vulnerabilidade*: vulnerabilidade não é princípio: é uma **fraqueza** que pode ser explorada por uma ameaça.\n\n**Para memorizar:** CID: Confidencialidade (sigilo), Integridade (sem alteração), Disponibilidade (acesso quando precisa). + Autenticidade e não repúdio."
+ },
+ {
+  "id": "inf-0013",
+  "disciplina": "informatica",
+  "assunto": "planilhas",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "A planilha abaixo foi elaborada no Calc da suíte LibreOffice 7.3 x(64), em português BR:\n\n| | A | B | C | D | E |\n|---|---|---|---|---|---|\n| 7 | 27 | 12 | | 5 | |\n| 8 | 23 | 18 | | | |\n| 9 | 29 | 22 | | ? | |\n| 10 | 21 | 16 | | | |\n| 11 | 33 | 20 | | | ? |\n| 12 | 41 | 10 | | | |\n| 13 | 37 | 14 | | | |\n\nI. Em D9 foi inserida a expressão =SOMA(A7;A11;$D$7) e, em seguida, essa célula foi selecionada e executado o atalho de teclado Ctrl + C.\nII. Para finalizar, a célula E11 foi selecionada e executado o atalho de teclado Ctrl + V.\n\nNessas condições, os valores mostrados em D9 e E11 são, respectivamente:",
+  "alternativas": [
+   "65 e 41",
+   "65 e 87",
+   "138 e 41",
+   "138 e 87"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"65 e 41\":** Com **ponto e vírgula**, SOMA soma só as células citadas: A7 + A11 + D7 = 27 + 33 + 5 = **65**. Ao colar em E11, a fórmula anda **1 coluna e 2 linhas**: A7 vira B9, A11 vira B13, e **$D$7** (referência absoluta) não muda. E11 = B9 + B13 + D7 = 22 + 14 + 5 = **41**.\n\n**As outras:**\n- *65 e 87*: D9 está certo, mas 87 seria a soma do intervalo B9:B13 (82) + 5; a fórmula usa \";\", e não \":\".\n- *138 e 41*: 138 seria a soma do intervalo A7:A11 (133) + 5; com \";\" só entram A7 e A11.\n- *138 e 87*: os dois valores tratam \";\" como se fosse \":\" (intervalo).\n\n**Para memorizar:** \";\" = \"e\" (células avulsas); \":\" = \"até\" (intervalo). $ trava a linha ou a coluna na cópia."
+ },
+ {
+  "id": "inf-0014",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "No que diz respeito aos dispositivos integrados à configuração dos microcomputadores e notebooks, analise e atribua V (verdadeira) ou F (falsa) às afirmativas a seguir.\n\n( ) Scanner, teclado e plotter são exemplos de dispositivos que operam, exclusivamente, para entrada de dados.\n( ) Mouse, modem e roteadores são exemplos de dispositivos que operam, exclusivamente, na saída de dados.\n( ) Pendrive, HD e SSD são exemplos de dispositivos que podem operar tanto na entrada como na saída de dados, em momentos diferentes.\n\nA sequência correta é:",
+  "alternativas": [
+   "V – V – F",
+   "V – F – V",
+   "F – V – F",
+   "F – F – V"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"F – F – V\":** 1ª **F**: scanner e teclado são de entrada, mas o **plotter é de saída**. 2ª **F**: o mouse é de **entrada**, e modem e roteador **enviam e recebem** dados (entrada e saída). 3ª **V**: pendrive, HD e SSD são lidos (entrada) e gravados (saída): são dispositivos de **entrada e saída** (armazenamento).\n\n**As outras:**\n- *V – V – F*: marca a 1ª e a 2ª como verdadeiras, mas plotter é saída e mouse é entrada.\n- *V – F – V*: a 1ª é falsa por causa do plotter.\n- *F – V – F*: a 2ª é falsa (mouse é entrada) e a 3ª é verdadeira.\n\n**Para memorizar:** entrada: teclado, mouse, scanner, microfone; saída: monitor, impressora, plotter, caixa de som; entrada e saída: HD, SSD, pendrive, modem, roteador, tela touch, multifuncional."
+ },
+ {
+  "id": "inf-0015",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "No uso dos recursos do sistema operacional Windows 10/11 BR, um atalho de teclado tem por significado alternar o acesso a programas que estejam em execução concorrente, na modalidade multitarefa preemptiva, enquanto outro tem por finalidade acessar e/ou ocultar a área de trabalho. Esses atalhos são identificados, respectivamente, como:",
+  "alternativas": [
+   "Alt + Tab e tecla Windows + A",
+   "Alt + Tab e tecla Windows + D",
+   "Ctrl + Tab e tecla Windows + A",
+   "Ctrl + Tab e tecla Windows + D"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"Alt + Tab e tecla Windows + D\":** **Alt + Tab** alterna entre as janelas dos programas abertos. **Windows + D** mostra a área de trabalho (minimiza tudo) e, pressionado de novo, restaura as janelas. D de *desktop*.\n\n**As outras:**\n- *Alt + Tab e tecla Windows + A*: Windows + A abre a Central de Ações / Configurações rápidas, e não a área de trabalho.\n- *Ctrl + Tab e tecla Windows + A*: Ctrl + Tab alterna entre **abas** dentro do mesmo programa (navegador, caixas de diálogo), e não entre programas.\n- *Ctrl + Tab e tecla Windows + D*: Windows + D está certo, mas Ctrl + Tab troca de aba, não de programa.\n\n**Para memorizar:** Alt+Tab = entre programas; Ctrl+Tab = entre abas; Win+Tab = Visão de Tarefas."
+ },
+ {
+  "id": "inf-0016",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "Durante a digitação de um documento no editor Writer da suíte LibreOffice 7.3 x(64), em português BR, foram realizados os procedimentos a seguir:\n\nI. Foi selecionado o título do texto e aplicado um tipo de alinhamento por meio da execução de Ctrl + E.\nII. Foi selecionada a palavra IDECAN e aplicado o estilo negrito por meio de um atalho de teclado.\nIII. Ao final da digitação, o cursor foi posicionado no início do primeiro parágrafo e pressionada uma tecla de função para realizar a verificação ortográfica e gramatical.\n\nO alinhamento aplicado em I, o atalho de teclado em II e a tecla de função em III são, respectivamente:",
+  "alternativas": [
+   "justificado, Ctrl + N e F7",
+   "justificado, Ctrl + B e F5",
+   "centralizado, Ctrl + B e F7",
+   "centralizado, Ctrl + N e F5"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"centralizado, Ctrl + B e F7\":** No **Writer em português**: Ctrl + E = **centralizar**; Ctrl + **B** = **negrito** (de *bold*); **F7** = verificação ortográfica e gramatical. Cuidado: no **Word** em português o negrito é Ctrl + **N**, e no Writer Ctrl + N cria um documento novo.\n\n**As outras:**\n- *justificado, Ctrl + N e F7*: Ctrl + E não justifica (justificar é Ctrl + J) e, no Writer, Ctrl + N abre documento novo.\n- *justificado, Ctrl + B e F5*: justificar é Ctrl + J, e F5 abre o Navegador do Writer, não a ortografia.\n- *centralizado, Ctrl + N e F5*: o alinhamento está certo, mas Ctrl + N é novo documento no Writer e F5 é o Navegador.\n\n**Para memorizar:** Writer: B negrito, I itálico, U sublinhado; Word: N, I, S. Nos dois: E centraliza, J justifica, F7 ortografia."
+ },
+ {
+  "id": "inf-0017",
+  "disciplina": "informatica",
+  "assunto": "email-reunioes",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "No que se relaciona à Internet, quanto à navegação e ao correio eletrônico, analise as afirmativas a seguir:\n\nI. No software de correio eletrônico Thunderbird Mozilla, os e-mails vindos da Internet e enviados a um determinado destinatário são armazenados numa caixa postal denominada, por padrão, Entrada.\nII. Baixar arquivos de sites da Internet, como editais de concursos públicos, configura uma atividade conhecida por upload.\nIII. A navegação em sites é realizada, comumente, por meio dos browsers Firefox Mozilla e Google Chrome e, nesses programas, a visualização das páginas em tela cheia é possibilitada pela tecla de função F11.\n\nApós análise, admite-se como corretas",
+  "alternativas": [
+   "apenas as afirmativas I e II.",
+   "apenas as afirmativas I e III.",
+   "apenas as afirmativas II e III.",
+   "as afirmativas I, II e III."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"apenas as afirmativas I e III\":** I: correta, as mensagens recebidas ficam na pasta **Entrada** (caixa de entrada). III: correta, **F11** liga a tela cheia no Chrome e no Firefox. A II é falsa: **baixar** arquivos da internet para o computador é **download**; **upload** é o contrário (enviar do computador para a internet, como anexar um arquivo ou subir uma foto).\n\n**As outras:**\n- *apenas as afirmativas I e II*: inclui a II, que confunde download com upload.\n- *apenas as afirmativas II e III*: inclui a II e deixa de fora a I, que está correta.\n- *as afirmativas I, II e III*: inclui a II.\n\n**Para memorizar:** down = descer (da internet para você); up = subir (de você para a internet)."
+ },
+ {
+  "id": "inf-0018",
+  "disciplina": "informatica",
+  "assunto": "seguranca",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente Comunitário de Saúde (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114717/idecan-2023-prefeitura-de-maracanau-ce-agente-comunitario-de-saude-prova.pdf",
+  "enunciado": "No contexto da segurança da informação, associe o princípio de segurança ao seu respectivo significado:\n\nI. Integridade\nII. Disponibilidade\nIII. Autenticidade\nIV. Confiabilidade\n\n( ) garante o acesso das informações às pessoas autorizadas, ou seja, não as disponibiliza a indivíduos, entidades ou processos não autorizados.\n( ) garante a veracidade das informações, indicando que os dados não podem ser alterados sem autorização.\n( ) garante a verdadeira autoria da informação, ou seja, que os dados são de fato provenientes de determinada fonte.\n( ) garante que dados e sistemas estejam prontos para uso, por pessoas autorizadas, no momento em que for necessário.\n\nA sequência correta é:",
+  "alternativas": [
+   "IV – I – III – II",
+   "I – III – II – IV",
+   "III – II – IV – I",
+   "II – IV – I – III"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"IV – I – III – II\":** 1º parêntese: acesso só para autorizados = **sigilo**, que a questão chamou de \"Confiabilidade\" (o nome técnico é **confidencialidade**) → IV. 2º: dados não alterados sem autorização = **Integridade** → I. 3º: verdadeira autoria = **Autenticidade** → III. 4º: pronto para uso quando necessário = **Disponibilidade** → II.\n\n**As outras:**\n- *I – III – II – IV*: começa com Integridade para \"acesso só a autorizados\", que é sigilo (confidencialidade).\n- *III – II – IV – I*: associa autenticidade ao sigilo e disponibilidade à não alteração.\n- *II – IV – I – III*: troca todos os pares: disponibilidade não é sigilo, e confiabilidade não é integridade.\n\n**Para memorizar:** sigilo → confidencialidade; não alterou → integridade; quem fez → autenticidade; está no ar → disponibilidade."
+ },
+ {
+  "id": "inf-0019",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente de Combate às Endemias (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114716/idecan-2023-prefeitura-de-maracanau-ce-agente-de-combate-as-endemias-prova.pdf",
+  "enunciado": "Durante a digitação de um documento no editor Writer da suíte LibreOffice 7.3 x(64), em português BR, foram executados os procedimentos a seguir:\n\nI. A sigla idecan, em minúsculas, foi digitada em um texto. Em seguida, um atalho de teclado foi executado sucessivamente, mostrando a mesma sigla nas grafias \"Idecan – IDECAN – idecan – Idecan – IDECAN\", ora com a primeira letra em maiúscula, ora com todas as letras em maiúsculas, ora com todas em minúsculas.\nII. A palavra \"BRASÍLIA\" foi inserida no texto em formato de texto artístico, gerado por uma ferramenta que permite customizar uma caixa de texto e que disponibiliza uma galeria de modelos de padrões textuais para inserir no documento, permitindo que sejam editados pelo usuário.\n\nO atalho de teclado em I e a ferramenta em II são, respectivamente:",
+  "alternativas": [
+   "Shift + F3 e FontWork",
+   "Shift + F2 e TextWork",
+   "Shift + F3 e TextWork",
+   "Shift + F2 e FontWork"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"Shift + F3 e FontWork\":** **Shift + F3** alterna entre maiúsculas e minúsculas (Primeira Letra Maiúscula → MAIÚSCULAS → minúsculas), tanto no Writer quanto no Word. A galeria de textos artísticos do Writer é o **Fontwork** (Inserir > Fontwork), equivalente ao WordArt do Word.\n\n**As outras:**\n- *Shift + F2 e TextWork*: Shift + F2 não alterna maiúsculas e minúsculas, e \"TextWork\" não existe.\n- *Shift + F3 e TextWork*: Shift + F3 está certo, mas a ferramenta se chama Fontwork, não \"TextWork\".\n- *Shift + F2 e FontWork*: Fontwork está certo, mas o atalho de alternar maiúsculas é Shift + F3.\n\n**Para memorizar:** Shift + F3 = muda a \"altura\" das letras; Fontwork (Writer) = WordArt (Word)."
+ },
+ {
+  "id": "inf-0020",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente de Combate às Endemias (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114716/idecan-2023-prefeitura-de-maracanau-ce-agente-de-combate-as-endemias-prova.pdf",
+  "enunciado": "As memórias RAM, do tipo DDR, possuem dispositivos semicondutores e armazenam a informação temporariamente, ou seja, o que está armazenado nelas tem de ser constantemente atualizado para não se perder, e essa atualização é feita por pulsos elétricos. Por exemplo, já ocorreu de um usuário do Word estar digitando um texto e acabar a energia antes que ele salvasse o arquivo, resultando na perda de tudo o que tinha digitado.\n\nO fato descrito está associado a uma característica desse tipo de memória denominada:",
+  "alternativas": [
+   "acessibilidade.",
+   "usabilidade.",
+   "volatilidade.",
+   "conectividade."
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"volatilidade\":** A RAM é **volátil**: só guarda dados enquanto recebe energia. Sem energia, o conteúdo se perde, por isso o texto não salvo some quando falta luz. Ao salvar, o arquivo vai para o armazenamento **não volátil** (HD, SSD, pendrive).\n\n**As outras:**\n- *acessibilidade*: acessibilidade é a facilidade de uso por pessoas com deficiência, não característica da memória.\n- *usabilidade*: usabilidade é a facilidade de uso de um sistema ou interface.\n- *conectividade*: conectividade é a capacidade de se conectar a redes ou dispositivos.\n\n**Para memorizar:** RAM = volátil (apaga sem energia); ROM, HD, SSD = não voláteis."
+ },
+ {
+  "id": "inf-0021",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente de Combate às Endemias (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114716/idecan-2023-prefeitura-de-maracanau-ce-agente-de-combate-as-endemias-prova.pdf",
+  "enunciado": "No uso dos recursos do sistema operacional Windows 10 BR, analise e atribua V (verdadeira) ou F (falsa) às afirmativas a seguir.\n\n( ) Para abrir e acessar o gerenciador de pastas e arquivos, conhecido por Explorador de Arquivos, deve-se executar o atalho de teclado tecla Windows + E.\n( ) Para mostrar e ocultar a Área de Trabalho, deve-se executar o atalho de teclado tecla Windows + D.\n( ) Para abrir a janela de Configurações, deve-se executar o atalho de teclado tecla Windows + C.\n\nA sequência correta é:",
+  "alternativas": [
+   "F – V – F",
+   "V – V – F",
+   "F – F – V",
+   "V – F – V"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"V – V – F\":** 1ª **V**: Windows + E abre o Explorador de Arquivos. 2ª **V**: Windows + D mostra e oculta a área de trabalho. 3ª **F**: as **Configurações** abrem com Windows + **I**; o Windows + C é ligado ao assistente (Cortana/Copilot, conforme a versão).\n\n**As outras:**\n- *F – V – F*: marca a 1ª como falsa, mas Win + E abre mesmo o Explorador.\n- *F – F – V*: marca as duas primeiras como falsas e a terceira como verdadeira: é o contrário.\n- *V – F – V*: a 2ª é verdadeira e a 3ª é falsa (Configurações = Win + I).\n\n**Para memorizar:** Win+E Explorer, Win+D Desktop, Win+I confIguraçõEs, Win+L bLoquear, Win+R Executar."
+ },
+ {
+  "id": "inf-0022",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente de Combate às Endemias (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114716/idecan-2023-prefeitura-de-maracanau-ce-agente-de-combate-as-endemias-prova.pdf",
+  "enunciado": "No contexto do uso dos recursos do browser Google Chrome, relacione o atalho de teclado à sua finalidade.\n\nI. Ctrl + J\nII. Ctrl + P\nIII. Ctrl + D\nIV. Ctrl + L\n\n( ) Ir para a Barra de Endereços.\n( ) Salvar a página da web atual nos Favoritos.\n( ) Abrir a página de downloads em uma nova guia.\n( ) Abrir opções para imprimir a página atual.\n\nA sequência correta é:",
+  "alternativas": [
+   "IV – III – I – II",
+   "I – IV – II – III",
+   "II – I – III – IV",
+   "III – II – IV – I"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"IV – III – I – II\":** Ctrl + **L** seleciona a barra de endereços (*location*) → IV. Ctrl + **D** salva a página nos favoritos → III. Ctrl + **J** abre os downloads → I. Ctrl + **P** abre a impressão (*print*) → II.\n\n**As outras:**\n- *I – IV – II – III*: começa ligando Ctrl + J à barra de endereços; Ctrl + J abre os downloads.\n- *II – I – III – IV*: liga Ctrl + P à barra de endereços; Ctrl + P é imprimir.\n- *III – II – IV – I*: liga Ctrl + D à barra de endereços; Ctrl + D é favoritar.\n\n**Para memorizar:** L = Location (endereço), D = bookmark (favorito), J = downloads, P = Print, T = nova aba, H = histórico."
+ },
+ {
+  "id": "inf-0023",
+  "disciplina": "informatica",
+  "assunto": "seguranca",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2023,
+  "orgao": "Prefeitura Municipal de Maracanaú/CE",
+  "cargo": "Agente de Combate às Endemias (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/114716/idecan-2023-prefeitura-de-maracanau-ce-agente-de-combate-as-endemias-prova.pdf",
+  "enunciado": "No que se relaciona à segurança da informação, dois termos em inglês são descritos a seguir.\n\nI. Atividade de realizar cópias de segurança, em determinado momento, que visa garantir a integridade dos dados e os guarda em um dispositivo de armazenamento ou sistema localizado, muitas vezes, em outro ambiente.\nII. Associado à política de segurança de uma instituição, é um sistema de segurança de rede que limita o tráfego de entrada, saída ou trocas dentro de uma rede privada. Esse software ou hardware funciona bloqueando seletivamente ou permitindo pacotes de dados, ajudando a prevenir atividades mal-intencionadas.\n\nOs termos definidos em I e II são denominados, respectivamente:",
+  "alternativas": [
+   "vpn e swap.",
+   "backup e firewall.",
+   "swap e backup.",
+   "firewall e vpn."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"backup e firewall\":** **Backup** é a cópia de segurança dos dados, de preferência guardada em outro local (outro disco, nuvem), para recuperar o que for perdido. **Firewall** é a barreira (software ou hardware) que **filtra o tráfego** de rede conforme regras, permitindo ou bloqueando conexões.\n\n**As outras:**\n- *vpn e swap*: VPN é uma rede privada virtual (túnel criptografado pela internet), e swap é memória virtual no disco.\n- *swap e backup*: swap não é cópia de segurança, e backup não filtra tráfego.\n- *firewall e vpn*: firewall é o II, não o I; e VPN não filtra pacotes, ela cria um túnel seguro.\n\n**Para memorizar:** backup = cópia; firewall = porteiro da rede; antivírus = caça malware; VPN = túnel seguro."
+ },
+ {
+  "id": "inf-0024",
+  "disciplina": "informatica",
+  "assunto": "hardware",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de João Pessoa/PB",
+  "cargo": "Guarda Civil Municipal (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/105962/idecan-2024-prefeitura-de-joao-pessoa-pb-guarda-civil-municipal-prova.pdf",
+  "enunciado": "Entre os dispositivos de armazenamento utilizados nos microcomputadores e notebooks atuais, um é uma unidade de estado sólido, não contém partes móveis, é memória não volátil e é mais rápido por característica. Na comparação com os HDs, como vantagens, são dispositivos mais rápidos e menos propensos a danos de manuseio. Como desvantagens, são mais caros e apresentam vida útil menor.\n\nEsse dispositivo de armazenamento de dados é conhecido como:",
+  "alternativas": [
+   "SSH",
+   "PCI",
+   "IDE",
+   "SSD"
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"SSD\":** **SSD** (Solid State Drive, unidade de estado sólido) usa memória **flash**, sem peças móveis: é mais rápido e resistente a impactos que o HD, mas costuma custar mais por gigabyte e tem número limitado de ciclos de gravação.\n\n**As outras:**\n- *SSH*: SSH é um protocolo de acesso remoto seguro, não um dispositivo.\n- *PCI*: PCI (e PCI Express) é um barramento/slot da placa-mãe para placas de expansão.\n- *IDE*: IDE (PATA) é um padrão antigo de conexão de HDs e drives ópticos, substituído pelo SATA.\n\n**Para memorizar:** SSD = flash, sem peças móveis; HD = magnético, com disco girando."
+ },
+ {
+  "id": "inf-0025",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de João Pessoa/PB",
+  "cargo": "Guarda Civil Municipal (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/105962/idecan-2024-prefeitura-de-joao-pessoa-pb-guarda-civil-municipal-prova.pdf",
+  "enunciado": "De modo análogo ao Windows, que usa o gerenciador de pastas e arquivos Explorer, os sistemas operacionais Linux também disponibilizam ambientes gráficos. Entre eles, um gerenciador de arquivos é o padrão do KDE, enquanto outro é o padrão do GNOME.\n\nEsses gerenciadores no Linux são:",
+  "alternativas": [
+   "Debian e Dolphin",
+   "Nautilus e Ubuntu",
+   "Dolphin e Nautilus",
+   "Ubuntu e Debian"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"Dolphin e Nautilus\":** O **Dolphin** é o gerenciador de arquivos padrão do ambiente gráfico **KDE Plasma**; o **Nautilus** (hoje chamado \"Arquivos\") é o do **GNOME**. Outros: Thunar (XFCE) e Nemo (Cinnamon).\n\n**As outras:**\n- *Debian e Dolphin*: Debian é uma distribuição Linux, não gerenciador de arquivos.\n- *Nautilus e Ubuntu*: Ubuntu é uma distribuição Linux; e a ordem está trocada (Nautilus é do GNOME).\n- *Ubuntu e Debian*: Ubuntu e Debian são distribuições, não gerenciadores de arquivos.\n\n**Para memorizar:** KDE → Dolphin; GNOME → Nautilus (Arquivos). Ubuntu, Debian, Fedora e Mint são distribuições, não gerenciadores."
+ },
+ {
+  "id": "inf-0026",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de João Pessoa/PB",
+  "cargo": "Guarda Civil Municipal (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/105962/idecan-2024-prefeitura-de-joao-pessoa-pb-guarda-civil-municipal-prova.pdf",
+  "enunciado": "No que se refere aos recursos do editor de textos Word 2019 BR (x64), a execução do atalho de teclado **Ctrl + D** tem por objetivo abrir o seguinte objeto:",
+  "alternativas": [
+   "a janela de diálogo Fonte, para alterar a formatação dos caracteres",
+   "a caixa de diálogo de busca e pesquisa",
+   "a janela SmartArt, para inserir um gráfico padronizado",
+   "a caixa de diálogo para salvar o texto em um arquivo"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"a janela de diálogo Fonte, para alterar a formatação dos caracteres\":** No Word em português, **Ctrl + D** abre a caixa de diálogo **Fonte** (tipo, estilo, tamanho, cor, efeitos como tachado, sobrescrito, versalete). No navegador, o mesmo Ctrl + D salva a página nos favoritos: o atalho muda conforme o programa.\n\n**As outras:**\n- *a caixa de diálogo de busca e pesquisa*: a busca no Word é Ctrl + L (Localizar) e a substituição é Ctrl + U.\n- *a janela SmartArt, para inserir um gráfico padronizado*: SmartArt é inserido pela guia Inserir > SmartArt; não tem esse atalho.\n- *a caixa de diálogo para salvar o texto em um arquivo*: salvar é Ctrl + B no Word em português (e F12 abre o Salvar como).\n\n**Para memorizar:** Word pt-BR: Ctrl+D Fonte, Ctrl+B salvar, Ctrl+N negrito, Ctrl+L localizar, Ctrl+U substituir, Ctrl+P imprimir."
+ },
+ {
+  "id": "inf-0027",
+  "disciplina": "informatica",
+  "assunto": "planilhas",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de João Pessoa/PB",
+  "cargo": "Guarda Civil Municipal (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/105962/idecan-2024-prefeitura-de-joao-pessoa-pb-guarda-civil-municipal-prova.pdf",
+  "enunciado": "Duas planilhas, PL1 e PL2, fazem parte de um mesmo arquivo criado no Calc do LibreOffice 7.3 (x64) em português BR. Em PL1, na célula D4, foi inserida uma fórmula que determina o segundo maior número entre os das células A2, B2, C2 e D2 (o resultado é 17). Em seguida, foi inserida em D2 da planilha PL2 uma fórmula que transfere o número 17 de D4 em PL1 para D2 em PL2.\n\nNessas condições, a fórmula inserida em D4 de PL1 e a inserida em D2 de PL2 são, respectivamente:",
+  "alternativas": [
+   "=MAIOR(A2:D2>2) e =PL1!D4",
+   "=MAIOR(A2:D2;2) e =PL1.D4",
+   "=MAIOR(A2:D2;2) e =PL1!D4",
+   "=MAIOR(A2:D2>2) e =PL1.D4"
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"=MAIOR(A2:D2;2) e =PL1.D4\":** MAIOR tem dois argumentos separados por ponto e vírgula: o intervalo e a posição, =MAIOR(A2:D2;**2**) = 2º maior. Para buscar célula de outra planilha, o **Calc** usa **ponto**: =PL1**.**D4 (ou =$PL1.D4). O **Excel** é que usa exclamação: =PL1**!**D4.\n\n**As outras:**\n- *=MAIOR(A2:D2>2) e =PL1!D4*: \"A2:D2>2\" não é a sintaxe da função MAIOR, e \"!\" é a referência do Excel, não do Calc.\n- *=MAIOR(A2:D2;2) e =PL1!D4*: a função está certa, mas no Calc a referência a outra planilha usa ponto, não exclamação.\n- *=MAIOR(A2:D2>2) e =PL1.D4*: \"A2:D2>2\" está errado: a posição vai como segundo argumento, depois do \";\".\n\n**Para memorizar:** outra planilha: Calc = Planilha.Célula; Excel = Planilha!Célula."
+ },
+ {
+  "id": "inf-0028",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de João Pessoa/PB",
+  "cargo": "Guarda Civil Municipal (prova tipo B)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/105962/idecan-2024-prefeitura-de-joao-pessoa-pb-guarda-civil-municipal-prova.pdf",
+  "enunciado": "Um internauta está navegando no site do Google no browser Firefox Mozilla, em sua última versão, em um microcomputador com sistema operacional Windows 10 BR (x64). Para abrir uma nova aba nesse browser, ele deve executar o seguinte atalho de teclado:",
+  "alternativas": [
+   "Alt + T",
+   "Ctrl + A",
+   "Ctrl + T",
+   "Alt + A"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"Ctrl + T\":** **Ctrl + T** abre uma nova aba (*tab*) no Firefox, no Chrome e no Edge. Atalhos vizinhos: Ctrl + W fecha a aba, Ctrl + Shift + T reabre a última aba fechada, Ctrl + N abre nova janela e Ctrl + Shift + P (Firefox) ou Ctrl + Shift + N (Chrome) abre a janela privativa/anônima.\n\n**As outras:**\n- *Alt + T*: Alt + T não abre nova aba; com a tecla Alt se acessam os menus da barra de menus.\n- *Ctrl + A*: Ctrl + A seleciona todo o conteúdo da página.\n- *Alt + A*: Alt + A não abre nova aba no Firefox.\n\n**Para memorizar:** T = Tab (aba); W = fecha; Shift + T = desfaz o fechamento."
+ },
+ {
+  "id": "inf-0029",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de Macaíba/RN",
+  "cargo": "Guarda Civil Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/131567/idecan-2024-prefeitura-de-macaiba-rn-guarda-civil-municipal-masculino-e-feminino-prova.pdf",
+  "enunciado": "O sistema operacional Windows 11 tem diversos atalhos de teclado, que são teclas ou combinações de teclas que possibilitam ao usuário uma maneira alternativa de realizar determinada ação sem o uso do mouse. O atalho utilizado para percorrer os aplicativos fixados e abertos na **barra de tarefas**, sem o uso do mouse, é composto pelas teclas:",
+  "alternativas": [
+   "Windows + P.",
+   "Windows + T.",
+   "Ctrl + T.",
+   "Windows + S.",
+   "Ctrl + A."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"Windows + T\":** **Windows + T** coloca o foco nos ícones da **barra de tarefas** (T de *taskbar*); repetindo o atalho ou usando as setas, percorrem-se os aplicativos, e Enter abre o selecionado.\n\n**As outras:**\n- *Windows + P*: Windows + P abre as opções de projeção (duplicar, estender, só segunda tela).\n- *Ctrl + T*: Ctrl + T abre nova aba nos navegadores; não é atalho do Windows para a barra de tarefas.\n- *Windows + S*: Windows + S abre a pesquisa do Windows.\n- *Ctrl + A*: Ctrl + A seleciona tudo.\n\n**Para memorizar:** Win + T = Taskbar; Win + número (1, 2, 3...) abre o app daquela posição da barra."
+ },
+ {
+  "id": "inf-0030",
+  "disciplina": "informatica",
+  "assunto": "planilhas",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de Macaíba/RN",
+  "cargo": "Guarda Civil Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/131567/idecan-2024-prefeitura-de-macaiba-rn-guarda-civil-municipal-masculino-e-feminino-prova.pdf",
+  "enunciado": "O Calc do LibreOffice pode ser utilizado no cálculo de dados estatísticos. Considere a tabela a seguir, em que os dados estão na coluna B (B3 tem o rótulo \"DADOS\") e a moda deve ser exibida na linha 16:\n\n| | A | B |\n|---|---|---|\n| 3 | | DADOS |\n| 4 a 8 | | 2 (em cada uma das cinco células) |\n| 9 e 10 | | 3 |\n| 11 e 12 | | 4 |\n| 13 a 15 | | 5 |\n| 16 | MODA | |\n\nPara exibir a moda dos dados contidos na tabela, deve-se recorrer à função:",
+  "alternativas": [
+   "=MOD(A4:A15).",
+   "=MODA(A4:A15).",
+   "=MODA(B4:B15).",
+   "=MOD(B4:B15).",
+   "=MODO(B4:B15)."
+  ],
+  "correta": 4,
+  "comentario": "**Por que \"=MODO(B4:B15)\":** No Calc (e no Excel) em português, a função que devolve a **moda** (valor que mais se repete) se chama **MODO**, e os dados estão em **B4:B15**. Resultado: **2**, que aparece cinco vezes.\n\n**As outras:**\n- *=MOD(A4:A15)*: MOD calcula o resto de uma divisão (e pede dois números), e a coluna A está vazia.\n- *=MODA(A4:A15)*: \"MODA\" não é o nome da função em português, e A4:A15 está vazio.\n- *=MODA(B4:B15)*: o intervalo está certo, mas a função se chama MODO, não \"MODA\".\n- *=MOD(B4:B15)*: MOD é resto da divisão, não moda.\n\n**Para memorizar:** MODO = moda; MED = mediana; MÉDIA = média; MOD = resto."
+ },
+ {
+  "id": "inf-0031",
+  "disciplina": "informatica",
+  "assunto": "sistemas-operacionais",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de Macaíba/RN",
+  "cargo": "Guarda Civil Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/131567/idecan-2024-prefeitura-de-macaiba-rn-guarda-civil-municipal-masculino-e-feminino-prova.pdf",
+  "enunciado": "A calculadora do Windows 11 inclui diversos modos de operação. Para realizar operações com o sistema de numeração posicional de base 16 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E e F), deve-se recorrer ao modo:",
+  "alternativas": [
+   "Científica.",
+   "Representação de Sistemas.",
+   "Padrão.",
+   "Representação Binária.",
+   "Programador."
+  ],
+  "correta": 4,
+  "comentario": "**Por que \"Programador\":** O modo **Programador** da Calculadora trabalha com as bases **HEX** (16), **DEC** (10), **OCT** (8) e **BIN** (2), converte entre elas e faz operações lógicas (AND, OR, XOR).\n\n**As outras:**\n- *Científica*: o modo Científica tem funções como seno, potência e logaritmo, mas não conversão de bases.\n- *Representação de Sistemas*: \"Representação de Sistemas\" não é modo da Calculadora do Windows.\n- *Padrão*: o modo Padrão faz só as operações básicas.\n- *Representação Binária*: \"Representação Binária\" não é modo da Calculadora; o binário fica dentro do modo Programador.\n\n**Para memorizar:** bases numéricas (hexa, octal, binário) = modo Programador."
+ },
+ {
+  "id": "inf-0032",
+  "disciplina": "informatica",
+  "assunto": "editor-texto",
+  "origem": "banca",
+  "banca": "IDECAN",
+  "ano": 2024,
+  "orgao": "Prefeitura Municipal de Macaíba/RN",
+  "cargo": "Guarda Civil Municipal (prova tipo A)",
+  "fonte": "https://arquivos.qconcursos.com/prova/arquivo_prova/131567/idecan-2024-prefeitura-de-macaiba-rn-guarda-civil-municipal-masculino-e-feminino-prova.pdf",
+  "enunciado": "O LibreOffice Writer oferece recursos para criar objetos de arte de texto gráfico, com o intuito de tornar o texto mais atraente. Para inserir um estilo dessa galeria de texto artístico, deve-se recorrer ao caminho:",
+  "alternativas": [
+   "Inserir > Wordart.",
+   "Inserir > Texto Gráfico.",
+   "Estilo > Texto Gráfico.",
+   "Inserir > Fontwork.",
+   "Estilo > ArtTexto."
+  ],
+  "correta": 3,
+  "comentario": "**Por que \"Inserir > Fontwork\":** No Writer, os textos artísticos ficam em **Inserir > Fontwork**, que abre a **Galeria do Fontwork** com modelos editáveis. Depois de inserido, o objeto pode ter forma, cor e contorno alterados pela barra do Fontwork.\n\n**As outras:**\n- *Inserir > Wordart*: WordArt é o recurso equivalente do Microsoft Word, não do Writer.\n- *Inserir > Texto Gráfico*: \"Texto Gráfico\" não é item do menu Inserir do Writer.\n- *Estilo > Texto Gráfico*: o menu Estilos trata de estilos de parágrafo e caractere, não de arte de texto.\n- *Estilo > ArtTexto*: \"ArtTexto\" não existe no LibreOffice.\n\n**Para memorizar:** Writer: Inserir > Fontwork; Word: Inserir > WordArt."
+ },
+ {
+  "id": "inf-0033",
+  "disciplina": "informatica",
+  "assunto": "email-reunioes",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Um servidor precisa enviar, por e-mail, o mesmo comunicado a 40 fornecedores, de modo que nenhum fornecedor veja os endereços dos demais destinatários. Para isso, ele deve colocar os endereços dos fornecedores no campo:",
+  "alternativas": [
+   "Para",
+   "Cc",
+   "Cco",
+   "Assunto"
+  ],
+  "correta": 2,
+  "comentario": "**Por que \"Cco\":** **Cco** (cópia carbono oculta, *Bcc*) envia a mensagem sem mostrar aos destinatários quem mais a recebeu. É o campo indicado para envios em massa e para proteger a privacidade dos endereços.\n\n**As outras:**\n- *Para*: os endereços em \"Para\" ficam visíveis para todos os destinatários.\n- *Cc*: \"Cc\" (cópia carbono) também mostra os endereços a todos; serve para dar ciência a alguém.\n- *Assunto*: \"Assunto\" é o título da mensagem, e não lugar de endereço.\n\n**Para memorizar:** Para = destinatário principal; Cc = cópia visível; Cco = cópia oculta."
+ },
+ {
+  "id": "inf-0034",
+  "disciplina": "informatica",
+  "assunto": "email-reunioes",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Durante uma reunião on-line no Microsoft Teams, um arquiteto precisa mostrar aos demais participantes a planta que está aberta em um programa de seu computador. O recurso adequado é:",
+  "alternativas": [
+   "compartilhar conteúdo (compartilhamento de tela ou de janela).",
+   "salas de sessão de grupo.",
+   "levantar a mão.",
+   "desfocar a tela de fundo."
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"compartilhar conteúdo (compartilhamento de tela ou de janela)\":** O botão **Compartilhar** (Compartilhar conteúdo) do Teams permite mostrar a **tela inteira**, uma **janela** específica, uma apresentação do PowerPoint ou o quadro de comunicações (Whiteboard). O Google Meet (\"Apresentar agora\") e o Zoom (\"Compartilhar tela\") têm recursos equivalentes.\n\n**As outras:**\n- *salas de sessão de grupo*: salas de sessão de grupo dividem os participantes em salas menores; não mostram a tela de ninguém.\n- *levantar a mão*: levantar a mão só sinaliza que o participante quer falar.\n- *desfocar a tela de fundo*: desfocar a tela de fundo esconde o ambiente atrás de quem está na câmera.\n\n**Para memorizar:** Teams: Compartilhar; Meet: Apresentar agora; Zoom: Compartilhar tela."
+ },
+ {
+  "id": "inf-0035",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Uma prefeitura mantém um portal web acessível apenas pelos seus servidores, dentro da rede da instituição. Depois, liberou parte desse portal para que empresas parceiras, com login e senha, acompanhem pela internet os processos de licitação em que participam. Esses dois ambientes são, respectivamente:",
+  "alternativas": [
+   "internet e intranet.",
+   "intranet e extranet.",
+   "extranet e intranet.",
+   "VPN e internet."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"intranet e extranet\":** **Intranet** é a rede privada da organização, com as mesmas tecnologias da internet (HTTP, navegador), restrita aos seus usuários internos. Quando parte dela é aberta, de forma controlada, a usuários **externos autorizados** (fornecedores, parceiros), tem-se a **extranet**.\n\n**As outras:**\n- *internet e intranet*: o primeiro ambiente é restrito aos servidores, então não é a internet pública.\n- *extranet e intranet*: a ordem está trocada: o ambiente interno é a intranet e o aberto a parceiros é a extranet.\n- *VPN e internet*: VPN é um túnel criptografado para acessar uma rede privada à distância; não é o nome do portal interno.\n\n**Para memorizar:** intranet = só os de dentro; extranet = de dentro + parceiros autorizados; internet = todo mundo."
+ },
+ {
+  "id": "inf-0036",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Uma arquiteta guarda seus projetos no OneDrive e os edita pelo navegador, em qualquer computador, usando o Word e o Excel para a web, sem instalar programas. Esse uso caracteriza:",
+  "alternativas": [
+   "computação em nuvem, com armazenamento e aplicativos oferecidos como serviço pela internet.",
+   "uso de intranet, já que os arquivos ficam gravados no próprio computador.",
+   "computação em nuvem do tipo IaaS, em que a usuária recebe máquinas virtuais e administra o sistema operacional.",
+   "backup local, pois os arquivos são copiados para um pendrive."
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"computação em nuvem, com armazenamento e aplicativos oferecidos como serviço pela internet\":** Arquivos guardados em servidores do provedor e programas usados pelo navegador são **computação em nuvem**. Os aplicativos usados prontos pela internet são o modelo **SaaS** (Software como Serviço); o armazenamento on-line (OneDrive, Google Drive) também é serviço de nuvem.\n\n**As outras:**\n- *uso de intranet, já que os arquivos ficam gravados no próprio computador*: os arquivos não ficam no computador, e intranet é rede interna de uma organização.\n- *computação em nuvem do tipo IaaS, em que a usuária recebe máquinas virtuais e…*: IaaS (Infraestrutura como Serviço) entrega servidores e máquinas virtuais para o cliente administrar; a arquiteta só usa aplicativos prontos (SaaS).\n- *backup local, pois os arquivos são copiados para um pendrive*: não há pendrive nem cópia local; os arquivos estão em servidores na internet.\n\n**Para memorizar:** SaaS = uso o programa pronto (Gmail, Office 365); PaaS = desenvolvo na plataforma; IaaS = alugo a máquina."
+ },
+ {
+  "id": "inf-0037",
+  "disciplina": "informatica",
+  "assunto": "seguranca",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Ao abrir um anexo recebido por e-mail, um servidor teve os arquivos do computador criptografados e recebeu uma mensagem exigindo pagamento em criptomoeda para devolver o acesso a eles. Esse tipo de código malicioso é o:",
+  "alternativas": [
+   "worm.",
+   "ransomware.",
+   "spyware.",
+   "adware."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"ransomware\":** **Ransomware** sequestra os dados: criptografa os arquivos (ou bloqueia o equipamento) e exige **resgate** (*ransom*) para liberá-los. A melhor proteção é ter **backup** atualizado e desconectado, além de não abrir anexos suspeitos.\n\n**As outras:**\n- *worm*: worm se propaga sozinho pela rede, explorando falhas, sem precisar de ação do usuário; não é definido pelo pedido de resgate.\n- *spyware*: spyware espiona e envia informações do usuário (senhas, hábitos) sem que ele perceba.\n- *adware*: adware exibe propaganda indesejada.\n\n**Para memorizar:** ransom = resgate; spy = espião; worm = verme que se espalha sozinho; trojan = cavalo de Troia (parece útil, traz o malware)."
+ },
+ {
+  "id": "inf-0038",
+  "disciplina": "informatica",
+  "assunto": "seguranca",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Sobre a assinatura digital feita com certificado digital da ICP-Brasil, é correto afirmar que ela:",
+  "alternativas": [
+   "garante a autenticidade do autor e a integridade do documento, além do não repúdio.",
+   "garante o sigilo do conteúdo, impedindo que terceiros leiam o documento.",
+   "é gerada com a chave pública do autor e conferida com a chave privada dele.",
+   "dispensa autoridade certificadora quando o arquivo está em formato PDF."
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"garante a autenticidade do autor e a integridade do documento, além do não repúdio\":** A assinatura digital é gerada com a **chave privada** do autor sobre o resumo (hash) do documento. Quem confere usa a chave pública do certificado. Assim se garante **autenticidade** (quem assinou), **integridade** (o documento não foi alterado depois) e **não repúdio** (o autor não pode negar a autoria).\n\n**As outras:**\n- *garante o sigilo do conteúdo, impedindo que terceiros leiam o documento*: assinar não esconde o conteúdo; sigilo se obtém com **criptografia** (cifrar o documento com a chave pública do destinatário).\n- *é gerada com a chave pública do autor e conferida com a chave privada dele*: é o contrário: assina-se com a chave **privada** e confere-se com a chave **pública**.\n- *dispensa autoridade certificadora quando o arquivo está em formato PDF*: o certificado é emitido por uma autoridade certificadora credenciada, qualquer que seja o formato do arquivo.\n\n**Para memorizar:** assinatura: privada assina, pública confere (autenticidade, integridade, não repúdio). Sigilo é outra coisa: criptografia."
+ },
+ {
+  "id": "inf-0039",
+  "disciplina": "informatica",
+  "assunto": "planilhas",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Em uma planilha do Excel com a lista de estabelecimentos fiscalizados (colunas Nome, Bairro, Data da vistoria e Situação), um servidor quer exibir apenas as linhas em que o Bairro seja \"Centro\", ocultando temporariamente as demais, sem apagá-las. O recurso adequado é:",
+  "alternativas": [
+   "Classificar de A a Z.",
+   "Filtro (AutoFiltro).",
+   "Mesclar e Centralizar.",
+   "Formatação Condicional."
+  ],
+  "correta": 1,
+  "comentario": "**Por que \"Filtro (AutoFiltro)\":** O **Filtro** (Dados > Filtro, ou Página Inicial > Classificar e Filtrar > Filtro) coloca setas nos cabeçalhos e permite **exibir só as linhas que atendem a um critério** (Bairro = Centro). As outras linhas ficam ocultas, e não apagadas; basta limpar o filtro para vê-las de novo. No Calc, o recurso é o AutoFiltro.\n\n**As outras:**\n- *Classificar de A a Z*: classificar **ordena** as linhas (de A a Z, do menor para o maior), mas não esconde nenhuma.\n- *Mesclar e Centralizar*: mesclar e centralizar junta células numa só (usado em títulos).\n- *Formatação Condicional*: a formatação condicional **muda a aparência** (cor, ícones) das células que atendem a uma regra, mas não esconde as outras.\n\n**Para memorizar:** filtrar = esconder o que não interessa; classificar = pôr em ordem."
+ },
+ {
+  "id": "inf-0040",
+  "disciplina": "informatica",
+  "assunto": "email-reunioes",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Em um programa cliente de correio eletrônico, como o Thunderbird ou o Outlook, o protocolo usado para **enviar** mensagens ao servidor e o protocolo que **mantém as mensagens sincronizadas no servidor**, permitindo lê-las em vários dispositivos, são, respectivamente:",
+  "alternativas": [
+   "SMTP e IMAP",
+   "POP3 e SMTP",
+   "IMAP e POP3",
+   "HTTP e FTP"
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"SMTP e IMAP\":** **SMTP** é o protocolo de **envio** de e-mails. Para receber, existem dois: o **IMAP**, que mantém as mensagens e pastas **no servidor**, sincronizadas entre computador, celular e webmail; e o **POP3**, que **baixa** as mensagens para um único dispositivo (por padrão, apagando-as do servidor).\n\n**As outras:**\n- *POP3 e SMTP*: POP3 recebe (e não envia) mensagens, e SMTP não sincroniza nada: só envia.\n- *IMAP e POP3*: IMAP serve para receber, e não para enviar; e o POP3 baixa as mensagens, sem manter a sincronização.\n- *HTTP e FTP*: HTTP é usado para páginas web (e webmail pelo navegador), e FTP para transferência de arquivos; nenhum dos dois é o protocolo do cliente de e-mail.\n\n**Para memorizar:** SMTP = Sua Mensagem Tá Partindo (envio); IMAP = mantém no servidor; POP = puxa para o computador."
+ },
+ {
+  "id": "inf-0041",
+  "disciplina": "informatica",
+  "assunto": "internet-nuvem",
+  "origem": "autoral",
+  "banca": "autoral",
+  "ano": 2026,
+  "orgao": "Questão autoral (simulado no estilo IDECAN)",
+  "cargo": "Inspetor Sanitário – Hab. Arquiteto (Prefeitura de Campina Grande/PB)",
+  "enunciado": "Considere o endereço fictício https://www.prefeitura.exemplo.gov.br/servicos/alvara.html. Assinale a alternativa correta sobre ele.",
+  "alternativas": [
+   "\"https\" indica que a comunicação entre o navegador e o site é criptografada (HTTP com TLS/SSL).",
+   "\".gov.br\" indica que o site está hospedado obrigatoriamente em um servidor localizado em Brasília.",
+   "\"alvara.html\" é o nome do domínio do site.",
+   "\"www\" é o protocolo usado para transferir a página."
+  ],
+  "correta": 0,
+  "comentario": "**Por que \"\"https\" indica que a comunicação entre o navegador e o site é criptografada…\":** Na URL, o **protocolo** vem antes de \"://\". **HTTPS** é o HTTP com camada de segurança (TLS/SSL): os dados trafegam **criptografados** e o navegador mostra o cadeado. O restante é o **domínio** (www.prefeitura.exemplo.gov.br) e o **caminho** até o recurso (/servicos/alvara.html).\n\n**As outras:**\n- *\".gov.br\" indica que o site está hospedado obrigatoriamente em um servidor…*: \".gov.br\" é o domínio de órgãos do governo brasileiro; não diz onde fica o servidor.\n- *\"alvara.html\" é o nome do domínio do site*: \"alvara.html\" é o arquivo (a página) dentro do caminho; o domínio é \"www.prefeitura.exemplo.gov.br\".\n- *\"www\" é o protocolo usado para transferir a página*: \"www\" é só um nome de host dentro do domínio; o protocolo é o \"https\".\n\n**Para memorizar:** protocolo://domínio/caminho/arquivo. HTTPS = cadeado = criptografia (não garante que o site é honesto)."
+ }
+]
