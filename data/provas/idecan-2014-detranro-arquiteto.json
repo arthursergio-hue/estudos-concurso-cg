@@ -1,0 +1,924 @@
+{
+ "id": "idecan-2014-detranro-arquiteto",
+ "titulo": "Arquiteto — DETRAN-RO",
+ "banca": "IDECAN",
+ "ano": 2014,
+ "orgao": "DETRAN de Rondônia",
+ "cargo": "Arquiteto",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2014-detran-ro-arquiteto",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Viva a dona Maria",
+   "fonte": "(Disponível em: http://veja.abril.com.br/101199/p_210.html. Acesso em: 20/04/2014.)",
+   "numerarLinhas": false,
+   "conteudo": "*O texto a seguir foi publicado na revista Veja, em 1999, mas o tema discutido continua sendo bastante atual.\n\n*Pesquisas confirmam que a mulher é melhor ao volante que o homem.*\n\nNa próxima vez que você, leitor do sexo masculino, disputar espaço com uma mulher no trânsito, pense duas vezes antes de soltar aquela frase machista: “Vai pra casa, dona Maria!”. A quantidade de pesquisas que atestam a superioridade feminina ao volante é impressionante. Pelo menos no que diz respeito à capacidade de evitar acidentes. O mais recente desses levantamentos, feito por uma firma paulista especializada em vistoria de automóveis acidentados, mostra que as mulheres causam apenas 25% das ocorrências. E, em geral, as batidas são pequenas. Essas duas razões estão fazendo com que elas sejam contempladas com descontos maiores na hora de fazer o seguro do carro. A mesma pesquisa traça um perfil do motorista ideal: mulher, com mais de 35 anos, casada e mãe de filhos pequenos.\n\nDe acordo com um estudo feito pelo professor de estatística David Duarte Lima, da Universidade de Brasília, a proporção de mortes em decorrência de acidentes de trânsito é de quatro homens para uma mulher. Cerca de 80% das ocorrências graves são causadas por imprudência. Incluem-se aqui aquelas práticas execráveis como dirigir embriagado, abusar da velocidade e andar colado ao veículo da frente. “Esse é o comportamento típico de homens que começam a dirigir”, afirma o psicólogo Salomão Rabinovich, diretor do Centro de Psicologia Aplicada ao Trânsito, Cepat, de São Paulo. Para a maioria dos marmanjos, o carro é uma continuidade de seu próprio ser, uma forma de afirmar a virilidade. Por isso mesmo, as campanhas publicitárias enfatizam tanto o papel do automóvel como um instrumento de sedução. Ao pisar fundo, eles se sentem mais potentes, mais desejáveis. As mulheres, por seu turno, costumam ter apenas uma visão utilitária do automóvel. Isso não impede, no entanto, que elas também extravasem suas neuroses ao volante. “Em geral, as mulheres são muito fominhas quando estão na direção”, admite a piloto de corridas Valéria Zoppello.\n\nOs especialistas são unânimes em afirmar que elas poderiam evitar os pequenos acidentes se treinassem um aspecto no qual apresentam grande deficiência – o reflexo. E se prestassem mais atenção aos trajetos. Muitos dos acidentes envolvendo mulheres acontecem porque as motoristas tentam virar à direita ou à esquerda repentinamente, sem dar chance ao carro de trás de frear a tempo. Além disso, elas estão abusando do telefone celular enquanto dirigem – o que é uma infração prevista no Código Nacional de Trânsito. Conhecer as características gerais de homens e mulheres ao volante só tem sentido se um estiver disposto a copiar o que o outro tem de melhor. Do contrário, a discussão cairá no vazio sexista. O piloto Luiz Carreira Junior, colega de competições de Valéria Zoppello, é quem dá a receita. “Os homens teriam a ganhar se fossem tão prudentes quanto as mulheres. E elas seriam melhores motoristas se fossem mais atentas ao que acontece à sua volta”, diz ele."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2014-detranro-arquiteto-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Analise as afirmativas, marque V para as verdadeiras e F para as falsas.\n\n( ) Com relação à tipologia textual, esse texto pode ser classificado como narrativo-argumentativo.\n\n( ) O título da reportagem não se refere a uma mulher em especial, mas a todas aquelas que dirigem.\n\n( ) O texto mostra que os homens não demonstram um comportamento machista em relação às mulheres.\n\n( ) Os homens dirigem embriagados, abusam da velocidade e andam colados ao veículo da frente.\n\nA sequência está correta em",
+   "alternativas": [
+    "V, V, F, V.",
+    "V, V, F, F.",
+    "F, V, F, V.",
+    "F, V, V, F.",
+    "F, F, V, F."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"F, V, F, V\":** 1ª F: o texto é uma reportagem que apresenta dados de pesquisas e opiniões de especialistas para defender uma ideia (as mulheres dirigem com mais prudência). Predomina o tipo **expositivo-argumentativo**; não há enredo nem fatos encadeados no tempo, como na narração. 2ª V: \"dona Maria\" é genérico, vem da frase machista \"Vai pra casa, dona Maria!\" e representa todas as motoristas. 3ª F: o texto mostra o contrário: fala da \"frase machista\" e diz que, para os marmanjos, o carro é forma de \"afirmar a virilidade\". 4ª V: o 2º parágrafo atribui aos homens essas práticas (\"Esse é o comportamento típico de homens\"); ao negar recursos, a banca lembrou que a revista fala dos homens de modo geral.\n\n**As outras:**\n- *V, V, F, V*: erra a 1ª; o texto não é narrativo.\n- *V, V, F, F*: erra a 1ª e a 4ª.\n- *F, V, V, F*: aceita que o texto nega o machismo e recusa a 4ª.\n- *F, F, V, F*: erra a 2ª, a 3ª e a 4ª.\n\n**Para memorizar:** reportagem com dados, citações de especialistas e uma tese é expositivo-argumentativa. Narração exige personagens e fatos em sequência no tempo."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Relacione adequadamente as classes gramaticais às respectivas classificações das palavras destacadas.\n\n1. Vocativo.\n2. Aposto.\n3. Adjetivo.\n4. Adjunto adverbial.\n\n( ) *“Na próxima vez que você, ++leitor do sexo masculino++, disputar espaço com uma mulher no trânsito, pense duas vezes antes de soltar aquela frase machista:...”* (1º§)\n\n( ) *“Incluem-se aqui aquelas práticas ++execráveis++ como dirigir embriagado, abusar da velocidade e andar colado ao veículo da frente.”* (2º§)\n\n( ) *“Vai pra casa, ++dona Maria++!”* (1º§)\n\n( ) *“Muitos dos acidentes envolvendo mulheres acontecem porque as motoristas tentam virar ++à direita++ ou ++à esquerda++ repentinamente,...”* (3º§)\n\nA sequência está correta em",
+   "alternativas": [
+    "1, 2, 3, 4.",
+    "2, 1, 4, 3.",
+    "2, 3, 1, 4.",
+    "3, 2, 1, 4.",
+    "3, 4, 1, 2."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"2, 3, 1, 4\":** *leitor do sexo masculino* vem entre vírgulas logo depois de \"você\" e explica quem é esse \"você\": é **aposto** (2). *Execráveis* qualifica o substantivo \"práticas\": é **adjetivo** (3), com função de adjunto adnominal. *Dona Maria* é a pessoa chamada diretamente na frase exclamativa: é **vocativo** (1). *À direita* e *à esquerda* indicam a direção para onde as motoristas viram, circunstância ligada ao verbo \"virar\": são **adjuntos adverbiais** (4).\n\n**As outras:**\n- *1, 2, 3, 4*: chama o aposto de vocativo; \"leitor do sexo masculino\" explica \"você\", não chama ninguém.\n- *2, 1, 4, 3*: classifica \"execráveis\" como vocativo e \"dona Maria\" como adjunto adverbial.\n- *3, 2, 1, 4*: troca o aposto pelo adjetivo e vice-versa.\n- *3, 4, 1, 2*: chama \"à direita\" de aposto, mas ela não explica nenhum termo.\n\n**Para memorizar:** vocativo chama (\"Vai pra casa, dona Maria!\") e fica fora da estrutura da oração; aposto explica um nome (\"você, leitor do sexo masculino\")."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "“Os especialistas são unânimes em afirmar que elas poderiam evitar os pequenos acidentes se treinassem um aspecto no qual apresentam grande deficiência – o reflexo. ++E++ se prestassem mais atenção aos trajetos. Muitos dos acidentes envolvendo mulheres acontecem ++porque++ as motoristas tentam virar à direita ou à esquerda repentinamente, sem dar chance ao carro de trás de frear a tempo. ++Além disso++, elas estão abusando do telefone celular ++enquanto++ dirigem – o que é uma infração prevista no Código Nacional de Trânsito. Conhecer as características gerais de homens e mulheres ao volante só tem sentido se um estiver disposto a copiar o que o outro tem de melhor. Do contrário, a discussão cairá no vazio sexista. O piloto Luiz Carreira Junior, colega de competições de Valéria Zoppello, é quem dá a receita. ‘Os homens teriam a ganhar se fossem tão prudentes quanto as mulheres. E elas seriam melhores motoristas se fossem mais atentas ao que acontece à sua volta’, diz ele.”\n\nNo último parágrafo do texto, os conectores destacados representam, respectivamente,",
+   "alternativas": [
+    "adição, explicação, adição e tempo.",
+    "tempo, explicação, adição e tempo.",
+    "adição, explicação, explicação e tempo.",
+    "adição, explicação, tempo e concessão.",
+    "tempo, explicação, adição e concessão."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"adição, explicação, adição e tempo\":** *E* (em \"E se prestassem mais atenção aos trajetos\") acrescenta mais uma condição à anterior: **adição**. *Porque* introduz a explicação, a causa dos acidentes: **explicação**. *Além disso* soma mais um motivo, o uso do celular: **adição**. *Enquanto* marca o momento em que elas usam o celular, ao mesmo tempo em que dirigem: **tempo**. Foi essa a leitura que a banca manteve ao negar recursos.\n\n**As outras:**\n- *tempo, explicação, adição e tempo*: o \"E\" não indica tempo; soma uma condição.\n- *adição, explicação, explicação e tempo*: \"além disso\" acrescenta, não explica.\n- *adição, explicação, tempo e concessão*: \"além disso\" não é temporal e \"enquanto\" não faz concessão aqui.\n- *tempo, explicação, adição e concessão*: erra o \"E\" e o \"enquanto\".\n\n**Para memorizar:** \"enquanto\" é temporal quando significa \"ao mesmo tempo que\" (falam ao celular enquanto dirigem) e indica contraste quando opõe dois fatos (\"ele trabalha, enquanto ela descansa\"). Concessão é \"embora\", \"ainda que\", \"apesar de\"."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "enunciado": "Algumas pessoas não atribuem a vírgula à sua devida importância e pensam que empregá-la em um texto é, apenas, um mero detalhe. No entanto, a sua colocação, supressão ou deslocamento pode alterar o sentido daquilo que se deseja comunicar. Analise as seguintes orações.\n\nI. Os motoristas, que são violentos, partem para a agressão no trânsito e são desrespeitosos.\n\nII. O bom motorista respeita a faixa de segurança, os pedestres, o sinal e as leis de trânsito em geral.\n\nAssinale a alternativa que justifica corretamente o emprego da vírgula em cada uma dessas orações.",
+   "alternativas": [
+    "Assinalar a omissão de termos (elipses) e separar objeto direto pleonástico.",
+    "Assinalar a omissão de termos (elipses) e separar uma oração adjetiva explicativa.",
+    "Separar o objeto direto pleonástico e a oração subordinada adverbial intercalada à principal.",
+    "Separar uma oração adjetiva explicativa e os termos coordenados, ou seja, que exercem a mesma função sintática.",
+    "Separar a oração subordinada adverbial intercalada à principal e os termos coordenados, ou seja, que exercem a mesma função sintática."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Separar uma oração adjetiva explicativa e os termos coordenados…\":** em I, *que são violentos* é oração subordinada adjetiva **explicativa**: começa pelo pronome relativo \"que\", vem entre vírgulas e atribui a característica a todos os motoristas (sem as vírgulas, seria restritiva: só os motoristas violentos partiriam para a agressão). Em II, as vírgulas separam termos **coordenados** de uma enumeração (a faixa de segurança, os pedestres, o sinal e as leis), todos objetos diretos de \"respeita\".\n\n**As outras:**\n- *Assinalar a omissão de termos (elipses) e separar objeto direto pleonástico*: não há verbo omitido nem objeto repetido por pronome.\n- *Assinalar a omissão de termos (elipses) e separar uma oração adjetiva explicativa*: inverte a ordem e II não tem elipse.\n- *Separar o objeto direto pleonástico e a oração subordinada adverbial…*: \"que são violentos\" é adjetiva, não adverbial, e não há pleonasmo.\n- *Separar a oração subordinada adverbial intercalada…*: só a parte dos termos coordenados está certa.\n\n**Para memorizar:** adjetiva explicativa = entre vírgulas, vale para o grupo todo; restritiva = sem vírgula, delimita o grupo. Objeto pleonástico é o repetido por pronome: \"O carro, vendi-o ontem\"."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "enunciado": "Observe o emprego das palavras destacadas nas frases a seguir.\n\n- *Quando elas dirigem, ficam ++meio++ nervosas.*\n- *As crianças estavam ++sós++ no carro.*\n- *Ela ++mesma++ se dirigiu ao DETRAN.*\n- *Os carros custam ++caro++.*\n\nAcerca das regras de concordância que justificam o emprego dos termos anteriores, analise.\n\nI. A palavra “meio” é um advérbio, razão pela qual não se flexionou.\n\nII. A palavra “sós” é um adjetivo, por isso concorda com o sujeito.\n\nIII. A palavra “mesma” sempre concorda com o substantivo e o pronome a que se refere.\n\nIV. A palavra “caro” é um advérbio, razão pela qual não se flexionou.\n\nEstão corretas as afirmativas",
+   "alternativas": [
+    "I, II, III e IV.",
+    "I, II e IV, apenas.",
+    "I, II e III, apenas.",
+    "I, III e IV, apenas.",
+    "II, III e IV, apenas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, II, III e IV\":** I: em *ficam meio nervosas*, \"meio\" significa \"um pouco\" e modifica o adjetivo \"nervosas\"; é advérbio, portanto invariável. II: *sós* equivale a \"sozinhas\"; é adjetivo (predicativo do sujeito \"as crianças\") e vai para o plural. III: *mesma*, com sentido de \"própria\", reforça o pronome \"ela\" e concorda com ele (ela mesma, eles mesmos). IV: em *custam caro*, \"caro\" modifica o verbo \"custar\" e indica o preço; é advérbio e não varia.\n\n**As outras:**\n- *I, II e IV, apenas*: deixa de fora a III, que está correta.\n- *I, II e III, apenas*: deixa de fora a IV; com \"custar\", \"caro\" é advérbio.\n- *I, III e IV, apenas*: exclui a II; \"sós\" = \"sozinhas\" varia.\n- *II, III e IV, apenas*: exclui a I; \"meio\" antes de adjetivo, com sentido de \"um pouco\", não varia.\n\n**Para memorizar:** \"meio\" varia quando é numeral ou adjetivo (\"meia garrafa\") e não varia quando é advérbio (\"meio cansada\"). \"Caro\" e \"barato\" variam como adjetivos (\"carros caros\") e não variam como advérbios (\"custam caro\"). Cuidado: \"mesmo\" no sentido de \"realmente\" é advérbio e não varia (\"elas vieram mesmo\")."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "enunciado": "Geralmente, as pessoas confundem o uso do acento grave, indicativo de crase, com o fenômeno linguístico. Em qual das situações o acento NÃO deveria ter sido utilizado, visto que não ocorre crase?",
+   "alternativas": [
+    "Não gosto de dirigir à noite.",
+    "Fugiu daquele trânsito às pressas.",
+    "Não responderei à Vossa Excelência.",
+    "Dedicou-se àquilo que gostava, dirigir.",
+    "O motorista dirigiu-se à criança nervoso."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Não responderei à Vossa Excelência\" é a resposta:** os pronomes de tratamento (Vossa Excelência, Vossa Senhoria, Vossa Majestade) não admitem artigo. Sem o artigo \"a\", sobra só a preposição exigida por \"responder a\", e não há crase: o certo é \"Não responderei a Vossa Excelência\". As exceções são \"senhora\", \"senhorita\", \"madame\" e \"dona\", que aceitam artigo (\"Entreguei à senhora\").\n\n**As outras (estão corretas):**\n- *Não gosto de dirigir à noite*: locução adverbial de tempo com palavra feminina leva acento grave.\n- *Fugiu daquele trânsito às pressas*: locução adverbial de modo feminina, como \"às vezes\" e \"às pressas\".\n- *Dedicou-se àquilo que gostava, dirigir*: \"dedicar-se a\" + \"aquilo\" = \"àquilo\".\n- *O motorista dirigiu-se à criança nervoso*: \"dirigir-se a\" + o artigo de \"a criança\" = \"à\".\n\n**Para memorizar:** troque a palavra feminina por uma masculina; se aparecer \"ao\", há crase (\"dirigiu-se ao menino\" → \"dirigiu-se à criança\"). Com pronome de tratamento não há artigo, logo não há crase."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "enunciado": "Observe a transitividade dos verbos: “comunicar”, “desejar” e “aspirar”. Assinale a alternativa em que esses verbos estão de acordo com as normas de regência da língua culta.",
+   "alternativas": [
+    "Comuniquei-o de que não desejava substituí-lo no DETRAN, pois jamais aspirei tal cargo.",
+    "Comuniquei-lhe de que não desejava substituí-lo no DETRAN, pois jamais aspirei tal cargo.",
+    "Comuniquei-o de que não desejava substituir-lhe no DETRAN, pois jamais aspirei tal cargo.",
+    "Comuniquei-lhe de que não desejava substituí-lo no DETRAN, pois jamais aspirei a tal cargo.",
+    "Comuniquei-o de que não desejava substituir-lhe no DETRAN, pois jamais aspirei a tal cargo."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito preliminar indicava *Comuniquei-lhe de que não desejava substituí-lo no DETRAN, pois jamais aspirei a tal cargo*. No recurso, a banca reconheceu que \"comunicar\", quando se refere à pessoa, pede objeto indireto (\"lhe\"), e a coisa comunicada vem como objeto direto, sem preposição; \"comuniquei-lhe de que\" teria dois complementos indiretos. Nenhuma alternativa trazia a forma correta: **\"Comuniquei-lhe que não desejava substituí-lo no DETRAN, pois jamais aspirei a tal cargo.\"**\n\nO que a questão queria cobrar: \"comunicar\" é transitivo direto e indireto (comunicar algo a alguém); \"substituir\" é transitivo direto (substituí-lo, nunca \"substituir-lhe\"); \"aspirar\", no sentido de desejar ou almejar, é transitivo indireto com a preposição \"a\" (aspirar a um cargo); no sentido de sorver ou cheirar, é direto (aspirar o perfume).\n\n**Para memorizar:** comunicar algo **a** alguém; aspirar **a** = desejar; substituir alguém = objeto direto (o, a)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "enunciado": "Relacione adequadamente a classificação das orações subordinadas substantivas às respectivas orações.\n\n1. Subjetiva.\n2. Objetiva direta.\n3. Objetiva indireta.\n4. Completiva nominal.\n5. Predicativa.\n6. Apositiva.\n\n( ) Cada situação permite que se aprenda algo novo.\n\n( ) Só quero uma coisa: que tires a tua carteira.\n\n( ) Tenho esperança de que o trânsito melhore.\n\n( ) É importante que todos colaborem.\n\n( ) Meu desejo é que sejas classificado.\n\n( ) Lembrei-me de que já estava errado.\n\nA sequência está correta em",
+   "alternativas": [
+    "1, 6, 3, 5, 2, 4.",
+    "2, 6, 4, 1, 5, 3.",
+    "1, 2, 3, 4, 5, 6.",
+    "6, 5, 4, 3, 2, 1.",
+    "2, 6, 4, 1, 3, 5."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"2, 6, 4, 1, 5, 3\":** a oração substantiva faz o papel de um substantivo; troque-a por \"isso\". *Cada situação permite que se aprenda algo novo*: permite isso, complemento sem preposição → **objetiva direta** (2). *Só quero uma coisa: que tires a tua carteira*: explica \"uma coisa\", depois dos dois-pontos → **apositiva** (6). *Tenho esperança de que o trânsito melhore*: completa o nome \"esperança\" → **completiva nominal** (4). *É importante que todos colaborem*: isso é importante; a oração é o sujeito → **subjetiva** (1). *Meu desejo é que sejas classificado*: vem depois do verbo de ligação \"é\" → **predicativa** (5). *Lembrei-me de que já estava errado*: \"lembrar-se de\" pede preposição → **objetiva indireta** (3).\n\n**As outras:**\n- *1, 6, 3, 5, 2, 4*: chama a objetiva direta de subjetiva e troca as demais.\n- *1, 2, 3, 4, 5, 6*: apenas repete a ordem da coluna.\n- *6, 5, 4, 3, 2, 1*: ordem inversa, sem correspondência.\n- *2, 6, 4, 1, 3, 5*: acerta as quatro primeiras, mas troca predicativa e objetiva indireta.\n\n**Para memorizar:** completiva nominal completa um **nome** (esperança de, certeza de); objetiva indireta completa um **verbo** com preposição (lembrar-se de, gostar de)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "enunciado": "“Damos o nome de figuras de linguagem às formas linguísticas usadas para exprimir o pensamento de modo original, criativo. As figuras de linguagem exploram o sentido conotativo das palavras ou expressões, realçam a sonoridade de palavras e frases e, até mesmo, organizam a frase, afastando-a, de algum modo da estrutura gramatical padrão, a fim de dar destaque a algum de seus elementos.” *(José de Nicola e Ernani Terra. Gramática de hoje. São Paulo: Scipione, 2008. p. 371).*\n\nDiante do exposto, marque a resposta em que a figura de linguagem corresponde à frase apresentada.",
+   "alternativas": [
+    "Pedro é uma tartaruga no trânsito. – metáfora",
+    "No trânsito, João corre como um doido. – comparação",
+    "Paulo sofreu um acidente e passou desta para melhor. – hipérbato",
+    "Enquanto dirigia, Maria comeu uma caixa de chocolate. – catacrese",
+    "Quando foi ao DETRAN, Maria chorou rios de lágrimas. – eufemismo"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito preliminar indicava *Pedro é uma tartaruga no trânsito. – metáfora*, mas a banca aceitou o recurso: *No trânsito, João corre como um doido. – comparação* também está correta, e a questão ficou com duas respostas.\n\nO assunto: **metáfora** é a comparação implícita, sem conectivo (\"Pedro é uma tartaruga\" = lento como uma tartaruga); **comparação** (símile) usa conectivo explícito (\"como\", \"tal qual\", \"assim como\"). As outras três estavam mesmo erradas: \"passou desta para melhor\" é **eufemismo** (suaviza \"morreu\"), não hipérbato, que é a inversão da ordem direta da frase; \"comeu uma caixa de chocolate\" é **metonímia** (o continente pelo conteúdo), não catacrese, que é usar uma palavra por falta de termo próprio (\"pé da mesa\", \"braço da cadeira\"); \"chorou rios de lágrimas\" é **hipérbole** (exagero), não eufemismo.\n\n**Para memorizar:** com \"como\" = comparação; sem conectivo = metáfora. Suavizar = eufemismo; exagerar = hipérbole."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "enunciado": "Esta semana, uma revista de automóveis trouxe o lançamento de um novo modelo de carro e publicou o seguinte comunicado: “Ele pode ser adquirido na cor verde-clara, já vem com porta-copo e alto-falante de série”. Marque a alternativa que apresenta corretamente o plural dos substantivos compostos.",
+   "alternativas": [
+    "verde-claras / porta-copos / alto-falantes",
+    "verde-clara / portas-copos / alto-falantes",
+    "verde-claras / porta-copos / altos-falantes",
+    "verdes-claras / porta-copos / altos-falantes",
+    "verdes-claras / portas-copos / altos-falantes"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"verde-claras / porta-copos / alto-falantes\":** *verde-clara* é composto de dois adjetivos indicando cor: só o último elemento varia → \"verde-claras\". *Porta-copo* é verbo (\"porta\", de portar) + substantivo: o verbo não varia, só o substantivo → \"porta-copos\". *Alto-falante*: \"alto\" é advérbio (fala alto) + \"falante\"; advérbio é invariável → \"alto-falantes\".\n\n**As outras:**\n- *verde-clara / portas-copos / alto-falantes*: deixa o composto de cor no singular e flexiona o verbo \"porta\".\n- *verde-claras / porta-copos / altos-falantes*: flexiona o advérbio \"alto\".\n- *verdes-claras / porta-copos / altos-falantes*: no adjetivo composto, o primeiro elemento não varia; e \"alto\" é advérbio.\n- *verdes-claras / portas-copos / altos-falantes*: erra os três plurais.\n\n**Para memorizar:** em compostos, verbo e advérbio não vão para o plural (beija-flores, guarda-chuvas, alto-falantes). Adjetivo composto: só o último varia (luso-brasileiros, verde-claras), com exceções como \"azul-marinho\" e \"azul-celeste\", invariáveis."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q11",
+   "numero": 11,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "Utilizando a ferramenta *Microsoft Office PowerPoint* 2007 (configuração padrão), o procedimento para adicionar um filme que está armazenado no computador em uma apresentação é na guia",
+   "alternativas": [
+    "Animações, no grupo Animações, clicar na seta abaixo de Filme, clicar em Adicionar Arquivo e selecionar o filme a ser adicionado.",
+    "Inserir, no grupo Clipes de Mídia, clicar na seta abaixo de Filme, clicar em Filme do Arquivo e selecionar o filme a ser adicionado.",
+    "*Design*, no grupo Importação Externa, clicar na seta abaixo de Filme, clicar em Adicionar Arquivo e selecionar o filme a ser adicionado.",
+    "*Design*, no grupo Ilustrações, clicar na seta abaixo de Adicionar Filme, clicar em Filme do Arquivo e selecionar o filme a ser adicionado.",
+    "Inserir, no grupo Ilustrações e Vídeos, clicar na seta abaixo de Adicionar Filme, clicar em Filme do Arquivo e selecionar o filme a ser adicionado."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Inserir, no grupo Clipes de Mídia…\":** no PowerPoint 2007, tudo o que se acrescenta ao slide (tabelas, imagens, formas, sons e filmes) fica na guia **Inserir**. Os vídeos ficam no grupo **Clipes de Mídia**: clica-se na seta abaixo de **Filme**, escolhe-se **Filme do Arquivo** e seleciona-se o vídeo gravado no computador. A outra opção da mesma seta insere um filme da galeria de clipes do Office.\n\n**As outras:**\n- *Animações, no grupo Animações…*: a guia Animações controla efeitos e transições; não insere mídia.\n- *Design, no grupo Importação Externa…*: a guia Design trata de temas, plano de fundo e configuração da página; não existe grupo \"Importação Externa\".\n- *Design, no grupo Ilustrações…*: o grupo Ilustrações fica na guia Inserir (Imagem, Clip-art, Formas, SmartArt, Gráfico) e não tem filmes.\n- *Inserir, no grupo Ilustrações e Vídeos…*: esse grupo não existe no PowerPoint 2007.\n\n**Para memorizar:** PowerPoint 2007: Inserir > Clipes de Mídia > Filme ou Som. A partir da versão 2010, o grupo passou a se chamar **Mídia**, com os botões Vídeo e Áudio."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q12",
+   "numero": 12,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "No Painel de Controle do Sistema Operacional *Microsoft Windows 7* (configuração padrão – modo de exibição: ícones pequenos), a opção utilizada para alterar as configurações de rede do computador é:",
+   "alternativas": [
+    "Personalização.",
+    "Painel de Redes.",
+    "*Firewall* do Windows.",
+    "Central de Facilidade de Acesso.",
+    "Central de Rede e Compartilhamento."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Central de Rede e Compartilhamento\":** no Painel de Controle do Windows 7, é a **Central de Rede e Compartilhamento** que mostra o estado das conexões e reúne as tarefas de rede: configurar uma nova conexão ou rede, **alterar as configurações do adaptador** (endereço IP, DNS), alterar as configurações de compartilhamento avançadas e solucionar problemas. Ela também abre pelo ícone de rede na área de notificação da barra de tarefas.\n\n**As outras:**\n- *Personalização*: muda tema, plano de fundo, cores, sons e proteção de tela.\n- *Painel de Redes*: não existe item com esse nome no Painel de Controle do Windows 7.\n- *Firewall do Windows*: decide quais programas e conexões passam pelo firewall; protege, mas não configura a rede.\n- *Central de Facilidade de Acesso*: reúne recursos de acessibilidade, como lupa, narrador, teclado virtual e alto contraste.\n\n**Para memorizar:** Windows 7, rede = Central de Rede e Compartilhamento. Em versões posteriores, as mesmas opções aparecem também em Configurações > Rede e Internet."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q13",
+   "numero": 13,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "sistemas-operacionais",
+   "enunciado": "No Sistema Operacional *Microsoft Windows 7*, ao clicar com o botão direito do *mouse* sobre a pasta “DETRAN” e selecionar a opção propriedades, é exibida a seguinte tela:\n\n![Janela Propriedades de DETRAN aberta na guia Versões Anteriores, com as guias Geral, Compartilhamento, Segurança e Personalizado](data/provas/img/idecan-2014-detranro-arquiteto/q13.webp)\n\nDiante do exposto, analise.\n\nI. Para alterar o ícone da pasta deve-se selecionar a guia Personalizado.\n\nII. As opções para modificar as permissões da pasta estão na guia Compartilhamento.\n\nIII. O local onde a pasta está armazenada pode ser visualizado na guia Geral.\n\nEstá(ão) correta(s) apenas a(s) afirmativa(s)",
+   "alternativas": [
+    "I.",
+    "II.",
+    "III.",
+    "I e II.",
+    "I e III."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"I e III\":** I está certa: a guia **Personalizado** tem o botão **Alterar Ícone**, além de otimizar a pasta para um tipo de arquivo e escolher a imagem que aparece nela. II está errada: as permissões de acesso da pasta (ler, gravar, modificar, controle total) ficam na guia **Segurança**, no botão Editar; foi isso que a banca respondeu ao manter o gabarito. A guia Compartilhamento serve para compartilhar a pasta na rede. III está certa: a guia **Geral** mostra o tipo, o **local**, o tamanho, a data de criação e os atributos (somente leitura, oculto).\n\n**As outras:**\n- *I.*: incompleta; a III também está correta.\n- *II.*: é justamente a única falsa.\n- *III.*: incompleta; a I também está correta.\n- *I e II.*: inclui a II, que está errada.\n\n**Para memorizar:** propriedades de pasta no Windows 7: Geral (local, tamanho, atributos), Compartilhamento (rede), Segurança (permissões), Versões Anteriores (cópias de restauração) e Personalizado (ícone e modelo da pasta)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q14",
+   "numero": 14,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "Observe a planilha produzida com a ferramenta *Microsoft Office Excel* 2007 (configuração padrão).\n\n|   | A | B | C |\n|---|---|---|---|\n| 1 | 2 | 3 | 40 |\n| 2 | 50 | 30 | 49 |\n| 3 |  |  |  |\n| 4 |  |  |  |\n| 5 |  |  |  |\n| 6 |  |  |  |\n| 7 |  |  |  |\n\nConsidere a sequência de eventos:\n\n1. inserir na célula A4 a fórmula =POTÊNCIA(A1;B1);\n2. inserir na célula A5 a fórmula =RAIZ(C2);\n3. inserir na célula A6 a fórmula =SOMA(A2:B2);\n4. inserir na célula A7 a fórmula =SE(A4>A5;SOMA(A1:C1);MÁXIMO(A4:A6)).\n\nApós realizar tais eventos na ordem proposta, é correto afirmar que o resultado da célula A7 será",
+   "alternativas": [
+    "7.",
+    "45.",
+    "60.",
+    "75.",
+    "80."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"45\":** resolva as fórmulas na ordem. A4 = POTÊNCIA(A1;B1) = 2³ = **8**. A5 = RAIZ(C2) = √49 = **7**. A6 = SOMA(A2:B2) = 50 + 30 = **80**. Em A7, a função SE testa A4>A5, ou seja, 8 > 7: **verdadeiro**. Então o Excel devolve o segundo argumento, SOMA(A1:C1) = 2 + 3 + 40 = **45**. O terceiro argumento, MÁXIMO(A4:A6), só seria usado se o teste fosse falso.\n\n**As outras:**\n- *7*: é o valor de A5 (raiz de 49), que só entra no teste.\n- *60*: não resulta de nenhuma das fórmulas.\n- *75*: também não corresponde a nenhum resultado da sequência.\n- *80*: é o MÁXIMO(A4:A6), que só apareceria se A4 não fosse maior que A5.\n\n**Para memorizar:** SE(teste; valor se verdadeiro; valor se falso). POTÊNCIA(base; expoente) eleva; RAIZ(número) dá a raiz quadrada."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q15",
+   "numero": 15,
+   "secao": "Noções de Informática",
+   "disciplina": "informatica",
+   "assunto": "planilhas",
+   "enunciado": "Considere a planilha produzida com a ferramenta *Microsoft Office Excel* 2007 (configuração padrão).\n\n|   | A | B | C | D | E | F |\n|---|---|---|---|---|---|---|\n| 1 | Tipo Veículo | AC | BA | MG | RO | RS |\n| 2 | Motocicleta | 3000 | 3000 | 6000 | 2500 | 4000 |\n| 3 | Automóvel | 1500 | 5000 | 7000 | 3000 | 5000 |\n| 4 | Caminhão | 3000 | 6000 | 8000 | 1500 | 7000 |\n| 5 | Ônibus | 4000 | 3000 | 9000 | 2100 | 5000 |\n| 6 |  |  |  |  |  |  |\n\nPara calcular o total geral de veículos em todos estados e a média de veículos do tipo “Caminhão”, deve-se aplicar, respectivamente, as fórmulas:",
+   "alternativas": [
+    "=SOMA(B2:F5) e =MÉDIA(B4:F4)",
+    "=SOMA(B2:F5) e =MÉDIA(B5:F5)",
+    "=SOMA(A2:F5) e =MÉDIA(B2:B5)",
+    "=SOMA(B4:F4) e =MÉDIA(B2:F5)",
+    "=SOMA(B5:F5) e =MÉDIA(B2:F5)"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"=SOMA(B2:F5) e =MÉDIA(B4:F4)\":** os números ficam no bloco de B2 (Motocicleta, AC) a F5 (Ônibus, RS); a coluna A e a linha 1 são rótulos. O total geral é a soma do bloco inteiro: **=SOMA(B2:F5)** = 88.600 veículos. A média dos caminhões usa só a linha 4, de B4 a F4: (3000 + 6000 + 8000 + 1500 + 7000) ÷ 5 = 25.500 ÷ 5 = **5.100**, com **=MÉDIA(B4:F4)**.\n\n**As outras:**\n- *=SOMA(B2:F5) e =MÉDIA(B5:F5)*: a linha 5 é a dos ônibus, não a dos caminhões.\n- *=SOMA(A2:F5) e =MÉDIA(B2:B5)*: a soma até daria o mesmo total (a SOMA ignora o texto da coluna A), mas B2:B5 é a média de todos os veículos do Acre.\n- *=SOMA(B4:F4) e =MÉDIA(B2:F5)*: inverte: soma só os caminhões e tira a média de tudo.\n- *=SOMA(B5:F5) e =MÉDIA(B2:F5)*: soma só os ônibus e tira a média geral.\n\n**Para memorizar:** intervalo \"X:Y\" vai do canto superior esquerdo ao inferior direito. Linha fixa (B4:F4) = um tipo de veículo em todos os estados; coluna fixa (B2:B5) = um estado com todos os tipos."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q16",
+   "numero": 16,
+   "secao": "História e Geografia de Rondônia",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A rede hidrográfica do estado de Rondônia é representada pelo rio Madeira e seus afluentes, que formam bacias significativas para a economia e sociedade do estado da região Norte brasileira. Sobre a hidrografia de Rondônia, NÃO é correto afirmar que",
+   "alternativas": [
+    "o rio Mamoré nasce na Bolívia e recebe o rio Beni, ocasião em que forma também a linha fronteiriça do Brasil com a Bolívia, sendo navegável a embarcações de médio calado em qualquer época do ano.",
+    "o rio Guaporé, em todo o seu percurso, determina a linha fronteiriça entre o Brasil e a Bolívia, apresentando condições de navegabilidade para embarcações de pequeno e médio calados na época da vazante.",
+    "a bacia do Mamoré ocupa extensa área dentro de Rondônia e, juntamente com a bacia do Guaporé, forma uma rede hidroviária de grande importância para o Estado, que utiliza a hidrovia como seu principal meio de transporte e comunicação.",
+    "o rio Madeira é considerado o principal afluente do rio Amazonas, sendo formado pelos rios Guaporé, Mamoré e Beni, que são originários dos planaltos andinos, possuindo dois trechos distintos em seu curso, denominados Alto e Baixo Madeira.",
+    "a bacia do Jamari tem significação estratégica por ser responsável pela demarcação da linha divisória dos limites internacionais entre Brasil e Bolívia no extremo Oeste do estado, além de possuir grande número de cachoeiras e corredeiras que dificultam a navegação, mas ofertam grande potencial hidroelétrico."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito preliminar apontava como incorreta a frase sobre a bacia do **Jamari**: quem marca a fronteira com a Bolívia no extremo oeste do estado é o rio **Abunã**, não o Jamari (o Jamari corre dentro de Rondônia e abriga a usina de Samuel). Mas a banca reconheceu um segundo erro: a frase sobre o Madeira diz que ele é formado pelos rios Guaporé, Mamoré e Beni, todos andinos. Na verdade, o Madeira nasce do encontro do **Mamoré** com o **Beni**, rios que descem dos Andes bolivianos; o Guaporé vem de Mato Grosso e é afluente do Mamoré. Com duas alternativas incorretas, a questão foi anulada.\n\nO assunto: o Madeira é o principal afluente da margem direita do Amazonas e se divide em Alto Madeira (trecho encachoeirado até Porto Velho) e Baixo Madeira (navegável da Cachoeira de Santo Antônio até a foz). Guaporé e Mamoré formam boa parte da fronteira de Rondônia com a Bolívia.\n\n**Para memorizar:** Madeira = Mamoré + Beni. Fronteira no extremo oeste = Abunã."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q17",
+   "numero": 17,
+   "secao": "História e Geografia de Rondônia",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“A cheia dos rios Madeira e Purus, que deixaram sete municípios em estado de emergência, preocupam os donos de embarcações que transportam cargas para Porto Velho, em Rondônia. Segundo o presidente do Sindicato das Empresas de Navegação, Claudomir Carvalho, a enchente atípica do rio Madeira está fazendo com que a viagem para Porto Velho que era feita em 8 dias, esteja demorando 11 dias para ser concluída.”\n\n*(Vasconcelos, Jéssica. Enchente anormal do rio Madeira afeta economia do Amazonas. A Crítica.com. em 27/02/2014).*\n\nSobre a navegabilidade do rio Madeira, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    "A navegabilidade acontece na região denominada de Baixo Madeira, que segue da Cachoeira de Santo Antônio até a sua foz, no rio Amazonas.",
+    "De Porto Velho até sua foz no rio Amazonas, o Madeira é navegável, seguindo, desta forma, até Belém, capital do estado do Pará, durante todo o ano.",
+    "O trecho do rio até as proximidades de Porto Velho não apresenta condições de navegabilidade devido à grande quantidade de cachoeiras existentes.",
+    "Pelo rio circula grande parte da carga existente entre Porto Velho e Manaus, capital do Estado do Amazonas, incluindo produtos fabricados nas indústrias da Zona Franca de Manaus.",
+    "Percurso denominado Alto Madeira segue da nascente do rio, na Cordilheira dos Andes, no Equador, entrando no Brasil pelo Sul do estado com diversas cachoeiras e altíssimos desníveis até Porto Velho."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Percurso denominado Alto Madeira segue da nascente do rio, na Cordilheira…\" é a resposta:** o Madeira não nasce no Equador. Ele se forma na fronteira do Brasil com a Bolívia, no encontro dos rios **Mamoré** e **Beni**, que descem dos Andes bolivianos. O **Alto Madeira** é o trecho encachoeirado entre esse ponto e as proximidades de Porto Velho (cerca de 360 km, com 18 cachoeiras, segundo o portal do governo de Rondônia que a banca citou); dali em diante começa o Baixo Madeira.\n\n**As outras (estão corretas):**\n- *A navegabilidade acontece na região denominada de Baixo Madeira…*: o Baixo Madeira, da Cachoeira de Santo Antônio até a foz, tem cerca de 1.340 km navegáveis.\n- *De Porto Velho até sua foz no rio Amazonas…*: a hidrovia Madeira–Amazonas, de cerca de 3.750 km, permite navegar de Porto Velho a Belém o ano todo.\n- *O trecho do rio até as proximidades de Porto Velho…*: é o Alto Madeira, cheio de cachoeiras (hoje com as usinas de Santo Antônio e Jirau).\n- *Pelo rio circula grande parte da carga existente entre Porto Velho e Manaus…*: a hidrovia liga Rondônia a Manaus e leva e traz cargas, inclusive da Zona Franca.\n\n**Para memorizar:** Alto Madeira = cachoeiras até Porto Velho; Baixo Madeira = navegável até o Amazonas."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q18",
+   "numero": 18,
+   "secao": "História e Geografia de Rondônia",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sobre a história da formação de Rondônia, analise.\n\nI. Antes de receber a nomeação atual, era denominado território federal de Guaporé, tendo sido formado com terras dos estados do Amazonas e Mato Grosso.\n\nII. Foi elevada a condição de unidade federada do Brasil por meio da Constituição de 1988, juntamente com os então territórios do Amapá e Roraima.\n\nIII. Sua colonização mais intensa ocorreu no final do século XIX, quando nordestinos se dirigiram ao estado para trabalhar nas minas de cassiterita.\n\nEstá(ão) correta(s) a(s) afirmativa(s)",
+   "alternativas": [
+    "I, II e III.",
+    "I, apenas.",
+    "II, apenas.",
+    "III, apenas.",
+    "II e III, apenas."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito preliminar dava só a afirmativa I como correta. No recurso, a banca reconheceu que o nome oficial era **Território Federal do Guaporé** (e não \"de Guaporé\") e anulou a questão.\n\nO assunto: o Território Federal do Guaporé foi criado em 1943, com terras desmembradas do Amazonas e de Mato Grosso, e passou a se chamar **Território Federal de Rondônia** pela Lei 2.731/1956, em homenagem ao marechal Rondon. II é falsa: Rondônia virou estado pela **Lei Complementar 41/1981** (instalado em 1982), antes da Constituição; em 1988, quem virou estado foram Amapá e Roraima (art. 14 do ADCT). III é falsa: no fim do século XIX, os nordestinos vieram para os **seringais** da borracha; a cassiterita foi explorada a partir de meados do século XX, e a colonização mais intensa veio nos anos 1970, com os projetos do Incra ao longo da BR-364.\n\n**Para memorizar:** Guaporé (1943) → Rondônia (1956) → estado (1981/1982)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q19",
+   "numero": 19,
+   "secao": "História e Geografia de Rondônia",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O Porto de Porto Velho começou a ser construído em 20 de abril de 1973, pelo Departamento Nacional de Portos e Vias Navegáveis do Ministério dos Transportes. Hoje, as operações no principal Porto do estado são realizadas pelos 3 terminais deste Porto, que é administrado pela Sociedade de Portos e Hidrovias de Rondônia (SOPH),",
+   "alternativas": [
+    "do governo federal do Brasil.",
+    "do município de Porto Velho.",
+    "do governo do estado de Rondônia.",
+    "uma empresa privada do estado de Rondônia.",
+    "numa parceria entre os governos de Rondônia e do Amazonas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"do governo do estado de Rondônia\":** o porto organizado de Porto Velho é federal, mas desde 1997 sua administração foi **delegada pela União ao estado de Rondônia** (convênio de delegação), que a exerce pela **Sociedade de Portos e Hidrovias do Estado de Rondônia (SOPH)**, empresa pública estadual criada em 1997 e cujo único acionista é o governo do estado. Foi essa a justificativa da banca ao manter o gabarito.\n\n**As outras:**\n- *do governo federal do Brasil*: a União continua dona do porto público, mas delegou a administração ao estado.\n- *do município de Porto Velho*: a prefeitura não administra o porto.\n- *uma empresa privada do estado de Rondônia*: a SOPH é empresa pública do estado, não privada (empresas privadas atuam em terminais e operações, não na administração do porto).\n- *numa parceria entre os governos de Rondônia e do Amazonas*: não há gestão compartilhada com o Amazonas.\n\n**Para memorizar:** porto delegado (Lei 9.277/1996): a União é a titular, e um estado ou município administra por convênio de delegação."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q20",
+   "numero": 20,
+   "secao": "História e Geografia de Rondônia",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um dos casos mais emblemáticos da política nos últimos anos foi a condenação e prisão do senador Ivo Cassol (PP-RO) pelo Supremo Tribunal Federal, por crime de fraude em licitações, ocorrido na época em que era prefeito do município de",
+   "alternativas": [
+    "Cacoal.",
+    "Vilhena.",
+    "Ji-Paraná.",
+    "Porto Velho.",
+    "Rolim de Moura."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** A resposta do gabarito preliminar era **Rolim de Moura**. Em agosto de 2013, o STF condenou o senador Ivo Cassol (Ação Penal 565) a 4 anos, 8 meses e 26 dias de prisão, em regime semiaberto, por fraudar licitações de obras em Rolim de Moura entre 1998 e 2002, quando era prefeito da cidade. A banca anulou a questão sem publicar justificativa; o motivo provável é o enunciado falar em \"condenação e **prisão**\": Cassol recorreu em liberdade e não foi preso (em 2017 o STF reduziu a pena para 4 anos, que passou a ser cumprida com penas alternativas).\n\nO tema é atualidade política de Rondônia, só cobrado em provas daquele estado. Serve de lição sobre a banca: um detalhe falso no enunciado, como \"prisão\" no lugar de \"condenação\", basta para derrubar uma questão.\n\n**Para memorizar:** confira cada fato do enunciado, não só a alternativa; afirmação falsa no comando é motivo clássico de anulação."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "Considerando os critérios analíticos da paisagem urbana discutidos por Cullen (1970), relacione adequadamente os conceitos às respectivas definições.\n\n1. Delimitação.\n2. Local.\n3. Ponto focal.\n4. Conteúdo.\n5. Ótica.\n6. Enclave.\n\n( ) Relaciona-se “com a própria constituição da cidade: cor, textura, escala, estilo, natureza, personalidade e tudo que a individualiza”.\n\n( ) “Espaço interior aberto para o exterior, e que permite acesso livre e direto entre ambos.”\n\n( ) “Designando a ocupação dum determinado espaço [...], é o símbolo vertical da convergência.”\n\n( ) “Divisão do sistema da cidade linear (ruas, passagens etc.) em porções coerentes e visualmente compreensíveis, retendo-se, no entanto, à noção de percurso.”\n\n( ) “Visão serial; a paisagem urbana surge [ao observador enquanto atravessa a cidade], como uma sucessão de surpresas ou revelações súbitas.”\n\n( ) “Diz respeito às nossas reações perante a nossa posição no espaço; experiências ligadas às sensações provocadas por espaços abertos e espaços fechados.”\n\nA sequência está correta em",
+   "alternativas": [
+    "3, 6, 1, 4, 5, 2.",
+    "4, 6, 3, 1, 5, 2.",
+    "4, 3, 6, 2, 5, 1.",
+    "6, 1, 5, 3, 2, 4.",
+    "6, 4, 3, 2, 1, 5."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"4, 6, 3, 1, 5, 2\":** em *Paisagem Urbana*, Gordon Cullen analisa a cidade por três aspectos e cria conceitos para os seus elementos. A **ótica** é a visão serial: a cidade se revela aos poucos, em surpresas, a quem a percorre (5ª lacuna = 5). O **local** trata das reações à nossa posição no espaço, dentro ou fora, em espaços abertos ou fechados (6ª = 2). O **conteúdo** é a própria constituição da cidade: cor, textura, escala, estilo (1ª = 4). O **enclave** é o espaço interior aberto para o exterior, com passagem direta (2ª = 6). O **ponto focal** é o símbolo vertical da convergência, como uma torre ou monumento (3ª = 3). A **delimitação** divide o sistema linear de ruas em trechos compreensíveis sem perder a noção de percurso (4ª = 1).\n\n**As outras:**\n- *3, 6, 1, 4, 5, 2*: troca conteúdo, ponto focal e delimitação.\n- *4, 3, 6, 2, 5, 1*: chama o enclave de ponto focal e o ponto focal de enclave.\n- *6, 1, 5, 3, 2, 4*: chama o conteúdo de enclave e a visão serial de local.\n- *6, 4, 3, 2, 1, 5*: põe a visão serial como delimitação e a posição no espaço como ótica.\n\n**Para memorizar:** Cullen = ótica (visão serial), local (aqui e ali, dentro e fora) e conteúdo (cor, textura, escala, estilo)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "“A Carta de Atenas de 1933, elaborada pelo CIAM (Congresso Internacional de Arquitetura Moderna), criticava as cidades tradicionais e propunha uma concepção de cidade pautada no funcionalismo, conforme as visões do Urbanismo Moderno. Estas visões ‘assumiram um caráter dogmático, influenciando profundamente as nossas cidades’.” *(Kanashiro, 2005, p. 1.)*\n\nAssinale a alternativa que apresenta as funções básicas da cidade moderna definidas pela Carta de Atenas (1933).",
+   "alternativas": [
+    "Habitar, trabalhar, recrear e circular.",
+    "Habitar, trabalhar, higienizar e circular.",
+    "Ventilar, escoar, racionalizar e hierarquizar.",
+    "Implantação, drenagem, defesa e acessibilidade.",
+    "Hierarquização espacial, sanitarização urbana, captação de águas e acessibilidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Habitar, trabalhar, recrear e circular\":** a Carta de Atenas, resultado do IV CIAM (1933) e publicada por Le Corbusier em 1943, organiza a cidade funcionalista em **quatro funções-chave**: habitar, trabalhar, recrear-se (cultivar o corpo e o espírito nas horas livres) e circular, a função que liga as outras três. Daí veio o zoneamento rígido, com cada função em sua área, que marcou o urbanismo moderno e, no Brasil, o Plano Piloto de Brasília.\n\n**As outras:**\n- *Habitar, trabalhar, higienizar e circular*: a higiene foi a preocupação do urbanismo sanitarista do século XIX, mas não é uma das quatro funções.\n- *Ventilar, escoar, racionalizar e hierarquizar*: são ações técnicas, não funções da cidade.\n- *Implantação, drenagem, defesa e acessibilidade*: mistura etapas e infraestrutura; nada disso está na Carta.\n- *Hierarquização espacial, sanitarização urbana, captação de águas…*: também não são as funções definidas pelo CIAM.\n\n**Para memorizar:** Carta de Atenas = 4 funções (morar, trabalhar, recrear, circular) + zoneamento funcional. Não confunda com a Carta de Atenas de 1931, sobre restauro de monumentos."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "Com base nos aspectos concernentes à definição do que se chama “ambiência urbana”, Mascaró (1996, p. 11) analisa uma série de inter-relações entre vegetação e microclima, no intuito de “aprofundar o conhecimento dos aspectos ambientais desse amplo campo que é o desenho urbano”. Acerca das inter-relações entre vegetação e a configuração de microclimas urbanos, assinale a afirmativa correta.",
+   "alternativas": [
+    "Árvores isoladas são bem mais eficazes que grupamentos arbóreos no controle da radiação solar, aumento da umidade do ar e redução da variação da temperatura do ar.",
+    "Pela caracterização de microclimas urbanos, a vegetação auxilia na amenização do calor intenso nos espaços urbanos e nas edificações adjacentes, embora não possa atenuar condições extremas de frio.",
+    "Recintos urbanos arborizados com espécies de grande porte sofrem mais os efeitos indesejáveis do clima, em regiões tropicais, do que os que utilizam espécies de pequeno porte, que produzem microclimas mais amenos.",
+    "A incidência do vento, numa velocidade superior a 1,5 m/s, sob a arborização, reduz as diferenças de temperatura e umidade relativa do ar entre as áreas sombreadas e ensolaradas, sendo mais significativa em relação à umidade que à temperatura do ar.",
+    "A composição de grupamentos arbóreos constituídos por espécies de diferentes portes contribui para o aumento da temperatura do ar; as várias camadas de copa reduzem a absorção da radiação solar e a estratificação da temperatura do ar sob a vegetação."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A incidência do vento, numa velocidade superior a 1,5 m/s…\":** no estudo de Lucia Mascaró sobre ambiência urbana, o vento acima de cerca de 1,5 m/s mistura o ar que está sob as copas com o das áreas ao sol. Com isso, as diferenças de temperatura e de umidade entre sombra e sol diminuem, e o efeito é mais forte sobre a umidade do que sobre a temperatura. Com vento fraco, a vegetação consegue manter sob a copa um microclima próprio, mais fresco e úmido.\n\n**As outras:**\n- *Árvores isoladas são bem mais eficazes que grupamentos arbóreos…*: é o contrário: grupamentos controlam melhor a radiação, a umidade e a variação de temperatura.\n- *…embora não possa atenuar condições extremas de frio*: a vegetação também atenua o frio, barrando ventos e reduzindo a perda de calor à noite.\n- *Recintos urbanos arborizados com espécies de grande porte sofrem mais…*: as copas amplas das espécies de grande porte é que produzem microclimas mais amenos nos trópicos.\n- *A composição de grupamentos arbóreos… contribui para o aumento da temperatura*: vários portes e camadas de copa **aumentam** a absorção da radiação e a estratificação do ar, o que **reduz** a temperatura sob a vegetação.\n\n**Para memorizar:** copa densa + vento fraco = microclima fresco e úmido; vento forte homogeneiza o ar e reduz a diferença."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "Considerando as três grandes linhas projetuais identificadas por Macedo (1999, p. 17-20) na arquitetura paisagística brasileira, relacione adequadamente as colunas. *(Os números poderão ser usados mais de uma vez.)*\n\n1. Eclética.\n2. Moderna.\n3. Contemporânea.\n\n( ) O programa de usos é bastante diversificado, abrindo-se a oportunidade ao lazer ativo, sem, entretanto, existir o abandono da atividade de contemplação como uma meta a ser implantada.\n\n( ) Denominações como utilitarismo e desconstrutivismo ecológico podem ser atribuídas às diversas facetas projetuais desta linha, que permite toda uma série de experiências.\n\n( ) Tem como característica básica o tratamento do espaço livre dentro de uma visão romântica e idílica, que procura recriar nos espaços a imagem de paraísos perdidos, de campos bucólicos ou de jardins de palácios reais, incorporando no seu ideário toda uma concepção pitoresca de mundo.\n\n( ) Tem como característica básica o abandono de qualquer referência aparente do passado imediato, adotando uma forte postura nacionalista, na qual a vegetação nativa é sobrevalorizada.\n\n( ) Os espaços então criados são destinados à contemplação, ao passear e ao flanar, ao passo que aqueles dedicados exclusivamente às atividades esportivas são raros.\n\n( ) Diretrizes projetuais sofrem uma concorrência de novos posicionamentos que, direcionados, tanto por um viés ecológico quanto por uma tendência de utilização de antigos ícones do passado, possibilitam o surgimento de novas organizações para os espaços livres.\n\nA sequência está correta em",
+   "alternativas": [
+    "1, 2, 3, 1, 2, 3.",
+    "1, 3, 2, 2, 1, 3.",
+    "2, 1, 3, 2, 1, 3.",
+    "2, 3, 1, 2, 1, 3.",
+    "3, 3, 2, 1, 2, 1."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"2, 3, 1, 2, 1, 3\":** Silvio Soares Macedo (*Quadro do Paisagismo no Brasil*, 1999) identifica três linhas. A **eclética** (1) trata o espaço livre de forma romântica e pitoresca, recriando bosques e jardins de palácio para contemplar e passear; quase não há espaço para esporte (3ª e 5ª lacunas). A **moderna** (2) rompe com o passado, tem postura nacionalista, valoriza a vegetação nativa e abre o programa ao lazer ativo, sem abandonar a contemplação (1ª e 4ª). A **contemporânea** (3) é plural: convivem utilitarismo, desconstrutivismo ecológico, viés ecológico e releitura de ícones do passado (2ª e 6ª).\n\n**As outras:**\n- *1, 2, 3, 1, 2, 3*: chama de eclético o programa de lazer ativo e de moderno o desconstrutivismo.\n- *1, 3, 2, 2, 1, 3*: atribui o lazer ativo ao ecletismo e a visão romântica ao moderno.\n- *2, 1, 3, 2, 1, 3*: troca o utilitarismo contemporâneo pela visão romântica eclética.\n- *3, 3, 2, 1, 2, 1*: inverte quase tudo, inclusive o nacionalismo da linha moderna.\n\n**Para memorizar:** eclético = contemplação romântica (passeio público do século XIX); moderno = vegetação nativa + lazer ativo (Burle Marx); contemporâneo = mistura de tendências."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "O Estatuto da Cidade (2001) estabelece que “o plano diretor, aprovado por lei municipal, é o instrumento básico da política de desenvolvimento e expansão urbana”. Acerca das definições previstas pelos artigos constantes no Capítulo III – Do Plano Diretor – do Estatuto da Cidade (2001), marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) O plano diretor é parte integrante do processo de planejamento municipal, devendo o plano plurianual, as diretrizes orçamentárias e o orçamento anual incorporar as diretrizes e as prioridades nele contidas.\n\n( ) O plano diretor deverá englobar apenas o território contido no perímetro urbano do município.\n\n( ) A lei que instituir o plano diretor deverá ser revista, pelo menos, a cada dez anos.\n\n( ) O plano diretor é obrigatório para cidades com mais de quarenta mil habitantes, cidades integrantes de regiões metropolitanas e áreas de especial interesse turístico, entre outros casos.\n\n( ) No caso de cidades com mais de um milhão de habitantes, deverá ser elaborado um plano de transporte urbano integrado, compatível com o plano diretor ou nele inserido.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, F, V, F, F.",
+    "V, F, V, F, F.",
+    "V, V, F, V, F.",
+    "F, V, F, F, V.",
+    "V, F, V, F, V."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"V, F, V, F, F\":** são os arts. 40 e 41 do Estatuto da Cidade (Lei 10.257/2001). 1ª V: art. 40, §1º; o plano diretor integra o planejamento municipal, e PPA, LDO e LOA devem incorporar suas diretrizes e prioridades. 2ª F: art. 40, §2º; deve englobar o **território do Município como um todo**, inclusive a área rural. 3ª V: art. 40, §3º; revisão pelo menos a cada **dez anos**. 4ª F: art. 41, I; é obrigatório para cidades com mais de **vinte mil** habitantes (além de regiões metropolitanas, áreas de especial interesse turístico e outros casos). 5ª F: art. 41, §2º; o plano de transporte urbano integrado é exigido nas cidades com mais de **quinhentos mil** habitantes.\n\n**As outras:**\n- *F, F, V, F, F*: recusa a 1ª, que reproduz o §1º do art. 40.\n- *V, V, F, V, F*: aceita \"só o perímetro urbano\", nega a revisão decenal e aceita os 40 mil.\n- *F, V, F, F, V*: erra quase tudo, inclusive o limite de 500 mil.\n- *V, F, V, F, V*: acerta quatro, mas aceita \"um milhão\" no plano de transporte.\n\n**Para memorizar:** plano diretor: mais de 20 mil habitantes, território todo, revisão a cada 10 anos, transporte integrado acima de 500 mil. Hoje a Lei 12.587/2012 também exige Plano de Mobilidade Urbana dos municípios com mais de 20 mil habitantes."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "“Paisagismo é um termo genérico no Brasil, e costuma ser utilizado para designar as diversas escalas e formas de ação e estudo sobre a paisagem, que podem variar do simples procedimento de plantio de um jardim até o processo de concepção de projetos completos de arquitetura paisagística como parques ou praças. O conceito de arquitetura paisagística corresponde a uma ação de projeto específica, que passa por um processo de criação a partir de um programa dado, visando atender à solicitação de resolução de uma demanda social requerida por um interlocutor específico, seja ele o Estado, um incorporador imobiliário, uma família.” *(Macedo, 1999, p. 13-14.)*\n\nAssinale a alternativa INCORRETA acerca das definições e práticas de paisagismo e arquitetura paisagística.",
+   "alternativas": [
+    "O projeto de arquitetura paisagística sempre está aplicado ao espaço livre (como uma rua, um pátio, um jardim, um parque) e não exige necessariamente a utilização de vegetação para sua concretização.",
+    "Um trabalho exclusivo de plantio, porém, pode ser designado como um projeto de arquitetura paisagística estrutural ou complementar quando de algum modo colabora na reorganização tridimensional do espaço.",
+    "O plantio solitário de vegetação, posterior à definição de pisos, de paredes, de águas e de equipamentos, atividade comumente denominada de paisagismo, não pode ser considerado, em geral, como um procedimento de arquitetura paisagística.",
+    "O projeto do espaço livre em si (ruas, largos, jardins, praças, entre outros) está sempre dissociado do contexto urbano no qual se insere, uma vez que suas especificidades, como escala e diversidade de elementos, o tornam independente no que diz respeito à configuração da cidade.",
+    "Um projeto de arquitetura paisagística envolve uma pré-concepção tridimensional, desenvolvida de modo a qualificar ambiental, estética e funcionalmente um espaço livre determinado, que pode, de acordo com a escala do projeto, ter um significado complementar ou estrutural em relação ao espaço."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O projeto do espaço livre em si … está sempre dissociado do contexto urbano…\" é a resposta:** para Silvio Macedo, todo espaço livre (rua, largo, praça, parque) faz parte do sistema de espaços livres da cidade, e o projeto de arquitetura paisagística sempre dialoga com o entorno e com a configuração urbana. Dizer que ele está \"sempre dissociado\" do contexto e é \"independente\" da cidade contraria a própria definição de arquitetura paisagística como qualificação de um espaço livre determinado.\n\n**As outras (estão corretas):**\n- *O projeto de arquitetura paisagística sempre está aplicado ao espaço livre…*: uma praça seca é projeto paisagístico; vegetação não é obrigatória.\n- *Um trabalho exclusivo de plantio, porém, pode ser designado…*: o plantio vira arquitetura paisagística quando reorganiza o espaço em três dimensões.\n- *O plantio solitário de vegetação, posterior à definição de pisos…*: é o \"paisagismo\" de acabamento, que em geral não é projeto de arquitetura paisagística.\n- *Um projeto de arquitetura paisagística envolve uma pré-concepção tridimensional…*: é a definição do autor: qualificar um espaço livre, com papel estrutural ou complementar.\n\n**Para memorizar:** paisagismo = termo genérico (até plantar um jardim); arquitetura paisagística = projeto tridimensional do espaço livre, sempre ligado à cidade."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "Observe o seguinte esquema de contraventamento das tesouras de uma estrutura genérica de telhado.\n\n![Esquema em perspectiva de um telhado com tesouras contraventadas e quatro peças numeradas de 1 a 4](data/provas/img/idecan-2014-detranro-arquiteto/q27.webp)\n\n*(Milito, J. A. s/d, p. 109.)*\n\nOs componentes 1, 2, 3 e 4 da estrutura de contraventamento das tesouras denomina-se, respectivamente,",
+   "alternativas": [
+    "caibro, mão francesa, cumeeira e tesoura.",
+    "caibro, mão francesa, cumeeira e diagonal.",
+    "mão francesa, tesoura, cumeeira e diagonal.",
+    "tesoura, cumeeira, mão francesa e diagonal.",
+    "mão francesa, tesoura, diagonal e cumeeira."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"mão francesa, tesoura, diagonal e cumeeira\":** no esquema, a peça (1) é a escora inclinada que sai da parede de oitão e trava a primeira tesoura: **mão francesa**. A (2) é a treliça triangular que vence o vão e sustenta o telhado: **tesoura**. A (3) indica as peças inclinadas que ligam uma tesoura à vizinha, travando o conjunto no sentido do comprimento: **diagonais** de contraventamento. A (4) é a peça longitudinal no alto, que corre sobre o topo das tesouras: **cumeeira**.\n\n**As outras:**\n- *caibro, mão francesa, cumeeira e tesoura*: caibro é a peça inclinada que vai das terças à cumeeira e recebe as ripas; não é a (1), e a (4) não é tesoura.\n- *caibro, mão francesa, cumeeira e diagonal*: chama a (2), uma tesoura inteira, de mão francesa.\n- *mão francesa, tesoura, cumeeira e diagonal*: acerta (1) e (2), mas inverte (3) e (4).\n- *tesoura, cumeeira, mão francesa e diagonal*: a peça (1) é uma escora, não uma tesoura.\n\n**Para memorizar:** sem contraventamento, as tesouras podem tombar umas sobre as outras como dominós; diagonais entre tesouras, mãos-francesas nos oitões e a cumeeira contínua travam o conjunto no sentido longitudinal."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "“Os pavimentos urbanos sofrem esforços muito complexos que, no entanto, podem ser agrupados em: esforços produzidos pelo tráfego de veículos – em ação estática [...] ou em ação dinâmica –; e, esforços produzidos por variações de umidade e temperatura. A repetição e combinação desses esforços, que se verificam continuamente, produzem fadiga nos materiais.” Em vista de tal aspecto, Mascaró e Yoshinaga (2005, p. 64) elaboram uma lista de exigências que devem ser atendidas pelas características dos pavimentos urbanos para tráfego de automotores. São exigências que devem ser atendidas pelas características dos pavimentos urbanos para tráfego de automotores, segundo Mascaró e Yoshinaga (2005, p. 64), EXCETO:",
+   "alternativas": [
+    "Baixa sonoridade para não aumentar excessivamente o ruído urbano.",
+    "Alta resistência à circulação dos veículos para diminuir o consumo de combustível.",
+    "Alto coeficiente de atrito para permitir boa frenagem, inclusive sob chuva ou geada.",
+    "Cor adequada para que motoristas e pedestres tenham uma boa visibilidade, mesmo à noite ou com nevoeiro.",
+    "Alta resistência às cargas verticais e horizontais, ao desgaste e à impermeabilidade para evitar deterioração da base."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Alta resistência à circulação dos veículos para diminuir o consumo de combustível\" é a resposta:** Mascaró e Yoshinaga pedem o oposto: o pavimento deve oferecer **baixa resistência ao rolamento**, com superfície regular que deixe o veículo rodar com pouco esforço, economizando combustível e reduzindo o desgaste. \"Alta resistência à circulação\" aumentaria o consumo e contradiz a própria justificativa da frase.\n\n**As outras (estão corretas):**\n- *Baixa sonoridade…*: o rolamento dos pneus não deve aumentar o ruído urbano.\n- *Alto coeficiente de atrito…*: aderência para frear com segurança, inclusive com pista molhada.\n- *Cor adequada…*: a cor do revestimento ajuda a visibilidade de motoristas e pedestres, de dia, à noite e com neblina.\n- *Alta resistência às cargas verticais e horizontais, ao desgaste…*: resistência mecânica e impermeabilidade protegem a base contra a água e a fadiga.\n\n**Para memorizar:** pavimento bom = resistente, impermeável, aderente, silencioso, visível e com **baixa** resistência ao rolamento. Atrito alto é entre pneu e pista na frenagem; resistência ao rolamento é outra coisa."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "O plano diretor de Porto de Velho, de 2008, corresponde a uma revisão e atualização do plano diretor de 1990 do mesmo município. A partir de uma análise de caráter mais qualitativo do que quantitativo da infraestrutura social e econômica do Município, o plano contempla fundamentalmente:\n\n- um documento técnico que resume as propostas apresentadas pela equipe para o desenvolvimento da cidade;\n- uma revisão da legislação básica, incluindo basicamente uma nova Lei do Plano Diretor, acompanhada de seu desdobramento em uma nova Lei de Uso do Solo e de uma nova Lei de Parcelamento Urbano, e uma revisão dos Códigos de Postura e de Obras; e,\n- um Zoneamento de Uso de Solo, tradução gráfica da Lei correspondente (PD Porto Velho-RO, 2008, apresentação).\n\nSobre as Diretrizes de Uso e Ocupação do Solo, Mobilidade Urbana, Meio Ambiente e Turismo, previstas no plano diretor de Porto Velho (2008), marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) Tendo em vista a altíssima densidade habitacional do Município e a necessidade de manutenção de reserva de áreas livres, deve-se estimular a permanência dos vazios urbanos com utilização dos instrumentos legais proporcionados pelo Estatuto das Cidades.\n\n( ) Estabelecer um sistema de hierarquização de vias que assegure um aumento da fluidez do tráfego e a diminuição do número de acidentes.\n\n( ) Estimular a consolidação dos centros de bairro, para atender aos moradores de sua área, a fim de que eles possam suprir suas necessidades do dia a dia sem que tenham que se dirigir ao centro da cidade.\n\n( ) Realizar um programa de parques lineares, aterrando os igarapés com vistas à criação de espaços de lazer nas áreas resultantes do aterramento.\n\n( ) Dar prioridade ao transporte coletivo em relação ao transporte privado, incluindo, entre outras medidas, a anulação das antigas vias de uso exclusivo para o transporte coletivo e a diminuição das concessões para as empresas operarem o sistema, de modo a facilitar o controle de qualidade do serviço.\n\n( ) Desenvolver programas de promoção turística em nível nacional e internacional.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, V, V, F, F, V.",
+    "V, V, V, F, F, V.",
+    "V, F, F, V, V, F.",
+    "F, V, V, F, V, V.",
+    "F, V, V, V, V, V."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"F, V, V, F, F, V\":** o Plano Diretor de Porto Velho de 2008 (Lei Complementar 311/2008) traz as diretrizes de uso do solo, mobilidade e meio ambiente nos arts. 6º a 8º. 1ª F: a lei manda **incrementar a densidade** urbana e **estimular a ocupação dos vazios urbanos** com os instrumentos do Estatuto da Cidade (art. 6º, II e IV); a cidade não tem \"altíssima densidade\". 2ª V: art. 7º, V. 3ª V: art. 6º, VI. 4ª F: os parques lineares devem **revitalizar** os igarapés, criando lazer junto a eles (art. 8º, II), não aterrá-los. 5ª F: a prioridade ao transporte coletivo inclui **implantar** vias exclusivas para ônibus (art. 7º, II), não anulá-las. 6ª V: o turismo é tratado como vetor de desenvolvimento, com base no patrimônio cultural e natural do município (art. 27, III).\n\n**As outras:**\n- *V, V, V, F, F, V*: aceita a manutenção dos vazios urbanos.\n- *V, F, F, V, V, F*: erra todas as seis.\n- *F, V, V, F, V, V*: aceita o fim das vias exclusivas do transporte coletivo.\n- *F, V, V, V, V, V*: aceita o aterro dos igarapés e o fim das vias exclusivas.\n\n**Para memorizar:** vazio urbano se combate (parcelamento compulsório, IPTU progressivo), não se preserva. A LC 311/2008 foi revogada pela LC 838/2021, o plano diretor atual de Porto Velho."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Observe a planta baixa de um projeto arquitetônico de uma edificação e, a seguir, os cinco cortes, demarcados pelas linhas AA, BB, CC, DD e EE, na referida planta. Para efeito da elaboração desta questão, a nomenclatura identificatória de cada corte foi suprimida e substituída por um número de 1 a 5. Identifique cada corte, conforme sua localização na planta, relacionando sua nomenclatura identificatória à numeração utilizada nesta questão. *(Observação: os desenhos encontram-se fora de escala.)*\n\n![Planta baixa com dois dormitórios, banho, estar e cozinha, e as linhas de corte AA, BB, CC, DD e EE](data/provas/img/idecan-2014-detranro-arquiteto/q30.webp)\n\n![Corte 1](data/provas/img/idecan-2014-detranro-arquiteto/q30-c1.webp)\n\n![Corte 2](data/provas/img/idecan-2014-detranro-arquiteto/q30-c2.webp)\n\n![Corte 3](data/provas/img/idecan-2014-detranro-arquiteto/q30-c3.webp)\n\n![Corte 4](data/provas/img/idecan-2014-detranro-arquiteto/q30-c4.webp)\n\n![Corte 5](data/provas/img/idecan-2014-detranro-arquiteto/q30-c5.webp)\n\n*(Gouvêa, I (s/d))*\n\nAssinale a alternativa que apresenta corretamente a nomenclatura identificatória de cada corte, conforme sua demarcação na planta, a numeração atribuída a cada um dos mesmos nesta questão.",
+   "alternativas": [
+    "Corte1: CC; Corte 2: DD; Corte 3: AA; Corte 4: BB; e, Corte 5: EE.",
+    "Corte 1: AA; Corte 2: CC; Corte 3: DD; Corte 4: EE; e, Corte 5: BB.",
+    "Corte 1: AA; Corte 2: EE; Corte 3: BB; Corte 4: CC; e, Corte 5: DD.",
+    "Corte 1: EE; Corte 2: DD; Corte 3: CC; Corte 4: BB; e, Corte 5: AA.",
+    "Corte 1: CC; Corte 2: EE; Corte 3: AA; Corte 4: BB; e, Corte 5: DD."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Corte 1: CC; Corte 2: EE; Corte 3: AA; Corte 4: BB; e, Corte 5: DD\":** a linha de corte mostra onde o plano corta, e a seta mostra para onde se olha. **BB** é o único que atravessa o banho: só o Corte 4 tem a janela pequena e alta do banheiro (peitoril de 1,70 m) e corta a porta de entrada. **EE** e **DD** passam na mesma linha horizontal, mas EE olha para os dormitórios e o banho: o Corte 2 mostra só a porta do banheiro, no fim do corredor, sem janelas em vista. DD olha para a frente da casa: o Corte 5 mostra a porta de entrada e as janelas do estar e da cozinha. **AA** e **CC** passam pelos dois lados e se espelham: AA olha para a direita, então o dormitório (com a porta para o corredor) fica à esquerda do desenho (Corte 3); CC olha para a esquerda, e a porta do outro dormitório aparece à direita (Corte 1).\n\n**As outras:**\n- *Corte1: CC; Corte 2: DD; … Corte 5: EE*: troca DD e EE, ignorando o sentido das setas.\n- *Corte 1: AA; Corte 2: CC; Corte 3: DD…*: põe o BB no Corte 5, que não tem a janela do banho.\n- *Corte 1: AA; Corte 2: EE; Corte 3: BB…*: acerta EE e DD, mas põe o BB no Corte 3 e troca AA por CC.\n- *Corte 1: EE; Corte 2: DD; Corte 3: CC…*: só acerta o BB.\n\n**Para memorizar:** a seta indica o lado que o observador vê; o que fica atrás dele não aparece no corte."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "parcelamento-solo",
+   "enunciado": "A Lei Complementar nº 467/2012 dispõe sobre a ampliação do perímetro urbano do Município de Porto Velho, agregando a área de terreno que se especifica como Urbana e criando a Zona Especial de Interesse Social na área, e dá outras providências. Com base no art. 3º da referida lei, assinale a alternativa que NÃO condiz com os objetivos da ZEIS.",
+   "alternativas": [
+    "Viabilizar técnica e juridicamente a participação da comunidade no processo de urbanização e regularização jurídica do assentamento.",
+    "Melhorar as condições de habitabilidade através da elaboração de planos de investimentos em equipamentos urbanos e comunitários.",
+    "Melhorar as condições de infraestrutura e estimular o processo de gentrificação e valorização fundiária do assentamento correspondente a ZEIS.",
+    "Viabilizar a regularização urbanística e jurídica da área de assentamento de população de baixa renda, mediante parâmetros específicos de uso e ocupação do solo.",
+    "Fixar na ZEIS a população a ser relocada, que é residente na proximidade, criando mecanismos que impeçam processos de expulsão indireta decorrentes da regularização jurídica e urbanística."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Melhorar as condições de infraestrutura e estimular o processo de gentrificação…\" é a resposta:** o art. 3º da LC 467/2012 de Porto Velho lista quatro objetivos da ZEIS: viabilizar a regularização urbanística e jurídica do assentamento de baixa renda com parâmetros próprios (I); fixar ali a população a ser relocada, impedindo a **expulsão indireta** (II); viabilizar a participação da comunidade (III); e melhorar a habitabilidade com investimentos em equipamentos urbanos e comunitários (IV). **Gentrificação** é a troca dos moradores pobres por outros de renda maior quando a área se valoriza: é exatamente o que a ZEIS quer evitar.\n\n**As outras (estão corretas):**\n- *Viabilizar técnica e juridicamente a participação da comunidade…*: objetivo do inciso III.\n- *Melhorar as condições de habitabilidade…*: objetivo do inciso IV.\n- *Viabilizar a regularização urbanística e jurídica da área…*: objetivo do inciso I.\n- *Fixar na ZEIS a população a ser relocada…*: objetivo do inciso II.\n\n**Para memorizar:** ZEIS (Estatuto da Cidade, art. 4º, V, \"f\") = regras especiais para manter a população de baixa renda no lugar. Valorização e gentrificação são riscos a combater, não metas."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "“O desenho urbano aparece como uma dimensão que deve sempre permear o processo de planejamento, desde a elaboração dos objetivos gerais até a consecução de suas estratégias e recomendações específicas. A preocupação pela qualidade físico-espacial do meio ambiente deve nortear os esforços do setor público e, ao mesmo tempo, ser produto destes esforços.” *(Del Rio, 1990, p. 57.)*\n\nDe acordo com o trecho anterior, assinale a alternativa INCORRETA no que diz respeito às inter-relações entre o campo do Desenho Urbano, o processo de Planejamento Urbano e do Meio Ambiente.",
+   "alternativas": [
+    "O desenho urbano busca tratar da produção, da apropriação e do controle do meio ambiente, levando-se em conta, necessariamente, as vivências, percepções e cotidiano da população.",
+    "Escala espacial e temporal, interações homem/ambiente, cliente múltiplo, multiprofissionalismo e monitoração/orientação são características básicas do campo de atuação do desenho urbano.",
+    "No sentido de participação comunitária, o desenho urbano falha na medida em que visa tão somente a elaboração e a fiscalização dos instrumentos legais necessários à administração urbana.",
+    "O planejamento urbano lida com decisões políticas e locacionais, enquanto o desenho urbano inclui a natureza dos elementos urbanos e suas inter-relações, como experimentados e compreendidos pela população.",
+    "O desenho urbano deve ser encarado como uma atividade de planejamento, que deve estar presente desde o primeiro momento de pensar a cidade, permeando todo o processo desde a definição dos objetivos políticos a alcançar até os instrumentos e programas de implementação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"No sentido de participação comunitária, o desenho urbano falha…\" é a resposta:** para Vicente del Rio (*Introdução ao Desenho Urbano no Processo de Planejamento*, 1990), o desenho urbano cuida da qualidade físico-espacial da cidade tal como ela é vivida e percebida pela população, com cliente múltiplo e participação da comunidade. A alternativa o reduz à elaboração e fiscalização de leis urbanísticas e ainda o põe contra a participação, o oposto do que o autor defende.\n\n**As outras (estão corretas):**\n- *O desenho urbano busca tratar da produção, da apropriação e do controle do meio ambiente…*: o foco é o ambiente construído como vivido pelas pessoas.\n- *Escala espacial e temporal, interações homem/ambiente, cliente múltiplo…*: são características do campo apontadas por Del Rio.\n- *O planejamento urbano lida com decisões políticas e locacionais…*: é a distinção entre as duas escalas de atuação.\n- *O desenho urbano deve ser encarado como uma atividade de planejamento…*: é a ideia do trecho citado: ele permeia todo o processo, dos objetivos à implementação.\n\n**Para memorizar:** Del Rio: desenho urbano = dimensão físico-espacial que atravessa todo o planejamento, levando em conta a percepção e a participação dos usuários."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "A NBR 6492, válida desde 30 de maio de 1994, “fixa as condições exigíveis para representação gráfica de projetos de arquitetura, visando à sua boa compreensão”. Com base nas definições a respeito da representação gráfica de projetos de arquitetura normatizadas pela NBR 6492/94, assinale a afirmativa correta.",
+   "alternativas": [
+    "Cortes: compreendem a representação gráfica de planos externos da edificação. Os cortes transversais e longitudinais podem ser marcados nas fachadas.",
+    "Fachadas: correspondem à representação gráfica de todos os pormenores necessários, em escala adequada, para um perfeito entendimento do projeto e para possibilitar a sua correta execução.",
+    "Planta de edificação: compreende o partido arquitetônico como um todo, em seus múltiplos aspectos. Pode conter informações específicas em função do tipo e porte do programa, assim como para a finalidade a que se destina. Nota: para aprovação em órgãos oficiais, esta planta deve conter informações completas sobre a localização do terreno.",
+    "Planta de situação: consiste numa vista superior do plano secante horizontal, localizado a, aproximadamente, 1,50 m do piso em referência. A altura desse plano pode ser variável para cada projeto de maneira a representar todos os elementos considerados necessários. Nota: as plantas de edificação podem ser do térreo, subsolo, jirau, andar-tipo, sótão, cobertura, entre outros.",
+    "Planta de locação (ou implantação): compreende o projeto como um todo contendo, além do projeto de arquitetura, as informações necessárias dos projetos complementares, tais como: movimento de terra, arruamento, redes hidráulica, elétrica e de drenagem, entre outros. Nota: a locação das edificações, assim como a das eventuais construções complementares, são indicadas nesta planta."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Planta de locação (ou implantação)…\":** é a definição da NBR 6492/1994: a planta de locação (ou implantação) mostra o projeto como um todo, com as informações dos projetos complementares (movimento de terra, arruamento, redes hidráulica, elétrica e de drenagem) e a locação das edificações e das construções complementares.\n\n**As outras:**\n- *Cortes: compreendem a representação gráfica de planos externos…*: essa é a definição de **fachada** (inclusive a nota de que os cortes podem ser marcados nas fachadas). Corte é o plano secante vertical que divide a edificação, no sentido longitudinal ou transversal.\n- *Fachadas: correspondem à representação gráfica de todos os pormenores…*: essa é a definição de **detalhes** (ou ampliações).\n- *Planta de edificação: compreende o partido arquitetônico como um todo…*: essa é a **planta de situação**, que localiza o terreno e o partido.\n- *Planta de situação: consiste numa vista superior do plano secante horizontal…*: essa é a **planta de edificação** (planta baixa), cortada a cerca de 1,50 m do piso.\n\n**Para memorizar:** a questão troca as definições aos pares: corte ↔ fachada ↔ detalhe e situação ↔ edificação; só a locação ficou no lugar. A NBR 6492 foi revista em 2021 (documentação técnica de projetos arquitetônicos e urbanísticos)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "“A topografia [...] é a ciência aplicada cujo objetivo é representar, no papel, a configuração de uma porção de terreno com as benfeitorias que estão em sua superfície. [...] É a topografia que, através de plantas com curvas de nível, representa o relevo do solo com todas as suas elevações e depressões. Também nos permite conhecer a diferença de nível entre dois pontos, seja qual for a distância que os separe [...].” *(Borges, 1977, p. 1.)*\n\nCom base nas definições e técnicas de levantamento topográfico, assinale a afirmativa correta.",
+   "alternativas": [
+    "Na planimetria são medidas as grandezas sobre um plano horizontal. Distâncias e ângulos verticais são, portanto, representados através de vistas, cortes e perfis.",
+    "Azimute de uma linha é o ângulo horizontal entre a direção norte-sul e a linha, medido a partir do leste ou do oeste na direção da linha, porém, não ultrapassando 90°.",
+    "Rumo de uma linha é o ângulo que essa linha faz com a direção norte-sul, medido a partir do norte ou do sul, para a direita ou para a esquerda, e variando de 0° a 360°.",
+    "Escalas com valores unitários bem específicos, como, por exemplo, 1:372 ou 1:547, facilitam a elaboração do desenho e a conversão das distâncias gráficas em valores reais.",
+    "Pela altimetria executa-se medições das distâncias e dos ângulos verticais que, na planta, não podem ser representados (exceção feita às curvas de nível). Por essa razão, a altimetria usa como representação a vista lateral, ou perfil, ou corte, ou elevação."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Pela altimetria executa-se medições das distâncias e dos ângulos verticais…\":** a topografia se divide em **planimetria** (medidas projetadas num plano horizontal e representadas em planta) e **altimetria** (diferenças de nível, distâncias e ângulos verticais). Como a planta não mostra alturas, a não ser pelas curvas de nível, a altimetria é representada em perfil, corte ou elevação, como diz a alternativa.\n\n**As outras:**\n- *Na planimetria são medidas as grandezas sobre um plano horizontal…*: a primeira frase está certa, mas o \"portanto\" é falso: perfis e cortes representam a altimetria; a planimetria trabalha com distâncias e ângulos horizontais.\n- *Azimute de uma linha é o ângulo horizontal… não ultrapassando 90°*: o limite de 90° é do **rumo**. O azimute é contado a partir do norte, no sentido horário, de 0° a 360°.\n- *Rumo de uma linha é o ângulo… variando de 0° a 360°*: o rumo vai de 0° a 90°, contado do norte ou do sul para leste ou oeste (ex.: 35° NE).\n- *Escalas com valores unitários bem específicos, como 1:372…*: escalas \"quebradas\" dificultam o desenho e a conversão; usam-se escalas redondas (1:100, 1:200, 1:500).\n\n**Para memorizar:** azimute = 0° a 360°, a partir do norte, sentido horário. Rumo = 0° a 90°, com o quadrante (NE, SE, SO, NO)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "A Carta de *Washington*, carta internacional para salvaguarda das cidades históricas, elaborada pelo ICOMOS (Conselho Internacional de Monumentos e Sítios) , em 1986, “define os princípios e os objetivos, os métodos e os instrumentos de ação apropriados a salvaguardar a qualidade das cidades históricas, a favorecer a harmonia da vida individual e social e perpetuar o conjunto de bens que, mesmo modestos, constituem a memória da humanidade”. A respeito da Carta de *Washington* (ICOMOS, 1986), marque a alternativa correta.",
+   "alternativas": [
+    "A melhoria do *habitat* não integra os objetivos da salvaguarda. Deve ser, no entanto, contemplada pelos demais instrumentos da política urbana do município.",
+    "Os valores a preservar são o caráter histórico da cidade e o conjunto de elementos materiais e espirituais que expressam sua imagem. Ameaças a esses valores, no entanto, não comprometem a autenticidade da cidade histórica.",
+    "Para ser eficaz, a salvaguarda das cidades e bairros históricos deve ser parte integrante de uma política coerente de desenvolvimento econômico e social, e ser considerada no planejamento físico-territorial e nos planos urbanos em todos os seus níveis.",
+    "O êxito da salvaguarda das cidades e bairros históricos depende exclusivamente de um corpo técnico e atuação profissional competente. A abertura à participação dos habitantes da cidade pode prejudicar o processo de salvaguarda, por dificultar a definição de metas e objetivos específicos.",
+    "Com vistas à salvaguarda da vocação e da estrutura, novas funções são consideradas inadmissíveis para as cidades históricas. Neste sentido, instalações de redes de infraestrutura e equipamentos dos serviços públicos necessários à vida contemporânea só serão permitidos fora das áreas salvaguardadas da cidade histórica."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Para ser eficaz, a salvaguarda das cidades e bairros históricos deve ser parte integrante…\":** é o primeiro dos princípios da Carta de Washington (ICOMOS): a salvaguarda só funciona se fizer parte de uma política coerente de desenvolvimento econômico e social e for considerada no planejamento físico-territorial e nos planos urbanos em todos os níveis. A cidade histórica é tratada como cidade viva, não como museu isolado.\n\n**As outras:**\n- *A melhoria do habitat não integra os objetivos da salvaguarda…*: a Carta diz o contrário: a melhoria do habitat deve ser um dos objetivos básicos da salvaguarda.\n- *…Ameaças a esses valores, no entanto, não comprometem a autenticidade…*: para a Carta, qualquer ameaça a esses valores compromete a autenticidade da cidade histórica.\n- *O êxito da salvaguarda… depende exclusivamente de um corpo técnico…*: a participação e o envolvimento dos habitantes são indispensáveis e devem ser estimulados.\n- *…novas funções são consideradas inadmissíveis…*: novas funções são aceitas se forem compatíveis com o caráter, a vocação e a estrutura da cidade, e as redes e equipamentos públicos devem ser adaptados à cidade histórica, não proibidos.\n\n**Para memorizar:** Carta de Washington = cidade histórica viva: integrada ao planejamento, com moradores participando, habitat melhorado e funções novas compatíveis."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "parcelamento-solo",
+   "enunciado": "A Lei Complementar nº 97/99 dispõe sobre o parcelamento, uso e ocupação do solo do município de Porto Velho. O art. 7º do Capítulo I traz diversas definições para o efeito de aplicação das normas de parcelamento, uso e ocupação do solo, constantes desta Lei. Analise as definições listadas a seguir, sem as respectivas expressões às quais se referem.\n\n1. *“[...] é a relação entre a área total construída de uma edificação e a área total da gleba ou lote.”* (item XV do art. 7º)\n2. *“[...] é a subdivisão de gleba em lotes, destinados à edificação, com aproveitamento do sistema viário existente, desde que não implique na abertura de novas vias ou logradouros públicos, nem no prolongamento, modificação ou ampliação dos já existentes.”* (item III do art. 7º)\n3. *“[...] são as instalações públicas, destinadas à educação, cultura, saúde, lazer e similares.”* (item XXVII do art. 7º)\n4. *“[...] são as instalações de infraestrutura urbana, tais como: equipamentos de abastecimento de água, serviços de esgotos, energia elétrica, coleta de águas pluviais, rede telefônica, gás canalizado, transporte e outros de interesse público.”* (item XXVI do art. 7º)\n5. *“[...] é a subdivisão de gleba em lotes, destinados à edificação, com abertura de novas vias de circulação, de logradouros públicos, ou prolongamento, modificação ou ampliação das vias existentes.”* (item II do art. 7º)\n6. *“[...] é a distância medida entre o limite externo da projeção horizontal da edificação e a divisa do lote, sendo que o [...] de frente é medido com relação ao alinhamento ou, quando se tratar de lote lindeiro a mais de um logradouro público, a todos alinhamentos.”* (item XIII do art. 7º)\n7. *“[...] é a relação entre a área de projeção de uma edificação sobre um terreno e a área deste terreno.”* (item XIV do art. 7º)\n\nAs expressões relacionadas às definições anteriores são, respectivamente,",
+   "alternativas": [
+    "desmembramento; recuo; alinhamentos; equipamentos urbanos; loteamento; gleba; e, taxa de ocupação.",
+    "taxa de ocupação; gleba; equipamentos urbanos; equipamentos comunitários; loteamento; alinhamento; e, coeficiente de aproveitamento.",
+    "taxa de ocupação; desmembramento; equipamentos comunitários; equipamentos urbanos; loteamento; recuo; e, coeficiente de aproveitamento.",
+    "coeficiente de aproveitamento; desmembramento; equipamentos comunitários; equipamentos urbanos; loteamento; recuo; e, taxa de ocupação.",
+    "coeficiente de aproveitamento; loteamento; equipamentos comunitários; equipamentos urbanos; desmembramento; recuo; e, taxa de ocupação."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"coeficiente de aproveitamento; desmembramento; equipamentos comunitários…\":** o art. 7º da LC 97/1999 de Porto Velho define: (1) **coeficiente de aproveitamento** = área total construída ÷ área do lote ou gleba (XV); (2) **desmembramento** = divisão em lotes usando o sistema viário existente, sem abrir nem ampliar vias (III); (3) **equipamentos comunitários** = educação, cultura, saúde, lazer (XXVII); (4) **equipamentos urbanos** = água, esgoto, energia, drenagem, telefone, gás, transporte (XXVI); (5) **loteamento** = divisão com abertura ou ampliação de vias (II); (6) **recuo** = distância da projeção da edificação até a divisa (XIII); (7) **taxa de ocupação** = área de projeção ÷ área do terreno (XIV).\n\n**As outras:**\n- *desmembramento; recuo; alinhamentos…*: a definição 1 é um índice construtivo, não desmembramento.\n- *taxa de ocupação; gleba; equipamentos urbanos…*: troca CA por TO e inverte os equipamentos.\n- *taxa de ocupação; desmembramento; … e, coeficiente de aproveitamento*: inverte CA e TO.\n- *coeficiente de aproveitamento; loteamento; … desmembramento…*: troca loteamento e desmembramento.\n\n**Para memorizar:** CA olha a área **construída total**; TO olha só a **projeção** no terreno. Loteamento abre rua; desmembramento usa a rua existente (mesma lógica do art. 2º da Lei 6.766/1979)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "Os dois esquemas a seguir representam planos de cidades que marcaram períodos emblemáticos no pensamento sobre as cidades na história do urbanismo. Estas duas maneiras de se pensar as cidades tiveram grandes reflexos na transformação de cidades já constituídas e na construção de novas cidades não só na Europa, continente onde se originaram, mas também no urbanismo brasileiro.\n\n![Primeiro esquema: plano de cidade](data/provas/img/idecan-2014-detranro-arquiteto/q37.webp)\n\n*(Banco de Imagens de Urbanismo e Planejamento Urbano. Portal Urbanidades, 03/07/2008.)*\n\n![Segundo esquema: diagrama de cidade](data/provas/img/idecan-2014-detranro-arquiteto/q37-b.webp)\n\n*(R. Saboya. Portal Urbanidades, 13/10/2008.)*\n\nAssinale a alternativa que identifica corretamente a quais planos e ideários de cidades se referem, respectivamente, cada um dos esquemas.",
+   "alternativas": [
+    "A reconstrução de Londres de *Wren*, e o Falanstério de *Fourier*.",
+    "Plano Piloto de Brasília, de Lúcio Costa, e Cidade Jardim, de Howard.",
+    "Cidade para 3 milhões de habitantes, de *Le Corbusier*, e Cidade Jardim, de *Howard*.",
+    "Esquemas de ordenação de uma cidade medieval e de uma cidade utópica moderna.",
+    "A reforma urbana de Paris, de *Haussmann*, e a reestruturação de Barcelona, de Cerdá."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Cidade para 3 milhões de habitantes, de Le Corbusier, e Cidade Jardim, de Howard\":** o primeiro esquema é a **Cidade Contemporânea para 3 milhões de habitantes** (Ville Contemporaine, 1922), de Le Corbusier: malha ortogonal, grandes eixos e diagonais, torres cruciformes no centro e muito espaço verde. O segundo é o diagrama da **Cidade-Jardim** de Ebenezer Howard (1898): cidade circular de 32 mil habitantes, com parque central, anéis de casas e jardins, ferrovia e cinturão agrícola em volta. Os dois ideários marcaram o Brasil: o modernismo em Brasília e os bairros-jardim, como o Jardim América, em São Paulo.\n\n**As outras:**\n- *A reconstrução de Londres de Wren, e o Falanstério de Fourier*: o plano de Wren (1666) é barroco, com ruas radiais; o falanstério é um edifício comunitário, não um diagrama de cidade.\n- *Plano Piloto de Brasília, de Lúcio Costa…*: o primeiro esquema não tem os eixos cruzados em arco nem as superquadras de Brasília.\n- *Esquemas de ordenação de uma cidade medieval…*: a malha geométrica com torres nada tem de medieval.\n- *A reforma urbana de Paris, de Haussmann…*: Haussmann abriu bulevares na cidade existente; Cerdá criou a quadrícula de quarteirões chanfrados de Barcelona.\n\n**Para memorizar:** Le Corbusier = torres altas no verde, alta densidade; Howard = cidade pequena e circular, cercada de cinturão agrícola."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "“A concepção *ruskiniana* da arte foi marcada simultaneamente por uma educação estética exemplar, que abrangia o conhecimento direto das obras-primas europeias da pintura e da arquitetura [...]. A crítica da arquitetura contemporânea leva Ruskin inevitavelmente à crítica da sociedade vitoriana, inorgânica, desintegrada, incoerente. [...] Ruskin analisa impiedosamente as consequências do sistema industrial e a decadência do trabalho humano que, baseado em noções de lucro e de produção, deixou de ser a realização de uma função vital.” *(Choay, 2005, p. 121-122.)*\n\nSobre as considerações de Françoise Choay (2005), a respeito de John Ruskin, é correto afirmar que",
+   "alternativas": [
+    "Ruskin elogiava a repetição de padrões nas fachadas das edificações, numa defesa da ideia de “uniformidade” ornamental como qualidade visual atrativa.",
+    "Ruskin defendia uma concepção de cidade configurada como “uma coleção de unidades”, numa visão que priorizava a simetria e a padronização das formas urbanas em detrimento da diversidade.",
+    "Ruskin preconizava uma concepção de cidade como “espetáculo mais atraente que a paisagem”: o olhar devia ser mais atraído pelas “ruas da própria cidade” do que pela paisagem externa circundante.",
+    "Para Ruskin, o interesse das cidades mais bonitas, na Itália e na França, provinha “da riqueza isolada de seus palácios”, uma vez que a “decoração das habitações” possuía muito pouca ou nenhuma expressividade.",
+    "Embora reconhecesse o valor das edificações históricas significativas, Ruskin defendia as grandes transformações em prol da racionalização dos espaços urbanos. Acreditava que a regularidade do traçado, aliada a uma rede estruturada de grandes alamedas poderia consistir no principal motivo de orgulho de uma cidade."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ruskin preconizava uma concepção de cidade como “espetáculo mais atraente que a paisagem”…\":** na antologia de Françoise Choay (*O Urbanismo: utopias e realidades*), Ruskin aparece no modelo **culturalista**: crítico da cidade industrial, ele valoriza a cidade antiga, a diversidade, o trabalho artesanal e a beleza das ruas. Para ele, as ruas da própria cidade, com suas casas cuidadosamente ornamentadas, deviam atrair o olhar mais do que a paisagem em volta.\n\n**As outras:**\n- *Ruskin elogiava a repetição de padrões nas fachadas…*: ele condenava a monotonia e a uniformidade da produção industrial e defendia a variedade.\n- *Ruskin defendia uma concepção de cidade configurada como “uma coleção de unidades”…*: simetria e padronização são valores do modelo progressista, não de Ruskin.\n- *Para Ruskin, o interesse das cidades mais bonitas… provinha “da riqueza isolada de seus palácios”*: é o contrário: o encanto vinha da decoração das habitações comuns, e não de palácios isolados.\n- *Embora reconhecesse o valor das edificações históricas significativas, Ruskin defendia as grandes transformações…*: Ruskin se opunha às grandes reformas racionalizadoras e defendia conservar os edifícios antigos.\n\n**Para memorizar:** Choay: progressistas (Owen, Fourier, Le Corbusier) = ordem, padrão, higiene; culturalistas (Ruskin, Morris, Sitte, Howard) = cultura, diversidade, cidade orgânica."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "O Capítulo VI do Plano Diretor de Porto de Velho, de 2008, trata do uso e ocupação do solo urbano. O art. 54 estabelece que “visando promover o adequado ordenamento das macrozonas urbanas, elas serão divididas em diferentes zonas de uso do solo, diferenciadas segundo as demandas de preservação e proteção ambiental e paisagística, de otimização dos equipamentos urbanos e dos interesses de ocupação dos espaços urbanos ociosos, caracterizando-se da seguinte forma: I – Macrozona Urbana de Porto Velho, correspondente à sede do Município; e, II – Macrozonas Urbanas correspondentes aos núcleos urbanos dos Distritos”. Sobre as definições previstas para a Macrozona Urbana de Porto Velho, pelo PD – Porto Velho/2008, marque a alternativa correta.",
+   "alternativas": [
+    "Áreas de chácaras, destinadas à habitação multifamiliar, podendo desenvolver agricultura urbana.",
+    "Corredores de grandes equipamentos, áreas lindeiras às vias arteriais com uso exclusivamente comercial ou de prestação de serviços.",
+    "Área central especial, com uso exclusivamente habitacional, localizada ao longo da Avenida Jorge Teixeira, com edifícios de até dez pavimentos, permitindo excepcionalmente o uso institucional em áreas especificadas.",
+    "Área predominantemente residencial, com baixa densidade de ocupação, em edificações habitacionais, incluídos os condomínios urbanísticos, onde são admitidos comércio, prestação de serviços e uso institucional que se relacionem.",
+    "Área predominantemente residencial, com alta densidade de ocupação, em edificações habitacionais de até dez pavimentos onde são admitidos comércio e prestação de serviços que se relacionem com o uso habitacional em edificações até dois pavimentos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Área predominantemente residencial, com baixa densidade de ocupação…\":** é a zona descrita no art. 54, I, \"d\", da Lei Complementar 311/2008 (Plano Diretor de Porto Velho): área predominantemente residencial, de baixa densidade, em edificações habitacionais, incluídos os condomínios urbanísticos, onde se admitem comércio, serviços e uso institucional ligados à moradia.\n\n**As outras:**\n- *Áreas de chácaras, destinadas à habitação multifamiliar…*: as chácaras são destinadas **exclusivamente à habitação unifamiliar**, podendo ter agricultura urbana.\n- *Corredores de grandes equipamentos… uso exclusivamente comercial…*: o plano fala em **predominância** de comércio e serviços, e admite habitação.\n- *Área central especial, com uso exclusivamente habitacional…*: a área central especial ao longo da Av. Jorge Teixeira é de **uso misto**, alta densidade e edifícios de até **vinte** pavimentos.\n- *Área predominantemente residencial, com alta densidade de ocupação…*: a zona com comércio e serviços limitados a dois pavimentos é a de **média** densidade, com edificações de até **quatro** pavimentos.\n\n**Para memorizar:** em questão de zoneamento, a banca troca \"predominante\" por \"exclusivo\" e mexe nos números (pavimentos, densidade). A LC 311/2008 foi revogada pela LC 838/2021."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "",
+   "enunciado": "A Carta de Burra, elaborada pelo ICOMOS (Conselho Internacional de Monumentos e Sítios), em 1980, define conceitos e práticas de salvaguarda do patrimônio histórico e cultural. Com base nessas definições, analise.\n\n1. *“[...] será o agenciamento de um bem a uma nova destinação, sem a destruição de sua significação cultural.”*\n2. *“[...] designará os cuidados a serem dispensados a um bem para preservar-lhes as características que apresentem uma significação cultural.”*\n3. *“[...] será a manutenção no estado da substância de um bem e a desaceleração do processo pelo qual ele se degrada.”*\n4. *“[...] será o restabelecimento, com o máximo de exatidão, de um estado anterior conhecido; ela se distingue pela introdução na substância existente pela introdução de materiais diferentes, sejam novos ou antigos.”*\n5. *“[...] será o restabelecimento da substância de um bem em um estado anterior conhecido.”*\n\nAssinale a alternativa que relaciona, correta e respectivamente, o termo conceitual às definições descritas anteriormente, estabelecidas pela Carta de Burra (ICOMOS, 1980).",
+   "alternativas": [
+    "Preservação; adaptação; restauração; conservação; e, reconstrução.",
+    "Conservação; adaptação; restauração; reconstrução; e, preservação.",
+    "Adaptação; restauração; preservação; conservação; e, reconstrução.",
+    "Restauração; preservação; reconstrução; adaptação; e, conservação.",
+    "Adaptação; conservação; preservação; reconstrução; e, restauração."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Adaptação; conservação; preservação; reconstrução; e, restauração\":** pelo art. 1º da Carta de Burra (ICOMOS Austrália, 1980): **adaptação** é agenciar o bem para um novo uso sem destruir sua significação cultural (1); **conservação** é o conjunto de cuidados para manter a significação cultural, termo amplo que abrange os demais (2); **preservação** é manter a substância no estado em que está e retardar a degradação (3); **reconstrução** é restabelecer um estado anterior conhecido introduzindo materiais, novos ou antigos (4); **restauração** é restabelecer a substância num estado anterior conhecido, sem introduzir material novo (5).\n\n**As outras:**\n- *Preservação; adaptação; restauração; conservação; e, reconstrução*: erra as cinco correspondências.\n- *Conservação; adaptação; restauração; reconstrução; e, preservação*: só acerta a reconstrução.\n- *Adaptação; restauração; preservação; conservação; e, reconstrução*: acerta adaptação e preservação, mas erra as definições 2, 4 e 5.\n- *Restauração; preservação; reconstrução; adaptação; e, conservação*: erra as cinco.\n\n**Para memorizar:** a diferença entre restauração e reconstrução é o material novo: a reconstrução introduz material; a restauração trabalha com o que existe (remove acréscimos, reagrupa peças)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "parcelamento-solo",
+   "enunciado": "Na conceituação das abordagens da gestão habitacional, Abiko (*apud* Larcher, 2005, p. 9) defende que “a habitação popular não deve ser entendida meramente como um produto e sim como um processo, com uma dimensão física, mas também como resultado de um processo complexo de produção com determinantes políticos, sociais, econômicos, jurídicos, ecológicos, tecnológicos”. Propõe, portanto, que a habitação não se restringe apenas à unidade habitacional para cumprir suas funções. Assim, além de conter um espaço confortável, seguro e salubre, é necessário que sejam considerados, de forma mais abrangente, serviços urbanos, infraestrutura urbana e equipamentos sociais. Sobre as políticas e práticas de planejamento habitacional, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) Na função ambiental, a inserção no ambiente urbano é fundamental para que estejam assegurados os princípios básicos de infraestrutura, saúde, educação, transportes, trabalho, lazer etc., além de determinar o impacto destas estruturas sobre os recursos naturais disponíveis.\n\n( ) Entre os requisitos básicos que caracterizam a habitação de interesse social pode-se citar os seguintes: é destinada sobretudo a faixas de renda média, principalmente nas faixas entre 3 e 10 salários mínimos; embora o interesse social da habitação se manifeste sobretudo no que concerne às populações de renda média, pode também manifestar-se em relação a outros aspectos, como situações de risco, preservação ambiental ou cultural.\n\n( ) A Lei nº 11.977/2009 inclui a definição das ZEIS (Zonas Especiais de Interesse Social) como parcela de área urbana instituída pelo Plano Diretor ou definida por outra lei municipal, destinada exclusivamente à moradia de população de renda média e sujeita a regras específicas de parcelamento, uso e ocupação do solo.\n\n( ) Nos programas e projetos habitacionais, em áreas já ocupadas, os novos padrões urbanísticos e habitacionais a serem promovidos deveriam, também, reproduzir os padrões socioculturais básicos existentes nas comunidades locais, incentivando a apropriação total de novos valores e elementos.\n\n( ) A tipologia de lotes e de unidades residenciais a ser oferecida deve seguir, exclusivamente, uma única tipologia de modelos, uma vez que ampliar a possibilidade de escolhas dos moradores traz prejuízos tanto em termos formais quanto de financiamento.\n\nA sequência está correta em",
+   "alternativas": [
+    "V, F, V, F, F.",
+    "V, F, F, V, F.",
+    "F, V, F, V, V.",
+    "F, F, V, V, F.",
+    "V, F, F, V, V."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"V, F, F, V, F\":** 1ª V: na função ambiental, a moradia depende da inserção na cidade (infraestrutura, saúde, educação, transporte, trabalho, lazer) e do impacto dessas estruturas sobre os recursos naturais. 2ª F: a habitação de interesse social se destina sobretudo à população de **baixa renda**, não às faixas de renda média de 3 a 10 salários mínimos. 3ª F: a Lei 11.977/2009 (art. 47, V) definia ZEIS como área destinada **predominantemente** à moradia de população de **baixa renda**, não \"exclusivamente\" à de renda média (o dispositivo foi revogado em 2017 pela Lei 13.465, que hoje rege a regularização fundiária). 4ª V para a banca: em áreas já ocupadas, os novos padrões devem respeitar e reproduzir os padrões socioculturais da comunidade. 5ª F: oferecer **variedade** de tipologias amplia as escolhas dos moradores; tipologia única não é recomendação.\n\n**As outras:**\n- *V, F, V, F, F*: aceita a ZEIS para renda média e recusa a 4ª.\n- *F, V, F, V, V*: recusa a 1ª e aceita renda média e tipologia única.\n- *F, F, V, V, F*: recusa a 1ª e aceita a ZEIS para renda média.\n- *V, F, F, V, V*: aceita a tipologia única.\n\n**Para memorizar:** HIS e ZEIS = baixa renda.\n\nPonto discutível: a 4ª termina com \"apropriação **total** de novos valores\", o que choca com \"reproduzir os padrões existentes\" (o esperado seria apropriação gradual); a banca a manteve como verdadeira."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "conforto-ambiental",
+   "enunciado": "“Adequar a arquitetura ao clima de um determinado local significa construir espaços que possibilitem ao homem condições de conforto [...]. À arquitetura cabe tanto amenizar as sensações de desconforto impostas por climas muito rígidos, tais como os de excessivos calor, frio ou ventos, como também propiciar ambientes que sejam, no mínimo, tão confortáveis como os espaços ao ar livre em climas amenos.” *(Frota e Schiffer, 2001, p. 53.)*\n\nSobre o conforto ambiental nas edificações, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) O beiral, para proteção de paredes opacas, deve ser analisado sob o ponto de vista de sua eficiência no que concerne a fatores como absorção, isolação e emissividade, que têm maior importância nestes casos. A continuidade da proteção horizontal melhora a ventilação da camada de ar próxima à parede, tornando a proteção mais eficiente.\n\n( ) No que se refere ao arranjo das edificações nos lotes urbanos, em regiões de clima quente e úmido, elas devem estar dispostas de modo a permitir que a ventilação atinja todos os edifícios e impeça a ventilação cruzada nos seus interiores. Isto significa que o partido arquitetônico deve prever construções alongadas no sentido longitudinal ao vento dominante.\n\n( ) Em regiões de clima quente e úmido, a cobertura deve seguir o mesmo tratamento dos vedos, isto é, ser de material com inércia média, mas com elementos isolantes, ou espaços de ar ventilados, os quais têm como característica retirar o calor que atravessa as telhas que, deste modo, não penetrará nos ambientes.\n\n( ) A pintura externa das construções em climas quentes deve ser preferivelmente de cores escuras, visando a maior retenção possível de radiação solar e garantindo, portanto, menor travessia de calor pelos vedos.\n\n( ) Os índices biofísicos de conforto térmico se baseiam nas trocas de calor entre o corpo e o ambiente, correlacionando os elementos do conforto com as trocas de calor que dão origem a esses elementos.\n\n( ) Os espaços de ar confinados, portanto, não ventilados, entre duas lâminas paralelas, apresentam resistência térmica que será função dos seguintes fatores: espessura da lâmina de ar, sentido do fluxo térmico e emissividade das superfícies em confronto.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, F, V, V, F, F.",
+    "F, F, V, F, V, V.",
+    "V, V, F, F, V, F.",
+    "F, V, F, V, F, V.",
+    "V, F, V, F, V, V."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"F, F, V, F, V, V\":** 1ª F: o problema está na segunda frase: uma proteção horizontal contínua, encostada na parede, prende o ar aquecido que sobe junto à fachada; para ventilar essa camada de ar, a proteção deve ser descontínua ou afastada da parede. 2ª F: no clima quente e úmido, a implantação deve deixar o vento chegar a todos os edifícios e **favorecer** a ventilação cruzada, com construções alongadas no sentido **transversal** ao vento dominante (fachada maior voltada para ele). 3ª V: a cobertura recebe o mesmo cuidado dos vedos, com isolante ou espaço de ar ventilado que retira o calor das telhas antes que ele entre. 4ª F: em clima quente, as cores externas devem ser **claras**, que refletem a radiação; cor escura absorve mais calor. 5ª V: é a definição de índices biofísicos em Frota e Schiffer. 6ª V: a resistência térmica de uma câmara de ar não ventilada depende da espessura, do sentido do fluxo de calor e da emissividade das superfícies.\n\n**As outras:**\n- *F, F, V, V, F, F*: aceita a cor escura e recusa a 5ª e a 6ª.\n- *V, V, F, F, V, F*: aceita o beiral contínuo e a ventilação cruzada impedida.\n- *F, V, F, V, F, V*: aceita a ventilação cruzada impedida e a cor escura.\n- *V, F, V, F, V, V*: erra só a 1ª.\n\n**Para memorizar:** quente e úmido = ventilação cruzada, sombra, cores claras e cobertura ventilada ou isolada."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Considerando as etapas gerais de um projeto arquitetônico, relacione adequadamente as colunas\n\n1. Estudo preliminar.\n2. Anteprojeto.\n3. Projeto de aprovação.\n4. Projeto executivo.\n5. Assistência à execução da obra.\n\n( ) Constitui a configuração técnico-jurídica da solução arquitetônica proposta para a obra, considerando as exigências contidas no programa de necessidade, o estudo preliminar aprovado pelo cliente e as normas técnicas de apresentação e representação gráfica emanadas dos órgãos públicos (em especial, Prefeitura Municipal, concessionárias de serviços públicos e Corpo de Bombeiro). Nos casos especiais em que não haja necessidade de aprovação pelos poderes públicos esta subfase deixa de existir.\n\n( ) Conjunto de documentos técnicos (memoriais, desenhos e especificações) necessários à licitação e/ou execução (construção, montagem e fabricação) da obra. Constitui a configuração desenvolvida e detalhada do anteprojeto aprovado pelo cliente.\n\n( ) Constitui a configuração inicial da solução arquitetônica proposta para a obra (partido), considerando as principais exigências contidas no programa de necessidades. Deve receber a aprovação preliminar do cliente.\n\n( ) Fase complementar de projeto que se desenvolve concomitantemente à execução da obra.\n\n( ) Constitui a configuração final da solução arquitetônica proposta para a obra, considerando todas as exigências contidas no programa de necessidades e o estudo preliminar aprovado pelo cliente. Deve receber a aprovação final do cliente.\n\nA sequência está correta em",
+   "alternativas": [
+    "1, 2, 3, 4, 5.",
+    "2, 4, 5, 3, 1.",
+    "3, 1, 4, 2, 5.",
+    "3, 4, 1, 5, 2.",
+    "4, 3, 5, 2, 1."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"3, 4, 1, 5, 2\":** são as etapas do projeto de arquitetura (na linha da NBR 13532). 1ª lacuna: configuração **técnico-jurídica** para os órgãos públicos (prefeitura, concessionárias, bombeiros), que deixa de existir quando não há aprovação → **projeto de aprovação** (3). 2ª: documentos para licitação e execução, detalhando o anteprojeto → **projeto executivo** (4). 3ª: configuração **inicial**, o partido, com aprovação preliminar do cliente → **estudo preliminar** (1). 4ª: fase que acompanha a obra → **assistência à execução** (5). 5ª: configuração **final** da solução, com aprovação final do cliente → **anteprojeto** (2).\n\n**As outras:**\n- *1, 2, 3, 4, 5*: apenas repete a ordem da coluna.\n- *2, 4, 5, 3, 1*: só acerta o projeto executivo.\n- *3, 1, 4, 2, 5*: acerta o projeto de aprovação, mas troca executivo, estudo preliminar, assistência e anteprojeto.\n- *4, 3, 5, 2, 1*: não acerta nenhuma correspondência.\n\n**Para memorizar:** levantamento → programa de necessidades → estudo preliminar (partido) → anteprojeto (solução final) → projeto legal (aprovação) → projeto executivo → assistência à obra."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "A Lei nº 6.766/79, dispõe sobre o parcelamento do solo urbano e dá outras providências. O Estatuto da Cidade, de 10 de julho de 2001, estabelece normas de ordem pública e interesse social que regulam o uso da propriedade urbana em prol do bem coletivo, da segurança e do bem-estar dos cidadãos, bem como do equilíbrio ambiental. Com base nas definições dispostas pela Lei nº 6.799/79 e pelo Estatuto da Cidade (2001), marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) A infraestrutura básica dos parcelamentos situados nas zonas habitacionais declaradas por lei como de interesse social (ZHIS) consistirá, no mínimo, de vias de: circulação; escoamento das águas pluviais; rede para o abastecimento de água potável; e soluções para o esgotamento sanitário e para a energia elétrica domiciliar.\n\n( ) Outorga onerosa do direito de construir aplica-se àquele que possuir como sua área ou edificação urbana de até 250 m², por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, desde que não seja proprietário de outro imóvel urbano ou rural.\n\n( ) A transferência do direito de construir confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.\n\n( ) Entre os requisitos mínimos que deverão ser atendidos pelos loteamentos, a Lei nº 6.766/79 estabelece que os lotes terão área mínima de 250 m² e frente mínima de dez metros, salvo quando o loteamento se destinar à urbanização específica ou edificação de conjuntos habitacionais de interesse social, previamente aprovados pelos órgãos públicos competentes.\n\n( ) Considera-se operação urbana consorciada o conjunto de intervenções e medidas coordenadas pelo Poder Público municipal, com a participação dos proprietários, moradores, usuários permanentes e investidores privados, com o objetivo de alcançar em uma área transformações urbanísticas estruturais, melhorias sociais e valorização ambiental.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, V, V, F, V.",
+    "V, F, F, V, V.",
+    "V, V, F, V, F.",
+    "V, F, F, F, V.",
+    "V, V, V, F, V."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"V, F, F, F, V\":** 1ª V: é o art. 2º, §6º, da Lei 6.766/1979 (incluído pela Lei 9.785/1999): a infraestrutura mínima nas ZHIS é vias de circulação, escoamento pluvial, rede de água potável e soluções para esgoto e energia elétrica domiciliar. 2ª F: possuir área urbana de até 250 m² por cinco anos, sem oposição, para moradia, sem ter outro imóvel, é **usucapião especial urbana** (art. 9º do Estatuto da Cidade e art. 183 da CF), não outorga onerosa. 3ª F: a preferência do município na compra de imóvel vendido entre particulares é o **direito de preempção** (art. 25 do Estatuto). 4ª F: a Lei 6.766 exige lote mínimo de **125 m²** e frente mínima de **5 m** (art. 4º, II). 5ª V: é a definição de operação urbana consorciada do art. 32, §1º, do Estatuto.\n\n**As outras:**\n- *F, V, V, F, V*: recusa a ZHIS e aceita as definições trocadas de outorga e de transferência.\n- *V, F, F, V, V*: aceita o lote de 250 m² com 10 m de frente.\n- *V, V, F, V, F*: aceita usucapião como outorga, o lote de 250 m² e recusa a operação consorciada.\n- *V, V, V, F, V*: aceita as duas definições trocadas.\n\n**Para memorizar:** 125 m² e 5 m = lote mínimo (Lei 6.766). 250 m² e 5 anos = usucapião especial urbana. Preferência de compra = preempção. O \"Lei nº 6.799/79\" do enunciado é erro de digitação da prova: a lei é a 6.766/79."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "A concepção estrutural de um edifício envolve a utilização de materiais diversos, como concreto armado, alvenarias de tijolos ou blocos, esquadrias metálicas e de madeira, revestimentos, telhado, instalações elétricas e hidráulicas etc. À otimização da construção, algumas diretrizes gerais devem ser consideradas. De acordo com o processo de concepção estrutural de um edifício, assinale a alternativa correta sobre as diretrizes gerais à otimização da construção.",
+   "alternativas": [
+    "A transferência de cargas deve ser sempre indireta; deve-se utilizar sempre o apoio de vigas importantes (chamadas apoios indiretos), bem como o apoio de pilares em vigas (chamadas vigas de transição).",
+    "Os elementos estruturais devem ser sempre os mais diversificados e heterogêneos possíveis; quanto à geometria e quanto às solicitações, as vigas devem, em princípio, apresentar vãos diferenciados, no máximo possível, entre si.",
+    "A construção está sujeita a ações (por exemplo, o efeito do vento) que acarretam solicitações nos planos horizontais da estrutura; estas solicitações são, normalmente, resistidas pela vigas, ortogonais entre si, as quais devem apresentar resistência e rigidez adequadas; para isso, é importante a orientação criteriosa das seções longitudinais das vigas.",
+    "As dimensões contínuas da estrutura, em planta, devem ser, em princípio, superiores a 30 m para minimizar os efeitos da variação de temperatura ambiente e da retratação do concreto; em construções com dimensões em planta inferiores a 30 m, é desejável a utilização de juntas estruturais ou juntas de separação que decompõem a estrutura original, em um conjunto de estruturas independentes entre si, para minimizar estes efeitos.",
+    "O posicionamento dos elementos estruturais na estrutura da construção pode ser feito com base no comportamento primário dos mesmos; as lajes são posicionadas nos pisos dos compartimentos para transferir as cargas dos mesmos para as vigas de apoio; as vigas são utilizadas para transferir as reações das lajes, juntamente com o peso das alvenarias, para os pilares de apoio (ou, eventualmente, outras vigas), vencendo os vãos entre os mesmos; e os pilares são utilizados para transferir as cargas das vigas para as fundações."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"O posicionamento dos elementos estruturais na estrutura da construção…\":** descreve o caminho natural das cargas: as **lajes** recebem as cargas dos pisos e as passam às **vigas**; as vigas somam o peso das alvenarias e vencem os vãos até os **pilares** (ou outras vigas); os pilares levam tudo às **fundações**. Posicionar cada elemento por esse comportamento primário é a base da concepção estrutural.\n\n**As outras:**\n- *A transferência de cargas deve ser sempre indireta…*: é o contrário: deve ser, sempre que possível, **direta**, evitando apoios indiretos e vigas de transição.\n- *Os elementos estruturais devem ser sempre os mais diversificados…*: busca-se **uniformidade**, com vãos semelhantes e elementos repetidos.\n- *A construção está sujeita a ações (por exemplo, o efeito do vento)…*: o vento é resistido pelos **pórticos** (vigas ligadas aos pilares) e por núcleos rígidos, em planos verticais; por isso importa a orientação das seções dos pilares, não \"das seções longitudinais das vigas\".\n- *As dimensões contínuas da estrutura, em planta, devem ser… superiores a 30 m…*: é o inverso: trechos contínuos de até cerca de **30 m**; acima disso, usam-se juntas contra os efeitos de temperatura e retração.\n\n**Para memorizar:** boa concepção = cargas diretas, elementos uniformes, pórticos contra o vento e juntas a cada 30 m, em média."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "Sobre as regras da fase externa no pregão, regulamentada pela Lei nº 10.520/2002, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "O prazo fixado para a apresentação das propostas, contado a partir da publicação do aviso, não será inferior a 8 dias úteis.",
+    "No curso da sessão, o autor da oferta de valor mais baixo e os das ofertas com preços até 10% superiores àquela poderão fazer novos lances verbais e sucessivos, até a proclamação do vencedor.",
+    "Encerrada a etapa competitiva e ordenadas as ofertas, o pregoeiro procederá à abertura do invólucro contendo os documentos de habilitação do licitante que apresentou a melhor proposta, para verificação do atendimento das condições fixadas no edital.",
+    "Não existindo diário oficial do respectivo ente federado, a convocação dos interessados será efetuada por meio de publicação de aviso em jornal de circulação local e, facultativamente, por meios eletrônicos e conforme o vulto da licitação, em jornal de grande circulação.",
+    "Para julgamento e classificação das propostas, será adotado o critério de menor preço, melhor técnica ou a de técnica e preço, observados os prazos máximos para fornecimento, as especificações técnicas e parâmetros mínimos de desempenho e qualidade definidos no edital."
+   ],
+   "correta": 4,
+   "anulada": false,
+   "comentario": "**Por que \"Para julgamento e classificação das propostas, será adotado o critério de menor preço, melhor técnica…\" é a resposta:** no pregão da Lei 10.520/2002, o único critério de julgamento é o **menor preço** (art. 4º, X), observados os prazos de fornecimento, as especificações técnicas e os parâmetros mínimos de desempenho e qualidade do edital. Melhor técnica e técnica e preço não cabem no pregão, que serve para bens e serviços comuns.\n\n**As outras (estão corretas):**\n- *O prazo fixado para a apresentação das propostas… não será inferior a 8 dias úteis*: art. 4º, V.\n- *No curso da sessão, o autor da oferta de valor mais baixo e os das ofertas com preços até 10% superiores…*: art. 4º, VIII.\n- *Encerrada a etapa competitiva e ordenadas as ofertas, o pregoeiro procederá à abertura do invólucro…*: art. 4º, XII; no pregão a habilitação vem depois do julgamento (inversão de fases).\n- *Não existindo diário oficial do respectivo ente federado…*: art. 4º, I.\n\n**Para memorizar:** pregão = bens e serviços comuns, menor preço, lances verbais e habilitação só do vencedor. A Lei 10.520 foi revogada; hoje o pregão está na Lei 14.133/2021, com critério de menor preço ou maior desconto."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licitacoes-14133",
+   "enunciado": "Sabe-se que, nos termos da Lei nº 8.666/93, a alienação de bens da Administração Pública está subordinada, dentre outros requisitos, à existência de interesse público devidamente justificado. Nos casos de alienação de bens imóveis por órgão estadual, por exemplo, há a necessidade de autorização legislativa, avaliação prévia e licitação na modalidade concorrência. Ocorre que a legislação excepciona a regra quanto à obrigatoriedade de licitação para a alienação de bens imóveis, nos casos de venda a outro órgão ou entidade da administração pública, de qualquer esfera de governo. Tal situação configura caso de",
+   "alternativas": [
+    "licitação deserta.",
+    "licitação frustrada.",
+    "licitação dispensada.",
+    "dispensa de licitação.",
+    "inexigibilidade de licitação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"licitação dispensada\":** a venda de imóvel a outro órgão ou entidade da administração pública, de qualquer esfera de governo, está no art. 17, I, \"e\", da Lei 8.666/1993, entre os casos de **licitação dispensada**: a própria lei afasta a licitação, e o administrador não tem escolha. É diferente da dispensa do art. 24 (licitação dispensável), em que a competição seria possível, mas a lei autoriza a contratação direta; a banca usou essa distinção ao negar recurso.\n\n**As outras:**\n- *licitação deserta*: é quando nenhum interessado aparece; se não puder ser repetida sem prejuízo, autoriza a dispensa (art. 24, V).\n- *licitação frustrada*: quando há interessados, mas todos são inabilitados ou desclassificados.\n- *dispensa de licitação*: é a licitação dispensável do art. 24, uma faculdade do administrador.\n- *inexigibilidade de licitação*: é quando a competição é inviável (art. 25), como no fornecedor exclusivo.\n\n**Para memorizar:** dispensada (art. 17) = alienações, a lei já afasta; dispensável (art. 24) = faculdade; inexigível (art. 25) = competição impossível. Na Lei 14.133/2021, a mesma hipótese está no art. 76, I, \"e\"."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Nos termos da Lei nº 1.638/2006, ao entrar em exercício, o servidor nomeado para o cargo de provimento efetivo ficará sujeito a estágio probatório durante o qual sua aptidão e capacidade para desempenho no cargo serão objeto de avaliação. Neste contexto, assinale a alternativa correta em relação ao estágio probatório.",
+   "alternativas": [
+    "Terá duração de 12 meses, podendo ser prorrogado, a critério da Administração, desde que não ultrapasse o limite de 36 meses.",
+    "A aptidão e a capacidade para o desempenho do cargo estão adstritas à análise dos fatores alusivos à capacidade de iniciativa, produtividade e responsabilidade.",
+    "Far-se-á uma única avaliação do desempenho do servidor em estágio probatório, a qual deverá ocorrer no último mês do período necessário à concessão da estabilidade.",
+    "Para ser considerado aprovado na avaliação de desempenho dos servidores em estágio probatório, o servidor deverá atingir conceito igual ou superior a 70% dos pontos apurados no período avaliativo.",
+    "Durante o estágio probatório será dado prevalência às atividades de capacitação do servidor em relação às atividade habituais de trabalho, oportunidade que o servidor poderá submeter-se a programas regulares de aperfeiçoamento e especialização."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Para ser considerado aprovado na avaliação de desempenho… 70%…\":** é o art. 11, §2º, da Lei 1.638/2006 de Rondônia (plano de carreira dos servidores do DETRAN-RO), incluído pela Lei 2.778/2012: no estágio probatório, o servidor precisa alcançar conceito igual ou superior a 70% dos pontos apurados no período avaliativo.\n\n**As outras:**\n- *Terá duração de 12 meses, podendo ser prorrogado…*: o estágio probatório dura **36 meses** (art. 11, caput); não há prazo de 12 meses prorrogável.\n- *A aptidão e a capacidade… adstritas à análise dos fatores…*: os fatores são cinco: assiduidade e pontualidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade; a alternativa omite dois.\n- *Far-se-á uma única avaliação do desempenho…*: a avaliação é **semestral** (art. 11, §1º).\n- *Durante o estágio probatório será dado prevalência às atividades de capacitação…*: o servidor faz programas de aperfeiçoamento **sem prejuízo** das atividades habituais (art. 12); não há prevalência.\n\n**Para memorizar:** DETRAN-RO: estágio de 36 meses, avaliação semestral, cinco fatores e nota mínima de 70%. A mesma lógica da Constituição: estabilidade após três anos e avaliação especial de desempenho (art. 41)."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Considerando as disposições da Lei nº 1.638/2006 sobre a progressão, como forma de desenvolvimento na carreira, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) Progressão vertical é a mudança do servidor de uma referência para a referência seguinte, dentro da mesma classe, e dependerá, cumulativamente, da avaliação de desempenho e de cumprimento do interstício, no mínimo de 2 anos.\n\n( ) Progressão horizontal é passagem do servidor da última referência de uma classe para a primeira da classe seguinte do mesmo nível de carreira e dependerá, cumulativamente, da avaliação de desempenho, do cumprimento de interstício de 2 anos e da observância do percentual de lotação fixada para a classe.\n\n( ) É vedada a progressão horizontal ou vertical a qualquer título, de mais de uma referência.\n\n( ) Será suspensa a progressão por merecimento do servidor, que no interstício da avaliação sofrer penalidade de suspensão disciplinar ainda que convertida em multa.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, F, F, V.",
+    "F, F, V, V.",
+    "F, V, F, V.",
+    "V, V, F, F.",
+    "V, F, V, F."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"F, F, V, V\":** na Lei 1.638/2006 (DETRAN-RO), art. 17, **progressão horizontal** é a passagem de uma referência para a seguinte dentro da mesma classe (§1º), e **progressão vertical** é a passagem da última referência de uma classe para a primeira da classe seguinte, com avaliação, interstício de 2 anos e percentual de lotação (§2º). As duas primeiras afirmativas trocaram os nomes: são F. A 3ª é V: o art. 18 veda progressão de mais de uma referência, a qualquer título. A 4ª é V: o art. 19, §4º, I, suspende a progressão por merecimento de quem sofre suspensão disciplinar, ainda que convertida em multa.\n\n**As outras:**\n- *F, F, F, V*: recusa a vedação do art. 18 (a banca manteve a 3ª como verdadeira ao julgar recurso).\n- *F, V, F, V*: aceita a definição trocada de progressão horizontal.\n- *V, V, F, F*: aceita as duas definições trocadas e recusa as regras certas.\n- *V, F, V, F*: aceita a definição trocada de vertical e recusa a suspensão.\n\n**Para memorizar:** horizontal = anda dentro da mesma classe, de referência em referência; vertical = sobe para a classe seguinte."
+  },
+  {
+   "id": "idecan-2014-detranro-arquiteto-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "A Constituição Federal, assim como a Lei nº 68/1992, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis, disciplinam os casos de cumulação lícita e ilícita de cargos públicos. Nesse contexto, analise.\n\nI. A proibição de acumular estende-se a cargos, empregos e funções em autarquias, fundações públicas, da União, do Distrito Federal, do Estado e dos Municípios, não alcançando, todavia, as empresas públicas e sociedades de economia mista de qualquer dos entes federados.\n\nII. É permitida a acumulação de percepção de provento, com remuneração decorrente do exercício de cargos acumulados legalmente.\n\nIII. A acumulação de cargos, ainda que lícita, é condicionada à comprovação de compatibilidade de horários.\n\nIV. O servidor que acumular licitamente 2 cargos efetivos, quando investido em cargo de provimento em comissão, será demitido de ambos os cargos efetivos, respeitado o prévio e regular processo administrativo.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "I e IV.",
+    "II e III.",
+    "III e IV.",
+    "I, II e III."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"II e III\":** gabarito alterado pela banca após recurso (o preliminar era \"I e IV\"). Pela Lei Complementar 68/1992 de Rondônia (regime jurídico dos servidores civis do estado), II está certa: é permitida a acumulação de provento com a remuneração de cargos acumulados legalmente (art. 158). III está certa: a acumulação, ainda que lícita, depende de compatibilidade de horários (art. 156, §2º; CF, art. 37, XVI). I está errada: a proibição alcança também **empresas públicas e sociedades de economia mista** (art. 156, §1º; CF, art. 37, XVII). IV está errada: quem acumula licitamente dois cargos efetivos e assume cargo em comissão fica **afastado** de ambos, não demitido (art. 157).\n\n**As outras:**\n- *I e II*: inclui a I, que exclui indevidamente as estatais.\n- *I e IV*: era o gabarito preliminar, mas as duas afirmativas estão erradas.\n- *III e IV*: inclui a IV; não há demissão, só afastamento.\n- *I, II e III*: inclui a I.\n\n**Para memorizar:** acumular é proibido, salvo as exceções da CF (dois cargos de professor; professor com técnico ou científico; dois de saúde), sempre com horários compatíveis, e a regra vale para toda a administração direta e indireta."
+  }
+ ]
+}

@@ -44,6 +44,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2014-detranro-arquiteto",
+  "titulo": "Arquiteto — DETRAN-RO",
+  "banca": "IDECAN",
+  "ano": 2014,
+  "orgao": "DETRAN de Rondônia",
+  "cargo": "Arquiteto",
+  "arquivo": "data/provas/idecan-2014-detranro-arquiteto.json",
+  "nQuestoes": 50,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2023-maracanau-fiscal-sanitario",
   "titulo": "Fiscal Sanitário — Prefeitura de Maracanaú/CE",
   "banca": "IDECAN",
