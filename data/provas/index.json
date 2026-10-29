@@ -55,6 +55,17 @@
   "duracaoMin": 180
  },
  {
+  "id": "idecan-2016-leopoldina-fiscal-sanitario",
+  "titulo": "Fiscal Sanitário — Prefeitura de Leopoldina/MG",
+  "banca": "IDECAN",
+  "ano": 2016,
+  "orgao": "Prefeitura de Leopoldina/MG",
+  "cargo": "Fiscal Sanitário",
+  "arquivo": "data/provas/idecan-2016-leopoldina-fiscal-sanitario.json",
+  "nQuestoes": 30,
+  "duracaoMin": 180
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",

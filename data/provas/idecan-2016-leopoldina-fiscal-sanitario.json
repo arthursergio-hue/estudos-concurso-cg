@@ -1,0 +1,541 @@
+{
+ "id": "idecan-2016-leopoldina-fiscal-sanitario",
+ "titulo": "Fiscal Sanitário — Prefeitura de Leopoldina/MG",
+ "banca": "IDECAN",
+ "ano": 2016,
+ "orgao": "Prefeitura de Leopoldina/MG",
+ "cargo": "Fiscal Sanitário",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2016-prefeitura-de-leopoldina-mg-fiscal-sanitario",
+ "duracaoMin": 180,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "O faraó da intolerância",
+   "fonte": "(Paulo Maltz. Disponível em: http://oglobo.globo.com/opiniao/o-farao-da-intolerancia-19200936#ixzz47PW1LYXI.)",
+   "numerarLinhas": false,
+   "conteudo": "*Individualmente, quase todos temos nossos faraós. Pode ser um chefe abusivo, um trabalho massacrante, uma relação mal resolvida ou uma dívida impagável.*\n\nAté hoje, os judeus estão celebrando a festa de *Pessach* e relembrando os épicos acontecimentos que resultaram no Êxodo do Egito. Apesar de terem ocorrido há mais de 3.500 anos, manda a tradição judaica que devemos nos lembrar dos tempos de escravidão como se nós mesmos tivéssemos sido libertados.\n\nUm costume nesta época é cada um perguntar-se: qual é o meu faraó? Ao fazermos esta reflexão, buscamos identificar quem ou o que está nos mantendo presos e estagnados e nos impedindo de avançar e progredir.\n\nIndividualmente, quase todos temos nossos faraós. Pode ser um chefe abusivo, um trabalho massacrante, uma relação mal resolvida ou uma dívida impagável. A dependência de drogas e do álcool e o medo do sucesso e do fracasso também nos mantêm cativos. Coletivamente, empresas, comunidades e sociedades inteiras podem igualmente estar sob jugo de faraós que não os deixam alcançar seu potencial.\n\nAtualmente, os brasileiros são vítimas de um déspota mais cruel que o próprio Ramsés, o faraó da intolerância. Éramos livres e, aos poucos, tornamo-nos seus escravos. Deixamos que ele ditasse a forma como nos relacionamos com pessoas de diferentes etnias, religiões, orientações e posições políticas.\n\nNós, judeus, sabemos bem aonde a intolerância pode levar uma sociedade. Fomos e continuamos a ser uma de suas maiores vítimas e estaremos sempre engajados no seu combate. É perturbador notar como ela passa a dominar as emoções, palavras e ações de pessoas à nossa volta. É triste ver como ela impede a união de que o Brasil tanto precisa para vencer seus imensos desafios.\n\nEstamos vivendo no cativeiro da intolerância. Precisamos nos libertar. Assim como fez Moisés em Êxodo 9-1, chegou a hora de encararmos esse faraó de frente e exigir: “Deixe meu povo ir!”\n\nEsta não será uma luta fácil, nem rápida. O faraó da intolerância fará de tudo para nos manter sob seu domínio. Como os hebreus no Egito, temos de perseverar. Uma, duas, dez vezes se necessário, vamos mostrar a ele nossa determinação de voltar a ser o que sempre fomos: um povo gentil, cordial e, acima de tudo, tolerante."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "De acordo com o texto, é INCORRETO afirmar que",
+   "alternativas": [
+    "a intolerância é o nosso faraó em comum.",
+    "somente o povo judeu foi e ainda é vítima da intolerância.",
+    "aquilo que nos impede ou nos atrapalha a nos desenvolvermos pode ser o nosso faraó.",
+    "até hoje o povo judeu, em determinada época do ano, relembra o período em que foi escravo de faraó."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"somente o povo judeu foi e ainda é vítima da intolerância\" é a resposta:** o texto nunca diz que os judeus são as únicas vítimas. O autor escreve que os judeus foram e continuam a ser “uma de suas maiores vítimas”: o “uma de” mostra que há outras. E o próprio texto aponta outra vítima: “os brasileiros são vítimas de um déspota mais cruel que o próprio Ramsés, o faraó da intolerância”. O “somente” torna a afirmação falsa.\n\n**As outras (estão corretas):**\n- *a intolerância é o nosso faraó em comum*: é a tese do 4º e do 6º parágrafos; o faraó coletivo dos brasileiros hoje é a intolerância.\n- *aquilo que nos impede ou nos atrapalha a nos desenvolvermos…*: está no 2º e no 3º parágrafos; o faraó é quem ou o que nos mantém presos e nos impede de avançar.\n- *até hoje o povo judeu, em determinada época do ano, relembra…*: o 1º parágrafo fala da festa de *Pessach*, quando os judeus relembram a escravidão no Egito.\n\n**Para memorizar:** em interpretação, palavras absolutas como “somente”, “sempre” e “nunca” costumam derrubar a alternativa."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "O principal assunto do texto é:",
+   "alternativas": [
+    "O sofrimento vivido pelos judeus.",
+    "A festa de *Pessach* do povo judeu.",
+    "A intolerância que sofremos e cometemos hoje.",
+    "Nos mostrar que tudo o que nos impede de avançar e de alcançar o sucesso pode ser o nosso faraó."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A intolerância que sofremos e cometemos hoje\":** o título já anuncia o tema (“O faraó da intolerância”), e a história do Êxodo serve só de ponto de partida. Do 4º parágrafo em diante, o autor trata da intolerância no Brasil de hoje: somos vítimas dela (“tornamo-nos seus escravos”) e também a praticamos (“deixamos que ele ditasse a forma como nos relacionamos” com pessoas diferentes). Por isso o assunto central é a intolerância que sofremos e cometemos.\n\n**As outras:**\n- *O sofrimento vivido pelos judeus*: aparece como exemplo (escravidão no Egito, perseguições), mas não é o foco.\n- *A festa de Pessach do povo judeu*: é só a abertura do texto, o gancho para a reflexão.\n- *Nos mostrar que tudo o que nos impede de avançar…*: é a ideia do 2º e do 3º parágrafos (os faraós individuais), que prepara o tema principal; é uma parte, não o todo.\n\n**Para memorizar:** o assunto principal é o que o texto desenvolve até o fim e costuma estar no título; exemplos e ganchos iniciais são distratores típicos."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o termo sublinhado apresenta significado INCOERENTE quanto ao contexto empregado.",
+   "alternativas": [
+    "*“... os ++épicos++ acontecimentos que resultaram no Êxodo do Egito.”* – (1º§) homéricos",
+    "*“... medo do sucesso e do fracasso também nos mantêm ++cativos++.”* – (3º§) enclausurados",
+    "*“... os brasileiros são vítimas de um ++déspota++ mais cruel que o próprio Ramsés”* – (4º§) tirano",
+    "*“Ao fazermos esta ++reflexão++, buscamos identificar quem ou o que está nos mantendo presos...”* – (2º§) imponderação"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ao fazermos esta reflexão… – imponderação\" é a resposta:** a questão pede o sinônimo INCOERENTE. Em “Ao fazermos esta reflexão”, *reflexão* é o ato de pensar com cuidado, ponderar. *Imponderação* é o contrário: falta de ponderação, irreflexão, leviandade. Trocar uma palavra pela outra inverte o sentido da frase.\n\n**As outras (estão corretas):**\n- *“… os épicos acontecimentos…” – homéricos*: épico é o que é digno de epopeia, grandioso; homérico (de Homero, autor da *Ilíada* e da *Odisseia*) tem o mesmo sentido.\n- *“… também nos mantêm cativos.” – enclausurados*: cativo é quem está preso, sem liberdade; enclausurado é fechado, preso.\n- *“… vítimas de um déspota…” – tirano*: déspota é quem exerce o poder de forma absoluta e opressora; tirano é sinônimo.\n\n**Para memorizar:** o prefixo *i-/in-* indica negação: ponderação × imponderação, reflexão × irreflexão."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*“Atualmente, os brasileiros são vítimas de um déspota mais cruel que o próprio Ramsés, ++o faraó da intolerância++.”* (4º§) O trecho sublinhado exprime a ideia de",
+   "alternativas": [
+    "conclusão.",
+    "explicação.",
+    "retomada.",
+    "comparação."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"explicação\":** o trecho *o faraó da intolerância* vem depois da vírgula e se refere a “um déspota mais cruel que o próprio Ramsés”. É um **aposto explicativo**: termo que esclarece e identifica o anterior. Com ele, o leitor fica sabendo quem é esse déspota: a intolerância, comparada a um faraó.\n\n**As outras:**\n- *conclusão*: não há conclusão tirada de argumentos anteriores; ela viria com “portanto”, “logo”, “por isso”.\n- *retomada*: o aposto se refere, sim, ao termo anterior, mas sua função aqui é dizer quem é o déspota, não apenas repetir a referência; a banca ficou com explicação.\n- *comparação*: a comparação está antes, em “mais cruel que o próprio Ramsés”; o trecho sublinhado não compara, identifica.\n\n**Para memorizar:** aposto explicativo vem isolado por vírgulas (ou travessão, ou dois-pontos) e responde à pergunta “quem ou o que é isso?”."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Quanto à análise sintática, assinale a alternativa em que o termo sublinhado está INCORRETAMENTE relacionado.",
+   "alternativas": [
+    "*“... os brasileiros são ++vítimas++ de um déspota...”* (4º§) predicativo",
+    "*“... ++os judeus++ estão celebrando a festa de Pessach...”* (1º§) sujeito",
+    "*“Nós, ++judeus++, sabemos bem aonde a intolerância pode levar uma sociedade.”* (5º§) vocativo",
+    "*“A dependência ++de drogas++ e do álcool e o medo do sucesso e do fracasso também nos mantêm cativos.”* (3º§) complemento nominal"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Nós, judeus, sabemos… (5º§) vocativo\" é a resposta:** em “Nós, judeus, sabemos bem…”, *judeus* está entre vírgulas para explicar quem é “nós”. É **aposto explicativo** do sujeito. Vocativo é o termo usado para chamar ou interpelar o interlocutor (“Judeus, ouçam!”) e não se liga a nenhum termo da oração; aqui o autor não chama ninguém, ele se identifica.\n\n**As outras (estão corretas):**\n- *“… os brasileiros são vítimas de um déspota…” predicativo*: “são” é verbo de ligação; *vítimas* atribui uma característica ao sujeito “os brasileiros”: predicativo do sujeito.\n- *“… os judeus estão celebrando…” sujeito*: *os judeus* pratica a ação de “estão celebrando” e concorda com o verbo no plural.\n- *“A dependência de drogas…” complemento nominal*: *de drogas* completa, com preposição, o sentido do substantivo abstrato “dependência” (dependência de quê?).\n\n**Para memorizar:** aposto explica um termo da oração; vocativo chama o interlocutor e fica fora da estrutura sintática."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o termo ou trecho sublinhado retoma INCORRETAMENTE o que está sugerido.",
+   "alternativas": [
+    "*“... os épicos acontecimentos ++que++ resultaram no Êxodo do Egito.”* (1º§) Épicos acontecimentos",
+    "*“... podem igualmente estar sob jugo de faraós ++que++ não os deixam alcançar seu potencial.”* (3º§)Jugo de faraós",
+    "*“É perturbador notar como ++ela++ passa a dominar as emoções, palavras e ações de pessoas à nossa volta.”* (5º§) Intolerância",
+    "*“Ao fazermos ++esta reflexão++, buscamos identificar quem ou o que está nos mantendo presos...”* (2º§) Nos lembrar dos tempos de escravidão"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ao fazermos esta reflexão… – Nos lembrar dos tempos de escravidão\" é a resposta:** *esta reflexão* retoma a pergunta que vem logo antes, no 2º parágrafo: “Um costume nesta época é cada um perguntar-se: qual é o meu faraó?”. A reflexão é perguntar-se qual é o seu faraó. “Lembrar dos tempos de escravidão” está no 1º parágrafo e é outra ideia (a tradição da *Pessach*).\n\n**As outras (estão corretas):**\n- *“… os épicos acontecimentos que resultaram…” – Épicos acontecimentos*: o pronome relativo *que* retoma “épicos acontecimentos” (os acontecimentos resultaram no Êxodo).\n- *“… sob jugo de faraós que não os deixam…” – Jugo de faraós*: o *que* abre a oração relativa ligada a “jugo de faraós”; a rigor, o verbo no plural (“deixam”) mostra que o antecedente imediato é “faraós”, mas a banca aceitou a expressão inteira.\n- *“É perturbador notar como ela passa a dominar…” – Intolerância*: *ela* retoma “a intolerância”, citada na frase anterior.\n\n**Para memorizar:** o demonstrativo *este/esta* costuma retomar o que acabou de ser dito; procure o referente na frase imediatamente anterior."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "regencia-crase",
+   "texto": "t1",
+   "enunciado": "*“É perturbador notar como ela passa a dominar as emoções, palavras e ações de pessoas à nossa volta.”* (5º§) Quanto ao uso da crase em *“à nossa volta”*, é correto afirmar que",
+   "alternativas": [
+    "é obrigatório por tratar-se de um pronome possessivo feminino.",
+    "é obrigatório por tratar-se da junção do artigo a com a preposição a.",
+    "está incorreto, pois não se usa crase diante de pronomes possessivos femininos.",
+    "é facultativo porque é facultativo o uso do artigo feminino diante dos pronomes possessivos femininos."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"é facultativo porque é facultativo o uso do artigo feminino…\":** crase é a fusão da preposição *a* com o artigo feminino *a*. Antes de pronome possessivo feminino (*nossa, minha, sua*), o artigo é opcional: “a nossa volta” e “nossa volta” são ambos corretos. Se o artigo é facultativo, a crase também é: com artigo, a + a = “à nossa volta”; sem artigo, fica só a preposição, “a nossa volta”.\n\n**As outras:**\n- *é obrigatório por tratar-se de um pronome possessivo feminino*: o possessivo não obriga a crase; ao contrário, torna o artigo (e a crase) opcional.\n- *é obrigatório por tratar-se da junção do artigo a com a preposição a*: a definição de crase está certa, mas aqui o artigo é opcional, então a crase não é obrigatória.\n- *está incorreto, pois não se usa crase diante de pronomes possessivos femininos*: usa-se, sim; a crase é permitida, só não é obrigatória.\n\n**Para memorizar:** crase facultativa em três casos clássicos: antes de possessivo feminino (à/a minha casa), antes de nome próprio feminino (à/a Maria) e depois de “até” (até à/a praia)."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "*“++Assim como++ fez Moisés em Êxodo 9-1, chegou a hora de encararmos esse faraó de frente e exigir: ‘Deixe meu povo ir!’.”* (6º§) A expressão sublinhada exprime ao trecho uma ideia de",
+   "alternativas": [
+    "conclusão.",
+    "explicação.",
+    "comparação.",
+    "consequência."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"comparação\":** *assim como* é locução conjuntiva **comparativa**: põe lado a lado duas ações semelhantes. O autor compara o que Moisés fez diante do faraó do Egito (exigir “Deixe meu povo ir!”) com o que nós devemos fazer hoje diante do faraó da intolerância: encará-lo de frente e exigir a libertação.\n\n**As outras:**\n- *conclusão*: seria marcada por “portanto”, “logo”, “por isso”, “assim” (sozinho, no início de uma conclusão).\n- *explicação*: seria introduzida por “pois” (antes do verbo), “porque”, “que”.\n- *consequência*: viria com “tanto… que”, “de modo que”, “de forma que”.\n\n**Para memorizar:** comparativas típicas: *como, assim como, tal como, mais… (do) que, menos… (do) que, tanto quanto*. Cuidado: “assim”, sozinho, pode ser conclusivo; “assim como” compara."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*“Nós, judeus, sabemos bem ++aonde++ a intolerância pode levar uma sociedade. Fomos e continuamos a ser uma de suas ++maiores++ vítimas e estaremos ++sempre++ engajados no seu combate.”* (5º§) Em se tratando da classe gramatical e de acordo com o contexto empregado, assinale a alternativa que apresenta a sequência correta dos termos sublinhados.",
+   "alternativas": [
+    "Advérbio, adjetivo e advérbio.",
+    "Advérbio, substantivo e advérbio.",
+    "Conjunção, substantivo e conjunção.",
+    "Preposição, substantivo e conjunção."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Advérbio, adjetivo e advérbio\":**\n- *aonde* (“sabemos bem aonde a intolerância pode levar”) é **advérbio** de lugar, com ideia de movimento, de destino (levar a algum lugar).\n- *maiores* (“uma de suas maiores vítimas”) é **adjetivo**: caracteriza o substantivo “vítimas”; é a forma comparativa de “grande”, usada aqui com valor superlativo.\n- *sempre* (“estaremos sempre engajados”) é **advérbio** de tempo e modifica a locução verbal.\n\n**As outras:**\n- *Advérbio, substantivo e advérbio*: “maiores” não nomeia nada; acompanha e qualifica “vítimas”.\n- *Conjunção, substantivo e conjunção*: “aonde” e “sempre” não ligam orações; são advérbios. E “maiores” não é substantivo.\n- *Preposição, substantivo e conjunção*: “aonde” contém a preposição *a* (a + onde), mas funciona como advérbio; as outras duas classificações também estão erradas.\n\n**Para memorizar:** *aonde* = para onde, com verbos de movimento (ir, levar, chegar); *onde* = em que lugar (estar, morar, ficar)."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "verbos",
+   "texto": "t1",
+   "enunciado": "*“Fomos e continuamos a ser uma de suas maiores vítimas e estaremos sempre engajados no seu combate.”* (5º§) Sobre o trecho em evidência, assinale a afirmativa correta.",
+   "alternativas": [
+    "O autor recorre ao passado para se remeter ao futuro.",
+    "O fato de que fomos e continuamos a ser vítimas da intolerância terá fim se no futuro estivermos engajados no seu combate.",
+    "Ao utilizar os três verbos em tempos diferentes, o autor nos afirma que o fato de sermos as *“maiores vítimas”* é um fato contínuo.",
+    "*“Ser uma de suas maiores vítimas”* é um fato passado que continua no presente e *“engajados no seu combate”* trata-se de uma ação contínua marcada por *“estaremos sempre”*."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"“Ser uma de suas maiores vítimas” é um fato passado que continua…\":** o trecho usa três tempos: *fomos* (pretérito perfeito), *continuamos* (presente) e *estaremos* (futuro do presente). Os dois primeiros mostram que ser vítima da intolerância começou no passado e segue hoje. O terceiro, reforçado pelo advérbio *sempre*, mostra que o engajamento no combate será permanente: uma ação contínua.\n\n**As outras:**\n- *O autor recorre ao passado para se remeter ao futuro*: o passado (“fomos”) se liga ao presente (“continuamos”); o futuro trata de outra ideia, o combate.\n- *O fato de que fomos e continuamos a ser vítimas… terá fim se…*: o trecho não traz condição nem promete o fim da perseguição; não há “se” no texto.\n- *Ao utilizar os três verbos em tempos diferentes…*: só “fomos” e “continuamos” se referem a ser vítimas; “estaremos” se refere ao engajamento no combate.\n\n**Para memorizar:** em questão sobre tempos verbais, ligue cada verbo ao seu complemento antes de concluir; a banca costuma misturar as ações."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Numa escola de idiomas trabalham 13 professores e cada um deles leciona apenas um idioma sendo que 2 lecionam francês, 4 lecionam espanhol e 7 lecionam inglês. De quantas maneiras pode-se selecionar 2 professores que lecionam idiomas diferentes?",
+   "alternativas": [
+    "42.",
+    "50.",
+    "54.",
+    "66."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"50\":** a dupla precisa ter professores de idiomas diferentes. Há três tipos de dupla:\n- francês e espanhol: 2 × 4 = 8\n- francês e inglês: 2 × 7 = 14\n- espanhol e inglês: 4 × 7 = 28\n\nTotal: 8 + 14 + 28 = **50**. Conferindo pelo complementar: todas as duplas possíveis com 13 professores são C(13,2) = 78; as do mesmo idioma são C(2,2) + C(4,2) + C(7,2) = 1 + 6 + 21 = 28; 78 − 28 = 50.\n\n**As outras:**\n- *42*: é (2 + 4) × 7, só as duplas que têm um professor de inglês; esquece as 8 duplas francês–espanhol.\n- *54*: passa do total; não existe outro tipo de dupla além dos três somados.\n- *66*: também passa; para chegar perto disso seria preciso contar duplas do mesmo idioma.\n\n**Para memorizar:** “de grupos diferentes”: multiplique os grupos dois a dois e some, ou faça o total menos os casos proibidos."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Ao realizar uma viagem partindo da cidade em que reside até a cidade em que trabalha, um professor gastou 55 minutos e seu veículo desenvolveu uma velocidade média de 90 km/h. Qual deve ser a velocidade média desenvolvida numa viagem de volta de forma que sejam economizados 10 minutos em relação ao tempo gasto na primeira viagem?",
+   "alternativas": [
+    "100 km/h.",
+    "105 km/h.",
+    "110 km/h.",
+    "120 km/h."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"110 km/h\":** primeiro a distância: d = v × t = 90 km/h × 55/60 h = 90 × 11/12 = 82,5 km. Na volta, o tempo deve ser 55 − 10 = 45 min = 0,75 h. Velocidade: v = 82,5 ÷ 0,75 = **110 km/h**.\n\n**As outras:**\n- *100 km/h*: a volta levaria 82,5 ÷ 100 = 0,825 h = 49,5 min; economia de só 5,5 min.\n- *105 km/h*: a volta levaria cerca de 47,1 min; economia de menos de 8 min.\n- *120 km/h*: a volta levaria 82,5 ÷ 120 = 0,6875 h ≈ 41,3 min; economia de quase 14 min, mais que o pedido.\n\n**Para memorizar:** com distância fixa, velocidade e tempo são inversamente proporcionais: 90 × 55 = v × 45, logo v = 4.950 ÷ 45 = 110. Não precisa nem calcular a distância."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Cada quadradinho em branco no quadro a seguir corresponde a um algarismo.\n\n![Quadro com operações nas bordas e quadradinhos em branco para completar](data/provas/img/idecan-2016-leopoldina-fiscal-sanitario/q13.webp)\n\nA soma de todos os algarismos que devem ser colocados nos quadrinhos em branco de forma que as operações indicadas fiquem corretas é igual a:",
+   "alternativas": [
+    "53.",
+    "54.",
+    "55.",
+    "56."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"55\":** comece pelas operações com menos incógnitas.\n- Linha de baixo: ☐☐☐ + 3 = 960, então o número é **957**.\n- Coluna da direita: ☐☐ × 5 = 90, então o número é **18**. O 1 é também o último algarismo da linha de cima.\n- Linha de cima: ☐☐☐ ÷ 3 = 241, então o número é **723**.\n- Coluna da esquerda: o 7 de 723 com o 6 impresso forma 76; 76 − ☐ = ☐9, em que o 9 é o início de 957. Como 76 − 7 = 69, os quadradinhos são **7** e **6**.\n\nSoma dos 10 quadradinhos: (7 + 2 + 3) + (1 + 8) + (7 + 6) + (9 + 5 + 7) = 12 + 9 + 13 + 21 = **55**.\n\n**As outras:**\n- *53*: fica 2 abaixo; é o que sai se um quadradinho, como o do 2, ficar fora da soma.\n- *54*: fica 1 abaixo; é o que sai se o 1 do canto superior direito for esquecido.\n- *56*: fica 1 acima; é o que sai se o 1 do canto for contado duas vezes, na linha e na coluna.\n\n**Para memorizar:** em quadro de operações cruzadas, os cantos são compartilhados; conte cada quadradinho uma vez só."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A figura a seguir representa uma peça cerâmica quadrada.\n\n![Peça cerâmica quadrada dividida em 4 × 4 quadradinhos, com a área escura em forma de cata-vento](data/provas/img/idecan-2016-leopoldina-fiscal-sanitario/q14.webp)\n\nSe a área em negrito no interior dessa peça tem 150 cm², então a área de toda peça é igual a:",
+   "alternativas": [
+    "375 cm².",
+    "400 cm².",
+    "425 cm².",
+    "450 cm²."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"400 cm²\":** a peça é dividida em 4 × 4 = 16 quadradinhos iguais. A parte escura (“em negrito”) tem 4 quadradinhos inteiros e 4 triângulos, cada um metade de um quadradinho, cortado pela diagonal até o centro da peça. Área escura: 4 + 4 × ½ = 6 quadradinhos. Se 6 quadradinhos valem 150 cm², cada um tem 150 ÷ 6 = 25 cm². Peça inteira: 16 × 25 = **400 cm²** (um quadrado de 20 cm de lado).\n\n**As outras:**\n- *375 cm²*: daria 15 quadradinhos de 25 cm²; a peça tem 16.\n- *425 cm²*: daria 17 quadradinhos; a peça não tem tantos.\n- *450 cm²*: daria 18 quadradinhos; também passa dos 16 da peça.\n\n**Para memorizar:** em figura quadriculada, conte a área em quadradinhos (triângulo na diagonal = meio quadradinho) e use a fração: a parte escura é 6/16 = 3/8 da peça, então a peça é 150 ÷ 3/8 = 400."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q15",
+   "numero": 15,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma fábrica de iogurtes pretende lançar dois novos sabores: goiaba e maracujá, e ofereceu os iogurtes a um grupo de 80 pessoas. Desse grupo observou-se que 18 pessoas gostaram dos dois produtos, 51 gostaram do iogurte de goiaba e 43 gostaram do iogurte de maracujá. O número de pessoas que não gostaram de nenhum dos dois sabores de iogurte foi igual a:",
+   "alternativas": [
+    "4.",
+    "5.",
+    "6.",
+    "7."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"4\":** use a união de conjuntos: n(G ∪ M) = n(G) + n(M) − n(G ∩ M) = 51 + 43 − 18 = 76 pessoas gostaram de pelo menos um sabor. Do grupo de 80, sobram 80 − 76 = **4** que não gostaram de nenhum. Pelo diagrama: só goiaba 51 − 18 = 33; só maracujá 43 − 18 = 25; os dois, 18. 33 + 25 + 18 + 4 = 80.\n\n**As outras:**\n- *5*: o grupo teria 76 + 5 = 81 pessoas.\n- *6*: o grupo teria 82 pessoas.\n- *7*: o grupo teria 83 pessoas.\n\n**Para memorizar:** quem gostou dos dois está dentro dos 51 e dos 43; some os dois grupos e tire a interseção uma vez. Erro comum: somar 51 + 43 = 94 e achar que passou do total."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q16",
+   "numero": 16,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Na região do Triângulo Mineiro, especificamente na cidade de Araxá, estão localizadas jazidas de um importante mineral do qual o Brasil é um dos maiores produtores mundiais. Esse mineral é fundamental para indústria de alta tecnologia e empregado em automóveis, turbinas de avião, gasodutos, em tomógrafos de ressonância magnética, na indústria aeroespacial, bélica e nuclear, além de outras inúmeras aplicações como lentes óticas, lâmpadas de alta intensidade, bens eletrônicos e até *piercings*.” Trata-se do mineral:",
+   "alternativas": [
+    "Nióbio.",
+    "Urânio.",
+    "Bauxita.",
+    "Minério de ferro."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Nióbio\":** Araxá, no Triângulo Mineiro/Alto Paranaíba, tem uma das maiores jazidas de nióbio do mundo, explorada pela CBMM. O Brasil é o maior produtor mundial, com cerca de 90% da produção. O nióbio entra em ligas de aço de alta resistência (automóveis, gasodutos, turbinas de avião), em ímãs supercondutores de aparelhos de ressonância magnética e em lentes e eletrônicos: exatamente as aplicações citadas.\n\n**As outras:**\n- *Urânio*: combustível nuclear; no Brasil, a mina em operação fica em Caetité (BA). Não é de Araxá nem tem esses usos.\n- *Bauxita*: minério do alumínio; as maiores jazidas brasileiras estão no Pará.\n- *Minério de ferro*: base do aço; em Minas Gerais está no Quadrilátero Ferrífero, não em Araxá.\n\n**Para memorizar:** Araxá = nióbio. O Brasil lidera a produção mundial com folga."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q17",
+   "numero": 17,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na África os processos de integração regional são prejudicados pelo grave quadro de desagregação do continente; dependência econômica, carência de infraestrutura básica, baixo nível de industrialização, pobreza, fomes, epidemias e guerras civis. Os blocos econômicos africanos são muito frágeis, contudo, o mais importante acordo regional de comércio do continente é:",
+   "alternativas": [
+    "CEI.",
+    "APEC.",
+    "SADEC.",
+    "NAFTA."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** No julgamento dos recursos, a IDECAN anulou a questão por não ter alternativa correta que atendesse ao enunciado. Um motivo provável é a sigla: o bloco da África Austral é a **SADC** (Comunidade para o Desenvolvimento da África Austral), e a prova escreveu “SADEC”. Além disso, apontar um único bloco como o “mais importante” da África é discutível.\n\nSobre o assunto: a SADC reúne países do sul da África, como África do Sul, Angola e Moçambique, e busca integração econômica e livre comércio na região. As outras siglas são de blocos de fora da África: CEI (Comunidade dos Estados Independentes, ex-repúblicas soviéticas), APEC (Cooperação Econômica Ásia-Pacífico) e NAFTA (livre comércio entre Estados Unidos, Canadá e México, substituído em 2020 pelo USMCA).\n\n**Para memorizar:** África Austral = SADC; ex-URSS = CEI; Pacífico = APEC; América do Norte = NAFTA/USMCA."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q18",
+   "numero": 18,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na década de 1960, intelectuais, escritores, cantores, compositores, cineastas e artistas plásticos participavam ativamente da política e muitos se engajaram em projetos revolucionários. Em 1967 ocorreu uma verdadeira revolução artística no Brasil, Caetano Veloso, Gilberto Gil e Gal Costa, entre outros, inauguraram um movimento musical conhecido como:",
+   "alternativas": [
+    "Tropicália.",
+    "Bossa Nova.",
+    "Jovem Guarda.",
+    "Samba de roda."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Tropicália\":** o Tropicalismo surgiu em 1967, no III Festival de Música Popular Brasileira da TV Record, com “Alegria, Alegria” (Caetano Veloso) e “Domingo no Parque” (Gilberto Gil). Em 1968 veio o disco-manifesto *Tropicália ou Panis et Circencis*, com Caetano, Gil, Gal Costa, Os Mutantes, Tom Zé e Nara Leão. O movimento misturava guitarra elétrica, cultura pop e tradições brasileiras, com crítica política e de costumes.\n\n**As outras:**\n- *Bossa Nova*: surgiu no fim dos anos 1950, com João Gilberto, Tom Jobim e Vinicius de Moraes.\n- *Jovem Guarda*: o “iê-iê-iê” de Roberto Carlos, Erasmo Carlos e Wanderléa, a partir de 1965, mais ligado ao rock romântico do que à política.\n- *Samba de roda*: manifestação tradicional afro-brasileira do Recôncavo Baiano, bem anterior aos anos 1960.\n\n**Para memorizar:** Caetano + Gil + Gal + Mutantes, 1967–1968 = Tropicália."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q19",
+   "numero": 19,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De 1889 a 1930 a república brasileira foi comandada por marechais e pelas oligarquias agrárias. NÃO tem relação com esse período histórico, que teve início na proclamação da república e durou até a Revolução de 1930:",
+   "alternativas": [
+    "Coronelismo.",
+    "República Velha.",
+    "República Populista.",
+    "Política do Café com Leite."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"República Populista\" é a resposta:** a República Populista (também chamada República Democrática ou Quarta República) vai de 1945 a 1964, do fim do Estado Novo ao golpe militar, com presidentes como Dutra, Vargas, JK, Jânio e Jango. Ela não pertence ao período de 1889 a 1930.\n\n**As outras (estão corretas):**\n- *Coronelismo*: o poder dos coronéis, grandes proprietários rurais que controlavam o voto (voto de cabresto), foi a base política da Primeira República.\n- *República Velha*: é o próprio nome do período de 1889 a 1930, também chamado Primeira República.\n- *Política do Café com Leite*: alternância na presidência entre as oligarquias de São Paulo (café) e Minas Gerais (leite), rompida em 1930.\n\n**Para memorizar:** 1889–1930 República Velha; 1930–1945 Era Vargas; 1945–1964 República Populista; 1964–1985 Ditadura Militar."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q20",
+   "numero": 20,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "São características da organização espacial da região Sudeste, EXCETO:",
+   "alternativas": [
+    "Foi a pioneira no desenvolvimento do setor industrial no Brasil.",
+    "Possui grande concentração econômica e abriga os mais importantes centros financeiros do país.",
+    "Atualmente, é a região de maior concentração populacional, detendo cerca de 40% da população brasileira.",
+    "As atividades agrícolas são pouco modernizadas, apresentando baixo emprego de tecnologia e pouca diversificação da produção agrícola."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"As atividades agrícolas são pouco modernizadas…\" é a resposta:** o Sudeste tem uma das agriculturas mais modernas do país, com alta mecanização, uso intenso de tecnologia e produção diversificada: cana-de-açúcar e laranja em São Paulo, café e grãos em Minas Gerais, além de forte agroindústria. Dizer que ela é atrasada e pouco diversificada contraria a realidade.\n\n**As outras (estão corretas):**\n- *Foi a pioneira no desenvolvimento do setor industrial…*: a industrialização começou no Sudeste, sobretudo em São Paulo e no Rio de Janeiro, com capital acumulado pelo café.\n- *Possui grande concentração econômica…*: concentra mais da metade do PIB nacional e os principais centros financeiros (São Paulo e Rio).\n- *Atualmente, é a região de maior concentração populacional…*: o Sudeste é a região mais populosa, com cerca de 42% dos brasileiros.\n\n**Para memorizar:** Sudeste = mais populoso, mais industrializado, mais rico e com agropecuária moderna."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Segundo o Código de Posturas Municipal, são competências do município, EXCETO:",
+   "alternativas": [
+    "Proteger o meio ambiente.",
+    "Regulamentar e fiscalizar a instalação e o funcionamento de ascensor.",
+    "Administrar o serviço funerário e cemitérios que pertencerem a entidade privada.",
+    "Interditar edificações em ruínas ou em condições de insalubridade e fazer demolir construções que ameacem ruir."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Administrar o serviço funerário e cemitérios que pertencerem a entidade privada\" é a resposta:** a regra é **administrar** o serviço funerário e os cemitérios e **fiscalizar** os que pertencerem a entidade privada. O município não administra cemitério particular, ele o fiscaliza. A alternativa trocou “fiscalizar” por “administrar”. As alternativas reproduzem a lista de competências do Município da Lei Orgânica de Leopoldina (art. 13 no texto consolidado), que a prova atribuiu ao Código de Posturas.\n\n**As outras (estão corretas):**\n- *Proteger o meio ambiente*: art. 13, V; é também competência comum da União, dos Estados e dos Municípios (CF, art. 23, VI).\n- *Regulamentar e fiscalizar a instalação e o funcionamento de ascensor*: art. 13, XX; ascensor é elevador.\n- *Interditar edificações em ruínas…*: art. 13, XVII; é poder de polícia do município sobre construções que ameaçam a segurança e a saúde.\n\n**Para memorizar:** cemitério público, o município administra; cemitério privado, o município fiscaliza."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Segundo a Lei Complementar nº 18/2010, que institui as competências de cada órgão municipal, todas as alternativas estão corretas, EXCETO:",
+   "alternativas": [
+    "Executar a vacinação de animais.",
+    "Executar a vacinação de humana.",
+    "Emitir alvarás de funcionamento, inicial ou renovatório.",
+    "Fiscalizar as condições higiênico-sanitárias dos estabelecimentos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Executar a vacinação de humana\" é a resposta:** a Lei Complementar nº 18/2010 de Leopoldina reorganizou a estrutura administrativa e, no art. 70, lista as competências do **Departamento de Vigilância Sanitária**: fiscalizar as condições higiênico-sanitárias dos estabelecimentos, controlar produtos de interesse da saúde, emitir alvarás de funcionamento, verificar denúncias e **executar a vacinação de animais**. Vacinação humana não está nessa lista; campanhas de vacinação aparecem com a Secretaria de Saúde e com o Departamento de Vigilância de Epidemias e Endemias (art. 71).\n\n**As outras (estão corretas, art. 70):**\n- *Executar a vacinação de animais*: inciso VI.\n- *Emitir alvarás de funcionamento, inicial ou renovatório*: inciso III.\n- *Fiscalizar as condições higiênico-sanitárias dos estabelecimentos*: inciso I.\n\n**Para memorizar:** o enunciado não diz de qual órgão fala, mas as alternativas copiam o art. 70: em Leopoldina, a vigilância sanitária vacina animais; vacinar pessoas fica com a área de epidemias e imunização."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Segundo a Lei Complementar nº 12, de 04 de agosto de 2008, são funções da Vigilância Sanitária, EXCETO:",
+   "alternativas": [
+    "Vigilância epidemiológica da mortalidade infantil e materna.",
+    "Elaborar normas, estabelecer padrões e requisitos sanitários para concessão de alvará sanitário.",
+    "Coordenar, organizar, controlar e executar as atividades de fiscalização em saúde pública de alta e média complexidade.",
+    "Elaborar normas e procedimentos que regulem a produção, comercialização, manipulação, transporte e armazenamento de produtos, bem como serviços que, direta ou indiretamente, afetem a saúde da população."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Vigilância epidemiológica da mortalidade infantil e materna\" é a resposta:** a Lei Complementar nº 12/2008 de Leopoldina criou duas seções na Secretaria de Saúde, cada uma com sua lista de finalidades no art. 1º. A vigilância da mortalidade infantil e materna está na lista da **Seção de Vigilância Epidemiológica e Ambiental em Saúde** (inciso XIII desse bloco), não na da Vigilância Sanitária. O próprio nome entrega: é vigilância *epidemiológica*.\n\n**As outras (estão corretas, no bloco da Seção de Vigilância Sanitária):**\n- *Elaborar normas, estabelecer padrões e requisitos sanitários para concessão de alvará sanitário*: inciso XI.\n- *Coordenar, organizar, controlar e executar as atividades de fiscalização…*: inciso I (alta e média complexidade; a de baixa complexidade é coordenada, organizada e controlada, inciso II).\n- *Elaborar normas e procedimentos que regulem a produção, comercialização…*: inciso VIII.\n\n**Para memorizar:** vigilância sanitária cuida de produtos, serviços e estabelecimentos; vigilância epidemiológica cuida de doenças e óbitos. É a mesma divisão da Lei 8.080/1990, art. 6º, §§ 1º e 2º."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "A Lei nº 4.070, de 5 de dezembro de 2012, dispõe sobre a política municipal de resíduos sólidos. Segundo esta Lei, são princípios da política municipal de resíduos sólidos:\n\nI. O tratamento e a disposição final de resíduos, por meio de processos ambientalmente adequados.\n\nII. A regularidade, a continuidade e a universalidade dos sistemas de coleta e transporte de resíduos sólidos.\n\nIII. A minimização de resíduos, por meio de práticas ambientalmente adequadas de não geração, não reutilização, não reciclagem e recuperação.\n\nIV. O gerenciamento integrado através de ações articuladas entre Poder Público, geradores de resíduos, consumidores e demais segmentos da sociedade civil.\n\nEstão corretas as afirmativas",
+   "alternativas": [
+    "I, II, III e IV.",
+    "I, II e IV, apenas.",
+    "II e III, apenas.",
+    "I e IV, apenas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e IV, apenas\":** a Lei nº 4.070/2012 de Leopoldina lista os princípios no art. 2º.\n- **I, certo:** tratamento e disposição final por processos ambientalmente adequados (inciso IV da lei).\n- **II, certo:** regularidade, continuidade e universalidade da coleta e do transporte (inciso II).\n- **III, errado:** a lei fala em minimização por práticas de **não geração, reutilização, reciclagem e recuperação**. A prova pôs “não” antes de reutilização e reciclagem, o que inverte o sentido: reutilizar e reciclar é justamente o que se quer.\n- **IV, certo:** gerenciamento integrado, com ações articuladas entre Poder Público, geradores, consumidores e sociedade civil (inciso I).\n\n**As outras:**\n- *I, II, III e IV*: inclui a III, adulterada.\n- *II e III, apenas*: inclui a III e deixa de fora a I e a IV.\n- *I e IV, apenas*: esquece a II, que também é princípio.\n\n**Para memorizar:** a ordem de prioridade da Política Nacional (Lei 12.305/2010, art. 9º) é não geração, redução, reutilização, reciclagem, tratamento e disposição final ambientalmente adequada."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "A lei de política municipal de resíduos sólidos, em seu Art. 17, informa que “ficam proibidas as seguintes formas de destinação e utilização de resíduos sólidos”, EXCETO:",
+   "alternativas": [
+    "Queima a céu aberto.",
+    "Lançamento *in natura* a céu aberto.",
+    "Lançamentos em sistemas de redes de drenagem de águas pluviais, de esgotos, de eletricidade, de telefone, bueiros e assemelhados.",
+    "O armazenamento, a acumulação ou a destinação final de resíduos de qualquer natureza através de projetos específicos, aprovados pelo órgão ambiental competente."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O armazenamento, a acumulação ou a destinação final… através de projetos específicos…\" é a resposta:** isso não é forma proibida. O art. 18 da Lei nº 4.070/2012 diz que o armazenamento, a acumulação ou a destinação final de resíduos de qualquer natureza **dependerão de projetos específicos aprovados pelo órgão ambiental competente**. Com projeto aprovado, é o caminho regular, não uma proibição.\n\n**As outras (estão corretas, art. 17):**\n- *Queima a céu aberto*: inciso II. Só em emergência sanitária o órgão ambiental pode autorizá-la, acompanhando as emissões (art. 18, parágrafo único).\n- *Lançamento in natura a céu aberto*: inciso I; é o lixão.\n- *Lançamentos em sistemas de redes de drenagem…*: inciso III; lixo em bueiro e rede pluvial entope e contamina.\n\n**Para memorizar:** a Lei 12.305/2010 (art. 47) segue a mesma lógica e proíbe lançamento *in natura* a céu aberto, queima a céu aberto e lançamento em corpos hídricos. O que tem projeto aprovado pelo órgão ambiental não é proibido."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Segundo a lei de política municipal de resíduos sólidos, “caberá aos estabelecimentos geradores de resíduos de serviços de saúde”, EXCETO:",
+   "alternativas": [
+    "O gerenciamento de seus resíduos, desde a geração até a disposição final, de forma a atender os requisitos ambientais e de saúde pública.",
+    "A segregação dos resíduos, o acondicionamento e a identificação adequada do local e momento de sua geração, conforme legislação específica.",
+    "Assegurar, de forma sanitária e ambientalmente adequada, a manutenção final dos resíduos, devidamente segregados, acondicionados e identificados.",
+    "A elaboração e a implementação de plano de gerenciamento de resíduos de serviços de saúde, a ser aprovado pelos órgãos ambiental e de saúde competentes, de acordo com legislação específica."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Assegurar, de forma sanitária e ambientalmente adequada, a manutenção final…\" é a resposta:** o art. 26 da Lei nº 4.070/2012 manda o gerador de resíduos de serviços de saúde assegurar o **armazenamento intermediário e temporário** dos resíduos segregados, acondicionados e identificados (inciso IV). “Manutenção final” não existe na lei: o resíduo fica guardado temporariamente no estabelecimento até a coleta, o tratamento e a destinação final.\n\n**As outras (estão corretas, art. 26):**\n- *O gerenciamento de seus resíduos, desde a geração até a disposição final…*: inciso I; o gerador responde do início ao fim.\n- *A segregação dos resíduos, o acondicionamento e a identificação…*: inciso III; separar no local e no momento da geração.\n- *A elaboração e a implementação de plano de gerenciamento…*: inciso II; é o PGRSS, aprovado pelos órgãos ambiental e de saúde.\n\n**Para memorizar:** etapas do manejo de RSS: segregação, acondicionamento, identificação, transporte interno, armazenamento temporário e externo, coleta, tratamento e disposição final (hoje regulado pela RDC Anvisa 222/2018)."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Segundo a Lei nº 3.506 de 2003, que disciplina a realização de feiras e eventos no município de Leopoldina, na comercialização de produtos alimentares e derivados, é proibida a comercialização dos seguintes produtos, EXCETO:",
+   "alternativas": [
+    "Bebidas alcoólicas.",
+    "Fogos de artifício e correlatos.",
+    "Cigarros de qualquer procedência.",
+    "Produtos originários de contrabando ou descaminho, bem como aqueles falsificados ou pirateados."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Bebidas alcoólicas\" é a resposta:** a Lei nº 3.506/2003 de Leopoldina, no art. 12, § 1º, proíbe expressamente nas feiras a venda de três grupos de produtos: fogos de artifício e correlatos; cigarros de qualquer procedência; e produtos de contrabando ou descaminho, falsificados ou pirateados. Bebida alcoólica não está na lista. Os produtos proibidos encontrados na feira são apreendidos pela fiscalização e destruídos (art. 12, § 2º).\n\n**As outras (estão corretas, art. 12, § 1º):**\n- *Fogos de artifício e correlatos*: inciso I.\n- *Cigarros de qualquer procedência*: inciso II.\n- *Produtos originários de contrabando ou descaminho…*: inciso III.\n\n**Para memorizar:** na feira de Leopoldina são proibidos “fogos, fumo e falsificados”. Para alimentos perecíveis ou com prazo de validade, a lei manda a autoridade sanitária fiscalizar com rigor a origem e a validade (art. 12, § 3º)."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Segundo a Lei nº 3.506 de 2003, que disciplina a realização de feiras e eventos no município de Leopoldina, analise as afirmativas a seguir.\n\nI. As despesas necessárias para a implantação e instalação da feira, assim como os tributos devidos, são de responsabilidade da pessoa, física ou jurídica, promotora.\n\nII. É proibida a instalação de feiras em prédios ou locais pertencentes ao município, ou sob a sua administração, inclusive praças, ruas, calçadas e calçadões, salvo as exceções previstas nesta Lei.\n\nIII. O requerimento da licença deverá ser apresentado ao órgão competente da Administração Municipal com antecedência mínima de quinze dias da data para início da realização do respectivo evento.\n\nIV. Quando da cobrança de ingressos, dez por cento da renda bruta dos mesmos serão destinados à Secretaria Municipal de Assistência Social, para repasse a entidades assistenciais, a critério do Executivo Municipal.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I, II e IV.",
+    "II e IV.",
+    "I, II e III.",
+    "II, III e IV."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e IV\":** confira cada item na Lei nº 3.506/2003:\n- **I, certo:** art. 8º; despesas de implantação e instalação da feira e os tributos são da pessoa, física ou jurídica, promotora.\n- **II, certo:** art. 2º; é proibida a instalação de feiras em prédios ou locais do Município ou sob sua administração, inclusive praças, ruas, calçadas e calçadões, salvo as exceções da lei.\n- **III, errado:** o art. 4º exige antecedência mínima de **30 (trinta) dias**, não quinze.\n- **IV, certo:** art. 9º; 10% da renda bruta dos ingressos vão para a Secretaria Municipal de Assistência Social, para repasse a entidades assistenciais.\n\n**As outras:**\n- *II e IV*: esquece a I, que está correta.\n- *I, II e III*: inclui a III (prazo errado) e deixa de fora a IV.\n- *II, III e IV*: inclui a III e deixa de fora a I.\n\n**Para memorizar:** feira em Leopoldina: requerimento com 30 dias de antecedência, duração máxima de 3 dias consecutivos (art. 3º) e 10% dos ingressos para a assistência social."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Classificam-se como feiras, segundo a Lei nº 3.506 de 2003, EXCETO:",
+   "alternativas": [
+    "A exposição, com vendas de produtos, organizados em estandes específicos para este fim.",
+    "A exposição, com ou sem vendas de produtos, organizados em estandes específicos para este fim.",
+    "Estabelecimentos que funcionem em apenas alguns dias do mês, comercializando ou sublocando espaços para o comércio, de produtos, bens ou serviços.",
+    "Estabelecimentos que funcionem em apenas alguns dias do ano, comercializando ou sublocando espaços para o comércio, de produtos, bens ou serviços."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** No gabarito definitivo a questão aparece anulada (#); o documento de recursos não comenta o motivo, mas a lei o mostra: nenhuma alternativa é exceção. O art. 1º, I, da Lei nº 3.506/2003 classifica como feiras a exposição, **com ou sem vendas**, de produtos organizados em estandes específicos, e os estabelecimentos que funcionem em apenas alguns dias **do mês ou do ano**, comercializando ou sublocando espaços para o comércio. A exposição “com vendas” é um caso da exposição “com ou sem vendas”, e os estabelecimentos de alguns dias do mês e do ano estão ambos no texto. As quatro alternativas descrevem feiras.\n\nSobre o assunto: a lei exige licença prévia do Executivo para feiras e eventos de finalidade comercial, em local aberto ou fechado, e dispensa dessa regra, por exemplo, os eventos de programas do Poder Público e os de natureza exclusivamente filantrópica (art. 1º, § 1º)."
+  },
+  {
+   "id": "idecan-2016-leopoldina-fiscal-sanitario-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "São definições estabelecidas pela Lei Federal nº 9.503/1997, EXCETO:",
+   "alternativas": [
+    "Autoridade de trânsito: dirigente máximo de órgão ou entidade executivo integrante do Sistema Nacional de Trânsito ou pessoa por ele expressamente credenciada.",
+    "Via urbana: ruas, avenidas, vielas, ou caminhos e similares abertos à circulação pública, situados na área urbana, caracterizados principalmente por possuírem imóveis edificados ao longo de sua extensão.",
+    "Sinais de trânsito: conjunto de sinais de trânsito e dispositivos de segurança colocados na via pública com o objetivo de garantir sua utilização adequada, possibilitando melhor fluidez no trânsito e maior segurança dos veículos e pedestres que nela circulam.",
+    "Operação de trânsito: monitoramento técnico baseado nos conceitos de Engenharia de Tráfego, das condições de fluidez, de estacionamento e parada na via, de forma a reduzir as interferências, tais como veículos quebrados, acidentados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Sinais de trânsito: conjunto de sinais de trânsito e dispositivos…\" é a resposta:** a definição está trocada. No Anexo I do Código de Trânsito Brasileiro (Lei 9.503/1997), “conjunto de sinais de trânsito e dispositivos de segurança colocados na via pública…” é a definição de **sinalização**. **Sinais de trânsito** são os elementos de sinalização viária que usam placas, marcas viárias, equipamentos de controle luminosos, dispositivos auxiliares, apitos e gestos para ordenar ou dirigir o trânsito.\n\n**As outras (estão corretas, Anexo I do CTB):**\n- *Autoridade de trânsito: dirigente máximo de órgão ou entidade…*: definição do anexo.\n- *Via urbana: ruas, avenidas, vielas…*: definição do anexo; o que a caracteriza são os imóveis edificados ao longo da via.\n- *Operação de trânsito: monitoramento técnico baseado nos conceitos…*: definição do anexo; inclui socorro e informação a pedestres e condutores.\n\n**Para memorizar:** sinal é a peça (placa, semáforo, apito); sinalização é o conjunto deles na via. A pegadinha clássica troca as duas definições."
+  }
+ ]
+}
