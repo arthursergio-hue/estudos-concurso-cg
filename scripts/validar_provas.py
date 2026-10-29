@@ -30,6 +30,17 @@ MARCA = re.compile(r"pcimark|[A-Za-z0-9+/]{40,}={0,2}", re.I)
 LETRA = re.compile(r"\b(letra|alternativa|op[çc][ãa]o)\s+[\"“]?[A-E]\b|\([A-E]\)", re.I)
 
 
+def marcacao_solta(md):
+    """Parágrafos com * ou ++ sem par (asterisco de fórmula, como B2*C2, não conta)."""
+    soltos = []
+    for par in re.split(r"\n\s*\n", md or ""):
+        sem = par.replace("**", "")
+        italicos = len(re.findall(r"(?<![\w)])\*|\*(?![\w(])", sem))
+        if italicos % 2 or par.count("++") % 2:
+            soltos.append(par[:40])
+    return soltos
+
+
 def decodifica_texto(s):
     """True se o trecho é base64 de um texto legível (ex.: IP e horário), e não um hash ou id de link."""
     try:
@@ -76,6 +87,8 @@ def conferir(arq, ids_catalogo, validos):
         if not str(t.get("conteudo", "")).strip():
             erros.append(f"texto {t.get('id')} sem conteudo")
         imagens += IMG.findall(t.get("conteudo", ""))
+        for s in marcacao_solta(t.get("conteudo", "")):
+            avisos.append(f"texto {t.get('id')}: * ou ++ sem par em \"{s}…\"")
         if t.get("imagem"):
             imagens.append(t["imagem"])
 
@@ -138,6 +151,8 @@ def conferir(arq, ids_catalogo, validos):
                 avisos.append(f"{tag}: comentário cita letra de alternativa; cite pelo texto")
         for campo in [q.get("enunciado", ""), q.get("comentario") or "", *map(str, alts)]:
             imagens += IMG.findall(campo)
+            for s in marcacao_solta(campo):
+                avisos.append(f"{tag}: * ou ++ sem par em \"{s}…\"")
         if q.get("imagem"):
             imagens.append(q["imagem"])
     if len(nalt) > 1:
