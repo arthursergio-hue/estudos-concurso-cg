@@ -209,6 +209,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2021-cg-fiscal-obras",
+  "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Fiscal de Obras",
+  "arquivo": "data/provas/idecan-2021-cg-fiscal-obras.json",
+  "nQuestoes": 60,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2014-ebserh-arquitetura",
   "titulo": "Analista Administrativo – Arquitetura — EBSERH (HC-UFPE)",
   "banca": "IDECAN",

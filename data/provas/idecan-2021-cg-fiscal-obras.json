@@ -1,0 +1,1063 @@
+{
+ "id": "idecan-2021-cg-fiscal-obras",
+ "titulo": "Fiscal de Obras — Prefeitura de Campina Grande/PB",
+ "banca": "IDECAN",
+ "ano": 2021,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Fiscal de Obras",
+ "fonte": "https://www.pciconcursos.com.br/provas/download/fiscal-de-obras-prefeitura-campina-grande-pb-idecan-2021",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I (questões 1 a 10) — EM OUTROS SISTEMAS SOLARES, ESTRELAS SEMELHANTES AO SOL “ENGOLEM” PLANETAS QUE AS ORBITAM",
+   "fonte": "(Luíza Feniar Migliosi. Aventuras na História. https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/em-outros-sistemas-solares-estrelas-semelhantes-ao-sol-engolem-planetas-que-as-orbitam.phtml. 31/8/2021)",
+   "numerarLinhas": true,
+   "conteudo": "\tDe acordo com uma pesquisa publicada na revista científica *Nature Astronomy*, nesta segunda-feira, 30, pelo menos um\nquarto das estrelas semelhantes ao Sol canibalizam os planetas que as orbitam, segundo o portal de notícias G1.\n\tA nossa Galáxia tem muitos sistemas planetários e os cientistas já haviam descoberto que muitos deles são diferentes\ndo nosso Sistema Solar. Mas, com essa recente pesquisa, é possível entender a razão: não há tantos sistemas planetários\nvizinhos semelhantes ao nosso, em que os planetas orbitam o Sol em uma ordenação bem estruturada. Na verdade, em pelo\nmenos 25% dos casos, a estrela central pode ter “consumido” alguns planetas que a orbitavam.\n\tO estudo observou a composição química de estrelas de tipo solar em mais de 100 sistemas binários, que são compostos\npor duas estrelas gêmeas com a mesma composição química.\n\tA pesquisa foi elaborada pela Universidade de São Paulo (USP) e centros da Itália, Austrália e Estados Unidos. Foi\nusado o telescópio do Observatório La Silla, administrado pelo Observatório Europeu do Sul (ESO) e localizado no Deserto do\nAtacama, Chile.\n\tAlgumas estrelas irmãs não tinham a mesma composição química, pois uma delas possuía uma quantidade maior de\nlítio e ferro, abundantes nos planetas rochosos.\n\tPara Jorge Meléndez, professor do Departamento de Astronomia da USP e um dos autores da pesquisa, as estrelas\nque apresentavam abundância destes elementos haviam dissolvido, em sua parte mais externa, os planetas do seu próprio\nsistema solar. Sendo assim, foram apelidadas de “estrelas canibais”.\n\tA publicação enfatizou que as estrelas binárias quimicamente não homogêneas são exemplos contraditórios na\nastrofísica estelar e que ainda estudam a causa das diferentes composições.\n\t“Ainda não está claro se as variações de abundância química são o resultado de não homogeneidades nas nuvens de\ngases protoestelares [da formação estrelar] ou são devidas a eventos de engolfamento de planetas (...) O primeiro cenário abala\na crença geral de que a composição química das estrelas fornece as informações fósseis do ambiente em que se formaram,\nenquanto o segundo cenário lança luz sobre os possíveis caminhos evolutivos dos sistemas planetários”, afirma o estudo."
+  },
+  {
+   "id": "t2",
+   "titulo": "Figura I (questões 50 a 52)",
+   "fonte": "",
+   "numerarLinhas": false,
+   "conteudo": "Baseando-se na Figura I a seguir, que representa um reservatório de água de uma edificação, e suas respectivas instalações prediais de água fria, responda as questões 50, 51 e 52.\n\n![Figura I: reservatório superior de duas células, com tubulações e peças numeradas de 1 a 10](data/provas/img/idecan-2021-cg-fiscal-obras/t2.webp)"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "*De acordo com uma pesquisa publicada na revista científica* Nature Astronomy, *nesta segunda-feira, 30, pelo menos ++um quarto das estrelas semelhantes ao Sol canibalizam os planetas++ que as orbitam, segundo o portal de notícias G1.* (linhas 1 e 2)\n\nAssinale a alternativa em que, alterando-se a redação do segmento sublinhado no período acima, independentemente da mudança de sentido, **NÃO** se tenha observado a norma culta.",
+   "alternativas": [
+    "um quarto das estrelas semelhantes ao Sol canibaliza os planetas",
+    "das estrelas semelhantes ao Sol, 1,98% canibalizam os planetas",
+    "das estrelas semelhantes ao Sol, 1,85 milhão canibaliza os planetas",
+    "três quintos das estrelas semelhantes ao Sol canibalizam os planetas"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"das estrelas semelhantes ao Sol, 1,98% canibalizam os planetas\" é a resposta:** com porcentagem, o verbo pode concordar com o número ou com o termo que o especifica, **desde que esse termo venha depois** (\"1,98% das estrelas canibaliza\" ou \"canibalizam\"). Quando o especificador vem **deslocado para antes** (\"das estrelas…, 1,98%…\"), o verbo concorda com o número. E número menor que 2 pede singular: o certo seria \"1,98% canibaliza\".\n\n**As outras (estão corretas):**\n- *um quarto das estrelas semelhantes ao Sol canibaliza os planetas*: com fração, o verbo concorda com o numerador (\"um\", singular) ou com o especificador (\"estrelas\", plural). O texto usou o plural; o singular também vale.\n- *das estrelas semelhantes ao Sol, 1,85 milhão canibaliza os planetas*: \"1,85\" é menor que 2, então fica tudo no singular: \"milhão\" e o verbo.\n- *três quintos das estrelas semelhantes ao Sol canibalizam os planetas*: numerador 3, verbo no plural.\n\n**Para memorizar:** especificador deslocado ou ausente: o verbo segue o número; abaixo de 2, singular (\"1,5% votou\"; \"1,8 milhão votou\")."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em relação ao que informa o texto e suas possíveis inferências, analise as afirmativas a seguir:\n\nI. Em sistemas binários, em que há estrelas gêmeas, o natural e esperado é que elas tivessem a mesma composição química.\n\nII. Quando se encontra lítio na composição de uma estrela, é a prova de que ela agiu como uma “estrela canibal”.\n\nIII. Embora o estudo tenha apontado para a possibilidade de “canibalismo estelar”, há outra hipótese, em que a variação química já estaria na gênese da própria estrela.\n\nAssinale",
+   "alternativas": [
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas I e III estiverem corretas\":** a I está certa: o texto diz que os sistemas binários são \"compostos por duas estrelas gêmeas com a mesma composição química\" (linhas 7 e 8). O esperado é a composição igual, e a diferença é o que chamou a atenção. A III também: a citação final diz que ainda não se sabe se a variação vem de \"não homogeneidades nas nuvens de gases protoestelares\" (a estrela já teria nascido diferente) ou do engolfamento de planetas (linhas 19 e 20). A II está errada: o texto fala em **quantidade maior** de lítio e ferro numa das irmãs (linhas 12 e 13), e não em simples presença de lítio; e nem isso é prova, porque a causa \"ainda não está clara\".\n\n**As outras:**\n- *se apenas as afirmativas I e II estiverem corretas.*: inclui a II, que transforma hipótese em prova.\n- *se apenas as afirmativas II e III estiverem corretas.*: inclui a II e deixa de fora a I.\n- *se todas as afirmativas estiverem corretas.*: a II é falsa.\n\n**Para memorizar:** em inferência, desconfie de expressões absolutas como \"é a prova de que\"; o texto trabalha com hipóteses."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Ao afirmar que as estrelas “engolem” os planetas, ocorre exemplo da figura de linguagem denominada",
+   "alternativas": [
+    "catacrese.",
+    "sinédoque.",
+    "prosopopeia.",
+    "sinestesia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"prosopopeia\":** prosopopeia (ou personificação) é atribuir ações, sentimentos ou características de seres vivos a seres inanimados. Estrelas não \"engolem\" nada: o verbo, próprio de quem come, foi usado para a estrela que absorve planetas. As aspas no título e as expressões \"consumido\" e \"estrelas canibais\" reforçam esse uso figurado.\n\n**As outras:**\n- *catacrese.*: é a metáfora já gasta, usada por falta de palavra própria: \"pé da mesa\", \"braço da cadeira\", \"embarcar no ônibus\".\n- *sinédoque.*: é um tipo de metonímia: a parte pelo todo, o singular pelo plural, a matéria pelo objeto (\"não tinha um teto\", \"o brasileiro gosta de futebol\").\n- *sinestesia.*: mistura sensações de sentidos diferentes: \"voz doce\", \"cor gritante\", \"cheiro quente\".\n\n**Para memorizar:** coisa agindo como gente ou bicho = prosopopeia; sentidos misturados = sinestesia; nome que \"pegou\" por falta de outro = catacrese."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Dependendo de como se forme a palavra com o elemento “proto”, presente em *protoestelares* (linha 20), é necessário, segundo as regras de ortografia, que se empregue o hífen. No caso, não ocorreu em *protoestelares*, mas teria acontecido em outras palavras.\n\nAssinale a alternativa em que a grafia da palavra esteja seguindo corretamente as regras ortográficas.",
+   "alternativas": [
+    "proto-organismo",
+    "proto-arquiteto",
+    "protoistórico",
+    "proto-religião"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"proto-religião\":** é a resposta do gabarito definitivo da IDECAN (a mesma questão, no caderno tipo A, também ficou com \"proto-religião\"). A regra do Acordo Ortográfico de 1990 (Base XVI), porém, é esta: prefixo terminado em vogal leva **hífen** quando o segundo elemento começa por **h** ou pela **mesma vogal** (proto-histórico, proto-organismo); quando começa por **r** ou **s**, não há hífen e a consoante **dobra** (protorreligião, protossolar); nos demais casos, junta-se direto (protoarquiteto, protoestelar). Pela regra, o certo seria \"protorreligião\".\n\n**As outras:**\n- *proto-organismo*: \"proto\" termina em \"o\" e \"organismo\" começa com \"o\": mesma vogal, hífen obrigatório. É a única grafia que segue a regra.\n- *proto-arquiteto*: vogais diferentes, sem hífen: protoarquiteto.\n- *protoistórico*: diante de \"h\" o hífen é obrigatório e o \"h\" se mantém: proto-histórico.\n\n**Para memorizar:** prefixo em vogal + h ou mesma vogal = hífen; + r ou s = dobra a letra; + outra vogal ou consoante = junto.\n\nPonto discutível: pelo Acordo, a resposta seria \"proto-organismo\", e \"proto-religião\" está errada; mesmo assim, o gabarito definitivo manteve \"proto-religião\". Pela regra antiga, anterior ao Acordo, \"proto-\" levava hífen antes de vogal, h, r e s, o que explicaria \"proto-religião\", mas também tornaria certas \"proto-organismo\" e \"proto-arquiteto\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que as palavras listadas **NÃO** correspondam a um mesmo universo semântico no texto, por não apresentarem relação de pertinência de significação.",
+   "alternativas": [
+    "engolem (título) – canibalizam (linha 2) – consumido (linha 6)",
+    "binários (linha 7) – gêmeas (linha 8) – irmãs (linha 12)",
+    "estrelas (linha 7) – Solar (linha 4) – estelar (linha 20)",
+    "sistemas (linha 3) – planetas (linha 6) – estrelas (linha 21)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"sistemas (linha 3) – planetas (linha 6) – estrelas (linha 21)\" é a resposta:** nas outras três listas, as palavras giram em torno de um mesmo núcleo de sentido e quase se substituem no texto. Aqui, cada uma nomeia uma coisa diferente: o sistema é o conjunto, o planeta é o corpo que orbita, a estrela é o astro central. As três são do vocabulário da astronomia, mas não têm entre si a \"relação de pertinência de significação\" que a questão pede: não retomam o mesmo conceito.\n\n**As outras (formam um mesmo universo):**\n- *engolem (título) – canibalizam (linha 2) – consumido (linha 6)*: as três expressam a ideia de devorar, absorver; o texto usa uma pela outra.\n- *binários (linha 7) – gêmeas (linha 8) – irmãs (linha 12)*: todas indicam o par de estrelas e o parentesco entre elas.\n- *estrelas (linha 7) – Solar (linha 4) – estelar (linha 20)*: todas remetem a estrela: o Sol é uma estrela, e \"estelar\" é o adjetivo de estrela.\n\n**Para memorizar:** campo semântico é o grupo de palavras ligadas a uma mesma ideia (sinônimos, retomadas, derivados). Ter o mesmo assunto não basta."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*A nossa Galáxia tem muitos sistemas planetários e os cientistas já haviam descoberto que muitos deles são diferentes do nosso Sistema Solar.* (linhas 3 e 4)\n\nAcerca do período acima analise as afirmativas a seguir:\n\nI. Se se colocar uma vírgula após “planetários”, terá havido inadequação gramatical.\n\nII. A forma “haviam descoberto” poderia ser substituída por “tinham descoberto”, sem prejuízo semântico ou gramatical.\n\nIII. Só há um caso de advérbio no período.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas\":** esta é a resposta do gabarito definitivo (a questão teve o gabarito alterado depois dos recursos). A I está errada: a vírgula antes do \"e\" é **permitida** quando ele liga orações de **sujeitos diferentes** (\"A nossa Galáxia tem…, e os cientistas já haviam descoberto…\"); não há inadequação. A II está certa: o pretérito mais-que-perfeito composto se forma com **ter** ou **haver** + particípio, e os dois auxiliares se equivalem. A III também: o único advérbio é **\"já\"**; \"muitos\" é pronome indefinido, \"nosso\" é possessivo e \"diferentes\" é adjetivo.\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas.*: a I é falsa.\n- *se apenas as afirmativas I e II estiverem corretas.*: inclui a I e deixa de fora a III.\n- *se apenas as afirmativas I e III estiverem corretas.*: inclui a I e deixa de fora a II.\n\n**Para memorizar:** \"e\" ligando orações com sujeitos diferentes aceita vírgula; \"e\" ligando termos de um mesmo sujeito, em regra, não."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que a palavra indicada tenha sido acentuada seguindo regra idêntica à de *química* (linha 8).",
+   "alternativas": [
+    "planetários (linha 4)",
+    "gêmeas (linha 8)",
+    "telescópio (linha10)",
+    "astrofísica (linha 18)"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"astrofísica (linha 18)\":** *química* (quí-mi-ca) leva acento por ser **proparoxítona**: a sílaba tônica é a antepenúltima, e toda proparoxítona é acentuada. *Astrofísica* (as-tro-fí-si-ca) segue exatamente essa regra.\n\n**As outras:**\n- *planetários (linha 4)*: é paroxítona terminada em ditongo crescente (pla-ne-tá-rios) e se acentua por essa regra. Alguns gramáticos chamam esses casos de proparoxítonas eventuais (ou aparentes), mas a banca os trata como regra diferente.\n- *gêmeas (linha 8)*: mesmo caso: paroxítona terminada em ditongo crescente \"-eas\" (gê-meas).\n- *telescópio (linha10)*: também paroxítona terminada em ditongo crescente \"-io\" (te-les-có-pio).\n\n**Para memorizar:** proparoxítona \"de verdade\": química, lâmpada, médico. Final em ditongo crescente (-io, -ia, -ea, -ua), como sério, gêmea e água: regra das paroxítonas terminadas em ditongo."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*Ainda não está claro* **++se++** *as variações de abundância química* (linha 19)\n\nNo segmento acima, retirado do texto, a palavra grifada se classifica como",
+   "alternativas": [
+    "conjunção integrante.",
+    "conjunção subordinativa condicional.",
+    "pronome oblíquo.",
+    "partícula apassivadora."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"conjunção integrante\":** o \"se\" introduz a oração \"se as variações de abundância química são o resultado…\", que funciona como **sujeito** de \"não está claro\" (o que não está claro? isso). É uma oração subordinada substantiva subjetiva, e quem introduz oração substantiva é a **conjunção integrante** (\"que\" ou \"se\"). O \"se\" integrante aparece em interrogativas indiretas e em ideias de dúvida: \"não sei se vou\", \"pergunto se ele vem\".\n\n**As outras:**\n- *conjunção subordinativa condicional.*: equivale a \"caso\" e introduz condição (\"se chover, não vou\"). Aqui não cabe \"caso\".\n- *pronome oblíquo.*: é o \"se\" reflexivo ou recíproco, que funciona como complemento do verbo (\"ele se feriu\").\n- *partícula apassivadora.*: acompanha verbo transitivo direto na voz passiva sintética (\"vendem-se casas\" = casas são vendidas).\n\n**Para memorizar:** troque a oração por \"isso\": se der certo (\"não está claro isso\"), o \"se\" é integrante."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "*Mas, com ++essa++ recente pesquisa, é possível entender a razão:* (linha 4)\n\nO pronome sublinhado no segmento acima se classifica corretamente como",
+   "alternativas": [
+    "demonstrativo com valor catafórico.",
+    "demonstrativo com valor anafórico.",
+    "indefinido com valor dêitico.",
+    "indefinido com valor exofórico."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"demonstrativo com valor anafórico\":** \"essa\" é pronome demonstrativo e, na frase, **retoma** algo que já apareceu no texto: \"essa recente pesquisa\" é a pesquisa publicada na *Nature Astronomy*, citada na linha 1. Retomar o que veio antes é **anáfora**. Na coesão, \"esse, essa, isso\" costumam retomar; \"este, esta, isto\" costumam anunciar o que vem depois.\n\n**As outras:**\n- *demonstrativo com valor catafórico.*: catáfora é anunciar o que ainda vai ser dito (\"Disse apenas isto: volto amanhã\").\n- *indefinido com valor dêitico.*: \"essa\" não é indefinido (indefinidos são algum, outro, muito, certo…), e dêixis é apontar para a situação de fala (aqui, agora, eu, você), não para o próprio texto.\n- *indefinido com valor exofórico.*: exófora é a referência a algo de fora do texto; e, de novo, o pronome nem é indefinido.\n\n**Para memorizar:** ESSE retoma (anáfora); ESTE anuncia (catáfora)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Em *protoestelares* (linha 20), a palavra apresenta o elemento “proto”, que significa “primeiro, primário, primitivo”. Daí a explicação entre colchetes, dando a ideia de “formação” da estrela. Com base nessa informação, assinale a alternativa em que a palavra **NÃO** apresente o mesmo sentido para o elemento “proto”.",
+   "alternativas": [
+    "protótipo",
+    "protozoário",
+    "protestar",
+    "protista"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"protestar\" é a resposta:** em *protestar* não existe o elemento grego \"proto\" (primeiro). A palavra vem do latim *protestari*, formado por \"pro-\" (diante, em público) + *testari* (testemunhar): protestar é declarar algo publicamente. O \"prot\" do começo é só coincidência de letras.\n\n**As outras (têm \"proto\" = primeiro, primitivo):**\n- *protótipo*: o primeiro tipo, o modelo original de algo.\n- *protozoário*: \"proto\" + \"zoon\" (animal): seres unicelulares vistos como os animais primitivos.\n- *protista*: do grego *prótistos*, \"o primeiríssimo\": grupo dos organismos simples e primitivos, como protozoários e algas unicelulares.\n\n**Para memorizar:** para reconhecer um radical, teste o sentido: se não cabe \"primeiro, primitivo\", não é o \"proto\" grego."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q11",
+   "numero": 11,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considerando que a afirmativa a seguir é verdadeira, assinale a alternativa correta.\n\n*m* < *n*",
+   "alternativas": [
+    "n − m ∉ ℕ.",
+    "n − m ∈ ℤ⁻.",
+    "n − m ∈ ℤ⁺.",
+    "n − m ∉ ℚ."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O enunciado só diz que *m* < *n*, sem dizer a que conjunto pertencem *m* e *n*. Se fossem inteiros, n − m seria um inteiro positivo (n − m ∈ ℤ⁺), provavelmente a resposta pretendida. Sem essa informação, porém, *m* e *n* podem ser frações ou irracionais: com m = 0 e n = √2, por exemplo, n − m = √2 não é inteiro nem racional. Assim, nenhuma alternativa é garantidamente verdadeira, e a anulação foi o caminho.\n\nSobre o assunto: de m < n só se tira com certeza que **n − m > 0**. Lembre os conjuntos: ℕ, os naturais (0, 1, 2…); ℤ, os inteiros (incluem os negativos); ℚ, os racionais (os que podem ser escritos como fração); e ℝ, os reais, que incluem os irracionais, como √2 e π. ℤ⁺ indica os inteiros não negativos e ℤ⁻, os não positivos."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q12",
+   "numero": 12,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma loja de roupas, lançou no mercado um modelo de blusa sem estampa e com 3 opções de cores: toda branca, toda vermelha ou toda preta. O gerente de vendas fez uma enquete sobre a preferência do público alvo e obteve como resultado o seguinte:\n\n20 pessoas compraram as blusas vermelha, preta e branca\\\n50 pessoas compraram a blusa vermelha\\\n60 pessoas compraram a blusa preta\\\n70 pessoas compraram a blusa branca\\\n30 pessoas compraram as blusas preta e vermelha\\\n35 pessoas compraram as blusas vermelha e branca\\\n40 pessoas compraram as blusas branca e preta\\\n10 pessoas não compraram nenhuma blusa\n\nAssinale a alternativa que indica corretamente a quantidade de pessoas que responderam à enquete.",
+   "alternativas": [
+    "95.",
+    "105.",
+    "150.",
+    "315."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"105.\":** monte o diagrama de Venn de dentro para fora. As três cores: 20. Só preta e vermelha: 30 − 20 = 10. Só vermelha e branca: 35 − 20 = 15. Só branca e preta: 40 − 20 = 20. Só vermelha: 50 − 20 − 10 − 15 = 5. Só preta: 60 − 20 − 10 − 20 = 10. Só branca: 70 − 20 − 15 − 20 = 15. Compraram alguma blusa: 20 + 10 + 15 + 20 + 5 + 10 + 15 = **95**. Somando as 10 pessoas que não compraram nenhuma, responderam à enquete **105** pessoas.\n\nConferência pela fórmula: n(V ∪ P ∪ B) = 50 + 60 + 70 − 30 − 35 − 40 + 20 = 95.\n\n**As outras:**\n- *95.*: é só quem comprou; esquece as 10 pessoas que não compraram, mas também responderam.\n- *150.*: sai de contas que não descontam direito as interseções (por exemplo, 50 + 60 + 70 − 30).\n- *315.*: é a soma de todos os números da lista, contando a mesma pessoa várias vezes.\n\n**Para memorizar:** em conjuntos, comece pela interseção dos três, desconte de dentro para fora e, no fim, some quem está fora de todos."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q13",
+   "numero": 13,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considere como verdadeiras as seguintes proposições:\n\nI. João foi ao supermercado e Maria foi ao ginásio\n\nII. p → q\n\nAssinale a alternativa que indica corretamente os conectivos ou operadores lógicos utilizados para conectar as proposições I e II, respectivamente.",
+   "alternativas": [
+    "Conjunção e implicação.",
+    "Disjunção inclusiva e negação.",
+    "Disjunção exclusiva e bicondicional.",
+    "Disjunção inclusiva e Disjunção exclusiva."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Conjunção e implicação.\":** na proposição I, as duas partes (\"João foi ao supermercado\" e \"Maria foi ao ginásio\") são ligadas por **\"e\"**, a **conjunção** (símbolo ∧), verdadeira só quando as duas partes são. Na II, a seta **p → q** é o **condicional**, ou **implicação** (\"se p, então q\"), falso apenas quando p é verdadeira e q é falsa.\n\n**As outras:**\n- *Disjunção inclusiva e negação.*: a disjunção inclusiva é o \"ou\" (∨) e a negação é o \"não\" (~ ou ¬); nenhum dos dois aparece.\n- *Disjunção exclusiva e bicondicional.*: a disjunção exclusiva é o \"ou… ou…\" (⊻), e o bicondicional é o \"se e somente se\" (↔), de seta dupla.\n- *Disjunção inclusiva e Disjunção exclusiva.*: são os dois tipos de \"ou\"; nenhum está nas proposições.\n\n**Para memorizar:** e = ∧; ou = ∨; ou… ou = ⊻; se… então = →; se e somente se = ↔; não = ~."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q14",
+   "numero": 14,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Considerando que a afirmativa a seguir é verdadeira.\n\n**“Se Ana é argentina, então Ana não sabe dançar samba”.**\n\nPode-se concluir corretamente que:",
+   "alternativas": [
+    "Ana sabe dançar samba e Ana não é argentina.",
+    "Se Ana não é argentina, então Ana não sabe dançar samba.",
+    "Ana não é argentina ou Ana não sabe dançar samba.",
+    "Como Ana é argentina, então Ana sabe dançar samba."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Ana não é argentina ou Ana não sabe dançar samba.\":** a frase tem a forma **p → ~q** (p: Ana é argentina; q: Ana sabe dançar samba). Todo condicional equivale a \"não o antecedente **ou** o consequente\": p → r ≡ ~p ∨ r. Com r = ~q, fica p → ~q ≡ **~p ∨ ~q**: \"Ana não é argentina ou Ana não sabe dançar samba\". Outra equivalência válida seria a contrapositiva: \"Se Ana sabe dançar samba, então Ana não é argentina\".\n\n**As outras:**\n- *Ana sabe dançar samba e Ana não é argentina.*: é uma situação possível, mas não obrigatória; de um condicional não se conclui uma conjunção.\n- *Se Ana não é argentina, então Ana não sabe dançar samba.*: tem a forma ~p → ~q, que não decorre da premissa: a frase original não diz nada sobre quem não é argentina.\n- *Como Ana é argentina, então Ana sabe dançar samba.*: afirma algo que não foi dado (que ela é argentina) e ainda contradiz a premissa.\n\n**Para memorizar:** \"se p, então q\" = \"não p ou q\" = \"se não q, então não p\". Nunca \"se não p, então não q\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q15",
+   "numero": 15,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "ferrovia-algodao",
+   "enunciado": "A Cidade de Campina Grande, ao longo de sua história, passou por um momento que foi decisivo para um grande salto de desenvolvimento. Isso se deu em função da cultura de",
+   "alternativas": [
+    "milho.",
+    "mandioca.",
+    "cana-de-açúcar.",
+    "algodão."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"algodão.\":** o grande salto de Campina Grande veio com o **algodão**, o \"ouro branco\". A chegada do ramal ferroviário da Great Western, inaugurado em **1907**, fez da cidade o ponto de reunião e embarque do algodão do interior da Paraíba e de estados vizinhos. Nos anos 1940, Campina Grande chegou a ser apontada como o maior centro exportador de algodão do Brasil e o segundo do mundo, atrás apenas de Liverpool, na Inglaterra. O comércio do algodão atraiu bancos, indústrias e migrantes, e a cidade cresceu.\n\n**As outras:**\n- *milho.*: segundo o histórico do IBGE, era uma das culturas de subsistência do antigo aldeamento, que ajudaram o povoado a se firmar, mas não explica o grande salto.\n- *mandioca.*: mesmo caso do milho: lavoura de subsistência dos primeiros tempos.\n- *cana-de-açúcar.*: foi a base da economia do litoral e do brejo paraibano, não de Campina Grande.\n\n**Para memorizar:** trem (1907) + algodão (\"ouro branco\") = o boom de Campina Grande na primeira metade do século XX."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q16",
+   "numero": 16,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "origens-fundacao",
+   "enunciado": "Apesar de controvertido em relação à data, o fato da fundação de Campina Grande se estabelece em determinado ano, mas a notificação ao rei de Portugal somente teria ocorrido em outro ano, diferente do anterior. Assinale a alternativa que indique corretamente esses dois anos.",
+   "alternativas": [
+    "1697 – 1698",
+    "1698 – 1699",
+    "1699 – 1701",
+    "1697 – 1699"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"1697 – 1699\":** a data tradicional da fundação é **1º de dezembro de 1697**, quando o capitão-mor Teodósio de Oliveira Lêdo fixou no local os índios **ariús** que trazia do sertão, formando um aldeamento. O fato só chegou à Coroa em **1699**, numa carta do capitão-mor ao rei de Portugal (maio de 1699) que cita o lugar. A questão fala em \"controvertido\" porque alguns historiadores sustentam que já havia povoação ali antes de 1697.\n\n**As outras:**\n- *1697 – 1698*: 1698 é o ano em que começou a catequese dos índios, por um franciscano enviado pelo governador da capitania (histórico do IBGE), e não o da notificação ao rei.\n- *1698 – 1699*: erra o ano da fundação.\n- *1699 – 1701*: põe a fundação no ano da carta e acrescenta um ano sem relação com esses fatos.\n\n**Para memorizar:** 1697 funda (aldeamento dos ariús); 1699 avisa o rei; 1769 freguesia; 1790 Vila Nova da Rainha; 1864 cidade."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q17",
+   "numero": 17,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "origens-fundacao",
+   "enunciado": "Quando da chegada de Teodósio Oliveira Lêdo, a região onde viria a se estabelecer o território de Campina Grande era habitada por índios",
+   "alternativas": [
+    "Ariús.",
+    "Cariris.",
+    "Pataxós.",
+    "Tapuias."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Cariris.\":** segundo o histórico do município no IBGE, Campina Grande \"foi primitivamente uma aldeia de índios **Cariris**\". Foi nessa região, já habitada pelos cariris, que Teodósio de Oliveira Lêdo instalou, em 1697, os índios **ariús**, que vinham com ele do sertão.\n\n**As outras:**\n- *Ariús.*: é a pegadinha: os ariús não habitavam a região; foram trazidos e aldeados por Teodósio. São os índios ligados à fundação, não os primeiros habitantes.\n- *Pataxós.*: povo do sul da Bahia e do norte de Minas Gerais, sem relação com a região.\n- *Tapuias.*: era o nome genérico que os colonizadores davam aos povos do interior que não falavam tupi; não designa um povo específico, e grupos como os cariris eram incluídos nesse rótulo.\n\n**Para memorizar:** os cariris já estavam lá; os ariús chegaram com Teodósio."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q18",
+   "numero": 18,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto do Servidor (Lei Municipal nº 2.378/92), o servidor em débito com o erário, que for demitido, exonerado, ou que tiver a sua aposentadoria ou disponibilidade cassada, terá que quitar o débito no prazo de:",
+   "alternativas": [
+    "90 dias.",
+    "60 dias.",
+    "20 dias.",
+    "30 dias."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"60 dias.\":** o art. 49 do Estatuto dos Servidores de Campina Grande (Lei Municipal 2.378/92) diz que o servidor em débito com o erário que for **demitido, exonerado** ou tiver a **aposentadoria ou disponibilidade cassada** terá **60 (sessenta) dias** para quitar o débito. O parágrafo único completa: se não pagar nesse prazo, o débito é **inscrito em dívida ativa**. Enquanto o servidor está no cargo, as reposições e indenizações ao erário são descontadas em parcelas mensais de até um décimo da remuneração ou provento (art. 48).\n\n**As outras:**\n- *90 dias.*: não é o prazo da lei.\n- *20 dias.*: também não aparece no art. 49.\n- *30 dias.*: é a pegadinha: lembra outros prazos do Estatuto (posse, entrada em exercício), mas não este.\n\n**Para memorizar:** saiu do serviço devendo (demissão, exoneração, cassação)? 60 dias para pagar; senão, dívida ativa. É a mesma regra do art. 47 da Lei 8.112/90, dos servidores federais."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q19",
+   "numero": 19,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "João de Deus, assistente administrativo na Procuradoria-Geral do Município de Campina Grande, estava cortando papéis para rascunho quando machucou gravemente seus dedos. Por conta da demora no socorro médico, ele acabou sofrendo a amputação da mão direta. Após alguns meses de recuperação, João de Deus retornou ao trabalho, porém foi investido em outro cargo público com atribuições afins, que era compatível com a limitação física agora existente e também com o nível de escolaridade. Nesse caso, é possível afirmar que a Administração Pública efetivou uma:",
+   "alternativas": [
+    "transferência.",
+    "readaptação.",
+    "reintegração.",
+    "recondução."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"readaptação.\":** pelo art. 24 do Estatuto (Lei 2.378/92), **readaptação** é a investidura do servidor em cargo de atribuições e responsabilidades **compatíveis com a limitação** que ele sofreu na capacidade física ou mental, verificada em inspeção médica. O § 2º manda fazê-la em **cargo de atribuições afins**, respeitada a habilitação exigida: é o caso de João (amputação, cargo afim, mesma escolaridade). Se fosse julgado incapaz para o serviço público, ele seria aposentado (§ 1º).\n\n**As outras:**\n- *transferência.*: no Estatuto, é a passagem do servidor estável para cargo de **igual denominação** em outro quadro (art. 23). Hoje, formas de provimento que levam o servidor a outro cargo sem concurso são inconstitucionais (Súmula Vinculante 43 do STF).\n- *reintegração.*: é a volta do servidor estável ao cargo anterior quando a sua **demissão é invalidada**, com ressarcimento das vantagens (art. 28).\n- *recondução.*: é o retorno do estável ao cargo anterior por inabilitação em estágio probatório de outro cargo ou pela reintegração do antigo ocupante (art. 29).\n\n**Para memorizar:** limitação física ou mental = readaptação; demissão anulada = reintegração; reprovado no estágio do cargo novo = recondução."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q20",
+   "numero": 20,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Acerca da posse e do exercício em cargo público, assinale a alternativa correta:",
+   "alternativas": [
+    "Só haverá posse nos casos de provimento por nomeação e promoção.",
+    "Não se admite que a posse dê por procuração.",
+    "A posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei.",
+    "A posse ocorrerá no prazo improrrogável de 30 (trinta) dias, contados da publicação do ato de nomeação."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A posse dar-se-á pela assinatura do respectivo termo…\":** é a cópia literal do art. 13 do Estatuto dos Servidores de Campina Grande (Lei 2.378/92): a posse se dá pela assinatura do termo, no qual constam atribuições, deveres, responsabilidades e direitos do cargo, que não podem ser alterados unilateralmente por nenhuma das partes, ressalvados os atos de ofício previstos em lei.\n\n**As outras:**\n- *Só haverá posse nos casos de provimento por nomeação e promoção.*: o § 4º do art. 13 diz que só há posse no provimento por **nomeação**. Na promoção, o servidor já tomou posse na carreira.\n- *Não se admite que a posse dê por procuração.*: o § 3º admite a posse **mediante procuração específica**, com firma reconhecida.\n- *A posse ocorrerá no prazo improrrogável de 30 (trinta) dias…*: o § 1º fixa 30 dias da publicação do ato de provimento, **prorrogáveis por mais 30** a pedido do interessado. Se a posse não ocorrer no prazo, o ato de provimento fica sem efeito (§ 6º).\n\n**Para memorizar:** posse: só na nomeação, cabe procuração, 30 + 30 dias. Depois da posse, mais 30 dias para entrar em exercício (art. 15, § 1º)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O concreto armado é um tipo de estrutura que utiliza armações feitas com barras de aço. Sobre o tema, analise o excerto abaixo:\n\n“O excesso de água na mistura do concreto _____________ resistência do concreto”.\n\nBaseando-se na composição do concreto armado, assinale a alternativa que completa corretamente a lacuna do excerto acima.",
+   "alternativas": [
+    "diminui a",
+    "aumenta a",
+    "não interfere na",
+    "é fundamental para atingir a ótima"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"diminui a\":** a resistência do concreto depende principalmente da **relação água/cimento** (a/c): quanto mais água para a mesma quantidade de cimento, menor a resistência (é a chamada lei de Abrams). O cimento precisa de pouca água para se hidratar; o excesso só dá trabalhabilidade e, ao evaporar, deixa **poros e vazios** na pasta. O resultado é um concreto menos resistente, mais permeável e menos durável, além de mais sujeito a exsudação, segregação e retração.\n\n**As outras:**\n- *aumenta a*: é o contrário: água a mais enfraquece o concreto.\n- *não interfere na*: a relação a/c é justamente o fator que mais interfere na resistência.\n- *é fundamental para atingir a ótima*: a água é fundamental na **quantidade certa**; o **excesso** prejudica. Para ganhar trabalhabilidade sem perder resistência, usa-se aditivo plastificante, não mais água.\n\n**Para memorizar:** \"molhar mais\" o concreto na obra para facilitar o lançamento é uma das irregularidades clássicas que a fiscalização deve coibir."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "A fiscalização de uma obra garante que o empreendimento seja implementado obedecendo aos padrões pré-estabelecidos. Durante a fiscalização de obras de edificações, existem alguns aspectos que devem ser observados, pois a execução dos serviços de obras deve atender a normas e práticas complementares explicitadas em códigos, leis, decretos, portarias e normas federais, estaduais e municipais, além de instruções e resoluções dos órgãos do sistema CREA/Confea e normas técnicas da ABNT e do Inmetro. Assinale a alternativa correta com relação às boas práticas dos serviços de uma obra.",
+   "alternativas": [
+    "Durante um serviço de demolição, as linhas de abastecimentos de energia elétrica, água e gás devem permanecer sem nenhuma proteção.",
+    "A terraplenagem, no caso de edificações, objetiva regularizar e uniformizar o terreno.",
+    "Durante um serviço de fundação executado por uma empresa subcontratada, a fiscalização não precisa verificar a ART do responsável pela execução.",
+    "Os serviços de estruturas de concreto armado são executados, na prática, sem obedecer ao projeto estrutural e às normas brasileiras."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A terraplenagem, no caso de edificações, objetiva regularizar e uniformizar o terreno.\":** terraplenagem é o conjunto de serviços de **corte, aterro, transporte e compactação** de solo para deixar o terreno nas cotas e na forma do projeto. Em edificações, serve para regularizar e nivelar a área (os platôs) onde a obra será implantada. Em Campina Grande, o Código de Obras (Lei 5.410/2013, art. 33) exige justificativa técnica, desenhos do movimento de terra e projeto de contenção quando a implantação gerar corte ou aterro superior a 3 m.\n\n**As outras:**\n- *Durante um serviço de demolição, as linhas de abastecimentos…*: antes de demolir, as linhas de energia, água e gás devem ser **desligadas, retiradas, protegidas ou isoladas** (regra da NR-18).\n- *Durante um serviço de fundação executado por uma empresa subcontratada…*: toda obra ou serviço de engenharia exige **ART** (Lei 6.496/1977), inclusive o executado por subcontratada; a fiscalização deve conferir a ART do responsável pela execução.\n- *Os serviços de estruturas de concreto armado são executados, na prática, sem obedecer…*: a estrutura deve seguir o projeto estrutural e as normas (NBR 6118, de projeto, e NBR 14931, de execução); desvio é justamente o que o fiscal aponta.\n\n**Para memorizar:** em questão de \"boas práticas\", desconfie de \"sem nenhuma proteção\", \"não precisa verificar\" e \"sem obedecer ao projeto\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Com relação à fiscalização de serviços de demolição em uma obra, analise as afirmativas a seguir:\n\nI. Deve ser verificada a licença de demolição.\n\nII. Deve ser verificado o atendimento às posturas municipais de segurança.\n\nIII. Deve ser verificado se o remanejamento das redes de serviços públicos está sendo executado de acordo com as normas e determinações das empresas concessionárias.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem incorretas.",
+    "se todas as afirmativas estiverem corretas.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas I e III estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas.\":** na fiscalização de uma demolição, o fiscal confere os três pontos. I: demolir exige **licença** (alvará de demolição) do município; sem ela, o serviço é irregular e pode ser embargado. II: o serviço deve cumprir as **posturas municipais de segurança**, como tapumes, proteção do passeio e dos vizinhos, horários e controle de poeira e entulho. III: as redes de serviços públicos ligadas ao imóvel (energia, água, esgoto, telefonia, gás) precisam ser **desligadas ou remanejadas** conforme as normas e determinações das **concessionárias**.\n\n**As outras:**\n- *se todas as afirmativas estiverem incorretas.*: as três são exigências reais.\n- *se somente as afirmativas I e II estiverem corretas.*: deixa de fora o remanejamento das redes, ponto crítico de segurança.\n- *se somente as afirmativas I e III estiverem corretas.*: deixa de fora as posturas municipais.\n\n**Para memorizar:** demolição = licença + posturas de segurança + redes resolvidas com as concessionárias. Em Campina Grande, o Código de Obras (Lei 5.410/2013, art. 40) diz que nenhuma demolição pode ser feita sem aprovação do Município, após vistoria e licença; o § 3º exige tapumes e demais medidas de segurança, e o § 4º deixa a prefeitura fixar o horário."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "etica-probidade",
+   "enunciado": "Assinale a alternativa correta que apresenta o nome do documento que define, para os efeitos legais, os responsáveis técnicos pelo desenvolvimento de atividade técnica no âmbito das profissões abrangidas pelo Sistema CREA/Confea.",
+   "alternativas": [
+    "Anotação de Responsabilidade Técnica.",
+    "Anotação de Registro Técnico.",
+    "Assinatura do Responsável Técnico.",
+    "Apresentação do Registro Técnico."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Anotação de Responsabilidade Técnica.\":** a **ART** foi criada pela Lei 6.496/1977: todo contrato, escrito ou verbal, de obra ou serviço profissional de engenharia, arquitetura e agronomia ficou sujeito a ela. A Resolução Confea nº 1.025/2009 (art. 2º) a define como o instrumento que define, para os efeitos legais, os responsáveis técnicos pela obra ou serviço. Na fiscalização, é a ART que mostra quem responde tecnicamente pelo projeto e pela execução; em Campina Grande, o Código de Obras (Lei 5.410/2013, art. 24, III) exige uma via da ART do CREA-PB ou do RRT do CAU-PB para a licença de construção.\n\n**As outras:**\n- *Anotação de Registro Técnico.*: nome inventado, que mistura \"anotação\" (da ART) com \"registro\".\n- *Assinatura do Responsável Técnico.*: a assinatura nos projetos existe, mas não é o documento que define legalmente a responsabilidade.\n- *Apresentação do Registro Técnico.*: nome inventado.\n\n**Para memorizar:** engenheiro registra **ART** no Crea; arquiteto, desde a Lei 12.378/2010, registra **RRT** (Registro de Responsabilidade Técnica) no CAU. Não confunda com a **CAT** (Certidão de Acervo Técnico), que comprova o acervo do profissional."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O concreto armado tem uma excelente resistência à compressão quando comparado a outros materiais da construção civil. Assinale a alternativa correta que apresenta alguns componentes do concreto armado.",
+   "alternativas": [
+    "Cimento, madeira e agregado miúdo.",
+    "Agregado miúdo, agregado graúdo e plástico.",
+    "Cimento, água e borracha.",
+    "Cimento, água e agregado graúdo."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Cimento, água e agregado graúdo.\":** o concreto é a mistura de **cimento** (aglomerante), **água**, **agregado miúdo** (areia) e **agregado graúdo** (brita ou pedregulho), às vezes com aditivos. No concreto armado, essa massa envolve barras de **aço**: o concreto resiste bem à compressão, e o aço, à tração. A alternativa traz três desses componentes, sem nenhum material estranho.\n\n**As outras:**\n- *Cimento, madeira e agregado miúdo.*: a madeira entra na obra como **fôrma** e escoramento, não como componente do concreto.\n- *Agregado miúdo, agregado graúdo e plástico.*: plástico não é componente do concreto armado (fibras sintéticas são outro caso, o do concreto reforçado com fibras).\n- *Cimento, água e borracha.*: borracha não faz parte do concreto.\n\n**Para memorizar:** pasta = cimento + água; argamassa = pasta + areia; concreto = argamassa + brita; concreto armado = concreto + aço."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Com relação à mistura dos componentes presentes no concreto armado, analise as afirmativas a seguir:\n\nI. Argamassa é uma mistura composta principalmente por cimento, areia, cal hidratada e água.\n\nII. A pasta de cimento é composta principalmente por água, cimento e areia fina.\n\nIII. O concreto armado é composto apenas por argamassa e aço.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem incorretas.",
+    "se todas as afirmativas estiverem corretas.",
+    "se somente as afirmativas I e II estiveremcorretas.",
+    "se somente as afirmativas I e III estiveremcorretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem incorretas.\":** é o gabarito oficial. A II está errada: **pasta** de cimento é só cimento + água; com areia, vira argamassa. A III também: o concreto armado é **concreto** (cimento, água, areia e brita) + aço, e não \"apenas argamassa e aço\"; sem o agregado graúdo, não há concreto. Para a banca, a I também está errada, porque argamassa é, por definição, **aglomerante + agregado miúdo + água**, e a cal é opcional: há argamassas só de cimento e areia, só de cal e areia, ou mistas.\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas.*: II e III são claramente falsas.\n- *se somente as afirmativas I e II estiveremcorretas.*: a II é falsa.\n- *se somente as afirmativas I e III estiveremcorretas.*: a III é falsa.\n\n**Para memorizar:** pasta (cimento + água) → argamassa (+ areia) → concreto (+ brita) → concreto armado (+ aço).\n\nPonto discutível: a I descreve a argamassa mista (cimento, cal, areia e água), muito usada em assentamento e reboco, e pode ser lida como correta. Mas, como II e III são falsas e não existe a opção \"apenas a I\", a única resposta possível entre as alternativas é \"todas incorretas\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Como todos os tipos de materiais, o uso do concreto armado apresenta vantagens e desvantagens. Com relação ao concreto armado, assinale a alternativa correta.",
+   "alternativas": [
+    "Não é um material ecologicamente sustentável, pois a produção de cimento exige grande consumo de energia.Além disso, utiliza muitos recursos naturais e gera resíduos que impactam o meio ambiente.",
+    "Possui um perfeito isolamento térmico e acústico.",
+    "Não possui resistência ao fogo, nem às influências atmosféricas e nem ao impacto.",
+    "É um material de fácil demolição devido à baixa resistência ao impacto."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Não é um material ecologicamente sustentável…\":** a fabricação do cimento, base do concreto, consome **muita energia** (o clínquer é produzido em fornos a cerca de 1.450 °C) e emite muito CO₂. O concreto também consome grandes volumes de recursos naturais (calcário, areia, brita, água) e gera resíduos de construção e demolição. São as desvantagens ambientais clássicas do material.\n\n**As outras:**\n- *Possui um perfeito isolamento térmico e acústico.*: nenhum material é \"perfeito\"; o concreto é **mau isolante térmico** (conduz e acumula calor), e o isolamento acústico depende da massa e da espessura da peça.\n- *Não possui resistência ao fogo, nem às influências atmosféricas…*: é o contrário: com o **cobrimento** correto das armaduras, o concreto armado resiste bem ao fogo, ao intemperismo e ao impacto. São vantagens dele.\n- *É um material de fácil demolição devido à baixa resistência ao impacto.*: a **dificuldade** de demolir e de reformar é que é desvantagem do concreto armado.\n\n**Para memorizar:** vantagens: durável, moldável, monolítico, resiste a fogo e intempéries. Desvantagens: peso próprio alto, difícil de demolir e reformar, exige fôrmas e escoramento, impacto ambiental."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Assinale a alternativa que indica corretamente o tipo de lâmpada cuja luz é produzida por um filamento aquecido pela passagem de corrente elétrica alternada ou contínua e que, além disso, foi a primeira lâmpada a ser desenvolvida.",
+   "alternativas": [
+    "LED.",
+    "Fluorescente.",
+    "Descarga.",
+    "Incandescente."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Incandescente.\":** na lâmpada incandescente, a corrente elétrica (alternada ou contínua) atravessa um **filamento** de tungstênio, que esquenta por efeito Joule até ficar incandescente e emitir luz. Foi a primeira lâmpada elétrica a se tornar prática e comercial, com Thomas Edison, em 1879. Como transforma a maior parte da energia em calor, tem baixa eficiência e foi retirada do mercado brasileiro por etapas.\n\n**As outras:**\n- *LED.*: a luz vem de um **diodo semicondutor** (diodo emissor de luz), sem filamento; é a tecnologia mais eficiente e mais recente.\n- *Fluorescente.*: é uma lâmpada de descarga: a descarga elétrica no vapor de mercúrio gera ultravioleta, que o pó fluorescente da parede do tubo transforma em luz visível.\n- *Descarga.*: grupo das lâmpadas em que a luz vem de uma descarga elétrica num gás ou vapor (vapor de sódio, de mercúrio, multivapores metálicos), sem filamento aquecido.\n\n**Para memorizar:** filamento = incandescente (a halógena é uma incandescente melhorada); gás ou vapor = descarga; semicondutor = LED."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "A madeira é um material natural utilizado há muitos séculos e, atualmente, continua sendo um dos mais utilizados na construção civil. Com relação ao uso desse material, assinale a alternativa correta.",
+   "alternativas": [
+    "Não é recomendado o emprego da madeira como elemento estrutural definitivo como, por exemplo, em vigas e pilares.",
+    "Na construção civil, é utilizada apenas em forma, andaimes e escoramentos.",
+    "A madeira é resistente apenas a esforços de tração.",
+    "A madeira apresenta boa resistência a esforços de compressão e de tração."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A madeira apresenta boa resistência a esforços de compressão e de tração.\":** a madeira resiste bem tanto à **compressão** quanto à **tração**, principalmente na direção **paralela às fibras**, e tem ótima relação entre resistência e peso. Por isso é usada como material estrutural (vigas, pilares, tesouras, estruturas de cobertura), com projeto pela NBR 7190. Na direção perpendicular às fibras, a resistência é bem menor.\n\n**As outras:**\n- *Não é recomendado o emprego da madeira como elemento estrutural definitivo…*: é recomendado e comum: telhados, pontes, casas de madeira, madeira laminada colada.\n- *Na construção civil, é utilizada apenas em forma, andaimes e escoramentos.*: além desses usos provisórios, a madeira entra em estruturas, esquadrias, pisos, forros e revestimentos.\n- *A madeira é resistente apenas a esforços de tração.*: resiste também à compressão e à flexão.\n\n**Para memorizar:** madeira: forte ao longo das fibras, fraca no sentido transversal; os inimigos são umidade, fungos e cupins."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "estruturas",
+   "enunciado": "Os materiais de construção são submetidos constantemente a esforços. Assinale a alternativa correta quanto ao esforço a que o material da figura abaixo está sendo submetido.",
+   "imagem": "data/provas/img/idecan-2021-cg-fiscal-obras/q30.webp",
+   "alternativas": [
+    "tração",
+    "compressão",
+    "flexão",
+    "cisalhamento"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"tração\":** na figura, as duas forças F estão na direção do eixo da peça e **saem** dela, em sentidos opostos, puxando cada extremidade para um lado. Esse esforço tende a **alongar** a peça: é a tração. Exemplos na obra: tirantes, cabos e a armadura da parte de baixo de uma viga.\n\n**As outras:**\n- *compressão*: as forças também ficam no eixo, mas **apontam para dentro** da peça e tendem a encurtá-la (pilares).\n- *flexão*: as cargas atuam **perpendicularmente** ao eixo e fazem a peça se curvar (vigas, lajes), com uma face comprimida e a outra tracionada.\n- *cisalhamento*: as forças atuam **paralelas à seção**, em sentidos opostos e próximas, tendendo a cortar a peça, como numa tesoura (parafusos, ligações, apoios de vigas).\n\n**Para memorizar:** setas para fora = tração; setas para dentro = compressão; carga atravessada que entorta = flexão; forças que fazem uma parte deslizar sobre a outra = cisalhamento."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Os materiais cerâmicos, como tijolos cerâmicos e telhas cerâmicas, são largamente utilizados na construção civil. Sobre esse assunto, analise o excerto abaixo:\n\n“Os materiais cerâmicos, utilizados como materiais de construção civil, são obtidos através da moldagem e queima _____________.”\n\nAssinale a alternativa correta que completa a lacuna do excerto acima.",
+   "alternativas": [
+    "do cimento",
+    "da argila",
+    "da madeira",
+    "do gesso"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"da argila\":** os produtos cerâmicos (tijolos, blocos, telhas, revestimentos) são feitos de **argila**: a massa é moldada (extrudada ou prensada), secada e **queimada** em forno a alta temperatura. A queima transforma a argila e dá à peça a resistência mecânica e a estabilidade que a argila crua não tem.\n\n**As outras:**\n- *do cimento*: o cimento é um aglomerante hidráulico, que endurece por reação com a água, sem queima da peça moldada; é ingrediente de concretos e argamassas, não de cerâmicas.\n- *da madeira*: madeira é material orgânico; queimada, vira carvão e cinza.\n- *do gesso*: o gesso vem da gipsita aquecida (desidratada); misturado com água, endurece sozinho. Peças de gesso não são queimadas.\n\n**Para memorizar:** cerâmica = argila + fogo. O adobe é argila só secada ao sol, sem queima, e por isso não é cerâmico."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "As instalações de águas pluviais devem ser projetadas de modo a respeitar as exigências da Norma Técnica. Assinale a alternativa correta sobre o destino das águas pluviais.",
+   "alternativas": [
+    "Não é possível que as águas pluviais infiltrem no solo.",
+    "As águas pluviais podem correr pela sarjeta da rua ou por tubulação enterrada no passeio, e, através do sistema público de coleta, podendo chegar, assim,a um córrego ou rio.",
+    "As águas pluviais não podem ser recolhidas e armazenadas em uma cisterna para um uso posterior.",
+    "Devido a sua elevada temperatura, as águas pluviais não podem escoar pela superfície terrestre."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"As águas pluviais podem correr pela sarjeta da rua…\":** a água de chuva captada pelo sistema predial (calhas e condutores) é levada para fora do lote e lançada na **sarjeta** ou em tubulação sob o passeio, chegando à **rede pública de drenagem** (bocas de lobo, galerias), que deságua em córregos e rios. É o destino previsto na NBR 10844 e nas posturas municipais. Água de chuva não vai para a rede de esgoto.\n\n**As outras:**\n- *Não é possível que as águas pluviais infiltrem no solo.*: a infiltração é possível e desejável (jardins, pisos drenantes, poços e valas de infiltração); muitos municípios exigem taxa de permeabilidade nos lotes.\n- *As águas pluviais não podem ser recolhidas e armazenadas em uma cisterna…*: podem; o aproveitamento de água de chuva para fins não potáveis tem norma própria (NBR 15527).\n- *Devido a sua elevada temperatura…*: afirmação sem sentido; a água de chuva escoa normalmente pela superfície.\n\n**Para memorizar:** a chuva infiltra, é aproveitada ou vai para a drenagem pública; nunca para o esgoto."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Uma das etapas mais importantes na preparação do concreto é saber a proporção entre seus componentes. Assinale a alternativa correta que indica o nome que se dá à proporção entre os materiais que constituem o concreto.",
+   "alternativas": [
+    "corte",
+    "slump",
+    "traço",
+    "divisão"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"traço\":** **traço** é a proporção entre os materiais do concreto (ou da argamassa), indicada na ordem **cimento : areia : brita**, em massa ou em volume, junto com a relação água/cimento. Exemplo: traço 1:2:3 = 1 parte de cimento, 2 de areia e 3 de brita. A **dosagem** é o estudo que define o traço para atingir a resistência e a trabalhabilidade desejadas.\n\n**As outras:**\n- *corte*: não é termo de dosagem; na obra, corte é a escavação do terreno na terraplenagem.\n- *slump*: é o **abatimento do tronco de cone**, ensaio que mede a consistência (trabalhabilidade) do concreto fresco, e não a proporção dos materiais.\n- *divisão*: não é termo técnico do concreto.\n\n**Para memorizar:** traço = receita; slump = teste de consistência feito na chegada do caminhão, antes do lançamento."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Assinale a alternativa correta com relação ao projeto do sistema de instalação predial de esgoto.",
+   "alternativas": [
+    "Deve permitir o acesso de corpos estranhos ao interior do sistema.",
+    "Deve permitir o acesso de esgoto ao subsistema de ventilação.",
+    "Deve permitir que os gases provenientes do interior do sistema predial de esgoto sanitário atinjam a área de utilização.",
+    "Deve permitir o rápido escoamento da água utilizada, evitando a ocorrência de vazamentos e a formação de depósitos no interior das tubulações."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Deve permitir o rápido escoamento da água utilizada…\":** a NBR 8160 (sistemas prediais de esgoto sanitário) lista o que o sistema deve garantir: evitar a contaminação da água potável; permitir o **rápido escoamento** dos despejos, sem vazamentos nem depósitos nas tubulações; **impedir** que os gases do esgoto cheguem às áreas de utilização; **impossibilitar** a entrada de corpos estranhos; impedir que o esgoto chegue ao subsistema de ventilação; e permitir a inspeção dos componentes.\n\n**As outras:**\n- *Deve permitir o acesso de corpos estranhos ao interior do sistema.*: é o contrário; corpos estranhos entopem a tubulação.\n- *Deve permitir o acesso de esgoto ao subsistema de ventilação.*: a ventilação deve ficar livre de esgoto para equilibrar as pressões e proteger os fechos hídricos.\n- *Deve permitir que os gases provenientes do interior…*: os gases devem ser **impedidos** de chegar às áreas de uso; para isso existem os desconectores (sifões, caixas sifonadas) com fecho hídrico e a ventilação.\n\n**Para memorizar:** a banca troca \"impedir\" por \"permitir\". Esgoto: escoar rápido, não vazar, não cheirar, não entupir."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Uma instalação elétrica é definida pelo conjunto de materiais e componentes elétricos essenciais ao funcionamento de um circuito ou sistema elétrico. As instalações elétricas prediais são projetadas de acordo com normas e regulamentações definidas, principalmente, pela Associação Brasileira de Normas Técnicas (ABNT). Sobre os materiais utilizados nas instalações elétricas prediais, assinale a alternativa correta.",
+   "alternativas": [
+    "Os condutores são elementos de ligação entre os quadros e os pontos de luz, de tomada, entre outros.Ou seja, são por eles que a corrente elétrica percorre.",
+    "Em circuitos residenciais, os condutores fase e neutro não podem ter a mesma bitola.",
+    "Os eletrodutos são tubos exclusivamente de metal, rígidos e não flexíveis, utilizados com a finalidade de conter os condutores elétricos e protegê-los deumidade, ácidos, gases ou choques mecânicos.",
+    "A caixa de passagem serve para dissipar as correntes elétricas, conectando todos os condutores neutro de uma residência em um único ponto."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Os condutores são elementos de ligação entre os quadros e os pontos de luz…\":** os **condutores** (fios e cabos) ligam o quadro de distribuição aos pontos de utilização (luz, tomadas, equipamentos); é por eles que a corrente elétrica circula.\n\n**As outras:**\n- *Em circuitos residenciais, os condutores fase e neutro não podem ter a mesma bitola.*: é o contrário: pela NBR 5410, em circuitos monofásicos o neutro deve ter, no mínimo, a **mesma seção** do condutor fase.\n- *Os eletrodutos são tubos exclusivamente de metal, rígidos e não flexíveis…*: há eletrodutos de **PVC** e metálicos, **rígidos e flexíveis** (corrugados). A função de conter e proteger os condutores está certa; o \"exclusivamente\" é que estraga.\n- *A caixa de passagem serve para dissipar as correntes elétricas…*: a caixa de passagem serve para **facilitar a enfiação**, as emendas e as derivações. Reunir os neutros num ponto é papel do barramento de neutro do quadro, e escoar correntes de falta é função do aterramento.\n\n**Para memorizar:** condutor conduz; eletroduto protege; caixa dá acesso; disjuntor e DR protegem o circuito e as pessoas."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-eletricas-incendio-spda",
+   "enunciado": "Sobre os dispositivos de manobra e proteção das instalações elétricas prediais, assinale a alternativa correta.",
+   "alternativas": [
+    "A proteção dos disjuntores pode estar relacionada com sobrecorrentes, que é uma corrente elétrica cujo valor não excede o valor da corrente nominal de funcionamento de determinado equipamento.",
+    "Os disjuntores são dispositivos de proteção e interrupção eventual de circuitos.",
+    "Os disjuntores podem ser apenas do tipo monopolar e tripolar.",
+    "O disjuntor, assim como o fusível, queima quando acionado para proteger um equipamento ou circuito, havendo a necessidade de ser trocado."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Os disjuntores são dispositivos de proteção e interrupção eventual de circuitos.\":** o disjuntor protege o circuito contra **sobrecorrentes** (sobrecarga e curto-circuito), desligando-o automaticamente, e também pode ser acionado à mão para abrir o circuito, por exemplo, numa manutenção. Depois de desarmar, basta religá-lo.\n\n**As outras:**\n- *A proteção dos disjuntores pode estar relacionada com sobrecorrentes, que é uma corrente…*: o erro está na definição: **sobrecorrente** é a corrente que **excede** o valor nominal, e não a que \"não excede\".\n- *Os disjuntores podem ser apenas do tipo monopolar e tripolar.*: existem também os **bipolares**, usados, por exemplo, em chuveiros e circuitos de 220 V entre duas fases.\n- *O disjuntor, assim como o fusível, queima quando acionado…*: o **fusível** queima e precisa ser trocado; o **disjuntor** apenas desarma e pode ser **rearmado**.\n\n**Para memorizar:** fusível = descartável; disjuntor = rearmável. Sobrecorrente = acima do nominal (sobrecarga ou curto-circuito)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "A instalação hidráulica predial de um determinado edifício possui um reservatório superior. Assinale a alternativa que apresenta elementos que podem fazer parte desse reservatório.",
+   "alternativas": [
+    "Tubo extravasor e barrilete.",
+    "Barrilete e cavalete.",
+    "Cavalete e hidrante.",
+    "Caixa para registro de calçada e boia."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Tubo extravasor e barrilete.\":** o reservatório superior tem a entrada de água com **torneira de boia**; o **extravasor** (ladrão), que escoa o excesso se a boia falhar e deve descarregar em local visível; a tubulação de **limpeza**, no fundo; e a saída para o **barrilete**, a tubulação que parte do reservatório e distribui a água para as colunas.\n\n**As outras:**\n- *Barrilete e cavalete.*: o **cavalete** fica na entrada do lote, junto ao alinhamento: é o conjunto de tubos e conexões onde se instala o hidrômetro.\n- *Cavalete e hidrante.*: o **hidrante** é um ponto de tomada d'água do sistema de combate a incêndio, não uma peça do reservatório.\n- *Caixa para registro de calçada e boia.*: a boia faz parte do reservatório, mas a **caixa do registro de calçada** fica no passeio, no ramal da concessionária.\n\n**Para memorizar:** do lado da rua: registro de calçada, ramal predial e cavalete com hidrômetro. No reservatório: boia, extravasor, limpeza e barrilete."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Os sistemas de abastecimento e instalação de água podem ser classificados como direto, indireto e misto. Sobre o sistema direto utilizado em um determinado edifício, assinale a alternativa correta.",
+   "alternativas": [
+    "Caso o sistema da concessionária seja interrompido, há falta de água no edifício, pois sistema direto não dispõe de reservatório.",
+    "Utiliza bombas ou reservatórios para garantir o abastecimento para o edifício.",
+    "Faz-se necessário um tratamento da água que chega ao edifício, pois não há cloro na rede da concessionária.",
+    "A pressão de chegada da água é sempre menor em edifícios situados em pontos baixos da cidade."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Caso o sistema da concessionária seja interrompido, há falta de água…\":** no **sistema direto**, os pontos de consumo são alimentados diretamente pela rede pública, sem reservatório. É simples e barato, mas depende totalmente da rede: se o abastecimento é interrompido, falta água no edifício na hora; além disso, a pressão nos pontos varia com a pressão da rede.\n\n**As outras:**\n- *Utiliza bombas ou reservatórios para garantir o abastecimento…*: isso descreve o sistema **indireto**, com reservatório, com ou sem bombeamento.\n- *Faz-se necessário um tratamento da água que chega ao edifício…*: a água da rede pública já chega tratada, com cloro residual; o sistema direto não exige tratamento extra.\n- *A pressão de chegada da água é sempre menor em edifícios situados em pontos baixos…*: é o contrário: nos pontos **baixos** da cidade a pressão costuma ser **maior**, porque o desnível em relação aos reservatórios públicos é maior.\n\n**Para memorizar:** direto = sem caixa d'água; indireto = com reservatório; misto = parte direto da rua, parte pelo reservatório."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Assinale a alternativa que indica corretamente o sistema de abastecimento predial no qual alguns equipamentos hidráulicos do edifício podem ser alimentados pela rede pública de abastecimento de água e outros que podem ser alimentados por cisternas ou reservatórios do próprio edifício.",
+   "alternativas": [
+    "Sistema direto.",
+    "Sistema indireto com bombeamento.",
+    "Sistema indireto sem bombeamento.",
+    "Sistema misto."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Sistema misto.\":** no **sistema misto**, parte dos pontos de consumo é ligada **direto à rede pública** (por exemplo, a torneira do jardim e a pia da cozinha) e o restante é alimentado pelo **reservatório** do edifício. É muito comum em casas no Brasil.\n\n**As outras:**\n- *Sistema direto.*: todos os pontos são alimentados diretamente pela rede, sem reservatório.\n- *Sistema indireto com bombeamento.*: todos os pontos saem do reservatório; a água é recalcada por bombas do reservatório inferior (cisterna) para o superior.\n- *Sistema indireto sem bombeamento.*: todos os pontos saem do reservatório superior, que se enche pela própria pressão da rede, sem bombas.\n\n**Para memorizar:** \"alguns pontos pela rua e outros pela caixa\" = misto. Todos pela caixa = indireto; todos pela rua = direto."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "A instalação predial de esgoto destina-se a coletar, conduzir e afastar da edificação todos os despejos provenientes do uso dos aparelhos sanitários. Sobre as instalações prediais do sistema de esgoto, assinale a alternativa correta.",
+   "alternativas": [
+    "O sistema predial de esgoto completo compreende desde a captação do efluente nos pontos de consumo até seu despejo na fossa do edifício, antes de entrar na rede pública de coleta.",
+    "Ramal de descarga é a tubulação que recebe diretamente os efluentes do ramal de esgoto.",
+    "Ramal de ventilação é um tubo ventilador que interliga o ramal de esgoto com o ramal de água fria.",
+    "Ramal de esgoto é a tubulação primária que recebe os efluentes dos ramais de descarga diretamente ou a partir de um desconector."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Ramal de esgoto é a tubulação primária…\":** é a definição da NBR 8160: o **ramal de esgoto** é a tubulação **primária** que recebe os efluentes dos **ramais de descarga**, diretamente ou a partir de um **desconector** (como a caixa sifonada), e os leva ao tubo de queda ou ao subcoletor. \"Primária\" quer dizer que os gases do coletor público têm acesso a ela, ou seja, fica depois do fecho hídrico.\n\n**As outras:**\n- *O sistema predial de esgoto completo compreende…*: o sistema vai dos aparelhos até o **coletor público** ou, onde não há rede, até o sistema particular de tratamento (como a fossa séptica). Fossa antes da rede pública não é regra.\n- *Ramal de descarga é a tubulação que recebe diretamente os efluentes do ramal de esgoto.*: inverte a ordem: o ramal de **descarga** recebe os efluentes **dos aparelhos sanitários** e os entrega ao ramal de esgoto.\n- *Ramal de ventilação é um tubo ventilador que interliga o ramal de esgoto com o ramal de água fria.*: esgoto nunca se liga à água fria. O ramal de ventilação liga o desconector ou o ramal à coluna de ventilação ou ao tubo ventilador primário.\n\n**Para memorizar:** aparelho → ramal de descarga → desconector → ramal de esgoto → tubo de queda → subcoletor → coletor predial → rede pública."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Os reservatórios em instalações prediais, de maneira geral, utilizam a torneira de boia. Assinale a alternativa que apresenta uma das funções da torneira de boia.",
+   "alternativas": [
+    "Liberar a água para o ramal de distribuição.",
+    "Permitir o acesso à reserva de incêndio.",
+    "Regular o nível da água do reservatório.",
+    "Realizar a transferência do reservatório superior à rede pública de distribuição."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Regular o nível da água do reservatório.\":** a **torneira de boia** fica na entrada de água do reservatório. A boia sobe com o nível: quando a água chega ao máximo, ela fecha a entrada; quando o nível baixa, abre de novo. Assim o reservatório se mantém cheio sem transbordar. Se a boia falhar, o **extravasor** (ladrão) escoa o excesso.\n\n**As outras:**\n- *Liberar a água para o ramal de distribuição.*: a saída do reservatório é feita pelo **barrilete**, controlada por **registros**.\n- *Permitir o acesso à reserva de incêndio.*: a reserva técnica de incêndio é garantida pela posição das saídas (a de consumo fica acima da de incêndio), não pela boia.\n- *Realizar a transferência do reservatório superior à rede pública…*: a água não volta do reservatório para a rede pública; o fluxo é sempre da rede para o edifício.\n\n**Para memorizar:** a boia controla a **entrada**; o registro controla a **saída**; o extravasor é o \"plano B\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "O telhado colonial, como opróprio nome sugere, utiliza as telhas coloniais, que podem ser utilizadas com sua cor natural ou pintadas, de acordo com a preferência do morador. Baseando-se nesse tipo de telhado, assinale a alternativa correta.",
+   "alternativas": [
+    "As telhas cerâmicas não absorvem água, portanto não ficam manchadas.",
+    "As telhas cerâmicas são mais resistentes que o concreto e muito mais leves.",
+    "O telhado e a telha colonial não podem ser utilizados em telhados do tipo “meia água”.",
+    "Seu formato e inclinação são excelentes para vazão de água, sendo um ótimo telhado para lugares onde chove muito."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Seu formato e inclinação são excelentes para vazão de água…\":** a telha colonial (capa e canal) forma canais contínuos que conduzem bem a água, e o telhado colonial é executado com inclinação acentuada, definida pelo fabricante da telha. A combinação dá bom escoamento em regiões de muita chuva.\n\n**As outras:**\n- *As telhas cerâmicas não absorvem água, portanto não ficam manchadas.*: a cerâmica é **porosa** e absorve água; por isso a telha escurece, cria limo e mancha (a norma de telhas cerâmicas apenas limita essa absorção).\n- *As telhas cerâmicas são mais resistentes que o concreto e muito mais leves.*: comparação exagerada e invertida: a telha de concreto é que é conhecida pela maior resistência mecânica.\n- *O telhado e a telha colonial não podem ser utilizados em telhados do tipo \"meia água\".*: podem; meia-água é só o telhado de **um caimento**, e a telha colonial serve, desde que respeitada a inclinação mínima.\n\n**Para memorizar:** telha cerâmica é porosa e pede inclinação; quanto mais inclinado o telhado, melhor o escoamento."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "vedacoes-coberturas-impermeabilizacao",
+   "enunciado": "A respeito das ripas utilizadas nas cobertas, analise:\n\n“A ripa é um elemento _____________ do telhado, que possui uma pequena seção transversal, se comparada com o caibro, e serve para distribuir melhor as cargas geradas pela cobertura”.\n\nAssinale a alternativa correta que completa a lacuna contida no excerto acima.",
+   "alternativas": [
+    "apenas decorativo",
+    "apenas de aço",
+    "estrutural",
+    "considerado o reboco"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"estrutural\":** a ripa faz parte da **estrutura** (a trama) do telhado. A sequência é: tesouras ou vigas → **terças** → **caibros** → **ripas** → telhas. As ripas são as peças de menor seção, pregadas sobre os caibros, e nelas as telhas se apoiam e se encaixam; o espaçamento entre ripas (a \"galga\") depende do modelo da telha.\n\n**As outras:**\n- *apenas decorativo*: a ripa recebe e transmite o peso das telhas; não é enfeite.\n- *apenas de aço*: em geral é de madeira; existem ripas metálicas, mas não \"apenas de aço\".\n- *considerado o reboco*: reboco é revestimento de parede, de argamassa; nada tem a ver com a cobertura.\n\n**Para memorizar:** de cima para baixo: telha → ripa → caibro → terça → tesoura. A ripa é a última peça da trama."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Em uma determinada residência com 3 andares, existe um banheiro em cada andar, situados abaixo da caixa d’água que está acima do 3º andar da residência. Considerando que todos os aparelhos sanitários são exatamente iguais, assim como as tubulações utilizadas na residência, assinale a alternativa correta com relação à pressão que a água chega em cada um dos banheiros (considere apenas a diferença de nível entre os banheiros e a caixa d’água).",
+   "alternativas": [
+    "A pressão da água que chega aos 3 banheiros é a mesma.",
+    "A pressão da água que chega ao banheiro do 1º andar é menor que a pressão nos outros 2 banheiros.",
+    "A pressão da água que chega ao banheiro do 2º andar é maior que a pressão no banheiro do 3º andar.",
+    "A pressão da água que chega ao banheiro do 3º andar é maior que os outros 2 banheiros."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A pressão da água que chega ao banheiro do 2º andar é maior que a pressão no banheiro do 3º andar.\":** considerando só o desnível, a pressão estática num ponto é proporcional à altura da coluna de água acima dele (p = γ · h; cerca de 1 m.c.a., ou 10 kPa, por metro de desnível). Quanto mais **abaixo** da caixa d'água, **maior** a pressão. O 2º andar está mais longe da caixa que o 3º, então recebe pressão maior. A ordem é: 1º andar > 2º > 3º.\n\n**As outras:**\n- *A pressão da água que chega aos 3 banheiros é a mesma.*: só seria igual se os três estivessem no mesmo nível.\n- *A pressão da água que chega ao banheiro do 1º andar é menor…*: o 1º andar é o mais baixo e tem a **maior** pressão.\n- *A pressão da água que chega ao banheiro do 3º andar é maior…*: o 3º andar, mais perto da caixa, tem a **menor** pressão; é onde o chuveiro costuma ficar \"fraco\".\n\n**Para memorizar:** pressão estática = altura da água acima do ponto. Último andar = pressão mínima."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "A água para consumo, ou água potável, deve ser incolor, inodora e insípida, e deve ser tratada. A água bruta, captada em mananciais como lagos, rios, nascentes ou poços profundos, segue até o local de tratamento por canalizações chamadas adutoras de água bruta. Assinale a alternativa que indica corretamente o nome do local de tratamento da água bruta.",
+   "alternativas": [
+    "Estação de Tratamento de Esgoto (ETE).",
+    "Local de Tratamento de Águas de Nascentes (LTAN).",
+    "Local de Captação de Água Limpa (LCAL).",
+    "Estação de Tratamento de Água (ETA)."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Estação de Tratamento de Água (ETA).\":** a água bruta captada no manancial segue pelas adutoras até a **ETA**, onde passa por coagulação, floculação, decantação, filtração e desinfecção (cloro) e, em geral, por fluoretação e correção de pH. Depois, a água tratada vai para os reservatórios e para a rede de distribuição.\n\n**As outras:**\n- *Estação de Tratamento de Esgoto (ETE).*: trata o **esgoto** coletado antes de devolvê-lo ao rio ou ao mar; é a outra ponta do saneamento.\n- *Local de Tratamento de Águas de Nascentes (LTAN).*: nome inventado.\n- *Local de Captação de Água Limpa (LCAL).*: nome inventado; captação é a retirada da água no manancial, antes do tratamento.\n\n**Para memorizar:** ETA trata água para beber; ETE trata esgoto. Captação → adução → ETA → reservação → distribuição."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "São necessários alguns procedimentos burocráticos antes do início da obra, importantes para dar ciência aos órgãos competentes sobre a intenção de construir em determinado local. Um desses documentos é a Certidão de Ônus Reais, que deve ser encaminhada ao órgão competente. Assinale a alternativa que indica corretamente do que trata esse documento.",
+   "alternativas": [
+    "É a certidão que possui informações referentes ao imóvel, desde a aquisição do terreno até a sua aquisição e adquirente atual, incluindo eventuais penhoras, averbações, registros, enfim, todos os atos realizados na matrícula do imóvel.",
+    "É a certidão com as informações do atual proprietário, incluindo eventuais financiamentos e dívida com banco do proprietário de um imóvel.",
+    "É o documento que autoriza a secretaria responsável pelo urbanismo da cidade a acompanhar o avanço da obra.",
+    "É a certidão expedida pela prefeitura que permite conhecer os ex-proprietários de um imóvel."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"É a certidão que possui informações referentes ao imóvel…\":** a **certidão de ônus reais** é emitida pelo **Cartório de Registro de Imóveis** a partir da **matrícula** do imóvel e mostra se há ônus ou gravames sobre ele (hipoteca, penhora, alienação fiduciária, usufruto, servidão, ações registradas), além dos registros e averbações. Na licença de construção, a prefeitura pede a prova da propriedade: em Campina Grande, o Código de Obras (Lei 5.410/2013, art. 24, II) exige cópia do comprovante de propriedade emitido pelo Cartório de Registro de Imóveis (ou documento de posse, ou contrato de compra e venda).\n\n**As outras:**\n- *É a certidão com as informações do atual proprietário…*: a certidão trata do **imóvel**, não das dívidas pessoais do dono; um financiamento só aparece se gravar o imóvel (hipoteca ou alienação fiduciária).\n- *É o documento que autoriza a secretaria responsável pelo urbanismo…*: a certidão não autoriza nada; o acompanhamento da obra decorre do alvará de construção e do poder de polícia do município.\n- *É a certidão expedida pela prefeitura que permite conhecer os ex-proprietários…*: quem emite é o **cartório**, não a prefeitura.\n\n**Para memorizar:** cartório de imóveis = matrícula, propriedade e ônus; prefeitura = alvará, habite-se e cadastro do IPTU."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Sobre o documento “Habite-se”, assinale a alternativa correta.",
+   "alternativas": [
+    "É um documento que permite o início de uma obra.",
+    "É um documento emitido pelo cartório mais próximo do imóvel.",
+    "É um documento que garante que a construção do imóvel foi concluída com êxito, permitindo que se possa residir no local.",
+    "É um documento emitido no início da obra e permite a continuidade da mesma."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"É um documento que garante que a construção do imóvel foi concluída com êxito…\":** o **habite-se** (ou certidão de conclusão de obra) é emitido pela **prefeitura** depois da **vistoria final**: atesta que a obra foi concluída de acordo com o projeto aprovado e com a legislação e que o imóvel pode ser ocupado. Sem ele, a ocupação é irregular, e a construção não pode ser averbada na matrícula do imóvel. Em Campina Grande, o Código de Obras (Lei 5.410/2013) trata do tema nos arts. 45 a 52: o proprietário pede o habite-se com o alvará e o projeto aprovado (art. 46), e ele só sai se o projeto foi integralmente observado, o passeio estiver pavimentado, o esgoto ligado à rede (ou a fossa e sumidouro) e as águas pluviais bem escoadas (art. 50).\n\n**As outras:**\n- *É um documento que permite o início de uma obra.*: quem autoriza o início é o **alvará de construção** (licença para construir).\n- *É um documento emitido pelo cartório mais próximo do imóvel.*: quem emite é a prefeitura; o cartório apenas **averba** a construção com base no habite-se.\n- *É um documento emitido no início da obra e permite a continuidade da mesma.*: o habite-se é o documento do **fim** da obra.\n\n**Para memorizar:** o alvará abre a obra (art. 34); o habite-se fecha. O habite-se parcial (art. 48) não substitui o habite-se final."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "Durante uma obra, Antônio pediu que José “fizesse um traço de 1:2:2”. José, muito experiente, sabia exatamente o que ele devia misturar. Assinale a alternativa que indica corretamente a mistura que José deve fazer para atender à solicitação de Antônio.",
+   "alternativas": [
+    "1 parte de areia, 2 partes de brita e 2 partes de cimento.",
+    "1 parte de cimento, 2 partes de areia e 2 partes de brita.",
+    "1 parte de cimento, 2 partes de brita e 2 partes de água.",
+    "1 parte de brita, 2 partes de areia e 2 partes de cimento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"1 parte de cimento, 2 partes de areia e 2 partes de brita.\":** o traço do concreto é indicado na ordem **cimento : agregado miúdo (areia) : agregado graúdo (brita)**. \"1:2:2\" significa 1 parte de cimento, 2 de areia e 2 de brita, em massa ou em volume, conforme o combinado. A água não entra nesses três números: é indicada à parte, pela relação água/cimento.\n\n**As outras:**\n- *1 parte de areia, 2 partes de brita e 2 partes de cimento.*: começa pela areia; o cimento é sempre a unidade de referência, o \"1\".\n- *1 parte de cimento, 2 partes de brita e 2 partes de água.*: põe a brita no lugar da areia e a água dentro do traço; a água entra pela relação a/c (algo como 0,5, e não \"2 partes\").\n- *1 parte de brita, 2 partes de areia e 2 partes de cimento.*: inverte a posição do cimento.\n\n**Para memorizar:** traço = cimento : areia : brita, mais o fator a/c. O cimento é o \"1\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Assinale a alternativa correta com relação às instalações de águas pluviais.",
+   "alternativas": [
+    "Deve-se interligar as instalações prediais (água fria e esgoto) diretamente com a instalação de hidráulica de recolhimento das águas pluviais.",
+    "As calhas e condutores horizontais de água pluvial não podem apresentar declividade.",
+    "O sistema de coleta e condução de águas pluviais não pode ser usados para receber efluentes de esgotos sanitário.",
+    "Não é permitido o uso de caixas de areia para os condutores horizontais de água pluvial."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O sistema de coleta e condução de águas pluviais não pode ser usados para receber efluentes…\":** a NBR 10844 exige que a instalação de águas pluviais seja **exclusiva** para água de chuva: não pode receber esgoto nem ser ligada à rede de esgoto. No Brasil, o sistema público é **separador absoluto**: esgoto numa rede, chuva em outra. Misturar os dois sobrecarrega as estações de tratamento e leva esgoto aos rios pela drenagem.\n\n**As outras:**\n- *Deve-se interligar as instalações prediais (água fria e esgoto)…*: é proibido; cada sistema é independente.\n- *As calhas e condutores horizontais de água pluvial não podem apresentar declividade.*: devem ter declividade **uniforme**, com mínimo de **0,5%**, para a água escoar.\n- *Não é permitido o uso de caixas de areia para os condutores horizontais…*: ao contrário: nas tubulações **enterradas**, a norma prevê **caixas de areia** nas conexões, nas mudanças de direção ou de declividade e ao longo de trechos retos longos, para inspeção e retenção de sedimentos.\n\n**Para memorizar:** chuva e esgoto não se misturam (separador absoluto); calha e condutor horizontal: caimento mínimo de 0,5%."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "texto": "t2",
+   "enunciado": "Assinale a alternativa correta ainda sobre a Figura I.",
+   "alternativas": [
+    "A tubulação utilizada para limpeza do reservatório está identificada pelo número 2.",
+    "A tubulação de recalque está identificada pelo número 9.",
+    "Para o combate a incêndio utiliza-se a tubulação identificada pelo número 9.",
+    "O elemento identificado pelo número 6 é um registro de boia."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A tubulação de recalque está identificada pelo número 9.\":** o tubo 9 sobe pelo lado de fora do reservatório e entra pela parte de cima da célula da esquerda, onde termina na **torneira de boia** (a peça horizontal no alto). É a tubulação que **alimenta** o reservatório superior; em prédio com bombas, ela vem do reservatório inferior e se chama **recalque**.\n\n**Leitura da Figura I:** 9 = alimentação (recalque), que entra por cima e termina na torneira de boia; 6 = registros nas saídas do fundo; 5 = válvulas de retenção; 4 = descida da saída de consumo para o barrilete (a tubulação horizontal de baixo); 1 = colunas de distribuição; 2 = tubulação de incêndio; 3 = limpeza; 8 = faixa de cima da água (consumo); 7 = faixa de baixo (reserva de incêndio); 10 = tampas de inspeção.\n\n**As outras:**\n- *A tubulação utilizada para limpeza do reservatório está identificada pelo número 2.*: o 2 é a descida da tubulação de **incêndio**; a limpeza é o 3, que sai das tomadas mais baixas.\n- *Para o combate a incêndio utiliza-se a tubulação identificada pelo número 9.*: o 9 **entra** no reservatório; não sai dele.\n- *O elemento identificado pelo número 6 é um registro de boia.*: o 6 é um dos **registros** das saídas do fundo; a boia fica dentro do reservatório, na ponta do tubo 9.\n\n**Para memorizar:** entra por cima, com boia = alimentação; sai pelo fundo = consumo, incêndio e limpeza."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "texto": "t2",
+   "enunciado": "Assinale a alternativa correta de acordo com a Figura I acima.",
+   "alternativas": [
+    "A tubulação utilizada para combate a incêndio está identificada pelo número 3.",
+    "A reserva técnica disponível para combater um incêndio é a identificada pelo número 8.",
+    "A válvula de retenção identificada pelo número 5 está conectada à tubulação de combate a incêndio, identificada pelo número 2.",
+    "As tubulações identificadas pelo número 1 são as tubulações de recalque."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A válvula de retenção identificada pelo número 5 está conectada à tubulação de combate a incêndio, identificada pelo número 2.\":** em cada célula, a tomada do meio passa por um registro (6) e por uma **válvula de retenção** (5, o círculo com um X), desce e segue até a tubulação 2, que leva a água aos **hidrantes**. A retenção só deixa a água passar num sentido e impede o retorno, por exemplo quando a bomba de incêndio pressuriza a rede. Essa tomada fica **abaixo** da tomada de consumo; por isso a água de baixo (7) fica guardada para o incêndio.\n\n**As outras:**\n- *A tubulação utilizada para combate a incêndio está identificada pelo número 3.*: o 3 sai das tomadas mais baixas, quase rente ao fundo, e serve para **limpeza** (esvaziamento) do reservatório.\n- *A reserva técnica disponível para combater um incêndio é a identificada pelo número 8.*: o 8 é a faixa de cima da água, a primeira gasta no consumo diário; a reserva de incêndio é a parte de baixo, que a tomada de consumo não alcança.\n- *As tubulações identificadas pelo número 1 são as tubulações de recalque.*: as tubulações 1 descem do barrilete para os pontos de uso: são **colunas de distribuição**. O recalque é o 9.\n\n**Para memorizar:** reserva de incêndio = água abaixo da tomada de consumo. A tomada de consumo fica mais alta justamente para proteger esse volume."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "texto": "t2",
+   "enunciado": "Ainda sobre a Figura I, assinale a alternativa correta.",
+   "alternativas": [
+    "A tubulação identificada pelo número 9 é a coluna ou ramal de distribuição de água fria.",
+    "A tubulação identificada pelo número 3 é utilizada para limpeza do reservatório.",
+    "A água disponível para consumo e abastecimento das residências está identificada pelo número 7.",
+    "Os elementos identificados pelo número 10 são utilizados para captação de águas pluviais."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A tubulação identificada pelo número 3 é utilizada para limpeza do reservatório.\":** o tubo 3 sai das tomadas **mais baixas**, quase rente ao fundo de cada célula, e segue para fora: é a tubulação de **limpeza** (dreno), aberta para esvaziar e lavar o reservatório. Precisa sair do ponto mais baixo para retirar a água e o lodo acumulado no fundo.\n\n**As outras:**\n- *A tubulação identificada pelo número 9 é a coluna ou ramal de distribuição de água fria.*: o 9 **entra** no reservatório, com a boia na ponta: é a alimentação (recalque). As colunas de distribuição são as tubulações 1.\n- *A água disponível para consumo e abastecimento das residências está identificada pelo número 7.*: o 7 marca a faixa de baixo da água, abaixo da tomada de consumo, que fica como reserva de incêndio; a água de consumo é a faixa de cima (8).\n- *Os elementos identificados pelo número 10 são utilizados para captação de águas pluviais.*: o 10 são as **tampas de inspeção**, o acesso para limpeza e manutenção. Reservatório de água potável deve ser fechado justamente para não entrar chuva, insetos e sujeira.\n\n**Para memorizar:** limpeza sai do fundo; incêndio sai um pouco acima; consumo sai mais alto; alimentação entra por cima, com boia."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "instalacoes-hidrossanitarias",
+   "enunciado": "Uma creche, que possui 50 crianças e 20 funcionários, ficará 3 dias sem água devido a uma operação de manutenção programada pela concessionária local. A diretora da creche irá solicitar um caminhão pipa para que a creche funcione normalmente. Sabendo que o consumo *per capta* adotado para a creche é de 50 litros/pessoa, assinale a alternativa que indica a quantidade de água que a diretora vai solicitar.",
+   "alternativas": [
+    "2250 litros.",
+    "3000 litros.",
+    "3500 litros.",
+    "4000 litros."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"3500 litros.\":** é a resposta oficial. A conta da banca: a creche tem 50 crianças + 20 funcionários = **70 pessoas**; com consumo de **50 litros por pessoa**, 70 × 50 = **3.500 litros**. A banca tratou os 50 litros/pessoa como o consumo de cada pessoa no período da falta d'água, sem multiplicar pelos 3 dias.\n\n**As outras:**\n- *2250 litros.*: não corresponde a nenhuma conta coerente com os dados.\n- *3000 litros.*: seria só a água dos 20 funcionários nos 3 dias (20 × 50 × 3), esquecendo as crianças.\n- *4000 litros.*: daria 80 pessoas × 50 L; não há 80 pessoas na creche.\n\n**Para memorizar:** consumo diário = população × consumo per capita (a grafia correta é *per capita*); volume para vários dias = consumo diário × número de dias.\n\nPonto discutível: nas tabelas de consumo predial, o per capita é por **dia** (para creche, costuma aparecer 50 L por pessoa por dia). Por esse critério, a creche precisaria de 70 × 50 × 3 = **10.500 litros**, valor que não está entre as alternativas. Como o enunciado escreveu só \"litros/pessoa\", a banca manteve 3.500 L."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "“É aglomerante ativo e hidráulico obtido a partir do cozimento de calcários naturais ou artificiais”.\n\nAssinale a alternativa correta que identifica o material utilizado na construção civil descrito na afirmativa acima.",
+   "alternativas": [
+    "Cimento.",
+    "Cal.",
+    "Plástico.",
+    "Polímero."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Cimento.\":** a definição é a do cimento: **aglomerante ativo** (endurece por reação química, ao contrário dos inertes, como a argila crua) e **hidráulico** (endurece com a água e, depois de endurecido, resiste a ela). O cimento Portland vem do **clínquer**, obtido pelo cozimento de uma mistura de calcário e argila em fornos a cerca de 1.450 °C e depois moído com gesso. Essa mistura de calcário e argila é o \"calcário artificial\" do enunciado.\n\n**As outras:**\n- *Cal.*: a cal comum (cal aérea) também vem da queima do calcário, mas é aglomerante **aéreo**: endurece pela reação com o gás carbônico do ar e não resiste bem à água. É a pegadinha da questão.\n- *Plástico.*: material sintético, derivado do petróleo; não é aglomerante mineral.\n- *Polímero.*: idem; polímeros entram na obra como tubos, mantas, aditivos e resinas, não como aglomerante hidráulico.\n\n**Para memorizar:** aéreos: cal aérea e gesso (endurecem no ar). Hidráulicos: cimento e cal hidráulica (endurecem com a água e resistem a ela)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "projeto-etapas-representacao",
+   "enunciado": "Sobre a planta de locação de um projeto de construção civil, analise o excerto abaixo:\n\n“A planta de locação, também conhecida como planta de localização, deve conter ____________.”\n\nAssinale a alternativa correta que completa a lacuna acima.",
+   "alternativas": [
+    "o custo da obra",
+    "a vista da fachada da edificação",
+    "as curvas de nível do terreno",
+    "o nome do mestre de obra"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O motivo mais provável aparece no caderno: as alternativas saíram com as letras erradas (a primeira veio marcada como \"a.\" e as outras como A, B e C, sem a D), o que deixou a marcação na folha de respostas ambígua. A resposta pretendida parece ser \"as curvas de nível do terreno\".\n\nSobre o assunto: a **planta de situação** mostra o terreno na quadra (ruas, lotes vizinhos, orientação do norte). A **planta de locação** (ou de implantação) mostra a posição da edificação dentro do lote, com as dimensões do terreno, os **recuos e afastamentos**, as cotas de nível ou **curvas de nível**, os acessos e as referências para marcar a obra no terreno (o gabarito de locação). O custo da obra fica no orçamento; a vista da fachada é desenho de elevação; e o nome do mestre de obras não vai em prancha nenhuma (no carimbo constam o autor do projeto e o responsável técnico)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A figura a seguir representa um terreno em forma de trapézio, cujo perímetro é igual a 50 metros. Sabendo que os lados do terreno são expressos conforme a figura (todas as unidades estão em metros), assinale a alternativa que indica corretamente a área desse terreno.",
+   "imagem": "data/provas/img/idecan-2021-cg-fiscal-obras/q56.webp",
+   "alternativas": [
+    "80 m².",
+    "140 m².",
+    "165 m².",
+    "280 m²."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"140 m²\":** na figura, os lados verticais, x e x − 2, são as **bases** do trapézio (são paralelos), a distância entre eles, 10 m, é a **altura**, e os lados inclinados medem 4x/5 e 2x/3. Pelo perímetro: x + (x − 2) + 4x/5 + 2x/3 = 50. Multiplicando tudo por 15: 15x + 15x − 30 + 12x + 10x = 750 → 52x = 780 → **x = 15**. As bases medem 15 m e 13 m. Área do trapézio = (B + b) × h ÷ 2 = (15 + 13) × 10 ÷ 2 = **140 m²**.\n\n**As outras:**\n- *80 m².*: não confere com x = 15 e altura de 10 m.\n- *165 m².*: também não sai das medidas corretas das bases.\n- *280 m².*: é (15 + 13) × 10, esquecendo de dividir por 2.\n\n**Para memorizar:** área do trapézio = (base maior + base menor) × altura ÷ 2. As \"bases\" são os lados paralelos, mesmo que estejam em pé no desenho."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "A utilização do gesso como revestimentos, forros e divisórias está cada dia mais frequente. Sobre esse material de construção utilizado em obras, assinale a alternativa correta.",
+   "alternativas": [
+    "O gesso é um material com alta resistência às intempéries.",
+    "Uma grande desvantagem do gesso é a rápida e alta propagação de fogo.",
+    "O gesso é um bom isolante térmico quando aplicado no acabamento de paredes, mantendo a temperatura interna do ambiente por mais tempo.",
+    "Apesar de proporcionar beleza aos acabamentos, a aplicação do gesso é complexa e, por isso, o tempo da obra pode aumentar consideravelmente."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O gesso é um bom isolante térmico…\":** o gesso endurecido é poroso e tem **baixa condutividade térmica**, então funciona como bom isolante térmico (e ajuda no conforto acústico em forros e divisórias). Aplicado em paredes e forros, reduz as trocas de calor e ajuda a manter a temperatura interna.\n\n**As outras:**\n- *O gesso é um material com alta resistência às intempéries.*: é o contrário: o gesso é sensível à **umidade** e à água, por isso é de uso **interno** (em áreas molhadas, só placas resistentes à umidade e com proteção).\n- *Uma grande desvantagem do gesso é a rápida e alta propagação de fogo.*: o gesso é **incombustível** e retarda o fogo: tem água na sua estrutura cristalina, que se libera como vapor com o calor. Por isso existem placas de gesso resistentes ao fogo.\n- *Apesar de proporcionar beleza aos acabamentos, a aplicação do gesso é complexa…*: o gesso tem **pega rápida** e aplicação simples; o gesso liso pode até dispensar o reboco, o que **acelera** a obra.\n\n**Para memorizar:** gesso: bom isolante, bom contra o fogo, rápido de aplicar; o ponto fraco é a água."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "canteiro-servicos-preliminares",
+   "enunciado": "Assinale a alternativa correta sobre a betoneira, utilizada largamente na construção civil.",
+   "alternativas": [
+    "É utilizada para misturar os materiais secos do concreto, pois a água pode danificar o equipamento.",
+    "O caminhão betoneira não é adequado para a mistura de concreto.",
+    "Apesar de economizar na mão-de-obra, o uso da betoneira não gera economia de tempo.",
+    "Existem betoneiras do tipo fixa, semifixa, automática e móvel."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Existem betoneiras do tipo fixa, semifixa, automática e móvel.\":** é a classificação que a banca adotou, conforme a forma de instalação e de operação do equipamento: há betoneiras instaladas em centrais de concreto, as de canteiro (deslocáveis entre frentes de serviço) e as montadas em caminhão, com carregamento manual ou automatizado. O que a questão cobra, na prática, é saber o que a betoneira faz: mistura **todos** os materiais do concreto, inclusive a água.\n\n**As outras:**\n- *É utilizada para misturar os materiais secos do concreto…*: a betoneira mistura cimento, agregados **e água**; a água é essencial para a homogeneidade e não danifica o equipamento.\n- *O caminhão betoneira não é adequado para a mistura de concreto.*: o caminhão betoneira (autobetoneira) mistura e mantém o concreto em agitação até a obra; é o padrão do concreto usinado.\n- *Apesar de economizar na mão-de-obra, o uso da betoneira não gera economia de tempo.*: a mistura mecânica é mais rápida e mais homogênea que a manual; economiza mão de obra **e** tempo.\n\n**Para memorizar:** uma ordem de carregamento muito recomendada é: brita e parte da água, depois o cimento, a areia e o restante da água."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "fiscalizacao-obras-posturas",
+   "enunciado": "Assinale a alternativa que indica corretamente uma das atribuições do fiscal de obras públicas.",
+   "alternativas": [
+    "Executar os serviços de uma obra de construção civil.",
+    "Orientar, mas não fiscalizar, as atividades e obras de construção civil.",
+    "Garantir que a obra seja executada, mesmo que não respeite o orçamento pré-estabelecido.",
+    "Elaborar relatórios de vistoria realizada, para assegurar a continuidade dos serviços."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Elaborar relatórios de vistoria realizada, para assegurar a continuidade dos serviços.\":** o fiscal de obras acompanha a execução, faz **vistorias**, registra as ocorrências e produz **relatórios**, que mostram se a obra segue o projeto, as normas, o prazo e o orçamento. Nas obras públicas, a lei de licitações manda o fiscal anotar em registro próprio todas as ocorrências e determinar o necessário para regularizar as faltas (art. 67, § 1º, da Lei 8.666/93, vigente na época; hoje, art. 117, § 1º, da Lei 14.133/2021).\n\n**As outras:**\n- *Executar os serviços de uma obra de construção civil.*: quem executa é a construtora contratada; o fiscal **fiscaliza**.\n- *Orientar, mas não fiscalizar, as atividades e obras de construção civil.*: a função central é justamente **fiscalizar**.\n- *Garantir que a obra seja executada, mesmo que não respeite o orçamento…*: o fiscal zela pelo cumprimento do contrato, inclusive do orçamento; mudanças dependem de justificativa e de aditivo aprovado.\n\n**Para memorizar:** fiscal = vistoria, registro, relatório e notificação. Em Campina Grande, o Código de Obras (Lei 5.410/2013) diz que a Prefeitura fiscaliza as obras com as vistorias necessárias e aplica as penalidades (art. 431), por agentes credenciados que se identificam antes de agir (art. 432), e que o fiscal não assume responsabilidade técnica pela obra (art. 37)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-obras-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "materiais-construcao",
+   "enunciado": "O vidro é um material da construção civil amplamente utilizado, nos diferentes projetos, trazendo beleza, sofisticação, funcionalidade e segurança aos ambientes. Com relação a esse material, assinale a alternativa correta.",
+   "alternativas": [
+    "O vidro aramado se caracteriza por receber um tratamento térmico de têmpera durante o seu processo de fabricação.",
+    "O vidro temperado tem como principal benefício a sua resistência, sendo considerado um vidro de segurança.",
+    "O vidro laminado, apesar de apresentar uma alta resistência, não é considerado um vidro de segurança.",
+    "O vidro comum é o mais custoso entre os diversos tipos de vidro por ter um processo de fabricação mais complexo."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O vidro temperado tem como principal benefício a sua resistência…\":** o vidro temperado é aquecido até perto do amolecimento e **resfriado bruscamente**. Isso cria tensões internas que o tornam várias vezes mais resistente a impactos e a choques térmicos que o vidro comum. Se quebra, se fragmenta em pedaços pequenos e pouco cortantes; por isso é um **vidro de segurança** (NBR 7199), ao lado do laminado e do aramado. Depois de temperado, não pode ser cortado nem furado.\n\n**As outras:**\n- *O vidro aramado se caracteriza por receber um tratamento térmico de têmpera…*: o aramado recebe uma **tela metálica** incorporada na fabricação; não é temperado. Quando quebra, a tela segura os cacos.\n- *O vidro laminado, apesar de apresentar uma alta resistência, não é considerado um vidro de segurança.*: é vidro de segurança: duas ou mais lâminas unidas por película (PVB); quebrado, os cacos ficam presos à película.\n- *O vidro comum é o mais custoso…*: o vidro comum (float, recozido) é o **mais barato** e o de fabricação mais simples.\n\n**Para memorizar:** vidros de segurança: temperado (quebra em pedacinhos), laminado (fica preso na película) e aramado (a tela segura)."
+  }
+ ]
+}
