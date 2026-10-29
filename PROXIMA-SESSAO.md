@@ -63,6 +63,9 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   completa em todas as questões em 28/10.
 - [ ] Pendente de decisão do Arthur: regra do `CLAUDE.md` sobre provas reais (o texto ainda diz "provas inteiras ficam
   como link", mas 17 provas já estão digitadas em `data/provas/`). Não alterado sem aprovação.
+- [ ] Pendente de decisão do Arthur: o e-mail pessoal saiu dos arquivos (commit da76dae), mas continua no histórico
+  público do GitHub (entrou no primeiro commit, 8d462ae). Tirar de lá exige reescrever a história e dar force push, o
+  que afeta todas as sessões: só com o OK dele.
 - [ ] Baixar, se o Arthur confirmar: SESAP-RN 2025 (Arquiteto e Auditor Fiscal da Vigilância Sanitária) e SOP-CE 2025 (Arquiteto).
 - [ ] Ideias para depois: questões sobre o Código Sanitário de CG (LC 51/2010) e o Código de Obras quando o texto
   for obtido; sincronizar progresso PC ↔ celular sem exportar/importar.
