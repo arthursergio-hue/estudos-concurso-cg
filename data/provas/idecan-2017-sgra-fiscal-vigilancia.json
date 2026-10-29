@@ -1,0 +1,541 @@
+{
+ "id": "idecan-2017-sgra-fiscal-vigilancia",
+ "titulo": "Fiscal de Vigilância Sanitária — Prefeitura de São Gonçalo do Rio Abaixo/MG",
+ "banca": "IDECAN",
+ "ano": 2017,
+ "orgao": "Prefeitura de São Gonçalo do Rio Abaixo/MG",
+ "cargo": "Fiscal de Vigilância Sanitária",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2017-prefeitura-de-sao-goncalo-do-rio-abaixo-mg-fiscal-de-vigilancia-sanitaria",
+ "duracaoMin": 180,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "As mortes violentas entre os jovens",
+   "fonte": "(BOUER, Jairo. Disponível em: http://epoca.globo.com/colunas-e-blogs/jairo-bouer/noticia/2016/10/mortes-violentas-entre-os-jovens.html. Acesso em: 18/10/2016.)",
+   "numerarLinhas": false,
+   "conteudo": "*As mortes de jovens por causas violentas no Brasil, na contramão do que se passa nos países desenvolvidos, superam as causadas por acidentes automobilísticos e suicídio.*\n\nO assassinato brutal de um garoto de 18 anos agora em setembro dentro do Aeroporto Internacional Salgado Filho, em Porto Alegre, Rio Grande do Sul, voltou a chamar a atenção para a principal causa de morte de homens jovens no Brasil de hoje: a violência.\n\nMarlon Roldão Soares foi assassinado por dois jovens, que descarregaram ao menos 15 tiros na vítima. Ele se despedia de um amigo que iria viajar. O pai de Soares estava com ele. Dezenas de pessoas estavam no saguão do aeroporto no momento do crime. Até a quarta-feira, dia 21, não estava clara a causa do assassinato, que pelo padrão lembra uma execução. O jovem não tinha antecedentes criminais e não parecia ter relação com o tráfico. No entanto, o bairro em que residia, Vila Jardim, na Zona Norte da capital gaúcha, sofre com a disputa de duas facções criminosas rivais.\n\nEsse conflito parece ter conexão com o ataque. Em um primeiro momento, a polícia trabalhava com a hipótese de um crime passional. O namoro de Soares com uma jovem de outra parte do bairro poderia ter gerado reação do grupo que “domina” a outra área. Outra possibilidade é o garoto ter sido morto por engano. O alvo seria o amigo que embarcava no aeroporto e que teria “desertado” de uma quadrilha de traficantes.\n\nO que aconteceu excepcionalmente dentro do saguão de um aeroporto é realidade cotidiana em áreas espalhadas pelo país, territórios com “donos” que não toleram a presença das autoridades. Criam verdadeiros bolsões em que a lei parece não ter vez.\n\nHá uma banalização da violência entre os mais novos. A cena dos garotos saindo do aeroporto, rosto limpo, dando tiros para o alto, pegando “carona” em um carro que os aguardava, sem se preocupar se estavam sendo gravados, revela um desprezo com as autoridades.\n\nAs mortes de jovens por causas violentas no Brasil, na contramão do que se passa nos países desenvolvidos, superam as causadas por acidentes automobilísticos e suicídio. É o retrato de uma guerra urbana, que provoca a morte de dezenas de jovens, principalmente garotos, todo dia. As vítimas são majoritariamente pobres, negros e habitantes de periferias.\n\nA sensação de impunidade, a impulsividade típica dessa fase da vida, a busca pela sensação de poder, a escola pouco atraente, o mercado de trabalho retraído, os empregos mal remunerados, o dinheiro “fácil” gerado pelo crime, o uso de álcool e drogas, a ausência de projeto de vida, a desestruturação familiar, história de prisões e agressões envolvendo os pais deixam uma grande parcela da população jovem mais vulnerável às promessas e à sedução do tráfico e do uso da violência. É um ciclo complexo, difícil de quebrar. Mas, sem enfrentar suas causas econômicas e sociais, continuaremos a apenas ficar chocados, dia após dia."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Segundo as informações trazidas no texto, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "A desorganização familiar contribui para a inserção do jovem no mundo do crime.",
+    "O suicídio e os acidentes automobilísticos também estão ligados à morte de jovens brasileiros.",
+    "No Brasil, as mortes de jovens ligadas à violência são superiores em relação aos países desenvolvidos.",
+    "Apesar de cometerem o crime no aeroporto, os jovens temiam as autoridades, como se comprovou através das imagens das câmeras."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Apesar de cometerem o crime no aeroporto, os jovens temiam as autoridades…\" é a resposta:** o texto diz o contrário. No 5º§, os garotos saem do aeroporto \"rosto limpo, dando tiros para o alto\", \"sem se preocupar se estavam sendo gravados\", e o autor conclui que a cena \"revela um **desprezo** com as autoridades\". Quem despreza não teme, e as imagens mostram indiferença, não medo.\n\n**As outras (estão corretas):**\n- *A desorganização familiar contribui para a inserção do jovem…*: o 7º§ põe \"a desestruturação familiar\" entre os fatores que deixam o jovem \"mais vulnerável às promessas e à sedução do tráfico\".\n- *O suicídio e os acidentes automobilísticos também estão ligados…*: o texto diz que as mortes violentas \"superam as causadas por acidentes automobilísticos e suicídio\"; logo, essas duas causas também matam jovens, só que menos.\n- *No Brasil, as mortes de jovens ligadas à violência são superiores…*: é a ideia de \"na contramão do que se passa nos países desenvolvidos\" (subtítulo e 6º§).\n\n**Para memorizar:** em questão de INCORRETA sobre o texto, procure a alternativa que inverte uma passagem. Aqui, \"desprezo\" virou \"temor\"."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "“A sensação de impunidade, a impulsividade típica dessa fase da vida, a busca pela sensação de poder, a escola pouco atraente, o mercado de trabalho retraído, os empregos mal remunerados, o dinheiro ‘fácil’ gerado pelo crime, o uso de álcool e drogas, a ausência de projeto de vida, a desestruturação familiar, história de prisões e agressões envolvendo os pais deixam uma grande parcela da população jovem mais vulnerável às promessas e à sedução do tráfico e do uso da violência.” (7º§) Assinale a alternativa que justifica o uso das vírgulas no trecho anterior.",
+   "alternativas": [
+    "Separam orações intercaladas.",
+    "Assinalam a inversão de adjuntos adverbiais.",
+    "Separam termos com a mesma função sintática.",
+    "Marcam o deslocamento do complemento do verbo."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Separam termos com a mesma função sintática.\":** o trecho é um longo **sujeito composto** do verbo \"deixam\": \"A sensação de impunidade, a impulsividade…, a busca…, a escola pouco atraente, o mercado de trabalho retraído… deixam uma grande parcela da população jovem mais vulnerável\". As vírgulas separam os núcleos desse sujeito, uma **enumeração** de termos que têm a mesma função. É a regra: vírgula entre elementos coordenados de uma enumeração; o último costuma vir ligado por \"e\" (\"história de prisões e agressões\").\n\n**As outras:**\n- *Separam orações intercaladas.*: oração intercalada interrompe outra para um comentário, como em \"O jovem, disse o delegado, não tinha antecedentes\". Não há isso no trecho.\n- *Assinalam a inversão de adjuntos adverbiais.*: seria um adjunto deslocado para o início, como \"Em Porto Alegre, o crime…\". Os termos separados aqui são sujeitos.\n- *Marcam o deslocamento do complemento do verbo.*: o complemento de \"deixam\" (\"uma grande parcela da população jovem\") está na posição normal, depois do verbo.\n\n**Para memorizar:** lista de termos do mesmo tipo (vários sujeitos, vários objetos, vários adjetivos) pede a vírgula de enumeração."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "“++No entanto++, o bairro em que residia, Vila Jardim, na Zona Norte da capital gaúcha, sofre com a disputa de duas facções criminosas rivais.” (2º§). A expressão sublinhada, além de introduzir o período, expressa a ideia de:",
+   "alternativas": [
+    "Exclusão.",
+    "Adversidade.",
+    "Fechamento.",
+    "Justificativa; razão."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Adversidade.\":** \"no entanto\" é locução conjuntiva **coordenativa adversativa**, do mesmo grupo de mas, porém, contudo, todavia e entretanto. Ela introduz uma ideia que contrasta com a anterior: o jovem \"não tinha antecedentes criminais e não parecia ter relação com o tráfico\"; **no entanto**, morava num bairro disputado por facções. O contraste abre a hipótese de ligação do crime com esse conflito.\n\n**As outras:**\n- *Exclusão.*: alternância ou exclusão é marcada por \"ou… ou\", \"ora… ora\" (conjunções alternativas).\n- *Fechamento.*: conclusão seria \"portanto\", \"logo\", \"por isso\" (conjunções conclusivas).\n- *Justificativa; razão.*: explicação ou causa vem com \"pois\", \"porque\", \"já que\".\n\n**Para memorizar:** dá para trocar por \"mas\" sem mudar o sentido? Então é adversativa."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "De acordo com o contexto, assinale a alternativa cuja palavra sublinhada apresenta significado correto.",
+   "alternativas": [
+    "“... na ++contramão++ do que se passa nos países desenvolvidos,...” (6º§) / direção",
+    "“Em um primeiro momento, a polícia trabalhava com a ++hipótese++ de um crime passional.” (3º§) / conjectura",
+    "“O que aconteceu ++excepcionalmente++ dentro do saguão de um aeroporto é realidade cotidiana...” (4º§) / comumente",
+    "“O alvo seria o amigo que embarcava no aeroporto e que teria ‘++desertado++’ de uma quadrilha de traficantes.” (3º§) / originado"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"“Em um primeiro momento, a polícia trabalhava com a hipótese…” / conjectura\":** hipótese é uma suposição ainda não comprovada; **conjectura** é exatamente isso, um juízo feito a partir de indícios. No texto, a polícia \"trabalhava com a hipótese de um crime passional\", ou seja, supunha essa causa, e logo depois aparece outra possibilidade.\n\n**As outras:**\n- *“... na contramão do que se passa…” / direção*: \"na contramão de\" quer dizer em sentido contrário, ao oposto de. \"Direção\" sozinha perde a ideia de oposição.\n- *“O que aconteceu excepcionalmente…” / comumente*: excepcionalmente é de modo raro, fora do comum; \"comumente\" é o antônimo. O texto opõe o caso raro do aeroporto à \"realidade cotidiana\" das periferias.\n- *“O alvo seria o amigo… ‘desertado’…” / originado*: desertar é abandonar, fugir de um grupo. Quem desertou saiu da quadrilha; não se originou dela.\n\n**Para memorizar:** em questão de sinônimo, faça a troca no próprio trecho. Se o sentido muda ou vira o contrário, a alternativa está errada."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "Acerca dos termos ou trecho sublinhados, assinale a alternativa que apresenta o referente indicado INCORRETAMENTE.",
+   "alternativas": [
+    "“... e ++que++ teria ‘desertado’ de uma quadrilha de traficantes.” (3º§) / Soares",
+    "“++Ele++ se despedia de um amigo que iria viajar.” (2º§) / Marlon Roldão Soares",
+    "“As ++vítimas++ são majoritariamente pobres, negros e habitantes de periferias.” (6º§) / garotos",
+    "“++Esse conflito++ parece ter conexão com o ataque.” (3º§) / disputa de duas facções criminosas rivais"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"“... e que teria ‘desertado’…” / Soares\" é a resposta:** o \"que\" é **pronome relativo** e retoma o termo que vem logo antes dele: \"O alvo seria **o amigo** que embarcava no aeroporto e que teria 'desertado' de uma quadrilha\". Quem teria desertado é o amigo, não Soares. É a segunda hipótese do 3º§: o garoto teria sido morto por engano, no lugar do amigo.\n\n**As outras (estão corretas):**\n- *“Ele se despedia de um amigo…” / Marlon Roldão Soares*: o 2º§ começa com \"Marlon Roldão Soares foi assassinado…\", e \"Ele\" retoma esse nome.\n- *“As vítimas são majoritariamente pobres…” / garotos*: a frase anterior fala da morte de \"dezenas de jovens, principalmente garotos\"; as vítimas são eles.\n- *“Esse conflito parece ter conexão…” / disputa de duas facções…*: \"Esse\" retoma o fim do 2º§, em que o bairro \"sofre com a disputa de duas facções criminosas rivais\".\n\n**Para memorizar:** para achar o referente do \"que\" relativo, troque por \"o qual / a qual\" e veja com quem concorda: \"o amigo, o qual teria desertado\"."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "verbos",
+   "texto": "t1",
+   "enunciado": "“O namoro de Soares com uma jovem de outra parte do bairro poderia ter gerado reação do grupo que ‘domina’ a outra área.” (3º§) Quanto ao emprego do verbo “poderia”, neste contexto, assinale a afirmativa correta.",
+   "alternativas": [
+    "Expressa a causa de um fato ocorrido anteriormente ao atual.",
+    "Indica a possibilidade da causa de uma ação ocorrida no passado.",
+    "Apresenta a causa de uma ação situada de forma incerta no tempo passado.",
+    "Indica a causa de um fato ocorrido no passado que se estende até o presente."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Indica a possibilidade da causa de uma ação ocorrida no passado.\":** \"poderia ter gerado\" junta o verbo poder no **futuro do pretérito** com o infinitivo composto. O futuro do pretérito expressa hipótese, algo não confirmado. O fato (o assassinato) já aconteceu; o que o autor levanta é uma **causa possível** para ele: o namoro \"poderia ter gerado\" a reação do grupo rival. Não há certeza, tanto que o texto apresenta logo outra possibilidade.\n\n**As outras:**\n- *Expressa a causa de um fato ocorrido anteriormente ao atual.*: apresenta a causa como certa, e o verbo indica só uma hipótese.\n- *Apresenta a causa de uma ação situada de forma incerta no tempo passado.*: a incerteza não está em quando ocorreu (o crime tem data), e sim em se essa foi mesmo a causa.\n- *Indica a causa de um fato ocorrido no passado que se estende até o presente.*: ação que começa no passado e continua é marcada pelo pretérito perfeito composto (\"tem gerado\").\n\n**Para memorizar:** futuro do pretérito (faria, poderia, seria) = hipótese ou suposição. É o tempo do jornalismo cauteloso: \"o alvo seria o amigo\"."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "Quanto à análise sintática, assinale a alternativa cujo termo ou trecho sublinhado se DIFERE dos demais.",
+   "alternativas": [
+    "“Até a quarta-feira, dia 21, não estava clara ++a causa do assassinato++,...” (2º§)",
+    "“É o retrato de uma guerra urbana, que provoca ++a morte++ de dezenas de jovens,...” (6º§)",
+    "“O jovem não tinha ++antecedentes criminais++ e não parecia ter relação com o tráfico.” (2º§)",
+    "“A cena dos garotos saindo do aeroporto, rosto limpo, dando tiros para o alto, pegando ‘carona’ em um carro que os aguardava, sem se preocupar se estavam sendo gravados, revela ++um desprezo++ com as autoridades.” (5º§)"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"“Até a quarta-feira, dia 21, não estava clara a causa do assassinato,...”\" é a resposta:** aqui o termo sublinhado é **sujeito posposto** do verbo de ligação \"estava\". Na ordem direta: \"a causa do assassinato não estava clara\"; \"clara\" é o predicativo. Nas outras três, o termo sublinhado é **objeto direto** de um verbo transitivo direto.\n\n**As outras (são objeto direto):**\n- *“É o retrato de uma guerra urbana, que provoca a morte…”*: provoca o quê? \"a morte\".\n- *“O jovem não tinha antecedentes criminais…”*: não tinha o quê? \"antecedentes criminais\".\n- *“A cena dos garotos… revela um desprezo com as autoridades.”*: revela o quê? \"um desprezo\". O sujeito é \"A cena dos garotos…\".\n\n**Para memorizar:** verbo de ligação (ser, estar, parecer, ficar) não tem objeto. Ponha a frase na ordem direta antes de classificar: o termo que concorda com o verbo é o sujeito."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "“Há uma banalização da violência ++entre++ os mais novos. A cena dos garotos saindo do aeroporto, rosto limpo, dando tiros para o alto, pegando ‘carona’ em um carro que os aguardava, sem ++se++ preocupar ++se++ estavam sendo gravados, revela um desprezo com as autoridades.” (5º§) Quanto à classe de palavras, os termos anteriormente sublinhados classificam-se, dentro do contexto empregado, respectivamente, como:",
+   "alternativas": [
+    "Interjeição, pronome e conjunção.",
+    "Preposição, pronome e conjunção.",
+    "Interjeição, conjunção e pronome.",
+    "Preposição, conjunção e pronome."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Preposição, pronome e conjunção.\":** \"entre\" (entre os mais novos) liga dois termos e indica relação: é **preposição** essencial. O primeiro \"se\" acompanha o verbo pronominal \"preocupar-se\" e se refere aos próprios garotos: é **pronome**. O segundo \"se\" abre a oração \"estavam sendo gravados\", que completa o sentido de \"preocupar-se (com)\": é **conjunção subordinativa integrante**.\n\n**As outras:**\n- *Interjeição, pronome e conjunção.*: \"entre\" não exprime emoção nem apelo, como \"ah!\" ou \"ufa!\"; é preposição.\n- *Interjeição, conjunção e pronome.*: erra o primeiro termo e inverte os outros dois.\n- *Preposição, conjunção e pronome.*: acerta o primeiro, mas troca a ordem: o \"se\" colado ao verbo é o pronome; o \"se\" que abre a oração é a conjunção.\n\n**Para memorizar:** \"se\" que introduz oração completando um verbo (\"não sei se vem\") é conjunção integrante; \"se\" junto de verbo pronominal (preocupar-se, queixar-se) é pronome."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "“O assassinato brutal de um garoto de 18 anos agora em setembro dentro do Aeroporto Internacional Salgado Filho, em Porto Alegre, Rio Grande do Sul, voltou a chamar a atenção para a principal causa de morte de homens jovens no Brasil de hoje: a violência.” (1º§) Os dois-pontos foram utilizados para anunciar",
+   "alternativas": [
+    "um aposto.",
+    "um exemplo.",
+    "uma enumeração.",
+    "uma informação relacionada ao que foi mencionado anteriormente."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"uma informação relacionada ao que foi mencionado anteriormente.\":** os dois-pontos anunciam um **esclarecimento** do que acabou de ser dito. O autor fala da \"principal causa de morte de homens jovens no Brasil de hoje\" e, depois dos dois-pontos, revela qual é: \"a violência\". A informação nova explica e especifica o termo anterior; foi esse o uso que a banca considerou.\n\n**As outras:**\n- *um aposto.*: é a alternativa que a banca recusou; veja o ponto discutível abaixo.\n- *um exemplo.*: \"a violência\" não é um caso entre vários; é a própria causa principal.\n- *uma enumeração.*: enumeração exige uma lista de elementos, e aqui há um só.\n\n**Para memorizar:** dois-pontos servem para citação, enumeração, explicação ou esclarecimento, e para síntese ou consequência do que veio antes.\n\nPonto discutível: pela gramática tradicional, \"a violência\" também é **aposto explicativo** de \"a principal causa de morte\", e aposto é justamente uma informação que se refere a um termo anterior. A banca manteve o gabarito no resultado pós-recurso."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "“++Mas++, sem enfrentar suas causas econômicas e sociais, continuaremos a apenas ficar chocados, dia após dia.” (7º§) De acordo com o contexto empregado, assinale a alternativa que substitui corretamente o termo sublinhado.",
+   "alternativas": [
+    "E.",
+    "Assim.",
+    "Portanto.",
+    "Entretanto."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Entretanto.\":** \"Mas\" é conjunção **coordenativa adversativa**: opõe a constatação anterior (\"É um ciclo complexo, difícil de quebrar\") à advertência final. Para manter o sentido, o substituto precisa ser adversativo, e \"entretanto\" é: \"Entretanto, sem enfrentar suas causas econômicas e sociais, continuaremos…\".\n\n**As outras:**\n- *E.*: conjunção aditiva; soma ideias e apagaria o contraste.\n- *Assim.*: indica conclusão ou modo (\"desse modo\"), não oposição.\n- *Portanto.*: conjunção conclusiva; transformaria a advertência em consequência do que veio antes.\n\n**Para memorizar:** adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Conclusivas: logo, portanto, por isso, assim, pois (depois do verbo)."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q11",
+   "numero": 11,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "A *internet* é uma rede mundial na qual os computadores se comunicam através de protocolos e serviços organizados por um modelo de referência, cuja arquitetura é composta por níveis ou camadas de abstração. Com base na arquitetura de rede e suas características, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    "DNS é um serviço utilizado pela estrutura da *internet*, através de servidores dedicados, para associar um nome a um endereço IP.",
+    "Uma rede local sem fio, mais conhecida como *Wifi* ou WLAN, é uma rede classificada pelo IEEE como padrão 802.3 que difere de uma LAN cabeada pelo meio de conexão ser via rádio.",
+    "A *internet* permite o acesso através de computadores com sistemas proprietários como o *Windows*, ou sistemas livres como o *Linux*, pois para acesso à rede, ambos utilizam o modelo TCP/IP.",
+    "TCP/IP é um termo que nomeia o modelo de arquitetura adotado atualmente pelas redes que compõem a *internet* e se referem aos protocolos da camada de transporte e camada de *internet* respectivamente."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Uma rede local sem fio, mais conhecida como Wifi ou WLAN, é uma rede classificada pelo IEEE como padrão 802.3…\" é a resposta:** o padrão do IEEE para rede local sem fio (Wi-Fi) é o **802.11**, com as versões a, b, g, n, ac e ax. O **802.3** é a **Ethernet**, a rede local cabeada. A parte final está certa (a WLAN difere da LAN cabeada por usar ondas de rádio), mas o número do padrão está errado.\n\n**As outras (estão corretas):**\n- *DNS é um serviço utilizado pela estrutura da internet…*: o DNS traduz nomes (como www.exemplo.com.br) em endereços IP, por meio de servidores distribuídos.\n- *A internet permite o acesso através de computadores com sistemas proprietários…*: qualquer sistema que implemente a pilha TCP/IP acessa a internet, seja Windows, seja Linux.\n- *TCP/IP é um termo que nomeia o modelo de arquitetura…*: TCP é protocolo da camada de transporte e IP, da camada de internet, nessa ordem.\n\n**Para memorizar:** 802.3 = cabo (Ethernet); 802.11 = Wi-Fi; 802.15 = redes pessoais, como o Bluetooth."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q12",
+   "numero": 12,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "hardware",
+   "enunciado": "Os computadores pessoais (PC) apresentam uma arquitetura padrão baseada no conhecido modelo de *Von Neumann*, que possui um conjunto de componentes básicos fundamentais. Com base na arquitetura dos computadores, assinale a alternativa correta.",
+   "alternativas": [
+    "Dispositivos de entrada possuem a função básica de apresentar dados, sendo os mais comuns: a tela de vídeo (monitor), a impressora e o auto-falante.",
+    "O barramento mantém um caminho de comunicação entre a memória e cada um dos dispositivos de entrada e saída, além da UCP, que também é interconectada com os mesmos via barramento.",
+    "A memória do computador possui duas partes principais: a Unidade Lógica e Aritmética (ULA), com circuitos que operam os dados, e a unidade de controle, responsável por coordenar as operações da UCP.",
+    "A unidade central de processamento consiste em um conjunto de registradores identificados por um endereço, sendo que o espaço de endereçamento pode ser dividido em regiões distintas usadas pelo sistema operacional, dispositivos de entrada e saída, programas de usuário e pilha de execução do sistema operacional."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"O barramento mantém um caminho de comunicação entre a memória e cada um dos dispositivos…\":** no modelo de Von Neumann, a UCP (CPU), a memória e os dispositivos de entrada e saída são interligados pelo **barramento**, o conjunto de linhas que transporta dados, endereços e sinais de controle entre esses componentes.\n\n**As outras:**\n- *Dispositivos de entrada possuem a função básica de apresentar dados…*: monitor, impressora e alto-falante são dispositivos de **saída**. Os de entrada (teclado, mouse, scanner) levam dados para o computador.\n- *A memória do computador possui duas partes principais: a ULA…*: ULA e unidade de controle são partes da **UCP**, não da memória.\n- *A unidade central de processamento consiste em um conjunto de registradores identificados por um endereço…*: quem é organizada em posições com endereço, dividida entre sistema operacional, E/S, programas e pilha, é a **memória principal**. A UCP busca e executa as instruções.\n\n**Para memorizar:** Von Neumann = UCP (ULA + unidade de controle + registradores) + memória + entrada e saída, ligados pelo barramento; programa e dados ficam na mesma memória."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q13",
+   "numero": 13,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "editor-texto",
+   "enunciado": "Pelo fato do Sistema Operacional *Windows* ser mundialmente utilizado, se faz necessário seu conhecimento que, associado ao pacote *Office*, conta com o editor de texto *Word*, uma planilha de cálculo *Excel*, dentre outros. Com base no conhecimento destes sistemas e suas funções, analise as afirmativas a seguir.\n\nI. No *Word* e *Excel*, ALT+F4 fecha um documento e CTRL+A abre um documento.\n\nII. No *Excel*, SHIFT+F11 insere uma nova planilha.\n\nIII. No *Word* e *Excel*, CTRL+W encerra o programa e CTRL+B salva um documento.\n\nIV. No *Word*, ALT+CTRL+R insere o símbolo de marca registrada.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "I e III.",
+    "II e III.",
+    "II e IV."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"II e IV.\":** veja item por item (Office em português).\n\n- **I, errada:** ALT+F4 é o atalho do Windows para fechar a janela do programa, ou seja, sair do aplicativo. Para fechar só o documento usa-se CTRL+W (ou CTRL+F4). CTRL+A abre um arquivo, mas a primeira parte já invalida o item.\n- **II, certa:** no Excel, SHIFT+F11 insere uma nova planilha (aba) na pasta de trabalho.\n- **III, errada:** CTRL+W fecha o documento ativo, sem encerrar o programa. CTRL+B salva, isso está certo.\n- **IV, certa:** no Word, ALT+CTRL+R insere o símbolo ® (marca registrada).\n\n**As outras:**\n- *I e II.*: inclui o item I, que confunde fechar o documento com fechar o programa.\n- *I e III.*: inclui os dois itens errados.\n- *II e III.*: inclui o item III, que diz que CTRL+W encerra o programa.\n\n**Para memorizar:** no Office em português, CTRL+A = Abrir, CTRL+B = Salvar, CTRL+W = fechar o documento, ALT+F4 = fechar o programa."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q14",
+   "numero": 14,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "internet-nuvem",
+   "enunciado": "A comunicação dos dados se faz por meio de dispositivos de conexão como *Hubs*, *switches*, repetidores, *modems* e outros elementos associados aos meios de transmissão. Com relação aos equipamentos de comunicação de dados e seus conceitos gerais, analise as afirmativas a seguir.\n\nI. A topologia de uma rede local cabeada, padrão IEEE 802.3, em que uma *switch* conecta vários computadores em suas portas é classificada como anel.\n\nII. Roteador é um equipamento que permite que redes de computadores com endereços IP distintos se comuniquem.\n\nIII. NIC *(Network Interface Card)* se refere às placas de rede, também chamadas de cartão de rede e possui um número serial conhecido como endereço físico.\n\nIV. ADSL utiliza multiplexação por divisão de tempo TDM, duas para envio e recepção de dados e uma terceira para voz.\n\nEstão corretas apenas as afirmativas",
+   "alternativas": [
+    "I e II.",
+    "I e III.",
+    "II e III.",
+    "II e IV."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"II e III.\":** veja item por item.\n\n- **I, errada:** quando um switch liga vários computadores, cada um com seu cabo até o equipamento central, a topologia física é **estrela**. Em anel, cada máquina se liga à seguinte, fechando um círculo.\n- **II, certa:** o roteador interliga redes diferentes (com endereçamento IP distinto) e escolhe o caminho dos pacotes entre elas.\n- **III, certa:** NIC é a placa de rede; ela traz gravado de fábrica um endereço físico, o endereço **MAC**.\n- **IV, errada:** o ADSL usa multiplexação por divisão de **frequência** (FDM): a linha telefônica é dividida em faixas, uma para voz e outras para envio e recebimento de dados. Por isso dá para falar ao telefone e navegar ao mesmo tempo.\n\n**As outras:**\n- *I e II.* e *I e III.*: incluem o item I, e rede com switch central é estrela, não anel.\n- *II e IV.*: inclui o item IV, e o ADSL usa FDM, não TDM.\n\n**Para memorizar:** switch ou hub no centro = estrela. MAC = endereço físico da placa; IP = endereço lógico da rede."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q15",
+   "numero": 15,
+   "secao": "Conhecimentos de Informática",
+   "disciplina": "informatica",
+   "assunto": "",
+   "enunciado": "Os dados devem ser armazenados em locais onde possam ser consultados de forma organizada e correta. Para isso, existem métodos de acesso e busca, constituindo um sistema de gerenciamento dos dados. Com base nos conceitos envolvidos neste sistema, relacione adequadamente as colunas conforme os termos e seus respectivos significados.\n\n1. SGBD sistema de gerência de banco de dados.\n\n2. SQL *(Structured Query Language)*.\n\n3. Modelo conceitual.\n\n4. CASE *(Computer Aided Software Engineering)*.\n\n(  ) Linguagem padrão de definição e manipulação do banco de dados.\n\n(  ) Ferramenta que pode apoiar o desenvolvimento de um banco de dados tanto a nível de modelagem quanto a nível de projeto do banco de dados.\n\n(  ) Dados abstratos que descrevem a estrutura de um banco de dados de forma independente de um SGBD particular.\n\n(  ) É um *software* que incorpora as funções de definição, recuperação e alteração de dados em um banco de dados.\n\nA sequência está correta em",
+   "alternativas": [
+    "2, 4, 1, 3.",
+    "2, 1, 4, 3.",
+    "4, 2, 3, 1.",
+    "2, 4, 3, 1."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"2, 4, 3, 1.\":**\n\n- Linguagem padrão de definição e manipulação do banco = **SQL** (2): tem comandos de definição (CREATE, ALTER) e de manipulação (SELECT, INSERT, UPDATE, DELETE).\n- Ferramenta de apoio à modelagem e ao projeto = **CASE** (4): software de engenharia de software auxiliada por computador, que desenha os diagramas e pode gerar o banco.\n- Descrição abstrata da estrutura, independente do SGBD = **modelo conceitual** (3), como o diagrama entidade-relacionamento.\n- Software que define, recupera e altera os dados = **SGBD** (1), como MySQL, PostgreSQL e Oracle.\n\n**As outras:**\n- *2, 4, 1, 3.*: troca o modelo conceitual e o SGBD nas duas últimas posições.\n- *2, 1, 4, 3.*: põe o SGBD como ferramenta de modelagem e a CASE como descrição abstrata.\n- *4, 2, 3, 1.*: troca SQL e CASE nas duas primeiras.\n\n**Para memorizar:** modelo conceitual (o quê, sem depender de sistema) → modelo lógico (tabelas) → modelo físico (no SGBD escolhido)."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q16",
+   "numero": 16,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Três irmãs: Lívia, Marina e Rita lecionam em uma mesma escola matérias diferentes e cada uma delas apresenta um estado civil. Considere as informações:\n\n- *o marido de Lívia é engenheiro;*\n- *uma das irmãs de Marina perdeu o esposo em um acidente; e,*\n- *a professora solteira leciona inglês e a viúva leciona geografia.*\n\nSe as matérias são inglês, matemática e geografia, então as professoras que lecionam cada uma delas são, respectivamente:",
+   "alternativas": [
+    "Marina, Rita e Lívia.",
+    "Rita, Marina e Lívia.",
+    "Lívia, Rita e Marina.",
+    "Marina, Lívia e Rita."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Marina, Lívia e Rita.\":** resolva por eliminação.\n\n- Lívia tem marido engenheiro: é a **casada**.\n- \"Uma das irmãs de Marina perdeu o esposo\": a viúva é irmã de Marina, então não é Marina. Também não é Lívia, que é casada. Logo, **Rita é a viúva**.\n- Sobra para **Marina ser a solteira**.\n- A solteira leciona inglês (Marina), a viúva leciona geografia (Rita) e Lívia fica com matemática.\n\nNa ordem pedida (inglês, matemática, geografia): Marina, Lívia e Rita.\n\n**As outras:**\n- *Marina, Rita e Lívia.*: põe Lívia em geografia, que é da viúva, mas Lívia é casada.\n- *Rita, Marina e Lívia.*: põe Rita em inglês, que é da solteira, mas Rita é a viúva.\n- *Lívia, Rita e Marina.*: faz de Lívia a solteira, contrariando o marido engenheiro.\n\n**Para memorizar:** em problema de associação, comece pela informação mais fechada (quem é casada) e use as negativas (\"uma das irmãs de Marina\" = não é Marina) para eliminar."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q17",
+   "numero": 17,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Um veículo *flex* consome 1 litro de gasolina a cada 9 km e 1 litro de álcool a cada 6 km. Ao realizar uma viagem nesse veículo foram consumidos 12 litros de combustível cujo preço totalizou R$ 36,00. Se o preço do litro do álcool é de R$ 2,40 e da gasolina é de R$ 3,60, então quantos quilômetros o veículo percorreu nessa viagem, considerando que no primeiro trecho foi consumido apenas gasolina e no segundo apenas álcool?",
+   "alternativas": [
+    "84 km.",
+    "90 km.",
+    "100 km.",
+    "106 km."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"90 km.\":** chame de g os litros de gasolina e de a os de álcool.\n\n- Litros: g + a = 12, então a = 12 − g.\n- Dinheiro: 3,60g + 2,40a = 36.\n- Substituindo: 3,60g + 2,40(12 − g) = 36 → 3,60g + 28,80 − 2,40g = 36 → 1,20g = 7,20 → **g = 6** e **a = 6**.\n- Distância: 6 × 9 km + 6 × 6 km = 54 + 36 = **90 km**.\n\n**As outras:** cada uma exigiria outra divisão dos 12 litros, e o custo deixaria de ser R$ 36,00.\n- *84 km.*: seria 4 L de gasolina e 8 L de álcool, que custam R$ 33,60.\n- *100 km.*: exigiria cerca de 9,3 L de gasolina e custaria R$ 40,00.\n- *106 km.*: exigiria cerca de 11,3 L de gasolina e custaria R$ 42,40.\n\n**Para memorizar:** duas incógnitas com dois totais (litros e reais) = sistema de duas equações. Resolva por substituição e só depois calcule o que foi pedido."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q18",
+   "numero": 18,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Para o atendimento preferencial em um certa agência bancária são utilizados dois caixas. Um dos caixas atende 8 pessoas a cada 30 minutos e o outro atende 6 pessoas a cada 15 minutos. Em quanto tempo os dois caixas trabalhando juntos atendem 90 pessoas?",
+   "alternativas": [
+    "1 hora e 40 minutos.",
+    "1 hora e 50 minutos.",
+    "2 horas e 15 minutos.",
+    "2 horas e 25 minutos."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"2 horas e 15 minutos.\":** ponha os dois caixas na mesma unidade, pessoas por hora.\n\n- Caixa 1: 8 pessoas a cada 30 min = **16 por hora**.\n- Caixa 2: 6 pessoas a cada 15 min = **24 por hora**.\n- Juntos: 16 + 24 = **40 pessoas por hora**.\n- Tempo: 90 ÷ 40 = 2,25 h = 2 h + 0,25 × 60 min = **2 h 15 min**.\n\n**As outras:**\n- *1 hora e 40 minutos.*: nesse tempo os dois atenderiam só cerca de 67 pessoas.\n- *1 hora e 50 minutos.*: cerca de 73 pessoas.\n- *2 horas e 25 minutos.*: cerca de 97 pessoas, mais que as 90.\n\n**Para memorizar:** em trabalho conjunto, some as **taxas** (pessoas por hora), nunca os tempos. E cuidado: 0,25 h não é 25 minutos, é 15."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q19",
+   "numero": 19,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma progressão aritmética crescente é formada por 8 termos, sendo a soma dos dois primeiros termos igual a 23 e a soma dos dois últimos termos igual a 131. A soma de todos os termos dessa sequência é:",
+   "alternativas": [
+    "274.",
+    "286.",
+    "292.",
+    "308."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"308.\":** numa PA, termos equidistantes dos extremos têm a mesma soma: a1 + a8 = a2 + a7. Somando os dados: (a1 + a2) + (a7 + a8) = 23 + 131 = 154, e isso é 2 × (a1 + a8). Logo, a1 + a8 = 77. A soma dos 8 termos é S = (a1 + a8) × 8 ÷ 2 = 77 × 4 = **308**.\n\nConferindo pelo caminho longo: 2a1 + r = 23 e 2a1 + 13r = 131 → 12r = 108 → r = 9 e a1 = 7. A PA é 7, 16, 25, 34, 43, 52, 61, 70, e a soma dá 308.\n\n**As outras:**\n- *274.*, *286.* e *292.*: nenhuma é a soma de 7, 16, 25, 34, 43, 52, 61 e 70. Costumam sair de erro no cálculo da razão ou de usar o número errado de pares na fórmula da soma.\n\n**Para memorizar:** Sn = (a1 + an) × n ÷ 2. Com 8 termos há 4 pares, e cada par soma a1 + a8."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q20",
+   "numero": 20,
+   "secao": "Raciocínio Lógico",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Uma caixa em forma de paralelepípedo retângulo tem volume de 336 cm³ e suas dimensões em centímetros são três números inteiros e consecutivos. É correto afirmar que a área total dessa caixa mede:",
+   "alternativas": [
+    "292 cm².",
+    "298 cm².",
+    "316 cm².",
+    "320 cm²."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"292 cm².\":** procure três inteiros consecutivos cujo produto seja 336. Como 7³ = 343 está perto de 336, teste 6 × 7 × 8 = **336**. A área total do paralelepípedo é a soma das seis faces, que aparecem aos pares: A = 2(ab + ac + bc) = 2(6×7 + 6×8 + 7×8) = 2(42 + 48 + 56) = 2 × 146 = **292 cm²**.\n\n**As outras:**\n- *298 cm²*, *316 cm²* e *320 cm²*: não correspondem às faces de 42, 48 e 56 cm². Erros comuns: esquecer de dobrar a soma (146), contar cada face uma vez só ou usar outras dimensões.\n\n**Para memorizar:** volume = a × b × c; área total = 2(ab + ac + bc). Para achar números consecutivos de um produto, comece pela raiz cúbica."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A extensão do período de obrigatoriedade do ensino médio no Brasil está em discussão para promover a melhoria da educação no País. Os debates sobre o tema constituem uma boa oportunidade para que a sociedade civil e o Estado trabalhem juntos, em busca de melhoria para a educação pública. NÃO expressa um desdobramento dessa proposta:",
+   "alternativas": [
+    "Além de abranger o Ensino Médio, também abarca a pré-escola.",
+    "Fica restrita apenas aos anos finais do ensino fundamental e ao ensino médio.",
+    "A obrigatoriedade, atualmente, é restrita ao ensino fundamental (período dos 6 aos 14 anos).",
+    "A proposta do governo é de estender a obrigatoriedade do ensino para a faixa de 4 a 17 anos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Fica restrita apenas aos anos finais do ensino fundamental e ao ensino médio.\" é a resposta:** a proposta, que virou a **Emenda Constitucional 59/2009**, fez o contrário de restringir. Ela deu nova redação ao **art. 208, I, da Constituição**: educação básica obrigatória e gratuita **dos 4 aos 17 anos**, da pré-escola ao ensino médio, com implantação progressiva até 2016. Não ficou limitada aos anos finais do fundamental e ao médio.\n\n**As outras (são desdobramentos da proposta):**\n- *Além de abranger o Ensino Médio, também abarca a pré-escola.*: a faixa de 4 e 5 anos passou a ser obrigatória.\n- *A obrigatoriedade, atualmente, é restrita ao ensino fundamental…*: era a situação quando a proposta foi debatida: só o fundamental, dos 6 aos 14 anos, era obrigatório.\n- *A proposta do governo é de estender a obrigatoriedade… 4 a 17 anos.*: é o núcleo da mudança.\n\n**Para memorizar:** educação básica obrigatória = 4 a 17 anos (EC 59/2009). A LDB foi ajustada pela Lei 12.796/2013."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Aspecto geográfico, clima, características do solo, vegetação e fatores climáticos são alguns itens em que o RS apresenta semelhança com a Europa – mais precisamente, essa foi a região que os imigrantes italianos escolheram para se instalar no Brasil. Com esses diferenciais, a região foi fortemente marcada pela influência cultural de imigrantes originários da Europa, especificamente pelos costumes e técnicas de produção do plantio de uvas. Faz parte do Vale dos Vinhedos:",
+   "alternativas": [
+    "Chuí – RS.",
+    "Torres – RS.",
+    "Porto Alegre – RS.",
+    "Bento Gonçalves – RS."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Bento Gonçalves – RS.\":** o Vale dos Vinhedos fica na **Serra Gaúcha**, colonizada por imigrantes italianos a partir de 1875, e ocupa áreas de **Bento Gonçalves**, Garibaldi e Monte Belo do Sul. Foi a primeira região do Brasil a ter indicação geográfica para vinhos: indicação de procedência em 2002 e denominação de origem em 2012.\n\n**As outras:**\n- *Chuí – RS.*: extremo sul do estado, na fronteira com o Uruguai.\n- *Torres – RS.*: litoral norte, conhecido pelas praias e falésias.\n- *Porto Alegre – RS.*: a capital, fora da Serra Gaúcha.\n\n**Para memorizar:** Serra Gaúcha = uva e vinho, com Bento Gonçalves, Garibaldi, Caxias do Sul e Flores da Cunha."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Junto com as parreiras surgiu também o turismo, que propiciou a ideia de apresentar ao mundo a localização e a importância geográfica da região. A atividade, hoje, é responsável pelos roteiros turísticos e procura valorizar as técnicas agrícolas com programações em que os visitantes interagem com o povo da região, acompanhando ainda o processo de plantio, colheita, produção e fabricação dos vinhos e sucos de uva. A classificação do turismo na região é:",
+   "alternativas": [
+    "Enoturismo.",
+    "Turismo náutico.",
+    "Turismo de saúde.",
+    "Turismo de sol e praia."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Enoturismo.\":** enoturismo é o turismo ligado à cultura do vinho: visita a vinhedos e vinícolas, acompanhamento do plantio, da colheita e da elaboração do vinho e do suco, degustação e gastronomia. É exatamente o que o enunciado descreve no Vale dos Vinhedos.\n\n**As outras:**\n- *Turismo náutico.*: tem as embarcações como atração (cruzeiros, vela, passeios de barco).\n- *Turismo de saúde.*: busca tratamento ou bem-estar, como termas, spas e procedimentos médicos.\n- *Turismo de sol e praia.*: lazer no litoral, ligado ao mar e ao clima quente.\n\n**Para memorizar:** \"eno-\" vem do grego *oînos*, vinho, como em enologia e enólogo."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O analfabetismo funcional tem sido um grande problema a ser enfrentado atualmente. Para a Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), analfabetismo funcional é:",
+   "alternativas": [
+    "Em geral quem não lê e nem escreve frases simples.",
+    "Ser capaz de interpretar textos e colocar ideias no papel.",
+    "O indivíduo com menos de oito anos de estudos incompletos.",
+    "O indivíduo com menos de quatro anos de estudos incompletos."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Em geral quem não lê e nem escreve frases simples.\":** esta é a resposta do gabarito **definitivo**: a banca alterou a resposta depois dos recursos. A ideia aceita é que o analfabeto funcional não domina a leitura e a escrita a ponto de usá-las no dia a dia. A UNESCO (1978) chama de funcionalmente analfabeta a pessoa que não consegue participar das atividades em que ler, escrever e calcular são necessários para atuar no seu grupo e na sua comunidade e para continuar aprendendo.\n\n**As outras:**\n- *Ser capaz de interpretar textos e colocar ideias no papel.*: descreve quem é alfabetizado funcionalmente, o oposto.\n- *O indivíduo com menos de oito anos de estudos incompletos.*: esse corte não é usado para definir analfabetismo funcional.\n- *O indivíduo com menos de quatro anos de estudos incompletos.*: lembra o indicador estatístico do IBGE (menos de quatro anos de estudo), que é uma forma de medir, não o conceito.\n\nPonto discutível: pelo critério da própria UNESCO (1958), quem não lê nem escreve com compreensão um enunciado simples é **analfabeto absoluto**. O analfabeto funcional costuma ler e escrever frases simples, mas não consegue usar a escrita nas demandas da vida. Por isso a alternativa oficial é contestável."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Gerais",
+   "disciplina": "especificos",
+   "assunto": "estatuto-cidade-plano-diretor",
+   "enunciado": "O plano diretor municipal foi criado como instrumento de política de desenvolvimento e expansão urbana. O plano diretor, legalmente, deve ser implantado em cidades com um quantitativo mínimo de:",
+   "alternativas": [
+    "20.000 hab.",
+    "30.000 hab.",
+    "50.000 hab.",
+    "100.000 hab."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"20.000 hab.\":** a **Constituição, art. 182, §1º**, diz que o plano diretor, aprovado pela Câmara Municipal, é **obrigatório para cidades com mais de vinte mil habitantes** e é o instrumento básico da política de desenvolvimento e de expansão urbana. O **Estatuto da Cidade (Lei 10.257/2001), art. 41, I**, repete a regra. (Rigor de leitura: a lei diz \"mais de\" 20 mil, e a banca escreveu \"mínimo de\".)\n\nAlém do critério de população, o art. 41 exige plano diretor em cidades de regiões metropolitanas e aglomerações urbanas; onde o município queira usar os instrumentos do art. 182, §4º (parcelamento compulsório, IPTU progressivo, desapropriação com títulos); em áreas de especial interesse turístico; na área de influência de empreendimentos de significativo impacto ambiental; e em municípios do cadastro de áreas sujeitas a deslizamentos e inundações.\n\n**As outras:**\n- *30.000 hab.*, *50.000 hab.* e *100.000 hab.*: nenhum desses números aparece na regra; o corte populacional é 20 mil.\n\n**Para memorizar:** plano diretor = acima de 20 mil habitantes, aprovado por lei municipal e revisto pelo menos a cada 10 anos (Estatuto da Cidade, art. 40, §3º)."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Segundo a legislação federal consagrada sobre o assunto, o serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos é composto pelas seguintes atividades, EXCETO:",
+   "alternativas": [
+    "Varrição, capina e poda de árvores em vias e logradouros públicos e outros eventuais serviços pertinentes à limpeza pública urbana.",
+    "Coleta, transbordo e transporte dos resíduos relacionados a lixo doméstico e o lixo originário da varrição e limpeza de logradouros e vias públicas.",
+    "Educação ambiental diretamente realizada nas residências dos munícipes com a utilização de material didático confeccionado com resíduos reciclados.",
+    "Triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de disposição final dos resíduos relacionados a lixo doméstico e o lixo originário da varrição e limpeza de logradouros e vias públicas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Educação ambiental diretamente realizada nas residências…\" é a resposta:** a **Lei 11.445/2007** (Lei do Saneamento Básico), no **art. 7º**, diz que o serviço público de limpeza urbana e manejo de resíduos sólidos urbanos é composto por três grupos de atividades: **(I)** coleta, transbordo e transporte; **(II)** triagem para reúso ou reciclagem, tratamento (inclusive compostagem) e disposição final; **(III)** varrição, capina e poda de árvores em vias e logradouros públicos e outros serviços de limpeza pública. Educação ambiental de porta em porta não está na lista.\n\n**As outras (estão no art. 7º):**\n- *Varrição, capina e poda de árvores…*: inciso III.\n- *Coleta, transbordo e transporte…*: inciso I.\n- *Triagem para fins de reúso ou reciclagem…*: inciso II.\n\nDepois da prova, a **Lei 14.026/2020** (novo marco do saneamento) reescreveu o art. 7º: o inciso III passou a citar também a limpeza de dispositivos de drenagem pluvial e de córregos, a raspagem e a roçada. A educação ambiental continua fora.\n\n**Para memorizar:** saneamento básico = quatro serviços (art. 3º, I): água, esgoto, limpeza urbana e resíduos sólidos, drenagem pluvial. Educação ambiental é política própria (Lei 9.795/1999)."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "sus-vigilancia-sanitaria",
+   "enunciado": "Combinando-se as competências atribuídas a cada uma das esferas governamentais com as atribuições comuns e os objetivos gerais do SUS, enunciados na Constituição Federal e na Lei Orgânica da Saúde, e enquadrando-as no esquema de limites pra o exercício dessas competências pelas entidades estatais, em matéria de Vigilância Sanitária, incluindo o poder de polícia administrativa sanitária, a quem compete a execução de todas as ações inerentes a esta matéria?",
+   "alternativas": [
+    "À União.",
+    "À ANVISA.",
+    "Aos Estados.",
+    "Aos Municípios."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Aos Municípios.\":** o SUS é descentralizado **com ênfase nos municípios** (Lei 8.080/1990, art. 7º, IX, \"a\"), e a lei reparte a vigilância sanitária assim:\n\n- **União** (art. 16, III, \"d\"): define e coordena o sistema; executa a vigilância de portos, aeroportos e fronteiras (art. 16, VII) e atua em circunstâncias especiais (§1º).\n- **Estados** (art. 17, IV, \"b\"): coordenam e executam **em caráter complementar**.\n- **Municípios** (art. 18, IV, \"b\"): **executam** os serviços de vigilância sanitária.\n\nPor isso a execução, com o poder de polícia do dia a dia (inspeção, licença, auto de infração, interdição), cabe ao município. A Constituição dá ao SUS a execução da vigilância sanitária (art. 200, II) e ao município a prestação dos serviços de saúde (art. 30, VII).\n\n**As outras:**\n- *À União.*: normatiza e coordena; executa só portos, aeroportos, fronteiras e situações excepcionais.\n- *À ANVISA.*: autarquia federal que coordena o Sistema Nacional de Vigilância Sanitária e executa a parte federal (Lei 9.782/1999, arts. 2º e 7º), não todas as ações.\n- *Aos Estados.*: coordenam no seu território e executam em caráter complementar.\n\n**Para memorizar:** União **define**, Estado **coordena e complementa**, Município **executa**."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "licenciamento-ambiental",
+   "enunciado": "Conforme a legislação em vigor, o Estudo de Impacto Ambiental desenvolverá, no mínimo, determinadas atividades técnicas. Dentre elas, cita-se o diagnóstico ambiental da área de influência do projeto, que consiste na completa descrição e análise dos recursos ambientais e suas interações, de modo a caracterizar a situação ambiental da área antes da implantação de certos projetos. São itens a serem considerados neste diagnóstico, EXCETO:",
+   "alternativas": [
+    "O meio físico – o subsolo, as águas, o ar e o clima, destacando os recursos minerais, a topografia, os tipos e aptidões do solo, os corpos d'água, o regime hidrológico, as correntes marinhas, as correntes atmosféricas.",
+    "O meio biológico e os ecossistemas naturais – a fauna e a flora, destacando as espécies indicadoras da qualidade ambiental, de valor científico e econômico, raras e ameaçadas de extinção e as áreas de preservação permanente.",
+    "O meio ambiente e suas características presentes nas áreas vizinhas ao projeto; a legislação municipal relativa ao meio ambiente; o corpo técnico das prefeituras dos municípios da área do projeto que trabalham com meio ambiente.",
+    "O meio socioeconômico – o uso e ocupação do solo, os usos da água e a socioeconomia, destacando os sítios e os monumentos arqueológicos, históricos e culturais da comunidade, as relações de dependência entre a sociedade local, os recursos ambientais e a potencial utilização futura desses recursos."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O meio ambiente e suas características presentes nas áreas vizinhas…\" é a resposta:** a **Resolução CONAMA 001/1986, art. 6º, I**, manda que o diagnóstico ambiental da área de influência considere três meios: **físico** (subsolo, águas, ar, clima, solos, regime hidrológico, correntes), **biológico** (fauna, flora, ecossistemas, espécies raras e ameaçadas, áreas de preservação permanente) e **socioeconômico** (uso e ocupação do solo, usos da água, sítios arqueológicos e históricos, dependência da sociedade em relação aos recursos). Legislação municipal e corpo técnico das prefeituras não são itens do diagnóstico.\n\n**As outras (estão no art. 6º, I):**\n- *O meio físico – o subsolo, as águas…*: alínea \"a\".\n- *O meio biológico e os ecossistemas naturais…*: alínea \"b\".\n- *O meio socioeconômico – o uso e ocupação do solo…*: alínea \"c\".\n\nO art. 6º traz ainda as outras atividades mínimas do EIA: análise dos impactos (II), medidas mitigadoras (III) e programa de acompanhamento e monitoramento (IV). Os planos e programas governamentais da área aparecem nas diretrizes do art. 5º, IV.\n\n**Para memorizar:** diagnóstico do EIA = meio **físico, biológico e socioeconômico**."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "boas-praticas-riscos-biosseguranca",
+   "enunciado": "Analise as seguintes afirmativas a respeito de saneamento ambiental, marque V para as verdadeiras e F para as falsas.\n\n(  ) Após a utilização da água potável e sua consequente transformação em esgoto, as estações de tratamento concentram a poluição remanescente no lodo, antes de devolver à natureza os efluentes tratados. O lodo é, portanto, o último resíduo do ciclo urbano da água. Quando produzido no sistema de tratamento de esgotos sanitários é utilizado de forma útil, podendo ser denominado “biossólido”. As principais alternativas de tratamento e destino final de lodos de esgoto incluem sua disposição em aterros sanitários, incineração, disposição oceânica (proibida em alguns países), e várias formas de disposição no solo, tais como a recuperação de áreas degradadas, uso como fertilizante em grandes culturas e reflorestamentos.\n\n(  ) Os lixiviados de aterros sanitários também como o líquido proveniente da umidade natural e da água de constituição presente na matéria orgânica dos resíduos, dos produtos da degradação biológica dos materiais orgânicos e da água de infiltração na camada de cobertura e interior das células de aterramento, somado a materiais dissolvidos ou suspensos que foram extraídos da massa de resíduos. Normalmente, este líquido apresenta cor escura, mau cheiro e elevada DBO (Demanda Bioquímica de Oxigênio) e é conhecido com chorume.\n\n(  ) Rejeitos são resíduos sólidos que, depois de esgotadas todas as possibilidades de tratamento e recuperação por processos tecnológicos disponíveis e economicamente viáveis, não apresentam outra possibilidade que não a disposição final ambientalmente adequada.\n\n(  ) Dentre as variadas modalidades de reúso da água tem-se o reúso urbano e o ambiental (paisagístico); estas modalidades envolvem uma grande variedade de aplicações, tais como irrigação de campos de esportes, parques, jardins, cemitérios, canteiros de rodovias, usos ornamentais, usos em descargas de banheiros, combate a incêndios, limpeza de ruas, desobstrução de redes de esgoto e de drenagem pluvial, abatimento de poeira etc.\n\n(  ) As melhores tecnologias de tratamento de água são aquelas que conseguem aumentar satisfatoriamente os níveis que fosfatos e, principalmente, nitritos e nitratos, substâncias benéficas à saúde dos humanos tanto quanto o flúor.\n\nA sequência está correta em",
+   "alternativas": [
+    "F, F, V, F, V.",
+    "V, V, V, V, F.",
+    "F, V, F, V, F.",
+    "V, F, F, F, V."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"V, V, V, V, F.\":** veja item por item.\n\n- **V:** o tratamento de esgoto concentra a poluição no **lodo**; tratado e aproveitado, ele é chamado de **biossólido**. Aterro, incineração e uso no solo (agricultura, recuperação de áreas degradadas) são os destinos clássicos. No Brasil o uso em solo é regulado pelo CONAMA (Resolução 375/2006, atualizada pela 498/2020).\n- **V:** o lixiviado de aterro, o **chorume**, vem da umidade dos resíduos, da decomposição da matéria orgânica e da água que se infiltra; é escuro, malcheiroso e tem DBO alta.\n- **V:** é a definição de **rejeito** da Política Nacional de Resíduos Sólidos (Lei 12.305/2010, art. 3º, XV).\n- **V:** reúso urbano não potável e paisagístico inclui irrigação, descarga de bacias, combate a incêndio, lavagem de ruas e controle de poeira.\n- **F:** o tratamento busca **reduzir** nitratos, nitritos e fosfatos. Nitrato e nitrito em excesso causam metemoglobinemia (\"síndrome do bebê azul\") e têm valor máximo na norma de potabilidade (nitrato: 10 mg/L como N). O flúor é dosado para prevenir cárie, e o excesso causa fluorose.\n\n**As outras:**\n- *F, F, V, F, V.* e *V, F, F, F, V.*: dão como verdadeira a afirmação sobre nitratos e negam definições corretas.\n- *F, V, F, V, F.*: nega as definições corretas de lodo/biossólido e de rejeito.\n\n**Para memorizar:** rejeito = não tem mais aproveitamento → **disposição** final (aterro). Resíduo ainda aproveitável → **destinação** final (reciclagem, compostagem)."
+  },
+  {
+   "id": "idecan-2017-sgra-fiscal-vigilancia-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "poder-policia-processo-sanitario",
+   "enunciado": "Qual a penalidade prevista para quem “falsificar, corromper, adulterar ou alterar produto destinado a fins terapêuticos ou medicinais”?",
+   "alternativas": [
+    "Detenção de seis meses a um ano.",
+    "Reclusão, de dez a quinze anos, e multa.",
+    "Detenção de dois meses a três anos, e multa.",
+    "Multa de um salário mínimo e prestação de serviços comunitários."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Reclusão, de dez a quinze anos, e multa.\":** é a pena do **art. 273 do Código Penal**, na redação da Lei 9.677/1998. O §1º-A inclui no crime medicamentos, matérias-primas, insumos farmacêuticos, cosméticos, saneantes e produtos de diagnóstico, e o §1º aplica a mesma pena a quem importa, vende, expõe à venda, tem em depósito ou distribui o produto adulterado. É **crime hediondo** (Lei 8.072/1990, art. 1º, VII-B, incluído pela Lei 9.695/1998). Na forma culposa (§2º), a pena é detenção de 1 a 3 anos e multa. Para o fiscal, a mesma conduta é também infração sanitária, apurada em processo administrativo (Lei 6.437/1977).\n\n**As outras:**\n- *Detenção de seis meses a um ano.*: pena de crime leve, muito abaixo da prevista no art. 273.\n- *Detenção de dois meses a três anos, e multa.*: não existe essa faixa no art. 273; detenção (1 a 3 anos) só aparece na forma culposa.\n- *Multa de um salário mínimo e prestação de serviços…*: o Código Penal não prevê essa pena para o crime.\n\nMudança depois da prova: em 2021 o STF (RE 979.962, Tema 1003) considerou desproporcional a pena de 10 a 15 anos para quem importa medicamento **sem registro na Anvisa** (§1º-B, I) e mandou aplicar a pena original, de 1 a 3 anos. A falsificação do caput segue com 10 a 15 anos.\n\n**Para memorizar:** falsificar remédio = reclusão de 10 a 15 anos, crime hediondo; adulterar alimento (art. 272) = 4 a 8 anos."
+  }
+ ]
+}

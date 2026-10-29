@@ -44,6 +44,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2017-sgra-fiscal-vigilancia",
+  "titulo": "Fiscal de Vigilância Sanitária — Prefeitura de São Gonçalo do Rio Abaixo/MG",
+  "banca": "IDECAN",
+  "ano": 2017,
+  "orgao": "Prefeitura de São Gonçalo do Rio Abaixo/MG",
+  "cargo": "Fiscal de Vigilância Sanitária",
+  "arquivo": "data/provas/idecan-2017-sgra-fiscal-vigilancia.json",
+  "nQuestoes": 30,
+  "duracaoMin": 180
+ },
+ {
   "id": "idecan-2021-cg-fiscal-tributos",
   "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
   "banca": "IDECAN",
