@@ -841,6 +841,16 @@
           : `<p class="muted">Junta o progresso do PC, do celular e do pop-up num arquivo do seu Drive pessoal. É uma configuração única, de uns 5 minutos:
             siga o <a href="${GUIA_SYNC}" target="_blank" rel="noopener">passo a passo</a> e abra o link gerado em cada aparelho.</p>`}
       </section>
+      <section class="card"><div class="card-h"><h2>${ic('baixar')} Levar para o celular</h2></div>
+        <p class="muted">Sem configurar nada: gera um link com o progresso deste aparelho. Mande para você no WhatsApp e abra no
+          celular; ele confirma e junta tudo (nada se perde dos dois lados). Funciona nos dois sentidos e pode repetir quando quiser.</p>
+        <div class="row gap wrap"><button class="btn pri" data-act="levar-link">${ic('baixar')} Copiar link para o celular</button></div>
+        <div id="levar-out" class="levar-out mt" hidden>
+          <textarea id="levar-txt" readonly aria-label="Link com o seu progresso"></textarea>
+          <div class="row gap wrap mt"><a id="levar-wa" class="btn" href="#" target="_blank" rel="noopener">Mandar no WhatsApp</a></div>
+          <p id="levar-tam" class="warn"></p>
+        </div>
+      </section>
       <section class="card"><div class="card-h"><h2>${ic('alvo')} Meta diária</h2></div>
         <div class="f3">
           <div class="f"><label for="mq">Questões</label><input id="mq" type="number" min="1" max="300" value="${m.questoes}"></div>
@@ -958,6 +968,7 @@
     [/^#\/ajustes$/, () => vAjustes(), 'ajustes'],
     [/^#\/mais$/, () => vMais(), 'mais'],
     [/^#\/sync-confirmar$/, () => vSyncConfirmar(), 'ajustes'],
+    [/^#\/levar-confirmar$/, () => vLevarConfirmar(), 'ajustes'],
   ];
   const NAV = [['#/', 'home', 'Início', 'inicio'], ['#/trilhas', 'trilhas', 'Trilhas', 'trilhas'], ['#/questoes', 'questoes', 'Questões', 'questoes'],
     ['#/simulado', 'simulado', 'Simulado', 'simulado'], ['#/biblioteca', 'ler', 'Biblioteca', 'biblioteca'], ['#/videos', 'video', 'Vídeos', 'videos'],
@@ -970,6 +981,8 @@
     const h = location.hash || '#/';
     const sm = h.match(/^#\/sync\?(.*)$/);
     if (sm) { ligarSync(new URLSearchParams(sm[1])); return; }
+    const lm = h.match(/^#\/levar\?d=([\w-]+)$/);
+    if (lm) { receberLink(lm[1]); return; }
     let html = naoAchou(), sec = '';
     for (const [re, fn, s] of ROTAS) { const m = h.match(re); if (m) { CTX = null; html = fn(m); sec = s; break; } }
     secAtual = sec;
@@ -1106,6 +1119,28 @@
         .catch(e => toast(`Sincronização ligada, mas o Drive não respondeu agora (${e.message}). Tento de novo depois.`));
     },
     'sync-cancelar': () => { syncPendente = null; location.hash = '#/'; toast('Nada mudou na sincronização.'); },
+    'levar-link': async () => {
+      try {
+        if (!('CompressionStream' in window)) throw new Error('este navegador não comprime; use Exportar');
+        const url = `${location.origin}${location.pathname}#/levar?d=${await compactar(estadoParaSync(0, 0))}`;
+        const caixa = $('#levar-out');
+        if (caixa) {
+          caixa.hidden = false;
+          $('#levar-txt').value = url;
+          $('#levar-wa').href = `https://wa.me/?text=${encodeURIComponent(`Meu progresso dos estudos: ${url}`)}`;
+          $('#levar-tam').textContent = url.length > 60000 ? 'O link ficou grande demais para o WhatsApp: use Exportar e Importar, ou a sincronização pelo Drive.' : '';
+        }
+        try { await navigator.clipboard.writeText(url); toast('Link copiado. Mande para você no WhatsApp e abra no celular.'); }
+        catch { toast('Copie o link que apareceu abaixo e mande para você.'); }
+      } catch (e) { toast(`Não deu para gerar o link: ${e.message}`); }
+    },
+    'levar-confirmar': () => {
+      const o = levarPendente; levarPendente = null;
+      if (!o) { location.hash = '#/'; return; }
+      try { const n = mesclar(o); location.hash = '#/'; toast(n ? `Pronto: ${n} resposta(s) do outro aparelho somadas.` : 'Pronto: este aparelho já tinha tudo desse link.'); }
+      catch (e) { location.hash = '#/'; toast(`Não deu para juntar: ${e.message}`); }
+    },
+    'levar-cancelar': () => { levarPendente = null; location.hash = '#/'; toast('Nada mudou.'); },
     exportar: () => {
       const dados = Object.assign({}, S, { timer: null });
       const blob = new Blob([JSON.stringify(dados)], { type: 'application/json' });
@@ -1286,6 +1321,47 @@
     }
     rota();
   }
+  // ----- levar o progresso para outro aparelho por um link (sem configurar nada) -----
+  // O link leva o progresso comprimido (gzip + base64url) no próprio endereço; quem abre confirma antes de juntar.
+  async function compactar(obj) {
+    const fluxo = new Blob([JSON.stringify(obj)]).stream().pipeThrough(new CompressionStream('gzip'));
+    const buf = new Uint8Array(await new Response(fluxo).arrayBuffer());
+    let bin = '';
+    for (let i = 0; i < buf.length; i += 0x8000) bin += String.fromCharCode.apply(null, buf.subarray(i, i + 0x8000));
+    return btoa(bin).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  }
+  async function descompactar(txt) {
+    const bin = atob(txt.replace(/-/g, '+').replace(/_/g, '/'));
+    const buf = Uint8Array.from(bin, c => c.charCodeAt(0));
+    const fluxo = new Blob([buf]).stream().pipeThrough(new DecompressionStream('gzip'));
+    return JSON.parse(await new Response(fluxo).text());
+  }
+  let levarPendente = null;
+  async function receberLink(d) {
+    history.replaceState(null, '', `${location.pathname}${location.search}#/levar-confirmar`); // tira os dados da barra
+    levarPendente = null;
+    try {
+      const o = await descompactar(d);
+      if (!o || typeof o !== 'object' || !o.resp || typeof o.resp !== 'object') throw new Error('link sem progresso');
+      levarPendente = o;
+    } catch { toast('Esse link está incompleto ou corrompido (às vezes o WhatsApp corta link longo). Gere outro no aparelho de origem.'); }
+    rota();
+  }
+  function vLevarConfirmar() {
+    const o = levarPendente;
+    if (!o) return `<h1 class="pg">Juntar progresso</h1>${vazio('baixar', 'Abra de novo o link que você gerou no outro aparelho. <a href="#/">Voltar ao início</a>')}`;
+    const nResp = Object.values(o.resp).reduce((s, h) => s + (Array.isArray(h) ? h.length : 0), 0);
+    const nDias = Object.keys(o.dias || {}).length;
+    return `<h1 class="pg">Juntar o progresso do outro aparelho?</h1>
+    <section class="card">
+      <p>Este link traz <b>${nResp}</b> resposta(s) e o registro de <b>${nDias}</b> dia(s) de estudo, além de aulas, vídeos e tarefas marcados.</p>
+      <p class="muted">Tudo é somado ao que já está neste aparelho: nada daqui se perde, e o que já existia não conta em dobro.
+        Só junte se foi você quem gerou o link.</p>
+      <div class="row gap wrap mt"><button class="btn pri" data-act="levar-confirmar">${ic('baixar')} Juntar ao progresso deste aparelho</button>
+        <button class="btn ghost" data-act="levar-cancelar">Cancelar</button></div>
+    </section>`;
+  }
+
   function vSyncConfirmar() {
     const p = syncPendente, atual = syncCfg();
     if (!p) return `<h1 class="pg">Sincronizar com o Drive</h1>${vazio('nuvem', 'Abra de novo o link de sincronização. <a href="#/">Voltar ao início</a>')}`;

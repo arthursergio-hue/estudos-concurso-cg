@@ -25,7 +25,7 @@ a { color: inherit; text-decoration: none; }
 .md a, .sub a, .empty a, .feedback a { color: #b9a8ff; text-decoration: underline; text-underline-offset: 3px; }
 h1, h2, h3 { line-height: 1.2; margin: 0; letter-spacing: -.01em; }
 button { font: inherit; color: inherit; }
-input, select {
+input, select, textarea {
   font: inherit; color: var(--tx); background: var(--s2); border: 1px solid var(--bd2); border-radius: 10px;
   padding: 10px 12px; width: 100%; outline: none;
 }
@@ -380,6 +380,7 @@ body.travado { overflow: hidden; }
 .qcard img { cursor: zoom-in; }
 .qcard .alt img { cursor: pointer; }
 .lbimg { overflow: auto; cursor: zoom-out; }
+.levar-out textarea { min-height: 84px; resize: vertical; font: 12px/1.4 ui-monospace, Consolas, monospace; word-break: break-all; }
 .lbimg img { max-width: 100%; max-height: calc(100vh - 40px); height: auto; object-fit: contain; background: #fff; border-radius: 10px; padding: 6px; touch-action: pinch-zoom; }
 .at img.mdimg { max-height: 180px; }
 .tag.anulada { background: rgba(255, 84, 112, .15); color: #ff8da0; }
