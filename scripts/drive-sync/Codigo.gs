@@ -16,19 +16,24 @@ const PASTA_CONCURSO = '1JjwLLRbxDjuBLbYihbHbFQf1jh7X94ad';
 const SITE = 'https://arthursergio-hue.github.io/estudos-concurso-cg/';
 const FUSO = 'America/Recife';
 
+// O link usa a propriedade do script URL_EXEC (a "URL do app da Web" mostrada ao implantar, que termina em /exec).
+// Rodando pelo editor, ScriptApp.getService().getUrl() devolve o endereço /dev, que só abre para o dono logado e
+// quebraria no celular e no pop-up: por isso só vale endereço terminado em /exec.
 function configurar() {
   const p = PropertiesService.getScriptProperties();
   if (!p.getProperty('CHAVE')) p.setProperty('CHAVE', Utilities.getUuid().replace(/-/g, ''));
   arquivo_();
   const chave = p.getProperty('CHAVE');
   Logger.log('Chave: ' + chave);
-  let url = '';
-  try { url = ScriptApp.getService().getUrl() || ''; } catch (e) {}
-  if (url) {
+  let url = (p.getProperty('URL_EXEC') || '').trim();
+  if (!url) { try { url = ScriptApp.getService().getUrl() || ''; } catch (e) {} }
+  if (/^https:\/\/script\.google\.com\/[\w./-]+\/exec$/.test(url)) {
     Logger.log('Link para ligar a sincronização (abra no PC e no celular):');
     Logger.log(SITE + '#/sync?u=' + encodeURIComponent(url) + '&t=' + chave);
   } else {
-    Logger.log('Agora implante como App da Web e rode configurar() de novo para ver o link.');
+    Logger.log((url ? 'O endereço ' + url + ' não termina em /exec: só abriria logado na sua conta. ' : '') +
+      'Implante como App da Web, copie a "URL do app da Web" (termina em /exec), grave em Configurações do projeto → ' +
+      'Propriedades do script com o nome URL_EXEC e rode configurar() de novo.');
   }
 }
 

@@ -1,4 +1,4 @@
-<!-- updated: 2026-10-28 20:10 · estado do trabalho para a próxima sessão do Claude -->
+<!-- updated: 2026-10-29 12:40 · estado do trabalho para a próxima sessão do Claude -->
 
 # Continuar daqui
 
@@ -54,18 +54,21 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
 - [x] As 5 provas do PCI com captcha (Fiscal de Obras, Agente Administrativo e Assistente Social de CG 2021, EBSERH
   Arquitetura 2014, UEPB 2014) foram baixadas pelo Arthur no Chrome e estão no Drive: 26 de 28 provas com PDF.
   Os PDFs do PCI levam uma marca escondida ("pcimarkpci" + IP e horário do download em base64): não publicar esse texto.
-- [ ] Sincronização pelo Drive: servidor (`scripts/drive-sync/`), site e pop-up prontos; o tempo de leitura soma por
-  aparelho (`dias[k].segPor`, 29/10). Falta só o Arthur fazer os 5 passos de `COMO-CONFIGURAR.md`. Sem configurar,
-  "Levar para o celular" (em Progresso) junta o progresso por um link.
-- [ ] Proposta ainda sem resposta do Arthur: folha de respostas digital (resolve no PDF e marca as letras no app, que
-  corrige pelo gabarito). Transcrever provas inteiras para o app foi recusado (direito autoral).
+- [x] Sincronização pelo Drive **ligada em 29/10** pela estudos-0a, a pedido do Arthur: projeto "Estudos CG -
+  sincronizar" na conta pessoal, criado e implantado por clasp como App da Web (Executar como: eu; Qualquer pessoa);
+  pop-up com `popup/sync.json`; site do PC e celular ligados no mesmo dia. O tempo de leitura soma por aparelho
+  (`dias[k].segPor`). O `configurar()` agora monta o link só com a URL `/exec` (propriedade do script `URL_EXEC`):
+  pelo editor, o Google devolve o endereço `/dev`, que só abre logado. Mudança no `doGet`/`doPost` exige nova versão
+  da implantação (`clasp redeploy`). Sem sincronização, "Levar para o celular" (em Progresso) junta por um link.
+- [x] Folha de respostas digital: superada pelas provas interativas (`data/provas/`), em que o Arthur responde no app
+  e o app corrige pelo gabarito oficial.
 - [x] Explicações completas nas 230 questões de Específicas (estudos-56, commit f58e54b).
 - [x] Normas atualizadas nas aulas: licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024), EAS (RDC 51/2011, no lugar da RDC 189/2003).
 - [x] CRF-SP 2017 removida do catálogo: é o mesmo concurso da de 2018. PDF de 2017 ainda no Drive, para o Arthur apagar se quiser.
 - [x] Padrão de explicação registrado no `CLAUDE.md` (29/10, estudos-f8), porque o próprio Arthur pediu explicação
   completa em todas as questões em 28/10.
-- [ ] Pendente de decisão do Arthur: regra do `CLAUDE.md` sobre provas reais (o texto ainda diz "provas inteiras ficam
-  como link", mas 17 provas já estão digitadas em `data/provas/`). Não alterado sem aprovação.
+- [x] Regra do `CLAUDE.md` sobre provas reais atualizada com o OK do Arthur (estudos-0a, commits e06f9d6 e 4d81f33):
+  as provas digitadas estão publicadas e, com várias sessões abertas, uma coordena as outras.
 - [ ] Pendente de decisão do Arthur: o e-mail pessoal saiu dos arquivos (commit da76dae), mas continua no histórico
   público do GitHub (entrou no primeiro commit, 8d462ae). Tirar de lá exige reescrever a história e dar force push, o
   que afeta todas as sessões: só com o OK dele.
@@ -81,7 +84,8 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   Específicas 20 (peso 2). 4 alternativas (A–D).
 - Não há Raciocínio Lógico/Matemática para nível superior neste edital (o Arthur citou "matemática"; avisar).
 - Requisito do cargo inclui pós lato sensu em Vigilância Sanitária/Saúde (Ret. 01): avisar o Arthur.
-- Questões das Específicas: autorais no estilo IDECAN; provas reais só por link.
+- Questões das Específicas: autorais no estilo IDECAN. Questões e provas reais entram com crédito completo e gabarito
+  oficial conferido (Arthur, 28/10); texto de NBR não se copia, só se cita o item.
 - Pop-up detecta reunião pelo microfone/câmera em uso, tela cheia, "não perturbe" e PC parado; não usa a agenda.
 
 ## Provas interativas (estudos-90 em 28/10; estudos-73 concluiu em 29/10)
@@ -98,7 +102,12 @@ Cole isto numa sessão nova aberta em `C:\dev\pessoal\estudos`:
   QConcursos bloqueia acesso automático), Arquiteto e Auditor Fiscal da Vigilância Sanitária da SESAP-RN 2025 e
   Arquiteto da SOP-CE 2025.
 
-## Onde parou em 28/10/2026 (noite)
+## Onde parou em 29/10/2026
 
-- Nada gravado pela metade. Último arquivo mexido: `scripts/drive-sync/Codigo.gs` (endurecimento do `mesclar_` e campo `e` numérico). Sintaxe conferida; ainda não testado no Google de verdade.
-- Para amanhã, na ordem: (1) Arthur configura o Apps Script (`scripts/drive-sync/COMO-CONFIGURAR.md`) e manda o link de volta se der erro; (2) ~~conferir o gabarito das 230 de Específicas~~ (feito em 29/10); (3) decidir a regra de provas no `CLAUDE.md` (pendente de aprovação do Arthur); (4) apagar, se ele quiser, o PDF duplicado do CRF-SP 2017 no Drive.
+- Nada gravado pela metade. Sincronização pelo Drive no ar; gabarito das Específicas conferido; regra de provas do
+  `CLAUDE.md` decidida; Código de Obras com aula e 12 questões.
+- Ainda com o Arthur: (1) tirar ou não o e-mail pessoal do histórico do git (force push); (2) os 4 cadernos que
+  faltam (Arquiteto CG 2021, SESAP-RN 2025 Arquiteto e Auditor Fiscal da VISA, SOP-CE 2025); (3) instalar a tarefa
+  agendada do pop-up; (4) apagar, se quiser, o PDF duplicado do CRF-SP 2017 no Drive.
+- Próximo conteúdo: questões do Código Sanitário de CG (LC 51/2010), do Código de Posturas (Lei 4.129/2003) e da Lei
+  Orgânica, quando houver o texto.

@@ -1,4 +1,4 @@
-<!-- updated: 2026-10-28 · versão 1.0 · dono: Arthur Sérgio · público: pessoal -->
+<!-- updated: 2026-10-29 · versão 1.0 · dono: Arthur Sérgio · público: pessoal -->
 
 # Estudos · Concurso Prefeitura de Campina Grande/PB — Inspetor Sanitário (Arquiteto)
 
@@ -33,12 +33,13 @@ Tem três partes:
 
 - Pasta: `G:\Meu Drive\00 - Pessoal\Concurso\Campina Grande 2026 - Inspetor Sanitario Arquiteto\`
   (conta Google pessoal do Arthur), com `Provas da IDECAN\` (26 provas com gabarito, de 2014 a 2026, inclusive as 3
-  de Campina Grande 2021 do edital 001 e a de Fiscal de Obras da UEPB 2014), `Edital\` e,
-  depois de ligar a sincronização, `Progresso do app\`.
+  de Campina Grande 2021 do edital 001 e a de Fiscal de Obras da UEPB 2014), `Edital\` e
+  `Progresso do app\` (o progresso sincronizado).
 - Na aba **Provas**, as que estão no Drive abrem direto lá (prova e gabarito). Os links são privados: só abrem logado
   na conta pessoal.
-- **Sincronizar PC, celular e pop-up pelo Drive:** siga [scripts/drive-sync/COMO-CONFIGURAR.md](scripts/drive-sync/COMO-CONFIGURAR.md)
-  (5 minutos, uma vez). O site e o pop-up já estão prontos para usar.
+- **Sincronização pelo Drive ligada (29/10/2026):** PC, celular e pop-up juntam o progresso em
+  `Progresso do app\progresso.json`. Para reinstalar ou trocar a chave:
+  [scripts/drive-sync/COMO-CONFIGURAR.md](scripts/drive-sync/COMO-CONFIGURAR.md).
 
 ## O que mudou
 
@@ -48,7 +49,8 @@ Tem três partes:
   (radier) e a prescrição na improbidade (STF, ADIs 7156 e 7236). **Provas interativas: 25 provas reais digitadas** em `data/provas/` (1.340 questões,
   gabarito oficial e explicação; validar: `python -I scripts/validar_provas.py`). Novo em Progresso: **Levar
   para o celular**, um link com o progresso do aparelho para mandar no WhatsApp, abrir no outro aparelho e juntar
-  depois de confirmar, sem configuração.
+  depois de confirmar, sem configuração. **Sincronização pelo Drive ligada** na conta pessoal (Apps Script
+  "Estudos CG - sincronizar", feito pela estudos-0a): PC, celular e pop-up juntam o progresso num arquivo do Drive.
 - **28/10/2026 — explicações completas.** As 230 questões de Específicas agora têm comentário com "Por que", "As outras" e "Para memorizar" (feito pela estudos-56). Correções: enunciados de esp-0032, 0036 e 0143; RDC 189/2003 trocada por RDC 51/2011 (revogada pelo art. 32 da RDC 51) em esp-0146; aulas de licenciamento (Lei 15.190/2025), hidrossanitárias (NBR 17076:2024), SPDA (NBR 5419:2026), conforto (NBR 15220-3:2024) e EAS (RDC 51/2011) atualizadas.
 - **28/10/2026 — versão 1.1.** 21 provas reais da IDECAN baixadas no Drive pessoal e ligadas ao app; servidor de
   sincronização pelo Drive (Apps Script) pronto para configurar.
@@ -90,9 +92,6 @@ Como acrescentar questões de Específicas: escreva um lote em `references/lotes
 
 ## O que ainda não está
 
-- **Sincronização pelo Drive:** o site e o pop-up já usam; falta só o Arthur fazer os 5 passos do Apps Script
-  ([scripts/drive-sync/COMO-CONFIGURAR.md](scripts/drive-sync/COMO-CONFIGURAR.md)). Sem configurar nada, use **Levar
-  para o celular** em Progresso (link pelo WhatsApp).
 - Duas provas só existem com cadastro no QConcursos e ficam como link: UERN 2016 e Maracanaú Urbanismo 2023.
   Baixando o PDF, salve na pasta `Provas da IDECAN` com o nome que está em
   `references/provas-catalogo.json` (campo `arquivo` + ` - prova.pdf`/` - gabarito.pdf`) e rode
