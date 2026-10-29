@@ -1,0 +1,267 @@
+{
+  "id": "legislacao-etica",
+  "nome": "Legislação e Ética no Serviço Público",
+  "questoesNaProva": 3,
+  "peso": 1,
+  "assuntos": [
+    {
+      "id": "lei-organica-cg",
+      "nome": "Lei Orgânica do Município de Campina Grande",
+      "edital": "Lei Orgânica do Município de Campina Grande",
+      "resumo": "Promulgada em **05/04/1990** (texto consolidado até out/2018 no SAPL da Câmara + emendas de 2021, 2023, 2024 e 2026).\n- **Fundamentos (art. 1º)**: ordem jurídica democrática, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político e **organização e participação popular**. Soberania popular: **plebiscito, referendo e iniciativa popular** (art. 3º).\n- **Poderes (art. 6º)**: Legislativo e Executivo, independentes e harmônicos; é **vedado delegar** atribuições. **Símbolos (art. 8º)**: bandeira, hino, brasão e **canção** (\"Tropeiros da Borborema\").\n- **Competências (art. 10)**: legislar sobre **interesse local**; transporte coletivo (essencial); trânsito; poder de polícia; código de posturas; **fixar feriados municipais**. Na falta de norma geral federal/estadual, competência legislativa **plena** (art. 13).\n- **Distrito (art. 27)**: mais de **1.500 habitantes**, mais de **400 eleitores**, sede com **100 moradias**, escola, unidade de saúde e cemitério; criação exige **plebiscito** (art. 23, § 5º).\n- **Câmara – \"Casa de Félix Araújo\" (art. 31)**: **23 vereadores**, legislatura de 4 anos; sessões de **02/02 a 29/06 e 11/07 a 22/12** (art. 32); Mesa com mandato de **2 anos**, recondução permitida (art. 33); **voto aberto** (art. 36, § 3º); **2/3** para empréstimo, privilégio ou interesse particular (art. 36, § 1º); **CPI por 1/3** (art. 47, § 3º).\n- **Vereador** perde o mandato se faltar a **1/3 das sessões ordinárias** ou **mudar a residência** para fora do Município (art. 42); licença não remunerada até **120 dias** por período (art. 43).\n- **Processo legislativo (art. 51)**: emenda à LOM, lei complementar, lei ordinária, **medida provisória** (incluída pela **Emenda 002/2026**, art. 51-A: relevância e urgência, 60 + 60 dias), decreto legislativo e resolução.\n- **Emenda à LOM (art. 52)**: proposta de **1/3 dos vereadores, do Prefeito ou de 5% do eleitorado**; **2 turnos**, **3/5** em cada; promulgada pela **Mesa**; proibida em estado de sítio/defesa ou intervenção.\n- **Lei complementar = maioria absoluta** (art. 54): Plano Diretor, Código Tributário, de Obras, de Posturas, Estatuto dos Servidores, uso do solo, Guarda Municipal. **Iniciativa popular: 5%** do eleitorado (art. 56).\n- **Sanção (art. 59)**: Prefeito tem **15 dias**; silêncio = **sanção tácita**; motivos do veto em **48 h**; Câmara decide em **30 dias**, rejeita o veto por **maioria absoluta**.\n- **Prefeito**: posse em 1º/1 (art. 64); sair do Município por **mais de 15 dias** sem autorização da Câmara = perda do mandato (art. 69); dupla vacância → eleição em 90 dias, ou **pela Câmara em 30 dias** nos 2 últimos anos (art. 67); julgado pelo **Tribunal de Justiça** (art. 72).\n- **Pegadinhas**: o art. 97 cita só legalidade, impessoalidade, moralidade e publicidade (texto antigo) e o art. 112 ainda fala em estabilidade após 2 anos – na prova, a **CF prevalece** (eficiência e **3 anos**).",
+      "leituras": [
+        {
+          "titulo": "Lei Orgânica do Município de Campina Grande (texto atualizado até out/2018)",
+          "tipo": "lei",
+          "url": "https://sapl.campinagrande.pb.leg.br/media/sapl/public/normajuridica/1990/9343/lei_organica_do_muncipio-autalizada-outubro-2018.pdf",
+          "gratuito": true,
+          "nota": "Ler arts. 1º a 13 (organização e competências), 23 a 27 (distritos), 31 a 62 (Câmara e processo legislativo), 63 a 74 (Prefeito) e 96 a 115 (administração e servidores)."
+        },
+        {
+          "titulo": "Emenda à Lei Orgânica nº 002/2026 – medida provisória municipal",
+          "tipo": "lei",
+          "url": "https://sapl.campinagrande.pb.leg.br/media/sapl/public/normajuridica/2026/1000789/emlom_002_2026.pdf",
+          "gratuito": true,
+          "nota": "Novidade de 12/08/2026: altera o art. 51, cria o art. 51-A (medida provisória do Prefeito) e o inciso XXI do art. 70. PDF digitalizado."
+        },
+        {
+          "titulo": "Prefeitura de Campina Grande – página da Lei Orgânica",
+          "tipo": "site",
+          "url": "https://campinagrande.pb.gov.br/lei-organica-do-municipio/",
+          "gratuito": true,
+          "nota": "Mesma LOM em PDF no site da Prefeitura (cópia de 2018)."
+        },
+        {
+          "titulo": "Constituição Federal – arts. 29 a 31 (municípios) e 37 a 41 (administração e servidores)",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+          "gratuito": true,
+          "nota": "A LOM segue a CF; quando a LOM está desatualizada (estabilidade, eficiência), vale a CF."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "LEI ORGÂNICA DO MUNICÍPIO DE CAMPINA GRANDE - BANCA IDECAN - PARA TODOS OS CARGOS  - 2026",
+          "canal": "PROF LUIZ PAULO",
+          "youtubeId": "5ewXVjlblaw",
+          "duracao": "1:02:18"
+        },
+        {
+          "titulo": "Lei Orgânica de Campina Grande: Aula Completa para a IDECAN",
+          "canal": "Edital em Foco",
+          "youtubeId": "etb1hcaiqoo",
+          "duracao": "1:04:43"
+        },
+        {
+          "titulo": "Concurso Público Prefeitura de Campina Grande PB aula 01 Lei Orgânica Municipal e Questões 2026",
+          "canal": "SevenConcursos",
+          "youtubeId": "9HZAtioCyeU",
+          "duracao": "23:08"
+        }
+      ]
+    },
+    {
+      "id": "lgpd",
+      "nome": "LGPD (Lei 13.709/2018)",
+      "edital": "LGPD (Lei 13.709/2018)",
+      "resumo": "- **Objetivo (art. 1º)**: proteger liberdade, privacidade e livre desenvolvimento da personalidade da **pessoa natural**; vale para pessoa física ou jurídica, pública ou privada, inclusive no meio digital. Proteção de dados também é direito fundamental (CF, art. 5º, LXXIX).\n- **Fundamentos (art. 2º)**: respeito à privacidade, **autodeterminação informativa**, liberdade de expressão, inviolabilidade da intimidade, desenvolvimento e inovação, livre iniciativa e defesa do consumidor, direitos humanos.\n- **Não se aplica (art. 4º)**: pessoa natural para fins **exclusivamente particulares e não econômicos**; fins **exclusivamente jornalísticos, artísticos** ou acadêmicos; **segurança pública, defesa nacional, segurança do Estado, investigação e repressão penal**.\n- **Conceitos (art. 5º)**: dado pessoal; **dado sensível** (origem racial ou étnica, religião, opinião política, filiação sindical, saúde, vida sexual, genético, biométrico); dado anonimizado; **controlador** (decide), **operador** (trata em nome do controlador), **encarregado** (canal de comunicação), **ANPD**.\n- **Princípios (art. 6º)**: finalidade, adequação, necessidade, **livre acesso** (consulta facilitada e gratuita), qualidade, transparência, segurança, prevenção, não discriminação, responsabilização.\n- **Bases legais (art. 7º)**: consentimento, obrigação legal, políticas públicas, pesquisa (anonimização **sempre que possível**), contrato, processo, **proteção da vida**, **tutela da saúde exclusivamente por profissionais/serviços de saúde**, legítimo interesse, crédito. Dado tornado **manifestamente público** pelo titular dispensa consentimento (§ 4º).\n- **Pseudonimização (art. 13, § 4º)**: o dado só volta a identificar a pessoa com informação adicional guardada à parte pelo controlador.\n- **Poder Público (arts. 23 a 27)**: trata dados para finalidade pública; empresa pública e sociedade de economia mista **em concorrência** seguem as regras do **setor privado** (art. 24); uso compartilhado com ente privado deve ser **informado à ANPD** e depende de consentimento, salvo exceções (art. 27).\n- **Sanções (art. 52)**: advertência, multa de até **2% do faturamento, limitada a R$ 50 milhões por infração**, publicização, bloqueio e eliminação dos dados.",
+      "leituras": [
+        {
+          "titulo": "Lei nº 13.709/2018 (LGPD) – Planalto",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+          "gratuito": true,
+          "nota": "Ler arts. 1º a 7º, 11, 13, 18 (direitos do titular), 23 a 27 (Poder Público), 41 (encarregado) e 52 (sanções)."
+        },
+        {
+          "titulo": "ANPD – Autoridade Nacional de Proteção de Dados",
+          "tipo": "site",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "gratuito": true,
+          "nota": "Guias orientativos (inclusive para o Poder Público) e perguntas frequentes."
+        },
+        {
+          "titulo": "Constituição Federal – art. 5º, LXXIX (EC 115/2022)",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+          "gratuito": true,
+          "nota": "Proteção de dados pessoais como direito fundamental."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Lei Geral de Proteção de Dados Pessoais para Concursos - Lei 13.709/18 - Prof. Herbert Almeida",
+          "canal": "Estratégia Concursos",
+          "youtubeId": "hjnd-8AZtMI",
+          "duracao": "3:33:10"
+        },
+        {
+          "titulo": "Lei nº 13.709 de 2018 - Lei Geral de Proteção de Dados (LGPD) - Conceitos e Características",
+          "canal": "Professor Raphael Pinho",
+          "youtubeId": "XbuniaIh_Tc",
+          "duracao": "30:47"
+        },
+        {
+          "titulo": "Lei Geral de Proteção de Dados (LGPD) para Concursos: Questões de Prova 2024",
+          "canal": "Gran Cursos Online",
+          "youtubeId": "BN_8cWtFb9I",
+          "duracao": "1:01:05"
+        }
+      ]
+    },
+    {
+      "id": "lai",
+      "nome": "LAI – Lei de Acesso à Informação (Lei 12.527/2011)",
+      "edital": "LAI (Lei 12.527/2011)",
+      "resumo": "- **Quem cumpre (arts. 1º e 2º)**: União, Estados, DF e **Municípios** (três Poderes, Tribunais de Contas, MP), autarquias, fundações, empresas públicas, sociedades de economia mista e entidades privadas **sem fins lucrativos** que recebem recursos públicos (quanto a esses recursos). Em Campina Grande: Lei Municipal 6.458/2016 e **Decreto 4.317/2017**.\n- **Diretrizes (art. 3º)**: **publicidade é a regra, sigilo a exceção**; divulgação de interesse público **independentemente de solicitação**; uso da tecnologia; cultura de transparência; **controle social**.\n- **Qualidades da informação (art. 4º)**: disponibilidade, **autenticidade**, **integridade** (não modificada, inclusive origem, trânsito e destino), **primariedade** (coletada na fonte, com o máximo de detalhamento).\n- **Transparência ativa (art. 8º)**: divulgar em site oficial repasses, despesas, **licitações e contratos**, programas e FAQ (obrigatório para municípios com mais de 10 mil habitantes).\n- **Pedido (arts. 10 a 12)**: qualquer interessado, com identificação, **sem precisar dizer o motivo**; resposta imediata ou em **até 20 dias, + 10** com justificativa; gratuito (salvo custo de cópia).\n- **Recurso (art. 15)**: **10 dias** à autoridade **hierarquicamente superior**, que decide em **5 dias**. No Executivo federal: CGU e Comissão Mista de Reavaliação.\n- **Sigilo (arts. 23 e 24)**: **ultrassecreta 25 anos, secreta 15, reservada 5**; o termo final pode ser um **evento**; vencido o prazo, o acesso fica público **automaticamente**. Ultrassecreta: Presidente, **Vice-Presidente**, Ministros, Comandantes e chefes de missão no exterior (art. 27).\n- **Informação pessoal (art. 31)**: acesso restrito por até **100 anos**; sem consentimento só para diagnóstico médico, pesquisa de interesse público, **ordem judicial**, **defesa de direitos humanos** e **interesse público e geral preponderante**.\n- **Responsabilidade (arts. 32 a 34)**: entidade privada pode levar advertência, **multa**, rescisão, suspensão e inidoneidade (advertência, rescisão e suspensão podem vir **junto com multa**); o órgão responde **diretamente** pelos danos, com regresso contra o agente em caso de **dolo ou culpa**.",
+      "leituras": [
+        {
+          "titulo": "Lei nº 12.527/2011 (LAI) – Planalto",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+          "gratuito": true,
+          "nota": "Ler arts. 1º a 8º, 10 a 16, 23 a 31 e 32 a 34."
+        },
+        {
+          "titulo": "Decreto nº 7.724/2012 – regulamenta a LAI no Executivo federal",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm",
+          "gratuito": true,
+          "nota": "Prazos, SIC, classificação e recursos no detalhe."
+        },
+        {
+          "titulo": "Campina Grande – Decreto nº 4.317/2017 (regulamenta a Lei Municipal 6.458/2016)",
+          "tipo": "lei",
+          "url": "https://campinagrande.pb.gov.br/wp-content/uploads/2020/06/REG-LAI-Publica%C3%A7%C3%A3o-Seman%C3%A1rio-Oficial.pdf",
+          "gratuito": true,
+          "nota": "A LAI aplicada no Município: conceitos e exemplos de documentos sigilosos (Semanário Oficial nº 2.531, 2017)."
+        },
+        {
+          "titulo": "Portal Acesso à Informação (CGU)",
+          "tipo": "site",
+          "url": "https://www.gov.br/acessoainformacao/pt-br",
+          "gratuito": true,
+          "nota": "Guias, perguntas frequentes e Fala.BR."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "LEI DE ACESSO À INFORMAÇÃO: lei 12.527/11 Comentando os Artigos e MUITAS Questões I bloco 7 CNU 2024",
+          "canal": "Concurseiro Nômade",
+          "youtubeId": "MjgF9_jnkpk",
+          "duracao": "41:38"
+        },
+        {
+          "titulo": "LEI DE ACESSO À INFORMAÇÃO (Lei 12.527) - RESUMO da LAI - Sigilo 100 anos",
+          "canal": "Me Julga - Cíntia Brunelli",
+          "youtubeId": "4pmxaESSBKw",
+          "duracao": "10:39"
+        },
+        {
+          "titulo": "Lei 12.527/2011 Comentada (Lei de Acesso à Informação)",
+          "canal": "Estratégia Carreira Jurídica",
+          "youtubeId": "oMRnm8BCISc",
+          "duracao": "1:05:06"
+        }
+      ]
+    },
+    {
+      "id": "etica-servico-publico",
+      "nome": "Ética no serviço público: ética × moral, valores, democracia e cidadania",
+      "edital": "Ética no serviço público; ética e função pública; ética × moral; valores (honestidade, integridade, decoro, zelo); ética, democracia e cidadania",
+      "resumo": "- **Moral × ética**: a **moral** é o conjunto de normas e costumes de um grupo (prática, muda com o tempo e a cultura); a **ética** é a reflexão crítica e racional sobre a moral, que busca princípios universais. A ética **avalia** a moral.\n- **Valores do servidor**: honestidade, **integridade**, **decoro**, **zelo**, lealdade, probidade, cortesia, eficiência.\n- **Decreto 1.171/1994** (Código de Ética do Servidor Civil do Executivo Federal) – regras que mais caem:\n  - o servidor decide não só entre legal e ilegal, mas **entre o honesto e o desonesto** (item II);\n  - a moralidade vai além do bem e do mal: o **fim é sempre o bem comum** (item III);\n  - a função pública **se integra à vida particular** (item VI); deixar o usuário em **fila** é dano moral (item X).\n- **Deveres (XIV)**: ser probo, reto, leal e justo; atender com rapidez e cortesia; zelar pelo patrimônio. **Vedações (XV)**: usar o cargo para favorecimento, receber presente ou vantagem, **desviar servidor para interesse particular**, **retirar bens da repartição** sem autorização.\n- **Comissão de Ética**: existe em cada órgão; a **única pena é a censura** (item XXII), em parecer assinado por todos os membros.\n- **Conflito de interesses (Lei 12.813/2013)**: prestar serviço a quem tem interesse em decisão do agente ou de colegiado de que participe (art. 5º, II); quarentena de **6 meses** após deixar o cargo.\n- **Ética, democracia e cidadania**: transparência (LAI), participação popular (plebiscito, referendo, iniciativa popular, conselhos – LOM de Campina Grande) e controle social; improbidade (Lei 8.429/1992) exige **dolo**.",
+      "leituras": [
+        {
+          "titulo": "Decreto nº 1.171/1994 – Código de Ética Profissional do Servidor Público Civil",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm",
+          "gratuito": true,
+          "nota": "Ler as Regras Deontológicas (I a XIII), os deveres (XIV), as vedações (XV) e a Comissão de Ética (XVI a XXV)."
+        },
+        {
+          "titulo": "Lei nº 12.813/2013 – Conflito de interesses",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12813.htm",
+          "gratuito": true,
+          "nota": "Arts. 3º, 5º (durante o exercício), 6º (quarentena) e 8º (CEP e CGU)."
+        },
+        {
+          "titulo": "Lei nº 8.429/1992 – Improbidade administrativa",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm",
+          "gratuito": true,
+          "nota": "Arts. 1º, 9º, 10 e 11 (atos de improbidade) com a redação de 2021 (exige dolo)."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Ética no Serviço Público para Concursos DO ZERO – Prof. Thállius Moraes",
+          "canal": "Estratégia Concursos",
+          "youtubeId": "AqXhXsrTj8g",
+          "duracao": "2:42:46"
+        },
+        {
+          "titulo": "Decreto 1.171/94 - Código de Ética - Completo | Questões resolvidas",
+          "canal": "Marks EDU",
+          "youtubeId": "GQ6EyOB_xpU",
+          "duracao": "53:12"
+        },
+        {
+          "titulo": "ÉTICA x MORAL SEMPRE APARECEM E CONFUNDEM NA PROVA",
+          "canal": "Professor Dalmo Azevedo",
+          "youtubeId": "aef-ApRcoE0",
+          "duracao": "13:49"
+        }
+      ]
+    },
+    {
+      "id": "principios-limpe",
+      "nome": "Princípios LIMPE aplicados à ética",
+      "edital": "Princípios LIMPE (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicados à ética",
+      "resumo": "**CF, art. 37, caput**: a administração direta e indireta de todos os Poderes e entes obedece aos princípios de **Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência** (a eficiência entrou pela **EC 19/1998**).\n- **Legalidade**: a Administração só faz o que a lei **autoriza**; \"não ser proibido\" não basta (o particular pode tudo o que a lei não proíbe).\n- **Impessoalidade**: finalidade pública, tratamento igual, sem favorecer amigos ou vizinhos; publicidade oficial **sem nomes, símbolos ou imagens de promoção pessoal** (art. 37, § 1º).\n- **Moralidade**: honestidade, boa-fé e lealdade; o ato pode ser legal e ainda assim imoral (ex.: nepotismo, Súmula Vinculante 13).\n- **Publicidade**: transparência e condição de eficácia dos atos; sigilo só nas exceções da lei (LAI).\n- **Eficiência**: resultado, qualidade e economia (ex.: manter processo em papel tendo sistema eletrônico, gerando filas e atraso).\n- **Implícitos**: supremacia e indisponibilidade do interesse público, razoabilidade, proporcionalidade, motivação, segurança jurídica (Lei 9.784/1999, art. 2º).\n- **Em Campina Grande**: o art. 97 da LOM repete só legalidade, impessoalidade, moralidade e publicidade (texto anterior à EC 19); a eficiência vale pela CF.\n- **Na ética**: o Decreto 1.171 aplica os princípios – moralidade (bem comum), publicidade (item VII), eficiência (atender sem atraso, item XIV, b).",
+      "leituras": [
+        {
+          "titulo": "Constituição Federal – art. 37",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+          "gratuito": true,
+          "nota": "Caput (LIMPE) e § 1º (vedação de promoção pessoal na publicidade oficial)."
+        },
+        {
+          "titulo": "Lei nº 9.784/1999 – processo administrativo federal (art. 2º)",
+          "tipo": "lei",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+          "gratuito": true,
+          "nota": "Lista de princípios explícitos e implícitos e critérios do parágrafo único."
+        },
+        {
+          "titulo": "Lei Orgânica de Campina Grande – art. 97",
+          "tipo": "lei",
+          "url": "https://sapl.campinagrande.pb.leg.br/media/sapl/public/normajuridica/1990/9343/lei_organica_do_muncipio-autalizada-outubro-2018.pdf",
+          "gratuito": true,
+          "nota": "Princípios da administração municipal no texto da LOM."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA - Resumo para Concursos (Art. 37 da Constituição)",
+          "canal": "Me Julga - Cíntia Brunelli",
+          "youtubeId": "Y_m2s4TXPyM",
+          "duracao": "10:07"
+        },
+        {
+          "titulo": "Princípios da Administração Pública para Concursos",
+          "canal": "Focus Concursos",
+          "youtubeId": "FIghHQZw9MQ",
+          "duracao": "33:03"
+        },
+        {
+          "titulo": "Princípios expressos da Administração Pública║LIMPE Art. 37 da CF 🇧🇷║Direito Administrativo",
+          "canal": "Insista // Persista e nunca Desista!",
+          "youtubeId": "MvBQlanmZ14",
+          "duracao": "10:42"
+        }
+      ]
+    }
+  ]
+}

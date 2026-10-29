@@ -1,0 +1,281 @@
+{
+  "id": "historia-cg",
+  "nome": "História de Campina Grande/PB",
+  "questoesNaProva": 3,
+  "peso": 1,
+  "assuntos": [
+    {
+      "id": "origens-fundacao",
+      "nome": "Origens: povos indígenas, aldeamento de 1697 e freguesia",
+      "edital": "História geral do município de Campina Grande/PB – origens, ocupação do Agreste e fundação",
+      "resumo": "**Linha do tempo (fonte: IBGE e Prefeitura)**\n- Antes dos colonos: território de povos **Cariri** (os \"tapuias\" do interior); a campina era passagem de boiadeiros e tropeiros entre o sertão e o litoral.\n- **1º/12/1697**: o capitão-mor **Teodósio de Oliveira Lêdo** aldeia os índios **Ariús (Ariás)**, trazidos da ribeira do Piranhas, no sítio das **Barrocas**. A Prefeitura adota essa data como fundação.\n- **1698**: começa a catequese, com um franciscano enviado pelo governador Manoel Soares de Albergaria.\n- Por que ali: entre o **alto sertão e o litoral**, com terras boas para **mandioca, milho e cereais**. A ocupação do Agreste foi movida pela **pecuária + roças de subsistência**, com sesmarias e subordinação dos indígenas.\n- O povoado cresce em torno da **feira** (feira das Barrocas): a vocação comercial nasce aqui.\n- **1769**: vira **freguesia** de Nossa Senhora da Conceição (distrito criado pela Provisão de 1769).\n\n**Pegadinhas**\n- Teodósio **aldeou** os índios; não \"fundou uma vila\" (a vila só vem em 1790).\n- A ocupação do Agreste **não** foi pela cana (que ficou no litoral) nem pelo algodão (que vem depois).\n- Escadinha: aldeia (1697) → freguesia (1769) → vila (1790) → cidade (1864).",
+      "leituras": [
+        {
+          "titulo": "IBGE – Histórico e formação administrativa de Campina Grande",
+          "tipo": "site",
+          "url": "https://servicodados.ibge.gov.br/api/v1/biblioteca?codmun=2504009&aspecto=historico",
+          "gratuito": true,
+          "nota": "Texto oficial do IBGE (campos HISTORICO e FORMACAO_ADMINISTRATIVA). É a fonte que a IDECAN usou em 2021: datas de 1697, 1769, 1788/1790, 1864, 1874, 1907, 1919, 1939 e os desmembramentos de distritos."
+        },
+        {
+          "titulo": "Prefeitura de Campina Grande – História",
+          "tipo": "site",
+          "url": "https://campinagrande.pb.gov.br/historia/",
+          "gratuito": true,
+          "nota": "Resumo oficial: fundação em 1º/12/1697 e elevação a cidade em 11/10/1864; dados atuais da cidade."
+        },
+        {
+          "titulo": "Wikipédia – Campina Grande (seção História)",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Campina_Grande",
+          "gratuito": true,
+          "nota": "Ler 'Ocupação pelo povo indígena Ariús' e 'Surgimento da vila'. Use como apoio; confira as datas no IBGE."
+        },
+        {
+          "titulo": "Wikipédia – Teodósio de Oliveira Ledo",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Teod%C3%B3sio_de_Oliveira_Ledo",
+          "gratuito": true,
+          "nota": "Quem foi o capitão-mor dos sertões e seu papel na interiorização da Paraíba."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "História de Campina Grande - Aula 1 - Concurso Campina Grande 2026 - Formação Histórica da Cidade",
+          "canal": "Diogo Xavier",
+          "youtubeId": "EuOSZBuvLug",
+          "duracao": "18:15"
+        },
+        {
+          "titulo": "Origem de Campina Grande | Concurso Campina Grande 2026",
+          "canal": "Jefter Porto",
+          "youtubeId": "Nlp4zVwC7cI",
+          "duracao": "42:55"
+        },
+        {
+          "titulo": "História de Campina Grande: Como Surgiu a Rainha da Borborema? | Concurso IDECAN #campinagrande",
+          "canal": "Professor Emílio | @emiliohistoriador",
+          "youtubeId": "46KR33cRIRw",
+          "duracao": "21:10"
+        }
+      ]
+    },
+    {
+      "id": "emancipacao-cidade",
+      "nome": "Vila Nova da Rainha, elevação a cidade (1864) e o século XIX",
+      "edital": "História geral do município de Campina Grande/PB – vila, cidade, formação administrativa e revoltas do século XIX",
+      "resumo": "**Datas que mais caem (IBGE)**\n- **25/08/1788**: ordem de criação da vila; **20/04/1790**: instalação da **Vila Nova da Rainha** (homenagem a **D. Maria I**). A vila tinha câmara, cadeia e pelourinho; o povo seguiu chamando o lugar de Campina Grande.\n- A população participou dos movimentos de **1817, 1824 e 1848**.\n- **1830**: construção do **Açude Velho** (Prefeitura).\n- **1851-1852**: **Ronco da Abelha** (Guerra dos Marimbondos), contra os decretos 797 e 798 (censo e registro civil).\n- **11/10/1864**: **Lei Provincial nº 127** eleva a vila a **cidade** de Campina Grande – é o aniversário da cidade.\n- **1874**: **Quebra-Quilos** – começa em **Fagundes** (então território de Campina) num dia de feira; revoltosos quebram as medidas e jogam os pesos no **Açude Velho**. Causas: impostos + centralização + **sistema métrico decimal**. Repressão violenta (capitão Longuinho, \"colete de couro\"); o sistema métrico ficou.\n- **1888**: cerca de **4 mil habitantes**, \"talvez a mais populosa e próspera localidade do interior\".\n- A escravidão foi central na economia local (algodoais, currais, rapadura, serviços).\n\n**Formação administrativa (a IDECAN cobrou em 2021)**: 1911 = 4 distritos (Campina Grande, Pocinhos, Fagundes e Boa Vista); vários distritos depois viraram municípios (ver assunto seguinte).",
+      "leituras": [
+        {
+          "titulo": "IBGE – Histórico e formação administrativa de Campina Grande",
+          "tipo": "site",
+          "url": "https://servicodados.ibge.gov.br/api/v1/biblioteca?codmun=2504009&aspecto=historico",
+          "gratuito": true,
+          "nota": "Texto oficial do IBGE (campos HISTORICO e FORMACAO_ADMINISTRATIVA). É a fonte que a IDECAN usou em 2021: datas de 1697, 1769, 1788/1790, 1864, 1874, 1907, 1919, 1939 e os desmembramentos de distritos."
+        },
+        {
+          "titulo": "Wikipédia – Revolta do Quebra-Quilos",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Revolta_do_Quebra-Quilos",
+          "gratuito": true,
+          "nota": "Causas, alcance regional e repressão do movimento de 1874."
+        },
+        {
+          "titulo": "Wikipédia – Ronco da Abelha",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Ronco_da_Abelha",
+          "gratuito": true,
+          "nota": "Revolta de 1851-52 contra o registro civil e o censo; não confundir com o Quebra-Quilos."
+        },
+        {
+          "titulo": "Wikipédia – Museu Histórico e Geográfico de Campina Grande",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Museu_Hist%C3%B3rico_e_Geogr%C3%A1fico_de_Campina_Grande",
+          "gratuito": true,
+          "nota": "O museu funciona no prédio da antiga cadeia da vila."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "158 anos: no aniversário de Campina Grande, conheça a história dessa cidade - O Povo na TV",
+          "canal": "TH+ SBT TAMBAÚ",
+          "youtubeId": "UhQdW_K4-50",
+          "duracao": "5:20"
+        },
+        {
+          "titulo": "Vila Nova da Rainha",
+          "canal": "Arquivo Histórico de Montadas",
+          "youtubeId": "T1fCA-Hs4x4",
+          "duracao": "23:10"
+        },
+        {
+          "titulo": "O que foi a revolta do Quebra-Quilos?",
+          "canal": "Marcelo Andrade ",
+          "youtubeId": "Hs1_Wttv4eM",
+          "duracao": "10:31"
+        }
+      ]
+    },
+    {
+      "id": "ferrovia-algodao",
+      "nome": "Ferrovia (1907) e ciclo do algodão",
+      "edital": "História geral do município de Campina Grande/PB – chegada do trem, economia algodoeira e crescimento urbano",
+      "resumo": "- **1907**: chega o ramal da **Great Western of Brazil Railway**, vindo de **Itabaiana** (a estação, hoje \"Estação Velha\", abriga o Museu do Algodão). Segundo o *Anuário* de 1926, o trem \"veio quadruplicar a influência desta cidade\".\n- Por que Campina: entroncamento das estradas dos sertões (PB, RN, PI) e forte vocação comercial (feira).\n- **Algodão, o \"ouro branco\"**: Campina **não plantava**; recebia, **beneficiava e exportava** a produção do sertão. Chegou a ser a **2ª praça exportadora de algodão do mundo**, atrás de Liverpool → apelido **\"Liverpool brasileira\"**.\n- População: cerca de **20 mil (1907) → 130 mil (1939)**.\n- Infraestrutura (IBGE): trem **1907** → **iluminação elétrica 1919** (a UEPB cita a inauguração em 1920) → **abastecimento de água 1939**.\n- Entre a cidade velha e a estação surgem novas ruas (1907-1920), hotéis, cafés e comércio.\n- Crise do algodão: falta de porto para grandes navios, concorrência de São Paulo e chegada de multinacionais; depois, a praga do bicudo.\n\n**Pegadinha**: o trem é da **Great Western** (inglesa), não de Delmiro Gouveia.",
+      "leituras": [
+        {
+          "titulo": "IBGE – Histórico e formação administrativa de Campina Grande",
+          "tipo": "site",
+          "url": "https://servicodados.ibge.gov.br/api/v1/biblioteca?codmun=2504009&aspecto=historico",
+          "gratuito": true,
+          "nota": "Texto oficial do IBGE (campos HISTORICO e FORMACAO_ADMINISTRATIVA). É a fonte que a IDECAN usou em 2021: datas de 1697, 1769, 1788/1790, 1864, 1874, 1907, 1919, 1939 e os desmembramentos de distritos."
+        },
+        {
+          "titulo": "Wikipédia – Campina Grande (seção 'Crescimento com o ouro branco')",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Campina_Grande",
+          "gratuito": true,
+          "nota": "Algodão, 'Liverpool brasileira' e salto populacional de 1907 a 1939."
+        },
+        {
+          "titulo": "Wikipédia – Estação Velha (Campina Grande)",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Velha_(Campina_Grande)",
+          "gratuito": true,
+          "nota": "A estação de 1907 e o Museu do Algodão."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "A Chegada do Trem e o Auge do Algodão | Concurso Prefeitura Campina Grande 2026 | IDECAN",
+          "canal": "Jefter Porto",
+          "youtubeId": "W6WMMaJRFp0",
+          "duracao": "42:59"
+        },
+        {
+          "titulo": "História de Campina Grande - Aula 5 - Concurso Campina Grande 2026 - A Economia do Algodão",
+          "canal": "Diogo Xavier",
+          "youtubeId": "oQJZvnfzd58",
+          "duracao": "16:02"
+        },
+        {
+          "titulo": "Great Western - A Chegada do Trem em Campina Grande",
+          "canal": "Milito Farias",
+          "youtubeId": "It84pggaQHY",
+          "duracao": "9:56"
+        }
+      ]
+    },
+    {
+      "id": "crescimento-politica",
+      "nome": "Crescimento, reforma urbana, política e personagens",
+      "edital": "História geral do município de Campina Grande/PB – modernização, vida política e divisão territorial",
+      "resumo": "- **Décadas de 1930-1940**: reforma urbana nas gestões de **Vergniaud Wanderley** – abertura e alinhamento de avenidas, praças, saneamento; prédios coloniais e a igreja do Rosário foram **derrubados**; o centro ganhou o estilo **art déco**. Modelo higienista das capitais (Fábio Gutemberg, *RBH*, 2003).\n- **1953**: o vereador, poeta e jornalista **Félix Araújo** é assassinado; a Câmara se chama **\"Casa de Félix Araújo\"** (art. 31 da Lei Orgânica).\n- Até os **anos 1960**, Campina foi o maior polo comercial e industrial da Paraíba; depois João Pessoa cresce com investimentos públicos e privados.\n- Apelidos: **Rainha da Borborema** (fica no Planalto da Borborema), **Liverpool brasileira**, **Vale do Silício brasileiro**.\n- **Desmembramentos (IBGE)**: Lagoa Seca (Lei 3.133, **04/01/1964**), Massaranduba (Lei 3.308, **07/05/1965**), **Boa Vista (Lei 5.884, 29/04/1994)**.\n- **Distritos hoje**: sede + **Catolé, Galante e São José da Mata**.\n- Hoje: 2ª cidade da Paraíba em população e PIB; prefeito desde 1895 (cargo criado pela Lei Estadual nº 27).\n\n**Pegadinha**: a reforma de 1930-40 **não** conservou o casario colonial – demoliu.",
+      "leituras": [
+        {
+          "titulo": "IBGE – Histórico e formação administrativa de Campina Grande",
+          "tipo": "site",
+          "url": "https://servicodados.ibge.gov.br/api/v1/biblioteca?codmun=2504009&aspecto=historico",
+          "gratuito": true,
+          "nota": "Texto oficial do IBGE (campos HISTORICO e FORMACAO_ADMINISTRATIVA). É a fonte que a IDECAN usou em 2021: datas de 1697, 1769, 1788/1790, 1864, 1874, 1907, 1919, 1939 e os desmembramentos de distritos."
+        },
+        {
+          "titulo": "SciELO – Campina Grande: cartografias de uma reforma urbana no Nordeste do Brasil (1930-1945)",
+          "tipo": "artigo",
+          "url": "https://www.scielo.br/j/rbh/a/W6nhjSscjKhFSY5hQWKWKzH/?lang=pt",
+          "gratuito": true,
+          "nota": "Artigo de Fábio Gutemberg R. B. de Sousa (Revista Brasileira de História, v. 23, n. 46, 2003): a reforma urbana de Vergniaud Wanderley."
+        },
+        {
+          "titulo": "Wikipédia – Félix Araújo",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/F%C3%A9lix_Ara%C3%BAjo",
+          "gratuito": true,
+          "nota": "Vereador assassinado em 1953, nome da Câmara Municipal."
+        },
+        {
+          "titulo": "Lei Orgânica de Campina Grande (art. 8º e art. 31)",
+          "tipo": "lei",
+          "url": "https://sapl.campinagrande.pb.leg.br/media/sapl/public/normajuridica/1990/9343/lei_organica_do_muncipio-autalizada-outubro-2018.pdf",
+          "gratuito": true,
+          "nota": "Art. 8º: símbolos do Município; art. 31: Câmara 'Casa de Félix Araújo'."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Prefeitos de Campina Grande (1947-1964) | Concurso Prefeitura de Campina Grande 2026 | IDECAN",
+          "canal": "Jefter Porto",
+          "youtubeId": "JgTr6lnIWSI",
+          "duracao": "59:28"
+        },
+        {
+          "titulo": "HISTÓRIA DE CAMPINA GRANDE - VERGNIAUD WANDERLEY. Série Especial O MELHOR DA HISTÓRIA CG, Episódio 1",
+          "canal": "O Descobridor",
+          "youtubeId": "q7QkzxD3ti4",
+          "duracao": "15:00"
+        },
+        {
+          "titulo": "História de Campina Grande - Aula 8- Concurso Campina Grande 2026 - O ideal de Progresso dos anos 50",
+          "canal": "Diogo Xavier",
+          "youtubeId": "Q8EZDCk8NH0",
+          "duracao": "15:18"
+        }
+      ]
+    },
+    {
+      "id": "cultura-educacao-tecnologia",
+      "nome": "Cultura, São João, Açude Velho, universidades, polo tecnológico e símbolos",
+      "edital": "História geral do município de Campina Grande/PB – cultura, patrimônio, educação, tecnologia, símbolos e datas",
+      "resumo": "- **Açude Velho**: construído em **1830**, cartão-postal; às margens, o **Museu de Arte Popular da Paraíba** (Oscar Niemeyer, \"Museu dos Três Pandeiros\", UEPB, inaugurado no fim de 2012), o monumento **Os Pioneiros da Borborema** (índio, catadora de algodão e tropeiro) e as estátuas de Jackson do Pandeiro e Luiz Gonzaga.\n- **Maior São João do Mundo**: em **1983** o prefeito **Ronaldo Cunha Lima** centraliza a festa; em **1986** começa a construção do **Parque do Povo** (a \"Pirâmide\"). A festa dura o mês de junho.\n- **UEPB**: nasce como **URNe** (Lei Municipal nº 23, **15/03/1966**) e é estadualizada em **11/10/1987** (Lei 4.977).\n- **UFCG**: raiz na Escola Politécnica (1952-53) e no Campus II da UFPB; criada pela **Lei 10.419, de 9/4/2002**.\n- **Tecnologia**: **1967**, primeiro computador do Nordeste (IBM, Campus II); **2001**, a *Newsweek* lista Campina entre 9 polos tecnológicos do mundo (única da América Latina) → \"Vale do Silício brasileiro\".\n- **Símbolos (LOM, art. 8º)**: **bandeira, hino, brasão e canção** – a canção oficial é **\"Tropeiros da Borborema\"** (letra de Raymundo Asfora, música de Rosil Cavalcanti).\n- **Datas cívicas**: 1º/12/1697 (fundação) e **11/10/1864** (cidade – aniversário).",
+      "leituras": [
+        {
+          "titulo": "Prefeitura de Campina Grande – Pontos Turísticos",
+          "tipo": "site",
+          "url": "https://campinagrande.pb.gov.br/pontos-turisticos/",
+          "gratuito": true,
+          "nota": "Açude Velho (1830), Os Pioneiros da Borborema, Parque do Povo, Museu de Arte Popular (Niemeyer, 2012)."
+        },
+        {
+          "titulo": "Wikipédia – São João de Campina Grande",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_de_Campina_Grande",
+          "gratuito": true,
+          "nota": "História da festa: centralização em 1983 e Parque do Povo a partir de 1986."
+        },
+        {
+          "titulo": "Wikipédia – Universidade Federal de Campina Grande",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Universidade_Federal_de_Campina_Grande",
+          "gratuito": true,
+          "nota": "Escola Politécnica (1953) e criação da UFCG pela Lei 10.419/2002."
+        },
+        {
+          "titulo": "Wikipédia – Universidade Estadual da Paraíba",
+          "tipo": "site",
+          "url": "https://pt.wikipedia.org/wiki/Universidade_Estadual_da_Para%C3%ADba",
+          "gratuito": true,
+          "nota": "URNe (1966) e estadualização em 11/10/1987."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "História de Campina Grande - Aula 9 - Concurso Campina Grande 2026 - Polo Tecnológico",
+          "canal": "Diogo Xavier",
+          "youtubeId": "dLHAMgv9SFk",
+          "duracao": "15:15"
+        },
+        {
+          "titulo": "HISTÓRIA DO AÇUDE VELHO",
+          "canal": "TV Borborema | Afiliada SBT ",
+          "youtubeId": "UA73Msold8g",
+          "duracao": "5:00"
+        },
+        {
+          "titulo": "“Maior São João do mundo”, em Campina Grande, espera 3 milhões de pessoas | CNN 360º",
+          "canal": "CNN Brasil",
+          "youtubeId": "YiFdFJwVPBE",
+          "duracao": "5:44"
+        }
+      ]
+    }
+  ]
+}
