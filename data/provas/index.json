@@ -242,6 +242,17 @@
   "duracaoMin": 240
  },
  {
+  "id": "idecan-2021-cg-assistente-social",
+  "titulo": "Assistente Social Educacional — Prefeitura de Campina Grande/PB",
+  "banca": "IDECAN",
+  "ano": 2021,
+  "orgao": "Prefeitura de Campina Grande/PB",
+  "cargo": "Assistente Social Educacional",
+  "arquivo": "data/provas/idecan-2021-cg-assistente-social.json",
+  "nQuestoes": 60,
+  "duracaoMin": 240
+ },
+ {
   "id": "idecan-2014-ebserh-arquitetura",
   "titulo": "Analista Administrativo – Arquitetura — EBSERH (HC-UFPE)",
   "banca": "IDECAN",

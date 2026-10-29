@@ -1,0 +1,1051 @@
+{
+ "id": "idecan-2021-cg-assistente-social",
+ "titulo": "Assistente Social Educacional — Prefeitura de Campina Grande/PB",
+ "banca": "IDECAN",
+ "ano": 2021,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Assistente Social Educacional",
+ "fonte": "https://www.pciconcursos.com.br/provas/download/assistente-social-educacional-prefeitura-campina-grande-pb-idecan-2021",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I — Brasil é laboratório do melhor e do pior em governança tecnológica",
+   "fonte": "(Ronaldo Lemos. Folha de S.Paulo, 14/11/21. https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/11/brasil-e-laboratorio-do-melhor-e-do-pior-em-governanca-tecnologica.shtml)",
+   "numerarLinhas": true,
+   "conteudo": "\tNa semana passada participei de um jantar oficial com o presidente francês, Emmanuel Macron, na sede do governo\nem Paris. Foram convidados 20 “pensadores” globais que trabalham com tecnologia. O objetivo era discutir o papel da França\ne da Europa de modo geral sobre questões tecnológicas. Dentre os convidados, estavam a escritora Shoshana Zuboff (autora\ndo livro *A Era do Capitalismo de Vigilância*) e a baronesa Joanna Shields, ex-Ministra de Internet e Segurança da Inglaterra. Da\nAmérica Latina, só este colunista.\n\tTrês perguntas foram levantadas nas conversas. É possível usar a tecnologia a favor da democracia? Como proteger\ndireitos em face do avanço tecnológico? E, muito importante, como proteger as democracias dos ataques coordenados por\nmeios digitais?\n\tA França está em posição favorável para levantar essas questões. O país está prestes a assumir a presidência do\nConselho da Europa. Além disso, nos dias seguintes ao jantar, recebeu a vice-presidente dos EUA, Kamala Harris, e o\nsecretário-geral da ONU, Antonio Guterres, além de outras lideranças globais que participaram do Fórum da Paz, a convite do\npaís.\n\tNo jantar acabei conhecendo alguns dos ministros franceses. Dentre eles, a jovem ministra da transformação e reforma\ndo Estado, Amélie de Montchalin, que se sentou ao meu lado. Amélie morou no Brasil na cidade de Campinas e fala português\nperfeitamente. Seu pai foi executivo de uma fábrica de produtos alimentícios na cidade. No dia do jantar ela havia acabado de\nlançar a política de software livre da França. Além disso, inclui uma estratégia para atrair programadores para trabalharem no\ngoverno francês. Tudo um luxo comparado com as políticas tecnológicas brasileiras no momento.\n\tVale lembrar que o Brasil já foi líder nessa área e pioneiro em políticas de software livre na administração pública. Hoje\nestá à deriva. Aliás, esse foi o tema da minha fala para o presidente Macron. Enfatizei que nosso país é uma espécie de\nlaboratório de tudo que existe de melhor e pior em termos de governança tecnológica. No lado bom, criamos no passado a\nParceria Internacional de Governos Abertos (OGP), que foi citada várias vezes na reunião. Criamos também o Marco Civil da\nInternet, visto como modelo, e também citado. Fizemos iniciativas globais como a NetMundial, ou o próprio Comitê Gestor da\nInternet. Tudo permanece na memória de líderes globais.\n\tJá sobre as experiências ruins relacionadas à tecnologia não é preciso citar. Vivemos dentro delas e de seus resultados\ntodos os dias no país. Uma lição ficou clara no jantar: liderança importa. Diga-se o que se quiser do presidente francês, ele tem\num plano e uma visão clara sobre o papel da França. Essa visão produz frutos. O país vai crescer 7% em 2021. A taxa de\ndesemprego está baixa e decrescendo, com meio milhão de empregos formais criados neste ano. O país está construindo as\nbases para participar cada vez mais da economia digital e quer dialogar com pensadores do mundo inteiro para isso.\n\tComo dizia um outro francês, Allan Kardec: “Todo efeito inteligente tem uma causa inteligente. O poder da causa está\nna grandeza do seu efeito.” Para refletirmos."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2021-cg-assistente-social-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Ao dizer que o Brasil é uma espécie de laboratório, o colunista emprega linguagem:",
+   "alternativas": [
+    "conotativa.",
+    "denotativa.",
+    "paradoxal.",
+    "científica."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"conotativa.\":** linguagem **conotativa** é a que usa a palavra em sentido figurado, ampliado pelo contexto. O Brasil não é, literalmente, um laboratório: o colunista usa a imagem do laboratório (lugar de experimentos, de testes que dão certo e errado) para dizer que o país já viveu \"tudo que existe de melhor e pior em termos de governança tecnológica\" (linhas 19 e 20). É uma metáfora, recurso típico da conotação.\n\n**As outras:**\n- *denotativa.*: é o sentido literal, de dicionário, como em \"o laboratório da universidade analisou as amostras\".\n- *paradoxal.*: paradoxo junta ideias que parecem se excluir (\"estou cego de tanto ver\"). Dizer que o país reúne o melhor e o pior não é contradição lógica, é um balanço.\n- *científica.*: linguagem científica é objetiva, técnica e denotativa, o oposto do uso figurado feito pelo colunista.\n\n**Para memorizar:** Denotação = Dicionário (sentido literal); Conotação = Contexto (sentido figurado)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "*O objetivo era discutir o papel da França e da Europa de modo geral sobre questões tecnológicas.* (linhas 2 e 3)\n\nAo empregar “França” e “Europa” no lugar de “franceses” e “europeus”, ocorre um processo de figura de linguagem, largamente empregada na comunicação cotidiana. Trata-se de",
+   "alternativas": [
+    "hipálage.",
+    "paronomásia.",
+    "metonímia.",
+    "antonomásia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"metonímia.\":** metonímia é trocar uma palavra por outra com a qual ela tem uma relação real de proximidade: autor pela obra (\"ler Machado\"), continente pelo conteúdo (\"beber um copo\"), marca pelo produto e **lugar pelos seus habitantes ou instituições**. Ao falar do \"papel da França e da Europa\", o colunista usa o nome do país e do continente no lugar dos franceses e dos europeus (ou de seus governos). É a mesma figura de \"Brasília decidiu\" ou \"o estádio inteiro vaiou\".\n\n**As outras:**\n- *hipálage.*: atribui a um ser a qualidade que pertence a outro, como em \"fumava um pensativo cigarro\" (pensativo é quem fuma).\n- *paronomásia.*: aproxima palavras de som parecido e sentido diferente, como em \"quem casa quer casa\".\n- *antonomásia.*: troca um nome próprio por um apelido ou qualidade que o identifica, como \"o Poeta dos Escravos\" no lugar de Castro Alves. Aqui não há apelido.\n\n**Para memorizar:** metonímia = relação de proximidade real (lugar → povo, autor → obra); metáfora = comparação implícita."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em relação às ideias do texto e as possíveis inferências que podem ser feitas com inferência, analise as afirmativas a seguir:\n\nI. A narrativa do colunista, que estava acompanhando o jantar para compor sua coluna, apresentou o que os pensadores mundiais discutiram no evento promovido pela Comunidade Europeia.\n\nII. A jovem ministra citada pelo colunista se inspirou no modelo brasileiro de software livre, que conheceu durante o tempo em que morou em Campinas, e o lançou naquele mesmo dia na França.\n\nIII. Houve criação de quinhentos mil empregos formais na França no âmbito da tecnologia, por conta de medidas da Administração que fortaleceram o setor.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas a afirmativa II estiver correta.",
+    "se apenas a afirmativa III estiver correta.",
+    "se nenhuma afirmativa estiver correta."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se nenhuma afirmativa estiver correta.\":** as três afirmativas acrescentam fatos que o texto não diz. **I está errada**: o colunista não \"acompanhava\" o jantar como repórter, ele era um dos 20 convidados (\"participei de um jantar oficial\", linha 1), e o evento foi na sede do governo francês, com Macron, e não promovido pela Comunidade Europeia. **II está errada**: o texto diz que a ministra morou em Campinas e que acabara de lançar a política de software livre da França, mas não diz que ela se inspirou no modelo brasileiro; essa ligação é invenção. **III está errada**: o texto fala em \"meio milhão de empregos formais criados neste ano\" (linha 27), sem dizer que foram na área de tecnologia nem que vieram de medidas para o setor.\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta.*: falha porque a I muda o papel do colunista e o organizador do evento.\n- *se apenas a afirmativa II estiver correta.*: falha porque a inspiração no modelo brasileiro é extrapolação.\n- *se apenas a afirmativa III estiver correta.*: falha porque o texto não liga os empregos à tecnologia.\n\n**Para memorizar:** inferência errada típica da IDECAN junta dois fatos verdadeiros do texto com uma relação de causa que o autor não fez."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o pronome indicado, no texto, exerça papel dêitico.",
+   "alternativas": [
+    "essas (linha 9)",
+    "este (linha 5)",
+    "disso (linha 10)",
+    "Essa (linha 26)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"este (linha 5)\":** dêitico é o termo que aponta para a **situação de comunicação** (quem fala, onde, quando), e não para outra palavra do texto. Em \"Da América Latina, só este colunista\", o pronome \"este\" aponta para o próprio autor, que está escrevendo a coluna: o leitor só sabe quem é \"este colunista\" porque sabe quem assina o texto. É dêixis de pessoa, como \"eu\", \"aqui\" e \"agora\".\n\n**As outras:**\n- *essas (linha 9)*: \"essas questões\" retoma as três perguntas do parágrafo anterior. É uso **anafórico** (retoma algo já dito no texto).\n- *disso (linha 10)*: \"Além disso\" retoma o fato de a França estar prestes a assumir a presidência do Conselho da Europa; também é anafórico.\n- *Essa (linha 26)*: \"Essa visão\" retoma \"uma visão clara sobre o papel da França\", dita logo antes; anafórico.\n\n**Para memorizar:** anáfora olha para trás no texto, catáfora olha para a frente, dêixis olha para fora do texto (eu, aqui, agora)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "reescrita",
+   "texto": "t1",
+   "enunciado": "*O país está ++prestes a++ assumir a presidência do Conselho da Europa.* (linhas9 e 10)\n\nO segmento sublinhado no período acima pode ser substituído, mantendo-se o mesmo sentido, por",
+   "alternativas": [
+    "na eminência de",
+    "apartado de",
+    "na imanência de",
+    "na iminência de"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"na iminência de\":** \"estar **prestes a**\" significa estar perto de fazer algo, a ponto de. **Iminência** (com i) é a qualidade do que é iminente, do que está para acontecer logo. Por isso \"O país está na iminência de assumir a presidência do Conselho da Europa\" mantém o sentido original.\n\n**As outras:**\n- *na eminência de*: **eminência** (com e) é elevação, destaque ou título (\"Sua Eminência, o cardeal\"). É o parônimo de iminência, a pegadinha clássica.\n- *apartado de*: significa separado, afastado de; muda totalmente o sentido.\n- *na imanência de*: **imanência** é a qualidade do que é imanente, inerente, que existe dentro da própria coisa. Termo de filosofia, sem ideia de tempo.\n\n**Para memorizar:** **i**minente = **i**mediato, prestes a acontecer; **e**minente = **e**levado, ilustre."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que a palavra indicada exerça, no texto, papel adjetivo.",
+   "alternativas": [
+    "escritora (linha 3)",
+    "essas (linha 9)",
+    "deriva (linha 19)",
+    "pior (linha 20)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"essas (linha 9)\":** em \"essas questões\", o pronome demonstrativo acompanha o substantivo e o determina; por isso é **pronome adjetivo** (faz papel de adjetivo, como adjunto adnominal). Se aparecesse sozinho, no lugar do substantivo (\"vamos discutir essas\"), seria pronome substantivo.\n\n**As outras:**\n- *escritora (linha 3)*: em \"a escritora Shoshana Zuboff\", \"escritora\" é substantivo, núcleo do termo, e o nome próprio é aposto especificativo.\n- *deriva (linha 19)*: em \"está à deriva\", \"deriva\" é substantivo (o desvio de rota de uma embarcação), dentro da locução adverbial \"à deriva\".\n- *pior (linha 20)*: em \"tudo que existe de melhor e pior\", a palavra está substantivada (equivale a \"o pior\"), como em \"o que há de bom\".\n\n**Para memorizar:** pronome que acompanha o substantivo = pronome adjetivo; pronome que substitui o substantivo = pronome substantivo."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*...a ++jovem ministra++ da transformação e reforma do Estado...* (linhas 13 e 14)\n\nO segmento acima sublinhado, caso alternasse a posição dos termos, não sofreria alteração nem morfológica nem semântica. Isso também ocorre nas alternativas a seguir, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "várias vezes (linha 21) – vezes várias",
+    "avanço tecnológico (linha 7) – tecnológico avanço",
+    "posição favorável (linha 9) – favorável posição",
+    "experiências ruins (linha 24) – ruins experiências"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"várias vezes (linha 21) – vezes várias\" é a resposta:** antes do substantivo, \"várias\" é **pronome indefinido** e indica quantidade (muitas vezes). Depois do substantivo, em \"vezes várias\", passa a ser **adjetivo**, com sentido de \"variadas, diferentes\". Mudam a classe gramatical (morfologia) e o sentido (semântica), por isso é a exceção. No enunciado, \"jovem ministra\" e \"ministra jovem\" mantêm \"jovem\" como adjetivo e com o mesmo sentido.\n\n**As outras (estão corretas):**\n- *avanço tecnológico (linha 7) – tecnológico avanço*: \"tecnológico\" continua adjetivo e com o mesmo sentido; só a ordem fica menos usual.\n- *posição favorável (linha 9) – favorável posição*: \"favorável\" continua adjetivo, mesmo sentido.\n- *experiências ruins (linha 24) – ruins experiências*: \"ruins\" continua adjetivo, mesmo sentido.\n\n**Para memorizar:** palavras que mudam de sentido com a posição: \"várias vezes\" × \"vezes várias\", \"certo dia\" × \"dia certo\", \"grande homem\" × \"homem grande\", \"pobre homem\" × \"homem pobre\"."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "*A França está em posição favorável para levantar essas questões. O país está prestes a assumir a presidência do Conselho da Europa.* (linhas9 e 10)\n\nA relação semântica que se estabelece no segundo período do trecho acima em relação ao primeiro é de",
+   "alternativas": [
+    "consequência",
+    "condição",
+    "causa",
+    "concessão"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"causa\":** o segundo período explica **por que** a França está em posição favorável: ela está prestes a assumir a presidência do Conselho da Europa. Dá para ligar os dois com um conector causal sem mudar o sentido: \"A França está em posição favorável para levantar essas questões, **pois** o país está prestes a assumir a presidência do Conselho da Europa\". A relação fica implícita (os períodos estão apenas lado a lado) e o leitor a deduz pelo sentido.\n\n**As outras:**\n- *consequência*: seria se o segundo fato resultasse do primeiro (\"está em posição favorável, por isso vai liderar o debate\"). É o contrário.\n- *condição*: exigiria uma hipótese (\"se assumir a presidência, estará em posição favorável\"). O texto afirma um fato.\n- *concessão*: indicaria um obstáculo que não impede o fato (\"embora não presida nada, está em posição favorável\"). Não há oposição entre as ideias.\n\n**Para memorizar:** teste da troca: se cabe \"porque/pois\", é causa; \"por isso/portanto\", consequência; \"se/caso\", condição; \"embora/ainda que\", concessão."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*Da América Latina, só este colunista.* (linhas4 e 5)\n\nNo período acima, analisando-o dentro do texto em que se insere, constitui exemplo de",
+   "alternativas": [
+    "apóstrofe.",
+    "anacoluto.",
+    "pleonasmo.",
+    "zeugma."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"zeugma.\":** zeugma é a **omissão de um termo que já apareceu antes** no texto. A frase completa seria \"Da América Latina, só este colunista [foi convidado / estava entre os convidados]\". O verbo fica subentendido porque já foi dito em \"Foram convidados 20 'pensadores' globais\" (linha 2) e \"Dentre os convidados, estavam...\" (linha 3). Quando o termo omitido não aparece antes e é deduzido só pelo contexto, chama-se **elipse**; zeugma é a elipse de termo já expresso.\n\n**As outras:**\n- *apóstrofe.*: é a interpelação, o chamamento enfático a alguém ou algo (\"Deus! ó Deus! onde estás que não respondes?\"). Não há chamamento.\n- *anacoluto.*: é a quebra da estrutura da frase, com um termo que fica solto (\"Eu, parece que tudo dá errado comigo\"). Aqui a frase fica completa com o verbo subentendido.\n- *pleonasmo.*: é a repetição de uma ideia para reforço (\"vi com meus próprios olhos\"). Aqui ocorre o contrário: um corte, não uma repetição.\n\n**Para memorizar:** zeugma = \"Z\" de \"zerou\" o que já foi dito; elipse = omite o que nem foi dito."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*No dia do jantar ela havia acabado de lançar a política de software livre da França.* (linhas 15 e 16)\n\nA respeito do período acima, analise as afirmativas a seguir:\n\nI. A locução verbal “havia acabado” é equivalente a “acabara” e também se classifica como pretérito imperfeito.\n\nII. No período, há quatro artigos e cinco preposições.\n\nIII. Não há ocorrência de advérbios no período.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas.\":** **I está errada**: \"havia acabado\" equivale mesmo a \"acabara\", mas os dois são **pretérito mais-que-perfeito** (composto e simples), ação anterior a outra ação passada; pretérito imperfeito seria \"acabava\". **II está certa**: artigos: o (em \"No\" = em + o), o (em \"do\" = de + o), a (a política), a (em \"da\" = de + a) = 4; preposições: em (No), de (do), de (acabado de), de (de software), de (da) = 5. **III está certa**: \"No dia do jantar\" é adjunto adverbial de tempo, mas formado por locução, sem nenhuma palavra da classe dos advérbios; \"livre\" é adjetivo.\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas.*: falha porque a I classifica errado o tempo verbal.\n- *se apenas as afirmativas I e II estiverem corretas.*: inclui a I, que está errada, e deixa de fora a III.\n- *se apenas as afirmativas I e III estiverem corretas.*: inclui a I e exclui a II, que está certa.\n\n**Para memorizar:** \"havia/tinha + particípio\" = mais-que-perfeito composto = \"acabara\"; imperfeito = \"acabava\"."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q11",
+   "numero": 11,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Determinado servidor público municipal, injustificadamente, recusou-se a ser submetido a inspeção médica determinada pela autoridade competente. Nesse caso, ele poderá ser punido pela Administração Pública:",
+   "alternativas": [
+    "apenas com advertência.",
+    "com suspensão, no mínimo, de 30 (trinta) dias.",
+    "apenas com advertência e, se reincidente, com suspensão, no mínimo, de 15 (quinze) dias.",
+    "com suspensão de até 15 (quinze) dias."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Pela letra do Estatuto dos Servidores de Campina Grande (Lei Municipal 2.378/1992), a resposta seria *com suspensão de até 15 (quinze) dias*: o art. 133, § 1º, diz que será punido com suspensão de até 15 dias o servidor que, injustificadamente, se recusar a ser submetido a inspeção médica determinada pela autoridade competente, e os efeitos da pena cessam assim que ele cumprir a determinação (mesma regra do art. 130, § 1º, da Lei federal 8.112/1990). O gabarito não traz o motivo da anulação; uma explicação possível é que o próprio Estatuto tem outra regra sobre o tema: o art. 210 fala só em \"pena de suspensão, que cessará tão logo se verifique a inspeção\", sem o limite de 15 dias.\n\nSobre o assunto: a advertência é escrita e vale para as faltas mais leves (art. 132). A suspensão cabe na reincidência de faltas punidas com advertência e nas demais proibições que não levem à demissão, e não pode passar de 90 dias (art. 133); havendo conveniência para o serviço, pode virar multa de 50% por dia de vencimento, com o servidor trabalhando (art. 133, § 2º)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q12",
+   "numero": 12,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Maria das Dores, servidora pública municipal, foi informada, na repartição em que trabalhava, que seu cônjuge havia sofrido um acidente vascular cerebral, que acabou sendo fatal. Em virtude desse falecimento, é possível afirmar que a servidora poderá se ausentar do serviço por:",
+   "alternativas": [
+    "5 (cinco) dias úteis.",
+    "8 (oito) dias consecutivos.",
+    "5 (cinco) dias consecutivos.",
+    "2 (dois) dias"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"8 (oito) dias consecutivos.\":** o art. 101, III, do Estatuto dos Servidores de Campina Grande (Lei 2.378/1992) permite ao servidor ausentar-se, **sem qualquer prejuízo**, por **8 dias consecutivos** em razão de casamento ou de falecimento do cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos. Maria das Dores perdeu o cônjuge, então tem 8 dias corridos de ausência.\n\n**As outras:**\n- *5 (cinco) dias úteis.*: não existe esse prazo no art. 101, e a contagem é em dias consecutivos, não úteis.\n- *5 (cinco) dias consecutivos.*: número errado; 8 dias valem tanto para o casamento quanto para o luto.\n- *2 (dois) dias*: é o prazo para o servidor se **alistar como eleitor** (art. 101, II).\n\n**Para memorizar:** 1 dia para doar sangue, 2 dias para alistamento eleitoral, 8 dias para casamento ou luto. É a mesma escala do art. 97 da Lei federal 8.112/1990."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q13",
+   "numero": 13,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Quando foi se aposentar, o servidor Jairo percebeu que havia gozado diversas licenças para tratamento da própria saúde, totalizando um período de 03 (três) anos de afastamento do exercício laboral. Nesse caso, é possível afirmar que:",
+   "alternativas": [
+    "Apenas 02 (dois) anos desse período de licença médica pode ser considerado como de efetivo exercício no cargo público.",
+    "A Administração Pública deve contabilizar os 03 (três) anos de licença médica como de efetivo exercício no cargo público.",
+    "Ainda que Jairo tivesse se afastado por até 05 (cinco) anos para tratamento da própria saúde, tal período deveria ser contabilizado como de efetivo exercício no cargo público.",
+    "Todo o período relativo às licenças médicas não é considerado como de efetivo exercício no cargo público."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas 02 (dois) anos desse período de licença médica…\":** o art. 105 do Estatuto de Campina Grande (Lei 2.378/1992) lista os afastamentos considerados de **efetivo exercício**. No inciso VII, alínea b, está a licença para tratamento da própria saúde **até 2 (dois) anos**. Jairo ficou 3 anos afastado: os 2 primeiros anos contam como efetivo exercício; o terceiro, não.\n\n**As outras:**\n- *A Administração Pública deve contabilizar os 03 (três) anos…*: ultrapassa o limite de 2 anos do art. 105, VII, b.\n- *Ainda que Jairo tivesse se afastado por até 05 (cinco) anos…*: 5 anos é mais que o dobro do limite; nenhum dispositivo do Estatuto garante isso.\n- *Todo o período relativo às licenças médicas não é considerado…*: erra para o outro lado; até 2 anos, o afastamento conta como efetivo exercício.\n\n**Para memorizar:** no Estatuto de Campina Grande, licença para a própria saúde conta como efetivo exercício até 2 anos; na Lei federal 8.112/1990, o limite é de 24 meses (art. 102, VIII, b)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q14",
+   "numero": 14,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Acerca da licença para tratar de interesse particular, assinale a alternativa incorreta:",
+   "alternativas": [
+    "A licença poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.",
+    "Não se concederá nova licença antes de decorridos 2 (dois) anos do término da anterior.",
+    "A critério da administração, poderá ser concedido ao servidor estável licença para trato de assuntos particulares, pelo prazo de até 2 (dois) anos consecutivos, sem remuneração.",
+    "É possível a concessão da licença a servidores removidos, redistribuídos ou transferidos, independentemente do tempo de exercício."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"É possível a concessão da licença a servidores removidos…\" é a resposta:** a afirmação contraria o art. 97, § 3º, do Estatuto de Campina Grande (Lei 2.378/1992): não se concede a licença para tratar de interesse particular a servidores **nomeados, removidos, redistribuídos ou transferidos antes de completarem 2 (dois) anos de exercício**. O tempo de exercício importa, sim.\n\n**As outras (estão corretas):**\n- *A licença poderá ser interrompida, a qualquer tempo…*: é o art. 97, § 1º.\n- *Não se concederá nova licença antes de decorridos 2 (dois) anos…*: é o art. 97, § 2º.\n- *A critério da administração, poderá ser concedido ao servidor estável…*: é o caput do art. 97 (servidor estável, até 2 anos consecutivos, sem remuneração, a critério da administração).\n\n**Para memorizar:** no Estatuto de Campina Grande, essa licença segue a regra dos \"2\": dura até 2 anos, nova licença só 2 anos depois do fim da anterior, e só para quem já tem 2 anos de exercício. Não confunda com a Lei federal 8.112/1990, que hoje permite até 3 anos."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q15",
+   "numero": 15,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto do Servidor (Lei Municipal nº 2.378/92), são formas de provimento de cargo público:\n\nI. Aproveitamento.\n\nII. Recondução.\n\nIII. Reversão.\n\nIV. Regressão.\n\nV. Adaptação.\n\nEstão corretos apenas os itens:",
+   "alternativas": [
+    "I, III e V.",
+    "II e IV.",
+    "I, II e III.",
+    "III, IV e V."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e III.\":** o art. 8º do Estatuto de Campina Grande (Lei 2.378/1992) lista as formas de provimento de cargo público: nomeação, promoção, readaptação, reversão, **aproveitamento**, reintegração e **recondução** (dois incisos do artigo aparecem como inconstitucionais no texto compilado; na lei federal correspondente eram a ascensão e a transferência, derrubadas por burlarem o concurso). **Aproveitamento** (I), **recondução** (II) e **reversão** (III) estão na lista. **Regressão** (IV) e **adaptação** (V) não são formas de provimento; \"adaptação\" é confusão com **readaptação**.\n\n**As outras:**\n- *I, III e V.*: inclui \"adaptação\", que não existe como forma de provimento.\n- *II e IV.*: inclui \"regressão\" e deixa de fora aproveitamento e reversão.\n- *III, IV e V.*: junta duas formas inexistentes.\n\n**Para memorizar:** são as mesmas sete formas da Lei federal 8.112/1990 (art. 8º): nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução; só a nomeação é provimento originário, as demais são derivadas."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q16",
+   "numero": 16,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "emancipacao-cidade",
+   "enunciado": "No final do século XIX, Campina Grande tinha por volta de",
+   "alternativas": [
+    "3 mil habitantes.",
+    "8 mil habitantes.",
+    "4 mil habitantes.",
+    "10 mil habitantes."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"4 mil habitantes.\":** o histórico oficial do município, publicado pelo IBGE, diz que **em 1888 Campina Grande tinha cerca de quatro mil habitantes** e era talvez a localidade mais populosa e próspera do interior da Paraíba. A cidade crescia com o comércio de passagem: por ali passava a principal estrada que ligava os sertões da Paraíba e do Rio Grande do Norte à capital e ao Recife. A cronologia da cidade registra o mesmo número em 1864, quando a vila foi elevada a cidade.\n\n**As outras:**\n- *3 mil habitantes.*: é o tamanho da **Vila Nova da Rainha** no fim do século XVIII: oito anos depois de criada a vila (1790), ela tinha pouco mais de cem casas e cerca de 3 mil habitantes.\n- *8 mil habitantes.*: número sem base nos registros do século XIX; o grande salto só veio com o trem e o algodão.\n- *10 mil habitantes.*: também não bate com o século XIX. Os dados mais citados falam em cerca de 20 mil habitantes em 1907, ano da chegada do trem, e 130 mil em 1939, no auge do algodão.\n\n**Para memorizar:** 1790 vila com ~3 mil; 1864 cidade; 1888 ~4 mil; 1907 trem; 1939 ~130 mil."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q17",
+   "numero": 17,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "crescimento-politica",
+   "enunciado": "Em 1976, foi inaugurado o Parque do Açude Novo, que oficialmente se denomina Parque",
+   "alternativas": [
+    "Teodósio Lêdo.",
+    "Evaldo Cruz.",
+    "Peregrino de Carvalho.",
+    "Maciel Pinheiro."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Evaldo Cruz.\":** o Açude Novo foi construído por volta de 1830, como segunda fonte de água da vila, depois do Açude Velho. Com o tempo deixou de ser açude e virou parque público: inaugurado em **1976**, ele se chama oficialmente **Parque Evaldo Cruz**, mas a cidade continua chamando de \"Parque do Açude Novo\". Fica no Centro, perto do Parque do Povo, e tem o grande obelisco que marca o centro da cidade.\n\n**As outras:**\n- *Teodósio Lêdo.*: Teodósio de Oliveira Lêdo é o sertanista que, em 1697, fixou os índios Ariús no lugar que deu origem a Campina Grande. É personagem da fundação, não o nome do parque.\n- *Peregrino de Carvalho.*: é nome de rua do Centro (a antiga rua do Emboca) e homenageia um paraibano executado por ter participado da Revolução de 1817.\n- *Maciel Pinheiro.*: também é nome de rua do Centro de Campina Grande, não do parque.\n\n**Para memorizar:** Açude Velho continua sendo açude (cartão-postal); Açude Novo virou o Parque Evaldo Cruz (1976); Parque do Povo é o palco do São João."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q18",
+   "numero": 18,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "cultura-educacao-tecnologia",
+   "enunciado": "Campina Grande, é palco da maior festa junina do estado, nomeada com orgulho de o “Maior São João do Mundo”, que ocorre no Parque do Povo. O grandioso evento atraí turistas de todos os estados brasileiro, com palcos de forró, comidas típicas, quadrilhas e diversos shows. Sobre o assunto, assinale a alternativa que indica o ano em que ocorreu a primeira edição do São João de Campina Grande.",
+   "alternativas": [
+    "1983",
+    "1986",
+    "1985",
+    "1984"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"1983\":** os festejos juninos já existiam na cidade, espalhados por bairros e clubes. O evento \"O Maior São João do Mundo\" nasceu em **1983**, quando o prefeito **Ronaldo Cunha Lima** decidiu centralizar a festa num grande terreno baldio do centro, conhecido como \"coqueiros de José Rodrigues\", onde hoje fica o Parque do Povo. Em 1984 a festa já durou 30 dias, e com o sucesso dos três primeiros anos a prefeitura começou, em 1986, a construir o Parque do Povo, com a famosa Pirâmide.\n\n**As outras:**\n- *1984*: é a segunda edição, a primeira com 30 dias de festa.\n- *1985*: a festa já estava na terceira edição.\n- *1986*: é o ano em que começou a construção do Parque do Povo, não o da primeira edição.\n\n**Para memorizar:** 1983 nasce (Ronaldo Cunha Lima) → 1984 vira festa de 30 dias → 1986 começa o Parque do Povo."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q19",
+   "numero": 19,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "cultura-educacao-tecnologia",
+   "enunciado": "Leia a notícia a seguir:\n\n> **Hino de Campina Grande ganha nova versão e clipe às margens do Açude Velho.**\n>\n> Aos 156 anos, Campina Grande ganhou como presente de aniversário uma nova versão do hino da cidade. Com trechos que descrevem a beleza da Rainha da Borborema.\n>\n> *https://g1.globo.com/pb/paraiba*\n\nSobre o tema, assinale a alternativa que apresenta o autor da letra do hino da cidade de Campina Grande.",
+   "alternativas": [
+    "Francisco Aurélio de Figueiredo",
+    "Maestro Antônio Guimarães",
+    "AbdonFelinto Milanês",
+    "Maestro Vladimir Silva"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito não traz o motivo, mas o problema aparece logo: as fontes que reproduzem o hino oficial (como o Wikisource) creditam os versos a **Fernando Silveira** e a música ao **maestro Antônio Guimarães**. O autor da letra não está entre as alternativas, e o único nome ligado ao hino, Antônio Guimarães, é o compositor da melodia.\n\nDuas alternativas vêm de outro hino: **Francisco Aurélio de Figueiredo e Melo** escreveu os versos, e **Abdon Felinto Milanês** compôs a música, do **Hino do Estado da Paraíba**, apresentado em 1905. O maestro Vladimir Silva não aparece como autor do hino municipal nas fontes consultadas.\n\nSobre o assunto: pela Lei Orgânica de Campina Grande (art. 8º), os símbolos do Município são a bandeira, o hino, o brasão e a canção. A canção é \"Tropeiros da Borborema\" (Raymundo Asfora e Rosil Cavalcanti), muitas vezes chamada de hino extraoficial da cidade. A nova versão citada na notícia saiu em 2020, nos 156 anos da cidade (1864 + 156)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q20",
+   "numero": 20,
+   "secao": "História de Campina Grande - PB",
+   "disciplina": "historia-cg",
+   "assunto": "cultura-educacao-tecnologia",
+   "enunciado": "Ainda sobre o hino de Campina Grande, analise o excerto abaixo:\n\nVenturosa Campina querida,\\\nÓ cidade que _______e ______!\\\nO teu povo o progresso _______,\\\nÉs na terra o bem que mais quero!\\\nO teu céu sempre azul cor de anil,\\\nTuas serras de verde _____\\\nSalpicadas com o ouro do sol\\\nOu com a hóstia dos brancos luares!\n\nAssinale a sequência correta que preenche, respectivamente, as lacunas acima dispostas.",
+   "alternativas": [
+    "amo – admiro – respira – turquesa",
+    "venero – amo – amplia – esmeralda",
+    "amo – venero – expande – vestidas",
+    "respeito – venero – almeja - esculpidas"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"amo – venero – expande – vestidas\":** é a primeira estrofe do hino oficial de Campina Grande (letra de Fernando Silveira, música de Antônio Guimarães): \"Ó cidade que **amo** e **venero**! / O teu povo o progresso **expande**, / És na terra o bem que mais quero! / [...] / Tuas serras de verde **vestidas** / Salpicadas com o ouro do sol\". A rima ajuda a conferir: \"venero\" rima com \"quero\"; e \"vestidas\" combina com \"salpicadas\", as serras cobertas de verde e salpicadas de sol.\n\n**As outras:**\n- *amo – admiro – respira – turquesa*: \"admiro\" quebra a rima com \"quero\", e o povo não \"respira\" o progresso.\n- *venero – amo – amplia – esmeralda*: inverte os verbos (o verso termina em \"venero!\", rimando com \"quero!\") e troca \"expande\" por \"amplia\".\n- *respeito – venero – almeja - esculpidas*: mantém a rima, mas no hino o povo **expande** o progresso (não o \"almeja\") e as serras são **vestidas** de verde, não \"esculpidas\".\n\n**Para memorizar:** o refrão fecha com \"Capital do trabalho e da paz!\"; a primeira estrofe: amo e venero, expande, vestidas."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A negligência é um dos tipos de maus-tratos mais frequentes, e aparece muitas vezes associada a outras formas. Os critérios necessários para caracterizar a negligência, são:",
+   "alternativas": [
+    "Cronicidade e omissão.",
+    "Pobreza e desnutrição.",
+    "Má higiene e imprudência.",
+    "Desleixo e imperícia."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Cronicidade e omissão.\":** negligência é a violência por **omissão**: o responsável deixa de prover o que a criança precisa (alimentação, higiene, saúde, escola, proteção, afeto) quando teria condições de prover. Para separar a negligência de um descuido isolado, exige-se também **cronicidade**: a falta se repete e se prolonga no tempo, a ponto de comprometer o desenvolvimento. Os dois critérios andam juntos.\n\n**As outras:**\n- *Pobreza e desnutrição.*: pobreza não é negligência. O ECA (art. 23) diz que a falta ou carência de recursos materiais não basta para a perda ou suspensão do poder familiar; a família deve ser incluída em programas de apoio. A desnutrição pode ser consequência, não critério.\n- *Má higiene e imprudência.*: má higiene é sinal de alerta, mas não caracteriza o quadro sozinha; imprudência é modalidade de culpa do direito penal.\n- *Desleixo e imperícia.*: \"desleixo\" é só sinônimo popular, e imperícia, como a imprudência, é forma de culpa (Código Penal, art. 18, II), não critério de maus-tratos.\n\n**Para memorizar:** negligência = omissão + repetição no tempo; pobreza sozinha não é negligência."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Com relação às perspectivas teórico-metodológicas que permeiam o debate profissional acerca da compreensão crítica do sistema social capitalista, do papel do Estado e da função das políticas sociais, julgue os itens:\n\nI. As Políticas Sociais são mecanismos lógico-formais estáveis de um Estado supraclassista de “bem-estar”.\n\nII. As Políticas Sociais são tanto um instrumento fundamentalmente voltado ao controle da população e à ampliação da acumulação capitalista quanto um contraditório mecanismo, que incorpora (pontual e transitoriamente) algumas demandas e conquistas das classes trabalhadoras.\n\nIII. A verdadeira chave para compreender as Políticas Sociais está, fundamentalmente, no estudo excepcional da análise do Estado, como instância autônoma, sendo inadmissível vincular as Políticas Sociais à esfera da distribuição, do consumo, da circulação.\n\nAssinale",
+   "alternativas": [
+    "“se somente as afirmativas” I e II “estiverem corretas.”",
+    "“se somente a afirmativa” I “estiver correta.”",
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"“se somente a afirmativa” II “estiver correta.”\":** na perspectiva crítica que orienta o Serviço Social brasileiro, as políticas sociais são **contraditórias**. **II está certa**: elas servem ao capital (controlam a população, barateiam a reprodução da força de trabalho, sustentam a acumulação) e, ao mesmo tempo, incorporam de forma pontual e transitória demandas e conquistas das lutas dos trabalhadores. **I está errada**: ver as políticas como mecanismos lógico-formais e estáveis de um Estado \"acima das classes\" (supraclassista) é a visão liberal do Estado de bem-estar, que a perspectiva crítica recusa. **III está errada**: a chave não é estudar o Estado isolado, como instância autônoma; as políticas sociais precisam ser ligadas à economia (produção, distribuição, consumo e circulação) e à luta de classes.\n\n**As outras:**\n- *“se somente as afirmativas” I e II “estiverem corretas.”*: inclui a I, a visão do Estado neutro.\n- *“se somente a afirmativa” I “estiver correta.”*: fica só com a visão que a perspectiva crítica rejeita.\n- *“se as afirmativas” I, II e III “estiverem corretas.”*: inclui a I e a III.\n\n**Para memorizar:** política social na visão crítica tem dupla face: controle e conquista."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "As definições para violência contra a criança e o adolescente variam de acordo com visões culturais e históricas sobre a criança e seus cuidados, com os direitos e o cumprimento de regras sociais relacionados a ela e com os modelos explicativos usados para a violência. Historicamente o conceito de violência vem sendo ampliado, em decorrência:",
+   "alternativas": [
+    "Do estabelecimento de normas técnicas e rotinas para a orientação dos profissionais de todas as políticas públicas frente ao problema da violência.",
+    "Da maior conscientização a respeito do bem-estar da criança e do adolescente, de seus direitos e dos efeitos que a violência exerce sobre o seu desenvolvimento.",
+    "Do pacto de silêncio nos lares, espaço socialmente sacralizado e considerado isento de violência, mas que, na verdade, constitui-se como um lugar privilegiado para a prática de maus-tratos contra crianças e adolescentes.",
+    "Do fortalecimento de habilidades, aptidões, capacidades e competências dos adolescentes, que tem promovido gradativamente sua autonomia, de forma a que, preferencialmente, consigam identificar as situações de violência vivenciadas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Da maior conscientização a respeito do bem-estar…\":** o conceito de violência contra crianças e adolescentes cresceu porque mudou o olhar sobre a infância. Com mais consciência sobre o **bem-estar** da criança, o reconhecimento dela como **sujeito de direitos** (no Brasil, Constituição de 1988 e ECA de 1990) e o conhecimento dos **efeitos da violência no desenvolvimento**, práticas antes vistas como \"educação\" ou \"assunto de família\" passaram a ser chamadas de violência. Exemplo: a Lei 13.010/2014 (Lei Menino Bernardo) incluiu no ECA o direito de ser educado sem castigo físico ou tratamento cruel ou degradante.\n\n**As outras:**\n- *Do estabelecimento de normas técnicas e rotinas…*: protocolos para os profissionais são consequência da ampliação do conceito, não a causa.\n- *Do pacto de silêncio nos lares…*: descreve um obstáculo real (a família vista como espaço sagrado, onde a violência fica escondida), mas o silêncio dificulta reconhecer a violência; não amplia o conceito.\n- *Do fortalecimento de habilidades, aptidões…*: o protagonismo dos adolescentes é estratégia de prevenção, não a explicação histórica.\n\n**Para memorizar:** o conceito de violência cresce junto com os direitos da criança."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A execução do Plano Nacional da Educação e o cumprimento de suas metas serão objeto de monitoramento contínuo e de avaliações periódicas, realizados pelas seguintes instâncias, à exceção de uma:",
+   "alternativas": [
+    "Comissão de Educação da Câmara dos Deputados e Comissão de Educação, Cultura e Esporte do Senado Federal.",
+    "Conselho Regional de Educação.",
+    "Fórum Nacional de Educação.",
+    "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Conselho Regional de Educação.\" é a resposta:** o art. 5º da Lei 13.005/2014 (PNE 2014-2024) diz que o monitoramento contínuo e as avaliações periódicas do plano são feitos por quatro instâncias: o **MEC**; a **Comissão de Educação da Câmara** e a **Comissão de Educação, Cultura e Esporte do Senado**; o **Conselho Nacional de Educação (CNE)**; e o **Fórum Nacional de Educação**. \"Conselho Regional de Educação\" não está na lista (e nem existe na organização da educação brasileira, que tem conselhos nacional, estaduais e municipais).\n\n**As outras (estão corretas):**\n- *Comissão de Educação da Câmara dos Deputados e…*: art. 5º, II.\n- *Fórum Nacional de Educação.*: art. 5º, IV; ele também coordena as conferências nacionais de educação (art. 6º).\n- *Instituto Nacional de Estudos e Pesquisas…*: o INEP não está no caput, mas o § 2º do art. 5º manda que ele publique, a cada 2 anos, estudos para aferir a evolução no cumprimento das metas. Por isso a banca o tratou como parte do monitoramento.\n\n**Para memorizar:** monitoram o PNE: MEC, comissões do Congresso, CNE e FNE; o INEP mede a cada 2 anos."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Dentre as projeções realizadas para a profissão, no quadro das transformações societárias típicas do capitalismo tardio, considerando as demandas do mercado de trabalho e a cultura profissional, está a indicação da necessidade de:",
+   "alternativas": [
+    "Elaborar respostas mais qualificadas (do ponto de vista operativo) e mais legitimadas (do ponto de vista sócio-político) para as questões que caem no seu âmbito de intervenção institucional.",
+    "Consolidação histórica e lógica dos fundamentos e gênese do Serviço Social e sua vinculação com a profissão e a apropriação acrítica de categorias teórico-metodológicas, compondo seu arsenal ideológico dominante.",
+    "Incorporar as exigências do mercado como determinantes da formação profissional enquanto a direção social corporativa, construída através do desenvolvimento de novas competências e habilidades.",
+    "Explicitar a dimensão política da profissão e o reconhecimento da condição de sujeitos de direitos daqueles com os quais atua, tendo por fim último a perspectiva emancipadora e endogenista."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Elaborar respostas mais qualificadas (do ponto de vista operativo)…\":** no debate dos anos 1990 sobre as transformações societárias (reestruturação produtiva, neoliberalismo, encolhimento do Estado), associado a José Paulo Netto, a projeção para o Serviço Social foi esta: para manter seu espaço no mercado de trabalho e consolidar sua cultura profissional crítica, a profissão precisa dar respostas **mais qualificadas** do ponto de vista operativo (competência técnica) e **mais legitimadas** do ponto de vista sociopolítico (reconhecidas pela população e pelas instituições) às questões do seu campo de intervenção.\n\n**As outras:**\n- *Consolidação histórica e lógica dos fundamentos…*: a \"apropriação acrítica\" de categorias é o contrário do que a profissão buscou desde a renovação dos anos 1980.\n- *Incorporar as exigências do mercado como determinantes…*: deixar o mercado ditar a formação é a armadilha que o projeto crítico recusa; a direção social da profissão não é \"corporativa\".\n- *Explicitar a dimensão política da profissão…*: começa bem, mas termina em \"emancipadora e **endogenista**\". Endogenismo (explicar a profissão só por ela mesma, sem a sociedade) é justamente a visão que a tradição crítica combate.\n\n**Para memorizar:** a projeção é dupla: qualificar (operativo) e legitimar (sociopolítico)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No Brasil, dadas as condições estruturais, conjunturais e político-corporativas, com as quais ingressa na segunda metade da década de 1980, o desenvolvimento profissional cria as bases para:",
+   "alternativas": [
+    "Combater a lógica da punção do fundo público, que atua sob a regência das instituições financeiras nacionais e internacionais, credoras da dívida pública, por meio da implementação de políticas sociais e da definição dos instrumentos que o profissional irá utilizar na execução de seu trabalho interventivo, subsidiada pelo complexo aparato teórico/metodológico, ético/político e técnico/ operativo, que permitem dar conta da dimensão de sua práxis profissional.",
+    "Deixar as análises “metodologistas” e ingressar no debate teórico-metodológico, sendo este o meio fundamental para a pesquisa social desafiante e contribuindo, assim, com o conjunto das ciências sociais, na elaboração de conhecimento crítico sobre a realidade social, para abandonar as perspectivas “epistemologistas” e incorporar uma visão ontológica do ser social e dos fenômenos sociais, para superar as análises lineares, mecanicistas e/ou “endogenistas”, messiânicas ou fatalistas, e realizar uma crítica sobre os fundamentos e o significado social da profissão.",
+    "Responder às demandas sociais advindas das expressões da questão social, identificando-as como um processo sócio histórico, que é produzido e reproduzido socialmente, mediante um exercício profissional crítico e competente, capaz de materializar a profissionalização, organização e sistematização da caridade e da filantropia, através da organização dos movimentos sociais provenientes de diversos segmentos.",
+    "A criação de uma feição acadêmico-profissional e social renovada, voltada à defesa do capital e dos trabalhadores, do amplo acesso à propriedade privada para a produção de meios de vida, ao compromisso com a afirmação da democracia, da liberdade, da igualdade e da justiça social pela classe dominante no terreno da história."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Deixar as análises “metodologistas” e ingressar…\":** a partir da segunda metade dos anos 1980, com a renovação crítica, a pós-graduação e a aproximação com a tradição marxista, o Serviço Social brasileiro deixa de procurar um \"método próprio\" da profissão (o metodologismo) e entra no debate teórico-metodológico das ciências sociais. Passa a produzir conhecimento crítico sobre a realidade, troca o \"epistemologismo\" por uma visão **ontológica** do ser social, supera leituras lineares, mecanicistas, endogenistas, messiânicas ou fatalistas e faz a crítica dos fundamentos e do significado social da própria profissão.\n\n**As outras:**\n- *Combater a lógica da punção do fundo público…*: mistura um debate mais recente (fundo público e dívida) com a ideia de que o profissional define sozinho as políticas sociais; não é o que marca a virada dos anos 1980.\n- *Responder às demandas sociais advindas…*: termina na \"profissionalização, organização e sistematização da caridade e da filantropia\", que descreve a origem da profissão nos anos 1930, não o salto dos anos 1980.\n- *A criação de uma feição acadêmico-profissional…*: o projeto renovado se compromete com os trabalhadores, não com a \"defesa do capital\", e a justiça social não é tarefa da \"classe dominante\".\n\n**Para memorizar:** anos 1980: sai o método próprio (metodologismo), entra a teoria social crítica."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Para garantir a excepcionalidade do afastamento do convívio familiar, o Art.130 do ECA estabelece que:",
+   "alternativas": [
+    "Havendo motivo grave, poderá a autoridade judiciária, ouvido o Ministério Público, decretar liminarmente o afastamento provisório do agressor, mediante decisão fundamentada.",
+    "Os serviços de saúde em suas diferentes portas de entrada e os demais órgãos do Sistema de Garantia de Direitos da Criança e do Adolescente deverão conferir máxima prioridade ao atendimento das crianças na faixa etária da primeira infância com suspeita ou confirmação de violência de qualquer natureza.",
+    "Nos casos de violência praticada por familiar ou responsável com o qual a criança ou adolescente resida, a autoridade judiciária poderá determinar o afastamento do agressor da moradia comum.",
+    "De posse do relatório fundamentado pela equipe técnica, a autoridade judiciária poderá determinar o encaminhamento da criança ou adolescente à rede pública de saúde e assistência social para atendimento especializado."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Nos casos de violência praticada por familiar ou responsável…\":** o art. 130 do ECA permite que a autoridade judiciária determine, **como medida cautelar**, o **afastamento do agressor da moradia comum** quando houver maus-tratos, opressão ou abuso sexual impostos pelos pais ou responsável. A lógica é proteger sem tirar a criança de casa: quem sai é o agressor, e o afastamento da criança do convívio familiar fica como exceção. O parágrafo único (Lei 12.415/2011) manda fixar, na mesma medida, alimentos provisórios para a criança dependente do agressor. Em 2025 (Lei 15.240) o artigo passou a citar também a negligência.\n\n**As outras:**\n- *Havendo motivo grave, poderá a autoridade judiciária…*: imita o art. 157, que trata da **suspensão do poder familiar** em caráter liminar, e não do afastamento do agressor.\n- *Os serviços de saúde em suas diferentes portas…*: é regra verdadeira do ECA, mas está no art. 13, § 2º (incluído pelo Marco Legal da Primeira Infância, Lei 13.257/2016), não no art. 130.\n- *De posse do relatório fundamentado pela equipe técnica…*: não é o que diz o art. 130, que não trata de encaminhamento à rede de saúde e assistência.\n\n**Para memorizar:** art. 130 do ECA: quem sai de casa é o agressor."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A sistematização da prática é um dos grandes desafios do Serviço Social, especialmente em suas correntes progressistas, que precisam aperfeiçoar suas análises sobre o tema. Em que pese o esforço de muitos profissionais, existem ainda grandes lacunas teóricas a serem superadas, por meio de investigações diversas, capazes de expor exemplos interventivos e problematizar estratégias de atuação. Acerca do debate sobre os instrumentos e técnicas da profissão, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n\n( ) laudos, relatórios e pareceres são veículos para opinião profissional, emitida após um estudo que visa auxiliar o processo de intervenção sob uma realidade compreendida a partir de uma ótica clínica.\n\n( ) o uso de instrumentos e técnicas (e consequentemente dos resultados que deles advém) depende da intencionalidade dos atores da profissão, incluindo os valores e a racionalidade que subscreve sua prática.\n\n( ) O arcabouço interventivo dos assistentes sociais é uma construção que se reporta não apenas a uma estrutura de práticas, mas a uma capacidade constitutiva da profissão, que permite que seus agentes, num determinado nível da realidade social, alterem as condições objetivas e subjetivas da realidade com os quais se defrontam.\n\nAs afirmativas são, respectivamente:",
+   "alternativas": [
+    "F – V – F.",
+    "V – F –V.",
+    "F – F – F.",
+    "F – V – V."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"F – V – V.\":**\n- **1ª (F):** laudos, relatórios e pareceres são mesmo os documentos em que o assistente social registra sua opinião técnica depois de um estudo social. O erro está no fim: a realidade é compreendida a partir de uma ótica **crítica**, de totalidade (as determinações sociais, econômicas e políticas da situação), e não **clínica**, que trataria o problema como desvio individual a diagnosticar e corrigir.\n- **2ª (V):** instrumentos e técnicas não são neutros; o resultado de uma entrevista ou visita domiciliar depende da intencionalidade de quem os usa, dos valores e da racionalidade que orientam sua prática.\n- **3ª (V):** é a noção de **instrumentalidade** (Yolanda Guerra): o instrumental não é só um conjunto de técnicas, é uma capacidade construída pela profissão que permite ao assistente social alterar condições objetivas e subjetivas da realidade.\n\n**As outras:**\n- *F – V – F.*: erra a 3ª, que descreve a instrumentalidade.\n- *V – F –V.*: aceita a \"ótica clínica\" e nega que os instrumentos dependam da intencionalidade.\n- *F – F – F.*: nega duas afirmações centrais do debate.\n\n**Para memorizar:** instrumentalidade não é caixa de ferramentas neutra; é capacidade da profissão de transformar a realidade com intencionalidade."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A entrevista nada mais é do que um diálogo, um processo de comunicação direta entre o Assistente Social e um usuário (entrevista individual), ou mais de um (entrevista grupal). Contudo, o que diferencia a entrevista de um diálogo comum é:",
+   "alternativas": [
+    "O fato de existir um entrevistador e um entrevistado, isto é, o Assistente Social ocupa um papel diferente – e, sob determinado ponto de vista, desigual – do papel do usuário.",
+    "O momento da intervenção do Assistente Social, pois ele participa ativamente do processo de conhecimento acerca da realidade que está sendo investigada.",
+    "O fato de que a entrevista pode utilizar jogos, brincadeiras, simulações de determinadas situações, com vistas a permitir que os membros do grupo produzam um resultado acerca de uma temática definida.",
+    "Que o assistente social se coloca como um líder democrático, com firmeza quanto ao cumprimento dos objetivos da entrevista, concebida é um espaço essencialmente político, já que diferentes interesses estão em confronto."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"O fato de existir um entrevistador e um entrevistado…\":** a entrevista é um diálogo, mas um diálogo **profissional e com finalidade**, com papéis definidos. O assistente social conduz a conversa a partir dos objetivos do seu trabalho e ocupa um lugar diferente do usuário, e até desigual, pelo poder institucional que representa (é ele quem avalia, encaminha, concede ou nega acesso a serviços). Reconhecer essa assimetria é o que permite usá-la de forma ética, sem fingir que é uma conversa entre iguais.\n\n**As outras:**\n- *O momento da intervenção do Assistente Social…*: participar do processo de conhecimento da realidade acontece também em outros instrumentos (visita domiciliar, observação, reunião); não é o que separa a entrevista de um diálogo comum.\n- *O fato de que a entrevista pode utilizar jogos…*: jogos, brincadeiras e simulações para o grupo chegar a um resultado descrevem **dinâmicas de grupo** e oficinas, não a entrevista.\n- *Que o assistente social se coloca como um líder democrático…*: liderança democrática num espaço político de interesses em confronto descreve a coordenação de **reunião** ou assembleia.\n\n**Para memorizar:** entrevista = diálogo com papéis (entrevistador × entrevistado) e objetivo profissional."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O Serviço Social, enquanto profissão consolidou-se e vem avançando por meio da conquista de novas responsabilidades profissionais e de novos espaços ocupacionais, onde se impõem exigências de expansão qualitativa e quantitativa de conhecimentos no campo teórico e prático. Entre outras, abrem-se as possibilidades ao seu ingresso no complexo campo da formulação, gestão e avaliação de políticas públicas, impondo a apropriação de conceitos e procedimentos para a atuação nesse largo e diversificado espectro de relações de gestão em âmbito institucional e não institucional. Neste sentido, o documento que indica um conjunto de projetos cujos resultados permitem alcançar o objetivo maior de uma política pública, é denominado de:",
+   "alternativas": [
+    "Plano.",
+    "Programa.",
+    "Projeto.",
+    "Planejamento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Programa.\":** no planejamento social há uma escada do geral para o específico. O **plano** é o documento mais amplo, com as diretrizes e prioridades de uma política; o **programa** desdobra o plano por área ou tema e reúne um **conjunto de projetos** que, juntos, alcançam um objetivo maior; o **projeto** é a unidade mais concreta, com objetivos, atividades, prazos e recursos definidos. O enunciado descreve exatamente o programa.\n\n**As outras:**\n- *Plano.*: é o nível mais geral; reúne programas e diretrizes da política, não apenas um conjunto de projetos.\n- *Projeto.*: é a menor unidade, a que fica reunida dentro do programa.\n- *Planejamento.*: não é documento; é o **processo** contínuo de decidir e organizar a ação, que se expressa em planos, programas e projetos.\n\n**Para memorizar:** Plano ⊃ Programa ⊃ Projeto; planejamento é o processo, os três são os documentos."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O Código de Ética dos Assistentes Sociais apresenta ferramentas imprescindíveis para o trabalho dos assistentes sociais nas políticas sociais, **exceto**:",
+   "alternativas": [
+    "Garantia do pluralismo, através do respeito às correntes profissionais democráticas existentes e suas expressões teóricas, e compromisso com o constante aprimoramento intelectual.",
+    "Defesa intransigente dos direitos humanos e recusa do arbítrio e do autoritarismo.",
+    "Compromisso com a qualidade dos serviços prestados à população e com o aprimoramento intelectual, na perspectiva da competência profissional.",
+    "Desenvolvimento pleno da cidadania, dos direitos e garantias individuais e sociais e das tendências à autonomia e à autogestão social."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Desenvolvimento pleno da cidadania, dos direitos…\" é a resposta:** a frase não é um dos 11 princípios fundamentais do Código de Ética do/a Assistente Social (Resolução CFESS 273/1993). Ela está na **introdução** do Código, que explica por que a democracia virou valor ético-político central: é ela que favorece a superação dos limites que a ordem burguesa impõe ao \"desenvolvimento pleno da cidadania, dos direitos e garantias individuais e sociais e das tendências à autonomia e à autogestão social\". Nos princípios, o tema aparece como **ampliação e consolidação da cidadania** (princípio III).\n\n**As outras (estão corretas):**\n- *Garantia do pluralismo, através do respeito…*: é o princípio VII.\n- *Defesa intransigente dos direitos humanos…*: é o princípio II.\n- *Compromisso com a qualidade dos serviços prestados…*: é o princípio X.\n\n**Para memorizar:** o Código abre com a liberdade como valor ético central (I) e a defesa intransigente dos direitos humanos (II); \"autogestão social\" está na introdução, não na lista de princípios."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O planejamento é muitas vezes confundido com o plano, programa ou projeto, os quais são apenas os meios pelos quais o planejamento se expressa. Decorrendo de tal premissa, a distinção básica entre plano, programa e projeto está, portanto, no nível de agregação de decisões e no detalhamento das operações de execução, ou seja,",
+   "alternativas": [
+    "O programa tem maior nível de agregação de decisões que o plano e este, mais que o projeto. Por outro lado, o plano tem maior detalhamento das operações a serem executadas que o projeto e este, mais que o programa.",
+    "O plano tem menor nível de agregação de decisões que o projeto e este, menos que o programa. Por outro lado, o programa tem maior detalhamento das operações a serem executadas que o projeto e este, mais que o plano.",
+    "O plano tem maior nível de agregação de decisões que o programa e este, mais que o projeto. Por outro lado, o projeto tem maior detalhamento das operações a serem executadas que o programa e este, mais que o plano.",
+    "O projeto tem maior nível de agregação de decisões que o plano e este, mais que o programa. Por outro lado, o programa tem maior detalhamento das operações a serem executadas que o projeto e este, mais que o plano."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O plano tem maior nível de agregação de decisões que o programa…\":** pense numa escada do geral para o específico. O **plano** concentra as decisões mais amplas (diretrizes, prioridades, grandes objetivos); o **programa** desdobra o plano por área; o **projeto** é a unidade operacional. Então, em **agregação de decisões**: plano > programa > projeto. Em **detalhamento das operações**, a ordem se inverte: o projeto é o mais detalhado (atividades, prazos, custos, responsáveis), depois o programa e, por último, o plano.\n\n**As outras:**\n- *O programa tem maior nível de agregação…*: põe o programa acima do plano e diz que o plano é mais detalhado que o projeto; inverte a escada.\n- *O plano tem menor nível de agregação…*: trata o plano como o menos agregado, quando ele é o mais geral.\n- *O projeto tem maior nível de agregação…*: inverte tudo: o projeto é o menos agregado e o mais detalhado.\n\n**Para memorizar:** agregação desce (plano → programa → projeto); detalhamento sobe (projeto → programa → plano)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A inter-relação entre os elementos técnicos e políticos do processo de planejamento acontece por meio de um ciclo que envolve as seguintes atividades:",
+   "alternativas": [
+    "Equacionamento; decisão; operacionalização e ação.",
+    "Construção/reconstrução do objeto; estudo da situação; definição de objetivos para a ação; formulação e escolha de alternativas.",
+    "Implementação; implantação; controle da execução; avaliação do processo e da ação executada.",
+    "Reflexão; decisão; ação e retomada da reflexão."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Equacionamento; decisão; operacionalização e ação.\":** no planejamento social (Myrian Veras Baptista), técnica e política se alternam. É função específica do **técnico** o **equacionamento** do problema (estudar a situação e formular alternativas) e, depois, a **operacionalização** das opções escolhidas; a **decisão** cabe ao centro decisório, que é a dimensão **política**. O ciclo que junta os dois elementos fica: equacionamento (técnico) → decisão (político) → operacionalização (técnico) → ação.\n\n**As outras:**\n- *Construção/reconstrução do objeto; estudo da situação…*: são etapas técnicas de conhecer a realidade e montar alternativas, sem o momento político da decisão.\n- *Implementação; implantação; controle da execução…*: são fases de execução e avaliação, não o ciclo técnico-político.\n- *Reflexão; decisão; ação e retomada da reflexão.*: é a sequência de **operações** do planejamento visto como processo racional, também descrita por Baptista; não é o ciclo que mostra a inter-relação entre técnicos e políticos. É a pegadinha da questão.\n\n**Para memorizar:** o técnico equaciona e operacionaliza; o político decide. Processo racional = reflexão, decisão, ação e retomada da reflexão."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "De acordo com a Lei nº 10.098, de 19 de dezembro de 2000 e alterações decorrentes da Lei nº 13.146/15, de 06 de julho de 2015, assinale a alternativa correta:",
+   "alternativas": [
+    "O atendente pessoal é aquele que acompanha a pessoa com deficiência, podendo ou não desempenhar as funções de acompanhante.",
+    "Mobiliário urbano é qualquer componente de obras de urbanização, tais como os referentes a pavimentação, saneamento, encanamento para esgotos, distribuição de energia elétrica e de gás, iluminação pública, serviços de comunicação, abastecimento e distribuição de água, paisagismo e os que materializam as indicações do planejamento urbanístico.",
+    "Desenho universal é a concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva.",
+    "Residência inclusiva é a moradia com estruturas adequadas capazes de proporcionar serviços de apoio coletivos e individualizados que respeitem e ampliem o grau de autonomia de jovens e adultos com deficiência."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Desenho universal é a concepção de produtos…\":** é a definição do art. 2º, X, da Lei 10.098/2000, incluída pela Lei Brasileira de Inclusão (Lei 13.146/2015): concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, **sem necessidade de adaptação ou de projeto específico**, incluindo os recursos de tecnologia assistiva. É a mesma ideia da NBR 9050: projetar para todos desde o início, em vez de adaptar depois.\n\n**As outras:**\n- *O atendente pessoal é aquele que acompanha…*: troca os papéis. Essa é a definição de **acompanhante** (art. 2º, V). **Atendente pessoal** (LBI, art. 3º, XII) é quem presta cuidados básicos e essenciais no dia a dia.\n- *Mobiliário urbano é qualquer componente…*: essa é a definição de **elemento de urbanização** (art. 2º, VI). **Mobiliário urbano** (art. 2º, VII) é o conjunto de objetos sobrepostos ou adicionados a esses elementos, como semáforos, postes de sinalização, lixeiras e bancos.\n- *Residência inclusiva é a moradia com estruturas…*: o texto define **moradia para a vida independente** (LBI, art. 3º, XI). **Residência inclusiva** (art. 3º, X) é unidade do serviço de acolhimento do SUAS para jovens e adultos com deficiência em situação de dependência.\n\n**Para memorizar:** elemento de urbanização = a infraestrutura; mobiliário urbano = o que se coloca sobre ela."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "Nos termos da Lei nº 10.098, de 19 de dezembro de 2000, as vias públicas, os parques e os demais espaços de uso público existentes, assim como as respectivas instalações de serviços e mobiliários urbanos deverão ser adaptados, obedecendo-se ordem de prioridade que vise à maior eficiência das modificações, no sentido de promover mais ampla acessibilidade às pessoas portadoras de deficiência ou com mobilidade reduzida. Sobre o tema, assinale a alternativa correta:",
+   "alternativas": [
+    "Os espaços de uso público existentes deverão disponibilizar, pelo menos, 10% (dez por cento) de seus dormitórios acessíveis, garantida, no mínimo, 1 (uma) unidade acessível e deverão ser localizados em rotas acessíveis.",
+    "Os parques e os demais espaços de uso público existentes deverão ser localizados em rotas acessíveis, garantida a reserva de, no mínimo, 3% (três por cento) dos mobiliários urbanos para pessoa com deficiência.",
+    "O número mínimo de banheiros químicos acessíveis corresponderá a 5% (cinco por cento) do total, garantindo-se pelo menos 1 (uma) unidade acessível caso a aplicação do percentual resulte em fração inferior a 1 (um).",
+    "No mínimo 5% (cinco por cento) de cada brinquedo e equipamento de lazer existentes nos locais referidos devem ser adaptados e identificados, tanto quanto tecnicamente possível, para possibilitar sua utilização por pessoas com deficiência, inclusive visual, ou com mobilidade reduzida."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"No mínimo 5% (cinco por cento) de cada brinquedo…\":** é o parágrafo único do art. 4º da Lei 10.098/2000, na redação da Lei 13.443/2017: nos parques e demais espaços de uso público citados no caput, pelo menos **5% de cada brinquedo e equipamento de lazer** devem ser adaptados e identificados, tanto quanto tecnicamente possível, para uso por pessoas com deficiência, inclusive visual, ou com mobilidade reduzida.\n\n**As outras:**\n- *Os espaços de uso público existentes deverão disponibilizar…*: os 10% de **dormitórios** acessíveis, com no mínimo 1 unidade, valem para **hotéis, pousadas e similares** (LBI, art. 45, § 1º), não para parques e praças.\n- *Os parques e os demais espaços de uso público existentes deverão ser localizados…*: a lei não fixa reserva de 3% do mobiliário urbano. A reserva percentual da Lei 10.098 é a de vagas de estacionamento: 2%, com no mínimo 1 vaga (art. 7º).\n- *O número mínimo de banheiros químicos acessíveis…*: o percentual é **10%**, não 5%, com pelo menos 1 unidade quando a conta der fração (art. 6º, § 2º, incluído pela Lei 13.825/2019).\n\n**Para memorizar:** brinquedos 5%; banheiros químicos 10%; dormitórios de hotel 10%; vagas de estacionamento 2%."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "especificos",
+   "assunto": "acessibilidade",
+   "enunciado": "As Leis nº 10.048 e nº 10.098, ambas de 2000, estabelecem as normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida. Essas leis foram regulamentadas pelo Decreto nº 5.296, de 2004, que dentre outros, estabelece que:",
+   "alternativas": [
+    "Nos teatros, cinemas, auditórios, estádios, ginásios de esporte, locais de espetáculos e de conferências e similares, serão reservados espaços restritos às pessoas em cadeira de rodas e assentos para pessoas com deficiência ou com mobilidade reduzida, de acordo com a capacidade de lotação da edificação.",
+    "Caberá ao Poder Público promover a inclusão de conteúdos temáticos referentes ao desenho universal nas diretrizes curriculares da educação profissional e tecnológica e do ensino superior dos cursos de Engenharia, Arquitetura e correlatos.",
+    "O direito à meia entrada para pessoas com deficiência está restrito aos espaços e aos assentos reservados em locais em que as pessoas com deficiência deverão ficar segregadas e está sujeito ao limite estabelecido.",
+    "Serão disponibilizados, no caso de edificações com capacidade de lotação de até mil lugares, na proporção de cinco por cento de assentos para pessoas com deficiência ou com mobilidade reduzida, com a garantia de, no mínimo, dois assentos."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Caberá ao Poder Público promover a inclusão de conteúdos…\":** é o art. 10, § 1º, do Decreto 5.296/2004. O caput manda que os projetos arquitetônicos e urbanísticos atendam aos princípios do **desenho universal**, tendo como referência as normas da ABNT; o § 1º diz que cabe ao Poder Público incluir conteúdos sobre desenho universal nas diretrizes curriculares da educação profissional e tecnológica e do ensino superior de **Engenharia, Arquitetura e correlatos**.\n\n**As outras:**\n- *Nos teatros, cinemas, auditórios…*: o art. 23 do decreto (redação do Decreto 9.404/2018) e o art. 44 da LBI falam em espaços **livres** para pessoas em cadeira de rodas, não \"restritos\".\n- *O direito à meia entrada para pessoas com deficiência…*: o art. 23, § 11, diz o contrário: a meia-entrada **não está restrita** aos espaços e assentos reservados (e o limite é o da Lei 12.933/2013). Nada manda segregar as pessoas com deficiência.\n- *Serão disponibilizados, no caso de edificações…*: até mil lugares, o decreto exige **2%** de espaços para cadeira de rodas e **2%** de assentos para pessoas com deficiência ou mobilidade reduzida, com **no mínimo 1** de cada (art. 23, § 1º, I). Acima de mil: 20 mais 1% do que passar de mil.\n\n**Para memorizar:** auditório até mil lugares: 2% + 2%, mínimo 1 de cada; desenho universal no currículo de Arquitetura (art. 10, § 1º)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em 2003, o Congresso Nacional aprova e o Presidente da República sanciona o Estatuto do Idoso, considerado uma das maiores conquistas sociais da população idosa em nosso país, ampliando a resposta do Estado e da sociedade às necessidades da população idosa. O Capítulo IV da referida Lei, que reza especificamente sobre o papel do SUS na garantia da atenção à saúde da pessoa idosa de forma integral e em todos os níveis de atenção, tem em seu artigo 15 que a prevenção e a manutenção da saúde do idoso serão efetivadas por meio de:",
+   "alternativas": [
+    "Viabilização de formas alternativas de participação, ocupação e convívio do idoso com as demais gerações.",
+    "Priorização do atendimento do idoso por sua própria família, em detrimento do atendimento asilar.",
+    "Cadastramento da população idosa em base nacional.",
+    "Reabilitação orientada pela geriatria e gerontologia, para redução das sequelas decorrentes do agravo da saúde."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Reabilitação orientada pela geriatria e gerontologia…\":** o art. 15, § 1º, do Estatuto do Idoso (Lei 10.741/2003, hoje Estatuto da Pessoa Idosa, pela Lei 14.423/2022) lista os meios de prevenção e manutenção da saúde: I) cadastramento da população idosa em **base territorial**; II) atendimento geriátrico e gerontológico em ambulatórios; III) unidades geriátricas de referência; IV) atendimento e internação domiciliar para quem não pode se locomover; V) **reabilitação orientada pela geriatria e gerontologia**, para reduzir as sequelas do agravo da saúde.\n\n**As outras:**\n- *Viabilização de formas alternativas de participação…*: é uma das garantias de prioridade do art. 3º (parágrafo único, IV, hoje § 1º), fora do capítulo da saúde.\n- *Priorização do atendimento do idoso por sua própria família…*: também está no art. 3º (inciso V), não no art. 15.\n- *Cadastramento da população idosa em base nacional.*: o inciso I fala em base **territorial**; trocar por \"nacional\" é a pegadinha.\n\n**Para memorizar:** saúde no art. 15: cadastro territorial, ambulatório, unidade de referência, atendimento domiciliar e reabilitação."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Lei 10.741, de 1° de outubro de 2003 - Estatuto do Idoso regulamenta os direitos a todas as pessoas a partir dos 60 anos de idade. Conforme o artigo 4° nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei. Neste sentido, a referida lei prevê que a pena para quem desdenhar, humilhar, menosprezar ou discriminar pessoa idosa, por qualquer motivo, é de:",
+   "alternativas": [
+    "Detenção de 6 (seis) meses a 1 (um) ano e multa.",
+    "Detenção de 6 (seis) meses a 3 (três) anos e multa.",
+    "Reclusão de 6 (seis) meses a 1 (um) ano e multa.",
+    "Detenção de 2 (dois) meses a 1 (um) ano e multa."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Reclusão de 6 (seis) meses a 1 (um) ano e multa.\":** o art. 96 do Estatuto do Idoso pune com **reclusão de 6 meses a 1 ano e multa** quem discrimina pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, meios de transporte, direito de contratar ou outro meio de exercer a cidadania, por motivo de idade. O § 1º manda aplicar **a mesma pena** a quem **desdenhar, humilhar, menosprezar ou discriminar** pessoa idosa, por qualquer motivo. Se a vítima estiver sob cuidado ou responsabilidade do agente, a pena aumenta de 1/3 (§ 2º).\n\n**As outras:**\n- *Detenção de 6 (seis) meses a 1 (um) ano e multa.*: o prazo é o do art. 96, mas a pena é de reclusão. Detenção de 6 meses a 1 ano é a pena do art. 97 (deixar de prestar assistência à pessoa idosa em perigo).\n- *Detenção de 6 (seis) meses a 3 (três) anos e multa.*: é a pena do art. 98 (abandonar a pessoa idosa em hospital, casa de saúde ou entidade de longa permanência).\n- *Detenção de 2 (dois) meses a 1 (um) ano e multa.*: era a pena do art. 99 (expor a perigo a saúde da pessoa idosa) na época da prova; em 2025 (Lei 15.163) ela passou a reclusão de 2 a 5 anos.\n\n**Para memorizar:** humilhar ou desdenhar da pessoa idosa = mesma pena do art. 96: reclusão de 6 meses a 1 ano e multa."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O projeto ético e político - PEP do Serviço Social, que orienta o exercício e a formação profissional, resultou de um processo histórico de construção coletiva, sob a direção das entidades nacionais da categoria (CFESS/CRESS, ABEPSS e ENESSO). Este projeto de profissão e sociedade é explicitado no Código de Ética Profissional, na Lei de Regulamentação da Profissão (Lei 8662/93) e nas Diretrizes Curriculares aprovadas pela ABEPSS em 1996. De acordo com o professor Marcelo Braz Morais dos Reis (1996, pag. 05) há elementos que dão materialidade ao PEP do Serviço Social brasileiro, podendo ser entendido em três dimensões complementares e articuladas entre si:",
+   "alternativas": [
+    "Produção de conhecimentos; político-organizativa; jurídico-política.",
+    "Técnico-operativa, ético-política; teórico-metodológica.",
+    "Fundamentos teórico-metodológico da vida social; fundamentos da formação sócio histórica da sociedade brasileira; fundamentos do trabalho profissional.",
+    "Teleologia; causalidade; práxis."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Produção de conhecimentos; político-organizativa; jurídico-política.\":** para Marcelo Braz (e depois Teixeira e Braz), o projeto ético-político ganha materialidade em três dimensões articuladas: a **produção de conhecimentos** no interior da profissão (pesquisa, pós-graduação, sistematização das práticas); a dimensão **político-organizativa** (as entidades da categoria, como CFESS/CRESS, ABEPSS e ENESSO, e seus fóruns e congressos); e a dimensão **jurídico-política** (o aparato legal: Código de Ética de 1993, Lei 8.662/1993, Diretrizes Curriculares e as leis sociais conquistadas, como a Constituição de 1988, a LOAS e o ECA).\n\n**As outras:**\n- *Técnico-operativa, ético-política; teórico-metodológica.*: são as três dimensões da **competência profissional** (do exercício da profissão), não os componentes que materializam o projeto.\n- *Fundamentos teórico-metodológico da vida social…*: são os três **núcleos de fundamentação** das Diretrizes Curriculares da ABEPSS (1996).\n- *Teleologia; causalidade; práxis.*: são categorias da análise do **trabalho** em Marx e Lukács (o trabalho une a finalidade pensada, teleologia, às leis da natureza, causalidade).\n\n**Para memorizar:** o PEP se materializa em conhecimento, organização da categoria e leis."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A família é um sujeito privilegiado de intervenção do Serviço Social desde os primórdios da profissão. No Brasil ele nasce vinculado aos movimentos de ação social numa proposta de dinamização da missão política de apostolado social junto as classes subalternas, particularmente junto a família operária. Ou seja, o alvo predominante do exercício profissional é o trabalhador e a sua família, em todos os espaços ocupacionais. Sobre o tema, julgue os itens:\n\nI. O trabalho com famílias ganhou grande impulso e maior qualificação técnica no período de consolidação da profissão, através da apropriação do marco conceitual do Serviço Social americano, particularmente do Método do Serviço Social de Grupo.\n\nII. A família é reconhecida como instância de proteção social, inclusive em termos legais. No Brasil, além de constar da Constituição Federal e do Código Civil, essa condição aparece em outras leis vinculadas à proteção social.\n\nIII. A família é concebida na sua condição histórica e as configurações que ela vai assumindo no arco do tempo e das culturas estão condicionadas às diferentes formas de relações sociais estabelecidas.\n\nAssinale",
+   "alternativas": [
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se somente as afirmativas” II e III “estiverem corretas.”",
+    "“se somente a afirmativa” III “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"“se somente as afirmativas” II e III “estiverem corretas.”\":** **II está certa**: a família é reconhecida como instância de proteção social também na lei. A Constituição (art. 226) a chama de base da sociedade, com especial proteção do Estado, e ela aparece no Código Civil e em leis de proteção social como o ECA, a LOAS e o Estatuto do Idoso. **III está certa**: na perspectiva crítica, a família é histórica; suas formas mudam com o tempo, a cultura e as relações sociais de cada época. **I está errada**: o trabalho com famílias ganhou impulso e qualificação técnica com a apropriação do Serviço Social norte-americano, mas pelo **Serviço Social de Caso** (o casework de Mary Richmond, centrado no indivíduo e na família), e não pelo Serviço Social de Grupo.\n\n**As outras:**\n- *“se somente a afirmativa” II “estiver correta.”*: deixa de fora a III, a concepção histórica de família.\n- *“se somente a afirmativa” III “estiver correta.”*: deixa de fora a II, o reconhecimento legal.\n- *“se as afirmativas” I, II e III “estiverem corretas.”*: inclui a I, que troca Caso por Grupo.\n\n**Para memorizar:** família no Serviço Social tradicional = Serviço Social de Caso (Mary Richmond)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A assistência social insere-se constitucionalmente no tripé da Seguridade Social, sendo está a base para o financiamento da política de assistência social e financiada:\n\nI. Com a participação de toda a sociedade, de forma direta e indireta.\n\nII. Mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios.\n\nIII. Mediante contribuições sociais: do empregador; do empregado; sobre a receita de concursos de prognósticos; do importador de bens ou serviços do exterior.\n\nAssinale",
+   "alternativas": [
+    "“se somente as afirmativas” II e III “estiverem corretas.”",
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se somente a afirmativa” III “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"“se as afirmativas” I, II e III “estiverem corretas.”\":** a seguridade social junta saúde, previdência e assistência social (art. 194 da Constituição), e o art. 195 diz como ela é financiada: **por toda a sociedade, de forma direta e indireta** (I), **mediante recursos dos orçamentos da União, dos Estados, do DF e dos Municípios** (II) e das **contribuições sociais** (III): do empregador, do trabalhador e demais segurados da previdência, sobre a receita de concursos de prognósticos (as loterias) e do importador de bens ou serviços do exterior. As ações de assistência social são feitas com recursos do orçamento da seguridade, além de outras fontes (art. 204). O item III diz \"do empregado\" onde a Constituição diz \"do trabalhador e dos demais segurados\", mas a banca aceitou como correto.\n\n**As outras:**\n- *“se somente as afirmativas” II e III “estiverem corretas.”*: tira a I, que é o começo do art. 195.\n- *“se somente a afirmativa” II “estiver correta.”*: ignora o financiamento pela sociedade e as contribuições.\n- *“se somente a afirmativa” III “estiver correta.”*: ignora a sociedade e os orçamentos públicos.\n\n**Para memorizar:** seguridade = toda a sociedade + orçamentos dos entes + contribuições (empregador, trabalhador, loterias, importador)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Pensar a educação como dimensão da vida social significa compreendê-la em sua relação com o trabalho, seguindo uma tradição de análise inaugurada por Marx, que toma o trabalho como:",
+   "alternativas": [
+    "Base da fundação da questão social",
+    "Fundamento ontológico do ser social.",
+    "Um fato social presente em todos os tipos de sociedade.",
+    "Indispensável para a reprodução biológica e social da humanidade"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Fundamento ontológico do ser social.\":** na tradição inaugurada por Marx e desenvolvida por Lukács, o **trabalho** é a atividade que funda o ser social: ao transformar a natureza para atender suas necessidades, o ser humano transforma a si mesmo e se distingue dos outros seres naturais. Por isso o trabalho é o **fundamento ontológico** (do modo de ser) da vida social, e as demais dimensões, como a educação, mantêm com ele uma relação de dependência e, ao mesmo tempo, de autonomia. A frase do enunciado é do documento do CFESS \"Subsídios para a atuação de assistentes sociais na Política de Educação\".\n\n**As outras:**\n- *Base da fundação da questão social*: a questão social nasce da contradição entre capital e trabalho (produção coletiva, apropriação privada), não do trabalho em si.\n- *Um fato social presente em todos os tipos de sociedade.*: \"fato social\" é conceito de Durkheim, de outra tradição teórica.\n- *Indispensável para a reprodução biológica e social da humanidade*: é verdade no senso comum, mas é uma descrição genérica; a tese marxiana é mais forte: o trabalho funda o próprio ser social.\n\n**Para memorizar:** Marx e Lukács: trabalho = fundamento ontológico do ser social; Durkheim: fato social."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Os princípios da educação inclusiva foram impulsionados pela Organização das Nações Unidas (ONU) no cenário internacional, com o discurso de erradicar a pobreza dos grupos em situação de vulnerabilidade social, nos quais se encontram, também, as pessoas com deficiência. Tais ideias ganharam espaço no cenário internacional sustentadas pelas demandas da reorganização do trabalho que preconiza formação escolar ao menos básica e, a partir do entrelaçamento de alguns outros fatos, como:\n\nI. A experiência prévia dos países que implementaram as políticas de Educação Inclusiva;\n\nII. Os movimentos da sociedade civil de luta pelos direitos da pessoa com deficiência;\n\nIII. Os movimentos de luta pela universalização do Ensino Básico.\n\nAssinale",
+   "alternativas": [
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se somente a afirmativa” III “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”",
+    "“se somente as afirmativas” II e III “estiverem corretas.”"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"“se as afirmativas” I, II e III “estiverem corretas.”\":** a educação inclusiva ganhou força internacional nos anos 1990, impulsionada pela ONU e pela UNESCO (Conferência de Jomtien, 1990, \"Educação para Todos\", e Declaração de Salamanca, 1994), com o discurso de combate à pobreza e de educação básica para todos. Além das demandas da reorganização do trabalho, que passou a exigir ao menos a escolarização básica, pesaram três fatores entrelaçados: **I** a experiência dos países que já tinham políticas de educação inclusiva; **II** os movimentos da sociedade civil pelos direitos das pessoas com deficiência; **III** as lutas pela universalização da educação básica.\n\n**As outras:**\n- *“se somente a afirmativa” II “estiver correta.”*: reduz a origem da política à luta das pessoas com deficiência.\n- *“se somente a afirmativa” III “estiver correta.”*: fica só com a universalização do ensino.\n- *“se somente as afirmativas” II e III “estiverem corretas.”*: ignora a experiência prévia de outros países, que serviu de modelo.\n\n**Para memorizar:** Jomtien (1990) = educação para todos; Salamanca (1994) = educação inclusiva."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A educação é um complexo constitutivo da vida social, que tem uma função social importante na dinâmica da reprodução social, ou seja, nas formas de reprodução do ser social, e que numa sociedade organizada a partir da contradição básica entre aqueles que produzem a riqueza social e aqueles que exploram os seus produtores e expropriam sua produção. Este complexo assume predominantemente o caráter de:",
+   "alternativas": [
+    "Assegurar a reprodução dos contextos sociais, das formas de apreensão do real, do conjunto de habilidades técnicas, das formas de produção e de socialização do conhecimento científico que reponham contínua e ampliadamente as desigualdades entre as classes fundamentais e as condições necessárias à acumulação incessante.",
+    "Afligir as diferenças, como as de classes, e fornecer aos membros da sociedade o sentimento de identidade social, encontrando certos referenciais identificadores de todos e para todos, como, por exemplo, a humanidade, a liberdade, a igualdade, a nação, ou o Estado, não se esgotando nas instituições educacionais, embora tenha nelas um espaço privilegiado de objetivação.",
+    "Contribuir para a manutenção e reprodução de determinado arranjo social, possibilitando que aqueles que, de alguma forma, são prejudicados e poderiam insurgir-se contra ele enxerguem-no como bom ou como impossível de ser modificado.",
+    "Colaborar, junto com outras dimensões da vida social, com a manutenção da estabilidade econômica, e distributiva, pois se o nível de pobreza se tornar intolerável para a grande massa, arriscará inclusive a sobrevivência do sistema capitalista."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Assegurar a reprodução dos contextos sociais…\":** a frase completa está no documento do CFESS \"Subsídios para a atuação de assistentes sociais na Política de Educação\": numa sociedade dividida entre quem produz a riqueza e quem a explora, a educação assume **predominantemente** o caráter de assegurar a reprodução dos contextos sociais, das formas de apreender o real, das habilidades técnicas e da produção e socialização do conhecimento, de modo a **repor as desigualdades entre as classes** e as condições da acumulação. Mas essa função é marcada por contradições e lutas.\n\n**As outras:**\n- *Afligir as diferenças, como as de classes…*: mistura a ideia de ideologia (criar uma identidade comum que esconde as classes) com um trecho do documento sobre a educação não se esgotar nas instituições educacionais; não é o caráter predominante descrito.\n- *Contribuir para a manutenção e reprodução de determinado arranjo…*: descreve a função da **ideologia** em geral (fazer os prejudicados verem a ordem como boa ou imutável), não o caráter específico atribuído à educação.\n- *Colaborar, junto com outras dimensões da vida social…*: a tese do texto é a reprodução das desigualdades e da acumulação, não a manutenção de uma \"estabilidade distributiva\".\n\n**Para memorizar:** educação no capitalismo: predominantemente reprodução, mas atravessada por contradições."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Apesar da escola ser um dos principais equipamentos sociais, podemos identificar ainda um número pequeno e até tímido de profissionais do Serviço Social atuando. No entanto, a área de educação tem se constituído em mais um importante espaço de atuação do Assistente Social. Sobre o tema, assinale a alternativa correta:",
+   "alternativas": [
+    "O Serviço Social, enquanto campo de produção científica e de atuação profissional do assistente social, caracteriza-se pela sua inserção no contexto escolar com o objetivo de contribuir para a promoção do desenvolvimento, da aprendizagem e da relação entre esses dois processos, através da terapia social.",
+    "O papel do assistente social no contexto educacional é classificar os alunos com dificuldades escolares e propor métodos especiais de educação, tentando ajustá-los aos padrões de normalidade aceitos socialmente",
+    "O Serviço Social no âmbito educacional tem a possibilidade de contribuir com a realização de diagnósticos sociais, indicando possíveis alternativas à problemática social vivida por muitas crianças e adolescentes.",
+    "A partir do afastamento em relação à postura adaptativa, a o Serviço Social Escolar tem buscado solidificar uma atuação de caráter corretivo e relacional que se sustenta muito mais em parâmetros de sucesso do que de fracasso."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O Serviço Social no âmbito educacional tem a possibilidade…\":** na escola, o assistente social atua sobre as **expressões da questão social** que chegam com os alunos e suas famílias (evasão, trabalho infantil, violência, pobreza, falta de acesso a direitos). Uma de suas contribuições é o **diagnóstico social** da comunidade escolar, indicando alternativas e encaminhamentos na rede de proteção. Desde a Lei 13.935/2019, as redes públicas de educação básica devem contar com serviços de psicologia e de serviço social.\n\n**As outras:**\n- *O Serviço Social, enquanto campo de produção científica…*: adapta a definição de **Psicologia Escolar** (promover o desenvolvimento, a aprendizagem e a relação entre os dois) e inventa uma \"terapia social\", que não é atribuição do assistente social.\n- *O papel do assistente social no contexto educacional é classificar…*: descreve a velha postura adaptativa e normatizadora (ajustar o aluno ao \"normal\"), que a profissão crítica rejeita.\n- *A partir do afastamento em relação à postura adaptativa…*: contradiz a si mesma: quem se afasta da postura adaptativa não busca uma atuação \"corretiva\", que é justamente a marca dessa postura.\n\n**Para memorizar:** Lei 13.935/2019: psicologia e serviço social nas redes públicas de educação básica."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No âmbito da Política de Educação, o conjunto das competências específicas dos/as assistentes sociais se expressam em ações que devem articular as diversas dimensões da atuação profissional. Dentre essas dimensões, destacam-se as abordagens individuais e junto às famílias dos/as estudantes e/ ou trabalhadores e trabalhadoras da Política de Educação, as quais são bastante necessárias e estratégicas ao trabalho profissional, visto que:",
+   "alternativas": [
+    "Delas dependem muito a capacidade de enfrentamento das situações de ameaça, violação e não acesso aos direitos sociais, humanos e à própria educação, como também de sua maior visibilidade no âmbito da política educacional, mas não devem constituir na única modalidade de intervenção profissional.",
+    "Sua função social é marcada pelas contradições, pelos projetos e pelas lutas societárias, esgotando-se nas instituições educacionais, tendo em vista que encontram nelas um espaço privilegiado de reificação das relações sociais.",
+    "Contribuem para que o significado estratégico da política educacional, do ponto de vista das requisições do capital, em sua essência, seja modificado, passando a cumprir funções importantes nos processos de produção de consensos em tempos de crise de capital.",
+    "Em razão da dimensão político-ideológica que caracteriza a profissão, assim como do significado das práticas que conformam a dinâmica de funcionamento de um estabelecimento educacional, as abordagens individuais nestes espaços cumprem uma função estratégica na produção de consensos, na internalização de valores e na reprodução dos lugares sociais."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Delas dependem muito a capacidade de enfrentamento…\":** é quase o texto do CFESS (\"Subsídios para a atuação de assistentes sociais na Política de Educação\"): as abordagens individuais e junto às famílias são necessárias e estratégicas porque delas depende muito a capacidade de enfrentar situações de ameaça, violação e não acesso aos direitos sociais, humanos e à educação, e também a visibilidade do trabalho na política educacional. O documento faz a ressalva: elas **não devem ser a única** modalidade de intervenção; o trabalho coletivo e a atuação na gestão também contam.\n\n**As outras:**\n- *Sua função social é marcada pelas contradições…*: no documento, é a função social da **educação** que **não se esgota** nas instituições educacionais, que são espaço privilegiado de **objetivação** (não de \"reificação\").\n- *Contribuem para que o significado estratégico da política…*: o CFESS diz o contrário: o significado estratégico da política educacional, do ponto de vista do capital, **em sua essência não se alterou**.\n- *Em razão da dimensão político-ideológica…*: no texto, quem cumpre função estratégica na produção de consensos são as **rotinas institucionalizadas** do estabelecimento educacional, não as abordagens individuais.\n\n**Para memorizar:** atendimento individual e às famílias: necessário e estratégico, mas nunca a única forma de atuar."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A educação, como dimensão da vida social, encerra as contradições que particularizam a vida social. Sobre o tema, julgue os itens:\n\nI. A educação, sob o prisma do capital, se converte em um conjunto de práticas sociais que contribuem para a internalização dos consensos necessários à reprodução ampliada deste sistema metabólico.\n\nII. Mesmo a educação contribuindo para a internalização dos consensos necessários à reprodução ampliada do sistema capitalista, a partir dessa dinâmica também se instauram as possibilidades de construção histórica de uma educação emancipadora cujas condições dependem do processo de centralização dessa política.\n\nIII. Uma educação de caráter emancipador, ao mesmo tempo em que prescinde da educação escolarizada, se limita a uma estratégia de intervenção do Estado.\n\nAssinale",
+   "alternativas": [
+    "“se somente as afirmativas” II e III “estiverem corretas.”",
+    "“se somente a afirmativa” I “estiver correta.”",
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"“se somente a afirmativa” I “estiver correta.”\":** **I está certa** e reproduz o CFESS (\"Subsídios…\"): sob o prisma do capital, a educação vira um conjunto de práticas que ajudam a internalizar os consensos necessários à reprodução ampliada desse \"sistema metabólico\" (expressão de Mészáros). **II está errada** no final: o documento diz que dessa mesma dinâmica nascem as possibilidades de uma educação emancipadora, cujas condições dependem de um amplo processo de **universalização do trabalho e da educação como atividade humana autorrealizadora**, e não da \"centralização dessa política\". **III inverte o texto**: uma educação emancipadora **não prescinde** (não dispensa) da educação escolarizada, mas **não se limita** a ela, nem a uma estratégia do Estado.\n\n**As outras:**\n- *“se somente as afirmativas” II e III “estiverem corretas.”*: fica com as duas adulteradas.\n- *“se somente a afirmativa” II “estiver correta.”*: a II troca a condição da educação emancipadora.\n- *“se as afirmativas” I, II e III “estiverem corretas.”*: inclui a II e a III.\n\n**Para memorizar:** prescindir = dispensar. A emancipação \"não prescinde\" da escola, mas \"não se limita\" a ela."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "As atribuições e competências dos/as assistentes sociais, sejam aquelas realizadas na educação ou em qualquer outro espaço sócioocupacional, são orientadas e norteadas pelos princípios, direitos e deveres inscritos no Código de Ética Profissional de 1993 (CEP), na Lei de Regulamentação da Profissão (Lei 8.662/1993), bem como nas Diretrizes Curriculares da ABEPSS (1996). Sobre o tema, assinale a alternativa correta:",
+   "alternativas": [
+    "As atribuições expressam a capacidade para apreciar ou dar resolutividade a determinado assunto, não sendo exclusivas de uma única especialidade profissional, mas a ela concernentes em função da capacitação dos sujeitos profissionais.",
+    "As competências referem-se às funções privativas do/a assistente social, isto é, suas prerrogativas exclusivas e fundamentais à compreensão do contexto sócio histórico em que se situa sua intervenção.",
+    "Estes instrumentos afirmam a concepção de projeto ético-político profissional homogênea no serviço social brasileiro, gestada desde o final dos anos 1960.",
+    "Tais princípios, direitos e deveres, articulados às atribuições e competências, devem ser observados e respeitados tanto pelos/ as profissionais, quanto pelas instituições empregadoras."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Tais princípios, direitos e deveres, articulados…\":** o CFESS (\"Subsídios para a atuação de assistentes sociais na Política de Educação\") afirma que os princípios, direitos e deveres do Código de Ética de 1993, da Lei 8.662/1993 e das Diretrizes Curriculares da ABEPSS (1996), articulados às atribuições e competências, devem ser observados e respeitados **tanto pelos profissionais quanto pelas instituições empregadoras**. A instituição que contrata não pode exigir do assistente social algo que contrarie o Código.\n\n**As outras:**\n- *As atribuições expressam a capacidade para apreciar…*: essa é a definição de **competências** (Iamamoto): capacidade de apreciar ou dar resolutividade a um assunto, não exclusiva de uma só profissão.\n- *As competências referem-se às funções privativas…*: essa é a definição de **atribuições**: funções privativas, prerrogativas exclusivas do assistente social. A alternativa troca os conceitos.\n- *Estes instrumentos afirmam a concepção de projeto ético-político…*: o projeto é **hegemônico** (não \"homogêneo\": há disputa dentro da categoria) e foi gestado desde o final dos anos **1970** (Congresso da Virada, 1979), não 1960.\n\n**Para memorizar:** na Lei 8.662/1993, art. 4º = competências (podem ser comuns a outras profissões); art. 5º = atribuições privativas (só do assistente social)."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca do debate sobre o significado estratégico da política educacional, do ponto de vista das requisições do capital, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.\n\n( ) A educação organizada sob a forma de política pública se constituiu em uma das práticas sociais que menos dissemina a internalização dos valores hegemônicos na sociedade capitalista.\n\n( ) A educação no sistema capitalista é um território disputado pelas classes sociais fundamentais, cujas lutas se expressam em contornos e processos homogêneos que a política educacional assumiu ao longo da história.\n\n( ) A política educacional se estrutura como forma de assegurar modos autônomos de pensar e agir, revestindo-se sob a marca das inversões que são necessárias à reprodução do sistema metabólico do capital.\n\nAs afirmativas são, respectivamente:",
+   "alternativas": [
+    "F – V – F.",
+    "F – V – V.",
+    "V – F –V.",
+    "F – F – F."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"F – F – F.\":** as três frases adulteram o texto do CFESS (\"Subsídios para a atuação de assistentes sociais na Política de Educação\").\n- **1ª (F):** o documento diz que a educação organizada como política pública é uma das práticas sociais **mais amplamente disseminadas** de internalização dos valores hegemônicos, e não a que \"menos dissemina\".\n- **2ª (F):** a educação é, sim, território disputado pelas classes sociais fundamentais, mas essas lutas se expressam em **diferentes** contornos e processos ao longo da história, não em processos \"homogêneos\".\n- **3ª (F):** o texto afirma que a política educacional **não** se estrutura como forma de assegurar modos autônomos de pensar e agir; ela se reveste das inversões necessárias à reprodução do capital.\n\n**As outras:**\n- *F – V – F.*: aceita a segunda, que troca \"diferentes\" por \"homogêneos\".\n- *F – V – V.*: aceita a segunda e a terceira, que inverte o sentido do texto.\n- *V – F –V.*: aceita a primeira e a terceira, as duas invertidas.\n\n**Para memorizar:** para o CFESS, a educação no capitalismo difunde muito os valores dominantes, mas é atravessada por lutas e contradições."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A inclusão do estudo da história e da cultura afro-brasileira e indígena nos currículos da educação brasileira, através da promulgação das Leis 10.639, de 2003 e 11.645 de 2008, é um momento histórico ímpar, de crucial importância para o ensino da diversidade cultural no Brasil. Destarte, de acordo com a alteração na LDB nº 9.394/96, o conteúdo programático voltado para o estudo da história e cultura afro-brasileira e indígena, incluirá diversos aspectos da história e da cultura que caracterizam a formação da população brasileira, a partir desses dois grupos étnicos, tais como:",
+   "alternativas": [
+    "Os conteúdos referentes à História e Cultura Afro-Brasileira ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Física e de Literatura e História Brasileiras.",
+    "O estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade internacional, resgatando as suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil, valorizando a diversidade cultural.",
+    "O estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade nacional, resgatando as suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil.",
+    "Os conteúdos referentes à História e Cultura Latina ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Física e de Literatura e História Brasileiras, tornando a educação comprometida com as origens do povo brasileiro."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"O estudo da história da África… na formação da sociedade nacional…\":** é o art. 26-A, § 1º, da LDB, na redação da Lei 11.645/2008: o conteúdo incluirá aspectos da história e da cultura que formaram a população brasileira a partir dos dois grupos étnicos, como o estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da **sociedade nacional**, resgatando suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil.\n\n**As outras:**\n- *Os conteúdos referentes à História e Cultura Afro-Brasileira…*: o § 2º manda ministrar esses conteúdos em todo o currículo, em especial nas áreas de **educação artística** e de literatura e história brasileiras, não \"Educação Física\"; e o texto atual inclui também os povos indígenas.\n- *O estudo da história da África… na formação da sociedade internacional…*: troca \"nacional\" por \"internacional\" e acrescenta \"valorizando a diversidade cultural\", que não está na lei.\n- *Os conteúdos referentes à História e Cultura Latina…*: a lei não fala em \"cultura latina\" e repete o erro da Educação Física.\n\n**Para memorizar:** Lei 10.639/2003 criou o art. 26-A (afro-brasileira); Lei 11.645/2008 incluiu os indígenas. Áreas em especial: educação artística, literatura e história."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com a Lei nº 14.113, de 2020 que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), é correto afirmar:",
+   "alternativas": [
+    "Será destinado percentual de 50% dos recursos anuais totais dos Fundos referidos no art. 1º da citada Lei, ao pagamento, em cada rede de ensino, da remuneração dos profissionais da educação básica em efetivo exercício.",
+    "A lei reconhece como profissionais da educação básica, aqueles definidos nos termos do art. 61 da Lei nº 9.394, de 20 de dezembro de 1996, bem como aqueles profissionais referidos no art. 1º da Lei nº 13.935 de 11 de dezembro de 2019, em efetivo exercício nas redes escolares de educação básica, dentre os quais estão incluído profissionais da Psicologia e do Serviço Social.",
+    "Para efeito da distribuição dos recursos dos Fundos, será vedada a dupla matrícula dos estudantes da educação regular da rede pública que recebem atendimento educacional especializado.",
+    "É assegurada a participação popular e da comunidade educacional no processo de definição do padrão nacional de qualidade, podendo utilizar, no máximo, 30% (trinta por cento) do valor de complementação ao Fundeb previsto na referida lei."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"A lei reconhece como profissionais da educação básica…\":** na redação original da Lei 14.113/2020 (novo Fundeb), o art. 26, § 1º, II, considerava profissionais da educação básica os definidos no art. 61 da LDB **e os referidos no art. 1º da Lei 13.935/2019**, em efetivo exercício nas redes escolares. A Lei 13.935/2019 é a que manda as redes públicas de educação básica terem serviços de **psicologia e de serviço social**; daí a inclusão desses profissionais. Em dezembro de 2021, a Lei 14.276 reescreveu o inciso e criou o art. 26-A, que permite pagar esses profissionais com a parcela fora dos 70%.\n\n**As outras:**\n- *Será destinado percentual de 50% dos recursos anuais…*: o art. 26 exige **no mínimo 70%** dos recursos anuais dos Fundos para a remuneração dos profissionais da educação básica em efetivo exercício.\n- *Para efeito da distribuição dos recursos dos Fundos, será vedada…*: o art. 8º, § 3º, I, **admite** a dupla matrícula dos alunos da rede pública regular que recebem atendimento educacional especializado.\n- *É assegurada a participação popular e da comunidade educacional…*: junta duas regras sem relação: a participação na definição do padrão de qualidade (art. 49, § 1º) e o limite de 30% da complementação que a **União** pode contar no seu mínimo de gasto em educação (art. 4º, § 3º).\n\n**Para memorizar:** Fundeb: no mínimo 70% para pagar profissionais; dupla matrícula do AEE é admitida."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "[...] o direito que expressa o interesse maior da humanidade deve dominar o interesse particular, na realidade, o exercício dos direitos humanos persistirá como mero postulado e retórica ideológica enquanto os interesses de classe de uma sociedade dividida persistirem e paralisarem a realização do interesses de todos. (Meszáros, 1993). Com base na leitura do fragmento acima, a respeito das possibilidades históricas da educação como potência no combate à pobreza e na efetivação dos direitos humanos, julgue os itens:\n\nI. A educação, assim como a pobreza e os direitos humanos, não pode ser tratada sem considerar a ordem social em que se situa.\n\nII. A capacidade de transformação da educação está diretamente relacionada aos interesses em jogo. No caso dos interesses dominantes, encaminhados pelo Estado, a educação atua muito mais como elemento constituidor de questionamentos da ordem vigente.\n\nIII. A incorporação de pautas do setor privado na implementação da educação tornando-a um nicho para a expansão do capital acaba por obstruir aquela sua potência realizadora dos direitos humanos, tendo em vista que caminha num sentido oposto: a mercantilização das necessidades humanas, conteúdo direitos considerados fundamentais.\n\nAssinale",
+   "alternativas": [
+    "“se somente as afirmativas” I e III “estiverem corretas.”",
+    "“se somente a afirmativa” I “estiver correta.”",
+    "“se somente a afirmativa” II “estiver correta.”",
+    "“se as afirmativas” I, II e III “estiverem corretas.”"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"“se somente as afirmativas” I e III “estiverem corretas.”\":** o fragmento de Mészáros diz que, numa sociedade dividida em classes, os direitos humanos tendem a ficar como retórica enquanto os interesses de classe bloquearem o interesse de todos. **I está certa**: educação, pobreza e direitos humanos só podem ser entendidos dentro da ordem social em que estão (aqui, a capitalista). **III está certa**: quando pautas do setor privado transformam a educação em nicho de expansão do capital, ela vira mercadoria, e a mercantilização de necessidades humanas vai no sentido oposto ao dos direitos. **II está errada**: conduzida pelos interesses dominantes, encaminhados pelo Estado, a educação atua muito mais na **reprodução e legitimação** da ordem vigente do que como questionamento dela.\n\n**As outras:**\n- *“se somente a afirmativa” I “estiver correta.”*: deixa de fora a III.\n- *“se somente a afirmativa” II “estiver correta.”*: fica só com a errada.\n- *“se as afirmativas” I, II e III “estiverem corretas.”*: inclui a II.\n\n**Para memorizar:** a força transformadora da educação depende de quem a conduz; sob os interesses dominantes, ela tende a reproduzir a ordem."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Com base nas disposições da Lei nº 13.005/2014, que aprova o Plano Nacional da Educação e dá outras providencias, assinale a alternativa **incorreta**:",
+   "alternativas": [
+    "A União promoverá a realização de pelo menos 2 (duas) conferências nacionais de educação até o final do decênio, precedidas de conferências distrital, municipais e estaduais, articuladas e coordenadas pelo Fórum Nacional de Educação, instituído nesta Lei, no âmbito do Ministério da Educação.",
+    "As conferências nacionais de educação realizar-se-ão com intervalo de até 4 (quatro) anos entre elas, com o objetivo de avaliar a execução deste PNE e subsidiar a elaboração do plano nacional de educação para o decênio subsequente.",
+    "O plano plurianual, as diretrizes orçamentárias e os orçamentos anuais da União, dos Estados, do Distrito Federal e dos Municípios serão formulados de maneira a assegurar a consignação de dotações orçamentárias compatíveis com as diretrizes, metas e estratégias deste PNE e com os respectivos planos de educação, a fim de viabilizar sua plena execução",
+    "O fortalecimento do regime de colaboração entre os Estados e respectivos Municípios dar-se-á, inclusive, mediante a adoção de arranjos de desenvolvimento da educação e incluirá a instituição de instâncias transitórias de negociação, cooperação e pactuação em cada Estado."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O fortalecimento do regime de colaboração entre os Estados…\" é a resposta:** a alternativa junta dois parágrafos do art. 7º da Lei 13.005/2014 e troca uma palavra. O § 6º diz que o fortalecimento do regime de colaboração entre os **Estados e respectivos Municípios** incluirá a instituição de instâncias **permanentes** (não \"transitórias\") de negociação, cooperação e pactuação em cada Estado. Os **arranjos de desenvolvimento da educação** estão no § 7º e se referem à colaboração **entre os Municípios**.\n\n**As outras (estão corretas):**\n- *A União promoverá a realização de pelo menos 2 (duas) conferências…*: art. 6º, caput.\n- *As conferências nacionais de educação realizar-se-ão com intervalo…*: art. 6º, § 2º (intervalo de até 4 anos).\n- *O plano plurianual, as diretrizes orçamentárias…*: art. 10.\n\n**Para memorizar:** no PNE, as instâncias de pactuação em cada Estado são **permanentes**; arranjos de desenvolvimento da educação = colaboração entre Municípios."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na Lei de Diretrizes e Bases da Educação (1996), a educação especial é entendida como:",
+   "alternativas": [
+    "Uma modalidade de educação escolar oferecida preferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.",
+    "Um método pedagógico que mescla características do ensino regular com o do especial em clínicas e instituições especializadas, promovendo a integração entre crianças com diferentes necessidades.",
+    "Uma maneira de incluir o aluno com necessidades especiais nas atividades físicas promovidas pelas escolas do sistema regular de ensino, pois, muitas vezes, esses alunos são dispensados devido a sua condição.",
+    "Ações que visam o desenvolvimento do sistema motor global por meio da estimulação das percepções motoras, sensitivas, e mental com experiências vividas do movimento global."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Uma modalidade de educação escolar oferecida preferencialmente…\":** é o art. 58 da LDB, na redação da Lei 12.796/2013: educação especial é a **modalidade de educação escolar** oferecida **preferencialmente na rede regular de ensino**, para educandos com **deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação**. Ela atravessa todos os níveis e etapas; o atendimento em classes, escolas ou serviços especializados só acontece quando não for possível a integração nas classes comuns (§ 2º).\n\n**As outras:**\n- *Um método pedagógico que mescla características…*: não é \"método\" nem acontece em clínicas; é modalidade de educação **escolar**, de preferência na rede regular.\n- *Uma maneira de incluir o aluno com necessidades especiais nas atividades físicas…*: confunde com educação física adaptada.\n- *Ações que visam o desenvolvimento do sistema motor global…*: descreve psicomotricidade, não a definição legal.\n\n**Para memorizar:** educação especial = modalidade (não nível), preferencialmente na rede regular; público: deficiência, TGD e altas habilidades."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Base Nacional Comum Curricular é uma exigência colocada para o sistema educacional brasileiro pela Lei de Diretrizes e Bases da Educação Nacional (Brasil, 1996; 2013), pelas Diretrizes Curriculares Nacionais Gerais da Educação Básica (Brasil, 2009) e pelo Plano Nacional de Educação (Brasil, 2014), e deve se constituir como um avanço na construção da qualidade da educação. Sobre o referido documento, assinale a alternativa correta:",
+   "alternativas": [
+    "A Base Nacional Comum Curricular (BNCC) é um documento de caráter deliberativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica, de modo a que tenham assegurados seus direitos de aprendizagem e desenvolvimento, em conformidade com o que preceitua o Plano Nacional de Educação (PNE).",
+    "A Base Nacional Comum Curricular (BNCC) é um documento que se aplica exclusivamente à educação escolar, tal como a define o § 1º do Artigo 1º da Lei de Diretrizes e Bases da Educação Nacional (LDB, Lei nº 9.394/1996), e está orientado pelos princípios éticos, políticos e estéticos que visam à formação humana integral e à construção de uma sociedade justa, democrática e inclusiva, como fundamentado nas Diretrizes Curriculares Nacionais da Educação Básica (DCN).",
+    "Referência internacional para a formulação dos currículos dos sistemas e das redes escolares dos países da américa latina e das propostas pedagógicas das instituições escolares, a Base Nacional Comum Curricular (BNCC) integra a política nacional da Educação Básica e vai contribuir para o alinhamento de outras políticas e ações, em âmbito federal, estadual e municipal, referentes à formação de professores, à avaliação, à elaboração de conteúdos educacionais e aos critérios para a oferta de infraestrutura adequada para o pleno desenvolvimento da educação.",
+    "A Base Nacional Comum Curricular (BNCC) visa fomentar a fragmentação das políticas educacionais, enseje o fortalecimento do regime de colaboração entre as três esferas de governo e seja balizadora da qualidade da educação. Assim, para além da garantia de acesso e permanência na escola, é necessário que sistemas, redes e escolas garantam um patamar comum de aprendizagens a todos os estudantes, tarefa para a qual a BNCC é instrumento fundamental."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"…é um documento que se aplica exclusivamente à educação escolar…\":** é o texto da introdução da BNCC: o documento normativo **aplica-se exclusivamente à educação escolar**, como a define o § 1º do art. 1º da LDB, e está orientado pelos princípios éticos, políticos e estéticos que visam à formação humana integral e à construção de uma sociedade justa, democrática e inclusiva, como fundamentado nas Diretrizes Curriculares Nacionais da Educação Básica.\n\n**As outras:**\n- *…é um documento de caráter deliberativo…*: a BNCC é documento de caráter **normativo**; o resto da frase (conjunto orgânico e progressivo de aprendizagens essenciais) está certo.\n- *Referência internacional para a formulação dos currículos…*: a BNCC é referência **nacional** para os currículos dos sistemas e redes dos Estados, do Distrito Federal e dos Municípios, não dos países da América Latina.\n- *…visa fomentar a fragmentação das políticas educacionais…*: o texto diz que se espera que a BNCC ajude a **superar** a fragmentação das políticas educacionais.\n\n**Para memorizar:** BNCC: normativa, nacional, só para a educação escolar, contra a fragmentação."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Ao longo da Educação Básica, as aprendizagens essenciais definidas na BNCC devem concorrer para assegurar aos estudantes o desenvolvimento de competências gerais, que consubstanciam, no âmbito pedagógico, os direitos de aprendizagem e desenvolvimento. Na Base Nacional Comum Curricular (BNCC), competência é definida como:",
+   "alternativas": [
+    "Um arranjo dos objetos de conhecimento ao longo do ensino fundamental adequado às especificidades dos diferentes componentes curriculares.",
+    "A explicitação da situação ou condição em que a habilidade deve ser desenvolvida, considerando a faixa etária dos alunos, caracterizando as ações ou condutas esperadas do professor, contribuindo com abordagens ou metodologias.",
+    "A mobilização de conhecimentos (conceitos e procedimentos), habilidades (práticas, cognitivas e socioemocionais), atitudes e valores para resolver demandas complexas da vida cotidiana, do pleno exercício da cidadania e do mundo do trabalho.",
+    "A interlocução de saberes e conhecimentos fundamentais a ser propiciados às crianças e associados às suas experiências. Considerando esses saberes e conhecimentos, os campos de experiências em que se organiza a formação da consciência dos indivíduos é o espaço onde se desenvolve a competência."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"A mobilização de conhecimentos (conceitos e procedimentos)…\":** é a definição literal da BNCC: competência é a **mobilização de conhecimentos** (conceitos e procedimentos), **habilidades** (práticas, cognitivas e socioemocionais), **atitudes e valores** para resolver demandas complexas da vida cotidiana, do pleno exercício da cidadania e do mundo do trabalho. A BNCC define 10 competências gerais para toda a Educação Básica.\n\n**As outras:**\n- *Um arranjo dos objetos de conhecimento…*: descreve a organização dos conteúdos de cada componente (unidades temáticas e objetos de conhecimento), não o conceito de competência.\n- *A explicitação da situação ou condição em que a habilidade…*: lembra a forma de descrever as habilidades, que são uma das partes da competência, não a competência.\n- *A interlocução de saberes e conhecimentos fundamentais…*: adultera a ideia dos **campos de experiências**, que organizam a Educação Infantil.\n\n**Para memorizar:** competência = conhecimentos + habilidades + atitudes + valores postos em ação."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na Constituição Federal de 1988 a educação compõe o rol dos direitos sociais e em seu Art. 205, a educação é estabelecida como “direito de todos e dever do Estado e da família” e visa “pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho” (BRASIL, 1988). A Constituição também possibilitou avanços no sistema de ensino superior, ao prever em seu Art 207:",
+   "alternativas": [
+    "Progressiva universalização do ensino médio gratuito e oferta de ensino noturno regular, adequado às condições do educando",
+    "Garantia da autonomia universitária e a indissociabilidade entre ensino, pesquisa e extensão.",
+    "Acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um.",
+    "O acesso ao ensino obrigatório e gratuito como direito público subjetivo."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"Garantia da autonomia universitária e a indissociabilidade…\":** o art. 207 da Constituição diz que as universidades gozam de **autonomia didático-científica, administrativa e de gestão financeira e patrimonial** e obedecem ao princípio da **indissociabilidade entre ensino, pesquisa e extensão**. É o artigo dedicado às universidades.\n\n**As outras:**\n- *Progressiva universalização do ensino médio gratuito e oferta…*: junta dois incisos do art. 208 (II e VI), que trata do dever do Estado com a educação.\n- *Acesso aos níveis mais elevados do ensino…*: é o art. 208, V. Fala de acesso ao ensino superior, mas como garantia do dever do Estado, não no art. 207.\n- *O acesso ao ensino obrigatório e gratuito como direito público subjetivo.*: é o art. 208, § 1º.\n\n**Para memorizar:** art. 205 = educação, direito de todos; 206 = princípios do ensino; 207 = universidades; 208 = dever do Estado."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Em 09 de janeiro de 2001, foi aprovada a Lei Nº 10.172, que promulgou o Plano Nacional de Educação (PNE). Esse plano estabeleceu algumas ações relevantes no que se refere à assistência estudantil, como a previsão de bolsa-trabalho ou outros programas voltados para estudantes que demonstrassem bom desempenho acadêmico, buscando ainda:",
+   "alternativas": [
+    "Estimular as instituições de ensino superior a identificar, na educação básica, estudantes com altas habilidades intelectuais, nos estratos de renda mais baixa, com vistas a oferecer bolsas de estudo e apoio ao prosseguimento dos estudos.",
+    "A implantação imediata de programas de atendimento aos alunos com altas habilidades nas áreas artística, intelectual ou psicomotora.",
+    "Incentivar a individualização da prática da pesquisa como elemento integrante e modernizador dos processos de ensino-aprendizagem em toda a educação superior, inclusive com a participação de alunos no desenvolvimento da pesquisa.",
+    "Garantir, nas instituições de educação médio, a oferta de cursos de extensão, para atender as necessidades da educação continuada de adultos, que não possuam formação superior, na perspectiva de mitigar o necessário esforço nacional de resgate da dívida cultural e educacional."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Estimular as instituições de ensino superior a identificar…\":** no PNE de 2001 (Lei 10.172/2001), as metas de financiamento e gestão da educação superior previam programas de assistência estudantil, como bolsa-trabalho, para estudantes carentes com bom desempenho acadêmico, e também **estimular as instituições de ensino superior a identificar, na educação básica, estudantes com altas habilidades intelectuais nos estratos de renda mais baixa**, oferecendo bolsas de estudo e apoio para continuarem os estudos.\n\n**As outras:**\n- *A implantação imediata de programas de atendimento…*: na parte de educação especial, o PNE mandava implantar esses programas **gradativamente**, a partir do primeiro ano do plano.\n- *Incentivar a individualização da prática da pesquisa…*: o texto fala em **generalização** da prática da pesquisa em toda a educação superior.\n- *Garantir, nas instituições de educação médio…*: o PNE fala em instituições de educação **superior**, cursos de extensão para adultos **com ou sem** formação superior, para **integrar** o esforço nacional de resgate da dívida **social** e educacional.\n\n**Para memorizar:** PNE de 2001 = Lei 10.172 (decênio 2001-2010); o PNE seguinte é a Lei 13.005/2014."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Para ser realizada, a educação sob a concepção da emancipação, depende da garantia do respeito à diversidade humana, da afirmação incondicional dos direitos humanos, considerando a livre orientação e expressão sexual, livre identidade de gênero, sem as quais não se viabiliza uma educação não sexista, não racista, não homofóbica/lesbofóbica/ transfóbica. Os processos de constituição dos sujeitos coletivos e de suas lutas é, desta forma, condição de uma educação emancipadora, posto que:",
+   "alternativas": [
+    "Qualificam a democracia como um processo abstrato e não desvinculada da perspectiva da classe trabalhadora.",
+    "Qualificam a democracia como um valor liberal e não como um processo.",
+    "Qualificam a democracia como um processo e não como um valor liberal.",
+    "Qualificam a democracia como um processo concreto e desvinculada da perspectiva da classe trabalhadora."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Qualificam a democracia como um processo e não como um valor liberal.\":** é a frase do CFESS (\"Subsídios para a atuação de assistentes sociais na Política de Educação\"): os processos de constituição dos sujeitos coletivos e de suas lutas são condição de uma educação emancipadora porque qualificam a democracia **como um processo**, construído pelas lutas e pela socialização da política e do poder, e **não como um valor liberal**, algo abstrato e já dado, reduzido às regras formais.\n\n**As outras:**\n- *…como um processo abstrato e não desvinculada…*: \"abstrato\" é o oposto da ideia de processo concreto, construído pelas lutas.\n- *Qualificam a democracia como um valor liberal e não como um processo.*: inverte a frase original.\n- *…como um processo concreto e desvinculada…*: a perspectiva emancipadora é **vinculada** à classe trabalhadora, não desvinculada.\n\n**Para memorizar:** democracia emancipadora = processo construído nas lutas; democracia liberal = valor formal."
+  },
+  {
+   "id": "idecan-2021-cg-assistente-social-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na perspectiva de fortalecimento do projeto ético-político, o trabalho do/a assistente social na Política de Educação pressupõe:",
+   "alternativas": [
+    "Uma centralidade que é ineliminável das formas sociais que os diferentes modos de produção da vida social assumiram e que não permanece apenas como ponto de partida originário do desenvolvimento humano.",
+    "A força ideologicamente primária que consolida o sistema do capital, capaz de, por si só, fornecer uma alternativa emancipadora radical.",
+    "A superação da sociedade de classes, assim como de suas formas de institucionalização dos direitos sociais.",
+    "A referência a uma concepção de educação emancipadora, que possibilite aos indivíduos sociais o desenvolvimento de suas potencialidades e capacidades como gênero humano."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"A referência a uma concepção de educação emancipadora…\":** o CFESS (\"Subsídios para a atuação de assistentes sociais na Política de Educação\") diz que, na perspectiva de fortalecimento do projeto ético-político, o trabalho do assistente social na Política de Educação **pressupõe a referência a uma concepção de educação emancipadora**, que possibilite aos indivíduos sociais o desenvolvimento de suas potencialidades e capacidades como gênero humano. Isso decorre do Código de Ética, que toma a liberdade como valor ético central e a emancipação como finalidade.\n\n**As outras:**\n- *Uma centralidade que é ineliminável das formas sociais…*: no documento, a frase descreve a centralidade do **trabalho** na vida social, não o pressuposto do trabalho do assistente social.\n- *A força ideologicamente primária que consolida…*: o texto, citando Mészáros, diz que a educação formal **não é** a força ideologicamente primária do capital nem é capaz, por si só, de oferecer uma alternativa emancipadora radical.\n- *A superação da sociedade de classes…*: a nova ordem societária é horizonte do projeto profissional, não um pressuposto do trabalho na escola; e o projeto defende os direitos sociais, não a superação deles.\n\n**Para memorizar:** trabalho do assistente social na educação: referência numa educação emancipadora."
+  }
+ ]
+}
