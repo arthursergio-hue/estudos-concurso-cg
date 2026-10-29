@@ -1,0 +1,1055 @@
+{
+ "id": "idecan-2021-cg-fiscal-tributos",
+ "titulo": "Fiscal de Tributos Municipais — Prefeitura de Campina Grande/PB",
+ "banca": "IDECAN",
+ "ano": 2021,
+ "orgao": "Prefeitura de Campina Grande/PB",
+ "cargo": "Fiscal de Tributos Municipais",
+ "fonte": "https://www.qconcursos.com/questoes-de-concursos/provas/idecan-2021-prefeitura-de-campina-grande-pb-fiscal-de-tributos-municipais",
+ "duracaoMin": 240,
+ "textos": [
+  {
+   "id": "t1",
+   "titulo": "Texto I — Brasil é laboratório do melhor e do pior em governança tecnológica",
+   "fonte": "(Ronaldo Lemos. Folha de S.Paulo, 14/11/21. https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/11/brasil-e-laboratorio-do-melhor-e-do-pior-em-governanca-tecnologica.shtml)",
+   "numerarLinhas": true,
+   "conteudo": "\tNa semana passada participei de um jantar oficial com o presidente francês, Emmanuel Macron, na sede do governo\nem Paris. Foram convidados 20 “pensadores” globais que trabalham com tecnologia. O objetivo era discutir o papel da França\ne da Europa de modo geral sobre questões tecnológicas. Dentre os convidados, estavam a escritora Shoshana Zuboff (autora\ndo livro *A Era do Capitalismo de Vigilância*) e a baronesa Joanna Shields, ex-Ministra de Internet e Segurança da Inglaterra. Da\nAmérica Latina, só este colunista.\n\tTrês perguntas foram levantadas nas conversas. É possível usar a tecnologia a favor da democracia? Como proteger\ndireitos em face do avanço tecnológico? E, muito importante, como proteger as democracias dos ataques coordenados por\nmeios digitais?\n\tA França está em posição favorável para levantar essas questões. O país está prestes a assumir a presidência do\nConselho da Europa. Além disso, nos dias seguintes ao jantar, recebeu a vice-presidente dos EUA, Kamala Harris, e o\nsecretário-geral da ONU, Antonio Guterres, além de outras lideranças globais que participaram do Fórum da Paz, a convite do\npaís.\n\tNo jantar acabei conhecendo alguns dos ministros franceses. Dentre eles, a jovem ministra da transformação e reforma\ndo Estado, Amélie de Montchalin, que se sentou ao meu lado. Amélie morou no Brasil na cidade de Campinas e fala português\nperfeitamente. Seu pai foi executivo de uma fábrica de produtos alimentícios na cidade. No dia do jantar ela havia acabado de\nlançar a política de software livre da França. Além disso, inclui uma estratégia para atrair programadores para trabalharem no\ngoverno francês. Tudo um luxo comparado com as políticas tecnológicas brasileiras no momento.\n\tVale lembrar que o Brasil já foi líder nessa área e pioneiro em políticas de software livre na administração pública. Hoje\nestá à deriva. Aliás, esse foi o tema da minha fala para o presidente Macron. Enfatizei que nosso país é uma espécie de\nlaboratório de tudo que existe de melhor e pior em termos de governança tecnológica. No lado bom, criamos no passado a\nParceria Internacional de Governos Abertos (OGP), que foi citada várias vezes na reunião. Criamos também o Marco Civil da\nInternet, visto como modelo, e também citado. Fizemos iniciativas globais como a NetMundial, ou o próprio Comitê Gestor da\nInternet. Tudo permanece na memória de líderes globais.\n\tJá sobre as experiências ruins relacionadas à tecnologia não é preciso citar. Vivemos dentro delas e de seus resultados\ntodos os dias no país. Uma lição ficou clara no jantar: liderança importa. Diga-se o que se quiser do presidente francês, ele tem\num plano e uma visão clara sobre o papel da França. Essa visão produz frutos. O país vai crescer 7% em 2021. A taxa de\ndesemprego está baixa e decrescendo, com meio milhão de empregos formais criados neste ano. O país está construindo as\nbases para participar cada vez mais da economia digital e quer dialogar com pensadores do mundo inteiro para isso.\n\tComo dizia um outro francês, Allan Kardec: “Todo efeito inteligente tem uma causa inteligente. O poder da causa está\nna grandeza do seu efeito.” Para refletirmos."
+  }
+ ],
+ "questoes": [
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q01",
+   "numero": 1,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Ao dizer que o Brasil é uma espécie de laboratório, o colunista emprega linguagem:",
+   "alternativas": [
+    "conotativa.",
+    "denotativa.",
+    "paradoxal.",
+    "científica."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"conotativa.\":** linguagem **conotativa** é a que usa a palavra em sentido figurado, ampliado pelo contexto. O Brasil não é, literalmente, um laboratório: o colunista usa a imagem do laboratório (lugar de experimentos, de testes que dão certo e errado) para dizer que o país já viveu \"tudo que existe de melhor e pior em termos de governança tecnológica\" (linhas 19 e 20). É uma metáfora, recurso típico da conotação.\n\n**As outras:**\n- *denotativa.*: é o sentido literal, de dicionário, como em \"o laboratório da universidade analisou as amostras\".\n- *paradoxal.*: paradoxo junta ideias que parecem se excluir (\"estou cego de tanto ver\"). Dizer que o país reúne o melhor e o pior não é contradição lógica, é um balanço.\n- *científica.*: linguagem científica é objetiva, técnica e denotativa, o oposto do uso figurado feito pelo colunista.\n\n**Para memorizar:** Denotação = Dicionário (sentido literal); Conotação = Contexto (sentido figurado)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q02",
+   "numero": 2,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "*O objetivo era discutir o papel da França e da Europa de modo geral sobre questões tecnológicas.* (linhas 2 e 3)\n\nAo empregar “França” e “Europa” no lugar de “franceses” e “europeus”, ocorre um processo de figura de linguagem, largamente empregada na comunicação cotidiana. Trata-se de",
+   "alternativas": [
+    "hipálage.",
+    "paronomásia.",
+    "metonímia.",
+    "antonomásia."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"metonímia.\":** metonímia é trocar uma palavra por outra com a qual ela tem uma relação real de proximidade: autor pela obra (\"ler Machado\"), continente pelo conteúdo (\"beber um copo\"), marca pelo produto e **lugar pelos seus habitantes ou instituições**. Ao falar do \"papel da França e da Europa\", o colunista usa o nome do país e do continente no lugar dos franceses e dos europeus (ou de seus governos). É a mesma figura de \"Brasília decidiu\" ou \"o estádio inteiro vaiou\".\n\n**As outras:**\n- *hipálage.*: atribui a um ser a qualidade que pertence a outro, como em \"fumava um pensativo cigarro\" (pensativo é quem fuma).\n- *paronomásia.*: aproxima palavras de som parecido e sentido diferente, como em \"quem casa quer casa\".\n- *antonomásia.*: troca um nome próprio por um apelido ou qualidade que o identifica, como \"o Poeta dos Escravos\" no lugar de Castro Alves. Aqui não há apelido.\n\n**Para memorizar:** metonímia = relação de proximidade real (lugar → povo, autor → obra); metáfora = comparação implícita."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q03",
+   "numero": 3,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "interpretacao",
+   "texto": "t1",
+   "enunciado": "Em relação às ideias do texto e as possíveis inferências que podem ser feitas com inferência, analise as afirmativas a seguir:\n\nI. A narrativa do colunista, que estava acompanhando o jantar para compor sua coluna, apresentou o que os pensadores mundiais discutiram no evento promovido pela Comunidade Europeia.\n\nII. A jovem ministra citada pelo colunista se inspirou no modelo brasileiro de software livre, que conheceu durante o tempo em que morou em Campinas, e o lançou naquele mesmo dia na França.\n\nIII. Houve criação de quinhentos mil empregos formais na França no âmbito da tecnologia, por conta de medidas da Administração que fortaleceram o setor.\n\nAssinale",
+   "alternativas": [
+    "se apenas a afirmativa I estiver correta.",
+    "se apenas a afirmativa II estiver correta.",
+    "se apenas a afirmativa III estiver correta.",
+    "se nenhuma afirmativa estiver correta."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se nenhuma afirmativa estiver correta.\":** as três afirmativas acrescentam fatos que o texto não diz. **I está errada**: o colunista não \"acompanhava\" o jantar como repórter, ele era um dos 20 convidados (\"participei de um jantar oficial\", linha 1), e o evento foi na sede do governo francês, com Macron, e não promovido pela Comunidade Europeia. **II está errada**: o texto diz que a ministra morou em Campinas e que acabara de lançar a política de software livre da França, mas não diz que ela se inspirou no modelo brasileiro; essa ligação é invenção. **III está errada**: o texto fala em \"meio milhão de empregos formais criados neste ano\" (linha 27), sem dizer que foram na área de tecnologia nem que vieram de medidas para o setor.\n\n**As outras:**\n- *se apenas a afirmativa I estiver correta.*: falha porque a I muda o papel do colunista e o organizador do evento.\n- *se apenas a afirmativa II estiver correta.*: falha porque a inspiração no modelo brasileiro é extrapolação.\n- *se apenas a afirmativa III estiver correta.*: falha porque o texto não liga os empregos à tecnologia.\n\n**Para memorizar:** inferência errada típica da IDECAN junta dois fatos verdadeiros do texto com uma relação de causa que o autor não fez."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q04",
+   "numero": 4,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pronomes",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que o pronome indicado, no texto, exerça papel dêitico.",
+   "alternativas": [
+    "essas (linha 9)",
+    "este (linha 5)",
+    "disso (linha 10)",
+    "Essa (linha 26)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"este (linha 5)\":** dêitico é o termo que aponta para a **situação de comunicação** (quem fala, onde, quando), e não para outra palavra do texto. Em \"Da América Latina, só este colunista\", o pronome \"este\" aponta para o próprio autor, que está escrevendo a coluna: o leitor só sabe quem é \"este colunista\" porque sabe quem assina o texto. É dêixis de pessoa, como \"eu\", \"aqui\" e \"agora\".\n\n**As outras:**\n- *essas (linha 9)*: \"essas questões\" retoma as três perguntas do parágrafo anterior. É uso **anafórico** (retoma algo já dito no texto).\n- *disso (linha 10)*: \"Além disso\" retoma o fato de a França estar prestes a assumir a presidência do Conselho da Europa; também é anafórico.\n- *Essa (linha 26)*: \"Essa visão\" retoma \"uma visão clara sobre o papel da França\", dita logo antes; anafórico.\n\n**Para memorizar:** anáfora olha para trás no texto, catáfora olha para a frente, dêixis olha para fora do texto (eu, aqui, agora)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q05",
+   "numero": 5,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "reescrita",
+   "texto": "t1",
+   "enunciado": "*O país está ++prestes a++ assumir a presidência do Conselho da Europa.* (linhas 9 e 10)\n\nO segmento sublinhado no período acima pode ser substituído, mantendo-se o mesmo sentido, por",
+   "alternativas": [
+    "na eminência de",
+    "apartado de",
+    "na imanência de",
+    "na iminência de"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"na iminência de\":** \"estar **prestes a**\" significa estar perto de fazer algo, a ponto de. **Iminência** (com i) é a qualidade do que é iminente, do que está para acontecer logo. Por isso \"O país está na iminência de assumir a presidência do Conselho da Europa\" mantém o sentido original.\n\n**As outras:**\n- *na eminência de*: **eminência** (com e) é elevação, destaque ou título (\"Sua Eminência, o cardeal\"). É o parônimo de iminência, a pegadinha clássica.\n- *apartado de*: significa separado, afastado de; muda totalmente o sentido.\n- *na imanência de*: **imanência** é a qualidade do que é imanente, inerente, que existe dentro da própria coisa. Termo de filosofia, sem ideia de tempo.\n\n**Para memorizar:** **i**minente = **i**mediato, prestes a acontecer; **e**minente = **e**levado, ilustre."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q06",
+   "numero": 6,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "Assinale a alternativa em que a palavra indicada exerça, no texto, papel adjetivo.",
+   "alternativas": [
+    "escritora (linha 3)",
+    "essas (linha 9)",
+    "deriva (linha 19)",
+    "pior (linha 20)"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"essas (linha 9)\":** em \"essas questões\", o pronome demonstrativo acompanha o substantivo e o determina; por isso é **pronome adjetivo** (faz papel de adjetivo, como adjunto adnominal). Se aparecesse sozinho, no lugar do substantivo (\"vamos discutir essas\"), seria pronome substantivo.\n\n**As outras:**\n- *escritora (linha 3)*: em \"a escritora Shoshana Zuboff\", \"escritora\" é substantivo, núcleo do termo, e o nome próprio é aposto especificativo.\n- *deriva (linha 19)*: em \"está à deriva\", \"deriva\" é substantivo (o desvio de rota de uma embarcação), dentro da locução adverbial \"à deriva\".\n- *pior (linha 20)*: em \"tudo que existe de melhor e pior\", a palavra está substantivada (equivale a \"o pior\"), como em \"o que há de bom\".\n\n**Para memorizar:** pronome que acompanha o substantivo = pronome adjetivo; pronome que substitui o substantivo = pronome substantivo."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q07",
+   "numero": 7,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*...a ++jovem ministra++ da transformação e reforma do Estado...* (linhas 13 e 14)\n\nO segmento acima sublinhado, caso alternasse a posição dos termos, não sofreria alteração nem morfológica nem semântica. Isso também ocorre nas alternativas a seguir, **À EXCEÇÃO DE UMA**. Assinale-a.",
+   "alternativas": [
+    "várias vezes (linha 21) – vezes várias",
+    "avanço tecnológico (linha 7) – tecnológico avanço",
+    "posição favorável (linha 9) – favorável posição",
+    "experiências ruins (linha 24) – ruins experiências"
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"várias vezes (linha 21) – vezes várias\" é a resposta:** antes do substantivo, \"várias\" é **pronome indefinido** e indica quantidade (muitas vezes). Depois do substantivo, em \"vezes várias\", passa a ser **adjetivo**, com sentido de \"variadas, diferentes\". Mudam a classe gramatical (morfologia) e o sentido (semântica), por isso é a exceção. No enunciado, \"jovem ministra\" e \"ministra jovem\" mantêm \"jovem\" como adjetivo e com o mesmo sentido.\n\n**As outras (estão corretas):**\n- *avanço tecnológico (linha 7) – tecnológico avanço*: \"tecnológico\" continua adjetivo e com o mesmo sentido; só a ordem fica menos usual.\n- *posição favorável (linha 9) – favorável posição*: \"favorável\" continua adjetivo, mesmo sentido.\n- *experiências ruins (linha 24) – ruins experiências*: \"ruins\" continua adjetivo, mesmo sentido.\n\n**Para memorizar:** palavras que mudam de sentido com a posição: \"várias vezes\" × \"vezes várias\", \"certo dia\" × \"dia certo\", \"grande homem\" × \"homem grande\", \"pobre homem\" × \"homem pobre\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q08",
+   "numero": 8,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "coesao",
+   "texto": "t1",
+   "enunciado": "*A França está em posição favorável para levantar essas questões. O país está prestes a assumir a presidência do Conselho da Europa.* (linhas 9 e 10)\n\nA relação semântica que se estabelece no segundo período do trecho acima em relação ao primeiro é de",
+   "alternativas": [
+    "consequência",
+    "condição",
+    "causa",
+    "concessão"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"causa\":** o segundo período explica **por que** a França está em posição favorável: ela está prestes a assumir a presidência do Conselho da Europa. Dá para ligar os dois com um conector causal sem mudar o sentido: \"A França está em posição favorável para levantar essas questões, **pois** o país está prestes a assumir a presidência do Conselho da Europa\". A relação fica implícita (os períodos estão apenas lado a lado) e o leitor a deduz pelo sentido.\n\n**As outras:**\n- *consequência*: seria se o segundo fato resultasse do primeiro (\"está em posição favorável, por isso vai liderar o debate\"). É o contrário.\n- *condição*: exigiria uma hipótese (\"se assumir a presidência, estará em posição favorável\"). O texto afirma um fato.\n- *concessão*: indicaria um obstáculo que não impede o fato (\"embora não presida nada, está em posição favorável\"). Não há oposição entre as ideias.\n\n**Para memorizar:** teste da troca: se cabe \"porque/pois\", é causa; \"por isso/portanto\", consequência; \"se/caso\", condição; \"embora/ainda que\", concessão."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q09",
+   "numero": 9,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "sintaxe",
+   "texto": "t1",
+   "enunciado": "*Da América Latina, só este colunista.* (linhas 4 e 5)\n\nNo período acima, analisando-o dentro do texto em que se insere, constitui exemplo de",
+   "alternativas": [
+    "apóstrofe.",
+    "anacoluto.",
+    "pleonasmo.",
+    "zeugma."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"zeugma.\":** zeugma é a **omissão de um termo que já apareceu antes** no texto. A frase completa seria \"Da América Latina, só este colunista [foi convidado / estava entre os convidados]\". O verbo fica subentendido porque já foi dito em \"Foram convidados 20 'pensadores' globais\" (linha 2) e \"Dentre os convidados, estavam...\" (linha 3). Quando o termo omitido não aparece antes e é deduzido só pelo contexto, chama-se **elipse**; zeugma é a elipse de termo já expresso.\n\n**As outras:**\n- *apóstrofe.*: é a interpelação, o chamamento enfático a alguém ou algo (\"Deus! ó Deus! onde estás que não respondes?\"). Não há chamamento.\n- *anacoluto.*: é a quebra da estrutura da frase, com um termo que fica solto (\"Eu, parece que tudo dá errado comigo\"). Aqui a frase fica completa com o verbo subentendido.\n- *pleonasmo.*: é a repetição de uma ideia para reforço (\"vi com meus próprios olhos\"). Aqui ocorre o contrário: um corte, não uma repetição.\n\n**Para memorizar:** zeugma = \"Z\" de \"zerou\" o que já foi dito; elipse = omite o que nem foi dito."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q10",
+   "numero": 10,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "morfologia",
+   "texto": "t1",
+   "enunciado": "*No dia do jantar ela havia acabado de lançar a política de software livre da França.* (linhas 15 e 16)\n\nA respeito do período acima, analise as afirmativas a seguir:\n\nI. A locução verbal “havia acabado” é equivalente a “acabara” e também se classifica como pretérito imperfeito.\n\nII. No período, há quatro artigos e cinco preposições.\n\nIII. Não há ocorrência de advérbios no período.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se apenas as afirmativas I e II estiverem corretas.",
+    "se apenas as afirmativas I e III estiverem corretas.",
+    "se apenas as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se apenas as afirmativas II e III estiverem corretas.\":** **I está errada**: \"havia acabado\" equivale mesmo a \"acabara\", mas os dois são **pretérito mais-que-perfeito** (composto e simples), ação anterior a outra ação passada; pretérito imperfeito seria \"acabava\". **II está certa**: artigos: o (em \"No\" = em + o), o (em \"do\" = de + o), a (a política), a (em \"da\" = de + a) = 4; preposições: em (No), de (do), de (acabado de), de (de software), de (da) = 5. **III está certa**: \"No dia do jantar\" é adjunto adverbial de tempo, mas formado por locução, sem nenhuma palavra da classe dos advérbios; \"livre\" é adjetivo.\n\n**As outras:**\n- *se todas as afirmativas estiverem corretas.*: falha porque a I classifica errado o tempo verbal.\n- *se apenas as afirmativas I e II estiverem corretas.*: inclui a I, que está errada, e deixa de fora a III.\n- *se apenas as afirmativas I e III estiverem corretas.*: inclui a I e exclui a II, que está certa.\n\n**Para memorizar:** \"havia/tinha + particípio\" = mais-que-perfeito composto = \"acabara\"; imperfeito = \"acabava\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q11",
+   "numero": 11,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*Três perguntas foram levantadas nas conversas. É possível usar a tecnologia a favor da democracia? Como proteger direitos em face do avanço tecnológico? E, muito importante, como proteger as democracias dos ataques coordenados por meios digitais?* (linhas 6 a 8)\n\nAssinale a alternativa que **NÃO** apresenta pontuação igualmente correta para o segmento acima.",
+   "alternativas": [
+    "Três perguntas foram levantadas nas conversas – é possível usar a tecnologia a favor da democracia?, como proteger direitos em face do avanço tecnológico?, e, muito importante, como proteger as democracias dos ataques coordenados por meios digitais?",
+    "Três perguntas foram levantadas nas conversas: É possível usar a tecnologia a favor da democracia?; Como proteger direitos em face do avanço tecnológico?; E, muito importante, como proteger as democracias dos ataques coordenados por meios digitais?",
+    "Três perguntas foram levantadas nas conversas: é possível usar a tecnologia a favor da democracia?; como proteger direitos em face do avanço tecnológico?; e, muito importante, como proteger as democracias dos ataques coordenados por meios digitais?",
+    "Três perguntas foram levantadas nas conversas – é possível usar a tecnologia a favor da democracia, como proteger direitos em face do avanço tecnológico, e, muito importante, como proteger as democracias dos ataques coordenados por meios digitais?"
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito não traz o motivo, mas o problema é visível: a pergunta pede a **única** reescrita com pontuação incorreta, e mais de uma é discutível. Na versão com travessão e \"?,\", a vírgula vem colada ao ponto de interrogação; nas duas versões com \"?;\", é o ponto e vírgula que vem colado à interrogação; e a versão sem interrogações intermediárias transforma três perguntas diretas numa só. Como não há regra pacífica para esses encontros de sinais, não havia uma única resposta segura, e a anulação foi o caminho.\n\nSobre o assunto: o ponto de interrogação já marca o fim de cada pergunta direta, e o mais seguro é não somar a ele vírgula ou ponto e vírgula. Dois-pontos e travessão podem anunciar uma sequência de perguntas. No original, o autor preferiu frases separadas, cada uma com a sua interrogação, que é a forma mais clara."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q12",
+   "numero": 12,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "enunciado": "Na linhas 10 e 11, “vice-presidente” e “secretário-geral” são exemplos de palavras em que se empregou o hífen corretamente.\n\nSobre o emprego do hífen, assinale a alternativa em que a regra de seu uso **NÃO** tenha sido corretamente observada.",
+   "alternativas": [
+    "socioeducativo",
+    "co-réu",
+    "micro-ondas",
+    "hiper-realista"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"co-réu\" é a resposta:** pelo Acordo Ortográfico de 1990 (obrigatório no Brasil desde 2016), o prefixo **co-** se junta ao segundo elemento sem hífen, mesmo quando este começa por o (coordenar, cooperar). Se a palavra começa por **r** ou **s**, essa letra é dobrada. Por isso a grafia correta é **corréu**, como \"corresponsável\" e \"cosseno\". \"Co-réu\" era a grafia antiga.\n\n**As outras (estão corretas):**\n- *socioeducativo*: elemento terminado em vogal + palavra iniciada por vogal diferente → junta sem hífen (como \"autoescola\", \"infraestrutura\").\n- *micro-ondas*: prefixo terminado em vogal + palavra iniciada pela **mesma vogal** → hífen (micro-ondas, anti-inflamatório).\n- *hiper-realista*: prefixos hiper-, inter- e super- + palavra iniciada por **r** → hífen (hiper-realista, inter-regional, super-resistente).\n\n**Para memorizar:** vogais iguais se separam (micro-ondas), vogais diferentes se juntam (socioeducativo); \"co-\" sempre junta e dobra r/s (corréu, cosseno)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q13",
+   "numero": 13,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "pontuacao",
+   "texto": "t1",
+   "enunciado": "*Uma lição ficou clara no jantar: liderança importa.* (linha 25)\n\nOs dois-pontos no período acima introduzem uma",
+   "alternativas": [
+    "explicação.",
+    "enumeração.",
+    "especificação.",
+    "exemplificação."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"explicação.\":** depois dos dois-pontos vem \"liderança importa\", que **explica** qual foi a lição que ficou clara no jantar. Os dois-pontos podem ser trocados por \"ou seja\": \"Uma lição ficou clara no jantar, ou seja, liderança importa\". O resto do parágrafo confirma: o autor elogia o plano e a visão de Macron como prova de que liderança faz diferença.\n\n**As outras:**\n- *enumeração.*: exigiria uma lista de itens, como em \"Foram levantadas três perguntas: ..., ... e ...\". Aqui há uma só ideia.\n- *especificação.*: seria detalhar um termo genérico com dados ou elementos concretos (\"Comprou o material: cimento, areia e tijolo\"). A frase depois dos dois-pontos não detalha partes de nada; ela esclarece o conteúdo da lição.\n- *exemplificação.*: seria dar um caso concreto de algo geral (\"Há boas políticas, por exemplo: ...\"). \"Liderança importa\" não é exemplo; é a própria lição.\n\n**Para memorizar:** dois-pontos que podem virar \"ou seja\" ou \"isto é\" = explicação; que abrem uma lista = enumeração."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q14",
+   "numero": 14,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "concordancia",
+   "texto": "t1",
+   "enunciado": "*Diga-se o que se quiser do presidente francês, ele tem um plano e uma visão clara sobre o papel da França.* (linhas 25 e 26)\n\nAssinale a alternativa em que, alterando-se a redação do período acima, tenha-se produzido um novo período com correção gramatical, independentemente das alterações de sentido.",
+   "alternativas": [
+    "Digam o que quiserem do presidente francês, ele tem planos e visões claros sobre o papel da França.",
+    "Digam-se o que quiserem do presidente francês, ele tem planos e visão claros sobre o papel da França.",
+    "Digam o que se quiserem do presidente francês, ele tem um plano e uma visão claros sobre o papel da França.",
+    "Digam-se o que se quiser do presidente francês, ele tem planos e visão clara sobre o papel da França."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Digam o que quiserem do presidente francês, ele tem planos e visões claros…\":** em \"Digam o que quiserem\", o sujeito é **indeterminado** (verbo na 3ª pessoa do plural, sem \"se\"), e os dois verbos combinam entre si. Em \"planos e visões claros\", o adjetivo vem **depois** de dois substantivos de gêneros diferentes: pode ir para o masculino plural (concordância com todos, \"claros\") ou concordar com o mais próximo (\"claras\"). As duas formas são aceitas, então a frase está correta.\n\n**As outras:**\n- *Digam-se o que quiserem…*: com \"se\" apassivador, o sujeito passa a ser \"o que\", que é singular; o verbo teria de ficar no singular (\"Diga-se\").\n- *Digam o que se quiserem…*: em \"o que se quiser\", o verbo com \"se\" concorda com o sujeito singular \"o que\"; \"se quiserem\" está errado. O resto (\"um plano e uma visão claros\") está certo.\n- *Digam-se o que se quiser…*: o erro está em \"Digam-se\", pelo mesmo motivo da segunda alternativa; \"planos e visão clara\" está certo (concordância com o mais próximo).\n\n**Para memorizar:** verbo + se concorda com o sujeito paciente (\"Vendem-se casas\", \"Diga-se o que se quiser\"); sem \"se\", a 3ª pessoa do plural indetermina o sujeito (\"Digam o que quiserem\")."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q15",
+   "numero": 15,
+   "secao": "Língua Portuguesa",
+   "disciplina": "portugues",
+   "assunto": "ortografia-acentuacao",
+   "texto": "t1",
+   "enunciado": "Assinale a palavra em que a acentuação gráfica tenha sido empregada seguindo regra **DISTINTA** da das demais.",
+   "alternativas": [
+    "francês (linha 1)",
+    "país (linha12)",
+    "além (linha 11)",
+    "Aliás (linha 19)"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"além (linha 11)\":** é o gabarito oficial definitivo. A banca separou \"além\", oxítona acentuada por terminar em **-em**, das palavras que terminam em vogal + s: \"francês\" (oxítona em -es) e \"Aliás\" (oxítona em -as).\n\n**As outras:**\n- *francês (linha 1)*: oxítona terminada em -es, como \"você\" e \"português\".\n- *Aliás (linha 19)*: oxítona terminada em -as, como \"sofá\" e \"atrás\".\n- *país (linha12)*: aqui está o problema da questão. \"País\" (pa-ís) não segue a regra das oxítonas, pois oxítona terminada em -is não leva acento (\"funis\", \"barris\"). Ela é acentuada pela regra do **hiato**: i ou u tônico, sozinho na sílaba ou seguido de s, depois de vogal (\"saída\", \"baú\").\n\n**Para memorizar:** oxítonas acentuadas: a(s), e(s), o(s), em, ens (sofá, café, avô, também, parabéns); hiato: i/u tônicos sozinhos ou com s (país, saúde).\n\nPonto discutível: a maioria das gramáticas põe \"francês\", \"além\" e \"Aliás\" na mesma regra (oxítonas terminadas em a, e, o, em) e \"país\" na regra do hiato; a resposta mais defensável seria \"país (linha12)\", mas a banca manteve \"além\" no gabarito definitivo."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q16",
+   "numero": 16,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Determinado servidor público municipal, injustificadamente, recusou-se a ser submetido a inspeção médica determinada pela autoridade competente. Nesse caso, ele poderá ser punido pela Administração Pública:",
+   "alternativas": [
+    "apenas com advertência.",
+    "com suspensão, no mínimo, de 30 (trinta) dias.",
+    "apenas com advertência e, se reincidente, com suspensão, no mínimo, de 15 (quinze) dias.",
+    "com suspensão de até 15 (quinze) dias."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Pela letra do Estatuto dos Servidores de Campina Grande (Lei Municipal 2.378/1992), a resposta seria *com suspensão de até 15 (quinze) dias*: o art. 133, § 1º, diz que será punido com suspensão de até 15 dias o servidor que, injustificadamente, se recusar a ser submetido a inspeção médica determinada pela autoridade competente, e os efeitos da pena cessam assim que ele cumprir a determinação (mesma regra do art. 130, § 1º, da Lei federal 8.112/1990). O gabarito não traz o motivo da anulação; uma explicação possível é que o próprio Estatuto tem outra regra sobre o tema: o art. 210 fala só em \"pena de suspensão, que cessará tão logo se verifique a inspeção\", sem o limite de 15 dias.\n\nSobre o assunto: a advertência é escrita e vale para as faltas mais leves (art. 132). A suspensão cabe na reincidência de faltas punidas com advertência e nas demais proibições que não levem à demissão, e não pode passar de 90 dias (art. 133); havendo conveniência para o serviço, pode virar multa de 50% por dia de vencimento, com o servidor trabalhando (art. 133, § 2º)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q17",
+   "numero": 17,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Maria das Dores, servidora pública municipal, foi informada, na repartição em que trabalhava, que seu cônjuge havia sofrido um acidente vascular cerebral, que acabou sendo fatal. Em virtude desse falecimento, é possível afirmar que a servidora poderá se ausentar do serviço por:",
+   "alternativas": [
+    "5 (cinco) dias úteis.",
+    "8 (oito) dias consecutivos.",
+    "5 (cinco) dias consecutivos.",
+    "2 (dois) dias"
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"8 (oito) dias consecutivos.\":** o art. 101, III, do Estatuto dos Servidores de Campina Grande (Lei 2.378/1992) permite ao servidor ausentar-se, **sem qualquer prejuízo**, por **8 dias consecutivos** em razão de casamento ou de falecimento do cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos. Maria das Dores perdeu o cônjuge, então tem 8 dias corridos de ausência.\n\n**As outras:**\n- *5 (cinco) dias úteis.*: não existe esse prazo no art. 101, e a contagem é em dias consecutivos, não úteis.\n- *5 (cinco) dias consecutivos.*: número errado; 8 dias valem tanto para o casamento quanto para o luto.\n- *2 (dois) dias*: é o prazo para o servidor se **alistar como eleitor** (art. 101, II).\n\n**Para memorizar:** 1 dia para doar sangue, 2 dias para alistamento eleitoral, 8 dias para casamento ou luto. É a mesma escala do art. 97 da Lei federal 8.112/1990."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q18",
+   "numero": 18,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Quando foi se aposentar, o servidor Jairo percebeu que havia gozado diversas licenças para tratamento da própria saúde, totalizando um período de 03 (três) anos de afastamento do exercício laboral. Nesse caso, é possível afirmar que:",
+   "alternativas": [
+    "Apenas 02 (dois) anos desse período de licença médica pode ser considerado como de efetivo exercício no cargo público.",
+    "A Administração Pública deve contabilizar os 03 (três) anos de licença médica como de efetivo exercício no cargo público.",
+    "Ainda que Jairo tivesse se afastado por até 05 (cinco) anos para tratamento da própria saúde, tal período deveria ser contabilizado como de efetivo exercício no cargo público.",
+    "Todo o período relativo às licenças médicas não é considerado como de efetivo exercício no cargo público."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Apenas 02 (dois) anos desse período de licença médica…\":** o art. 105 do Estatuto de Campina Grande (Lei 2.378/1992) lista os afastamentos considerados de **efetivo exercício**. No inciso VII, alínea b, está a licença para tratamento da própria saúde **até 2 (dois) anos**. Jairo ficou 3 anos afastado: os 2 primeiros anos contam como efetivo exercício; o terceiro, não.\n\n**As outras:**\n- *A Administração Pública deve contabilizar os 03 (três) anos…*: ultrapassa o limite de 2 anos do art. 105, VII, b.\n- *Ainda que Jairo tivesse se afastado por até 05 (cinco) anos…*: 5 anos é mais que o dobro do limite; nenhum dispositivo do Estatuto garante isso.\n- *Todo o período relativo às licenças médicas não é considerado…*: erra para o outro lado; até 2 anos, o afastamento conta como efetivo exercício.\n\n**Para memorizar:** no Estatuto de Campina Grande, licença para a própria saúde conta como efetivo exercício até 2 anos; na Lei federal 8.112/1990, o limite é de 24 meses (art. 102, VIII, b)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q19",
+   "numero": 19,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "Acerca da licença para tratar de interesse particular, assinale a alternativa incorreta:",
+   "alternativas": [
+    "A licença poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.",
+    "Não se concederá nova licença antes de decorridos 2 (dois) anos do término da anterior.",
+    "A critério da administração, poderá ser concedido ao servidor estável licença para trato de assuntos particulares, pelo prazo de até 2 (dois) anos consecutivos, sem remuneração.",
+    "É possível a concessão da licença a servidores removidos, redistribuídos ou transferidos, independentemente do tempo de exercício."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"É possível a concessão da licença a servidores removidos…\" é a resposta:** a afirmação contraria o art. 97, § 3º, do Estatuto de Campina Grande (Lei 2.378/1992): não se concede a licença para tratar de interesse particular a servidores **nomeados, removidos, redistribuídos ou transferidos antes de completarem 2 (dois) anos de exercício**. O tempo de exercício importa, sim.\n\n**As outras (estão corretas):**\n- *A licença poderá ser interrompida, a qualquer tempo…*: é o art. 97, § 1º.\n- *Não se concederá nova licença antes de decorridos 2 (dois) anos…*: é o art. 97, § 2º.\n- *A critério da administração, poderá ser concedido ao servidor estável…*: é o caput do art. 97 (servidor estável, até 2 anos consecutivos, sem remuneração, a critério da administração).\n\n**Para memorizar:** no Estatuto de Campina Grande, essa licença segue a regra dos \"2\": dura até 2 anos, nova licença só 2 anos depois do fim da anterior, e só para quem já tem 2 anos de exercício. Não confunda com a Lei federal 8.112/1990, que hoje permite até 3 anos."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q20",
+   "numero": 20,
+   "secao": "Estatuto do Servidor (Lei Municipal 2.378 de 07 de janeiro de 1992)",
+   "disciplina": "legislacao-etica",
+   "assunto": "",
+   "enunciado": "De acordo com o Estatuto do Servidor (Lei Municipal nº 2.378/92), são formas de provimento de cargo público:\n\nI. Aproveitamento.\n\nII. Recondução.\n\nIII. Reversão.\n\nIV. Regressão.\n\nV. Adaptação.\n\nEstão corretos apenas os itens:",
+   "alternativas": [
+    "I, III e V.",
+    "II e IV.",
+    "I, II e III.",
+    "III, IV e V."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"I, II e III.\":** o art. 8º do Estatuto de Campina Grande (Lei 2.378/1992) lista as formas de provimento de cargo público: nomeação, promoção, readaptação, reversão, **aproveitamento**, reintegração e **recondução** (dois incisos do artigo aparecem como inconstitucionais no texto compilado; na lei federal correspondente eram a ascensão e a transferência, derrubadas por burlarem o concurso). **Aproveitamento** (I), **recondução** (II) e **reversão** (III) estão na lista. **Regressão** (IV) e **adaptação** (V) não são formas de provimento; \"adaptação\" é confusão com **readaptação**.\n\n**As outras:**\n- *I, III e V.*: inclui \"adaptação\", que não existe como forma de provimento.\n- *II e IV.*: inclui \"regressão\" e deixa de fora aproveitamento e reversão.\n- *III, IV e V.*: junta duas formas inexistentes.\n\n**Para memorizar:** são as mesmas sete formas da Lei federal 8.112/1990 (art. 8º): nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução; só a nomeação é provimento originário, as demais são derivadas."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q21",
+   "numero": 21,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil”.\n\nO texto acima faz referência ao",
+   "alternativas": [
+    "ITBI.",
+    "IPTU.",
+    "ISS.",
+    "ITR."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"ITBI.\":** o trecho reproduz o art. 156, § 2º, I, da Constituição, que traz a **imunidade do ITBI**, o imposto municipal sobre a transmissão inter vivos, por ato oneroso, de bens imóveis. O ITBI não incide quando o imóvel entra no capital de uma empresa nem nas transmissões por fusão, incorporação, cisão ou extinção de pessoa jurídica, **salvo** se a atividade preponderante do adquirente for compra e venda de imóveis, locação ou arrendamento mercantil. O CTN (art. 37, § 1º) considera preponderante a atividade que gera mais de 50% da receita operacional.\n\n**As outras:**\n- *IPTU.*: incide sobre a propriedade, o domínio útil ou a posse de imóvel urbano (CF, art. 156, I), e não sobre transmissão.\n- *ISS.*: incide sobre a prestação dos serviços da lista da LC 116/2003 (CF, art. 156, III).\n- *ITR.*: é federal e incide sobre a propriedade de imóvel rural (CF, art. 153, VI).\n\n**Para memorizar:** \"transmissão\" + \"imóvel\" + \"pessoa jurídica\" = ITBI. Se fosse transmissão causa mortis ou doação, seria o ITCMD, estadual."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q22",
+   "numero": 22,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca dos empréstimos compulsórios, analise as afirmativas abaixo:\n\nI. No caso de investimento público de caráter urgente é possível que o Município cobre empréstimo compulsório dos beneficiados por tal investimento.\n\nII. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.\n\nIII. Se for para atender a despesas extraordinárias, decorrentes de calamidade pública, o empréstimo compulsório deve obrigatoriamente ser instituído mediante lei complementar.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas II e III estiverem corretas.\":** o empréstimo compulsório está no art. 148 da Constituição. Só a **União** pode instituí-lo, sempre por **lei complementar**, em dois casos: despesas extraordinárias decorrentes de calamidade pública, de guerra externa ou sua iminência (inciso I), e investimento público de caráter urgente e de relevante interesse nacional (inciso II). **I está errada**: Município não institui empréstimo compulsório. **II está certa**: é o parágrafo único do art. 148 (recursos vinculados à despesa que justificou a criação). **III está certa**: calamidade pública é o caso do inciso I, e a lei complementar é exigida nos dois casos.\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: a I é justamente a errada.\n- *se somente as afirmativas I e II estiverem corretas.*: inclui a I e deixa de fora a III.\n- *se todas as afirmativas estiverem corretas.*: falha por causa da I.\n\n**Para memorizar:** empréstimo compulsório = União + lei complementar + recursos vinculados. Calamidade e guerra podem ser cobrados de imediato (exceção à anterioridade, art. 150, § 1º); investimento urgente respeita a anterioridade."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q23",
+   "numero": 23,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No sistema tributário brasileiro em vigor é possível afirmar que a chamada CIDE- Combustíveis é considerada",
+   "alternativas": [
+    "uma taxa.",
+    "um imposto federal.",
+    "um imposto estadual.",
+    "uma contribuição especial."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"uma contribuição especial.\":** a CIDE-Combustíveis é uma **contribuição de intervenção no domínio econômico**, prevista nos arts. 149 e 177, § 4º, da Constituição e instituída pela Lei 10.336/2001. As contribuições do art. 149 (sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas) são chamadas de **contribuições especiais** e, pela classificação adotada pelo STF, formam espécie própria de tributo, ao lado de impostos, taxas, contribuições de melhoria e empréstimos compulsórios. A arrecadação é vinculada: subsídios a combustíveis, projetos ambientais ligados ao petróleo e ao gás e programas de infraestrutura de transportes.\n\n**As outras:**\n- *uma taxa.*: taxa remunera serviço público específico e divisível ou o poder de polícia (CF, art. 145, II); a CIDE não tem essa contraprestação.\n- *um imposto federal.*: imposto não pode ter receita vinculada a despesa (CF, art. 167, IV), e a CIDE tem.\n- *um imposto estadual.*: além de não ser imposto, a CIDE é da União.\n\n**Para memorizar:** o \"C\" de CIDE é de Contribuição, e quem cria é a União."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q24",
+   "numero": 24,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O tributo conhecido por ITR é da competência tributária",
+   "alternativas": [
+    "do Município, apenas.",
+    "da União, apenas.",
+    "da União e do Município.",
+    "dos Estados e Municípios."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"da União, apenas.\":** o ITR (imposto sobre a propriedade territorial rural) é imposto **federal**, previsto no art. 153, VI, da Constituição. O art. 153, § 4º, III, permite que o **Município que optar**, na forma da lei, **fiscalize e cobre** o ITR, sem reduzir o imposto nem renunciar a receita. Isso é delegação da capacidade de fiscalizar e cobrar, não da competência: só a União pode instituir o ITR e legislar sobre ele.\n\n**As outras:**\n- *do Município, apenas.*: o Município pode, no máximo, fiscalizar e cobrar, se fizer a opção; instituir, não.\n- *da União e do Município.*: confunde competência tributária, que é indelegável (CTN, art. 7º), com a função de arrecadar e fiscalizar, que pode ser delegada.\n- *dos Estados e Municípios.*: os Estados não têm papel no ITR.\n\n**Para memorizar:** sem a opção, o Município fica com 50% do ITR dos imóveis situados nele; com a opção de fiscalizar e cobrar, fica com 100% (CF, art. 158, II)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q25",
+   "numero": 25,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Lílian e Ana Letícia são proprietárias de um imóvel adquirido por dois milhões de reais no ano de 2010. Algum tempo depois, assim que foi concluída uma obra pública municipal na região, o referido imóvel passou a ser avaliado em sete milhões de reais. A Secretaria de Finanças, então, resolveu cobrar, a título de contribuição de melhoria, o valor de cinquenta mil reais das contribuintes, as quais impugnaram a cobrança sob a alegação de que a municipalidade nunca delimitou a zona beneficiada pela obra. Nesse contexto, é correto afirmar que",
+   "alternativas": [
+    "o Município deveria ter especificado, na lei que instituiu a contribuição, a delimitação da zona beneficiada.",
+    "a cobrança tributária está correta, pois a valorização imobiliária permite a instituição da contribuição de melhoria.",
+    "o Município não está obrigado a delimitar a zona beneficiada pela obra, porém deve informar previamente aos contribuintes o orçamento do custo da obra.",
+    "a alegação das contribuintes é totalmente infundada, pois sequer podem provar que o Município cobrou indevidamente a contribuição de melhoria."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"o Município deveria ter especificado, na lei…\":** o art. 82 do CTN exige que a **lei** relativa à contribuição de melhoria observe a publicação prévia de: memorial descritivo do projeto, orçamento do custo da obra, parcela do custo a ser financiada pela contribuição, **delimitação da zona beneficiada** e fator de absorção do benefício da valorização. Também deve haver prazo de pelo menos 30 dias para impugnação. Sem a zona beneficiada delimitada, a cobrança é irregular e a impugnação das contribuintes procede.\n\n**As outras:**\n- *a cobrança tributária está correta, pois a valorização…*: a valorização é o fato gerador (CF, art. 145, III; CTN, art. 81), mas não basta; os requisitos do art. 82 são obrigatórios.\n- *o Município não está obrigado a delimitar…*: o orçamento é exigido, mas a delimitação da zona também é (art. 82, I, d).\n- *a alegação das contribuintes é totalmente infundada…*: quem tem de cumprir os requisitos legais é o Município; a falta da delimitação já invalida a cobrança.\n\n**Para memorizar:** a contribuição de melhoria tem dois tetos (CTN, art. 81): o total, que é o custo da obra, e o individual, que é a valorização de cada imóvel."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q26",
+   "numero": 26,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No Direito Tributário, são características das Taxas:\n\nI. Não poderão ter base de cálculo própria de impostos.\n\nII. O serviço público tem que ser divisível e efetivamente prestado ao contribuinte.\n\nIII. Estão sujeitas, sem exceção, ao princípio da anterioridade.\n\nIV. É vedada a sua instituição para o custeio de serviços públicos específicos.\n\nV. Somente podem ser cobradas pelos Estados e Municípios.\n\nAssinale",
+   "alternativas": [
+    "se somente as afirmativas I, III e V estiverem corretas.",
+    "se somente as afirmativas I, II e IV estiverem corretas.",
+    "se somente as afirmativas II e V estiverem corretas.",
+    "se somente as afirmativas I e III estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas I e III estiverem corretas.\":** **I está certa**: as taxas não podem ter base de cálculo própria de impostos (CF, art. 145, § 2º; CTN, art. 77, parágrafo único). **II está errada**: o serviço precisa ser específico e divisível, mas a utilização pode ser **efetiva ou potencial**, com o serviço prestado ao contribuinte ou **posto à sua disposição** (CF, art. 145, II; CTN, art. 79). **III está certa**: nenhuma das exceções à anterioridade (CF, art. 150, § 1º, e casos pontuais como a CIDE-Combustíveis) envolve taxa. **IV está errada**: custear serviço público específico e divisível é justamente a função da taxa. **V está errada**: a competência é **comum**: União, Estados, DF e Municípios cobram taxas no âmbito de suas atribuições.\n\n**As outras:**\n- *se somente as afirmativas I, III e V…*: inclui a V; a União também cobra taxas.\n- *se somente as afirmativas I, II e IV…*: inclui a II (exige prestação efetiva) e a IV (contraria a definição de taxa).\n- *se somente as afirmativas II e V…*: as duas estão erradas.\n\n**Para memorizar:** taxa = poder de polícia ou serviço específico e divisível, de uso efetivo ou potencial; base de cálculo de imposto, nunca."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q27",
+   "numero": 27,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“No Direito Tributário, sabe-se que a natureza jurídica específica do tributo é determinada ______________________”.\n\nAssinale a alternativa que apresente o correto complemento da lacuna acima.",
+   "alternativas": [
+    "pela destinação legal do produto da sua arrecadação",
+    "pela sua denominação",
+    "pelo fato gerador da respectiva obrigação",
+    "pelas características formais adotadas pela lei"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"pelo fato gerador da respectiva obrigação\":** é a regra do art. 4º do CTN: a natureza jurídica específica do tributo é determinada pelo **fato gerador** da respectiva obrigação, sendo irrelevantes para qualificá-la a **denominação** e as demais características formais adotadas pela lei (inciso I) e a **destinação legal** do produto da arrecadação (inciso II). Exemplo: se uma lei chama de \"taxa\" um tributo cujo fato gerador é ser dono de imóvel, ele é, na verdade, um imposto.\n\n**As outras:**\n- *pela destinação legal do produto da sua arrecadação*: o art. 4º, II, diz que ela é irrelevante. (Hoje a destinação ajuda a identificar contribuições e empréstimos compulsórios, mas a regra do CTN para o tributo em geral é o fato gerador.)\n- *pela sua denominação*: irrelevante pelo art. 4º, I; o nome dado pela lei não muda a natureza.\n- *pelas características formais adotadas pela lei*: também irrelevantes pelo art. 4º, I.\n\n**Para memorizar:** o que define o tributo é o que faz nascer a obrigação (fato gerador); para separar taxa de imposto, a Constituição ainda olha a base de cálculo (art. 145, § 2º)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q28",
+   "numero": 28,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A legislação tributária brasileira contempla diversas limitações ao poder de tributar, impedindo que o contribuinte tenha sua propriedade atingida indevidamente pelos entes federados. É por isso que estes **não** podem",
+   "alternativas": [
+    "instituir tributos sobre os livros.",
+    "estabelecer limitações ao tráfego de bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público.",
+    "utilizar imposto com efeito de confisco, exceto para fins sociais.",
+    "instituir tributos sobre os templos de qualquer culto."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"estabelecer limitações ao tráfego de bens…\":** é a reprodução do art. 150, V, da Constituição: é vedado à União, aos Estados, ao DF e aos Municípios estabelecer limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de **pedágio** pela utilização de vias conservadas pelo Poder Público. É a única alternativa que descreve a limitação sem distorcer o texto.\n\n**As outras:**\n- *instituir tributos sobre os livros.*: a imunidade do art. 150, VI, d, alcança só **impostos** sobre livros, jornais, periódicos e o papel destinado à impressão; taxas e contribuições podem incidir.\n- *utilizar imposto com efeito de confisco, exceto para fins sociais.*: o art. 150, IV, proíbe usar **tributo** com efeito de confisco, sem exceção.\n- *instituir tributos sobre os templos de qualquer culto.*: de novo, a imunidade do art. 150, VI, b, é só de **impostos**.\n\n**Para memorizar:** as imunidades do art. 150, VI, são de impostos; trocar \"impostos\" por \"tributos\" é a pegadinha preferida das bancas."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q29",
+   "numero": 29,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca dos impostos da União, analise as afirmativas abaixo:\n\nI. O imposto sobre a renda e proventos de qualquer natureza será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei.\n\nII. É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar a alíquota do imposto sobre produtos industrializados.\n\nIII. Recentemente, a União conseguiu autorização, por meio da aprovação de emenda constitucional, para instituir imposto sobre grandes fortunas.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas I e II estiverem corretas.\":** **I está certa**: o art. 153, § 2º, I, da Constituição diz que o imposto de renda será informado pelos critérios da **generalidade, da universalidade e da progressividade**, na forma da lei. **II está certa**: o art. 153, § 1º, faculta ao Poder Executivo, atendidas as condições e os limites da lei, alterar as alíquotas do imposto de importação, do de exportação, do **IPI** e do IOF, que são impostos extrafiscais. **III está errada**: o imposto sobre grandes fortunas está no texto original de 1988 (art. 153, VII) e depende de **lei complementar**; não houve emenda autorizando, e até a prova ele nunca tinha sido instituído.\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: deixa de fora a II, que está certa.\n- *se somente as afirmativas II e III estiverem corretas.*: inclui a III, que está errada, e exclui a I.\n- *se todas as afirmativas estiverem corretas.*: falha por causa da III.\n\n**Para memorizar:** alíquotas alteráveis por ato do Executivo: importação, exportação, IPI e IOF (e a CIDE-Combustíveis, que pode ser reduzida e restabelecida)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q30",
+   "numero": 30,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Constituição Federal proíbe a cobrança de tributos no mesmo exercício financeiro em que tenha sido publicada a lei que os instituiu ou aumentou. Nesse caso, entende-se por exercício financeiro",
+   "alternativas": [
+    "o período de 1º de janeiro a 31 de dezembro.",
+    "o período de 12 meses consecutivos, a contar do primeiro dia do mês em que se iniciou.",
+    "o período de 1º de janeiro a 1º de janeiro do ano seguinte.",
+    "o período de 31 de dezembro a 1º de janeiro do ano seguinte."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"o período de 1º de janeiro a 31 de dezembro.\":** o princípio da **anterioridade do exercício** (CF, art. 150, III, b) proíbe cobrar tributo no mesmo exercício financeiro em que foi publicada a lei que o instituiu ou aumentou. No Brasil, o exercício financeiro **coincide com o ano civil**, de 1º de janeiro a 31 de dezembro (Lei 4.320/1964, art. 34). Exemplo: uma lei publicada em 15 de março de 2021 que aumente um imposto só permite a cobrança maior a partir de 1º de janeiro de 2022, respeitados também os 90 dias da noventena (art. 150, III, c).\n\n**As outras:**\n- *o período de 12 meses consecutivos, a contar…*: isso é um período móvel; o exercício financeiro é fixo, preso ao calendário.\n- *o período de 1º de janeiro a 1º de janeiro do ano seguinte.*: conta um dia a mais e sobrepõe dois exercícios.\n- *o período de 31 de dezembro a 1º de janeiro do ano seguinte.*: são só dois dias; não serve como exercício.\n\n**Para memorizar:** anterioridade anual (próximo 1º de janeiro) + noventena (90 dias): vale a data mais distante."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q31",
+   "numero": 31,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A Constituição Federal prevê que, na forma da lei, determinado tributo tenha reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto. No caso, trata-se do",
+   "alternativas": [
+    "imposto sobre operações de crédito, câmbio e seguro.",
+    "imposto sobre produtos industrializados.",
+    "imposto sobre renda e proventos de qualquer natureza.",
+    "imposto sobre a importação de produtos estrangeiros."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"imposto sobre produtos industrializados.\":** o art. 153, § 3º, IV, da Constituição (incluído pela EC 42/2003) diz que o IPI **terá reduzido seu impacto sobre a aquisição de bens de capital** pelo contribuinte do imposto, na forma da lei. A ideia é baratear máquinas e equipamentos usados na produção e estimular o investimento. O mesmo § 3º diz que o IPI será **seletivo** em função da essencialidade do produto, **não cumulativo** e não incidirá sobre produtos industrializados destinados ao exterior.\n\n**As outras:**\n- *imposto sobre operações de crédito, câmbio e seguro.*: o IOF tem regra especial para o ouro como ativo financeiro (art. 153, § 5º), não para bens de capital.\n- *imposto sobre renda e proventos de qualquer natureza.*: tem os critérios de generalidade, universalidade e progressividade (art. 153, § 2º).\n- *imposto sobre a importação de produtos estrangeiros.*: é extrafiscal, com alíquotas alteráveis pelo Executivo (art. 153, § 1º), sem essa regra de bens de capital.\n\n**Para memorizar:** IPI = seletivo, não cumulativo, fora da exportação e mais leve para bens de capital."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q32",
+   "numero": 32,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A respeito dos impostos dos Estados e do Distrito Federal, assinale a afirmativa **incorreta**.",
+   "alternativas": [
+    "Compete aos Estados e ao Distrito Federal instituir impostos sobre a transmissão causa mortis e doação, de quaisquer bens ou direitos.",
+    "O imposto sobre a propriedade de veículos automotores poderá ter alíquotas diferenciadas em função do tipo e utilização.",
+    "Cabe à lei complementar regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.",
+    "O imposto sobre a propriedade de veículos automotores terá suas alíquotas máximas fixadas pelo Senado Federal."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"O imposto sobre a propriedade de veículos automotores terá suas alíquotas máximas…\" é a resposta:** o art. 155, § 6º, I, da Constituição (incluído pela EC 42/2003) diz que o IPVA terá alíquotas **mínimas** fixadas pelo Senado Federal. Não há previsão de alíquota máxima de IPVA fixada pelo Senado. A troca de \"mínimas\" por \"máximas\" torna a frase incorreta.\n\n**As outras (estão corretas):**\n- *Compete aos Estados e ao Distrito Federal instituir impostos sobre a transmissão causa mortis…*: é o ITCMD, art. 155, I.\n- *O imposto sobre a propriedade de veículos automotores poderá ter alíquotas diferenciadas…*: art. 155, § 6º, II. Depois da prova, a EC 132/2023 ampliou os critérios para tipo, valor, utilização e impacto ambiental.\n- *Cabe à lei complementar regular a forma como, mediante deliberação…*: art. 155, § 2º, XII, g, sobre os benefícios de ICMS concedidos por convênio entre os Estados.\n\n**Para memorizar:** o Senado fixa as alíquotas mínimas do IPVA e as máximas do ITCMD (art. 155, § 1º, IV). Trocar uma pela outra é pegadinha frequente."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q33",
+   "numero": 33,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com a Constituição Federal, no caso do ICMS, é facultado ao Senado Federal estabelecer alíquotas mínimas nas operações internas, mediante resolução aprovada com o quórum mínimo de",
+   "alternativas": [
+    "um terço dos presentes na sessão.",
+    "dois terços de seus membros.",
+    "maioria absoluta de seus membros.",
+    "maioria dos presentes na sessão."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"maioria absoluta de seus membros.\":** o art. 155, § 2º, V, a, da Constituição faculta ao Senado estabelecer **alíquotas mínimas** do ICMS nas operações internas, mediante resolução de iniciativa de **um terço** e aprovada pela **maioria absoluta** de seus membros. Para as **alíquotas máximas** (alínea b), o quórum é mais alto: iniciativa da maioria absoluta e aprovação por **dois terços** dos membros.\n\n**As outras:**\n- *um terço dos presentes na sessão.*: um terço é o quórum de **iniciativa** da resolução das alíquotas mínimas, e conta os membros do Senado, não os presentes.\n- *dois terços de seus membros.*: é a aprovação exigida para as alíquotas **máximas** (alínea b).\n- *maioria dos presentes na sessão.*: é a maioria simples, regra geral das deliberações (CF, art. 47), não a exigida aqui.\n\n**Para memorizar:** mínimas: 1/3 propõe e a maioria absoluta aprova; máximas: a maioria absoluta propõe e 2/3 aprovam."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q34",
+   "numero": 34,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Paulo arrematou um imóvel em hasta pública promovida pela Justiça Estadual. Nesse caso, as dívidas tributárias relativas ao bem e anteriores à hasta pública são de responsabilidade",
+   "alternativas": [
+    "apenas de Paulo.",
+    "apenas do antigo proprietário.",
+    "de Paulo e do antigo proprietário, solidariamente.",
+    "do antigo proprietário e, subsidiariamente, de Paulo."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito definitivo não traz o motivo. Um motivo provável: nenhuma alternativa descreve com precisão a regra do CTN. Pelo art. 130, parágrafo único, na arrematação em hasta pública a **sub-rogação ocorre sobre o respectivo preço**: os créditos tributários anteriores ligados ao imóvel (IPTU, taxas, contribuição de melhoria) são pagos com o valor do lance, e o arrematante recebe o bem livre desses débitos. A mais próxima seria *apenas do antigo proprietário*, mas ela não fala da sub-rogação no preço, que é o centro da regra.\n\nSobre o assunto: fora da hasta pública, vale o caput do art. 130 do CTN: quem adquire o imóvel passa a responder pelos impostos, taxas e contribuições de melhoria relativos a ele, salvo quando conste do título a prova de quitação. É a responsabilidade por sucessão, que acompanha o bem; por isso, na compra comum, sempre se exige a certidão negativa de débitos do imóvel."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q35",
+   "numero": 35,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise as afirmativas abaixo sobre isenção e imunidade tributárias:\n\nI. Por conta da chamada imunidade recíproca, um Estado não pode instituir imposto sobre o patrimônio do Município.\n\nII. A isenção pode ser restrita a determinada região do território da entidade tributante, em função de condições a ela peculiares.\n\nIII. A isenção não se aplica exclusivamente à cobrança de impostos, podendo abranger, se assim a lei determinar, as taxas e contribuições de melhoria.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas.\":** **I está certa**: a imunidade recíproca (CF, art. 150, VI, a) proíbe União, Estados, DF e Municípios de instituir impostos sobre patrimônio, renda ou serviços **uns dos outros**; o Estado não cobra, por exemplo, IPVA dos carros da prefeitura. **II está certa**: é o art. 176, parágrafo único, do CTN: a isenção pode ser restrita a determinada região do território da entidade tributante, em função de condições a ela peculiares. **III está certa**: o art. 177, I, do CTN diz que, **salvo disposição de lei em contrário**, a isenção não se estende às taxas e às contribuições de melhoria; se a lei disser, estende.\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: ignora as regras de isenção do CTN, que também estão certas.\n- *se somente as afirmativas I e II estiverem corretas.*: deixa de fora a III, que está certa por causa da ressalva \"salvo disposição de lei em contrário\".\n- *se somente as afirmativas II e III estiverem corretas.*: exclui a I, que é a regra clássica da imunidade recíproca.\n\n**Para memorizar:** imunidade vem da Constituição e impede a tributação; isenção vem de lei e exclui o crédito tributário (CTN, art. 175, I)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q36",
+   "numero": 36,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com o Código Tributário Nacional, a prescrição e a decadência são formas de",
+   "alternativas": [
+    "pagamento do crédito tributário.",
+    "exclusão do crédito tributário.",
+    "remissão do crédito tributário.",
+    "extinção do crédito tributário."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"extinção do crédito tributário.\":** o art. 156, V, do CTN lista a **prescrição e a decadência** entre as formas de extinção do crédito tributário. Decadência é a perda do direito de **lançar**, ou seja, de constituir o crédito, em regra em 5 anos (art. 173). Prescrição é a perda do direito de **cobrar** judicialmente o crédito já constituído, em 5 anos contados da constituição definitiva (art. 174).\n\n**As outras:**\n- *pagamento do crédito tributário.*: o pagamento é outra forma de extinção (art. 156, I) e não inclui prescrição e decadência.\n- *exclusão do crédito tributário.*: o art. 175 só prevê duas formas de exclusão: **isenção e anistia**.\n- *remissão do crédito tributário.*: remissão é o perdão da dívida, também forma de extinção (art. 156, IV), mas é instituto próprio.\n\n**Para memorizar:** suspensão (art. 151) = MODERECOLIPA: MOratória, DEpósito, REclamações e recursos, COncessão de LIminar ou tutela, PArcelamento; exclusão (art. 175) = isenção e anistia; o resto é extinção (art. 156)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q37",
+   "numero": 37,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No campo da interpretação e da integração da legislação tributária é possível afirmar que",
+   "alternativas": [
+    "os princípios gerais de direito tributário sempre prevalecem sobre a analogia.",
+    "os princípios gerais de direito privado não podem ser utilizados pelo intérprete.",
+    "o emprego da equidade não poderá resultar na dispensa do pagamento de tributo devido.",
+    "a analogia nunca prevalece sobre os princípios gerais de direito público."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"o emprego da equidade não poderá resultar na dispensa…\":** é a regra do art. 108, § 2º, do CTN. Na falta de disposição expressa, a autoridade aplica, **nesta ordem**: analogia, princípios gerais de direito tributário, princípios gerais de direito público e equidade (art. 108). A equidade abranda o rigor da lei no caso concreto, mas não pode dispensar tributo devido; e a analogia não pode criar tributo não previsto em lei (§ 1º).\n\n**As outras:**\n- *os princípios gerais de direito tributário sempre prevalecem sobre a analogia.*: inverte a ordem do art. 108; a analogia vem primeiro.\n- *os princípios gerais de direito privado não podem ser utilizados…*: podem, para pesquisar a definição, o conteúdo e o alcance dos institutos de direito privado, mas não para definir seus efeitos tributários (art. 109).\n- *a analogia nunca prevalece sobre os princípios gerais de direito público.*: também inverte a ordem; a analogia vem antes.\n\n**Para memorizar:** ordem do art. 108 = A, T, P, E: Analogia, princípios de direito Tributário, princípios de direito Público, Equidade."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q38",
+   "numero": 38,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Sobre o fator gerador e a obrigação tributária, analise as afirmativas a seguir:\n\nI. Assim como a obrigação principal, a obrigação acessória tem fato gerador.\n\nII. Tratando-se de situação de fato, considera-se ocorrido o fato gerador desde o momento em que esteja definitivamente constituída, nos termos de direito aplicável.\n\nIII. É possível que a lei crie uma obrigação tributária sem descrever o respectivo fato gerador, cuja ocorrência ficaria implícita.\n\nAssinale",
+   "alternativas": [
+    "se todas as afirmativas estiverem corretas.",
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** O gabarito definitivo não traz o motivo (o enunciado tem ainda o erro de digitação \"fator gerador\"). Pela letra do CTN, só a afirmativa I está certa, o que levaria a *se somente a afirmativa I estiver correta*.\n\nSobre o assunto: **I está certa**: a obrigação acessória também tem fato gerador, que é qualquer situação que, na forma da legislação, impõe a prática ou a abstenção de ato (CTN, art. 115); o da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência (art. 114). **II está errada**: troca as hipóteses do art. 116. Na situação **de fato**, o fato gerador ocorre quando se verificam as circunstâncias materiais necessárias a que produza seus efeitos (inciso I); \"definitivamente constituída, nos termos de direito aplicável\" é a regra da situação **jurídica** (inciso II). **III está errada**: pelo princípio da legalidade, só a lei pode definir o fato gerador da obrigação principal (CTN, art. 97, III)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q39",
+   "numero": 39,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise a afirmativas abaixo sobre as formas de suspensão e extinção do crédito tributário:\n\nI. A moratória pode ser concedida em caráter geral ou individual.\n\nII. O parcelamento implica na suspensão da exigibilidade do crédito tributário.\n\nIII. É possível a extinção do crédito tributário, dentre outras formas, pela transação.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se todas as afirmativas estiverem corretas.\":** **I está certa**: o art. 152 do CTN diz que a moratória pode ser concedida em **caráter geral** (pela pessoa jurídica de direito público competente) ou em **caráter individual** (por despacho da autoridade administrativa, quando autorizada por lei). **II está certa**: o parcelamento suspende a exigibilidade do crédito (art. 151, VI, incluído pela LC 104/2001). **III está certa**: a transação é forma de extinção do crédito (art. 156, III), feita com concessões mútuas, nos termos de lei (art. 171).\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: ignora a II e a III, que também estão no CTN.\n- *se somente as afirmativas I e II estiverem corretas.*: deixa de fora a transação, que extingue o crédito.\n- *se somente as afirmativas II e III estiverem corretas.*: exclui a I, que é literal do art. 152.\n\n**Para memorizar:** suspender (moratória, parcelamento, depósito, liminar) só congela a cobrança; extinguir (pagamento, compensação, transação, remissão, prescrição, decadência) acaba com o crédito."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q40",
+   "numero": 40,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com o Código Tributário Nacional, uma vez requerida pelo contribuinte a certidão de regularidade fiscal, seja negativa ou positiva com efeitos de negativa, a Administração Tributária está obrigada a fornecê-la",
+   "alternativas": [
+    "Em, no máximo, 48h (quarenta e oito horas).",
+    "dentro de 10 (dez) dias, contados da data da entrada do requerimento na repartição.",
+    "em até 30 (trinta) dias úteis.",
+    "dentro de 15 (quinze) dias, contados da data de envio do requerimento."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"dentro de 10 (dez) dias, contados da data da entrada…\":** o art. 205, parágrafo único, do CTN diz que a certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida **dentro de 10 dias da data da entrada do requerimento na repartição**. A certidão positiva com efeitos de negativa (art. 206: créditos não vencidos, em cobrança executiva com penhora ou com exigibilidade suspensa) tem os mesmos efeitos da negativa.\n\n**As outras:**\n- *Em, no máximo, 48h (quarenta e oito horas).*: não existe esse prazo no CTN.\n- *em até 30 (trinta) dias úteis.*: prazo sem base legal, muito acima do previsto.\n- *dentro de 15 (quinze) dias, contados da data de envio…*: erra o prazo (15) e o termo inicial (o envio, e não a entrada na repartição).\n\n**Para memorizar:** certidão negativa = 10 dias contados da entrada do pedido na repartição (CTN, art. 205, parágrafo único)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q41",
+   "numero": 41,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "A dívida regularmente inscrita em Dívida Ativa goza da presunção de certeza e liquidez. Entretanto, poderá ser declarada a nulidade desse título executivo quando",
+   "alternativas": [
+    "houver fluência de juros de mora após a inscrição em Dívida Ativa.",
+    "não constar, no termo de inscrição de dívida ativa, a data em que foi inscrita.",
+    "faltar o registro do domicílio de qualquer corresponsável.",
+    "não for especificada a residência do devedor principal."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"não constar, no termo de inscrição de dívida ativa, a data…\":** o art. 202 do CTN lista o que o termo de inscrição deve conter: nome do devedor e dos corresponsáveis e, **sempre que possível**, o domicílio ou a residência de um e de outros; a quantia devida e a forma de calcular os juros; a origem e a natureza do crédito; **a data em que foi inscrita**; e, se for o caso, o número do processo administrativo. Pelo art. 203, a omissão de qualquer requisito é causa de nulidade da inscrição e da cobrança, sanável até a decisão de primeira instância com a substituição da certidão. A data da inscrição é requisito sem ressalva.\n\n**As outras:**\n- *houver fluência de juros de mora…*: o art. 201, parágrafo único, diz que a fluência de juros de mora não exclui a liquidez do crédito.\n- *faltar o registro do domicílio de qualquer corresponsável.*: o domicílio só é exigido \"sempre que possível\" (art. 202, I).\n- *não for especificada a residência do devedor principal.*: mesma ressalva do \"sempre que possível\".\n\n**Para memorizar:** no art. 202, o que vem com \"sempre que possível\" (domicílio, residência) não derruba a certidão de dívida ativa; nome, valor, origem e data da inscrição, sim."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q42",
+   "numero": 42,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Assinale a alternativa correta que apresente o meio de defesa do executado quando sujeito à cobrança judicial da Dívida Ativa.",
+   "alternativas": [
+    "Embargos à execução.",
+    "Impugnação de cobrança.",
+    "Penhora.",
+    "Bloqueio à execução."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Embargos à execução.\":** na execução fiscal (Lei 6.830/1980), o executado se defende por **embargos**, oferecidos no prazo de **30 dias** contados do depósito, da juntada da prova da fiança bancária ou do seguro garantia, ou da intimação da penhora (art. 16). Os embargos só são admitidos depois de **garantida a execução** (art. 16, § 1º). Fora dos embargos, a jurisprudência admite a exceção de pré-executividade para matérias que o juiz pode conhecer de ofício e que não exigem prova (Súmula 393 do STJ).\n\n**As outras:**\n- *Impugnação de cobrança.*: não é a defesa prevista na Lei de Execução Fiscal; \"impugnação\" é o nome da defesa administrativa contra o lançamento.\n- *Penhora.*: é a apreensão de bens para garantir o credor, não uma defesa do devedor.\n- *Bloqueio à execução.*: não existe esse meio de defesa.\n\n**Para memorizar:** execução fiscal: citação, 5 dias para pagar ou garantir (art. 8º), depois 30 dias para embargar (art. 16)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q43",
+   "numero": 43,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na Lei de Execução Fiscal há previsão de que o juiz poderá reconhecer a ocorrência da prescrição intercorrente quando o processo de execução for arquivado provisoriamente, por falta de localização do devedor ou de bens penhoráveis. No caso, esse prazo prescricional é de",
+   "alternativas": [
+    "um ano.",
+    "dois anos.",
+    "cinco anos.",
+    "cento e oitenta dias."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"cinco anos.\":** pelo art. 40 da Lei 6.830/1980, se não forem encontrados o devedor ou bens penhoráveis, o juiz suspende a execução por até **1 ano**; depois disso, os autos vão para o arquivo provisório. O § 4º permite ao juiz, ouvida a Fazenda, reconhecer de ofício a prescrição intercorrente se, da decisão que ordenou o arquivamento, tiver decorrido o **prazo prescricional**, que para o crédito tributário é de **5 anos** (CTN, art. 174). A Súmula 314 do STJ resume: suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.\n\n**As outras:**\n- *um ano.*: é o prazo máximo da **suspensão** (art. 40, § 2º), que vem antes do arquivamento.\n- *dois anos.*: não há esse prazo na Lei de Execução Fiscal.\n- *cento e oitenta dias.*: aparece em outra regra da lei, a suspensão da prescrição por 180 dias com a inscrição em dívida ativa (art. 2º, § 3º), que o STJ aplica só às dívidas não tributárias.\n\n**Para memorizar:** 1 ano suspenso + 5 anos arquivado = prescrição intercorrente."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q44",
+   "numero": 44,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com a Lei Complementar Federal nº 123/2006, é atualmente considerada empresa de pequeno porte a que aufira, em cada ano-calendário, receita bruta",
+   "alternativas": [
+    "igual ou inferior a R$ 360.000,00 (trezentos e sessenta mil reais).",
+    "superior a R$ 180.000,00 (cento e oitenta mil reais) e igual ou inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais).",
+    "superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais).",
+    "superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais)."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"superior a R$ 360.000,00 … e igual ou inferior a R$ 4.800.000,00…\":** pelo art. 3º, II, da LC 123/2006, com a redação da **LC 155/2016** (em vigor desde 2018), empresa de pequeno porte é a que aufere, em cada ano-calendário, receita bruta **superior a R$ 360 mil e igual ou inferior a R$ 4,8 milhões**. Até R$ 360 mil, a empresa é microempresa (art. 3º, I).\n\n**As outras:**\n- *igual ou inferior a R$ 360.000,00…*: é o limite da **microempresa**.\n- *superior a R$ 180.000,00 … e igual ou inferior a R$ 3.600.000,00…*: R$ 180 mil é o teto da primeira faixa das tabelas do Simples, não um limite de porte; e R$ 3,6 milhões é o teto antigo.\n- *superior a R$ 360.000,00 … e igual ou inferior a R$ 3.600.000,00…*: era o limite da EPP antes da LC 155/2016 (valeu de 2012 a 2017). Hoje R$ 3,6 milhões é só o sublimite para recolher ICMS e ISS dentro do Simples.\n\n**Para memorizar:** MEI até R$ 81 mil; ME até R$ 360 mil; EPP até R$ 4,8 milhões."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q45",
+   "numero": 45,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No âmbito do Simples Nacional, a sigla MEI significa",
+   "alternativas": [
+    "Microempresa Individual.",
+    "Microempresa e Empresa Institucional.",
+    "Microempresa Institucional.",
+    "Microempreendedor Individual."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"Microempreendedor Individual.\":** MEI é o **Microempreendedor Individual**, figura criada pela LC 128/2008 dentro da LC 123/2006 (art. 18-A). É, em regra, o empresário individual optante pelo Simples Nacional com receita bruta de até **R$ 81 mil** no ano-calendário anterior (limite dado pela LC 155/2016), que recolhe valores fixos mensais pelo SIMEI, independentemente da receita do mês.\n\n**As outras:**\n- *Microempresa Individual.*: não existe essa categoria; a LC 123 fala em microempresa (ME) e em microempreendedor individual (MEI).\n- *Microempresa e Empresa Institucional.*: mistura termos; a dupla correta da LC 123 é \"microempresa e empresa de pequeno porte\".\n- *Microempresa Institucional.*: termo inventado.\n\n**Para memorizar:** MEI é uma pessoa (o empreendedor); ME e EPP são portes de empresa."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q46",
+   "numero": 46,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "São motivos para a exclusão de ofício de empresa optante pelo Simples Nacional:\n\nI. Comercialização de mercadorias objeto de contrabando ou descaminho.\n\nII. Constatação de que, durante o ano-calendário, o valor das aquisições de mercadorias para comercialização ou industrialização foi superior a 50% (cinquenta por cento) dos ingressos de recursos no mesmo período.\n\nIII. Houver falta de escrituração do livro-caixa ou não permitir a identificação da movimentação financeira, inclusive bancária.\n\nIV. Constatação de que, durante o ano-calendário, o valor das despesas pagas supera em 10% (dez por cento) o valor de ingressos de recursos no mesmo período.\n\nV. Ser constituída por interpostas pessoas.\n\nAssinale",
+   "alternativas": [
+    "se somente as afirmativas I, III e V estiverem corretas.",
+    "se somente as afirmativas I, II e V estiverem corretas.",
+    "se somente as afirmativas II, III e IV estiverem corretas.",
+    "se somente as afirmativas I, II, III e V estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas I, III e V estiverem corretas.\":** o art. 29 da LC 123/2006 lista as hipóteses de **exclusão de ofício** do Simples Nacional. Estão lá a constituição por **interpostas pessoas** (inciso IV, item V da questão), a venda de mercadorias objeto de **contrabando ou descaminho** (inciso VII, item I) e a **falta de escrituração do livro-caixa** ou a impossibilidade de identificar a movimentação financeira, inclusive bancária (inciso VIII, item III). Os itens II e IV trocaram os percentuais: a lei fala em aquisições de mercadorias **superiores a 80%** dos ingressos (inciso X) e em despesas pagas que superem em **20%** os ingressos (inciso IX), nos dois casos excluído o ano de início de atividade.\n\n**As outras:**\n- *se somente as afirmativas I, II e V…*: inclui o item II, com 50% no lugar de 80%.\n- *se somente as afirmativas II, III e IV…*: inclui os dois itens com percentual errado.\n- *se somente as afirmativas I, II, III e V…*: inclui o item II.\n\n**Para memorizar:** despesas acima de 120% dos ingressos ou compras acima de 80% dos ingressos levam à exclusão: \"20 na despesa, 80 na compra\"."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q47",
+   "numero": 47,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O IPTU tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel, por natureza ou por acessão física, construído ou não, localizado na zona urbana do distrito sede do Município e dos demais distritos. Para todos os efeitos legais, considera-se ocorrido o fato gerador do IPTU",
+   "alternativas": [
+    "em 1º de fevereiro de cada ano.",
+    "em 1º de janeiro de cada ano.",
+    "em 31 de dezembro de cada ano.",
+    "de 1º de janeiro a 31 de dezembro de cada ano."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"em 1º de janeiro de cada ano.\":** o Código Tributário de Campina Grande (Lei Complementar municipal nº 116/2016), art. 5º, diz que, para os efeitos legais, considera-se ocorrido o fato gerador do IPTU em **1º de janeiro de cada ano**. Por isso o lançamento é anual e usa a situação do imóvel em 31 de dezembro do exercício anterior (art. 21). Exceção: casa ou prédio construído durante o exercício tem o fato gerador na data do habite-se ou da efetiva edificação, com imposto proporcional aos meses que faltam até 31 de dezembro (art. 5º, §§ 1º e 2º).\n\n**As outras:**\n- *em 1º de fevereiro de cada ano.*: data sem previsão no Código.\n- *em 31 de dezembro de cada ano.*: é a data da **situação do imóvel** que serve de base ao lançamento (art. 21), não a do fato gerador.\n- *de 1º de janeiro a 31 de dezembro de cada ano.*: a propriedade dura o ano todo, mas a lei fixa **um momento** para considerar o fato gerador ocorrido.\n\n**Para memorizar:** o IPTU \"tira uma foto\" do imóvel em 1º de janeiro; obra concluída no meio do ano paga proporcional a partir do habite-se."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q48",
+   "numero": 48,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Compete ao ______________________ o imposto sobre a ______________________, a qualquer título, ______________________, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição”.\n\nAssinale a alternativa que apresente, respectiva e corretamente, os termos que preenchem as lacunas acima.",
+   "alternativas": [
+    "Estado da situação do bem; transmissão \"inter vivos”; por ato oneroso",
+    "Município da situação do bem; transmissão \"causa mortis”; por ato gratuito ou oneroso",
+    "Município da situação do bem; transmissão \"inter vivos”; por ato oneroso",
+    "Estado da situação do bem; transmissão \"causa mortis”; por ato gratuito ou oneroso"
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"Município da situação do bem; transmissão \"inter vivos”; por ato oneroso\":** é o ITBI, do art. 156, II, da Constituição: compete aos Municípios instituir imposto sobre a transmissão **inter vivos**, a qualquer título, **por ato oneroso**, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição. O § 2º, II, do mesmo artigo diz que o ITBI compete ao **Município da situação do bem**.\n\n**As outras:**\n- *Estado da situação do bem; transmissão \"inter vivos”; por ato oneroso*: acerta o resto, mas o ITBI é municipal.\n- *Município da situação do bem; transmissão \"causa mortis”…*: transmissão causa mortis e doação é fato gerador do ITCMD, que é estadual (art. 155, I).\n- *Estado da situação do bem; transmissão \"causa mortis”…*: lembra o ITCMD, mas o ITCMD não alcança ato oneroso, e a redação do enunciado (direitos reais, cessão de direitos, exceto os de garantia) é a do ITBI.\n\n**Para memorizar:** ITBI = Município + inter vivos + oneroso; ITCMD = Estado + causa mortis ou doação (gratuito)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q49",
+   "numero": 49,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "No âmbito da incidência do Imposto sobre Serviços de Qualquer Natureza (ISSQN), a aplicação de tatuagens e *piercings* está na Lista de Serviços de",
+   "alternativas": [
+    "saúde, assistência médica e congêneres.",
+    "intermediação e congêneres.",
+    "diversões, lazer, entretenimento e congêneres.",
+    "cuidados pessoais, estética, atividades físicas e congêneres."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"cuidados pessoais, estética, atividades físicas e congêneres.\":** na lista anexa à LC 116/2003, o item **6** é \"Serviços de cuidados pessoais, estética, atividades físicas e congêneres\", e o subitem **6.06**, incluído pela LC 157/2016, é a aplicação de tatuagens, piercings e congêneres. Antes de 2016 havia discussão sobre a tributação desses serviços; a inclusão expressa na lista resolveu a questão.\n\n**As outras:**\n- *saúde, assistência médica e congêneres.*: é o item 4 (medicina, hospitais, laboratórios, odontologia etc.). Tatuagem não é serviço de saúde.\n- *intermediação e congêneres.*: é o item 10 (agenciamento, corretagem ou intermediação).\n- *diversões, lazer, entretenimento e congêneres.*: é o item 12 (espetáculos, shows, parques de diversão etc.).\n\n**Para memorizar:** item 6 = corpo e beleza: barbearia, cabeleireiro, manicure, estética, sauna e massagem, academia, centros de emagrecimento e spa, tatuagem e piercing."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q50",
+   "numero": 50,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Analise as afirmativas abaixo sobre o Imposto sobre Serviços de Qualquer Natureza (ISSQN):\n\nI. Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.\n\nII. O contribuinte do imposto é o contratante do serviço ou, como substituto tributário, o prestador do serviço.\n\nIII. No caso dos serviços de administração de consórcios, o tomador de serviço é o consorciado.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e III estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas I e III estiverem corretas.\":** **I está certa**: é o conceito de estabelecimento prestador do art. 4º da LC 116/2003, repetido no Código Tributário de Campina Grande (art. 56, § 3º). **II está errada**: o **contribuinte é o prestador do serviço** (LC 116, art. 5º; Código de Campina Grande, art. 57); o tomador pode ser **responsável**, quando a lei lhe atribui a retenção (LC 116, art. 6º). A afirmativa inverte os papéis. **III está certa**: o art. 3º, § 11, da LC 116, incluído pela LC 175/2020, diz que, nos serviços de administração de consórcios, o tomador do serviço é o **consorciado**; a regra serve para definir o município onde o ISS é devido.\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: deixa de fora a III, que é texto literal da LC 116.\n- *se somente as afirmativas II e III estiverem corretas.*: inclui a II, que inverte contribuinte e responsável.\n- *se todas as afirmativas estiverem corretas.*: falha por causa da II.\n\n**Para memorizar:** no ISS, contribuinte é quem presta; o tomador só responde quando a lei manda reter."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q51",
+   "numero": 51,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com a Lei Complementar Federal nº 116/2003, a alíquota mínima do Imposto sobre Serviços de Qualquer Natureza (ISSQN) é de",
+   "alternativas": [
+    "2% (dois por cento).",
+    "3% (três por cento).",
+    "4% (quatro por cento).",
+    "5% (cinco por cento)."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"2% (dois por cento).\":** o art. 8º-A da LC 116/2003, incluído pela **LC 157/2016**, fixa a **alíquota mínima do ISS em 2%**. O § 1º proíbe isenções, incentivos ou benefícios que resultem em carga menor que a dos 2%, salvo para alguns serviços de construção civil e para o transporte coletivo municipal de passageiros. A alíquota **máxima** é de **5%** (art. 8º, II). Antes da LC 157, o piso de 2% já estava no art. 88 do ADCT (EC 37/2002).\n\n**As outras:**\n- *3% (três por cento).*: não é limite legal do ISS; é só uma alíquota comum em leis municipais.\n- *4% (quatro por cento).*: também não é limite legal.\n- *5% (cinco por cento).*: é a alíquota **máxima** (LC 116, art. 8º, II), não a mínima.\n\n**Para memorizar:** o ISS vai de 2% a 5%. A mesma LC 157/2016 tornou ato de improbidade administrativa conceder benefício que deixe a carga do ISS abaixo do piso de 2%."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q52",
+   "numero": 52,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "À luz do Código Tributário Municipal, é possível afirmar que a Planta Genérica de Valores Imobiliários deverá ser revisada",
+   "alternativas": [
+    "a cada 5 (cinco) anos.",
+    "a cada 2 (dois) anos, no máximo.",
+    "a cada 3 (três) anos, no mínimo.",
+    "a cada 2 (dois) anos, no mínimo."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"a cada 3 (três) anos, no mínimo.\":** é a letra do art. 15 do Código Tributário de Campina Grande (Lei Complementar municipal nº 116/2016): a Planta Genérica de Valores Imobiliários deverá ser revisada a cada 03 (três) anos, no mínimo. A planta fixa os valores de terreno e construção que servem para calcular o **valor venal**, base de cálculo do IPTU (art. 9º). Entre uma revisão e outra, o Executivo pode apenas **atualizar** a base pela variação da UFCG (art. 16); aumento acima da inflação exige revisão da planta por lei (arts. 14 e 20).\n\n**As outras:**\n- *a cada 5 (cinco) anos.*: prazo sem previsão no Código de Campina Grande.\n- *a cada 2 (dois) anos, no máximo.*: troca o número e a expressão.\n- *a cada 2 (dois) anos, no mínimo.*: troca o número.\n\n**Para memorizar:** em Campina Grande, planta revisada a cada 3 anos e atualizada pela UFCG; e decreto não pode corrigir o IPTU acima do índice oficial de inflação (Súmula 160 do STJ)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q53",
+   "numero": 53,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Nos processos fiscais, o Departamento de Instrução e Julgamento Fiscal (DIJF) é considerado como o órgão julgador de primeira instância. Assinale a alternativa correta que apresente a sua composição.",
+   "alternativas": [
+    "No mínimo, há dois fiscais de tributos municipais indicados pelo Secretário de Finanças, com mandato de 2 (dois) anos.",
+    "É composto por servidores com amplo conhecimento jurídico.",
+    "É composto, dentre outros membros, por dois representantes de entidades de classe, com mandato de 2 (dois) anos, nomeados pelo Prefeito, sendo um escolhido dentre os indicados em lista tríplice pela Ordem dos Advogados do Brasil.",
+    "No máximo, há um procurador municipal indicado pelo Procurador Geral do Município, com mandato de 2 (dois) anos."
+   ],
+   "correta": null,
+   "anulada": true,
+   "comentario": "**Questão anulada pela banca.** Um motivo provável: o enunciado usa a redação original de 2016 do art. 385 do Código Tributário de Campina Grande, que chamava a primeira instância de Departamento de Instrução e Julgamento Fiscal (DIJF), composto por **servidores com amplo conhecimento jurídico**, o que daria como certa *É composto por servidores com amplo conhecimento jurídico.* Mas a Lei Complementar municipal nº 124/2017 reescreveu o artigo: a primeira instância passou a ser uma **autoridade julgadora que decide sozinha** (monocraticamente), e só servidores do quadro efetivo do Município, com comprovado conhecimento jurídico, podem ser designados para a função. Com a lei já alterada na data da prova, a pergunta sobre a \"composição do DIJF\" ficou sem resposta segura.\n\nSobre o assunto: no processo administrativo fiscal de Campina Grande, a primeira instância julga reclamações contra lançamento, defesas em procedimentos de ofício e pedidos de restituição (art. 385). Das decisões cabe recurso em 30 dias ao **Conselho de Recursos Fiscais**, órgão de segunda instância vinculado à Secretaria de Finanças (arts. 388, 389 e 394)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q54",
+   "numero": 54,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Acerca do Auto de Infração, analise as afirmativas a seguir:\n\nI. Lavrar-se-á auto de infração quando constatada a ocorrência de violação da legislação tributária municipal por ação ou omissão do sujeito passivo, desde que importe em evasão de receita.\n\nII. A assinatura do autuado não constitui formalidade essencial à validade do auto de infração.\n\nIII. Após a sua lavratura, o auto de infração será apresentado para registro pelo agente fiscal, no prazo de 3 (três) dias.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas II e III estiverem corretas.\":** **I está errada**: o art. 372 do Código Tributário de Campina Grande manda lavrar auto de infração quando houver violação da legislação tributária municipal por ação ou omissão do sujeito passivo, **ainda que não importe em evasão de receita**; descumprir uma obrigação acessória já basta. A afirmativa trocou por \"desde que importe\". **II está certa**: a assinatura do autuado não é formalidade essencial à validade do auto nem implica confissão, e a falta ou recusa não agrava a pena (art. 373, § 2º). **III está certa**: após a lavratura, o auto é apresentado para registro pelo agente fiscal em **3 dias** (art. 374).\n\n**As outras:**\n- *se somente a afirmativa I estiver correta.*: a I é justamente a errada.\n- *se somente as afirmativas I e II estiverem corretas.*: inclui a I e deixa de fora a III.\n- *se todas as afirmativas estiverem corretas.*: falha por causa da I.\n\n**Para memorizar:** o auto vale sem a assinatura do autuado e mesmo sem prejuízo à arrecadação; trocar \"ainda que\" por \"desde que\" é pegadinha clássica."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q55",
+   "numero": 55,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "“Poderão ser apreendidos bens______________________, mercadorias, livros ou quaisquer outros documentos, inclusive magnéticos ou eletrônicos, em poder ______________________, que constituam prova material de infração estabelecida na legislação tributária.”\n\nCom base no Código Tributário Municipal, assinale a alternativa que apresente, respectiva e corretamente, os termos que preenchem as lacunas acima.",
+   "alternativas": [
+    "imóveis; do sujeito passivo",
+    "móveis ou semoventes; do sujeito passivo ou de corresponsáveis",
+    "públicos ou privados; dos devedores",
+    "móveis; do sujeito passivo ou de terceiros"
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"móveis; do sujeito passivo ou de terceiros\":** é a redação do art. 362 do Código Tributário de Campina Grande: poderão ser apreendidos **bens móveis**, mercadorias, livros ou quaisquer outros documentos, inclusive magnéticos ou eletrônicos, em poder **do sujeito passivo ou de terceiros**, que constituam prova material de infração. Da apreensão se lavra termo fundamentado, com a descrição dos bens, o local do depósito e o nome do depositário (art. 363); os documentos podem ser devolvidos a pedido, ficando cópia no processo (art. 364).\n\n**As outras:**\n- *imóveis; do sujeito passivo*: imóvel não é apreendido como prova, e a lei alcança também os terceiros.\n- *móveis ou semoventes; do sujeito passivo ou de corresponsáveis*: a lei não fala em semoventes (animais) e usa \"terceiros\", termo mais amplo que corresponsáveis.\n- *públicos ou privados; dos devedores*: a lei não faz a distinção público/privado, e \"devedores\" restringe o alcance.\n\n**Para memorizar:** apreensão fiscal = bens **móveis** que provem a infração, em poder de **qualquer pessoa** (sujeito passivo ou terceiros)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q56",
+   "numero": 56,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Assinale a afirmativa em que **não** pode o órgão fazendário determinar regime especial para cumprimento de obrigações, pelo sujeito passivo.",
+   "alternativas": [
+    "Prática reiterada ou não de infração da legislação tributária.",
+    "Incidência em conduta que enseje representação criminal, nos termos da legislação que rege os crimes contra a ordem tributária.",
+    "Resistência à fiscalização, caracterizada pela negativa de acesso ao estabelecimento, ao domicílio fiscal ou a qualquer outro local onde se desenvolvam as atividades do sujeito passivo, ou se encontrem bens de sua posse ou propriedade.",
+    "Realização de operações sujeitas à incidência tributária, sem a devida inscrição no cadastro de contribuintes apropriado."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"Prática reiterada ou não de infração…\" é a resposta:** o art. 325 do Código Tributário de Campina Grande permite ao órgão fazendário determinar regime especial para cumprimento de obrigações em seis hipóteses: embaraço à fiscalização; resistência à fiscalização; evidência de pessoa jurídica constituída por interpostas pessoas; operações tributáveis sem inscrição no cadastro; **prática reiterada** de infração; e conduta que enseje representação criminal. O \"ou não\" faz qualquer infração isolada justificar o regime especial, e a lei só admite a infração **reiterada**.\n\n**As outras (estão corretas):**\n- *Incidência em conduta que enseje representação criminal…*: art. 325, VI.\n- *Resistência à fiscalização, caracterizada pela negativa…*: art. 325, II.\n- *Realização de operações sujeitas à incidência tributária…*: art. 325, IV.\n\n**Para memorizar:** o regime especial pode incluir fiscalização ininterrupta no estabelecimento, prazos de apuração e recolhimento reduzidos à metade e controle eletrônico das operações (art. 326), e dura até a situação ser regularizada (art. 329)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q57",
+   "numero": 57,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "O Código Tributário Municipal prevê que a cobrança da Dívida Ativa será promovida:\n\nI. por vários meios juridicamente permitidos, inclusive pela via amigável.\n\nII. preferencialmente por via judicial.\n\nIII. no contencioso administrativo ou através de mandado de segurança.\n\nAssinale",
+   "alternativas": [
+    "se somente a afirmativa I estiver correta.",
+    "se somente as afirmativas I e II estiverem corretas.",
+    "se somente as afirmativas II e III estiverem corretas.",
+    "se todas as afirmativas estiverem corretas."
+   ],
+   "correta": 0,
+   "anulada": false,
+   "comentario": "**Por que \"se somente a afirmativa I estiver correta.\":** o art. 299 do Código Tributário de Campina Grande diz que a cobrança da Dívida Ativa será promovida por via **amigável**, por via **judicial** e por **outros meios permitidos** por decisões vinculantes dos tribunais. É o que diz o item I. **II está errada**: a lei não dá preferência à via judicial; o parágrafo único só permite ao Fisco ir direto à Justiça, sem a fase amigável, quando o interesse da Fazenda exigir. **III está errada**: o contencioso administrativo é o julgamento das defesas do contribuinte, e o mandado de segurança é ação de quem sofre ato ilegal de autoridade (em regra, o contribuinte); nenhum dos dois é meio de cobrança.\n\n**As outras:**\n- *se somente as afirmativas I e II estiverem corretas.*: inclui a II, com o \"preferencialmente\" que a lei não tem.\n- *se somente as afirmativas II e III estiverem corretas.*: as duas estão erradas.\n- *se todas as afirmativas estiverem corretas.*: falha por causa da II e da III.\n\n**Para memorizar:** dívida ativa municipal: cobrança amigável, execução fiscal e outros meios aceitos pelos tribunais, como o protesto da certidão de dívida ativa (validado pelo STF na ADI 5.135)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q58",
+   "numero": 58,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "Na esfera municipal, se o contribuinte não efetuar o pagamento do crédito tributário no vencimento haverá a respectiva atualização monetária. No caso, essa atualização será efetuada com base",
+   "alternativas": [
+    "na Taxa Selic.",
+    "no IPCA.",
+    "na UFCG.",
+    "no INCC."
+   ],
+   "correta": 2,
+   "anulada": false,
+   "comentario": "**Por que \"na UFCG.\":** o art. 281 do Código Tributário de Campina Grande diz que a atualização monetária do crédito tributário será feita com base na **Unidade Fiscal de Campina Grande (UFCG)**. O art. 280 diz que o não pagamento no vencimento importa a atualização, salvo se o valor estiver todo garantido por depósito. Além dela, incidem multa de mora de 2% e juros de mora de 1% ao mês sobre o tributo atualizado (art. 246).\n\n**As outras:**\n- *na Taxa Selic.*: é usada nos tributos **federais** (juros de mora, Lei 9.430/1996), não no Código de Campina Grande.\n- *no IPCA.*: é a pegadinha. O IPCA é o índice que corrige o **valor da própria UFCG**, divulgado mês a mês (art. 409, § 1º); mas a lei manda atualizar o crédito pela UFCG.\n- *no INCC.*: é o Índice Nacional de Custo da Construção, usado em contratos de obra e de imóvel na planta, sem relação com tributos municipais.\n\n**Para memorizar:** a UFCG é a \"moeda fiscal\" de Campina Grande: corrige tributos, multas e valores da legislação municipal (art. 409)."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q59",
+   "numero": 59,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "São formas legais de comunicação do lançamento tributário ao sujeito passivo:\n\nI. Por notificação.\n\nII. Por publicação em jornal de circulação no Município.\n\nIII. Por via postal com aviso de recebimento.\n\nIV. Por chamada telefônica.\n\nV. Por qualquer meio eletrônico.\n\nAssinale",
+   "alternativas": [
+    "se somente as afirmativas I, III e V estiverem corretas.",
+    "se somente as afirmativas I, II e V estiverem corretas.",
+    "se somente as afirmativas II, III e IV estiverem corretas.",
+    "se somente as afirmativas I, II, III e V estiverem corretas."
+   ],
+   "correta": 3,
+   "anulada": false,
+   "comentario": "**Por que \"se somente as afirmativas I, II, III e V estiverem corretas.\":** o art. 229 do Código Tributário de Campina Grande diz que o lançamento e suas alterações serão comunicados ao sujeito passivo por qualquer uma destas formas: **notificação**; **publicação em jornal de circulação no Município**; **via postal com aviso de recebimento**; **qualquer meio eletrônico**. A chamada telefônica (IV) não está na lista: não deixa prova de que o contribuinte foi cientificado.\n\n**As outras:**\n- *se somente as afirmativas I, III e V estiverem corretas.*: deixa de fora a publicação em jornal (II), que está na lei e é a saída quando o contribuinte não é localizado (art. 229, § 2º).\n- *se somente as afirmativas I, II e V estiverem corretas.*: deixa de fora a via postal com aviso de recebimento (III).\n- *se somente as afirmativas II, III e IV estiverem corretas.*: inclui a chamada telefônica e exclui a notificação e o meio eletrônico.\n\n**Para memorizar:** comunicação do lançamento precisa deixar prova: notificação, jornal, carta com aviso de recebimento ou meio eletrônico; telefone, não."
+  },
+  {
+   "id": "idecan-2021-cg-fiscal-tributos-q60",
+   "numero": 60,
+   "secao": "Conhecimentos Específicos",
+   "disciplina": "outras",
+   "assunto": "",
+   "enunciado": "De acordo com o Código Tributário Municipal, o Conselho de Recursos Fiscais é órgão vinculado",
+   "alternativas": [
+    "ao Gabinete do Prefeito.",
+    "à Secretaria de Finanças.",
+    "à Secretaria de Administração.",
+    "ao Gabinete do Vice-Prefeito."
+   ],
+   "correta": 1,
+   "anulada": false,
+   "comentario": "**Por que \"à Secretaria de Finanças.\":** o art. 394 do Código Tributário de Campina Grande diz que ao **Conselho de Recursos Fiscais, órgão vinculado à Secretaria de Finanças**, compete julgar, em segunda e última instância, os recursos voluntários e as remessas necessárias das decisões de primeira instância, além dos pedidos de reconsideração de suas próprias decisões. A organização e o funcionamento do Conselho ficam no Regimento Interno, aprovado por decreto (parágrafo único).\n\n**As outras:**\n- *ao Gabinete do Prefeito.*: o Conselho é órgão técnico da área fazendária, não do gabinete.\n- *à Secretaria de Administração.*: cuida de pessoal e gestão; não julga processo fiscal.\n- *ao Gabinete do Vice-Prefeito.*: não tem relação com o contencioso tributário.\n\n**Para memorizar:** contencioso fiscal de Campina Grande: 1ª instância = autoridade julgadora (o antigo DIJF); 2ª instância = Conselho de Recursos Fiscais, na Secretaria de Finanças; recurso em 30 dias (art. 389)."
+  }
+ ]
+}
