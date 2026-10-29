@@ -1,5 +1,5 @@
 /* Cache simples para abrir sem internet: sempre tenta a rede primeiro e guarda a última cópia. */
-const CACHE = 'cg-estudos-v3';
+const CACHE = 'cg-estudos-v4';
 const BASE = ['./', 'index.html', 'app/style.css', 'app/app.js', 'app/md.js', 'manifest.webmanifest', 'app/icons/icon.svg',
   'app/icons/icon-192.png', 'data/index.json'];
 
@@ -14,8 +14,8 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
   if (e.request.method !== 'GET' || u.origin !== location.origin) return;
-  // Provas digitadas e figuras quase não mudam: abre do cache na hora e atualiza por trás.
-  if (/\/data\/provas\//.test(u.pathname)) {
+  // Figuras das provas quase não mudam: abrem do cache na hora e atualizam por trás. Os .json vão pela rede primeiro.
+  if (/\/data\/provas\/img\//.test(u.pathname)) {
     e.respondWith(caches.open(CACHE).then(async ca => {
       const salvo = await ca.match(e.request, { ignoreSearch: true });
       const rede = fetch(e.request, { cache: 'no-cache' }).then(r => { if (r.ok) ca.put(e.request, r.clone()); return r; }).catch(() => salvo);

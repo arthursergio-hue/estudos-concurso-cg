@@ -150,6 +150,9 @@ main { padding: 30px clamp(16px, 4vw, 52px) 70px; width: 100%; max-width: 1280px
 .mrow-t { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 14px; }
 .mrow-t span { color: var(--mu); font-variant-numeric: tabular-nums; }
 .mrow-a { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+.mrow.feita .mrow-t b { color: #7ee2a8; }
+.mrow.feita .bar i { background: var(--ok); }
+.streak.ok { color: #7ee2a8; background: rgba(47, 191, 113, .14); }
 .foco { margin: -6px 0 14px; color: var(--mu); }
 .sugs { display: grid; gap: 8px; margin-top: 14px; }
 .sug { --c: var(--pri); display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 12px; background: var(--s2); border: 1px solid var(--bd); transition: border-color .15s, transform .15s; }

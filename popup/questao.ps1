@@ -63,6 +63,16 @@ public static uint IdleMs() {
     if (!GetLastInputInfo(ref l)) return 0;
     return (uint)Environment.TickCount - l.dwTime;
 }
+[DllImport("ntdll.dll")] static extern int NtQueryWnfStateData(ref ulong StateName, IntPtr TypeId, IntPtr ExplicitScope, out uint ChangeStamp, byte[] Buffer, ref uint BufferSize);
+// Estado "não perturbe"/foco do Windows 11 (WNF_SHEL_QUIETHOURS_ACTIVE_PROFILE_CHANGED): 0 = desligado; -1 = não deu para ler.
+public static int QuietHours() {
+    try {
+        ulong s = 0x0D83063EA3BF1C75UL; uint stamp; byte[] b = new byte[4]; uint size = 4;
+        int r = NtQueryWnfStateData(ref s, IntPtr.Zero, IntPtr.Zero, out stamp, b, ref size);
+        if (r != 0 || size < 4) return -1;
+        return BitConverter.ToInt32(b, 0);
+    } catch { return -1; }
+}
 '@
 
 # ---------- está livre? ----------
@@ -80,6 +90,7 @@ function Em-Uso([string]$recurso) {
 }
 
 function Nao-Perturbe {
+    if ([EstudosCG.Win]::QuietHours() -gt 0) { return $true }
     $p = Get-ItemProperty 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Notifications\Settings' -ErrorAction SilentlyContinue
     return ($p -and $p.PSObject.Properties['NOC_GLOBAL_SETTING_TOASTS_ENABLED'] -and $p.NOC_GLOBAL_SETTING_TOASTS_ENABLED -eq 0)
 }
@@ -108,7 +119,8 @@ function Agendar-Proxima([int64]$pausaAte = 0) {
     $est = Ler-Json $ArqEstado
     $o = [ordered]@{ proximo = (Agora-Ms) + 60000L * (Get-Random -Minimum ([int]$cfg.intervaloMin) -Maximum ([int]$cfg.intervaloMax + 1)); pausaAte = 0L }
     if ($est -and $est.PSObject.Properties['pausaAte']) { $o.pausaAte = [int64]$est.pausaAte }
-    if ($pausaAte) { $o.pausaAte = $pausaAte; if ($o.proximo -lt $pausaAte) { $o.proximo = $pausaAte } }
+    # Pausa: a próxima vem um intervalo sorteado DEPOIS do fim da pausa (senão "Pausar 1h" não adiaria nada).
+    if ($pausaAte) { $o.pausaAte = $pausaAte; $o.proximo = $pausaAte + 60000L * (Get-Random -Minimum ([int]$cfg.intervaloMin) -Maximum ([int]$cfg.intervaloMax + 1)) }
     Gravar-Json $ArqEstado $o
 }
 
@@ -150,6 +162,8 @@ function Adicionar($q, [string]$discPadrao = '') {
     if (-not $q -or -not $q.id -or -not $q.alternativas) { return }
     if (-not $q.disciplina -and $discPadrao) { $q | Add-Member -NotePropertyName disciplina -NotePropertyValue $discPadrao -Force }
     # Só questão com gabarito que aponta para uma alternativa (senão o pop-up daria a A como certa).
+    # Tabela ou figura não cabem no pop-up (aparecem no site).
+    if (([string]$q.enunciado) -match '\|\s*:?-{3,}' -or ([string]$q.enunciado + ' ' + (@($q.alternativas) -join ' ')) -match '!\[') { return }
     $n = @($q.alternativas).Count
     if (-not ($q.correta -is [int] -or $q.correta -is [long]) -or [int]$q.correta -lt 0 -or [int]$q.correta -ge $n) { return }
     if ($Vistas.ContainsKey([string]$q.id) -or -not $Disc.ContainsKey([string]$q.disciplina)) { return }
@@ -160,10 +174,11 @@ function Adicionar($q, [string]$discPadrao = '') {
 foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\questoes') -Filter *.json -ErrorAction SilentlyContinue) {
     foreach ($q in (Ler-Json $f.FullName)) { Adicionar $q $f.BaseName }
 }
-# Provas digitadas: só as questões que cabem num pop-up (sem anulada, sem figura e sem texto de apoio).
-foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\provas') -Filter *.json -ErrorAction SilentlyContinue) {
-    if ($f.Name -eq 'index.json') { continue }
-    $p = Ler-Json $f.FullName
+# Provas digitadas: só as publicadas (data\provas\index.json; rascunho fora dele não entra) e só as questões que
+# cabem num pop-up (sem anulada, sem figura e sem texto de apoio).
+foreach ($ip in @(Ler-Json (Join-Path $Raiz 'data\provas\index.json'))) {
+    if (-not $ip -or -not ([string]$ip.id -match '^[\w-]+$')) { continue }
+    $p = Ler-Json (Join-Path $Raiz ('data\provas\{0}.json' -f $ip.id))
     if (-not $p -or -not $p.questoes) { continue }
     foreach ($q in $p.questoes) {
         if ($q.anulada -or $null -eq $q.correta -or $q.imagem -or $q.texto) { continue }
@@ -225,7 +240,8 @@ function Sortear($itens, [scriptblock]$peso) {
 # A disciplina sai na proporção do peso na prova (Específicas ~2/3); a questão, pelo histórico.
 function Nova-Questao {
     $ids = @($PorDisc.Keys)
-    $did = Sortear $ids { param($x) $d = $Disc[$x]; if ($d) { [double]$d.questoesNaProva * [double]$d.peso } else { 1.0 } }
+    # Peso da disciplina na prova, reduzido quando ela tem poucas questões no pop-up (senão repetem demais).
+    $did = Sortear $ids { param($x) $d = $Disc[$x]; $w = if ($d) { [double]$d.questoesNaProva * [double]$d.peso } else { 1.0 }; $w * [math]::Min(1.0, $PorDisc[$x].Count / 30.0) }
     return Sortear @($PorDisc[$did]) { param($q) Peso $q }
 }
 
@@ -402,11 +418,13 @@ function Mostrar-Questao($q) {
     $alts = @($q.alternativas)
     for ($k = 0; $k -lt $alts.Count; $k++) { [void]$E.Alts.Children.Add((Cartao-Alt $k ([string]$alts[$k]))) }
     $E.Fb.Visibility = 'Collapsed'; $E.BtnOutra.Visibility = 'Collapsed'; $E.BtnSite.Visibility = 'Collapsed'
+    if ($timer -and $timer.IsEnabled) { $timer.Stop(); $timer.Start() }   # questão nova: o prazo para fechar recomeça
 }
 
 function Responder([int]$k) {
     if ($Estado.respondida) { return }
     $Estado.respondida = $true
+    if ($timer -and $timer.IsEnabled) { $timer.Stop(); $timer.Start() }   # tempo para ler a explicação, depois fecha
     $q = $Estado.q; $certa = [int]$q.correta
     $ok = Registrar $q $k
     foreach ($b in $E.Alts.Children) {
@@ -463,7 +481,7 @@ $win.Add_KeyDown({
 # Some sozinho se ninguém responder (a pessoa pode ter saído).
 $timer = New-Object Windows.Threading.DispatcherTimer
 $timer.Interval = [TimeSpan]::FromMinutes([double]$cfg.fecharSemRespostaMin)
-$timer.Add_Tick({ $timer.Stop(); if (-not $Estado.respondida) { Log 'fechado sem resposta'; $win.Close() } })
+$timer.Add_Tick({ $timer.Stop(); Log $(if ($Estado.respondida) { 'fechado depois do tempo de leitura' } else { 'fechado sem resposta' }); $win.Close() })
 
 Mostrar-Questao (Nova-Questao)
 

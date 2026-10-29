@@ -61,10 +61,41 @@
   const padrao = () => ({ resp: {}, videos: {}, leituras: {}, concluidos: {}, dias: {}, tarefas: {}, simulados: [], meta: null, ultimo: null, timer: null });
   const S = (() => { try { return Object.assign(padrao(), JSON.parse(localStorage.getItem(CHAVE) || '{}')); } catch { return padrao(); } })();
   let ultimaMudanca = 0;
+  let ultimoGravado = (() => { try { return localStorage.getItem(CHAVE); } catch { return null; } })();
   // tipo 'mudou' (padrão) agenda a sincronização com o Drive; 'local' (só deste aparelho) e 'sync' não.
+  // Antes de gravar, junta o que outra aba deste aparelho tenha gravado (senão uma aba apagaria a outra).
   function salvar(tipo = 'mudou') {
-    try { localStorage.setItem(CHAVE, JSON.stringify(S)); } catch (e) { console.warn(e); }
+    try {
+      const atual = localStorage.getItem(CHAVE);
+      if (atual && atual !== ultimoGravado) { try { mesclarEstado(JSON.parse(atual)); } catch { /* conteúdo estranho: fica o desta aba */ } }
+      const txt = JSON.stringify(S);
+      localStorage.setItem(CHAVE, txt); ultimoGravado = txt;
+    } catch (e) { console.warn(e); }
     if (tipo === 'mudou') { ultimaMudanca = Date.now(); agendarSync(); }
+  }
+  // Outra aba gravou: esta passa a usar o progresso novo (cada mudança já é gravada na hora, então nada se perde).
+  window.addEventListener('storage', e => {
+    if (e.key !== CHAVE || !e.newValue) return;
+    try {
+      const novo = JSON.parse(e.newValue);
+      for (const k of Object.keys(S)) delete S[k];
+      Object.assign(S, padrao(), novo); ultimoGravado = e.newValue;
+      pintarTimer(); redesenharSePuder();
+    } catch { /* ignora */ }
+  });
+  // Tempo de estudo do dia por aparelho (dias[k].segPor[aparelho]): o total é a soma, então PC e celular se somam.
+  const APARELHO = (() => {
+    try { let a = localStorage.getItem('cg-estudos-aparelho'); if (!a) { a = Math.random().toString(36).slice(2, 10); localStorage.setItem('cg-estudos-aparelho', a); } return a; }
+    catch { return 'este'; }
+  })();
+  const somaSegPor = d => Object.values(d?.segPor || {}).reduce((s, v) => s + (Number(v) || 0), 0);
+  const segGravado = d => Math.max(Number(d?.seg) || 0, somaSegPor(d));
+  function somarSeg(k, seg) {
+    const d = dia(k);
+    d.segPor ||= {};
+    if (!somaSegPor(d) && d.seg) d.segPor[APARELHO] = d.seg; // tempo antigo, de antes da contagem por aparelho
+    d.segPor[APARELHO] = (Number(d.segPor[APARELHO]) || 0) + seg;
+    d.seg = segGravado(d);
   }
   const dia = (k = hoje()) => (S.dias[k] ||= { questoes: 0, acertos: 0, seg: 0, videos: 0 });
   // Marcas (vídeo visto, leitura lida, assunto concluído, tarefa feita): ts > 0 é marcado e ts < 0 é desmarcado.
@@ -174,13 +205,27 @@
     const m = Object.assign({ questoes: 30, minutosLeitura: 60, videos: 1 }, D.plano?.metaDiaria || {}, S.meta && !S.meta.padrao ? S.meta : {});
     return { questoes: Math.max(1, Math.round(Number(m.questoes)) || 30), minutosLeitura: Math.max(0, Math.round(Number(m.minutosLeitura)) || 0), videos: Math.max(0, Math.round(Number(m.videos)) || 0) };
   };
-  const timerSeg = () => S.timer ? Math.min(4 * 3600, Math.max(0, (Date.now() - S.timer.inicio) / 1000)) : 0;
-  const segDo = k => (S.dias[k]?.seg || 0) + (k === hoje() ? timerSeg() : 0);
+  const LIMITE_TIMER = 4 * 3600 * 1000;
+  const timerSeg = () => S.timer ? Math.min(LIMITE_TIMER, Math.max(0, Date.now() - S.timer.inicio)) / 1000 : 0;
+  // Parte do cronômetro ligado que cai no dia k: o tempo é dividido na meia-noite.
+  function timerNoDia(k) {
+    if (!S.timer) return 0;
+    const ini = S.timer.inicio, fim = Math.min(Date.now(), ini + LIMITE_TIMER);
+    const dd = new Date(`${k}T00:00:00`), d0 = dd.getTime(); dd.setDate(dd.getDate() + 1);
+    return Math.max(0, Math.min(fim, dd.getTime()) - Math.max(ini, d0)) / 1000;
+  }
+  const segDo = k => segGravado(S.dias[k]) + timerNoDia(k);
+  // Vídeos do dia contados pelas marcas (o horário de "assistido"): sincroniza junto e desmarcar desconta.
+  function videosNoDia(k) {
+    let n = 0;
+    for (const v of Object.values(S.videos)) if (Number(v) > 0 && ymd(new Date(Number(v))) === k) n++;
+    return n;
+  }
   function progressoDia(k) {
     const d = S.dias[k] || {}; const m = meta();
     const p = [Math.min(1, (d.questoes || 0) / m.questoes)];
     if (m.minutosLeitura) p.push(Math.min(1, segDo(k) / 60 / m.minutosLeitura));
-    if (m.videos) p.push(Math.min(1, (d.videos || 0) / m.videos));
+    if (m.videos) p.push(Math.min(1, videosNoDia(k) / m.videos));
     return p.reduce((a, b) => a + b, 0) / p.length;
   }
   function sequencia() {
@@ -296,7 +341,15 @@
     for (const el of $$('.js-bar-leitura')) el.style.width = `${ml ? Math.min(100, 100 * min / ml) : 100}%`;
   }
   function alternarTimer() {
-    if (S.timer) { dia().seg += timerSeg(); S.timer = null; toast('Tempo de estudo somado à meta de hoje'); }
+    if (S.timer) {
+      const ini = S.timer.inicio, fim = Math.min(Date.now(), ini + LIMITE_TIMER);
+      for (let t = ini; t < fim;) { // cada dia recebe a parte dele
+        const meiaNoite = new Date(t); meiaNoite.setHours(24, 0, 0, 0);
+        const corte = Math.min(fim, meiaNoite.getTime());
+        somarSeg(ymd(new Date(t)), (corte - t) / 1000); t = corte;
+      }
+      S.timer = null; toast('Tempo de estudo somado à meta do dia');
+    }
     else S.timer = { inicio: Date.now() };
     salvar(); pintarTimer();
   }
@@ -312,11 +365,11 @@
     const c = D.idx.concurso, m = meta(), d = S.dias[hoje()] || {};
     const min = Math.floor(segDo(hoje()) / 60);
     const pq = Math.min(1, (d.questoes || 0) / m.questoes), pl = m.minutosLeitura ? Math.min(1, min / m.minutosLeitura) : 1;
-    const pv = m.videos ? Math.min(1, (d.videos || 0) / m.videos) : 1;
+    const vd = videosNoDia(hoje()), pv = m.videos ? Math.min(1, vd / m.videos) : 1;
     const geral = 100 * progressoDia(hoje());
     const erradas = D.qs.filter(q => { const u = ultima(q.id); return u && !u.ok; }).length;
     const w = semanaAtual();
-    const linha = (rot, val, alvo, p, acoes, cls = '') => `<div class="mrow"><div class="mrow-t"><b>${rot}</b><span>${val} / ${alvo}</span></div>
+    const linha = (rot, val, alvo, p, acoes, cls = '') => `<div class="mrow ${p >= 1 ? 'feita' : ''}"><div class="mrow-t"><b>${p >= 1 ? `${ic('check')} ` : ''}${rot}</b><span>${val} / ${alvo}</span></div>
       <div class="bar"><i class="${cls}" style="width:${p * 100}%"></i></div><div class="mrow-a">${acoes}</div></div>`;
     return `
     <section class="hero">
@@ -328,17 +381,18 @@
           ${S.ultimo ? `<a class="btn pri" href="${esc(S.ultimo.href)}">${ic('play')} Continuar: ${esc(S.ultimo.nome)}</a>`
                      : `<a class="btn pri" href="#/d/especificos">${ic('play')} Começar pelas específicas</a>`}
           <button class="btn" data-act="treino-rapido">${ic('questoes')} 10 questões agora</button>
+          ${simuladoAberto() ? `<a class="btn" href="#/quiz">${ic('simulado')} Continuar o simulado</a>` : ''}
         </div>
       </div>
       <div class="hero-ring">${anel(geral, 'da meta de hoje')}</div>
     </section>
     <div class="grid2">
       <section class="card">
-        <div class="card-h"><h2>${ic('alvo')} Meta de hoje</h2><span class="streak">${ic('flame')} ${sequencia()} dia(s) seguidos</span></div>
+        <div class="card-h"><h2>${ic('alvo')} Meta de hoje</h2>${geral >= 100 ? `<span class="streak ok">${ic('check')} Meta cumprida</span>` : `<span class="streak">${ic('flame')} ${sequencia()} dia(s) seguidos</span>`}</div>
         ${linha('Questões', d.questoes || 0, m.questoes, pq, '<button class="btn sm" data-act="treino-rapido">Fazer questões</button>')}
         ${m.minutosLeitura ? linha('Leitura (min)', `<span class="js-min-hoje">${min}</span>`, m.minutosLeitura, pl,
           '<button class="btn sm js-timer" data-act="timer"></button><button class="btn sm ghost" data-act="mais15">+15 min</button>', 'js-bar-leitura') : ''}
-        ${m.videos ? linha('Vídeos', d.videos || 0, m.videos, pv, '<a class="btn sm" href="#/videos">Escolher vídeo</a>') : ''}
+        ${m.videos ? linha('Vídeos', vd, m.videos, pv, '<a class="btn sm" href="#/videos">Escolher vídeo</a>') : ''}
       </section>
       <section class="card">
         ${w ? `<div class="card-h"><h2>${ic('plano')} Semana ${esc(w.n)}</h2><span class="muted">${w.proxima ? `começa em ${fmtCurta(w.inicio)}` : `${fmtCurta(w.inicio)} – ${fmtCurta(w.fim)}`}</span></div>
@@ -476,14 +530,15 @@
       <div class="row gap wrap"><button class="btn sm ${visto ? 'ok' : ''}" data-act="visto" data-y="${esc(v.youtubeId)}">${visto ? `${ic('check')} Assistido` : 'Marcar como assistido'}</button>${extra}</div>`;
   };
   const vinfoFeed = x => vinfo(x.v, `<a class="btn sm" href="#/a/${x.d.id}/${x.a.id}">${ic('trilhas')} Ir para a aula</a><button class="btn sm ghost" data-act="lb-fechar">${ic('x')} Fechar</button>`);
-  const chaveLeitura = l => l.url || `sem-link:${l.titulo || ''}`;
+  const chaveLeitura = l => (l.url ? (l.url.length > 180 ? `h:${hashTexto(l.url)}` : l.url) : `sem-link:${l.titulo || ''}`);
+  const leituraLida = l => marcado(S.leituras, chaveLeitura(l)) || (!!l.url && S.leituras[chaveLeitura(l)] === undefined && marcado(S.leituras, l.url));
   const leituraHtml = l => {
-    const k = chaveLeitura(l), lido = marcado(S.leituras, k);
+    const k = chaveLeitura(l), lido = leituraLida(l);
     const titulo = /^https?:\/\//i.test(l.url || '') ? `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.titulo)} ${ic('ext', 'sm')}</a>` : `<b>${esc(l.titulo)}</b>`;
     return `<li class="leitura ${lido ? 'feito' : ''}"><span class="rtipo">${esc(TIPO[l.tipo] || l.tipo || 'Link')}</span>
       <div class="rt">${titulo}
       ${l.nota ? `<small>${esc(l.nota)}</small>` : ''}${l.gratuito === false ? '<small class="warn">Pago</small>' : ''}</div>
-      <button class="chk ${lido ? 'on' : ''}" data-act="lido" data-u="${esc(k)}" title="Marcar como lido" aria-label="Marcar como lido">${ic('check')}</button></li>`;
+      <button class="chk ${lido ? 'on' : ''}" data-act="lido" data-u="${esc(k)}" data-url="${esc(l.url || '')}" title="Marcar como lido" aria-label="Marcar como lido">${ic('check')}</button></li>`;
   };
 
   function abaHtml(d, a, aba) {
@@ -516,8 +571,12 @@
     $('#abac').innerHTML = abaHtml(d, a, t);
     history.replaceState(null, '', `#/a/${CTX.did}/${CTX.aid}${t === 'resumo' ? '' : '/' + t}`);
     if (t === 'questoes' && $('#quiz')) {
-      const chave = `aula:${CTX.did}:${CTX.aid}`;
-      if (!QZ || QZ.chave !== chave) novoQuiz(sortear(qsDe(CTX.did, CTX.aid)).map(q => q.id), a.nome, { chave, inline: true });
+      const chave = `aula:${CTX.did}:${CTX.aid}`, z = QZS.aula, nq = qsDe(CTX.did, CTX.aid).length;
+      // Quiz novo ao trocar de assunto, depois do resultado ou quando chegaram mais questões (das provas) antes de começar.
+      if (!z || z.chave !== chave || z.fase === 'resultado' || (z.total !== nq && !Object.keys(z.resp).length)) {
+        novoQuiz(sortear(qsDe(CTX.did, CTX.aid)).map(q => q.id), a.nome, { chave, inline: true, total: nq });
+      }
+      QZ = QZS.aula;
       desenharQuiz();
     }
     pintarTimer();
@@ -564,20 +623,57 @@
   }
 
   let QZ = null;
+  // O quiz da aula e o da página de questões são separados: abrir uma aula não apaga o simulado em andamento.
+  const QZS = { main: null, aula: null };
+  const CHAVE_SIM = 'cg-estudos-simulado';
   function novoQuiz(ids, titulo, o = {}) {
     QZ = { ids, i: 0, titulo, modo: o.modo || 'treino', chave: o.chave || null, inline: !!o.inline, prova: o.prova || null, resp: {}, fase: 'fazendo',
-      inicio: Date.now(), limite: o.minutos ? Date.now() + o.minutos * 60000 : null, confirmar: false };
+      inicio: Date.now(), limite: o.minutos ? Date.now() + o.minutos * 60000 : null, confirmar: false, total: o.total || ids.length };
+    if (o.inline) QZS.aula = QZ; else QZS.main = QZ;
+    guardarSimulado();
+  }
+  const simuladoAberto = () => { const z = QZS.main; return !!z && z.modo === 'simulado' && z.fase === 'fazendo'; };
+  // Simulado em andamento fica guardado: recarregar a página ou o celular fechar o site não perde nada.
+  function guardarSimulado() {
+    try {
+      const z = QZS.main;
+      if (simuladoAberto()) localStorage.setItem(CHAVE_SIM, JSON.stringify({ ids: z.ids, i: z.i, titulo: z.titulo, prova: z.prova, resp: z.resp, inicio: z.inicio, limite: z.limite }));
+      else localStorage.removeItem(CHAVE_SIM);
+    } catch { /* sem armazenamento */ }
+  }
+  async function restaurarSimulado() {
+    let s = null;
+    try { s = JSON.parse(localStorage.getItem(CHAVE_SIM) || 'null'); } catch { s = null; }
+    if (!s || !Array.isArray(s.ids) || !s.ids.length) return;
+    if (s.prova) { try { await carregarProva(s.prova); } catch { /* segue */ } }
+    if (!s.ids.every(id => D.q[id])) { try { localStorage.removeItem(CHAVE_SIM); } catch { /* */ } return; }
+    QZS.main = { ids: s.ids, i: Math.min(Math.max(0, s.i || 0), s.ids.length - 1), titulo: s.titulo, modo: 'simulado', chave: null, inline: false,
+      prova: s.prova || null, resp: s.resp && typeof s.resp === 'object' ? s.resp : {}, fase: 'fazendo', inicio: s.inicio, limite: s.limite, confirmar: false, total: s.ids.length };
+    if (s.limite && s.limite <= Date.now()) {
+      QZ = QZS.main; finalizarSimulado();
+      toast('O tempo do simulado acabou com o site fechado: ele foi entregue. O resultado está em Questões.');
+    } else toast('Você tem um simulado em andamento: toque em "Continuar o simulado" no início.');
+    if (location.hash === '#/quiz') rota(); else redesenharSePuder();
+  }
+  let avisouTroca = 0;
+  function podeTrocarSimulado() {
+    if (!simuladoAberto() || Date.now() - avisouTroca < 8000) return true;
+    avisouTroca = Date.now();
+    toast('Há um simulado em andamento. Toque de novo para abandoná-lo, ou volte a ele no início.');
+    return false;
   }
   function irQuiz(ids, titulo, o) {
     if (!ids.length) { toast('Nenhuma questão com esses filtros ainda.'); return; }
+    if (!podeTrocarSimulado()) return;
     novoQuiz(ids, titulo, o);
     if (location.hash === '#/quiz') rota(); else location.hash = '#/quiz';
   }
   // Questão anulada vale ponto para todos (regra da banca); nas outras, acerto é a alternativa do gabarito.
-  const acertou = id => { const q = D.q[id], k = QZ.resp[id]; return q.anulada ? (QZ.modo === 'simulado' || k !== undefined) : k !== undefined && k === q.correta; };
+  const acertou = id => { const q = D.q[id], k = QZ.resp[id]; return q.anulada ? (!!QZ.prova || QZ.modo === 'simulado' || k !== undefined) : k !== undefined && k === q.correta; };
   const acertosQuiz = () => QZ.ids.filter(acertou).length;
   function abrirProva(id, modo, inicio) {
     const p = D.prova[id]; if (!p || !p.questoes.length) return;
+    if (!podeTrocarSimulado()) return;
     novoQuiz(p.questoes.map(q => q.id), p.titulo, { modo, prova: id, minutos: modo === 'simulado' ? (Number(p.duracaoMin) || 180) : 0 });
     QZ.i = Math.min(Math.max(0, inicio || 0), QZ.ids.length - 1);
     if (location.hash === '#/quiz') rota(); else location.hash = '#/quiz';
@@ -677,9 +773,10 @@
     let topo;
     if (QZ.prova) {
       const anul = QZ.ids.filter(id => D.q[id].anulada).length, pct = n ? Math.round(100 * ok / n) : 0;
+      const branco = QZ.ids.filter(id => !D.q[id].anulada && QZ.resp[id] === undefined).length;
       const min = Math.round((Math.min(QZ.fimTs || Date.now(), QZ.limite || Infinity) - QZ.inicio) / 60000);
       topo = `<div class="res ${pct >= 50 ? 'ok' : 'no'}">${anel(pct, 'de acerto')}
-        <div><h2>${ok} de ${n} certas</h2><p>${QZ.modo === 'simulado' ? `${min} min · ` : ''}${n - feitas - anul > 0 ? `${n - feitas - anul} em branco · ` : ''}${anul ? `${anul} anulada(s), que contam para todos, como na banca` : 'As respostas já contam na sua meta de hoje.'}</p></div></div>`;
+        <div><h2>${ok} de ${n} certas</h2><p>${QZ.modo === 'simulado' ? `${min} min · ` : ''}${branco ? `${branco} em branco · ` : ''}${anul ? `${anul} anulada(s), que contam para todos, como na banca` : 'As respostas já contam na sua meta de hoje.'}</p></div></div>`;
     } else if (QZ.modo === 'simulado') {
       let pts = 0, max = 0, minimoOk = true;
       for (const [did, p] of Object.entries(por)) {
@@ -701,12 +798,13 @@
       <div class="row gap wrap mt">
         <button class="btn" data-act="qrevisar">${ic('questoes')} Revisar questão por questão</button>
         ${erradas.length ? `<button class="btn pri" data-act="qerradas">${ic('refazer')} Refazer as ${erradas.length} que errei</button>` : ''}
-        ${QZ.prova ? `<a class="btn ghost" href="#/prova/${esc(QZ.prova)}">Voltar à prova</a>` : QZ.inline ? '' : '<a class="btn ghost" href="#/questoes">Novo treino</a>'}
+        ${QZ.prova ? `<a class="btn ghost" href="#/prova/${esc(QZ.prova)}">Voltar à prova</a>` : QZ.inline ? `<button class="btn ghost" data-act="aula-novo">${ic('refazer')} Treinar de novo</button>` : '<a class="btn ghost" href="#/questoes">Novo treino</a>'}
       </div>`;
   }
 
   function finalizarSimulado() {
     QZ.fase = 'resultado'; QZ.fimTs = Date.now();
+    guardarSimulado();
     for (const [id, k] of Object.entries(QZ.resp)) if (!D.q[id].anulada) registrar(D.q[id], k);
     if (!QZ.prova) {
       const por = resultadoPorDisc(); let pts = 0, max = 0;
@@ -723,6 +821,7 @@
   }
 
   function vQuiz() {
+    QZ = QZS.main;
     if (!QZ) return `<h1 class="pg">Treino</h1>${vazio('questoes', 'Escolha o que treinar no <a href="#/questoes">banco de questões</a>.')}`;
     return `<div class="quiz-pg"><div id="quiz" class="quiz"></div></div>`;
   }
@@ -850,6 +949,9 @@
           <div class="row gap wrap mt"><a id="levar-wa" class="btn" href="#" target="_blank" rel="noopener">Mandar no WhatsApp</a></div>
           <p id="levar-tam" class="warn"></p>
         </div>
+        <p class="muted mt">Usa o site instalado na tela de início do iPhone? Ele não abre links: cole o link aqui.</p>
+        <div class="row gap"><input id="colar-link" type="url" placeholder="Cole aqui o link de progresso ou de sincronização" aria-label="Link para colar">
+          <button class="btn" data-act="colar-link">Usar</button></div>
       </section>
       <section class="card"><div class="card-h"><h2>${ic('alvo')} Meta diária</h2></div>
         <div class="f3">
@@ -882,7 +984,7 @@
     for (const d of D.discs) for (const a of d.assuntos) for (const l of a.leituras || []) todos.push({ d, a, l });
     const tipos = Object.keys(TIPO).filter(t => todos.some(x => tipoDe(x.l) === t));
     const vis = todos.filter(x => (!BIB.tipo || tipoDe(x.l) === BIB.tipo) && (!BIB.disc || x.d.id === BIB.disc));
-    const lidas = todos.filter(x => marcado(S.leituras, chaveLeitura(x.l))).length;
+    const lidas = todos.filter(x => leituraLida(x.l)).length;
     const grupos = [];
     for (const x of vis) {
       let g = grupos[grupos.length - 1];
@@ -984,7 +1086,8 @@
     const lm = h.match(/^#\/levar\?d=([\w-]+)$/);
     if (lm) { receberLink(lm[1]); return; }
     let html = naoAchou(), sec = '';
-    for (const [re, fn, s] of ROTAS) { const m = h.match(re); if (m) { CTX = null; html = fn(m); sec = s; break; } }
+    CTX = null;
+    for (const [re, fn, s] of ROTAS) { const m = h.match(re); if (m) { html = fn(m); sec = s; break; } }
     secAtual = sec;
     fecharFigura();
     document.body.classList.remove('travado');
@@ -1004,14 +1107,14 @@
   }
   // Depois de uma sincronização ou de carregar provas: atualiza a tela, mas nunca no meio de aula, vídeo ou questões.
   function redesenharSePuder() {
-    if (CTX || $('#lb:not([hidden])') || !['inicio', 'trilhas', 'plano', 'ajustes', 'simulado', 'biblioteca', 'videos', 'provas'].includes(secAtual)) return;
+    if (CTX || $('#lb:not([hidden])') || !(['inicio', 'trilhas', 'plano', 'ajustes', 'simulado', 'biblioteca', 'videos', 'provas'].includes(secAtual) || location.hash === '#/questoes')) return;
     const y = window.scrollY; rota(); window.scrollTo(0, y);
   }
 
   // ---------- ações ----------
   const A = {
     timer: () => alternarTimer(),
-    mais15: () => { dia().seg += 900; salvar(); pintarTimer(); toast('+15 min de leitura na meta de hoje'); },
+    mais15: () => { somarSeg(hoje(), 900); salvar(); pintarTimer(); toast('+15 min de leitura na meta de hoje'); },
     'treino-rapido': () => irQuiz(sortear(D.qs, 10).map(q => q.id), 'Treino rápido'),
     'treino-disc': b => irQuiz(sortear(qsDe(b.dataset.d), 10).map(q => q.id), D.disc[b.dataset.d].nome),
     'treino-erradas': () => irQuiz(sortear(D.qs.filter(q => { const u = ultima(q.id); return u && !u.ok; })).map(q => q.id), 'Revisão de erros'),
@@ -1032,10 +1135,8 @@
     },
     visto: b => {
       const id = b.dataset.y;
-      if (marcado(S.videos, id)) {
-        if (ymd(new Date(S.videos[id])) === hoje()) dia().videos = Math.max(0, (dia().videos || 0) - 1);
-        marcar(S.videos, id, false);
-      } else { marcar(S.videos, id, true); dia().videos = (dia().videos || 0) + 1; if (dia().videos === meta().videos) toast('Meta de vídeos de hoje batida! 🎬'); }
+      if (marcado(S.videos, id)) marcar(S.videos, id, false);
+      else { marcar(S.videos, id, true); if (videosNoDia(hoje()) === meta().videos) toast('Meta de vídeos de hoje batida! 🎬'); }
       salvar();
       const x = D.vid[id];
       if (CTX) {
@@ -1059,16 +1160,17 @@
     'feed-disc': b => { FEED.disc = b.dataset.v; rota(); },
     'feed-pend': b => { FEED.pendentes = b.dataset.v === '1'; rota(); },
     lido: b => {
-      const u = b.dataset.u;
-      const lido = !marcado(S.leituras, u);
+      const u = b.dataset.u, url = b.dataset.url;
+      const lido = !b.classList.contains('on');
       marcar(S.leituras, u, lido);
+      if (url && url !== u && S.leituras[url] !== undefined) marcar(S.leituras, url, false); // marca antiga, pelo link inteiro
       salvar(); b.classList.toggle('on', lido); b.closest('.leitura').classList.toggle('feito', lido);
     },
-    fdisc: b => { const d = b.dataset.d; F.discs.has(d) ? F.discs.delete(d) : F.discs.add(d); if (F.assunto && !F.assunto.startsWith(d + ':') && F.discs.size) F.assunto = ''; rota(); },
+    fdisc: b => { const d = b.dataset.d; F.discs.has(d) ? F.discs.delete(d) : F.discs.add(d); if (F.assunto && F.discs.size && !F.discs.has(F.assunto.split(':')[0])) F.assunto = ''; rota(); },
     comecar: () => irQuiz(sortear(filtrar(), F.n).map(q => q.id), 'Treino'),
     resp: b => {
       const q = D.q[QZ.ids[QZ.i]], k = Number(b.dataset.k);
-      if (QZ.modo === 'simulado') { if (QZ.fase !== 'fazendo') return; QZ.resp[q.id] = k; QZ.confirmar = false; desenharQuiz(); return; }
+      if (QZ.modo === 'simulado') { if (QZ.fase !== 'fazendo') return; QZ.resp[q.id] = k; QZ.confirmar = false; guardarSimulado(); desenharQuiz(); return; }
       if (QZ.resp[q.id] !== undefined) return;
       QZ.resp[q.id] = k; if (!q.anulada) registrar(q, k); desenharQuiz();
     },
@@ -1078,7 +1180,8 @@
       desenharQuiz(); rolarQuiz();
     },
     qant: () => { if (QZ.i > 0) QZ.i--; desenharQuiz(); rolarQuiz(); },
-    qir: b => { QZ.i = Number(b.dataset.k); desenharQuiz(); },
+    qir: b => { QZ.i = Number(b.dataset.k); guardarSimulado(); desenharQuiz(); },
+    'aula-novo': () => { QZS.aula = null; trocarAba('questoes'); rolarQuiz(); },
     qentregar: () => { if (!QZ.confirmar) { QZ.confirmar = true; desenharQuiz(); return; } finalizarSimulado(); },
     qrevisar: () => { QZ.fase = 'revisao'; QZ.i = 0; desenharQuiz(); rolarQuiz(); },
     qresultado: () => { QZ.fase = 'resultado'; desenharQuiz(); rolarQuiz(); },
@@ -1088,8 +1191,12 @@
       novoQuiz(ids, 'Refazendo as que errei', { inline, chave, prova }); desenharQuiz(); rolarQuiz();
     },
     simulado: b => {
-      const f = Number(b.dataset.f) || 1;
-      const ids = D.discs.flatMap(d => sortear(qsDe(d.id), Math.max(1, Math.round(d.questoesNaProva * f))).map(q => q.id));
+      const f = Number(b.dataset.f) || 1, total = Math.round(40 * f);
+      const soma = D.discs.reduce((s, d) => s + d.questoesNaProva, 0);
+      const cotas = D.discs.map(d => { const x = total * d.questoesNaProva / soma; return { d, n: Math.floor(x), r: x - Math.floor(x) }; });
+      let falta = total - cotas.reduce((s, c) => s + c.n, 0);
+      [...cotas].sort((a, b) => b.r - a.r).forEach(c => { if (falta > 0) { c.n++; falta--; } });
+      const ids = cotas.flatMap(({ d, n }) => sortear(qsDe(d.id), Math.max(1, n)).map(q => q.id));
       irQuiz(ids, f < 1 ? 'Meio simulado' : 'Simulado', { modo: 'simulado', minutos: Math.round(180 * f) });
     },
     'salvar-meta': () => {
@@ -1139,6 +1246,11 @@
       if (!o) { location.hash = '#/'; return; }
       try { const n = mesclar(o); location.hash = '#/'; toast(n ? `Pronto: ${n} resposta(s) do outro aparelho somadas.` : 'Pronto: este aparelho já tinha tudo desse link.'); }
       catch (e) { location.hash = '#/'; toast(`Não deu para juntar: ${e.message}`); }
+    },
+    'colar-link': () => {
+      const v = ($('#colar-link')?.value || '').trim();
+      const m1 = v.match(/#\/levar\?d=([\w-]+)/), m2 = v.match(/#\/sync\?([^#\s]*)/);
+      if (m1) receberLink(m1[1]); else if (m2) ligarSync(new URLSearchParams(m2[1])); else toast('Esse não é um link do site de estudos.');
     },
     'levar-cancelar': () => { levarPendente = null; location.hash = '#/'; toast('Nada mudou.'); },
     exportar: () => {
@@ -1197,7 +1309,14 @@
     for (const [k, v] of Object.entries(o.dias || {})) {
       if (!v || typeof v !== 'object' || !/^\d{4}-\d{2}-\d{2}$/.test(k)) continue;
       const c = dia(k);
-      c.seg = Math.max(c.seg || 0, numOk(v.seg, 0, 86400) || 0); c.videos = Math.max(c.videos || 0, numOk(v.videos, 0, 100) || 0);
+      if (v.segPor && typeof v.segPor === 'object') {
+        c.segPor ||= {};
+        for (const [ap, s] of Object.entries(v.segPor)) {
+          const n = numOk(s, 0, 86400);
+          if (n !== null && /^[\w-]{1,20}$/.test(ap) && n > (Number(c.segPor[ap]) || 0)) c.segPor[ap] = n;
+        }
+      }
+      c.seg = Math.max(c.seg || 0, numOk(v.seg, 0, 86400) || 0, somaSegPor(c)); c.videos = Math.max(c.videos || 0, numOk(v.videos, 0, 100) || 0);
     }
     const simLimpo = x => {
       if (!x || typeof x !== 'object') return null;
@@ -1340,6 +1459,7 @@
   async function receberLink(d) {
     history.replaceState(null, '', `${location.pathname}${location.search}#/levar-confirmar`); // tira os dados da barra
     levarPendente = null;
+    if (!('DecompressionStream' in window)) { toast('Este navegador é antigo para abrir o link (no iPhone, precisa do iOS 16.4 ou mais novo). Use Exportar e Importar.'); rota(); return; }
     try {
       const o = await descompactar(d);
       if (!o || typeof o !== 'object' || !o.resp || typeof o.resp !== 'object') throw new Error('link sem progresso');
@@ -1396,6 +1516,8 @@
     if (t.dataset.act === 'tarefa') {
       marcar(S.tarefas, t.dataset.k, t.checked);
       if (S.tarefas[t.dataset.velha] !== undefined) marcar(S.tarefas, t.dataset.velha, false); // marca antiga, pela posição
+      const sem = t.closest('.semana');
+      if (sem) { const cbs = [...sem.querySelectorAll('input[data-act="tarefa"]')]; const wp = sem.querySelector('.wp'); if (wp) wp.textContent = `${cbs.filter(c => c.checked).length}/${cbs.length}`; }
       salvar(); return;
     }
     if (t.id === 'importar' && t.files[0]) {
@@ -1440,7 +1562,7 @@
     }
     moldura(); rota();
     if (syncCfg()) sincronizar().then(n => { if (n) { toast(`${n} resposta(s) de outros aparelhos somadas`); redesenharSePuder(); } }).catch(() => {});
-    carregarProvasNoBanco().then(n => { if (n) redesenharSePuder(); });
+    carregarProvasNoBanco().then(n => { if (n) redesenharSePuder(); restaurarSimulado(); });
     if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
   })();
 })();
