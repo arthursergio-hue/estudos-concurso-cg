@@ -32,69 +32,72 @@
   {
    "n": 3, "inicio": "2026-11-12", "fim": "2026-11-18",
    "foco": "Boas práticas sanitárias e projeto de arquitetura",
-   "assuntos": ["especificos:boas-praticas-riscos-biosseguranca", "especificos:projeto-etapas-representacao", "especificos:circulacoes-saidas-emergencia", "portugues"],
+   "assuntos": ["especificos:boas-praticas-riscos-biosseguranca", "especificos:projeto-etapas-representacao", "especificos:circulacoes-saidas-emergencia", "portugues:interpretacao", "portugues:coesao", "portugues:reescrita"],
    "tarefas": [
     "Ler a RDC 216/2004 (item 4, edificação e instalações) e a lista de grupos da RDC 222/2018",
     "Aula Projeto: etapas, partido e leitura de planta baixa e cortes",
     "Exercitar cálculos de escala e de escada (Blondel)",
     "Fazer a prova IDECAN de Fiscal de Vigilância Sanitária (São Gonçalo do Rio Abaixo 2017)",
-    "Português: 10 questões por dia"
+    "Português: interpretação, coesão e reescrita (10 questões por dia)"
    ]
   },
   {
    "n": 4, "inicio": "2026-11-19", "fim": "2026-11-25",
    "foco": "Urbanismo e fiscalização",
-   "assuntos": ["especificos:estatuto-cidade-plano-diretor", "especificos:parcelamento-solo", "especificos:fiscalizacao-obras-posturas", "historia-cg:origens-fundacao", "historia-cg:emancipacao-cidade", "historia-cg:ferrovia-algodao", "historia-cg:crescimento-politica", "historia-cg:cultura-educacao-tecnologia"],
+   "assuntos": ["especificos:estatuto-cidade-plano-diretor", "especificos:parcelamento-solo", "especificos:fiscalizacao-obras-posturas", "historia-cg:origens-fundacao", "historia-cg:emancipacao-cidade", "historia-cg:ferrovia-algodao", "historia-cg:crescimento-politica", "historia-cg:cultura-educacao-tecnologia", "portugues:pontuacao", "portugues:ortografia-acentuacao"],
    "tarefas": [
     "Ler o Estatuto da Cidade (arts. 1º a 6º e 25 a 42-B)",
     "Ler a Lei 6.766/1979 (arts. 1º a 13, 18 e 50)",
     "Treinar cálculos de taxa de ocupação e coeficiente de aproveitamento",
     "Fazer a prova IDECAN de Fiscal de Obras de Campina Grande 2021",
-    "História de Campina Grande: as 5 aulas + questões"
+    "História de Campina Grande: as 5 aulas + questões",
+    "Português: pontuação, ortografia e acentuação (10 questões por dia)"
    ]
   },
   {
    "n": 5, "inicio": "2026-11-26", "fim": "2026-12-02",
    "foco": "Técnicas construtivas I: do terreno à estrutura",
-   "assuntos": ["especificos:canteiro-servicos-preliminares", "especificos:fundacoes", "especificos:estruturas", "especificos:materiais-construcao", "informatica"],
+   "assuntos": ["especificos:canteiro-servicos-preliminares", "especificos:fundacoes", "especificos:estruturas", "especificos:materiais-construcao", "informatica:hardware", "informatica:sistemas-operacionais", "informatica:editor-texto", "informatica:planilhas"],
    "tarefas": [
     "Aulas de canteiro, fundações, estruturas e materiais (vídeos ajudam muito aqui)",
     "Montar uma tabela própria: CAA × cobrimento × a/c × classe do concreto",
     "Fazer a prova IDECAN de Arquiteto da UFPB 2016",
-    "Informatica: aula + questões"
+    "Informática: hardware, Windows e Linux, editor de texto e planilhas (aulas + questões)"
    ]
   },
   {
    "n": 6, "inicio": "2026-12-03", "fim": "2026-12-09",
    "foco": "Técnicas construtivas II: vedações e instalações",
-   "assuntos": ["especificos:vedacoes-coberturas-impermeabilizacao", "especificos:instalacoes-hidrossanitarias", "especificos:instalacoes-eletricas-incendio-spda", "portugues"],
+   "assuntos": ["especificos:vedacoes-coberturas-impermeabilizacao", "especificos:instalacoes-hidrossanitarias", "especificos:instalacoes-eletricas-incendio-spda", "portugues:sintaxe", "portugues:concordancia", "portugues:regencia-crase"],
    "tarefas": [
     "Aulas de vedações, coberturas, impermeabilização e esquadrias",
     "Aulas de instalações hidrossanitárias, elétricas, incêndio e SPDA",
     "Fazer a prova IDECAN de Arquiteto do CRF-SP 2018",
-    "Português: 10 questões por dia"
+    "Português: período composto, concordância, regência e crase (10 questões por dia)"
    ]
   },
   {
    "n": 7, "inicio": "2026-12-10", "fim": "2026-12-16",
    "foco": "Conforto, desempenho e meio ambiente",
-   "assuntos": ["especificos:conforto-ambiental", "especificos:desempenho-sustentabilidade", "especificos:licenciamento-ambiental", "legislacao-etica:lei-organica-cg"],
+   "assuntos": ["especificos:conforto-ambiental", "especificos:desempenho-sustentabilidade", "especificos:licenciamento-ambiental", "legislacao-etica:lei-organica-cg", "portugues:verbos", "portugues:pronomes", "portugues:morfologia"],
    "tarefas": [
     "Ler os capítulos de conforto e bioclimatologia do livro do LabEEE (gratuito)",
     "Ler a NBR 15575: níveis, exigências do usuário e VUP",
     "Ler a Lei 15.190/2025 (Lei Geral do Licenciamento: definições, prazos das licenças e renovação) e comparar com a Resolução CONAMA 237/1997",
-    "Legislação e Ética: Lei Orgânica de Campina Grande"
+    "Legislação e Ética: Lei Orgânica de Campina Grande",
+    "Português: verbos, pronomes e classes de palavras (10 questões por dia)"
    ]
   },
   {
    "n": 8, "inicio": "2026-12-17", "fim": "2026-12-23",
    "foco": "Gestão de obras públicas e ética",
-   "assuntos": ["especificos:orcamento-obras", "especificos:licitacoes-14133", "especificos:seguranca-trabalho", "especificos:etica-probidade", "legislacao-etica:etica-servico-publico", "legislacao-etica:principios-limpe", "informatica"],
+   "assuntos": ["especificos:orcamento-obras", "especificos:licitacoes-14133", "especificos:seguranca-trabalho", "especificos:etica-probidade", "legislacao-etica:etica-servico-publico", "legislacao-etica:principios-limpe", "informatica:email-reunioes", "informatica:internet-nuvem", "informatica:seguranca"],
    "tarefas": [
     "Aulas de orçamento (BDI, SINAPI, curva ABC, cronograma) e licitações (Lei 14.133)",
     "Ler a NR-35 inteira e os itens de áreas de vivência e quedas da NR-18",
     "Ler a Lei 8.429/1992 (arts. 1º, 9º a 12 e 23) e a decisão do STF de 2026 sobre a prescrição (ADIs 7156 e 7236)",
     "Legislação e Ética: ética no serviço público e princípios da administração (LIMPE)",
+    "Informática: e-mail e reuniões on-line, internet e nuvem, segurança (aulas + questões)",
     "Simulado completo de 40 questões (aba Simulado), cronometrado"
    ]
   },
