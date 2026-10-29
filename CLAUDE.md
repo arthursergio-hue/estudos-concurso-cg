@@ -32,7 +32,7 @@ Projeto **pessoal** do Arthur Sérgio: plataforma de estudos para o concurso da 
 - **Questões:** estilo IDECAN (4 alternativas A–D, enunciado direto, cobra letra de lei e de norma). Decisão do
   Arthur (28/10/2026): questões reais da IDECAN e de outras bancas podem entrar no site com crédito completo (`banca`,
   `ano`, `orgao`, `cargo`, `fonte`) e `"origem": "banca"` ou `"semelhante"`, sempre com gabarito oficial conferido.
-  Texto de NBR continua sem copiar: só citar o item. Provas inteiras ficam como link em `data/provas.json`.
+  Texto de NBR continua sem copiar: só citar o item. Os links das provas ficam em `data/provas.json`; as digitadas, em `data/provas/`.
 - **Explicação em toda questão** (pedido do Arthur, 28/10/2026): o `comentario` ensina a resposta e aparece no acerto
   e no erro. Formato: `**Por que "<texto da certa>":**` (regra, artigo/item e raciocínio), linha em branco,
   `**As outras:**` com uma linha `- *<texto da errada>*: por quê` para cada errada (cite pelo texto, nunca pela
