@@ -1,5 +1,5 @@
 /* Cache simples para abrir sem internet: sempre tenta a rede primeiro e guarda a última cópia. */
-const CACHE = 'cg-estudos-v2';
+const CACHE = 'cg-estudos-v3';
 const BASE = ['./', 'index.html', 'app/style.css', 'app/app.js', 'app/md.js', 'manifest.webmanifest', 'app/icons/icon.svg',
   'app/icons/icon-192.png', 'data/index.json'];
 
@@ -8,7 +8,8 @@ self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(BASE)).catch(() => {}));
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  // O GitHub Pages põe todos os sites de arthursergio-hue.github.io na mesma origem: apague só os caches deste app.
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('cg-estudos-') && k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
@@ -26,6 +27,10 @@ self.addEventListener('fetch', e => {
     fetch(e.request, { cache: 'no-cache' }).then(r => {
       if (r.ok) { const c = r.clone(); caches.open(CACHE).then(ca => ca.put(e.request, c)); }
       return r;
-    }).catch(() => caches.match(e.request, { ignoreSearch: true }).then(r => r || caches.match('index.html')))
+    }).catch(async () => {
+      // Sem rede: a cópia guardada; o index.html só para abrir páginas (nunca no lugar de um JSON ou de uma figura).
+      const ca = await caches.open(CACHE);
+      return (await ca.match(e.request, { ignoreSearch: true })) || (e.request.mode === 'navigate' && await ca.match('index.html')) || Response.error();
+    })
   );
 });

@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 popup/estado.json
-popup/progresso-popup.json
+popup/progresso-popup*.json
+popup/*.tmp
 popup/popup.log
 popup/sync.json

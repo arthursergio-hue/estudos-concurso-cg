@@ -27,7 +27,12 @@ function Ler-Json($p) {
     if (Test-Path $p) { try { return [IO.File]::ReadAllText($p, $Utf8) | ConvertFrom-Json } catch { } }
     return $null
 }
-function Gravar-Json($p, $o) { [IO.File]::WriteAllText($p, ($o | ConvertTo-Json -Depth 8 -Compress), $Utf8) }
+# Grava num temporário e troca: um desligamento no meio nunca deixa o arquivo pela metade.
+function Gravar-Json($p, $o) {
+    $tmp = "$p.tmp"
+    [IO.File]::WriteAllText($tmp, ($o | ConvertTo-Json -Depth 8 -Compress), $Utf8)
+    Move-Item -LiteralPath $tmp -Destination $p -Force
+}
 function Agora-Ms { [DateTimeOffset]::Now.ToUnixTimeMilliseconds() }
 function Log($msg) {
     try {
@@ -35,6 +40,9 @@ function Log($msg) {
         [IO.File]::AppendAllText($ArqLog, ("{0:yyyy-MM-dd HH:mm} {1}`r`n" -f (Get-Date), $msg), $Utf8)
     } catch { }
 }
+
+# Erro inesperado (o pop-up roda escondido): vai para o popup.log em vez de sumir calado.
+trap { Log ("erro: {0} (linha {1})" -f $_.Exception.Message, $_.InvocationInfo.ScriptLineNumber); break }
 
 $cfg = Ler-Json (Join-Path $Pasta 'config.json')
 if (-not $cfg) { Log 'config.json não abriu'; exit 1 }
@@ -119,6 +127,14 @@ if (-not $Agora -and -not $Captura) {
     $m = Motivo
     if ($m) { Log "pulado: $m"; exit 0 }
 }
+# Uma janela por vez: a tarefa agendada não espera o pop-up fechar, então a trava é aqui.
+$Trava = $null
+if (-not $Captura) {
+    $Trava = New-Object System.Threading.Mutex($false, 'Local\EstudosCG-popup')
+    $tem = $false
+    try { $tem = $Trava.WaitOne(0) } catch [System.Threading.AbandonedMutexException] { $tem = $true }
+    if (-not $tem) { Log 'pulado: já há uma janela do pop-up aberta'; exit 0 }
+}
 
 # ---------- questões ----------
 $idx = Ler-Json (Join-Path $Raiz 'data\index.json')
@@ -130,14 +146,19 @@ foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\disciplinas') -Filter *.json
 }
 $PorDisc = @{}
 $Vistas = @{}
-function Adicionar($q) {
-    if (-not $q.id -or -not $q.alternativas -or $Vistas.ContainsKey([string]$q.id) -or -not $Disc.ContainsKey([string]$q.disciplina)) { return }
+function Adicionar($q, [string]$discPadrao = '') {
+    if (-not $q -or -not $q.id -or -not $q.alternativas) { return }
+    if (-not $q.disciplina -and $discPadrao) { $q | Add-Member -NotePropertyName disciplina -NotePropertyValue $discPadrao -Force }
+    # Só questão com gabarito que aponta para uma alternativa (senão o pop-up daria a A como certa).
+    $n = @($q.alternativas).Count
+    if (-not ($q.correta -is [int] -or $q.correta -is [long]) -or [int]$q.correta -lt 0 -or [int]$q.correta -ge $n) { return }
+    if ($Vistas.ContainsKey([string]$q.id) -or -not $Disc.ContainsKey([string]$q.disciplina)) { return }
     $Vistas[[string]$q.id] = $true
     if (-not $PorDisc.ContainsKey($q.disciplina)) { $PorDisc[$q.disciplina] = New-Object System.Collections.ArrayList }
     [void]$PorDisc[$q.disciplina].Add($q)
 }
 foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\questoes') -Filter *.json -ErrorAction SilentlyContinue) {
-    foreach ($q in (Ler-Json $f.FullName)) { Adicionar $q }
+    foreach ($q in (Ler-Json $f.FullName)) { Adicionar $q $f.BaseName }
 }
 # Provas digitadas: só as questões que cabem num pop-up (sem anulada, sem figura e sem texto de apoio).
 foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\provas') -Filter *.json -ErrorAction SilentlyContinue) {
@@ -155,8 +176,18 @@ foreach ($f in Get-ChildItem (Join-Path $Raiz 'data\provas') -Filter *.json -Err
 }
 if (-not $PorDisc.Count) { Log 'sem questões em data\questoes'; exit 0 }
 
-$Prog = Ler-Json $ArqProgresso
-if (-not $Prog -or -not $Prog.PSObject.Properties['resp']) { $Prog = [pscustomobject]@{ origem = 'popup'; resp = [pscustomobject]@{} } }
+$Prog = $null
+if (Test-Path $ArqProgresso) {
+    $Prog = Ler-Json $ArqProgresso
+    if (-not $Prog -or -not $Prog.PSObject.Properties['resp']) {
+        # Arquivo ilegível: guarda à parte e começa outro; nunca grava por cima das respostas antigas.
+        $ruim = $ArqProgresso -replace '\.json$', ('-ilegivel-{0:yyyyMMdd-HHmmss}.json' -f (Get-Date))
+        Move-Item -LiteralPath $ArqProgresso -Destination $ruim -Force
+        Log "progresso ilegível guardado em $ruim"
+        $Prog = $null
+    }
+}
+if (-not $Prog) { $Prog = [pscustomobject]@{ origem = 'popup'; resp = [pscustomobject]@{} } }
 
 # Última resposta de cada questão: a do pop-up e, com a sincronização ligada, a do site (PC e celular) que está no Drive.
 $Hist = @{}
@@ -200,6 +231,18 @@ function Nova-Questao {
 
 function Registrar($q, [int]$k) {
     $ok = ($k -eq [int]$q.correta)
+    # Outra janela pode ter gravado neste meio-tempo: relê o arquivo e junta pelo horário antes de gravar.
+    $disco = Ler-Json $ArqProgresso
+    if ($disco -and $disco.PSObject.Properties['resp']) {
+        foreach ($pp in $disco.resp.PSObject.Properties) {
+            $atual = $Prog.resp.PSObject.Properties[$pp.Name]
+            $lista = New-Object System.Collections.ArrayList
+            $vistos = @{}
+            if ($atual) { foreach ($x in @($atual.Value)) { if ($x) { [void]$lista.Add($x); $vistos[[string]$x.ts] = $true } } }
+            foreach ($x in @($pp.Value)) { if ($x -and -not $vistos.ContainsKey([string]$x.ts)) { [void]$lista.Add($x) } }
+            $Prog.resp | Add-Member -NotePropertyName $pp.Name -NotePropertyValue ([object[]]($lista | Sort-Object { [int64]$_.ts })) -Force
+        }
+    }
     $h = @(); $p = $Prog.resp.PSObject.Properties[$q.id]
     if ($p) { $h = @($p.Value) }
     $h += [pscustomobject]@{ ts = (Agora-Ms); e = $k; ok = $ok }
@@ -290,10 +333,13 @@ $E = @{}
 foreach ($n in 'Topo', 'Titulo', 'TagDisc', 'TagDiscT', 'TagOrig', 'TagOrigT', 'Enunciado', 'Alts', 'Fb', 'FbTitulo', 'FbTexto', 'FbFonte',
     'BtnX', 'BtnP1', 'BtnPH', 'BtnFechar', 'BtnOutra', 'BtnSite') { $E[$n] = $win.FindName($n) }
 
-$BC = New-Object Windows.Media.BrushConverter
-function Pincel([string]$cor) { $BC.ConvertFromString($cor) }
+# Cor que o WPF não entende (rgb(), hsl()…) vira o violeta padrão em vez de derrubar a janela.
+function Cor([string]$cor) {
+    try { return [Windows.Media.ColorConverter]::ConvertFromString($cor) } catch { return [Windows.Media.ColorConverter]::ConvertFromString('#7C5CFF') }
+}
+function Pincel([string]$cor) { New-Object Windows.Media.SolidColorBrush (Cor $cor) }
 function Mistura([string]$cor, [double]$a) {
-    $c = [Windows.Media.ColorConverter]::ConvertFromString($cor)
+    $c = Cor $cor
     $c.A = [byte](255 * $a); New-Object Windows.Media.SolidColorBrush $c
 }
 
@@ -451,3 +497,4 @@ if ($Sync -and $Estado.n -gt 0) {
         if ($r.ok) { Log "Drive: $($r.novas) resposta(s) nova(s) enviada(s)" } else { Log "Drive recusou: $($r.erro)" }
     } catch { Log "Drive não respondeu ao enviar: $($_.Exception.Message)" }
 }
+if ($Trava) { $Trava.ReleaseMutex() }

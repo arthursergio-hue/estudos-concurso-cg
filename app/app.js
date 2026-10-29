@@ -9,7 +9,7 @@
   const md = s => window.md(s);
   const mdi = s => window.mdInline(s);
   const LETRAS = 'ABCDE';
-  const urlSegura = u => (/^https?:\/\//i.test(u || '') || /^[\w][\w./%-]*$/.test(u || '')) ? u : '#';
+  const urlSegura = u => (/^https?:\/\//i.test(u || '') || (/^(data|references)\/[\w./%-]+$/.test(u || '') && !/\.\./.test(u))) ? u : '#';
   const ytOk = id => /^[\w-]{11}$/.test(id || '');
 
   // ---------- ícones (traço, estilo lucide) ----------
@@ -102,14 +102,19 @@
     D.idx.disciplinas.forEach((base, k) => {
       const arq = ds[k].status === 'fulfilled' ? ds[k].value : null;
       const d = Object.assign({}, arq || {}, base);
-      d.assuntos = Array.isArray(arq?.assuntos) ? arq.assuntos.filter(a => a && a.id) : [];
+      // Um item malformado num JSON não pode derrubar o site: o que não tem a forma esperada fica de fora.
+      d.assuntos = (Array.isArray(arq?.assuntos) ? arq.assuntos : []).filter(a => a && typeof a === 'object' && a.id && chaveOk(a.id)).map(a => Object.assign(a, {
+        videos: (Array.isArray(a.videos) ? a.videos : []).filter(v => v && typeof v === 'object' && ytOk(v.youtubeId)),
+        leituras: (Array.isArray(a.leituras) ? a.leituras : []).filter(l => l && typeof l === 'object' && l.titulo),
+      }));
       d.pendente = !arq;
       d.as = Object.fromEntries(d.assuntos.map(a => [a.id, a]));
       D.disc[d.id] = d; D.discs.push(d);
       const v = qs[k].status === 'fulfilled' ? qs[k].value : [];
-      const lista = Array.isArray(v) ? v : (v?.questoes || []);
+      const lista = Array.isArray(v) ? v : Array.isArray(v?.questoes) ? v.questoes : [];
       for (const q of lista) {
-        if (!q?.id || !Array.isArray(q.alternativas) || D.q[q.id]) continue;
+        if (!q || typeof q !== 'object' || !q.id || !chaveOk(q.id) || D.q[q.id] || !Array.isArray(q.alternativas) || q.alternativas.length < 2) continue;
+        if (!Number.isInteger(q.correta) || q.correta < 0 || q.correta >= q.alternativas.length) { console.warn('questão sem gabarito válido:', q.id); continue; }
         q.disciplina ||= d.id;
         D.qs.push(q); D.q[q.id] = q; D.chaves.add(chaveQ(q));
       }
@@ -165,12 +170,16 @@
     return { total: lista.length, resp, ok, pct: resp ? Math.round(100 * ok / resp) : null };
   }
   // S.meta = { questoes, minutosLeitura, videos, ts } (meta própria) ou { padrao: true, ts } (usar a do plano).
-  const meta = () => Object.assign({ questoes: 30, minutosLeitura: 60, videos: 1 }, D.plano?.metaDiaria || {}, S.meta && !S.meta.padrao ? S.meta : {});
+  const meta = () => {
+    const m = Object.assign({ questoes: 30, minutosLeitura: 60, videos: 1 }, D.plano?.metaDiaria || {}, S.meta && !S.meta.padrao ? S.meta : {});
+    return { questoes: Math.max(1, Math.round(Number(m.questoes)) || 30), minutosLeitura: Math.max(0, Math.round(Number(m.minutosLeitura)) || 0), videos: Math.max(0, Math.round(Number(m.videos)) || 0) };
+  };
   const timerSeg = () => S.timer ? Math.min(4 * 3600, Math.max(0, (Date.now() - S.timer.inicio) / 1000)) : 0;
   const segDo = k => (S.dias[k]?.seg || 0) + (k === hoje() ? timerSeg() : 0);
   function progressoDia(k) {
     const d = S.dias[k] || {}; const m = meta();
-    const p = [Math.min(1, (d.questoes || 0) / m.questoes), Math.min(1, segDo(k) / 60 / m.minutosLeitura)];
+    const p = [Math.min(1, (d.questoes || 0) / m.questoes)];
+    if (m.minutosLeitura) p.push(Math.min(1, segDo(k) / 60 / m.minutosLeitura));
     if (m.videos) p.push(Math.min(1, (d.videos || 0) / m.videos));
     return p.reduce((a, b) => a + b, 0) / p.length;
   }
@@ -220,10 +229,11 @@
   }
   function fonteHtml(q) {
     const partes = (q.origem === 'autoral' ? [] : [q.banca, q.ano, q.orgao, q.cargo, q.prova ? `questão ${q.numero}` : '']).filter(Boolean).map(esc).join(' · ');
-    const u = q.fonte ? urlSegura(q.fonte) : '#';
+    const f = String(q.fonte || '').trim();
+    const fonte = /^https?:\/\//i.test(f) ? `<a href="${esc(f)}" target="_blank" rel="noopener">fonte ${ic('ext', 'sm')}</a>` : f ? `Fonte: ${esc(f)}` : '';
     const prova = q.prova && !(QZ && QZ.prova === q.prova) ? ` · <a href="#/prova/${esc(q.prova)}">ver a prova inteira</a>` : '';
-    if (!partes && u === '#') return '';
-    return `<p class="fonte">${partes}${u !== '#' ? `${partes ? ' · ' : ''}<a href="${esc(u)}" target="_blank" rel="noopener">fonte ${ic('ext', 'sm')}</a>` : ''}${prova}</p>`;
+    if (!partes && !fonte) return '';
+    return `<p class="fonte">${partes}${fonte ? `${partes ? ' · ' : ''}${fonte}` : ''}${prova}</p>`;
   }
 
   function heatmap(semanas = 16) {
@@ -282,7 +292,8 @@
     }
     const min = Math.floor(segDo(hoje()) / 60);
     for (const el of $$('.js-min-hoje')) el.textContent = min;
-    for (const el of $$('.js-bar-leitura')) el.style.width = `${Math.min(100, 100 * min / meta().minutosLeitura)}%`;
+    const ml = meta().minutosLeitura;
+    for (const el of $$('.js-bar-leitura')) el.style.width = `${ml ? Math.min(100, 100 * min / ml) : 100}%`;
   }
   function alternarTimer() {
     if (S.timer) { dia().seg += timerSeg(); S.timer = null; toast('Tempo de estudo somado à meta de hoje'); }
@@ -300,7 +311,7 @@
   function vInicio() {
     const c = D.idx.concurso, m = meta(), d = S.dias[hoje()] || {};
     const min = Math.floor(segDo(hoje()) / 60);
-    const pq = Math.min(1, (d.questoes || 0) / m.questoes), pl = Math.min(1, min / m.minutosLeitura);
+    const pq = Math.min(1, (d.questoes || 0) / m.questoes), pl = m.minutosLeitura ? Math.min(1, min / m.minutosLeitura) : 1;
     const pv = m.videos ? Math.min(1, (d.videos || 0) / m.videos) : 1;
     const geral = 100 * progressoDia(hoje());
     const erradas = D.qs.filter(q => { const u = ultima(q.id); return u && !u.ok; }).length;
@@ -325,8 +336,8 @@
       <section class="card">
         <div class="card-h"><h2>${ic('alvo')} Meta de hoje</h2><span class="streak">${ic('flame')} ${sequencia()} dia(s) seguidos</span></div>
         ${linha('Questões', d.questoes || 0, m.questoes, pq, '<button class="btn sm" data-act="treino-rapido">Fazer questões</button>')}
-        ${linha('Leitura (min)', `<span class="js-min-hoje">${min}</span>`, m.minutosLeitura, pl,
-          '<button class="btn sm js-timer" data-act="timer"></button><button class="btn sm ghost" data-act="mais15">+15 min</button>', 'js-bar-leitura')}
+        ${m.minutosLeitura ? linha('Leitura (min)', `<span class="js-min-hoje">${min}</span>`, m.minutosLeitura, pl,
+          '<button class="btn sm js-timer" data-act="timer"></button><button class="btn sm ghost" data-act="mais15">+15 min</button>', 'js-bar-leitura') : ''}
         ${m.videos ? linha('Vídeos', d.videos || 0, m.videos, pv, '<a class="btn sm" href="#/videos">Escolher vídeo</a>') : ''}
       </section>
       <section class="card">
@@ -357,12 +368,16 @@
     </section>`;
   }
 
+  // Tarefa do plano marcada pelo texto, não pela posição: mudar a ordem no plano.json não troca as marcas.
+  const hashTexto = t => { let h = 2166136261; for (const c of String(t)) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return (h >>> 0).toString(36); };
+  const chaveTarefa = (w, i) => `${w.n}:${hashTexto((w.tarefas || [])[i] || '')}`;
+  const tarefaFeita = (w, i) => marcado(S.tarefas, chaveTarefa(w, i)) || (S.tarefas[chaveTarefa(w, i)] === undefined && marcado(S.tarefas, `${w.n}:${i}`));
+
   function tarefasHtml(w) {
     const t = w.tarefas || [];
     if (!t.length) return '';
     return `<ul class="tasks">${t.map((x, i) => {
-      const k = `${w.n}:${i}`;
-      return `<li><label><input type="checkbox" data-act="tarefa" data-k="${esc(k)}" ${marcado(S.tarefas, k) ? 'checked' : ''}><span>${esc(x)}</span></label></li>`;
+      return `<li><label><input type="checkbox" data-act="tarefa" data-k="${esc(chaveTarefa(w, i))}" data-velha="${esc(`${w.n}:${i}`)}" ${tarefaFeita(w, i) ? 'checked' : ''}><span>${esc(x)}</span></label></li>`;
     }).join('')}</ul>`;
   }
 
@@ -461,12 +476,14 @@
       <div class="row gap wrap"><button class="btn sm ${visto ? 'ok' : ''}" data-act="visto" data-y="${esc(v.youtubeId)}">${visto ? `${ic('check')} Assistido` : 'Marcar como assistido'}</button>${extra}</div>`;
   };
   const vinfoFeed = x => vinfo(x.v, `<a class="btn sm" href="#/a/${x.d.id}/${x.a.id}">${ic('trilhas')} Ir para a aula</a><button class="btn sm ghost" data-act="lb-fechar">${ic('x')} Fechar</button>`);
+  const chaveLeitura = l => l.url || `sem-link:${l.titulo || ''}`;
   const leituraHtml = l => {
-    const lido = marcado(S.leituras, l.url);
+    const k = chaveLeitura(l), lido = marcado(S.leituras, k);
+    const titulo = /^https?:\/\//i.test(l.url || '') ? `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.titulo)} ${ic('ext', 'sm')}</a>` : `<b>${esc(l.titulo)}</b>`;
     return `<li class="leitura ${lido ? 'feito' : ''}"><span class="rtipo">${esc(TIPO[l.tipo] || l.tipo || 'Link')}</span>
-      <div class="rt"><a href="${esc(urlSegura(l.url))}" target="_blank" rel="noopener">${esc(l.titulo)} ${ic('ext', 'sm')}</a>
+      <div class="rt">${titulo}
       ${l.nota ? `<small>${esc(l.nota)}</small>` : ''}${l.gratuito === false ? '<small class="warn">Pago</small>' : ''}</div>
-      <button class="chk ${lido ? 'on' : ''}" data-act="lido" data-u="${esc(l.url)}" title="Marcar como lido" aria-label="Marcar como lido">${ic('check')}</button></li>`;
+      <button class="chk ${lido ? 'on' : ''}" data-act="lido" data-u="${esc(k)}" title="Marcar como lido" aria-label="Marcar como lido">${ic('check')}</button></li>`;
   };
 
   function abaHtml(d, a, aba) {
@@ -724,17 +741,17 @@
         <button class="btn" data-act="simulado" data-f="0.5">Meio simulado (20 · 1h30)</button></div>
     </section>
     ${hist.length ? `<section class="card"><div class="card-h"><h2>${ic('trofeu')} Seus simulados</h2></div><ul class="hist">${hist.map(s =>
-      `<li><span>${new Date(s.ts).toLocaleDateString('pt-BR')}</span><b>${s.pts}/${s.max} pontos</b><span>${s.ok}/${s.n} acertos</span>${barra(s.max ? 100 * s.pts / s.max : 0)}</li>`).join('')}</ul></section>` : ''}`;
+      `<li><span>${new Date(Number(s.ts) || 0).toLocaleDateString('pt-BR')}</span><b>${Number(s.pts) || 0}/${Number(s.max) || 0} pontos</b><span>${Number(s.ok) || 0}/${Number(s.n) || 0} acertos</span>${barra(Number(s.max) ? 100 * Number(s.pts) / Number(s.max) : 0)}</li>`).join('')}</ul></section>` : ''}`;
   }
 
   function vPlano() {
     const p = D.plano, m = meta(), k = hoje(), wa = semanaAtual();
     return `<h1 class="pg">Plano de estudos</h1>
-    <p class="sub">Meta diária: <b>${m.questoes} questões</b>, <b>${m.minutosLeitura} min de leitura</b>${m.videos ? ` e <b>${m.videos} vídeo(s)</b>` : ''}. Dá para mudar em <a href="#/ajustes">Progresso</a>.</p>
+    <p class="sub">Meta diária: <b>${m.questoes} questões</b>${m.minutosLeitura ? `, <b>${m.minutosLeitura} min de leitura</b>` : ''}${m.videos ? ` e <b>${m.videos} vídeo(s)</b>` : ''}. Dá para mudar em <a href="#/ajustes">Progresso</a>.</p>
     <section class="card"><div class="card-h"><h2>${ic('flame')} Constância</h2><span class="muted">${sequencia()} dia(s) seguidos</span></div>${heatmap(20)}</section>
     ${p?.semanas?.length ? `<div class="semanas">${p.semanas.map(w => {
       const atual = wa && wa.n === w.n, passou = w.fim < k;
-      const t = w.tarefas || [], feitas = t.filter((_, i) => marcado(S.tarefas, `${w.n}:${i}`)).length;
+      const t = w.tarefas || [], feitas = t.filter((_, i) => tarefaFeita(w, i)).length;
       return `<details class="semana ${atual ? 'atual' : ''} ${atual && wa.proxima ? 'proxima' : ''} ${passou ? 'passou' : ''}" ${atual ? 'open' : ''}>
         <summary><span class="wn">Semana ${esc(w.n)}</span><span class="wd">${fmtCurta(w.inicio)} – ${fmtCurta(w.fim)}</span>
         <span class="wf">${esc(w.foco || '')}</span><span class="wp">${feitas}/${t.length}</span></summary>
@@ -855,7 +872,7 @@
     for (const d of D.discs) for (const a of d.assuntos) for (const l of a.leituras || []) todos.push({ d, a, l });
     const tipos = Object.keys(TIPO).filter(t => todos.some(x => tipoDe(x.l) === t));
     const vis = todos.filter(x => (!BIB.tipo || tipoDe(x.l) === BIB.tipo) && (!BIB.disc || x.d.id === BIB.disc));
-    const lidas = todos.filter(x => marcado(S.leituras, x.l.url)).length;
+    const lidas = todos.filter(x => marcado(S.leituras, chaveLeitura(x.l))).length;
     const grupos = [];
     for (const x of vis) {
       let g = grupos[grupos.length - 1];
@@ -928,6 +945,7 @@
     [/^#\/edital$/, () => vEdital(), 'edital'],
     [/^#\/ajustes$/, () => vAjustes(), 'ajustes'],
     [/^#\/mais$/, () => vMais(), 'mais'],
+    [/^#\/sync-confirmar$/, () => vSyncConfirmar(), 'ajustes'],
   ];
   const NAV = [['#/', 'home', 'Início', 'inicio'], ['#/trilhas', 'trilhas', 'Trilhas', 'trilhas'], ['#/questoes', 'questoes', 'Questões', 'questoes'],
     ['#/simulado', 'simulado', 'Simulado', 'simulado'], ['#/biblioteca', 'ler', 'Biblioteca', 'biblioteca'], ['#/videos', 'video', 'Vídeos', 'videos'],
@@ -1064,6 +1082,17 @@
         .catch(e => { toast(`Não deu para sincronizar agora: ${e.message}`); redesenharSePuder(); });
     },
     'sync-desligar': () => { gravarSync(null); toast('Sincronização desligada neste aparelho'); rota(); },
+    'sync-confirmar': () => {
+      const p = syncPendente; syncPendente = null;
+      if (!p) { location.hash = '#/'; return; }
+      gravarSync({ url: p.url, chave: p.chave, ok: 0, erro: '' });
+      location.hash = '#/';
+      toast('Sincronização ligada. Juntando o progresso…');
+      sincronizar()
+        .then(n => { toast(n ? `Sincronização ligada: ${n} resposta(s) de outros aparelhos somadas.` : 'Sincronização ligada. Tudo em dia.'); redesenharSePuder(); })
+        .catch(e => toast(`Sincronização ligada, mas o Drive não respondeu agora (${e.message}). Tento de novo depois.`));
+    },
+    'sync-cancelar': () => { syncPendente = null; location.hash = '#/'; toast('Nada mudou na sincronização.'); },
     exportar: () => {
       const dados = Object.assign({}, S, { timer: null });
       const blob = new Blob([JSON.stringify(dados)], { type: 'application/json' });
@@ -1084,12 +1113,28 @@
 
   // Junta um progresso de fora (arquivo exportado, pop-up do Windows ou Drive) com o deste aparelho, sem contar nada em dobro.
   // Mesma regra do servidor (scripts/drive-sync/Codigo.gs): respostas pelo ts, marcas pelo |ts| maior, meta pela mais nova.
+  // Tudo que vem de fora é validado: horário com teto (um ts no futuro venceria para sempre), números de verdade e
+  // só os campos conhecidos (texto de fora nunca chega ao HTML).
+  const tsMax = () => Date.now() + 864e5;
+  const tsOk = v => { const n = Number(v); return Number.isFinite(n) && Math.abs(n) <= tsMax() ? n : 0; };
+  const numOk = (v, min, max) => { const n = Number(v); return Number.isFinite(n) ? Math.min(max, Math.max(min, Math.round(n))) : null; };
+  function metaLimpa(m) {
+    if (!m || typeof m !== 'object') return null;
+    const ts = tsOk(m.ts);
+    if (ts <= 0) return null;
+    if (m.padrao) return { padrao: true, ts };
+    const q = numOk(m.questoes, 1, 300), l = numOk(m.minutosLeitura, 0, 600), v = numOk(m.videos, 0, 20);
+    return q === null || l === null || v === null ? null : { questoes: q, minutosLeitura: l, videos: v, ts };
+  }
   function mesclarEstado(o) {
     let novas = 0;
     for (const [id, h] of Object.entries(o.resp || {})) {
       if (!Array.isArray(h) || !chaveOk(id)) continue;
       const cur = S.resp[id] || [], ts = new Set(cur.map(x => x.ts));
-      const add = h.filter(x => x && typeof x.ts === 'number' && !ts.has(x.ts));
+      // Com 20 respostas guardadas, uma mais antiga que todas já foi contada um dia: não entra de novo.
+      const corte = cur.length >= 20 ? cur[0].ts : 0;
+      const add = h.filter(x => x && Number.isFinite(x.ts) && x.ts > corte && x.ts <= tsMax() && !ts.has(x.ts))
+        .map(x => ({ ts: x.ts, e: Number.isInteger(x.e) ? x.e : -1, ok: x.ok === true }));
       if (!add.length) continue;
       for (const x of add) { const d = dia(ymd(new Date(x.ts))); d.questoes++; if (x.ok) d.acertos++; }
       novas += add.length;
@@ -1097,18 +1142,24 @@
     }
     for (const k of ['videos', 'leituras', 'concluidos', 'tarefas']) {
       for (const [id, v] of Object.entries(o[k] || {})) {
-        const n = typeof v === 'number' ? v : (v ? 1 : 0);
-        if (chaveOk(id) && Math.abs(n) > Math.abs(Number(S[k][id]) || 0)) S[k][id] = n;
+        const n = typeof v === 'number' ? tsOk(v) : (v === true ? 1 : 0);
+        if (n && chaveOk(id) && Math.abs(n) > Math.abs(Number(S[k][id]) || 0)) S[k][id] = n;
       }
     }
     for (const [k, v] of Object.entries(o.dias || {})) {
       if (!v || typeof v !== 'object' || !/^\d{4}-\d{2}-\d{2}$/.test(k)) continue;
       const c = dia(k);
-      c.seg = Math.max(c.seg || 0, Number(v.seg) || 0); c.videos = Math.max(c.videos || 0, Number(v.videos) || 0);
+      c.seg = Math.max(c.seg || 0, numOk(v.seg, 0, 86400) || 0); c.videos = Math.max(c.videos || 0, numOk(v.videos, 0, 100) || 0);
     }
-    const sims = new Map([...(S.simulados || []), ...(Array.isArray(o.simulados) ? o.simulados : [])].filter(x => x && x.ts).map(x => [x.ts, x]));
+    const simLimpo = x => {
+      if (!x || typeof x !== 'object') return null;
+      const s = { ts: tsOk(x.ts), pts: numOk(x.pts, 0, 1000), max: numOk(x.max, 0, 1000), n: numOk(x.n, 0, 1000), ok: numOk(x.ok, 0, 1000) };
+      return s.ts > 0 && Object.values(s).every(v => v !== null) ? s : null;
+    };
+    const sims = new Map([...(S.simulados || []), ...(Array.isArray(o.simulados) ? o.simulados.map(simLimpo) : [])].filter(Boolean).map(x => [x.ts, x]));
     S.simulados = [...sims.values()].sort((a, b) => a.ts - b.ts);
-    if (o.meta && typeof o.meta === 'object' && (Number(o.meta.ts) || 0) > (Number(S.meta?.ts) || 0)) S.meta = o.meta;
+    const mm = metaLimpa(o.meta);
+    if (mm && mm.ts > (Number(S.meta?.ts) || 0)) S.meta = mm;
     return novas;
   }
   function mesclar(o) {
@@ -1207,16 +1258,35 @@
       el.innerHTML = cfg ? `${ic('nuvem', 'sm')} ${erro ? 'Drive: não sincronizou' : cfg.ok ? `Drive: sincronizado ${hhmm(cfg.ok)}` : 'Drive: ligado'}` : '';
     }
   }
+  // O link #/sync nunca liga nem troca nada sozinho: mostra o endereço e pede confirmação na tela (um link montado
+  // por outra pessoa poderia apontar para outro Apps Script).
+  let syncPendente = null;
   function ligarSync(params) {
     const u = params.get('u') || '', t = params.get('t') || '';
-    history.replaceState(null, '', `${location.pathname}${location.search}#/`); // tira a chave da barra de endereço
-    if (!SYNC_URL.test(u) || !/^[\w-]{16,128}$/.test(t)) { rota(); toast('Esse link de sincronização não é válido.'); return; }
-    gravarSync({ url: u, chave: t, ok: 0, erro: '' });
+    history.replaceState(null, '', `${location.pathname}${location.search}#/sync-confirmar`); // tira a chave da barra de endereço
+    syncPendente = SYNC_URL.test(u) && /^[\w-]{16,128}$/.test(t) ? { url: u, chave: t } : null;
+    if (!syncPendente) { history.replaceState(null, '', `${location.pathname}${location.search}#/`); rota(); toast('Esse link de sincronização não é válido.'); return; }
+    const atual = syncCfg();
+    if (atual && atual.url === u && atual.chave === t) {
+      syncPendente = null; history.replaceState(null, '', `${location.pathname}${location.search}#/`); rota();
+      toast('A sincronização já estava ligada com este endereço.'); return;
+    }
     rota();
-    toast('Sincronização ligada. Juntando o progresso…');
-    sincronizar()
-      .then(n => { toast(n ? `Sincronização ligada: ${n} resposta(s) de outros aparelhos somadas.` : 'Sincronização ligada. Tudo em dia.'); redesenharSePuder(); })
-      .catch(e => toast(`Sincronização ligada, mas o Drive não respondeu agora (${e.message}). Tento de novo depois.`));
+  }
+  function vSyncConfirmar() {
+    const p = syncPendente, atual = syncCfg();
+    if (!p) return `<h1 class="pg">Sincronizar com o Drive</h1>${vazio('nuvem', 'Abra de novo o link de sincronização. <a href="#/">Voltar ao início</a>')}`;
+    const curto = u => u.replace(/^https:\/\//, '').replace(/^(.{28}).{6,}(.{10})$/, '$1…$2');
+    return `<h1 class="pg">Ligar a sincronização?</h1>
+    <section class="card">
+      <p>Este aparelho vai juntar o progresso com o Apps Script neste endereço:</p>
+      <p><code>${esc(curto(p.url))}</code></p>
+      ${atual ? `<p class="warn">Isso troca a sincronização atual (<code>${esc(curto(atual.url))}</code>) por esta.</p>` : ''}
+      <p class="muted">Só confirme se o link veio do passo a passo do <b>seu</b> Apps Script (o que roda na sua conta pessoal do Google).
+        Se alguém te mandou este link, cancele.</p>
+      <div class="row gap wrap mt"><button class="btn pri" data-act="sync-confirmar">${ic('nuvem')} Ligar a sincronização</button>
+        <button class="btn ghost" data-act="sync-cancelar">Cancelar</button></div>
+    </section>`;
   }
 
   document.addEventListener('click', e => {
@@ -1231,7 +1301,11 @@
   document.addEventListener('change', async e => {
     const t = e.target;
     if (t.dataset.f && t.tagName === 'SELECT') { F[t.dataset.f] = t.dataset.f === 'n' ? Number(t.value) : t.value; rota(); return; }
-    if (t.dataset.act === 'tarefa') { marcar(S.tarefas, t.dataset.k, t.checked); salvar(); return; }
+    if (t.dataset.act === 'tarefa') {
+      marcar(S.tarefas, t.dataset.k, t.checked);
+      if (S.tarefas[t.dataset.velha] !== undefined) marcar(S.tarefas, t.dataset.velha, false); // marca antiga, pela posição
+      salvar(); return;
+    }
     if (t.id === 'importar' && t.files[0]) {
       try { const n = mesclar(JSON.parse(await t.files[0].text())); toast(`Importado: ${n} resposta(s) nova(s) somada(s)`); rota(); }
       catch (err) { toast(`Não deu para importar: ${err.message}`); }
