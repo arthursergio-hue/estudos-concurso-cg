@@ -11,6 +11,17 @@
   "duracaoMin": 300
  },
  {
+  "id": "idecan-2022-tjpi-arquiteto",
+  "titulo": "Arquiteto — TJ-PI",
+  "banca": "IDECAN",
+  "ano": 2022,
+  "orgao": "Tribunal de Justiça do Piauí",
+  "cargo": "Arquiteto",
+  "arquivo": "data/provas/idecan-2022-tjpi-arquiteto.json",
+  "nQuestoes": 100,
+  "duracaoMin": 270
+ },
+ {
   "id": "idecan-2018-crfsp-arquiteto",
   "titulo": "Arquiteto — CRF-SP (2018)",
   "banca": "IDECAN",
