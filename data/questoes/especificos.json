@@ -497,7 +497,7 @@
    "0,20 m"
   ],
   "correta": 2,
-  "comentario": "**Por que \"0,30 m\":** a fórmula de Blondel relaciona o piso (p) e o espelho (e) do degrau com o passo humano: **0,63 m ≤ p + 2e ≤ 0,65 m**. Com e = 0,17 m, 2e = 0,34 m. Então 0,63 − 0,34 ≤ p ≤ 0,65 − 0,34, ou seja, **0,29 m ≤ p ≤ 0,31 m**. Das opções, só 0,30 m atende. Ele também respeita os limites próprios da NBR 9050: piso entre 0,28 m e 0,32 m e espelho entre 0,16 m e 0,18 m.\n\n**As outras:**\n- *0,20 m*: p + 2e = 0,54 m, bem abaixo de 0,63 m; degrau curto demais para o pé.\n- *0,25 m*: p + 2e = 0,59 m, ainda abaixo do mínimo, e menor que o piso mínimo de 0,28 m.\n- *0,34 m*: p + 2e = 0,68 m, acima de 0,65 m e do piso máximo de 0,32 m. É o valor de 2e: armadilha para quem para a conta no meio.\n\n**Para memorizar:** Blondel da NBR 9050 = 63 a 65 cm. A NBR 9077 (saídas de emergência) usa 63 a 64 cm, com espelho de 16 a 18 cm."
+  "comentario": "**Por que \"0,30 m\":** a fórmula de Blondel relaciona o piso (p) e o espelho (e) do degrau com o passo humano: **0,63 m ≤ p + 2e ≤ 0,65 m**. Com e = 0,17 m, 2e = 0,34 m. Então 0,63 − 0,34 ≤ p ≤ 0,65 − 0,34, ou seja, **0,29 m ≤ p ≤ 0,31 m**. Das opções, só 0,30 m atende. Ele também respeita os limites próprios da NBR 9050: piso entre 0,28 m e 0,32 m e espelho entre 0,16 m e 0,18 m.\n\n**As outras:**\n- *0,20 m*: p + 2e = 0,54 m, bem abaixo de 0,63 m; degrau curto demais para o pé.\n- *0,25 m*: p + 2e = 0,59 m, ainda abaixo do mínimo, e menor que o piso mínimo de 0,28 m.\n- *0,34 m*: p + 2e = 0,68 m, acima de 0,65 m e do piso máximo de 0,32 m. É o valor de 2e: armadilha para quem para a conta no meio.\n\n**Para memorizar:** Blondel da NBR 9050 = 63 a 65 cm. A NBR 9077:2001 (saídas de emergência) usava 63 a 64 cm, com espelho de 16 a 18 cm."
  },
  {
   "id": "esp-0026",
@@ -508,8 +508,8 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
-  "enunciado": "Na ABNT NBR 9077, a unidade de passagem, que é a largura mínima para a passagem de uma fila de pessoas, é de:",
+  "fonte": "ABNT NBR 9077:2001 e NBR 9050:2020",
+  "enunciado": "Na ABNT NBR 9077:2001, a unidade de passagem, que é a largura mínima para a passagem de uma fila de pessoas, é de:",
   "alternativas": [
    "0,80 m",
    "0,60 m",
@@ -517,7 +517,7 @@
    "0,55 m"
   ],
   "correta": 3,
-  "comentario": "**Por que \"0,55 m\":** pela NBR 9077, **unidade de passagem** é a largura mínima para a passagem de uma fila de pessoas, fixada em **0,55 m**. As saídas de emergência (acessos, escadas, rampas, descargas) são dimensionadas em número de unidades de passagem, e a capacidade de uma unidade é o número de pessoas que passam por ela em 1 minuto. Duas unidades somam 1,10 m, a largura mínima das saídas em geral.\n\n**As outras:**\n- *0,50 m*: não é o valor da norma; com ele, duas unidades dariam 1,00 m, e não os 1,10 m exigidos.\n- *0,60 m*: também não é o valor; mudaria toda a conta de largura das saídas.\n- *0,80 m*: na NBR 9077 é a luz mínima de uma porta de saída, que vale por uma unidade de passagem (e, na NBR 9050, o vão livre de porta acessível); não é a unidade em si.\n\n**Para memorizar:** 1 unidade = 0,55 m; 2 = 1,10 m (mínimo geral); 4 = 2,20 m (hospital com internação)."
+  "comentario": "**Por que \"0,55 m\":** pela NBR 9077:2001, **unidade de passagem** é a largura mínima para a passagem de uma fila de pessoas, fixada em **0,55 m**. As saídas de emergência (acessos, escadas, rampas, descargas) eram dimensionadas em número de unidades de passagem, e a capacidade de uma unidade é o número de pessoas que passam por ela em 1 minuto. Duas unidades somam 1,10 m, a largura mínima das saídas em geral.\n\n**Atenção, a norma mudou:** a NBR 9077:2025 substituiu a de 2001 e deixou de usar unidades de passagem: a largura passou a ser calculada por pessoa, conforme o perfil de risco dos ocupantes. A unidade de 0,55 m segue em instruções técnicas de bombeiros estaduais e em questões que citam a edição de 2001.\n\n**As outras:**\n- *0,50 m*: não é o valor da norma; com ele, duas unidades dariam 1,00 m, e não os 1,10 m exigidos.\n- *0,60 m*: também não é o valor; mudaria toda a conta de largura das saídas.\n- *0,80 m*: na NBR 9077:2001 é a luz mínima de uma porta de saída, que vale por uma unidade de passagem (e, na NBR 9050, o vão livre de porta acessível); não é a unidade em si.\n\n**Para memorizar:** 1 unidade = 0,55 m; 2 = 1,10 m (mínimo geral); 4 = 2,20 m (hospital com internação)."
  },
  {
   "id": "esp-0027",
@@ -528,8 +528,8 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
-  "enunciado": "Um pavimento tem população de 240 pessoas e, para a ocupação considerada, a capacidade da unidade de passagem nas escadas é de 60 pessoas. Pela ABNT NBR 9077, a largura mínima da escada é de:",
+  "fonte": "ABNT NBR 9077:2001 e NBR 9050:2020",
+  "enunciado": "Um pavimento tem população de 240 pessoas e, para a ocupação considerada, a capacidade da unidade de passagem nas escadas é de 60 pessoas. Pela ABNT NBR 9077:2001, a largura mínima da escada é de:",
   "alternativas": [
    "1,65 m",
    "2,20 m",
@@ -537,7 +537,7 @@
    "2,40 m"
   ],
   "correta": 1,
-  "comentario": "**Por que \"2,20 m\":** a NBR 9077 calcula a largura das saídas pela fórmula **N = P / C**: N é o número de unidades de passagem, P a população e C a capacidade da unidade (pessoas por minuto, dada na Tabela 5 conforme a ocupação e o tipo de saída: acesso, escada ou porta). Aqui: N = 240 / 60 = **4 unidades**. Largura = 4 × 0,55 m = **2,20 m**. N é sempre inteiro: se a divisão não for exata, arredonda-se para cima, a favor da segurança.\n\n**As outras:**\n- *1,10 m*: são 2 unidades (2 × 0,55 m), o mínimo absoluto para saídas em geral; com C = 60, atenderia só 120 pessoas.\n- *1,65 m*: são 3 unidades (3 × 0,55 m), suficientes para 180 pessoas, não para 240.\n- *2,40 m*: resulta de usar 0,60 m por unidade (4 × 0,60 m); a unidade de passagem é 0,55 m.\n\n**Para memorizar:** divide a população pela capacidade, arredonda para cima, multiplica por 0,55 m e confere o mínimo de 1,10 m."
+  "comentario": "**Por que \"2,20 m\":** a NBR 9077:2001 calcula a largura das saídas pela fórmula **N = P / C**: N é o número de unidades de passagem, P a população e C a capacidade da unidade (pessoas por minuto, dada na Tabela 5 conforme a ocupação e o tipo de saída: acesso, escada ou porta). Aqui: N = 240 / 60 = **4 unidades**. Largura = 4 × 0,55 m = **2,20 m**. N é sempre inteiro: se a divisão não for exata, arredonda-se para cima, a favor da segurança.\n\n**As outras:**\n- *1,10 m*: são 2 unidades (2 × 0,55 m), o mínimo absoluto para saídas em geral; com C = 60, atenderia só 120 pessoas.\n- *1,65 m*: são 3 unidades (3 × 0,55 m), suficientes para 180 pessoas, não para 240.\n- *2,40 m*: resulta de usar 0,60 m por unidade (4 × 0,60 m); a unidade de passagem é 0,55 m.\n\n**Para memorizar:** divide a população pela capacidade, arredonda para cima, multiplica por 0,55 m e confere o mínimo de 1,10 m. É a conta da edição de 2001: a NBR 9077:2025 trocou as unidades de passagem por largura por pessoa."
  },
  {
   "id": "esp-0028",
@@ -548,8 +548,8 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
-  "enunciado": "Pela ABNT NBR 9077, a largura mínima das saídas de emergência em geral e a largura mínima exigida nas ocupações hospitalares com internação (H-3), para passagem de macas e camas, são, respectivamente:",
+  "fonte": "ABNT NBR 9077:2001 e NBR 9050:2020",
+  "enunciado": "Pela ABNT NBR 9077:2001, a largura mínima das saídas de emergência em geral e a largura mínima exigida nas ocupações hospitalares com internação (H-3), para passagem de macas e camas, são, respectivamente:",
   "alternativas": [
    "1,10 m e 1,65 m",
    "1,10 m e 2,20 m",
@@ -557,7 +557,7 @@
    "1,20 m e 1,50 m"
   ],
   "correta": 1,
-  "comentario": "**Por que \"1,10 m e 2,20 m\":** o item 4.4.2 da NBR 9077 fixa as larguras mínimas das saídas \"em qualquer caso\": **1,10 m** para as ocupações em geral, que correspondem a duas unidades de passagem de 0,55 m; e **2,20 m** nas ocupações do grupo H, divisão H-3 (hospitais e assemelhados, como casas de saúde e clínicas com internação), para permitir a passagem de **macas e camas**. Esse é o piso: se o cálculo N = P/C der largura maior, vale a maior.\n\n**As outras:**\n- *1,20 m e 1,50 m*: 1,20 m é o mínimo de corredores na NBR 9050 (e base de algumas normas estaduais de bombeiros), não o da NBR 9077; 1,50 m não é a largura para macas.\n- *0,90 m e 1,80 m*: 0,90 m nem chega a duas unidades de passagem; 1,80 m não é valor da norma.\n- *1,10 m e 1,65 m*: o primeiro está certo, mas 1,65 m equivale a 3 unidades e fica abaixo dos 2,20 m exigidos para H-3.\n\n**Para memorizar:** geral = 2 unidades = 1,10 m; hospital com internação = 4 unidades = 2,20 m."
+  "comentario": "**Por que \"1,10 m e 2,20 m\":** o item 4.4.2 da NBR 9077:2001 fixa as larguras mínimas das saídas \"em qualquer caso\": **1,10 m** para as ocupações em geral, que correspondem a duas unidades de passagem de 0,55 m; e **2,20 m** nas ocupações do grupo H, divisão H-3 (hospitais e assemelhados, como casas de saúde e clínicas com internação), para permitir a passagem de **macas e camas**. Esse é o piso: se o cálculo N = P/C der largura maior, vale a maior.\n\n**As outras:**\n- *1,20 m e 1,50 m*: na NBR 9050, 1,20 m é a largura mínima de corredor de uso comum com até 10 m de extensão (até 4 m bastam 0,90 m), não a da NBR 9077; 1,50 m não é a largura para macas.\n- *0,90 m e 1,80 m*: 0,90 m nem chega a duas unidades de passagem; 1,80 m não é valor da norma.\n- *1,10 m e 1,65 m*: o primeiro está certo, mas 1,65 m equivale a 3 unidades e fica abaixo dos 2,20 m exigidos para H-3.\n\n**Para memorizar:** geral = 2 unidades = 1,10 m; hospital com internação = 4 unidades = 2,20 m (valores da edição de 2001; a de 2025 calcula a largura por pessoa)."
  },
  {
   "id": "esp-0029",
@@ -597,7 +597,7 @@
    "2,90 m"
   ],
   "correta": 2,
-  "comentario": "**Por que \"3,20 m\":** a NBR 9050 exige que as escadas fixas tenham patamar **no máximo a cada 3,20 m de desnível** e **sempre que houver mudança de direção**. O patamar é ponto de descanso: limita a sequência de degraus, ajuda quem tem pouca resistência física e reduz a altura de uma eventual queda.\n\n**As outras:**\n- *2,50 m*: não é limite da norma; seria mais rigoroso que o exigido.\n- *2,90 m*: também não aparece como limite; é um valor intermediário para confundir.\n- *3,70 m*: é o limite da **NBR 9077** (saídas de emergência): lá, um lanço não pode subir mais de 3,70 m nem ter menos de três degraus. Para a NBR 9050, o teto é 3,20 m.\n\n**Para memorizar:** NBR 9050 (acessibilidade) = patamar a cada 3,20 m; NBR 9077 (incêndio) = lanço de até 3,70 m. A de acessibilidade é a mais rigorosa."
+  "comentario": "**Por que \"3,20 m\":** a NBR 9050 exige que as escadas fixas tenham patamar **no máximo a cada 3,20 m de desnível** e **sempre que houver mudança de direção**. O patamar é ponto de descanso: limita a sequência de degraus, ajuda quem tem pouca resistência física e reduz a altura de uma eventual queda.\n\n**As outras:**\n- *2,50 m*: não é limite da norma; seria mais rigoroso que o exigido.\n- *2,90 m*: também não aparece como limite; é um valor intermediário para confundir.\n- *3,70 m*: é o limite da **NBR 9077:2001** (saídas de emergência): lá, um lanço não pode subir mais de 3,70 m nem ter menos de três degraus. Para a NBR 9050, o teto é 3,20 m.\n\n**Para memorizar:** NBR 9050 (acessibilidade) = patamar a cada 3,20 m; NBR 9077:2001 (incêndio) = lanço de até 3,70 m. A de acessibilidade é a mais rigorosa."
  },
  {
   "id": "esp-0031",
@@ -608,8 +608,8 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 9077 e NBR 9050:2020",
-  "enunciado": "Na ABNT NBR 9077, a escada à prova de fumaça (PF) caracteriza-se por:",
+  "fonte": "ABNT NBR 9077:2001 e NBR 9050:2020",
+  "enunciado": "Na ABNT NBR 9077:2001, a escada à prova de fumaça (PF) caracteriza-se por:",
   "alternativas": [
    "ser enclausurada por paredes resistentes ao fogo, com acesso por antecâmara ventilada (ou balcão/terraço) e portas corta-fogo, impedindo a entrada de fumaça",
    "não possuir paredes, com ventilação natural permanente em todos os lados",
@@ -617,7 +617,7 @@
    "ser externa, em estrutura metálica sem qualquer proteção"
   ],
   "correta": 0,
-  "comentario": "**Por que \"ser enclausurada por paredes resistentes ao fogo, com acesso…\":** pela NBR 9077, a escada **à prova de fumaça (PF)** tem a caixa envolvida por **paredes corta-fogo** e portas corta-fogo, e o acesso se faz por **antecâmara** ventilada, terraço ou balcão (item 4.7.11). A antecâmara funciona como uma eclusa: a fumaça que escapa do andar fica ali e é ventilada para fora, sem chegar à escada. A norma pede caixa com paredes resistentes a 4 h de fogo e porta estanque à fumaça e resistente a 30 min (P-30) entre a escada e a antecâmara.\n\n**As outras:**\n- *não possuir paredes, com ventilação natural permanente…*: descreve uma escada aberta, sem enclausuramento; é o oposto da PF.\n- *ter portas comuns de madeira e janelas de abrir…*: porta comum não resiste ao fogo nem barra a fumaça; a PF exige portas corta-fogo.\n- *ser externa, em estrutura metálica sem qualquer proteção*: aço sem proteção perde resistência rapidamente no incêndio; isso não é PF.\n\n**Para memorizar:** NE = comum; EP = enclausurada protegida; PF = com antecâmara; PFP = pressurizada, que dispensa a antecâmara."
+  "comentario": "**Por que \"ser enclausurada por paredes resistentes ao fogo, com acesso…\":** pela NBR 9077:2001, a escada **à prova de fumaça (PF)** tem a caixa envolvida por **paredes corta-fogo** e portas corta-fogo, e o acesso se faz por **antecâmara** ventilada, terraço ou balcão (item 4.7.11). A antecâmara funciona como uma eclusa: a fumaça que escapa do andar fica ali e é ventilada para fora, sem chegar à escada. A norma pede caixa com paredes resistentes a 4 h de fogo e porta estanque à fumaça e resistente a 30 min (P-30) entre a escada e a antecâmara.\n\n**As outras:**\n- *não possuir paredes, com ventilação natural permanente…*: descreve uma escada aberta, sem enclausuramento; é o oposto da PF.\n- *ter portas comuns de madeira e janelas de abrir…*: porta comum não resiste ao fogo nem barra a fumaça; a PF exige portas corta-fogo.\n- *ser externa, em estrutura metálica sem qualquer proteção*: aço sem proteção perde resistência rapidamente no incêndio; isso não é PF.\n\n**Para memorizar:** NE = comum; EP = enclausurada protegida; PF = com antecâmara; PFP = pressurizada, que dispensa a antecâmara. São as siglas da edição de 2001; a NBR 9077:2025 reorganizou os tipos de escada."
  },
  {
   "id": "esp-0032",
@@ -637,7 +637,7 @@
    "2,00 m"
   ],
   "correta": 3,
-  "comentario": "**Por que \"2,00 m\":** a RDC Anvisa 50/2002 (Parte III, item 4.3, corredores) exige que os corredores de circulação de pacientes ambulantes, em cadeira de rodas, macas ou camas tenham **2,00 m** de largura mínima quando têm **mais de 11 m** de extensão; nos trechos menores, 1,20 m. Corredores só de pessoal e de cargas não volumosas pedem 1,20 m. A largura maior garante que maca e cama circulem e cruzem com outras pessoas sem manobra.\n\n**As outras:**\n- *1,20 m*: é o mínimo dos corredores de pacientes com até 11 m e dos corredores só de pessoal e cargas não volumosas; como o enunciado fala de corredor com mais de 11 m, não serve.\n- *1,50 m*: não é valor da RDC 50 para corredores; lembra o corredor de uso público da NBR 9050.\n- *2,40 m*: maior que o exigido; não é o mínimo.\n\n**Para memorizar:** RDC 50: corredor de pacientes com mais de 11 m = 2,00 m; o resto = 1,20 m. Na NBR 9077, a saída de hospital com internação (H-3) tem no mínimo 2,20 m."
+  "comentario": "**Por que \"2,00 m\":** a RDC Anvisa 50/2002 (Parte III, item 4.3, corredores) exige que os corredores de circulação de pacientes ambulantes, em cadeira de rodas, macas ou camas tenham **2,00 m** de largura mínima quando têm **mais de 11 m** de extensão; nos trechos menores, 1,20 m. Corredores só de pessoal e de cargas não volumosas pedem 1,20 m. A largura maior garante que maca e cama circulem e cruzem com outras pessoas sem manobra.\n\n**As outras:**\n- *1,20 m*: é o mínimo dos corredores de pacientes com até 11 m e dos corredores só de pessoal e cargas não volumosas; como o enunciado fala de corredor com mais de 11 m, não serve.\n- *1,50 m*: não é valor da RDC 50 para corredores; lembra o corredor de uso público da NBR 9050.\n- *2,40 m*: maior que o exigido; não é o mínimo.\n\n**Para memorizar:** RDC 50: corredor de pacientes com mais de 11 m = 2,00 m; o resto = 1,20 m. Na NBR 9077:2001, a saída de hospital com internação (H-3) tem no mínimo 2,20 m."
  },
  {
   "id": "esp-0033",
@@ -1177,7 +1177,7 @@
    "radier"
   ],
   "correta": 3,
-  "comentario": "**Por que \"radier\":** a NBR 6122 define o **radier** como o elemento de fundação superficial que **abrange parte ou todos os pilares** da estrutura e distribui os carregamentos ao solo. Funciona como uma grande laje apoiada no terreno. É indicado quando o solo tem baixa capacidade de carga e as sapatas ficariam tão grandes que quase se encostariam, e ajuda a uniformizar recalques.\n\n**As outras:**\n- *sapata isolada*: recebe **um único pilar**. Quando uma sapata serve a mais de um pilar, a norma a chama de sapata associada.\n- *estaca*: é fundação **profunda**, executada só com equipamentos ou ferramentas, sem descida de pessoas em nenhuma fase.\n- *viga baldrame*: é a viga no nível do solo que recebe as paredes do térreo e leva a carga às sapatas, blocos ou estacas; não é uma laje sob os pilares.\n\n**Para memorizar:** sapata isolada = 1 pilar; sapata associada = mais de um pilar; radier = parte ou todos os pilares numa grande laje."
+  "comentario": "**Por que \"radier\":** o enunciado reproduz a definição da NBR 6122:2010: elemento de fundação superficial que **abrange parte ou todos os pilares** da estrutura e distribui os carregamentos ao solo. A NBR 6122:2019 passou a defini-lo como fundação rasa **dotada de rigidez** para receber e distribuir **mais de 70% das cargas** da estrutura. Nas duas, é uma grande laje apoiada no terreno. É indicado quando o solo tem baixa capacidade de carga e as sapatas ficariam tão grandes que quase se encostariam, e ajuda a uniformizar recalques.\n\n**As outras:**\n- *sapata isolada*: recebe **um único pilar**. Quando uma sapata serve a mais de um pilar, a norma a chama de sapata associada.\n- *estaca*: é fundação **profunda**, executada só com equipamentos ou ferramentas, sem descida de pessoas em nenhuma fase.\n- *viga baldrame*: é a viga no nível do solo que recebe as paredes do térreo e leva a carga às sapatas, blocos ou estacas; não é uma laje sob os pilares.\n\n**Para memorizar:** sapata isolada = 1 pilar; sapata associada = mais de um pilar; radier = parte ou todos os pilares numa grande laje."
  },
  {
   "id": "esp-0060",
@@ -1548,7 +1548,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "Técnicas construtivas (coberturas)",
   "enunciado": "Na estrutura de madeira de um telhado de telhas cerâmicas, a sequência das peças, de baixo para cima, é:",
   "alternativas": [
    "terças, ripas, caibros, tesoura e telhas",
@@ -1568,7 +1568,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "Técnicas construtivas (coberturas)",
   "enunciado": "A aresta inclinada reentrante, formada pelo encontro de duas águas de um telhado, que recolhe e conduz as águas pluviais, denomina-se:",
   "alternativas": [
    "rincão (água-furtada)",
@@ -1588,7 +1588,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "Técnicas construtivas; ABNT NBR 8545",
   "enunciado": "O encunhamento das alvenarias de vedação, isto é, sua fixação à estrutura superior, deve ser executado:",
   "alternativas": [
    "logo após o assentamento da primeira fiada",
@@ -1608,7 +1608,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "Técnicas construtivas; ABNT NBR 8545",
   "enunciado": "Vergas e contravergas em vãos de portas e janelas têm a função de:",
   "alternativas": [
    "servir de marco para fixação da esquadria",
@@ -1628,7 +1628,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "ABNT NBR 7200 e NBR 13749",
   "enunciado": "Em revestimento tradicional de paredes com argamassa, a ordem de aplicação das camadas é:",
   "alternativas": [
    "chapisco, emboço e reboco",
@@ -1688,7 +1688,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "Técnicas construtivas; ABNT NBR 9575 e NBR 9574",
+  "fonte": "ABNT NBR 10821",
   "enunciado": "A janela cujas folhas giram em torno de um eixo horizontal situado na parte superior, projetando-se para fora, é do tipo:",
   "alternativas": [
    "basculante",
@@ -1889,7 +1889,7 @@
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
   "fonte": "ABNT NBR 7229:1993 (substituída pela NBR 17076:2024)",
-  "enunciado": "Na ausência de rede pública de esgoto, a ABNT NBR 7229 trata do projeto, construção e operação de:",
+  "enunciado": "Na ausência de rede pública de esgoto, a antiga ABNT NBR 7229:1993, substituída pela NBR 17076:2024, tratava do projeto, construção e operação de:",
   "alternativas": [
    "poços de captação de água",
    "caixas de gordura",
@@ -2228,7 +2228,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "fonte": "ABNT NBR 7175 e NBR 13281",
   "enunciado": "Na argamassa mista de cimento, cal e areia, a cal hidratada contribui principalmente para:",
   "alternativas": [
    "dar plasticidade e retenção de água, melhorando a trabalhabilidade e a capacidade de absorver pequenas deformações",
@@ -2268,7 +2268,7 @@
   "ano": 2026,
   "orgao": "Prefeitura de Campina Grande/PB (simulado)",
   "cargo": "Inspetor Sanitário – Arquiteto",
-  "fonte": "ABNT NBR 16697 e materiais de construção civil",
+  "fonte": "ABNT NBR ISO 13006 e NBR ISO 10545-7",
   "enunciado": "O índice PEI de placas cerâmicas esmaltadas indica a:",
   "alternativas": [
    "absorção de água",
